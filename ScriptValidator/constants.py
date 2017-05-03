@@ -1,0 +1,20 @@
+ROOT_OPEN = str.encode('<root>')
+ROOT_CLOSE = str.encode('</root>')
+NEWLINE = str.encode('\n')
+END_LINE_OPEN = str.encode('<end_line>')
+END_LINE_CLOSED = str.encode('<end_line/>')
+THREE_DOTS_OPEN = str.encode('<three_dots>')
+THREE_DOTS_CLOSED = str.encode('<three_dots/>')
+INFO_OPEN = str.encode('<info')
+PLAYER_NAME_OPEN = str.encode('<player_name>')
+PLAYER_NAME_CLOSED = str.encode('<player_name/>')
+PLAYER_NICKNAME_OPEN = str.encode('<player_nickname>')
+PLAYER_NICKNAME_CLOSED = str.encode('<player_nickname/>')
+PORTRAIT_L_OPEN = str.encode('<portrait_l')
+PORTRAIT_R_OPEN = str.encode('<portrait_r')
+ASCII_OPEN = str.encode('<ascii>')
+ASCII_CLOSE = str.encode('<ascii/>')
+
+LINE_TAGS = [INFO_OPEN, PORTRAIT_L_OPEN, PORTRAIT_R_OPEN]
+SYMBOLS_OPEN = [END_LINE_OPEN, THREE_DOTS_OPEN, PLAYER_NAME_OPEN, PLAYER_NICKNAME_OPEN]
+SYMBOLS_CLOSED = [END_LINE_CLOSED, THREE_DOTS_CLOSED, PLAYER_NAME_CLOSED, PLAYER_NICKNAME_CLOSED]

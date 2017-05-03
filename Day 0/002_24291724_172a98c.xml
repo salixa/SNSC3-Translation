@@ -1,0 +1,34 @@
+<location>
+	<sjis>
+		ディックル村<end_line/>
+	</sjis>
+</location>
+<location>
+	<sjis>
+		ディックル村　鉱洞入り口<end_line/>
+	</sjis>
+</location>
+<dialogue>
+	<info box="simple"/>
+	<portrait_l name="player"/>
+	<sjis>
+		ここは鉱山なんだけど<end_line/>
+		はぐれが強いから材料探しは<end_line/>
+		別の場所にしよう<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="simple"/>
+	<portrait_l name="man"/>
+	<sjis>
+		ディックル鉱洞は今、立ち入り禁止だよ<end_line/>
+		この間の地震でいろんなとこが<end_line/>
+		くずれてて、あぶないんだ<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="simple"/>
+	<sjis>
+		みぃ～<end_line/>
+	</sjis>
+</dialogue>

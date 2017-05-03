@@ -1,0 +1,38 @@
+<dialogue>
+	<info box="right"/>
+	<portrait_r entry="player" eye="serious" mouth="tense"/>
+	<male>
+		<sjis>
+			あれ？<end_line/>
+			あいつ、どこ行った？<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			あれ？<end_line/>
+			あいつ、どこ行ったの？<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_r entry="player" eye="serious" mouth="yell"/>
+	<male>
+		<sjis>
+			お前に用はないよ！<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			なによ！<end_line/>
+			あんたに用はないって！<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_r entry="player" eye="surprised" mouth="stressed"/>
+	<sjis>
+		うわっ！？<end_line/>
+	</sjis>
+</dialogue>

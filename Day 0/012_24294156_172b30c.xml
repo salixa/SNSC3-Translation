@@ -1,0 +1,83 @@
+<location>
+	<sjis>
+		ロブ工房　工房<end_line/>
+	</sjis>
+</location>
+<dialogue>
+	<info box="special"/>
+	<sjis>
+		セーブポイントでは、アイテムの<end_line/>
+		「思い出日記」を消費することなく<end_line/>
+		セーブする事ができます<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="special"/>
+	<sjis>
+		セーブポイントに向かいＡボタンを<end_line/>
+		押すとセーブする事ができます<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="special"/>
+	<sjis>
+		ベッドでは、体力と魔法の使用回数を<end_line/>
+		何度でも回復する事ができます<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="special"/>
+	<sjis>
+		ベッドに入り、Ａボタンを押すと<end_line/>
+		回復する事ができます<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="simple"/>
+	<portrait_l name="vee"/>
+	<sjis>
+		まだ修行の途中だよ<end_line/>
+		ドコにいくつもりだい？<end_line/>
+	</sjis>
+</dialogue>
+<popup>
+	<sjis>
+		疲れが取れた！<end_line/>
+	</sjis>
+</popup>
+<dialogue>
+	<info box="special"/>
+	<sjis>
+		セーブポイントでは、アイテムの<end_line/>
+		「思い出日記」を消費することなく<end_line/>
+		セーブする事ができます<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="special"/>
+	<sjis>
+		セーブポイントに向かいＡボタンを<end_line/>
+		押すとセーブする事ができます<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="special"/>
+	<sjis>
+		ベッドでは、体力と魔法の使用回数を<end_line/>
+		何度でも回復する事ができます<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="special"/>
+	<sjis>
+		ベッドに入り、Ａボタンを押すと<end_line/>
+		回復する事ができます<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="simple"/>
+	<portrait_l name="vee"/>
+	<sjis>
+		気合い入れていくよ！<end_line/>
+	</sjis>
+</dialogue>

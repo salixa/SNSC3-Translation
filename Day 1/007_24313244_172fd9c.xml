@@ -1,0 +1,28 @@
+<location>
+	<sjis>
+		ロブ工房　２階<end_line/>
+	</sjis>
+</location>
+<dialogue>
+	<info box="simple"/>
+	<portrait_l name="player"/>
+	<sjis>
+		ミューノの様子を見に行こう！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="simple"/>
+	<portrait_l name="vee"/>
+	<sjis>
+		ミューノはアタシがみてるから<end_line/>
+		アンタたちは村長ンとこにいってきな<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="simple"/>
+	<portrait_l name="vee"/>
+	<sjis>
+		ミューノが寝てるんだから<end_line/>
+		おとなしくしてな<end_line/>
+	</sjis>
+</dialogue>

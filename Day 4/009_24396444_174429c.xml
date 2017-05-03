@@ -1,0 +1,21 @@
+<location>
+	<sjis>
+		‘º’·‚Ì‰Æ@LŠÔ<end_line/>
+	</sjis>
+</location>
+<dialogue>
+	<info box="simple"/>
+	<portrait_l name="chief"/>
+	<sjis>
+		’¬‚Å‚Ì—p‚Í‚à‚¤Ï‚ñ‚¾‚Ì‚©H<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="simple"/>
+	<portrait_l name="woman"/>
+	<sjis>
+		d‚ðŠ„‚é‚Ì‚É‚í‚´‚í‚´‹ó’†‚É<end_line/>
+		•ú‚è“Š‚°‚é‹Z‚ª‚ ‚é‚ç‚µ‚¢‚¯‚Ç<end_line/>
+		‚¢‚Á‚½‚¢‰½‚ª‚¨‚à‚µ‚ë‚¢‚Ì‚©‚µ‚ç<end_line/>
+	</sjis>
+</dialogue>

@@ -1,0 +1,790 @@
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="tier" eye="sad" mouth="yell"/>
+	<sjis>
+		あ～あ、やっつけちゃった～<end_line/>
+		せっかくのえものが<three_dots/><end_line/>
+	</sjis>
+	<ascii>
+		Ahh~ My precious prey~<end_line/>
+	</ascii>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="tier" eye="sad" mouth="yell"/>
+	<portrait_r entry="vee" eye="decided" mouth="serious"/>
+	<sjis>
+		まったく何言ってるんだい<end_line/>
+		この娘は<three_dots/><end_line/>
+	</sjis>
+	<ascii>
+		Jeez, just what is the deal<end_line/>
+		with this girl<three_dots/><end_line/>
+	</ascii>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="serious" mouth="neutral"/>
+	<portrait_r entry="murno" eye="sad" mouth="tense"/>
+	<sjis>
+		大丈夫、<player_nickname><end_line/>
+		ケガはない？<end_line/>
+	</sjis>
+	<ascii>
+		Are you alright, <player_nickname>?<end_line/>
+		Any injuries!?<end_line/>
+	</ascii>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="serious" mouth="talk"/>
+	<portrait_r entry="murno" eye="sad" mouth="tense"/>
+	<sjis>
+		平気平気！<end_line/>
+		大丈夫！<end_line/>
+	</sjis>
+	<ascii>
+		I'm fine, I'm fine!<end_line/>
+		But thanks for asking.<end_line/>
+	</ascii>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="serious" mouth="talk"/>
+	<portrait_r entry="tier" eye="serious" mouth="neutral"/>
+	<sjis>
+		ケガだったら、わたし<end_line/>
+		薬を持ってますよ<end_line/>
+		お安くしておきますよ～<end_line/>
+	</sjis>
+	<ascii>
+		If you're hurt,<end_line/>
+		I have some medicine I can sell<end_line/>
+		for reaa~aal cheap~<end_line/>
+	</ascii>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="decided" mouth="serious"/>
+	<portrait_r entry="tier" eye="serious" mouth="neutral"/>
+	<male>
+		<sjis>
+			また金もうけかよ<three_dots/><end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			またお金もうけなの<three_dots/><end_line/>
+		</sjis>
+	</female>
+  <ascii>
+    Asking for money again<three_dots/><end_line/>
+  </ascii>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="vee" eye="sad" mouth="neutral"/>
+	<portrait_r entry="tier" eye="serious" mouth="neutral"/>
+	<sjis>
+		ずいぶんと用意がいいねぇ<end_line/>
+		故郷のばーちゃんみたいだよ<end_line/>
+	</sjis>
+	<ascii>
+		You're very well prepared.<end_line/>
+		Like the granny from my hometown<three_dots/><end_line/>
+	</ascii>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="vee" eye="sad" mouth="neutral"/>
+	<portrait_r entry="tier" eye="sad" mouth="neutral"/>
+	<sjis>
+		あなたのおばあさんは知りませんが<end_line/>
+		森にはキケンがいっぱいですから<end_line/>
+		これぐらいの準備は当然ですよ～<end_line/>
+	</sjis>
+	<ascii>
+		I dunno about your granny,<end_line/>
+		but its only natural that I prepare.<end_line/>
+		The forest is chock-full of dangers.<end_line/>
+	</ascii>
+</dialogue>
+<dialogue>
+	<partner name="run-dor"/>
+	<info box="left"/>
+	<portrait_l entry="partner" eye="decided" mouth="serious"/>
+	<portrait_r entry="tier" eye="sad" mouth="neutral"/>
+	<sjis>
+		先ホドノ戦闘ハ<end_line/>
+		アナタガ原因ダト　判断シマス<end_line/>
+	</sjis>
+	<ascii>
+		Contrarily, You Have Caused Danger<end_line/>
+		By Initiating The Fight Earlier.<end_line/>
+	</ascii>
+</dialogue>
+<dialogue>
+	<partner name="enzi"/>
+	<info box="left"/>
+	<portrait_l entry="partner" eye="decided" mouth="serious"/>
+	<portrait_r entry="tier" eye="sad" mouth="neutral"/>
+	<sjis>
+		我らがこんな目にあっているのは<end_line/>
+		おぬしが不用意に攻撃など<end_line/>
+		したからじゃぞ<end_line/>
+	</sjis>
+	<ascii>
+		We were forced to go through that
+		purely due to your ill-preperation.<end_line/>
+	</ascii>
+</dialogue>
+<dialogue>
+	<partner name="killfith"/>
+	<info box="left"/>
+	<portrait_l entry="partner" eye="decided" mouth="serious"/>
+	<portrait_r entry="tier" eye="sad" mouth="neutral"/>
+	<sjis>
+		キサマがうかつに攻撃したおかげで<end_line/>
+		こんな目にあっているのだがな<end_line/>
+	</sjis>
+	<ascii>
+		How dumb.<end_line/>
+		It's thanks to your stupid move<end_line/>
+		that I went through all that.<end_line/>
+	</ascii>
+</dialogue>
+<dialogue>
+	<partner name="rufeel"/>
+	<info box="left"/>
+	<portrait_l entry="partner" eye="decided" mouth="serious"/>
+	<portrait_r entry="tier" eye="sad" mouth="neutral"/>
+	<sjis>
+		なに言ってるんですか<end_line/>
+		こんな目にあったのは<end_line/>
+		あなたのせいなんですよ<end_line/>
+	</sjis>
+	<ascii>
+		I'm pretty sure it was your fault.<end_line/>
+		You started the fight yourself.<end_line/>
+	</ascii>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="partner" eye="decided" mouth="serious"/>
+	<portrait_r entry="tier" eye="decided" mouth="yell"/>
+	<sjis>
+		なんですって！？<end_line/>
+		あんたたちが勝手に戦ったんでしょ？<end_line/>
+	</sjis>
+	<ascii>
+		Huh!?<end_line/>
+		You were the ones deciding to fight!<end_line/>
+	</ascii>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="partner" eye="decided" mouth="serious"/>
+	<portrait_r entry="tier" eye="decided" mouth="tense"/>
+	<sjis>
+		そんなこと言うくらいなら<end_line/>
+		わたしにまかせておけば<end_line/>
+		よかったじゃない<end_line/>
+	</sjis>
+	<ascii>
+		If you were gonna complain,<end_line/>
+		you should've let me handle it<end_line/>
+		right from the beginning.<end_line/>
+	</ascii>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="vee" eye="decided" mouth="yell"/>
+	<portrait_r entry="tier" eye="decided" mouth="tense"/>
+	<sjis>
+		ムチャ言うんじゃないよ！<end_line/>
+	</sjis>
+	<ascii>
+		What are you blabbering about now!?<end_line/>
+	</ascii>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="vee" eye="decided" mouth="yell"/>
+	<portrait_r entry="tier" eye="decided" mouth="neutral"/>
+	<sjis>
+		見た目で判断しないでよね～<end_line/>
+		これでもわたし<end_line/>
+		すっごく強いんだから～<end_line/>
+	</sjis>
+	<ascii>
+		Don't judge my appearance~<end_line/>
+		Even if I look meek,<end_line/>
+		I'm actually quite strong.<end_line/>
+	</ascii>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="decided" mouth="tense"/>
+	<portrait_r entry="tier" eye="decided" mouth="neutral"/>
+	<sjis>
+		強いって<three_dots/><end_line/>
+	</sjis>
+	<ascii>
+		Strong<three_dots/>?<end_line/>
+	</ascii>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="decided" mouth="tense"/>
+	<portrait_r entry="tier" eye="decided" mouth="serious"/>
+	<sjis>
+		何よ<three_dots/><end_line/>
+		信じないの？？<end_line/>
+	</sjis>
+	<ascii>
+		What?<end_line/>
+		You don't believe me??<end_line/>
+	</ascii>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="serious" mouth="tense"/>
+	<portrait_r entry="tier" eye="decided" mouth="serious"/>
+	<sjis>
+		それは<three_dots/><end_line/>
+	</sjis>
+	<ascii>
+		Well<three_dots/><end_line/>
+	</ascii>
+</dialogue>
+<choice>
+	<info box="left"/>
+	<portrait_l entry="player" eye="serious" mouth="tense"/>
+	<portrait_r entry="tier" eye="decided" mouth="serious"/>
+	<option>
+		<sjis>
+			実はティエって結構強い気がする<end_line/>
+		</sjis>
+		<ascii>
+			Nah, you're probably strong.<end_line/>
+		</ascii>
+	</option>
+	<option>
+		<sjis>
+			ティエは全然強そうに見えない<end_line/>
+		</sjis>
+		<ascii>
+			Look pretty weak to me.<end_line/>
+		</ascii>
+	</option>
+</choice>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="serious" mouth="neutral"/>
+	<portrait_r entry="tier" eye="decided" mouth="serious"/>
+	<male>
+		<sjis>
+			お前、強いんだろ？<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			あなたは強いんでしょ？<end_line/>
+		</sjis>
+	</female>
+  <ascii>
+    You are strong, aren't you?<end_line/>
+  </ascii>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="serious" mouth="neutral"/>
+	<portrait_r entry="tier" eye="decided" mouth="serious"/>
+	<sjis>
+		うん、信じてる<end_line/>
+	</sjis>
+	<ascii>
+		Yeah, I believe you.<end_line/>
+	</ascii>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="serious" mouth="neutral"/>
+	<portrait_r entry="tier" eye="decided" mouth="tense"/>
+	<sjis>
+		いーえ<three_dots/><end_line/>
+		その言い方<end_line/>
+		ゼンゼン信じてないわ！<end_line/>
+	</sjis>
+	<ascii>
+		Nope<three_dots/><end_line/>
+		When you say it like that<three_dots/><end_line/>
+		I don't believe YOU!<end_line/>
+	</ascii>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="decided" mouth="serious"/>
+	<portrait_r entry="tier" eye="decided" mouth="tense"/>
+	<male>
+		<sjis>
+			なんだよ、それ<three_dots/><end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			なによ、それ<three_dots/><end_line/>
+		</sjis>
+	</female>
+  <ascii>
+    Oh come on<three_dots/><end_line/>
+  </ascii>
+</dialogue>
+<dialogue>
+	<info box="nobox"/>
+	<portrait_l entry="player" eye="sad" mouth="neutral"/>
+	<portrait_r entry="tier" eye="decided" mouth="tense"/>
+	<sjis>
+		どう見たって強そうには<end_line/>
+		見えないよ<end_line/>
+	</sjis>
+	<ascii>
+		No matter how I look,<end_line/>
+		you seem pretty weak to me.<end_line/>
+	</ascii>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="sad" mouth="neutral"/>
+	<portrait_r entry="tier" eye="decided" mouth="yell"/>
+	<sjis>
+		なんですって<three_dots/><end_line/>
+		いくらお客でも言って良いことと<end_line/>
+		悪いことがあるわよ<three_dots/><end_line/>
+	</sjis>
+	<ascii>
+		Why you<three_dots/><end_line/>
+		Even if you're my customers,<end_line/>
+		there's things I simply can't allow.<end_line/>
+	</ascii>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="sad" mouth="talk"/>
+	<portrait_r entry="tier" eye="decided" mouth="yell"/>
+	<sjis>
+		だってさ<three_dots/><end_line/>
+	</sjis>
+	<ascii>
+		So you say, but<three_dots/><end_line/>
+	</ascii>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="sad" mouth="talk"/>
+	<portrait_r entry="tier" eye="decided" mouth="talk"/>
+	<sjis>
+		じゃあ勝負してあげるわよ<end_line/>
+		その召喚獣もまとめて<end_line/>
+		相手になってあげるわ！<end_line/>
+	</sjis>
+	<ascii>
+		Well, let's have a match then.<end_line/>
+		I'll take you, and that Summon on,<end_line/>
+		both at once!<end_line/>
+	</ascii>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="surprised" mouth="neutral"/>
+	<portrait_r entry="tier" eye="decided" mouth="talk"/>
+	<sjis>
+		え！？<end_line/>
+	</sjis>
+	<ascii>
+		Ehhh!?<end_line/>
+	</ascii>
+</dialogue>
+<dialogue>
+	<partner name="run-dor"/>
+	<info box="left"/>
+	<portrait_l entry="partner" eye="serious" mouth="neutral"/>
+	<portrait_r entry="tier" eye="decided" mouth="talk"/>
+	<sjis>
+		アナタガ勝利スル確率ハ<end_line/>
+		低イト　判断サレマスガ<end_line/>
+	</sjis>
+	<ascii>
+		Your Chance At Victory Stands At 1%.<end_line/> 
+		99% Chance Of Failure.<end_line/>
+	</ascii>
+</dialogue>
+<dialogue>
+	<partner name="enzi"/>
+	<info box="left"/>
+	<portrait_l entry="partner" eye="serious" mouth="neutral"/>
+	<portrait_r entry="tier" eye="decided" mouth="talk"/>
+	<sjis>
+		やめておけ<end_line/>
+		おぬしでは勝負ならんぞ<end_line/>
+	</sjis>
+	<ascii>
+		Stop that.<end_line/>
+		You can't win.<end_line/>
+	</ascii>
+</dialogue>
+<dialogue>
+	<partner name="killfith"/>
+	<info box="left"/>
+	<portrait_l entry="partner" eye="serious" mouth="neutral"/>
+	<portrait_r entry="tier" eye="decided" mouth="talk"/>
+	<sjis>
+		今ならまだ<end_line/>
+		そのふざけた台詞を<end_line/>
+		聞かなかったことにしてやる<end_line/>
+	</sjis>
+	<ascii>
+		You couldn't even take<end_line/> 
+		<player_nickname> on yourself.<end_line/>
+		<break>
+		Don't even try to think that<end_line/>
+		you can mess with me.<end_line/>
+	</ascii>
+</dialogue>
+<dialogue>
+	<partner name="rufeel"/>
+	<info box="left"/>
+	<portrait_l entry="partner" eye="serious" mouth="neutral"/>
+	<portrait_r entry="tier" eye="decided" mouth="talk"/>
+	<sjis>
+		止めておいた方がいいですわ<end_line/>
+		勝負になりませんよ<end_line/>
+	</sjis>
+	<ascii>
+		You're no match for us, sorry.<end_line/>
+	</ascii>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="partner" eye="serious" mouth="neutral"/>
+	<portrait_r entry="tier" eye="decided" mouth="neutral"/>
+	<sjis>
+		そんなこと言ってられるのも<end_line/>
+		今のうちだけよ<end_line/>
+		わたしと勝負するまでは<three_dots/><end_line/>
+	</sjis>
+	<ascii>
+		You won't be able to<end_line/>
+		talk like that much longer.<end_line/>
+		Until you have a match with me<three_dots/><end_line/>
+	</ascii>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="partner" eye="serious" mouth="neutral"/>
+	<portrait_r entry="tier" eye="decided" mouth="yell"/>
+	<sjis>
+		ここから先には行かせないんだから！<end_line/>
+	</sjis>
+	<ascii>
+		I won't let you go any further!<end_line/>
+	</ascii>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="serious" mouth="serious"/>
+	<sjis>
+		どうしよう？<end_line/>
+	</sjis>
+	<ascii>
+		That's not much of a threat<end_line/>
+		coming from you.<end_line/>
+	</ascii>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="serious" mouth="serious"/>
+	<portrait_r entry="vee" eye="sad" mouth="neutral"/>
+	<sjis>
+		仕方ない<three_dots/><end_line/>
+		ちゃっちゃと先に進みたいし<end_line/>
+		勝負でも何でもしてやんな<end_line/>
+	</sjis>
+	<ascii>
+		There's no helping it<three_dots/><end_line/>
+		I'd like to hurry up and go,<end_line/>
+		so just have her match or whatever.<end_line/>
+	</ascii>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="serious" mouth="tense"/>
+	<portrait_r entry="vee" eye="sad" mouth="neutral"/>
+	<male>
+		<sjis>
+			そっか<three_dots/><end_line/>
+			わかったよ<three_dots/><end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			そっか<three_dots/><end_line/>
+			仕方ないね<three_dots/><end_line/>
+		</sjis>
+	</female>
+  <ascii>
+    <three_dots/><end_line/>
+    Okay, I guess<three_dots/><end_line/>
+  </ascii>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="serious" mouth="tense"/>
+	<portrait_r entry="vee" eye="decided" mouth="neutral"/>
+	<sjis>
+		しかし<end_line/>
+		ただ勝負するってのも<end_line/>
+		面白くないねぇ<three_dots/><end_line/>
+	</sjis>
+	<ascii>
+		However, if it was just a match,<end_line/>
+		that'd be no fun.<end_line/>
+	</ascii>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="tier" eye="serious" mouth="serious"/>
+	<portrait_r entry="vee" eye="decided" mouth="neutral"/>
+	<sjis>
+		どういうことよ？<end_line/>
+	</sjis>
+	<ascii>
+		Hm?<end_line/>
+	</ascii>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="tier" eye="serious" mouth="serious"/>
+	<portrait_r entry="vee" eye="decided" mouth="talk"/>
+	<sjis>
+		どうだい？<end_line/>
+		この勝負に勝ったら<end_line/>
+		さっきの案内代、チャラってことで<end_line/>
+	</sjis>
+	<ascii>
+		How about this?<end_line/>
+		If we win,<end_line/>
+		your guidance earlier is free.<end_line/>
+	</ascii>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="tier" eye="surprised" mouth="stressed"/>
+	<portrait_r entry="vee" eye="decided" mouth="talk"/>
+	<sjis>
+		チ<three_dots/><end_line/>
+		ええ～っ！？<end_line/>
+		お金返せってことですか！？<end_line/>
+	</sjis>
+	<ascii>
+		E<three_dots/><end_line/>
+		EHHHHHHH!?<end_line/>
+		You mean return the money!?<end_line/>
+	</ascii>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="tier" eye="surprised" mouth="stressed"/>
+	<portrait_r entry="vee" eye="decided" mouth="neutral"/>
+	<sjis>
+		いいじゃないか<end_line/>
+		アンタ勝つ自信、あるんだろ？<end_line/>
+	</sjis>
+	<ascii>
+		Isn't that fine?<end_line/>
+		You seemed awfully confident<end_line/>
+		about your victory before.<end_line/>
+	</ascii>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="tier" eye="surprised" mouth="stressed"/>
+	<portrait_r entry="vee" eye="sad" mouth="neutral"/>
+	<sjis>
+		ま、ムリにとは言わないけどさ<end_line/>
+		その程度の実力なら<end_line/>
+		この勝負、みとめられないねぇ<end_line/>
+	</sjis>
+	<ascii>
+		Well, I won't force you into it, but<end_line/>
+		if that's all your talk led up to,<end_line/>
+		I won't be approving this match.<end_line/>
+	</ascii>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="tier" eye="decided" mouth="serious"/>
+	<portrait_r entry="vee" eye="sad" mouth="neutral"/>
+	<sjis>
+		<three_dots/><end_line/>
+	</sjis>
+	<ascii>
+		<three_dots/><end_line/>
+	</ascii>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="tier" eye="decided" mouth="tense"/>
+	<portrait_r entry="vee" eye="sad" mouth="neutral"/>
+	<sjis>
+		わかったわ<end_line/>
+	</sjis>
+	<ascii>
+		Fine.<end_line/>
+	</ascii>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="tier" eye="decided" mouth="tense"/>
+	<portrait_r entry="vee" eye="decided" mouth="talk"/>
+	<sjis>
+		よっしゃ！<end_line/>
+		そうこなくっちゃな！<end_line/>
+		絶対勝つんだよ、<player_nickname>！<end_line/>
+	</sjis>
+	<ascii>
+		Yeah!<end_line/>
+		Now you're talking!<end_line/>
+		Make sure to win, <player_nickname>!<end_line/>
+	</ascii>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="surprised" mouth="tense"/>
+	<portrait_r entry="vee" eye="decided" mouth="talk"/>
+	<sjis>
+		あ<three_dots/><end_line/>
+		はい<three_dots/><end_line/>
+	</sjis>
+	<ascii>
+		Huh<three_dots/>?<end_line/>
+		Yeah, sure.<end_line/>
+	</ascii>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="serious" mouth="tense"/>
+	<portrait_r entry="vee" eye="serious" mouth="neutral"/>
+	<sjis>
+		んじゃ、各自<end_line/>
+		勝負の準備をととのえな！<end_line/>
+	</sjis>
+	<ascii>
+		Then, each of you,<end_line/>
+		go prepare for the match!<end_line/>
+	</ascii>
+</dialogue>
+<dialogue>
+	<partner name="run-dor"/>
+	<info box="left"/>
+	<portrait_l entry="partner" eye="sad" mouth="tense"/>
+	<portrait_r entry="murno" eye="serious" mouth="serious"/>
+	<sjis>
+		親方ハ　味方ナノデショウカ？<end_line/>
+	</sjis>
+	<ascii>
+		Is Master Giving Moral Support?<end_line/>
+	</ascii>
+</dialogue>
+<dialogue>
+	<partner name="run-dor"/>
+	<info box="right"/>
+	<portrait_l entry="partner" eye="sad" mouth="tense"/>
+	<portrait_r entry="murno" eye="happy" mouth="tense"/>
+	<sjis>
+		<three_dots/><end_line/>
+		そのはずよ<end_line/>
+	</sjis>
+	<ascii>
+		<three_dots/><end_line/>
+		Yeah.<end_line/>
+	</ascii>
+</dialogue>
+<dialogue>
+	<partner name="enzi"/>
+	<info box="left"/>
+	<portrait_l entry="partner" eye="sad" mouth="tense"/>
+	<portrait_r entry="murno" eye="serious" mouth="serious"/>
+	<sjis>
+		親方<three_dots/><end_line/>
+		油断できぬ女よ<three_dots/><end_line/>
+	</sjis>
+	<ascii>
+		Master<three_dots/><end_line/>
+		She's a dangerous one<three_dots/><end_line/>
+	</ascii>
+</dialogue>
+<dialogue>
+	<partner name="enzi"/>
+	<info box="right"/>
+	<portrait_l entry="partner" eye="sad" mouth="tense"/>
+	<portrait_r entry="murno" eye="decided" mouth="tense"/>
+	<sjis>
+		そ<three_dots/>そうね<three_dots/><end_line/>
+	</sjis>
+	<ascii>
+		That's<three_dots/>True<three_dots/><end_line/>
+	</ascii>
+</dialogue>
+<dialogue>
+	<partner name="killfith"/>
+	<info box="left"/>
+	<portrait_l entry="partner" eye="sad" mouth="tense"/>
+	<portrait_r entry="murno" eye="serious" mouth="serious"/>
+	<sjis>
+		あの女<three_dots/><end_line/>
+		なかなかやるな<end_line/>
+	</sjis>
+	<ascii>
+		That woman<three_dots/><end_line/>
+		Not bad<three_dots/><end_line/>
+	</ascii>
+</dialogue>
+<dialogue>
+	<partner name="killfith"/>
+	<info box="right"/>
+	<portrait_l entry="partner" eye="sad" mouth="tense"/>
+	<portrait_r entry="murno" eye="happy" mouth="tense"/>
+	<sjis>
+		そ<three_dots/>そうね<three_dots/><end_line/>
+	</sjis>
+	<ascii>
+		I guess<three_dots/><end_line/>
+	</ascii>
+</dialogue>
+<dialogue>
+	<partner name="rufeel"/>
+	<info box="right"/>
+	<portrait_l entry="partner" eye="sad" mouth="tense"/>
+	<portrait_r entry="murno" eye="happy" mouth="tense"/>
+	<sjis>
+		親方さん<three_dots/><end_line/>
+		ちょっとコワイですわ<three_dots/><end_line/>
+	</sjis>
+	<ascii>
+		Master<three_dots/><end_line/>
+		Is a bit scary<three_dots/><end_line/>
+	</ascii>
+</dialogue>
+<dialogue>
+	<partner name="rufeel"/>
+	<info box="right"/>
+	<portrait_l entry="partner" eye="sad" mouth="tense"/>
+	<portrait_r entry="murno" eye="decided" mouth="serious"/>
+	<sjis>
+		そ<three_dots/>そうかも<three_dots/><end_line/>
+	</sjis>
+	<ascii>
+		Y-You might be right<three_dots/><end_line/>
+	</ascii>
+</dialogue>

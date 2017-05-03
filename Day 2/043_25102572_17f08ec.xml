@@ -1,0 +1,262 @@
+<dialogue>
+	<info box="nobox"/>
+	<portrait_l name="lemmy"/>
+	<sjis>
+		誰かと思えば<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="serious" mouth="serious"/>
+	<portrait_r entry="lemmy" eye="sad" mouth="neutral"/>
+	<sjis>
+		やっぱり君か<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="serious" mouth="tense"/>
+	<portrait_r entry="lemmy" eye="sad" mouth="neutral"/>
+	<male>
+		<sjis>
+			やっぱりってなんだよ？<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			やっぱりってなによ？<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="serious" mouth="tense"/>
+	<portrait_r entry="lemmy" eye="serious" mouth="tense"/>
+	<sjis>
+		あやしい人影が見えたから<end_line/>
+		調べに来ただけだよ<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="decided" mouth="tense"/>
+	<portrait_r entry="lemmy" eye="serious" mouth="tense"/>
+	<male>
+		<sjis>
+			あやしいって、オレのことかよ<end_line/>
+			オレのどこがあやしいんだ？<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			あやしいって、わたしのこと？<end_line/>
+			わたしのどこがあやしいのよ<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="decided" mouth="tense"/>
+	<portrait_r entry="lemmy" eye="decided" mouth="talk"/>
+	<sjis>
+		気がついてなかったのか<three_dots/><end_line/>
+		君は十分あやしいよ<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="decided" mouth="yell"/>
+	<portrait_r entry="lemmy" eye="decided" mouth="talk"/>
+	<male>
+		<sjis>
+			なんだと！<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			なんですって！<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="decided" mouth="yell"/>
+	<portrait_r entry="lemmy" eye="serious" mouth="neutral"/>
+	<sjis>
+		さわぎのあるところには必ず<end_line/>
+		君がいるじゃないか<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="sad" mouth="tense"/>
+	<portrait_r entry="lemmy" eye="serious" mouth="neutral"/>
+	<sjis>
+		う<three_dots/><end_line/>
+		反論できないところが<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="surprised" mouth="tense"/>
+	<portrait_r entry="lemmy" eye="serious" mouth="neutral"/>
+	<male>
+		<sjis>
+			そういえば<end_line/>
+			あの、ケガした連中はどうなった？<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			そういえば<end_line/>
+			あの、ケガした人たちは<end_line/>
+			どうなったの？<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="surprised" mouth="tense"/>
+	<portrait_r entry="lemmy" eye="serious" mouth="tense"/>
+	<sjis>
+		それほどひどいケガじゃなかったから<end_line/>
+		もう元気にしてる<three_dots/><end_line/>
+		いや、元気じゃないか<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="decided" mouth="tense"/>
+	<portrait_r entry="lemmy" eye="serious" mouth="tense"/>
+	<male>
+		<sjis>
+			なんだよ？<end_line/>
+			どこか悪いのか？<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			なによ？<end_line/>
+			どこか悪いの？<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="decided" mouth="tense"/>
+	<portrait_r entry="lemmy" eye="serious" mouth="neutral"/>
+	<sjis>
+		いや、ケガじゃないけど<end_line/>
+		おとなしくなってる<end_line/>
+		反省している<three_dots/>といいけど<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="happy" mouth="neutral"/>
+	<portrait_r entry="lemmy" eye="serious" mouth="neutral"/>
+	<male>
+		<sjis>
+			そっか<end_line/>
+			大丈夫だろ<end_line/>
+			とくにサージってヤツは<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			そっか<end_line/>
+			大丈夫でしょ<end_line/>
+			とくにサージって人は<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="happy" mouth="neutral"/>
+	<portrait_r entry="lemmy" eye="decided" mouth="talk"/>
+	<sjis>
+		また君がケンカで<end_line/>
+		やっつけたからかい？<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="decided" mouth="yell"/>
+	<portrait_r entry="lemmy" eye="decided" mouth="talk"/>
+	<male>
+		<sjis>
+			ケンカじゃない！<end_line/>
+			勝負だ！<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			ケンカじゃない！<end_line/>
+			勝負よ！<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="decided" mouth="yell"/>
+	<portrait_r entry="lemmy" eye="serious" mouth="neutral"/>
+	<sjis>
+		それって、何かちがうの？<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="decided" mouth="tense"/>
+	<portrait_r entry="lemmy" eye="serious" mouth="neutral"/>
+	<male>
+		<sjis>
+			全然ちがうだろ！<end_line/>
+			なんていうかさ<three_dots/><end_line/>
+			心とか？<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			全然ちがうでしょ！<end_line/>
+			なんていうかさ<three_dots/><end_line/>
+			心とか？<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="decided" mouth="tense"/>
+	<portrait_r entry="lemmy" eye="sad" mouth="talk"/>
+	<sjis>
+		ふ<three_dots/><end_line/>
+		心、か<three_dots/><end_line/>
+		君がたまにうらやましくなるよ<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="decided" mouth="stressed"/>
+	<portrait_r entry="lemmy" eye="sad" mouth="talk"/>
+	<male>
+		<sjis>
+			な<three_dots/><end_line/>
+			今オレのこと<end_line/>
+			バカにしなかったか？<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			な<three_dots/><end_line/>
+			今わたしのこと<end_line/>
+			バカにしなかった？<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="decided" mouth="stressed"/>
+	<portrait_r entry="lemmy" eye="serious" mouth="talk"/>
+	<sjis>
+		さあね<end_line/>
+	</sjis>
+</dialogue>

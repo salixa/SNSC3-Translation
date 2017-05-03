@@ -1,0 +1,381 @@
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="murno_hatless" eye="surprised" mouth="stressed"/>
+	<portrait_r entry="player" eye="serious" mouth="serious"/>
+	<sjis>
+		あ<three_dots/>！<end_line/>
+		あなたは<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="weido_1" eye="decided" mouth="yell"/>
+	<portrait_r entry="player" eye="serious" mouth="serious"/>
+	<sjis>
+		なんだ！？<end_line/>
+		はぐれの弟子か<end_line/>
+		なんか用でもあんのか？<end_line/>
+	</sjis>
+</dialogue>
+<choice>
+	<info box="right"/>
+	<portrait_l entry="weido_1" eye="decided" mouth="yell"/>
+	<portrait_r entry="player" eye="serious" mouth="serious"/>
+	<option>
+		<sjis>
+			もちろん用はある<end_line/>
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			別に<three_dots/><end_line/>
+		</sjis>
+	</option>
+</choice>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="weido_1" eye="decided" mouth="yell"/>
+	<portrait_r entry="player" eye="serious" mouth="yell"/>
+	<male>
+		<sjis>
+			その子を放せ！<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			その子を放して！<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="weido_1" eye="decided" mouth="tense"/>
+	<portrait_r entry="player" eye="serious" mouth="yell"/>
+	<sjis>
+		あァ！？<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="weido_1" eye="decided" mouth="tense"/>
+	<portrait_r entry="player" eye="serious" mouth="serious"/>
+	<male>
+		<sjis>
+			聞こえなかったのか？<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			聞こえなかった？<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="decided" mouth="neutral"/>
+	<portrait_r entry="weido_1" eye="surprised" mouth="serious"/>
+	<male>
+		<sjis>
+			この子を放せって言ったんだ<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			この子を放せって言ったの<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="nobox"/>
+	<portrait_l entry="player" eye="decided" mouth="neutral"/>
+	<portrait_r entry="weido_1" eye="serious" mouth="tense"/>
+	<male>
+		<sjis>
+			用なんてあるわけないだろ？<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			用なんてあるわけないじゃない<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="murno_hatless" eye="sad" mouth="tense"/>
+	<sjis>
+		<three_dots/>っ<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="weido_1" eye="serious" mouth="yell"/>
+	<portrait_r entry="weido_1" eye="serious" mouth="tense"/>
+	<sjis>
+		ならサッサと<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="weido_1" eye="serious" mouth="yell"/>
+	<portrait_r entry="weido_1" eye="serious" mouth="neutral"/>
+	<male>
+		<sjis>
+			お前たちにはな<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			あんたたちにはね<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="weido_1" eye="surprised" mouth="stressed"/>
+	<portrait_r entry="weido_1" eye="serious" mouth="neutral"/>
+	<sjis>
+		な！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="decided" mouth="neutral"/>
+	<portrait_r entry="weido_1" eye="surprised" mouth="serious"/>
+	<male>
+		<sjis>
+			悪いけど、この子にはあるんだ<end_line/>
+			大事な用がね<end_line/>
+			だから放してくれよ？<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			悪いけど、この子にはあるの<end_line/>
+			大事な用がね<end_line/>
+			だから放してくれない？<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="decided" mouth="neutral"/>
+	<portrait_r entry="weido_1" eye="decided" mouth="serious"/>
+	<sjis>
+		キサマ<three_dots/><end_line/>
+		はぐれの弟子のくせに<end_line/>
+		調子にのってンじゃねえぞ？<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="decided" mouth="serious"/>
+	<portrait_r entry="weido_1" eye="decided" mouth="serious"/>
+	<male>
+		<sjis>
+			調子にのってンのはどっちだよ！？<end_line/>
+			男がよってたかって<end_line/>
+			女の子にからんで、カッコワリィ！<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			調子にのってるのはどっちよ！？<end_line/>
+			男がよってたかって<end_line/>
+			女の子にからんで、カッコワルイ！<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="decided" mouth="serious"/>
+	<portrait_r entry="weido_1" eye="decided" mouth="yell"/>
+	<sjis>
+		なにを、テメェ<three_dots/>！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="decided" mouth="serious"/>
+	<portrait_r entry="weido_1" eye="decided" mouth="tense"/>
+	<sjis>
+		大体コイツがぶつかったくせに<end_line/>
+		あやまりもしねぇからだな<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="decided" mouth="neutral"/>
+	<portrait_r entry="weido_1" eye="decided" mouth="tense"/>
+	<male>
+		<sjis>
+			いいわけかよ<end_line/>
+			さらにみっともないぞ<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			さっきちゃんと<end_line/>
+			あやまってたじゃないの！<end_line/>
+			あれで十分よ！<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="decided" mouth="neutral"/>
+	<portrait_r entry="weido_1" eye="decided" mouth="yell"/>
+	<sjis>
+		キサマ<end_line/>
+		ぶっとばされてぇか！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="decided" mouth="yell"/>
+	<portrait_r entry="weido_1" eye="decided" mouth="yell"/>
+	<male>
+		<sjis>
+			やれるもんなら<end_line/>
+			やってみろ！<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			ぶっとばされるのは<end_line/>
+			どっちよ！<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="murno_hatless" eye="sad" mouth="tense"/>
+	<sjis>
+		やっぱり<three_dots/><end_line/>
+		私のせいで<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="murno_hatless" eye="sad" mouth="tense"/>
+	<portrait_r entry="player" eye="serious" mouth="serious"/>
+	<male>
+		<sjis>
+			え？<end_line/>
+			なんだよ？<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			え？<end_line/>
+			なに？<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="murno_hatless" eye="sad" mouth="serious"/>
+	<portrait_r entry="player" eye="serious" mouth="serious"/>
+	<sjis>
+		私に関わったから<end_line/>
+		あなたまでこんなことに<three_dots/><end_line/>
+		だから<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="murno_hatless" eye="sad" mouth="yell"/>
+	<portrait_r entry="player" eye="serious" mouth="serious"/>
+	<sjis>
+		だから言ったのに<three_dots/><end_line/>
+		私に関わらないでって<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="murno_hatless" eye="sad" mouth="yell"/>
+	<portrait_r entry="player" eye="decided" mouth="neutral"/>
+	<male>
+		<sjis>
+			悪いけど、ダメだ<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			悪いけど、ダメだよ<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="murno_hatless" eye="sad" mouth="tense"/>
+	<portrait_r entry="player" eye="decided" mouth="neutral"/>
+	<sjis>
+		どうして<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="murno_hatless" eye="sad" mouth="tense"/>
+	<portrait_r entry="player" eye="serious" mouth="tense"/>
+	<sjis>
+		どうしてって<three_dots/>？<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="murno_hatless" eye="sad" mouth="tense"/>
+	<portrait_r entry="player" eye="decided" mouth="neutral"/>
+	<male>
+		<sjis>
+			今あんたを放っておくのは<end_line/>
+			カッコワルイからだ！<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			今あなたを放っておくのは<end_line/>
+			カッコワルイもん！<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="murno_hatless" eye="surprised" mouth="neutral"/>
+	<portrait_r entry="player" eye="decided" mouth="neutral"/>
+	<sjis>
+		え？<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="murno_hatless" eye="serious" mouth="tense"/>
+	<portrait_r entry="player" eye="serious" mouth="neutral"/>
+	<sjis>
+		とにかく今言えるのは<end_line/>
+		これひとつ！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="murno_hatless" eye="serious" mouth="tense"/>
+	<portrait_r entry="player" eye="decided" mouth="talk"/>
+	<male>
+		<sjis>
+			あんたはこのオレが守る！<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			あなたはこのわたしが守る！<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="murno_hatless" eye="surprised_blush" mouth="serious"/>
+	<portrait_r entry="player" eye="decided" mouth="talk"/>
+	<sjis>
+		<three_dots/>！<end_line/>
+	</sjis>
+</dialogue>

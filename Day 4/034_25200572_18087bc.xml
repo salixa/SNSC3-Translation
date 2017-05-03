@@ -1,0 +1,44 @@
+<dialogue>
+  <info box="right"/>
+  <portrait_r entry="elieze" eye="serious" mouth="neutral"/>
+  <male>
+    <sjis>
+      Ç®Ç…Å[ÇøÇ·ÇÒ<end_line/>
+    </sjis>
+    <ascii>
+      Big Bro,<end_line/>
+    </ascii>
+  </male>
+  <female>
+    <sjis>
+      Ç®ÇÀÅ[ÇøÇ·ÇÒ<end_line/>
+    </sjis>
+    <ascii>
+      Big Sis,<end_line/>
+    </ascii>
+  </female>
+</dialogue>
+<dialogue>
+  <info box="right"/>
+  <portrait_r entry="elieze" eye="serious" mouth="neutral"/>
+  <sjis>
+    ÇªÇ¥Ç¢Ç†Ç¬ÇﬂÇÃÇŒÇµÇÂÇÕ<end_line/>
+    Ç±Ç¡ÇøÇæÇÊ<end_line/>
+  </sjis>
+  <ascii>
+    The gathering place<end_line/>
+    is this way.<end_line/>
+  </ascii>
+</dialogue>
+<dialogue>
+  <info box="left"/>
+  <portrait_l entry="player" eye="serious" mouth="neutral"/>
+  <portrait_r entry="elieze" eye="serious" mouth="neutral"/>
+  <sjis>
+    Ç§ÇÒ<end_line/>
+    ÇÌÇ©Ç¡ÇΩÅI<end_line/>
+  </sjis>
+  <ascii>
+    Oh, right.<end_line/>
+  </ascii>
+</dialogue>

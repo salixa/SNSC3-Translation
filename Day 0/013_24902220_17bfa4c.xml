@@ -1,0 +1,119 @@
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="serious" mouth="neutral"/>
+	<portrait_r entry="vee" eye="serious" mouth="neutral"/>
+	<sjis>
+		さて<end_line/>
+		これから武器を作るわけだが<end_line/>
+		工房を使う時は<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="decided" mouth="neutral"/>
+	<portrait_r entry="vee" eye="serious" mouth="neutral"/>
+	<male>
+		<sjis>
+			初心忘れるべからず！<end_line/>
+			だろ？<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			初心忘れるべからず！<end_line/>
+			でしょ？<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="decided" mouth="neutral"/>
+	<portrait_r entry="vee" eye="serious" mouth="talk"/>
+	<sjis>
+		そうだよ<end_line/>
+		ケガしないように<end_line/>
+		やることをちゃんと思い出すんだ<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="decided" mouth="talk"/>
+	<portrait_r entry="vee" eye="serious" mouth="talk"/>
+	<sjis>
+		はい！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="serious" mouth="serious"/>
+	<sjis>
+		武器を作るには、まず<three_dots/><end_line/>
+		このタタラに武器の材料を<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="special"/>
+	<sjis>
+		武器を作るにはまずタタラに接触して<end_line/>
+		Ａボタンでメニューウインドウを開き<end_line/>
+		作製を選びます<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="special"/>
+	<sjis>
+		武器のベースとなるマテルと<end_line/>
+		組み合わせる合成アイテムを決めると<end_line/>
+		武器の完成です<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="special"/>
+	<sjis>
+		マテルによって武器タイプが<end_line/>
+		合成アイテムによって見た目や強さが<end_line/>
+		決定されます<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="happy" mouth="neutral"/>
+	<sjis>
+		よし！<end_line/>
+		カンペキ！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="happy" mouth="neutral"/>
+	<portrait_r entry="vee" eye="decided" mouth="talk"/>
+	<sjis>
+		じゃあ、タタラに材料をぶちこみな！<end_line/>
+		そしてハンマーで魂をたたきこんで<end_line/>
+		武器という形に仕上げるんだ！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="decided" mouth="yell"/>
+	<portrait_r entry="vee" eye="decided" mouth="talk"/>
+	<sjis>
+		はい！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="decided" mouth="yell"/>
+	<portrait_r entry="vee" eye="serious" mouth="yell"/>
+	<sjis>
+		気合い入れていくよ！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="decided" mouth="stressed"/>
+	<portrait_r entry="vee" eye="serious" mouth="yell"/>
+	<sjis>
+		おー！<end_line/>
+	</sjis>
+</dialogue>

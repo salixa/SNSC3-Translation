@@ -1,0 +1,726 @@
+<dialogue>
+	<info box="right"/>
+	<portrait_r entry="player" eye="decided" mouth="tense"/>
+	<male>
+		<sjis>
+			おい、お前<end_line/>
+			大丈夫かよ？<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			ちょっと、あなた<end_line/>
+			大丈夫なの？<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="zakk" eye="happy" mouth="neutral"/>
+	<portrait_r entry="player" eye="decided" mouth="tense"/>
+	<sjis>
+		あ、その、落っこちちゃって<end_line/>
+		ちょっとイタイけど大丈夫です<end_line/>
+		ありがとう<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="zakk" eye="surprised" mouth="yell"/>
+	<portrait_r entry="player" eye="decided" mouth="tense"/>
+	<sjis>
+		<three_dots/>じゃなかった！<end_line/>
+		お前たちか！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="zakk" eye="sad" mouth="tense"/>
+	<portrait_r entry="player" eye="decided" mouth="tense"/>
+	<male>
+		<sjis>
+			<three_dots/>って言うかさ<end_line/>
+			あの橋、穴が空いてただろ？<end_line/>
+			なんで落ちるんだよ！？<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			<three_dots/>って言うか<end_line/>
+			あの橋、穴が空いてたよね？<end_line/>
+			なんで落ちるの！？<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="zakk" eye="neutral_blush" mouth="yell"/>
+	<portrait_r entry="player" eye="decided" mouth="tense"/>
+	<sjis>
+		う<three_dots/>うるさい！<end_line/>
+		いそいでたから見えなかったんだ！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="zakk" eye="neutral_blush" mouth="yell"/>
+	<portrait_r entry="player" eye="serious" mouth="tense"/>
+	<male>
+		<sjis>
+			そんなに急いで<end_line/>
+			どうしたんだよ<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			そんなに急いで<end_line/>
+			何があったの？<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="zakk" eye="decided" mouth="serious"/>
+	<portrait_r entry="player" eye="serious" mouth="tense"/>
+	<sjis>
+		オイラ<three_dots/><end_line/>
+		この森の奥にある<end_line/>
+		キッカの実を取りに来たんだ！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<player gender="male"/>
+	<info box="right"/>
+	<portrait_l entry="zakk" eye="decided" mouth="serious"/>
+	<portrait_r entry="player" eye="serious" mouth="serious"/>
+	<sjis>
+		キッカの実？<end_line/>
+		わざわざ果物を取りに<end_line/>
+		はぐれのいる森の奥まで？<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<player gender="male"/>
+	<info box="right"/>
+	<portrait_l entry="zakk" eye="decided" mouth="serious"/>
+	<portrait_r entry="player" eye="serious" mouth="neutral"/>
+	<sjis>
+		よっぽど好きなんだな<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<player gender="female"/>
+	<info box="right"/>
+	<portrait_l entry="zakk" eye="decided" mouth="serious"/>
+	<portrait_r entry="player" eye="serious" mouth="serious"/>
+	<sjis>
+		キッカの実？<end_line/>
+		わざわざ果物を取りに<end_line/>
+		はぐれのいる森の奥まで？<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<player gender="female"/>
+	<info box="right"/>
+	<portrait_l entry="zakk" eye="decided" mouth="serious"/>
+	<portrait_r entry="player" eye="serious" mouth="neutral"/>
+	<sjis>
+		よっぽど好きなのね<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="zakk" eye="serious" mouth="yell"/>
+	<portrait_r entry="player" eye="serious" mouth="neutral"/>
+	<sjis>
+		そんなんじゃないよ！<end_line/>
+		オイラ、キッカの実をあつめて<end_line/>
+		クスリを作ってもらおうと<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="zakk" eye="serious" mouth="yell"/>
+	<portrait_r entry="player" eye="serious" mouth="tense"/>
+	<sjis>
+		薬？<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="zakk" eye="decided" mouth="neutral"/>
+	<portrait_r entry="player" eye="serious" mouth="tense"/>
+	<sjis>
+		知らないのか？<end_line/>
+		キッカの実を材料にすれば<end_line/>
+		元気になる薬ができるんだぞ<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<player gender="male"/>
+	<info box="right"/>
+	<portrait_l entry="zakk" eye="decided" mouth="neutral"/>
+	<portrait_r entry="player" eye="surprised" mouth="tense"/>
+	<sjis>
+		元気になる薬って<end_line/>
+		お前、すっごい元気じゃないか<end_line/>
+		そんなもんどうする<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<player gender="male"/>
+	<info box="right"/>
+	<portrait_l entry="zakk" eye="decided" mouth="neutral"/>
+	<portrait_r entry="player" eye="serious" mouth="serious"/>
+	<sjis>
+		<three_dots/>って、あいつのためか？<end_line/>
+		なんか調子悪そうだったし<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<player gender="female"/>
+	<info box="right"/>
+	<portrait_l entry="zakk" eye="decided" mouth="neutral"/>
+	<portrait_r entry="player" eye="surprised" mouth="tense"/>
+	<sjis>
+		元気になる薬って<end_line/>
+		あなた、すっごい元気じゃない<end_line/>
+		そんなのどうするの<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<player gender="female"/>
+	<info box="right"/>
+	<portrait_l entry="zakk" eye="decided" mouth="neutral"/>
+	<portrait_r entry="player" eye="serious" mouth="serious"/>
+	<sjis>
+		<three_dots/>って、あいつのためね？<end_line/>
+		なんか調子悪そうだったし<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="zakk" eye="decided" mouth="serious"/>
+	<portrait_r entry="player" eye="serious" mouth="serious"/>
+	<sjis>
+		うん<three_dots/><end_line/>
+		レミィさん調子悪くて<three_dots/><end_line/>
+		熱もあるんだよ<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="zakk" eye="sad" mouth="tense"/>
+	<portrait_r entry="player" eye="serious" mouth="serious"/>
+	<sjis>
+		それなのに、だまってて<three_dots/><end_line/>
+		親方に心配かけないようにって<end_line/>
+		ムリしてはたらいて<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="zakk" eye="sad" mouth="tense"/>
+	<portrait_r entry="player" eye="serious" mouth="neutral"/>
+	<male>
+		<sjis>
+			へえ<three_dots/><end_line/>
+			あんなカオしてるけど<end_line/>
+			あいつも結構やるもんだな<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			ふぅん<three_dots/><end_line/>
+			あんなカオしてるけど<end_line/>
+			あいつも結構やるもんね<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="zakk" eye="decided" mouth="yell"/>
+	<portrait_r entry="player" eye="serious" mouth="neutral"/>
+	<sjis>
+		あんなカオってなんだよ！<end_line/>
+		お前、知らないのか？<end_line/>
+		レミィさんはスゴイんだぞ！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="zakk" eye="decided" mouth="talk"/>
+	<portrait_r entry="player" eye="serious" mouth="neutral"/>
+	<sjis>
+		すごい武器を作るし<end_line/>
+		戦いだってすごく強いんだ！<end_line/>
+		お前たちなんて目じゃないよ！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="zakk" eye="decided" mouth="talk"/>
+	<portrait_r entry="player" eye="decided" mouth="neutral"/>
+	<male>
+		<sjis>
+			へえ<three_dots/><end_line/>
+			あいつ、そんなに強いのか<three_dots/><end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			ふぅん<three_dots/><end_line/>
+			あいつ、そんなに強いの<three_dots/><end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="zakk" eye="decided" mouth="neutral"/>
+	<portrait_r entry="player" eye="decided" mouth="neutral"/>
+	<sjis>
+		そうだよ！<end_line/>
+		レミィさんはオイラのあこがれで<end_line/>
+		もくひょうさ！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="zakk" eye="decided" mouth="serious"/>
+	<portrait_r entry="player" eye="decided" mouth="neutral"/>
+	<sjis>
+		だからオイラははやく<end_line/>
+		キッカの実を手に入れて<end_line/>
+		レミィさんを元気にしたいんだ！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="zakk" eye="decided" mouth="serious"/>
+	<portrait_r entry="player" eye="serious" mouth="talk"/>
+	<sjis>
+		そっか<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<partner name="run-dor"/>
+	<info box="right"/>
+	<portrait_l entry="zakk" eye="decided" mouth="serious"/>
+	<portrait_r entry="partner" eye="serious" mouth="tense"/>
+	<sjis>
+		ソノ実ヲ使ッタ　薬ヲ使エバ<end_line/>
+		熱ガ　下ガルノデスカ！？<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<partner name="run-dor"/>
+	<info box="left"/>
+	<portrait_l entry="zakk" eye="serious" mouth="tense"/>
+	<portrait_r entry="partner" eye="serious" mouth="tense"/>
+	<sjis>
+		え？　そうだけど<three_dots/><end_line/>
+		もしかしてあんたたちも<end_line/>
+		キッカの実がほしいとか？<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<partner name="run-dor"/>
+	<info box="right"/>
+	<portrait_l entry="zakk" eye="serious" mouth="tense"/>
+	<portrait_r entry="partner" eye="serious" mouth="neutral"/>
+	<sjis>
+		必要デス<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<partner name="enzi"/>
+	<info box="right"/>
+	<portrait_l entry="zakk" eye="decided" mouth="serious"/>
+	<portrait_r entry="partner" eye="serious" mouth="tense"/>
+	<sjis>
+		のう、ボウズ<end_line/>
+		その実で作った薬を使えば<end_line/>
+		熱も下がるのかの？<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<partner name="enzi"/>
+	<info box="left"/>
+	<portrait_l entry="zakk" eye="serious" mouth="tense"/>
+	<portrait_r entry="partner" eye="serious" mouth="tense"/>
+	<sjis>
+		え？　そうだけど<three_dots/><end_line/>
+		もしかしてあんたたちも<end_line/>
+		キッカの実がほしいとか？<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<partner name="enzi"/>
+	<info box="right"/>
+	<portrait_l entry="zakk" eye="serious" mouth="tense"/>
+	<portrait_r entry="partner" eye="decided" mouth="neutral"/>
+	<sjis>
+		うむ<end_line/>
+		そんな効果があるのなら<end_line/>
+		たしかに手に入れたいのう<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<partner name="killfith"/>
+	<info box="right"/>
+	<portrait_l entry="zakk" eye="decided" mouth="serious"/>
+	<portrait_r entry="partner" eye="serious" mouth="tense"/>
+	<sjis>
+		その実で作った薬を使えば<end_line/>
+		熱が下がると言うのか？<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<partner name="killfith"/>
+	<info box="left"/>
+	<portrait_l entry="zakk" eye="serious" mouth="tense"/>
+	<portrait_r entry="partner" eye="serious" mouth="tense"/>
+	<sjis>
+		え？　そうだけど<three_dots/><end_line/>
+		もしかしてあんたたちも<end_line/>
+		キッカの実がほしいとか？<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<partner name="killfith"/>
+	<info box="right"/>
+	<portrait_l entry="zakk" eye="serious" mouth="tense"/>
+	<portrait_r entry="partner" eye="serious" mouth="tense"/>
+	<sjis>
+		キサマには関係ない<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<partner name="rufeel"/>
+	<info box="right"/>
+	<portrait_l entry="zakk" eye="serious" mouth="tense"/>
+	<portrait_r entry="partner" eye="serious" mouth="tense"/>
+	<sjis>
+		あの<three_dots/><end_line/>
+		その実で作った薬を使えば<end_line/>
+		熱が下がるんですか？<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<partner name="rufeel"/>
+	<info box="left"/>
+	<portrait_l entry="zakk" eye="serious" mouth="tense"/>
+	<portrait_r entry="partner" eye="serious" mouth="tense"/>
+	<sjis>
+		え？　そうだけど<three_dots/><end_line/>
+		もしかしてあんたたちも<end_line/>
+		キッカの実がほしいとか？<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<partner name="rufeel"/>
+	<info box="right"/>
+	<portrait_l entry="zakk" eye="serious" mouth="tense"/>
+	<portrait_r entry="partner" eye="serious" mouth="talk"/>
+	<sjis>
+		熱に効くのなら<end_line/>
+		ぜひ！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="serious" mouth="neutral"/>
+	<portrait_r entry="partner" eye="serious" mouth="talk"/>
+	<sjis>
+		<partner><three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="zakk" eye="surprised" mouth="yell"/>
+	<portrait_r entry="partner" eye="serious" mouth="talk"/>
+	<sjis>
+		そうなのかよ！<end_line/>
+		じゃ、あんたたちに取られないように<end_line/>
+		急がなきゃ！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_r entry="player" eye="serious" mouth="stressed"/>
+	<male>
+		<sjis>
+			あ<three_dots/>おい<three_dots/>！<end_line/>
+			大丈夫か！？<end_line/>
+			この先ははぐれ召喚獣も<three_dots/><end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			あ<three_dots/>ちょっと<three_dots/>！<end_line/>
+			大丈夫なの！？<end_line/>
+			この先ははぐれ召喚獣も<three_dots/><end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_r entry="player" eye="serious" mouth="tense"/>
+	<sjis>
+		<three_dots/>って、行っちゃった<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<partner name="run-dor"/>
+	<info box="right"/>
+	<portrait_l entry="player" eye="serious" mouth="tense"/>
+	<portrait_r entry="partner" eye="decided" mouth="neutral"/>
+	<sjis>
+		私タチモ　急ギマショウ<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<partner name="run-dor"/>
+	<info box="left"/>
+	<portrait_l entry="player" eye="serious" mouth="neutral"/>
+	<portrait_r entry="partner" eye="decided" mouth="neutral"/>
+	<male>
+		<sjis>
+			元気が出る薬ってやつを<end_line/>
+			ミューノにあげたいってことだよな<end_line/>
+			<partner>？<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			元気が出る薬ってやつを<end_line/>
+			ミューノにあげたいってことね<end_line/>
+			<partner>？<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<partner name="run-dor"/>
+	<info box="right"/>
+	<portrait_l entry="player" eye="serious" mouth="neutral"/>
+	<portrait_r entry="partner" eye="happy" mouth="neutral"/>
+	<sjis>
+		ソノトオリデス<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<partner name="run-dor"/>
+	<info box="left"/>
+	<portrait_l entry="player" eye="decided" mouth="neutral"/>
+	<portrait_r entry="partner" eye="happy" mouth="neutral"/>
+	<sjis>
+		そっか<end_line/>
+		じゃあ行こうか！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<partner name="run-dor"/>
+	<info box="right"/>
+	<portrait_l entry="player" eye="decided" mouth="neutral"/>
+	<portrait_r entry="partner" eye="serious" mouth="neutral"/>
+	<sjis>
+		オー！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<partner name="enzi"/>
+	<info box="right"/>
+	<portrait_l entry="player" eye="serious" mouth="tense"/>
+	<portrait_r entry="partner" eye="decided" mouth="neutral"/>
+	<sjis>
+		では、我らも急ぐとするか<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<partner name="enzi"/>
+	<info box="left"/>
+	<portrait_l entry="player" eye="serious" mouth="neutral"/>
+	<portrait_r entry="partner" eye="decided" mouth="neutral"/>
+	<male>
+		<sjis>
+			元気が出る薬ってやつを<end_line/>
+			ミューノにあげたいってことだよな<end_line/>
+			<partner>？<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			元気が出る薬ってやつを<end_line/>
+			ミューノにあげたいってことね<end_line/>
+			<partner>？<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<partner name="enzi"/>
+	<info box="right"/>
+	<portrait_l entry="player" eye="serious" mouth="neutral"/>
+	<portrait_r entry="partner" eye="decided" mouth="neutral"/>
+	<sjis>
+		そのとおりじゃ<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<partner name="enzi"/>
+	<info box="left"/>
+	<portrait_l entry="player" eye="decided" mouth="neutral"/>
+	<portrait_r entry="partner" eye="decided" mouth="neutral"/>
+	<sjis>
+		そっか<end_line/>
+		じゃあ行こうか！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<partner name="enzi"/>
+	<info box="right"/>
+	<portrait_l entry="player" eye="decided" mouth="neutral"/>
+	<portrait_r entry="partner" eye="decided" mouth="talk"/>
+	<sjis>
+		承知！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<partner name="killfith"/>
+	<info box="right"/>
+	<portrait_l entry="player" eye="serious" mouth="tense"/>
+	<portrait_r entry="partner" eye="decided" mouth="neutral"/>
+	<sjis>
+		キサマはどうするんだ？<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<player gender="male"/>
+	<partner name="killfith"/>
+	<info box="left"/>
+	<portrait_l entry="player" eye="serious" mouth="tense"/>
+	<portrait_r entry="partner" eye="decided" mouth="neutral"/>
+	<sjis>
+		どうって<three_dots/>？<end_line/>
+		<partner>はその<end_line/>
+		元気が出る薬ってやつを<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<player gender="male"/>
+	<partner name="killfith"/>
+	<info box="left"/>
+	<portrait_l entry="player" eye="serious" mouth="neutral"/>
+	<portrait_r entry="partner" eye="decided" mouth="neutral"/>
+	<sjis>
+		ミューノにあげたいんだろ<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<player gender="female"/>
+	<partner name="killfith"/>
+	<info box="left"/>
+	<portrait_l entry="player" eye="serious" mouth="tense"/>
+	<portrait_r entry="partner" eye="decided" mouth="neutral"/>
+	<sjis>
+		どうって<three_dots/>？<end_line/>
+		<partner>はその<end_line/>
+		元気が出る薬ってやつを<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<player gender="female"/>
+	<partner name="killfith"/>
+	<info box="left"/>
+	<portrait_l entry="player" eye="serious" mouth="neutral"/>
+	<portrait_r entry="partner" eye="decided" mouth="neutral"/>
+	<sjis>
+		ミューノにあげたいんでしょ？<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<partner name="killfith"/>
+	<info box="right"/>
+	<portrait_l entry="player" eye="serious" mouth="neutral"/>
+	<portrait_r entry="partner" eye="surprised_blush" mouth="tense"/>
+	<sjis>
+		な<three_dots/><end_line/>
+		誰がそんなことを<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<partner name="killfith"/>
+	<info box="left"/>
+	<portrait_l entry="player" eye="happy" mouth="neutral"/>
+	<portrait_r entry="partner" eye="surprised_blush" mouth="tense"/>
+	<sjis>
+		まあまあ<end_line/>
+		じゃあ行こうか！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<partner name="killfith"/>
+	<info box="right"/>
+	<portrait_l entry="player" eye="happy" mouth="neutral"/>
+	<portrait_r entry="partner" eye="neutral_blush" mouth="serious"/>
+	<sjis>
+		ちっ<three_dots/><end_line/>
+		好きにしろ<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<partner name="rufeel"/>
+	<info box="right"/>
+	<portrait_l entry="player" eye="happy" mouth="neutral"/>
+	<portrait_r entry="partner" eye="neutral_blush" mouth="serious"/>
+	<sjis>
+		私たちも急ぎましょう<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<partner name="rufeel"/>
+	<info box="left"/>
+	<portrait_l entry="player" eye="decided" mouth="neutral"/>
+	<portrait_r entry="partner" eye="neutral_blush" mouth="serious"/>
+	<male>
+		<sjis>
+			元気が出る薬ってやつを<end_line/>
+			ミューノにあげたいってことだよな<end_line/>
+			<partner>？<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			元気が出る薬ってやつを<end_line/>
+			ミューノにあげたいってことね<end_line/>
+			<partner>？<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<partner name="rufeel"/>
+	<info box="right"/>
+	<portrait_l entry="player" eye="decided" mouth="neutral"/>
+	<portrait_r entry="partner" eye="happy" mouth="neutral"/>
+	<sjis>
+		そのとおりですわ<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<partner name="rufeel"/>
+	<info box="left"/>
+	<portrait_l entry="player" eye="happy" mouth="neutral"/>
+	<portrait_r entry="partner" eye="happy" mouth="neutral"/>
+	<sjis>
+		そっか<end_line/>
+		じゃあ行こうか！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<partner name="rufeel"/>
+	<info box="right"/>
+	<portrait_l entry="player" eye="happy" mouth="neutral"/>
+	<portrait_r entry="partner" eye="serious" mouth="talk"/>
+	<sjis>
+		はい！<end_line/>
+	</sjis>
+</dialogue>

@@ -1,0 +1,23 @@
+<dialogue>
+	<info box="special"/>
+	<sjis>
+		ポータルは起動していません<end_line/>
+	</sjis>
+</dialogue>
+<menu>
+	<title>
+		<sjis>
+			ダンジョンに戻る？<end_line/>
+		</sjis>
+	</title>
+	<option>
+		<sjis>
+			戻る<end_line/>
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			やめる<end_line/>
+		</sjis>
+	</option>
+</menu>

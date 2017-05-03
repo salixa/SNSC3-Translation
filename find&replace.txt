@@ -1,0 +1,11 @@
+find        replace
+<a>         <ascii>
+</a>        </ascii>
+<e>         <end_line>
+<m>         <male>
+</m>        </male>
+<f>         <female>
+</f>        </female>
+<td>        <three_dots>
+<pn>        <player_name>
+<pnn>       <player_nickname>

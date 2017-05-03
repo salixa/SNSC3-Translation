@@ -1,0 +1,66 @@
+<location>
+	<sjis>
+		マニグ採掘場<end_line/>
+	</sjis>
+</location>
+<location>
+	<sjis>
+		マニグ採掘場　エリア１<end_line/>
+	</sjis>
+</location>
+<dialogue>
+	<info box="simple"/>
+	<portrait_l name="player"/>
+	<male>
+		<sjis>
+			さっきの女はなんかあやしい<end_line/>
+			とにかく追いかけてみよう！<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			さっきの子はなんかあやしいよ<end_line/>
+			とにかく追いかけてみよう！<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="simple"/>
+	<portrait_l name="player"/>
+	<male>
+		<sjis>
+			さっきの女を追いかけて<end_line/>
+			召喚獣のこと聞き出してやる！<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			さっきの子を追いかけて<end_line/>
+			召喚獣のこと聞き出してやるんだから！<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="simple"/>
+	<portrait_l name="player"/>
+	<male>
+		<sjis>
+			<partner>との勝負が待ってるし<end_line/>
+			遠くに行かない方がいいな<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			<partner>との勝負が待ってるし<end_line/>
+			遠くに行かない方がいいよね<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="simple"/>
+	<portrait_l name="player"/>
+	<sjis>
+		ザックが穴に落ちたみたいだから<end_line/>
+		見に行こう！<end_line/>
+	</sjis>
+</dialogue>

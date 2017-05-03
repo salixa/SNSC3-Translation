@@ -1,0 +1,66 @@
+<location>
+	<sjis>
+		森洞<end_line/>
+	</sjis>
+</location>
+<location>
+	<sjis>
+		バジャンの森<end_line/>
+	</sjis>
+</location>
+<location>
+	<sjis>
+		バジャンの森　エリア１<end_line/>
+	</sjis>
+</location>
+<dialogue>
+	<info box="simple"/>
+	<portrait_l name="gatekeeper"/>
+	<sjis>
+		修行するなら他行ってやりな<end_line/>
+		街道はあぶないからな<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="simple"/>
+	<portrait_l name="gatekeeper"/>
+	<sjis>
+		修行がんばれよ<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="simple"/>
+	<portrait_l name="player"/>
+	<male>
+		<sjis>
+			今戻ったら見つかるぞ<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			今戻ると見つかっちゃうよお<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="special"/>
+	<sjis>
+		転送装置は起動中の転送装置間を一瞬で<end_line/>
+		移動することができます<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="special"/>
+	<sjis>
+		ハンマーで殴ると起動し、転送装置の<end_line/>
+		上に立ってＡボタンを押すことで<end_line/>
+		使用することができます<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="special"/>
+	<sjis>
+		今は別の転送装置が起動していないため<end_line/>
+		使用することはできません<end_line/>
+	</sjis>
+</dialogue>

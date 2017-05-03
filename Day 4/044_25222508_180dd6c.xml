@@ -1,0 +1,31 @@
+<dialogue>
+	<info box="right"/>
+	<portrait_r entry="elieze" eye="serious" mouth="neutral"/>
+	<male>
+		<sjis>
+			Ç®Ç…Å[ÇøÇ·ÇÒ<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			Ç®ÇÀÅ[ÇøÇ·ÇÒ<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_r entry="elieze" eye="serious" mouth="neutral"/>
+	<sjis>
+		Ç®ÇªÇ∆Ç…Ç≈ÇÈÇ…ÇÕ<end_line/>
+		Ç±Ç¡ÇøÇ©ÇÁÇæÇÊ<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="serious" mouth="neutral"/>
+	<portrait_r entry="elieze" eye="serious" mouth="neutral"/>
+	<sjis>
+		Ç§ÇÒ<end_line/>
+		ÇÌÇ©Ç¡ÇΩÅI<end_line/>
+	</sjis>
+</dialogue>

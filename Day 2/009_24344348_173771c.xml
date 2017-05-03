@@ -1,0 +1,20 @@
+<location>
+	<sjis>
+		ボスタフ工房　ディックル村支部<end_line/>
+	</sjis>
+</location>
+<dialogue>
+	<info box="simple"/>
+	<portrait_l name="man"/>
+	<sjis>
+		<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="simple"/>
+	<portrait_l name="man"/>
+	<sjis>
+		身を守るための武器をって<end_line/>
+		思ったんだけどお金がね<three_dots/><end_line/>
+	</sjis>
+</dialogue>

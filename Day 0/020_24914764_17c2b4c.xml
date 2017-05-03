@@ -1,0 +1,22 @@
+<dialogue>
+	<info box="right"/>
+	<portrait_r entry="player" eye="serious" mouth="tense"/>
+	<sjis>
+		あ<three_dots/><end_line/>
+		あれは<three_dots/>？<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_r entry="player" eye="decided" mouth="stressed"/>
+	<male>
+		<sjis>
+			今度はなんだ？<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			今度はなに？<end_line/>
+		</sjis>
+	</female>
+</dialogue>

@@ -1,0 +1,244 @@
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="vee" eye="happy" mouth="stressed"/>
+	<sjis>
+		いててて<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="vee" eye="happy" mouth="stressed"/>
+	<portrait_r entry="player" eye="surprised" mouth="stressed"/>
+	<male>
+		<sjis>
+			親方、ケガ！？<end_line/>
+			さっきのヤツが！？<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			親方、ケガしてるの！？<end_line/>
+			さっきのアイツのせい！？<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="vee" eye="serious" mouth="stressed"/>
+	<portrait_r entry="player" eye="surprised" mouth="stressed"/>
+	<sjis>
+		キズはたいしたことないけど<end_line/>
+		ちょっとウデをひねっちまった<three_dots/><end_line/>
+		仕事、ヤバイかもね<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="vee" eye="serious" mouth="stressed"/>
+	<portrait_r entry="player" eye="decided" mouth="serious"/>
+	<male>
+		<sjis>
+			ちっくしょう！<end_line/>
+			あいつ！<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			そんな！<end_line/>
+			あいつ<three_dots/>！<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="vee" eye="serious" mouth="yell"/>
+	<sjis>
+		待つんだ、<player_nickname>！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="vee" eye="serious" mouth="yell"/>
+	<portrait_r entry="player" eye="decided" mouth="yell"/>
+	<male>
+		<sjis>
+			なんでだよ！？<end_line/>
+			親方がやられたんだぜ<end_line/>
+			だまってられるかよ！<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			どうして！？<end_line/>
+			親方がやられたんだよ<end_line/>
+			だまってられないよ！<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="vee" eye="decided" mouth="neutral"/>
+	<portrait_r entry="player" eye="decided" mouth="yell"/>
+	<sjis>
+		やられた！？<end_line/>
+		人聞きの悪いこと言うんじゃないよ！<end_line/>
+		あのまま続けてたら絶対に勝ってたね<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="vee" eye="decided" mouth="neutral"/>
+	<portrait_r entry="player" eye="decided" mouth="tense"/>
+	<sjis>
+		でも<end_line/>
+		親方にケガを<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="vee" eye="serious" mouth="serious"/>
+	<portrait_r entry="player" eye="decided" mouth="tense"/>
+	<sjis>
+		そうだよ、アイツは<end_line/>
+		このアタシにキズをつけられるほど<end_line/>
+		強い召喚獣だ<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="vee" eye="serious" mouth="neutral"/>
+	<portrait_r entry="player" eye="decided" mouth="serious"/>
+	<sjis>
+		アンタの相手にゃ荷が重すぎるよ<end_line/>
+		アンタにケガさせちゃ<end_line/>
+		ご両親に申し訳たたないだろ<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="vee" eye="serious" mouth="neutral"/>
+	<portrait_r entry="player" eye="decided" mouth="stressed"/>
+	<sjis>
+		でも<three_dots/>！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="vee" eye="serious" mouth="tense"/>
+	<portrait_r entry="player" eye="decided" mouth="stressed"/>
+	<sjis>
+		それに、この辺りじゃ<end_line/>
+		見たことない召喚獣だ<end_line/>
+		はぐれじゃないかもね<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="vee" eye="serious" mouth="tense"/>
+	<portrait_r entry="player" eye="decided" mouth="tense"/>
+	<male>
+		<sjis>
+			召喚師がいる？<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			召喚師がいるってこと？<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="vee" eye="serious" mouth="neutral"/>
+	<portrait_r entry="player" eye="decided" mouth="tense"/>
+	<sjis>
+		そうかもね<three_dots/><end_line/>
+		ただ、大した用ではなさそうだから<end_line/>
+		もう来ないだろ<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="vee" eye="serious" mouth="neutral"/>
+	<portrait_r entry="player" eye="serious" mouth="tense"/>
+	<male>
+		<sjis>
+			どうしてそんなこと、わかるのさ？<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			どうしてそんなこと、わかるの？<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="vee" eye="decided" mouth="neutral"/>
+	<portrait_r entry="player" eye="serious" mouth="tense"/>
+	<sjis>
+		最初の一撃に殺意がなかったからね<end_line/>
+		アタシやこの工房を狙ってるワケじゃ<end_line/>
+		ないと思うよ<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="vee" eye="decided" mouth="neutral"/>
+	<portrait_r entry="player" eye="serious" mouth="serious"/>
+	<sjis>
+		<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="vee" eye="serious" mouth="tense"/>
+	<portrait_r entry="player" eye="serious" mouth="serious"/>
+	<sjis>
+		とにかく村長にしらせてくるから<end_line/>
+		あやしいヤツが出たってね<end_line/>
+		アンタはおとなしくしてんだよ<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="vee" eye="serious" mouth="tense"/>
+	<portrait_r entry="player" eye="serious" mouth="tense"/>
+	<sjis>
+		え？<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="vee" eye="decided" mouth="serious"/>
+	<portrait_r entry="player" eye="serious" mouth="tense"/>
+	<sjis>
+		わかったね！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="vee" eye="decided" mouth="serious"/>
+	<portrait_r entry="player" eye="serious" mouth="serious"/>
+	<sjis>
+		あ、はい<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_r entry="player" eye="decided" mouth="tense"/>
+	<male>
+		<sjis>
+			おとなしくって言われてもさ<three_dots/><end_line/>
+			ムカつくよな！<end_line/>
+			どうしよっかな？<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			おとなしくって言われても<three_dots/><end_line/>
+			ムカつくよ<three_dots/>！<end_line/>
+			どうしよっかな？<end_line/>
+		</sjis>
+	</female>
+</dialogue>

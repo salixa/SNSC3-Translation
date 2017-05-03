@@ -1,0 +1,18 @@
+<dialogue>
+	<info box="right"/>
+	<portrait_r entry="player" eye="decided" mouth="yell"/>
+	<male>
+		<sjis>
+			あ！　さっきの！<end_line/>
+			まだいたのか！<end_line/>
+			ふざけンな！<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			あいつ！　さっきの！<end_line/>
+			まだいたのね！<end_line/>
+			ゆるさないんだから！<end_line/>
+		</sjis>
+	</female>
+</dialogue>

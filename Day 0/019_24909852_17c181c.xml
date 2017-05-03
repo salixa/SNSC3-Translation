@@ -1,0 +1,1011 @@
+<dialogue>
+	<player gender="male"/>
+	<info box="right"/>
+	<portrait_r entry="player" eye="decided" mouth="talk"/>
+	<sjis>
+		どうだ！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<player gender="male"/>
+	<info box="right"/>
+	<portrait_r entry="player" eye="serious" mouth="serious"/>
+	<sjis>
+		<three_dots/>じゃなくて<end_line/>
+		あいつはどこ行ったんだ！？<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<player gender="female"/>
+	<info box="right"/>
+	<portrait_r entry="player" eye="decided" mouth="talk"/>
+	<sjis>
+		やったぁ！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<player gender="female"/>
+	<info box="right"/>
+	<portrait_r entry="player" eye="serious" mouth="serious"/>
+	<sjis>
+		<three_dots/>じゃなくて<end_line/>
+		あいつはどこ行ったんだろ！？<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<partner name="run-dor"/>
+	<info box="right"/>
+	<portrait_r entry="player" eye="decided" mouth="yell"/>
+	<male>
+		<sjis>
+			ちっくしょー！<end_line/>
+			かくれてるなら出てこい<end_line/>
+			ドリルあたまヤロー！<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			ちょっとー！<end_line/>
+			かくれてるなら出てきなさいよ<end_line/>
+			このドリルあたまー！<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<partner name="enzi"/>
+	<info box="right"/>
+	<portrait_r entry="player" eye="decided" mouth="yell"/>
+	<male>
+		<sjis>
+			ちっくしょー！<end_line/>
+			かくれてるなら出てこい<end_line/>
+			ぼさぼさエリマキけものー<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			ちょっとー！<end_line/>
+			かくれてるなら出てきなさいよ<end_line/>
+			ぼさぼさエリマキけものー<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<partner name="killfith"/>
+	<info box="right"/>
+	<portrait_r entry="player" eye="decided" mouth="yell"/>
+	<male>
+		<sjis>
+			ちっくしょー！<end_line/>
+			かくれてるなら出てこい<end_line/>
+			はだかハネおとこー！<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			ちょっとー！<end_line/>
+			かくれてるなら出てきなさいよ<end_line/>
+			このハネおとこー！<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<partner name="rufeel"/>
+	<info box="right"/>
+	<portrait_r entry="player" eye="decided" mouth="yell"/>
+	<male>
+		<sjis>
+			ちっくしょー！<end_line/>
+			かくれてるなら出てこい<end_line/>
+			ばくはつトゲトゲあたまー！<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			ちょっとー！<end_line/>
+			かくれてるなら出てきなさいよ<end_line/>
+			ばくはつトゲトゲあたまー！<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="simple"/>
+	<portrait_l name="unknown"/>
+	<sjis>
+		ダメ、やめて！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_r entry="player" eye="surprised" mouth="tense"/>
+	<male>
+		<sjis>
+			なんだよ！？<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			なによ！？<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_r entry="player" eye="serious" mouth="stressed"/>
+	<male>
+		<sjis>
+			誰だ！？<end_line/>
+			出てこい！<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			誰かいるの！？<end_line/>
+			ねぇ！<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_r entry="player" eye="decided" mouth="yell"/>
+	<male>
+		<sjis>
+			さっさと出てこいよ！<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			本当にいたっ！<end_line/>
+			どうしよう！？<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="murno_shady" eye="serious" mouth="neutral"/>
+	<sjis>
+		<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="murno_shady" eye="serious" mouth="neutral"/>
+	<portrait_r entry="player" eye="serious" mouth="tense"/>
+	<male>
+		<sjis>
+			子供かよ<three_dots/><end_line/>
+			ここで何してたんだ？<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			子供じゃない<three_dots/>？<end_line/>
+			ここで何してたの？<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="murno_shady" eye="serious" mouth="tense"/>
+	<portrait_r entry="player" eye="serious" mouth="tense"/>
+	<sjis>
+		別に<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<partner name="run-dor"/>
+	<info box="right"/>
+	<portrait_l entry="murno_shady" eye="serious" mouth="tense"/>
+	<portrait_r entry="player" eye="serious" mouth="neutral"/>
+	<male>
+		<sjis>
+			オレ、召喚獣をさがしてるんだ<end_line/>
+			ドリルあたまの<end_line/>
+			なんか知らない？<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			わたし、召喚獣をさがしてるの<end_line/>
+			ドリルあたまの<end_line/>
+			なにか知らない？<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<partner name="enzi"/>
+	<info box="right"/>
+	<portrait_l entry="murno_shady" eye="serious" mouth="tense"/>
+	<portrait_r entry="player" eye="serious" mouth="neutral"/>
+	<male>
+		<sjis>
+			オレ、召喚獣をさがしてるんだ<end_line/>
+			エリマキしたでかいの<end_line/>
+			なんか知らない？<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			わたし、召喚獣をさがしてるの<end_line/>
+			エリマキした大きいの<end_line/>
+			なにか知らない？<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<partner name="killfith"/>
+	<info box="right"/>
+	<portrait_l entry="murno_shady" eye="serious" mouth="tense"/>
+	<portrait_r entry="player" eye="serious" mouth="neutral"/>
+	<male>
+		<sjis>
+			オレ、召喚獣をさがしてるんだ<end_line/>
+			ハネはえたはだか男<end_line/>
+			なんか知らない？<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			わたし、召喚獣をさがしてるの<end_line/>
+			黒いハネのはえた男<end_line/>
+			なにか知らない？<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<partner name="rufeel"/>
+	<info box="right"/>
+	<portrait_l entry="murno_shady" eye="serious" mouth="tense"/>
+	<portrait_r entry="player" eye="serious" mouth="neutral"/>
+	<male>
+		<sjis>
+			オレ、召喚獣をさがしてるんだ<end_line/>
+			ばくはつとげとげあたまの<end_line/>
+			なんか知らない？<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			わたし、召喚獣をさがしてるの<end_line/>
+			ばくはつとげとげあたまの<end_line/>
+			なにか知らない？<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="murno_shady" eye="surprised" mouth="stressed"/>
+	<portrait_r entry="player" eye="serious" mouth="neutral"/>
+	<sjis>
+		し、知らない<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="murno_shady" eye="surprised" mouth="stressed"/>
+	<portrait_r entry="player" eye="serious" mouth="serious"/>
+	<male>
+		<sjis>
+			たしかにコッチに来たんだよ<end_line/>
+			お前、そこにいたんだろ？<end_line/>
+			なにも見てないのか！？<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			たしかにコッチに来たんだよ<end_line/>
+			あなた、そこにいたんでしょ？<end_line/>
+			なにも見てないの！？<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="murno_shady" eye="decided" mouth="serious"/>
+	<portrait_r entry="player" eye="serious" mouth="serious"/>
+	<sjis>
+		<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="murno_shady" eye="decided" mouth="serious"/>
+	<portrait_r entry="player" eye="decided" mouth="serious"/>
+	<male>
+		<sjis>
+			なんだよ！？<end_line/>
+			じゃあ、さっき光ったのは！？<end_line/>
+			本当は何してたんだ！？<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			なによ！？<end_line/>
+			じゃあ、さっき光ったのは！？<end_line/>
+			本当は何してたの！？<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="murno_shady" eye="decided" mouth="tense"/>
+	<sjis>
+		私に<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="murno_shady" eye="decided" mouth="tense"/>
+	<portrait_r entry="player" eye="serious" mouth="tense"/>
+	<male>
+		<sjis>
+			ん？<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			え？<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="murno_shady" eye="decided" mouth="yell"/>
+	<sjis>
+		私にかまわないで！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="murno_shady" eye="decided" mouth="yell"/>
+	<portrait_r entry="player" eye="surprised" mouth="tense"/>
+	<sjis>
+		は！？<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="murno_shady" eye="decided" mouth="serious"/>
+	<portrait_r entry="player" eye="decided" mouth="serious"/>
+	<male>
+		<sjis>
+			なんだと！？<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			なによ、それ！？<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="murno_shady" eye="decided" mouth="tense"/>
+	<portrait_r entry="player" eye="decided" mouth="serious"/>
+	<sjis>
+		私に関わらない方がいい<end_line/>
+		あなたのためにも<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_r entry="player" eye="decided" mouth="yell"/>
+	<male>
+		<sjis>
+			なに言ってンだ？<end_line/>
+			ちゃんと話せよ！<end_line/>
+			親方がケガしてるんだ！<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			なに言ってンの？<end_line/>
+			ちゃんと話して！<end_line/>
+			親方がケガしてるんだよ！<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<player gender="male"/>
+	<info box="left"/>
+	<portrait_l entry="murno_shady" eye="surprised" mouth="stressed"/>
+	<sjis>
+		ケガ！？<end_line/>
+		そんな、ウソ<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<player gender="male"/>
+	<info box="right"/>
+	<portrait_l entry="murno_shady" eye="surprised" mouth="stressed"/>
+	<portrait_r entry="player" eye="decided" mouth="stressed"/>
+	<sjis>
+		ウソなんかじゃない！<end_line/>
+		だから何か知ってンなら<end_line/>
+		おしえてくれ！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<player gender="male"/>
+	<info box="left"/>
+	<portrait_l entry="murno_shady" eye="surprised" mouth="stressed"/>
+	<sjis>
+		ちょっと、やめて<three_dots/><end_line/>
+		あ<three_dots/>！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<player gender="male"/>
+	<info box="left"/>
+	<portrait_l entry="murno_shady" eye="sad" mouth="serious"/>
+	<sjis>
+		<three_dots/>っ！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<player gender="male"/>
+	<info box="right"/>
+	<portrait_l entry="murno_shady" eye="sad" mouth="serious"/>
+	<portrait_r entry="player" eye="decided" mouth="stressed"/>
+	<sjis>
+		いいから話せよ<end_line/>
+		召喚獣のこと知ってンだろ！<end_line/>
+		おい！<end_line/>
+	</sjis>
+</dialogue>
+<bigtext>
+	<player gender="male"/>
+	<info box="simple" effect="big"/>
+	<portrait_l entry="murno_shady" eye="sad" mouth="serious"/>
+	<portrait_r entry="player" eye="decided" mouth="stressed"/>
+	<sjis>
+		むに<hearth><end_line/>
+	</sjis>
+</bigtext>
+<dialogue>
+	<player gender="male"/>
+	<info box="right"/>
+	<portrait_r entry="player" eye="surprised" mouth="tense"/>
+	<sjis>
+		むに？<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<player gender="male"/>
+	<info box="right"/>
+	<portrait_l entry="murno_shady" eye="surprised_blush" mouth="serious"/>
+	<portrait_r entry="player" eye="decided" mouth="serious"/>
+	<sjis>
+		あれ？<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<player gender="male"/>
+	<info box="right"/>
+	<portrait_l entry="murno_shady" eye="sad_blush" mouth="neutral"/>
+	<portrait_r entry="player" eye="decided_blush" mouth="tense"/>
+	<sjis>
+		これって<three_dots/><end_line/>
+		もしかして<three_dots/>？<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<player gender="male"/>
+	<info box="left"/>
+	<portrait_l entry="murno_shady" eye="happy_blush" mouth="serious"/>
+	<portrait_r entry="player" eye="decided_blush" mouth="tense"/>
+	<sjis>
+		い<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<bigtext>
+	<player gender="male"/>
+	<info box="left" effect="big"/>
+	<portrait_l entry="murno_shady" eye="happy_blush" mouth="yell"/>
+	<portrait_r entry="player" eye="decided_blush" mouth="tense"/>
+	<sjis>
+		イヤぁあー！！！<end_line/>
+	</sjis>
+</bigtext>
+<dialogue>
+	<player gender="male"/>
+	<info box="left"/>
+	<portrait_l entry="murno_shady" eye="decided_blush" mouth="serious"/>
+	<sjis>
+		<three_dots/>っ！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<player gender="male"/>
+	<info box="right"/>
+	<portrait_l entry="murno_shady" eye="decided_blush" mouth="serious"/>
+	<portrait_r entry="player" eye="surprised_blush" mouth="stressed"/>
+	<sjis>
+		お、お前、女だったのか！？<end_line/>
+		ご、ごめん<end_line/>
+		気がつかなかった！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<player gender="female"/>
+	<info box="left"/>
+	<portrait_l entry="murno_shady" eye="surprised" mouth="stressed"/>
+	<sjis>
+		ケガ！？<end_line/>
+		そんな<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<player gender="female"/>
+	<info box="right"/>
+	<portrait_l entry="murno_shady" eye="surprised" mouth="stressed"/>
+	<portrait_r entry="player" eye="decided" mouth="stressed"/>
+	<sjis>
+		だから話してよ<end_line/>
+		召喚獣のこと知ってるんでしょ！<end_line/>
+		ねえ！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<player gender="female"/>
+	<info box="left"/>
+	<portrait_l entry="murno_shady" eye="surprised" mouth="tense"/>
+	<sjis>
+		あ<three_dots/>！<end_line/>
+	</sjis>
+</dialogue>
+<bigtext>
+	<player gender="female"/>
+	<info box="simple" effect="big"/>
+	<sjis>
+		ちゅっ<hearth><end_line/>
+	</sjis>
+</bigtext>
+<dialogue>
+	<player gender="female"/>
+	<info box="right"/>
+	<portrait_r entry="player" eye="surprised_blush" mouth="stressed"/>
+	<sjis>
+		ふ<three_dots/><end_line/>
+		ふわ<three_dots/>わ<three_dots/><end_line/>
+		いま<three_dots/>キ<three_dots/>キキ<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<player gender="female"/>
+	<info box="left"/>
+	<portrait_l entry="murno_shady" eye="happy_blush" mouth="serious"/>
+	<portrait_r entry="player" eye="surprised_blush" mouth="stressed"/>
+	<sjis>
+		い<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<bigtext>
+	<player gender="female"/>
+	<info box="left" effect="big"/>
+	<portrait_l entry="murno_shady" eye="happy_blush" mouth="yell"/>
+	<portrait_r entry="player" eye="surprised_blush" mouth="stressed"/>
+	<sjis>
+		イヤぁあー！！！<end_line/>
+	</sjis>
+</bigtext>
+<dialogue>
+	<player gender="female"/>
+	<info box="left"/>
+	<portrait_l entry="murno_shady" eye="decided_blush" mouth="serious"/>
+	<sjis>
+		<three_dots/>っ！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<player gender="female"/>
+	<info box="right"/>
+	<portrait_l entry="murno_shady" eye="decided_blush" mouth="serious"/>
+	<portrait_r entry="player" eye="decided_blush" mouth="yell"/>
+	<sjis>
+		<three_dots/>っ！<end_line/>
+		なんであんたが先に悲鳴を<three_dots/>！<end_line/>
+		<three_dots/>って、今の声<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<player gender="female"/>
+	<info box="right"/>
+	<portrait_l entry="murno_shady" eye="decided_blush" mouth="serious"/>
+	<portrait_r entry="player" eye="surprised" mouth="stressed"/>
+	<sjis>
+		もしかして、あなた<end_line/>
+		女の子なの？<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="murno_shady" eye="decided_blush" mouth="tense"/>
+	<portrait_r entry="player" eye="surprised" mouth="stressed"/>
+	<sjis>
+		サイテー<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="murno_shady" eye="decided" mouth="serious"/>
+	<portrait_r entry="player" eye="decided" mouth="stressed"/>
+	<male>
+		<sjis>
+			なんだよ、仕方ないだろ！<end_line/>
+			そんなカッコしてるんだし！<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			なによそれ！<end_line/>
+			わたしだって同じ目にあってるのよ<end_line/>
+			それに、わたしは<three_dots/><end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_r entry="player" eye="decided" mouth="yell"/>
+	<male>
+		<sjis>
+			待てよ！<end_line/>
+			話はまだ終わってないぞ！<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			どこ行くの？<end_line/>
+			話はまだ終わってないんだから！<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<bigtext>
+	<player gender="male"/>
+	<info box="left" effect="big"/>
+	<portrait_l entry="murno_shady" eye="surprised" mouth="yell"/>
+	<portrait_r entry="player" eye="decided" mouth="yell"/>
+	<sjis>
+		さわらないで！<end_line/>
+	</sjis>
+</bigtext>
+<dialogue>
+	<player gender="male"/>
+	<info box="right"/>
+	<portrait_l entry="murno_shady" eye="surprised" mouth="yell"/>
+	<portrait_r entry="player" eye="neutral_blush" mouth="serious"/>
+	<sjis>
+		ちっ、なんだよ！<end_line/>
+		オレだってさわりたくて<end_line/>
+		さわったワケじゃないぞ！<end_line/>
+	</sjis>
+</dialogue>
+<bigtext>
+	<player gender="female"/>
+	<info box="left" effect="big"/>
+	<portrait_l entry="murno_shady" eye="surprised" mouth="yell"/>
+	<portrait_r entry="player" eye="decided" mouth="yell"/>
+	<sjis>
+		近づかないで！<end_line/>
+	</sjis>
+</bigtext>
+<dialogue>
+	<player gender="female"/>
+	<info box="right"/>
+	<portrait_l entry="murno_shady" eye="surprised" mouth="yell"/>
+	<portrait_r entry="player" eye="decided_blush" mouth="serious"/>
+	<sjis>
+		なによ、それ！<end_line/>
+		わたしだって好きであなたに<end_line/>
+		近づいたりしないわよ！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="murno_shady" eye="decided" mouth="serious"/>
+	<portrait_r entry="player" eye="decided_blush" mouth="serious"/>
+	<sjis>
+		！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="murno_shady" eye="surprised" mouth="tense"/>
+	<portrait_r entry="player" eye="surprised" mouth="stressed"/>
+	<sjis>
+		あ<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="murno_shady" eye="surprised" mouth="tense"/>
+	<portrait_r entry="player" eye="decided" mouth="tense"/>
+	<male>
+		<sjis>
+			いって<three_dots/><end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			いた<three_dots/><end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="murno_shady" eye="sad" mouth="serious"/>
+	<portrait_r entry="player" eye="decided" mouth="tense"/>
+	<sjis>
+		私に関わらないで<three_dots/><end_line/>
+		あなたも<three_dots/><end_line/>
+		あなたも不幸になるから<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_r entry="player" eye="decided" mouth="tense"/>
+	<sjis>
+		（涙？）<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_r entry="player" eye="decided" mouth="stressed"/>
+	<male>
+		<sjis>
+			おい<three_dots/><end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			ちょっと<three_dots/><end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<player gender="male"/>
+	<info box="right"/>
+	<portrait_r entry="player" eye="decided" mouth="tense"/>
+	<sjis>
+		なんだよ<three_dots/><end_line/>
+		不幸って！？<end_line/>
+		ワケわかんないぞ！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<player gender="male"/>
+	<info box="right"/>
+	<portrait_r entry="player" eye="decided" mouth="serious"/>
+	<sjis>
+		ほっぺた<end_line/>
+		いてぇし<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<player gender="male"/>
+	<info box="right"/>
+	<portrait_r entry="player" eye="happy" mouth="stressed"/>
+	<sjis>
+		ひっぱたかなくたって<end_line/>
+		いーじゃねーか！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<player gender="male"/>
+	<info box="simple"/>
+	<portrait_r name="player"/>
+	<sjis>
+		落としもの<three_dots/>？<end_line/>
+		あいつのか<three_dots/><end_line/>
+		なんだろ？　大事なもの？<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<player gender="male"/>
+	<info box="simple"/>
+	<portrait_r name="player"/>
+	<sjis>
+		まさか<three_dots/><end_line/>
+		さっきの召喚獣を呼び出す<end_line/>
+		召喚石だったりして<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<player gender="female"/>
+	<info box="right"/>
+	<portrait_r entry="player" eye="decided" mouth="tense"/>
+	<sjis>
+		なによ<three_dots/><end_line/>
+		不幸って！？<end_line/>
+		ワケわかんない！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<player gender="female"/>
+	<info box="right"/>
+	<portrait_r entry="player" eye="decided" mouth="serious"/>
+	<sjis>
+		ホッペもイタイし<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<player gender="female"/>
+	<info box="right"/>
+	<portrait_r entry="player" eye="happy" mouth="stressed"/>
+	<sjis>
+		たたきたいのは<end_line/>
+		わたしの方なのに～！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<player gender="female"/>
+	<info box="simple"/>
+	<portrait_r name="player"/>
+	<sjis>
+		この石<three_dots/>、かわった石だけど<three_dots/><end_line/>
+		あの子のかな<three_dots/><end_line/>
+		なんだろ？　大事なものかな？<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<player gender="female"/>
+	<info box="simple"/>
+	<portrait_r name="player"/>
+	<sjis>
+		まさか<three_dots/><end_line/>
+		さっきの召喚獣を呼び出す<end_line/>
+		召喚石だったりして<end_line/>
+	</sjis>
+</dialogue>
+<choice>
+	<info box="right"/>
+	<portrait_r entry="player" eye="serious" mouth="tense"/>
+	<option>
+		<sjis>
+			召喚できるかためしてみよう！<end_line/>
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			よくわからないから何もしない<end_line/>
+		</sjis>
+	</option>
+</choice>
+<dialogue>
+	<info box="right"/>
+	<portrait_r entry="player" eye="decided" mouth="neutral"/>
+	<male>
+		<sjis>
+			よし<three_dots/><end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			よぉし<three_dots/><end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<bigtext>
+	<info box="right" effect="big"/>
+	<portrait_r entry="player" eye="decided" mouth="yell"/>
+	<sjis>
+		召喚っ！<end_line/>
+	</sjis>
+</bigtext>
+<dialogue>
+	<info box="right"/>
+	<portrait_r entry="player" eye="serious" mouth="stressed"/>
+	<sjis>
+		あー<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_r entry="player" eye="happy" mouth="tense"/>
+	<male>
+		<sjis>
+			ちがうみたいだ<three_dots/><end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			ちがったみたい<three_dots/><end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_r entry="player" eye="sad" mouth="neutral"/>
+	<sjis>
+		なんかコワイし<end_line/>
+		やめとこ<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_r entry="player" eye="serious" mouth="serious"/>
+	<sjis>
+		けど、どうしよう？<end_line/>
+	</sjis>
+</dialogue>
+<choice>
+	<info box="right"/>
+	<portrait_r entry="player" eye="serious" mouth="serious"/>
+	<male>
+		<option>
+			<sjis>
+				あいつに届けてやろうかな<end_line/>
+			</sjis>
+		</option>
+	</male>
+	<female>
+		<option>
+			<sjis>
+				あの子に届けてあげようかな<end_line/>
+			</sjis>
+		</option>
+	</female>
+	<option>
+		<sjis>
+			武器の材料にしちゃえ！<end_line/>
+		</sjis>
+	</option>
+</choice>
+<dialogue>
+	<info box="right"/>
+	<portrait_r entry="player" eye="serious" mouth="neutral"/>
+	<male>
+		<sjis>
+			良くわかんないけど届けてやるか<end_line/>
+			ついでに召喚獣の話も<end_line/>
+			聞き出してやろう！<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			良くわかんないけど届けてあげよう<end_line/>
+			ついでに召喚獣の話も<end_line/>
+			聞き出してやるんだから！<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<player gender="male"/>
+	<info box="right"/>
+	<portrait_r entry="player" eye="decided" mouth="serious"/>
+	<sjis>
+		<three_dots/><end_line/>
+		オレが知るもんか<end_line/>
+		武器の材料にしてやる！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<player gender="male"/>
+	<info box="right"/>
+	<portrait_r entry="player" eye="serious" mouth="serious"/>
+	<sjis>
+		だけどとにかく<end_line/>
+		あいつはあやしい<end_line/>
+		追いかけてみよう！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<player gender="female"/>
+	<info box="right"/>
+	<portrait_r entry="player" eye="decided" mouth="serious"/>
+	<sjis>
+		<three_dots/><end_line/>
+		わたしが知るもんですか<end_line/>
+		武器の材料にしちゃおう！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<player gender="female"/>
+	<info box="right"/>
+	<portrait_r entry="player" eye="decided" mouth="serious"/>
+	<sjis>
+		だけどとにかく<end_line/>
+		あの子はあやしいよ<end_line/>
+		追いかけてみよう！<end_line/>
+	</sjis>
+</dialogue>

@@ -1,0 +1,69 @@
+<location>
+	<sjis>
+		バジャンの森<end_line/>
+	</sjis>
+</location>
+<location>
+	<sjis>
+		バジャンの森　エリア５<end_line/>
+	</sjis>
+</location>
+<dialogue>
+	<info box="simple"/>
+	<portrait_l name="tier"/>
+	<sjis>
+		めずらしいのがいるわ<three_dots/><end_line/>
+	</sjis>
+	<ascii>
+		That's unusual<three_dots/><end_line/>
+	</ascii>
+</dialogue>
+<dialogue>
+	<info box="simple"/>
+	<portrait_l name="vee"/>
+	<sjis>
+		アイツ<three_dots/><end_line/>
+		ちょっとジャマだねぇ<end_line/>
+	</sjis>
+	<ascii>
+		They're<three_dots/><end_line/>
+		Hm, I'll be bothering you for a bit.<end_line/>
+	</ascii>
+</dialogue>
+<dialogue>
+	<info box="simple"/>
+	<portrait_l name="murno"/>
+	<sjis>
+		どうしよう、<player_nickname><three_dots/><end_line/>
+	</sjis>
+	<ascii>
+		What're you going to do,<end_line/> 
+		<player_nickname>?<end_line/>
+	</ascii>
+</dialogue>
+<dialogue>
+	<info box="simple"/>
+	<portrait_l name="vee"/>
+	<sjis>
+		いいかい<three_dots/>、今度の勝負<end_line/>
+		絶対に負けは許されないからね！<end_line/>
+	</sjis>
+	<ascii>
+		Listen up<three_dots/> In this match,<end_line/>
+		losing is absolutely not allowed!<end_line/>
+	</ascii>
+</dialogue>
+<dialogue>
+	<info box="simple"/>
+	<portrait_l name="murno"/>
+	<sjis>
+		なんだか大変なことに<end_line/>
+		なっちゃったけど<three_dots/><end_line/>
+		がんばってね、<player_nickname><end_line/>
+	</sjis>
+	<ascii>
+		Looks like it's somehow<end_line/>
+		become a big deal<three_dots/><end_line/>
+		Do your best, <player_nickname>.<end_line/>
+	</ascii>
+</dialogue>

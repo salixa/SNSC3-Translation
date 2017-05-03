@@ -1,0 +1,750 @@
+<dialogue>
+	<info box="simple"/>
+	<portrait_r name="unknown"/>
+	<sjis>
+		うわっ！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="surprised" mouth="stressed"/>
+	<male>
+		<sjis>
+			なんだよ！？<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			なんなの！？<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="serious" mouth="tense"/>
+	<male>
+		<sjis>
+			おい<end_line/>
+			大丈夫か！？<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			ねえ<end_line/>
+			大丈夫！？<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="serious" mouth="tense"/>
+	<portrait_r entry="zakk" eye="happy" mouth="neutral"/>
+	<sjis>
+		だいじょうぶです<end_line/>
+		ありがとう<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="serious" mouth="tense"/>
+	<portrait_r entry="zakk" eye="surprised" mouth="stressed"/>
+	<sjis>
+		<three_dots/>ってお前、はぐれの弟子！？<end_line/>
+		召喚獣まで！？<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="decided" mouth="neutral"/>
+	<portrait_r entry="zakk" eye="surprised" mouth="stressed"/>
+	<male>
+		<sjis>
+			オレは<player_name>だ！<end_line/>
+			はぐれって言うなよ<end_line/>
+			景気わる男の子分！<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			わたしは<player_name>！<end_line/>
+			はぐれって言わないでよ<end_line/>
+			景気わる男の子分！<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="decided" mouth="neutral"/>
+	<portrait_r entry="zakk" eye="decided" mouth="yell"/>
+	<sjis>
+		けいきわる<three_dots/>って<end_line/>
+		レミィさんのことか！<end_line/>
+		ふざけンな！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="decided" mouth="neutral"/>
+	<portrait_r entry="zakk" eye="decided" mouth="serious"/>
+	<sjis>
+		レミィさんは景気悪くないぞ！<end_line/>
+		むしろ景気いいぞ！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="decided" mouth="talk"/>
+	<portrait_r entry="zakk" eye="decided" mouth="serious"/>
+	<sjis>
+		はいはい、そーですかー<end_line/>
+		ごめんなさいね～<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="decided" mouth="talk"/>
+	<portrait_r entry="zakk" eye="decided" mouth="tense"/>
+	<sjis>
+		なんだよ、それ！<end_line/>
+		ケンカうってんの<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="partner" eye="serious" mouth="serious"/>
+	<sjis>
+		<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="partner" eye="serious" mouth="serious"/>
+	<portrait_r entry="zakk" eye="decided" mouth="stressed"/>
+	<sjis>
+		あ<three_dots/><end_line/>
+		あの<three_dots/>？<end_line/>
+		その召喚獣は<three_dots/>？<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="serious" mouth="neutral"/>
+	<portrait_r entry="zakk" eye="decided" mouth="stressed"/>
+	<male>
+		<sjis>
+			ああ<end_line/>
+			こいつ、オレのパートナーの<end_line/>
+			<partner><end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			ああ<end_line/>
+			この子、わたしのパートナーよ<end_line/>
+			<partner>っていうの<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="serious" mouth="neutral"/>
+	<portrait_r entry="zakk" eye="neutral_blush" mouth="talk"/>
+	<sjis>
+		へえ、すごいなぁ<end_line/>
+		召喚獣をもってるなんて<end_line/>
+		オイラもあこがれるよなぁ<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="serious" mouth="neutral"/>
+	<portrait_r entry="zakk" eye="surprised" mouth="yell"/>
+	<sjis>
+		<three_dots/>って、ちがう！<end_line/>
+		なにやってるんだ、オイラは！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="sad" mouth="tense"/>
+	<portrait_r entry="zakk" eye="surprised" mouth="yell"/>
+	<male>
+		<sjis>
+			知るかよ<end_line/>
+			勝手にコケてたんだよ<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			知らないよ<end_line/>
+			勝手に転んでたんでしょ<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="sad" mouth="tense"/>
+	<portrait_r entry="zakk" eye="happy_blush" mouth="stressed"/>
+	<sjis>
+		うっ！　うるさい！<end_line/>
+		もう行くからな！<end_line/>
+		駅でレミィさんがまってるんだ<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="sad" mouth="tense"/>
+	<male>
+		<sjis>
+			いそがしいヤツだな<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			いそがしい子ね<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<partner name="run-dor"/>
+	<info box="right"/>
+	<portrait_r entry="partner" eye="serious" mouth="tense"/>
+	<sjis>
+		コレハ<three_dots/><end_line/>
+		アノ少年ノ落トシ物デス<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<partner name="enzi"/>
+	<info box="right"/>
+	<portrait_r entry="partner" eye="serious" mouth="tense"/>
+	<sjis>
+		これは<three_dots/><end_line/>
+		あの少年の落とし物じゃな<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<partner name="killfith"/>
+	<info box="right"/>
+	<portrait_r entry="partner" eye="serious" mouth="tense"/>
+	<sjis>
+		ん<three_dots/>？<end_line/>
+		これ、あいつのか<three_dots/>？<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<partner name="rufeel"/>
+	<info box="right"/>
+	<portrait_r entry="partner" eye="serious" mouth="tense"/>
+	<sjis>
+		これ<three_dots/><end_line/>
+		さっきの少年の落とし物では<end_line/>
+		ないですか？<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="serious" mouth="tense"/>
+	<portrait_r entry="partner" eye="serious" mouth="tense"/>
+	<male>
+		<sjis>
+			おいおい<three_dots/><end_line/>
+			これ、ハンマーじゃないか<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			ちょっと、これ<end_line/>
+			ハンマーじゃないの<three_dots/><end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<player gender="male"/>
+	<info box="left"/>
+	<portrait_l entry="player" eye="decided" mouth="serious"/>
+	<portrait_r entry="partner" eye="serious" mouth="tense"/>
+	<sjis>
+		なにやってんだ、アイツ<end_line/>
+		鍛冶職人の命のハンマーを<end_line/>
+		落とすなんて<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<player gender="female"/>
+	<info box="left"/>
+	<portrait_l entry="player" eye="decided" mouth="serious"/>
+	<portrait_r entry="partner" eye="serious" mouth="tense"/>
+	<sjis>
+		なにやってんのよ、あの子<end_line/>
+		鍛冶職人の命のハンマーを<end_line/>
+		落とすなんて<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<choice>
+	<info box="left"/>
+	<portrait_l entry="player" eye="decided" mouth="serious"/>
+	<portrait_r entry="partner" eye="serious" mouth="tense"/>
+	<option>
+		<sjis>
+			ザックにハンマーを届けよう<end_line/>
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			他人の落とし物なんて関係ない<end_line/>
+		</sjis>
+	</option>
+</choice>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="serious" mouth="neutral"/>
+	<portrait_r entry="partner" eye="serious" mouth="tense"/>
+	<male>
+		<sjis>
+			しかたない<end_line/>
+			届けてやるか！<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			しかたない<end_line/>
+			届けてあげよう！<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<partner name="run-dor"/>
+	<info box="right"/>
+	<portrait_l entry="player" eye="serious" mouth="neutral"/>
+	<portrait_r entry="partner" eye="serious" mouth="tense"/>
+	<sjis>
+		ナゼデスカ？<end_line/>
+		彼ハ　アナタノコトヲ<end_line/>
+		嫌ッテイルヨウニ見エマシタガ<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<partner name="enzi"/>
+	<info box="right"/>
+	<portrait_l entry="player" eye="serious" mouth="neutral"/>
+	<portrait_r entry="partner" eye="serious" mouth="tense"/>
+	<sjis>
+		ほう<three_dots/><end_line/>
+		あの少年、おぬしたちと関わるのを<end_line/>
+		イヤがってるようにみえたが<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<partner name="killfith"/>
+	<info box="right"/>
+	<portrait_l entry="player" eye="serious" mouth="neutral"/>
+	<portrait_r entry="partner" eye="serious" mouth="tense"/>
+	<sjis>
+		あのニンゲン、キサマのことを<end_line/>
+		嫌っているようだったのに<end_line/>
+		わざわざご苦労なヤツだ<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<partner name="rufeel"/>
+	<info box="right"/>
+	<portrait_l entry="player" eye="serious" mouth="neutral"/>
+	<portrait_r entry="partner" eye="serious" mouth="tense"/>
+	<sjis>
+		わざわざどうしてですか？<end_line/>
+		あの子、あなたのこと<end_line/>
+		嫌ってるみたいでしたが<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="serious" mouth="talk"/>
+	<portrait_r entry="partner" eye="serious" mouth="tense"/>
+	<sjis>
+		まあね<end_line/>
+		でも、ハンマーだし<end_line/>
+		放っておくわけにはいかないよ<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="simple"/>
+	<portrait_l name="unknown"/>
+	<sjis>
+		よく言った！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_r entry="player" eye="surprised" mouth="stressed"/>
+	<sjis>
+		村長！？<end_line/>
+		いつからそこに？<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="simple"/>
+	<portrait_l name="chief"/>
+	<sjis>
+		今のお前<end_line/>
+		かっこよかったぞ！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="simple"/>
+	<portrait_l name="chief"/>
+	<sjis>
+		これからもその心<end_line/>
+		忘れないようにしな！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_r entry="player" eye="neutral_blush" mouth="neutral"/>
+	<sjis>
+		ありがとう、村長<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="nobox"/>
+	<male>
+		<sjis>
+			あいつのハンマーなんて<end_line/>
+			オレの知ったことじゃ<three_dots/><end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			あの子のハンマーなんて<end_line/>
+			わたしの知ったことじゃ<three_dots/><end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="simple"/>
+	<portrait_l name="chief"/>
+	<sjis>
+		<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_r entry="player" eye="surprised" mouth="stressed"/>
+	<male>
+		<sjis>
+			うおっ、村長！？<end_line/>
+			いつからそこに！？<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			うわっ、村長！？<end_line/>
+			いつからそこに！？<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="simple"/>
+	<portrait_l name="chief"/>
+	<sjis>
+		目を閉じてみろ<end_line/>
+		<player_nickname><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_r entry="player" eye="serious" mouth="tense"/>
+	<sjis>
+		は？<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="simple"/>
+	<portrait_l name="chief"/>
+	<sjis>
+		いいから目を閉じて<end_line/>
+		ヴィーねえさんの顔を<end_line/>
+		思い出してみろ！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_r entry="player" eye="surprised" mouth="stressed"/>
+	<sjis>
+		あ<three_dots/>、はい！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="vee" eye="decided" mouth="neutral"/>
+	<sjis>
+		アンタねぇ<three_dots/><end_line/>
+		いつも言ってるだろ<end_line/>
+		カッコワルイことすんじゃないよ<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_r entry="player" eye="decided" mouth="serious"/>
+	<sjis>
+		<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="simple"/>
+	<portrait_l name="chief"/>
+	<sjis>
+		どうだ、わかったか？<end_line/>
+		お前がどうするべきか<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_r entry="player" eye="sad" mouth="tense"/>
+	<male>
+		<sjis>
+			<three_dots/>うん<end_line/>
+			ゴメン、親方<three_dots/><end_line/>
+			オレ、カッコワルかったよ<three_dots/><end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			<three_dots/>うん<end_line/>
+			ゴメン、親方<three_dots/><end_line/>
+			わたし、カッコワルかったよ<three_dots/><end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="simple"/>
+	<portrait_l name="chief"/>
+	<sjis>
+		うむ<three_dots/><end_line/>
+		わかったようだな<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_r entry="player" eye="decided" mouth="neutral"/>
+	<sjis>
+		はい！<end_line/>
+		ありがとう村長！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="simple"/>
+	<portrait_l name="chief"/>
+	<sjis>
+		いいってことよ！<end_line/>
+		じゃあな！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="decided" mouth="talk"/>
+	<male>
+		<sjis>
+			よし！<end_line/>
+			あいつに届けにいくぞ<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			よぉし！<end_line/>
+			あの子に届けにいこう<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<partner name="run-dor"/>
+	<info box="right"/>
+	<portrait_l entry="player" eye="decided" mouth="talk"/>
+	<portrait_r entry="partner" eye="happy" mouth="neutral"/>
+	<sjis>
+		<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<partner name="run-dor"/>
+	<info box="left"/>
+	<portrait_l entry="player" eye="happy" mouth="tense"/>
+	<portrait_r entry="partner" eye="happy" mouth="neutral"/>
+	<male>
+		<sjis>
+			あのさ、こういうときは<end_line/>
+			おー！<end_line/>
+			とか言ってくれないか？<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			あのさ、こういうときは<end_line/>
+			おー！<end_line/>
+			とか言ってくれない？<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<partner name="run-dor"/>
+	<info box="right"/>
+	<portrait_l entry="player" eye="happy" mouth="tense"/>
+	<portrait_r entry="partner" eye="serious" mouth="neutral"/>
+	<sjis>
+		<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<partner name="run-dor"/>
+	<info box="right"/>
+	<portrait_l entry="player" eye="serious" mouth="tense"/>
+	<portrait_r entry="partner" eye="serious" mouth="neutral"/>
+	<sjis>
+		オー<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<partner name="run-dor"/>
+	<info box="left"/>
+	<portrait_l entry="player" eye="serious" mouth="neutral"/>
+	<portrait_r entry="partner" eye="serious" mouth="neutral"/>
+	<sjis>
+		ま、いいか<end_line/>
+		行こう！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<partner name="enzi"/>
+	<info box="right"/>
+	<portrait_l entry="player" eye="decided" mouth="talk"/>
+	<portrait_r entry="partner" eye="happy" mouth="neutral"/>
+	<sjis>
+		そうだな<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<partner name="enzi"/>
+	<info box="left"/>
+	<portrait_l entry="player" eye="surprised" mouth="tense"/>
+	<portrait_r entry="partner" eye="happy" mouth="neutral"/>
+	<male>
+		<sjis>
+			え<three_dots/><end_line/>
+			今、<partner>笑わなかった？<end_line/>
+			オレなにか、おかしなことした？<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			え<three_dots/><end_line/>
+			今、<partner>笑わなかった？<end_line/>
+			わたしなにか、おかしなことした？<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<partner name="enzi"/>
+	<info box="right"/>
+	<portrait_l entry="player" eye="surprised" mouth="tense"/>
+	<portrait_r entry="partner" eye="serious" mouth="neutral"/>
+	<sjis>
+		いや<three_dots/><end_line/>
+		なんでもない<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<partner name="enzi"/>
+	<info box="left"/>
+	<portrait_l entry="player" eye="serious" mouth="neutral"/>
+	<portrait_r entry="partner" eye="serious" mouth="neutral"/>
+	<sjis>
+		ま、いいか<end_line/>
+		行こう！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<partner name="killfith"/>
+	<info box="right"/>
+	<portrait_l entry="player" eye="decided" mouth="talk"/>
+	<portrait_r entry="partner" eye="happy" mouth="neutral"/>
+	<sjis>
+		キサマ<three_dots/><end_line/>
+		似てるな<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<partner name="killfith"/>
+	<info box="left"/>
+	<portrait_l entry="player" eye="serious" mouth="tense"/>
+	<portrait_r entry="partner" eye="happy" mouth="neutral"/>
+	<male>
+		<sjis>
+			なんだよ？<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			なに？<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<partner name="killfith"/>
+	<info box="right"/>
+	<portrait_l entry="player" eye="serious" mouth="tense"/>
+	<portrait_r entry="partner" eye="serious" mouth="talk"/>
+	<sjis>
+		なんでもない<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<partner name="killfith"/>
+	<info box="left"/>
+	<portrait_l entry="player" eye="serious" mouth="neutral"/>
+	<portrait_r entry="partner" eye="serious" mouth="talk"/>
+	<sjis>
+		？<end_line/>
+		ま、いいか<end_line/>
+		行こう！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<partner name="rufeel"/>
+	<info box="left"/>
+	<portrait_l entry="player" eye="serious" mouth="neutral"/>
+	<portrait_r entry="partner" eye="serious" mouth="talk"/>
+	<sjis>
+		そうですね<end_line/>
+		行きましょう<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<partner name="rufeel"/>
+	<info box="left"/>
+	<portrait_l entry="player" eye="serious" mouth="tense"/>
+	<portrait_r entry="partner" eye="serious" mouth="talk"/>
+	<sjis>
+		あれ、どうしたの？<end_line/>
+		なんかうれしそうだけど<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<partner name="rufeel"/>
+	<info box="right"/>
+	<portrait_l entry="player" eye="serious" mouth="tense"/>
+	<portrait_r entry="partner" eye="serious" mouth="talk"/>
+	<sjis>
+		いいえ<end_line/>
+		なんでもないですわ<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<partner name="rufeel"/>
+	<info box="left"/>
+	<portrait_l entry="player" eye="serious" mouth="neutral"/>
+	<portrait_r entry="partner" eye="serious" mouth="talk"/>
+	<sjis>
+		ま、いいか<end_line/>
+		行こう！<end_line/>
+	</sjis>
+</dialogue>

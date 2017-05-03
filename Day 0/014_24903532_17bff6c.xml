@@ -1,0 +1,207 @@
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="serious" mouth="neutral"/>
+	<portrait_r entry="vee" eye="serious" mouth="neutral"/>
+	<sjis>
+		アンタもなかなかいい音出すように<end_line/>
+		なったじゃないか<end_line/>
+		ロックの心がわかってきたかねぇ<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="serious" mouth="neutral"/>
+	<portrait_r entry="vee" eye="happy" mouth="neutral"/>
+	<sjis>
+		まだまだコージーの足下にも<end_line/>
+		およばないけどね<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="serious" mouth="tense"/>
+	<portrait_r entry="vee" eye="happy" mouth="neutral"/>
+	<sjis>
+		そのロックとかって<end_line/>
+		名も無き世界の音楽のことは<end_line/>
+		よくわからないけど<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="decided" mouth="neutral"/>
+	<portrait_r entry="vee" eye="serious" mouth="neutral"/>
+	<sjis>
+		この武器はけっこう上手く<end_line/>
+		できたと思うよ！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="decided" mouth="neutral"/>
+	<portrait_r entry="vee" eye="serious" mouth="talk"/>
+	<sjis>
+		言うねぇ<end_line/>
+		どれどれ、見せてみな<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="serious" mouth="tense"/>
+	<portrait_r entry="vee" eye="serious" mouth="serious"/>
+	<sjis>
+		ん～<end_line/>
+		タダであげるんならいいけど<end_line/>
+		売り物としてはまだまだだね<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="sad" mouth="serious"/>
+	<portrait_r entry="vee" eye="serious" mouth="serious"/>
+	<sjis>
+		そ<three_dots/>！<end_line/>
+		そっか<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="sad" mouth="serious"/>
+	<portrait_r entry="vee" eye="decided" mouth="neutral"/>
+	<sjis>
+		そうだよ<end_line/>
+		もっともっと沢山の武器を作って<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="sad" mouth="serious"/>
+	<portrait_r entry="vee" eye="decided" mouth="neutral"/>
+	<male>
+		<sjis>
+			ウデと男をみがくんだね<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			ウデと女をみがくんだね<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="serious" mouth="neutral"/>
+	<portrait_r entry="vee" eye="decided" mouth="neutral"/>
+	<male>
+		<sjis>
+			じゃ、また材料さがしてくる<end_line/>
+			マニグ採掘場にでも行ってくるよ<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			じゃ、また材料さがしてくる<end_line/>
+			マニグ採掘場にでも行ってくるね<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="serious" mouth="neutral"/>
+	<portrait_r entry="vee" eye="serious" mouth="neutral"/>
+	<sjis>
+		最近はめずらしく地震があったから<end_line/>
+		あの辺りでも十分注意するんだよ<end_line/>
+		それから、はぐれ召喚獣にもね<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="decided" mouth="talk"/>
+	<portrait_r entry="vee" eye="serious" mouth="neutral"/>
+	<sjis>
+		大丈夫だって<end_line/>
+		鍛冶師なら強くなくっちゃ！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="decided" mouth="talk"/>
+	<portrait_r entry="vee" eye="decided" mouth="neutral"/>
+	<sjis>
+		だからって調子にのってンじゃないよ<end_line/>
+		武器を使ったらちゃんと手入れすること<end_line/>
+		忘れずにね<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="serious" mouth="neutral"/>
+	<portrait_r entry="vee" eye="decided" mouth="neutral"/>
+	<sjis>
+		わかってるって！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="special"/>
+	<sjis>
+		武器は攻撃することで耐久度が減ります<end_line/>
+		耐久度が無くなると<end_line/>
+		武器は壊れてしまいます<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="special"/>
+	<sjis>
+		耐久度を元に戻すためには<end_line/>
+		回復アイテムを使うか<end_line/>
+		タタラを使って修理を行ってください<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="serious" mouth="talk"/>
+	<sjis>
+		これでカンペキ！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_r entry="vee" eye="serious" mouth="tense"/>
+	<sjis>
+		今の音？<end_line/>
+		お客さんかね？<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="serious" mouth="neutral"/>
+	<portrait_r entry="vee" eye="serious" mouth="neutral"/>
+	<sjis>
+		じゃ、アンタはがんばンな！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="serious" mouth="neutral"/>
+	<sjis>
+		よし！<end_line/>
+		修行に行こう！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="special"/>
+	<sjis>
+		戦闘で使用する武器の装備は<end_line/>
+		スタートボタンでコマンドメニューを<end_line/>
+		呼び出して行います<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="special"/>
+	<sjis>
+		最大３個まで装備が可能で<end_line/>
+		戦闘中にＬボタンで<end_line/>
+		持ち替えることができます<end_line/>
+	</sjis>
+</dialogue>

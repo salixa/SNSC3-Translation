@@ -1,0 +1,226 @@
+<dialogue>
+	<info box="nobox"/>
+	<portrait_l name="lemmy"/>
+	<sjis>
+		どうして君が<three_dots/>？<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="serious" mouth="neutral"/>
+	<portrait_r entry="lemmy" eye="decided" mouth="serious"/>
+	<sjis>
+		まさか君がこんなところに<end_line/>
+		いるなんて<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<player gender="male"/>
+	<info box="left"/>
+	<portrait_l entry="player" eye="decided" mouth="tense"/>
+	<portrait_r entry="lemmy" eye="decided" mouth="serious"/>
+	<sjis>
+		いいだろ<end_line/>
+		ここはオレのお気に入りの<end_line/>
+		場所なんだよ<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<player gender="male"/>
+	<info box="left"/>
+	<portrait_l entry="player" eye="serious" mouth="serious"/>
+	<portrait_r entry="lemmy" eye="serious" mouth="neutral"/>
+	<sjis>
+		お前こそ、調子悪かったんだろ？<end_line/>
+		こんなとこうろうろしてて<end_line/>
+		大丈夫なのかよ<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<player gender="female"/>
+	<info box="left"/>
+	<portrait_l entry="player" eye="decided" mouth="tense"/>
+	<portrait_r entry="lemmy" eye="decided" mouth="serious"/>
+	<sjis>
+		いいでしょ<end_line/>
+		ここはわたしのお気に入りの<end_line/>
+		場所なんだよ<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<player gender="female"/>
+	<info box="left"/>
+	<portrait_l entry="player" eye="serious" mouth="serious"/>
+	<portrait_r entry="lemmy" eye="serious" mouth="neutral"/>
+	<sjis>
+		あなたこそ、調子悪かったんでしょ？<end_line/>
+		こんなとこうろうろしてて<end_line/>
+		大丈夫なの？<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="serious" mouth="serious"/>
+	<portrait_r entry="lemmy" eye="decided" mouth="tense"/>
+	<sjis>
+		君に心配してもらうことなんて<end_line/>
+		何もないよ<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="serious" mouth="neutral"/>
+	<portrait_r entry="lemmy" eye="decided" mouth="tense"/>
+	<male>
+		<sjis>
+			ま、元気ならいいけどさ<end_line/>
+			ちゃんとザックの薬のんだのか？<end_line/>
+			約束だぜ？<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			ま、元気ならいいけどね<end_line/>
+			ちゃんとザックの薬のんだ？<end_line/>
+			約束だよ？<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="serious" mouth="neutral"/>
+	<portrait_r entry="lemmy" eye="serious" mouth="tense"/>
+	<sjis>
+		<three_dots/>飲んだよ<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="happy" mouth="talk"/>
+	<portrait_r entry="lemmy" eye="serious" mouth="tense"/>
+	<male>
+		<sjis>
+			じゃあ、それが効いたんだな<end_line/>
+			ザックもよろこぶぞ<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			じゃあ、それが効いたんだね<end_line/>
+			ザックもよろこぶよ<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="happy" mouth="talk"/>
+	<portrait_r entry="lemmy" eye="serious" mouth="neutral"/>
+	<sjis>
+		<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="serious" mouth="tense"/>
+	<portrait_r entry="lemmy" eye="serious" mouth="neutral"/>
+	<male>
+		<sjis>
+			でも、たおれるまで仕事とはね<end_line/>
+			お前も大変なんだなぁ<three_dots/><end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			でも、たおれるまで仕事とは<three_dots/><end_line/>
+			あなたも大変なんだね<three_dots/><end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="serious" mouth="tense"/>
+	<portrait_r entry="lemmy" eye="decided" mouth="serious"/>
+	<sjis>
+		君に何がわかる？<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="surprised" mouth="tense"/>
+	<portrait_r entry="lemmy" eye="decided" mouth="serious"/>
+	<sjis>
+		な、なにって<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="surprised" mouth="tense"/>
+	<portrait_r entry="lemmy" eye="decided" mouth="tense"/>
+	<sjis>
+		僕のこと何も知らないくせに<end_line/>
+		勝手なこと言わないで欲しいな<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="decided" mouth="stressed"/>
+	<portrait_r entry="lemmy" eye="decided" mouth="neutral"/>
+	<male>
+		<sjis>
+			な<three_dots/><end_line/>
+			なんだよ、その言い方<end_line/>
+			知らないから聞いただけだろ？<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			な<three_dots/><end_line/>
+			なによ、その言い方<end_line/>
+			知らないから聞いただけでしょ？<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="decided" mouth="serious"/>
+	<portrait_r entry="lemmy" eye="decided" mouth="serious"/>
+	<sjis>
+		<three_dots/><end_line/>
+		別に君が知る必要なんて<end_line/>
+		ないよ<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<player gender="male"/>
+	<info box="left"/>
+	<portrait_l entry="player" eye="surprised" mouth="stressed"/>
+	<sjis>
+		ち<three_dots/>ちょっと待てよ<three_dots/>！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<player gender="male"/>
+	<info box="left"/>
+	<portrait_l entry="player" eye="decided" mouth="yell"/>
+	<sjis>
+		なんだよ！<end_line/>
+		ハラ立つなぁ！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<player gender="female"/>
+	<info box="left"/>
+	<portrait_l entry="player" eye="surprised" mouth="stressed"/>
+	<sjis>
+		ち<three_dots/>ちょっと待ってよ<three_dots/>！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<player gender="female"/>
+	<info box="left"/>
+	<portrait_l entry="player" eye="decided" mouth="yell"/>
+	<sjis>
+		なんなのよ！<end_line/>
+		ハラ立つなぁ！<end_line/>
+	</sjis>
+</dialogue>

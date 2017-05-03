@@ -1,0 +1,148 @@
+<dialogue>
+	<info box="nobox"/>
+	<portrait_l name="vee"/>
+	<sjis>
+		やっぱりアンタはここか<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="serious" mouth="tense"/>
+	<portrait_r entry="vee" eye="serious" mouth="neutral"/>
+	<sjis>
+		親方<three_dots/><end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="serious" mouth="tense"/>
+	<portrait_r entry="vee" eye="happy" mouth="neutral"/>
+	<sjis>
+		もうミューノは大丈夫だよ<end_line/>
+		アンタたちの持ってきた<end_line/>
+		薬のおかげだね<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="serious" mouth="tense"/>
+	<portrait_r entry="vee" eye="serious" mouth="neutral"/>
+	<sjis>
+		森の奥まで行ったんだって？<end_line/>
+		よくがんばったね<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="happy" mouth="talk"/>
+	<portrait_r entry="vee" eye="serious" mouth="neutral"/>
+	<sjis>
+		えへへ<three_dots/><end_line/>
+		まあ、<partner>もいたしね<end_line/>
+		楽勝だったよ！<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="serious" mouth="neutral"/>
+	<portrait_r entry="vee" eye="sad" mouth="neutral"/>
+	<sjis>
+		またアンタはすぐ調子にのる<end_line/>
+		でも<partner>とは<end_line/>
+		上手くやっていけてるみたいだね<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="serious" mouth="tense"/>
+	<portrait_r entry="vee" eye="sad" mouth="neutral"/>
+	<sjis>
+		うーん<three_dots/><end_line/>
+		どうだろ？<end_line/>
+		よくわかんないけど<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="serious" mouth="tense"/>
+	<portrait_r entry="vee" eye="decided" mouth="tense"/>
+	<sjis>
+		なんだい、今度はたよりないねぇ<end_line/>
+		それじゃ、アタシが熱出した時は<end_line/>
+		薬作ってきてくれそうにないね<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="surprised" mouth="stressed"/>
+	<portrait_r entry="vee" eye="decided" mouth="tense"/>
+	<male>
+		<sjis>
+			そ、そんなことないよ！<end_line/>
+			絶対持って行くさ！<end_line/>
+			看病だってするよ！<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			そ、そんなことないよ！<end_line/>
+			絶対持って行くって！<end_line/>
+			看病だってするよ！<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="surprised" mouth="stressed"/>
+	<portrait_r entry="vee" eye="happy" mouth="talk"/>
+	<sjis>
+		ははは<three_dots/><end_line/>
+		ありがとね<end_line/>
+		そのときはよろしくたのむよ<end_line/>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="serious" mouth="neutral"/>
+	<portrait_r entry="vee" eye="serious" mouth="neutral"/>
+	<male>
+		<sjis>
+			まかせとけって！<end_line/>
+			でも、今まで親方が病気になったの<end_line/>
+			見たことない<three_dots/><end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			まかせといて！<end_line/>
+			でも、今まで親方が病気になったの<end_line/>
+			見たことない<three_dots/><end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="left"/>
+	<portrait_l entry="player" eye="decided" mouth="stressed"/>
+	<portrait_r entry="vee" eye="decided" mouth="serious"/>
+	<male>
+		<sjis>
+			いった！<end_line/>
+			なんでだよ！？<end_line/>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			いった！<end_line/>
+			なんでよ！？<end_line/>
+		</sjis>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="right"/>
+	<portrait_l entry="player" eye="decided" mouth="stressed"/>
+	<portrait_r entry="vee" eye="happy_blush" mouth="yell"/>
+	<sjis>
+		アンタは一言多いんだよ<end_line/>
+		まったく！<end_line/>
+	</sjis>
+</dialogue>
