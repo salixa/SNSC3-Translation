@@ -1,83 +1,128 @@
 <location>
-	<sjis>
-		ƒƒuH–[@H–[<end_line/>
-	</sjis>
+  <sjis>
+    ãƒ­ãƒ–å·¥æˆ¿ã€€å·¥æˆ¿<end_line> 
+  </sjis>
 </location>
+#Robâ€™s Workshop - Workshop (proper)
 <dialogue>
-	<info box="special"/>
-	<sjis>
-		ƒZ[ƒuƒ|ƒCƒ“ƒg‚Å‚ÍAƒAƒCƒeƒ€‚Ì<end_line/>
-		uv‚¢o“ú‹Lv‚ğÁ”ï‚·‚é‚±‚Æ‚È‚­<end_line/>
-		ƒZ[ƒu‚·‚é–‚ª‚Å‚«‚Ü‚·<end_line/>
-	</sjis>
+  <info box="special">
+  <sjis>
+    ã‚»ãƒ¼ãƒ–ãƒã‚¤ãƒ³ãƒˆã§ã¯ã€ã‚¢ã‚¤ãƒ†ãƒ ã®<end_line>
+    ã€Œæ€ã„å‡ºæ—¥è¨˜ã€ã‚’æ¶ˆè²»ã™ã‚‹ã“ã¨ãªã<end_line>
+    ã‚»ãƒ¼ãƒ–ã™ã‚‹äº‹ãŒã§ãã¾ã™<end_line>
+  </sjis>
+  <ascii>
+    This is a save point.<end_line>
+    You can save your game here,<end_line>
+    without using an Anywhere Diary.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
-	<info box="special"/>
-	<sjis>
-		ƒZ[ƒuƒ|ƒCƒ“ƒg‚ÉŒü‚©‚¢‚`ƒ{ƒ^ƒ“‚ğ<end_line/>
-		‰Ÿ‚·‚ÆƒZ[ƒu‚·‚é–‚ª‚Å‚«‚Ü‚·<end_line/>
-	</sjis>
+  <info box="special">
+  <sjis>
+    ã‚»ãƒ¼ãƒ–ãƒã‚¤ãƒ³ãƒˆã«å‘ã‹ã„ï¼¡ãƒœã‚¿ãƒ³ã‚’<end_line>
+    æŠ¼ã™ã¨ã‚»ãƒ¼ãƒ–ã™ã‚‹äº‹ãŒã§ãã¾ã™<end_line>
+  </sjis>
+  <ascii>
+    To do so, stand facing the<end_line>
+    save point, and press the A button.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
-	<info box="special"/>
-	<sjis>
-		ƒxƒbƒh‚Å‚ÍA‘Ì—Í‚Æ–‚–@‚Ìg—p‰ñ”‚ğ<end_line/>
-		‰½“x‚Å‚à‰ñ•œ‚·‚é–‚ª‚Å‚«‚Ü‚·<end_line/>
-	</sjis>
+  <info box="special">
+  <sjis>
+    ãƒ™ãƒƒãƒ‰ã§ã¯ã€ä½“åŠ›ã¨é­”æ³•ã®ä½¿ç”¨å›æ•°ã‚’<end_line>
+    ä½•åº¦ã§ã‚‚å›å¾©ã™ã‚‹äº‹ãŒã§ãã¾ã™<end_line>
+  </sjis>
+  <ascii>
+    You can sleep in your bed at any time<end_line>
+    to recover health and spell uses.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
-	<info box="special"/>
-	<sjis>
-		ƒxƒbƒh‚É“ü‚èA‚`ƒ{ƒ^ƒ“‚ğ‰Ÿ‚·‚Æ<end_line/>
-		‰ñ•œ‚·‚é–‚ª‚Å‚«‚Ü‚·<end_line/>
-	</sjis>
+  <info box="special">
+  <sjis>
+    ãƒ™ãƒƒãƒ‰ã«å…¥ã‚Šã€ï¼¡ãƒœã‚¿ãƒ³ã‚’æŠ¼ã™ã¨<end_line>
+    å›å¾©ã™ã‚‹äº‹ãŒã§ãã¾ã™<end_line>
+  </sjis>
+  <ascii>
+    To do so, just get into the bed,<end_line>
+    and press the A button.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple"/>
-	<portrait_l name="vee"/>
-	<sjis>
-		‚Ü‚¾Cs‚Ì“r’†‚¾‚æ<end_line/>
-		ƒhƒR‚É‚¢‚­‚Â‚à‚è‚¾‚¢H<end_line/>
-	</sjis>
+  <info box="simple">
+  <portrait_l name="vee">
+  <sjis>
+    ã¾ã ä¿®è¡Œã®é€”ä¸­ã ã‚ˆ<end_line>
+    ãƒ‰ã‚³ã«ã„ãã¤ã‚‚ã‚Šã ã„ï¼Ÿ<end_line>
+  </sjis>
+  <ascii>
+    Youâ€™re still in the middle of the training.<end_line>
+    Where are you planning to go?<end_line>
+  </ascii>
 </dialogue>
 <popup>
-	<sjis>
-		”æ‚ê‚ªæ‚ê‚½I<end_line/>
-	</sjis>
+  <sjis>
+    ç–²ã‚ŒãŒå–ã‚ŒãŸï¼<end_line>
+  </sjis>
+  <ascii>
+    You feel refreshed!<end_line>
+  </ascii>
 </popup>
 <dialogue>
-	<info box="special"/>
-	<sjis>
-		ƒZ[ƒuƒ|ƒCƒ“ƒg‚Å‚ÍAƒAƒCƒeƒ€‚Ì<end_line/>
-		uv‚¢o“ú‹Lv‚ğÁ”ï‚·‚é‚±‚Æ‚È‚­<end_line/>
-		ƒZ[ƒu‚·‚é–‚ª‚Å‚«‚Ü‚·<end_line/>
-	</sjis>
+  <info box="special">
+  <sjis>
+    ã‚»ãƒ¼ãƒ–ãƒã‚¤ãƒ³ãƒˆã§ã¯ã€ã‚¢ã‚¤ãƒ†ãƒ ã®<end_line>
+    ã€Œæ€ã„å‡ºæ—¥è¨˜ã€ã‚’æ¶ˆè²»ã™ã‚‹ã“ã¨ãªã<end_line>
+    ã‚»ãƒ¼ãƒ–ã™ã‚‹äº‹ãŒã§ãã¾ã™<end_line>
+  </sjis>
+  <ascii>
+    This is a save point.<end_line>
+    You can save your game here,<end_line>
+    without using an Anywhere Diary.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
-	<info box="special"/>
-	<sjis>
-		ƒZ[ƒuƒ|ƒCƒ“ƒg‚ÉŒü‚©‚¢‚`ƒ{ƒ^ƒ“‚ğ<end_line/>
-		‰Ÿ‚·‚ÆƒZ[ƒu‚·‚é–‚ª‚Å‚«‚Ü‚·<end_line/>
-	</sjis>
+  <info box="special">
+  <sjis>
+    ã‚»ãƒ¼ãƒ–ãƒã‚¤ãƒ³ãƒˆã«å‘ã‹ã„ï¼¡ãƒœã‚¿ãƒ³ã‚’<end_line>
+    æŠ¼ã™ã¨ã‚»ãƒ¼ãƒ–ã™ã‚‹äº‹ãŒã§ãã¾ã™<end_line>
+  </sjis>
+  <ascii>
+    To do so, stand in front of the<end_line>
+    save point, and press the A button.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
-	<info box="special"/>
-	<sjis>
-		ƒxƒbƒh‚Å‚ÍA‘Ì—Í‚Æ–‚–@‚Ìg—p‰ñ”‚ğ<end_line/>
-		‰½“x‚Å‚à‰ñ•œ‚·‚é–‚ª‚Å‚«‚Ü‚·<end_line/>
-	</sjis>
+  <info box="special">
+  <sjis>
+    ãƒ™ãƒƒãƒ‰ã§ã¯ã€ä½“åŠ›ã¨é­”æ³•ã®ä½¿ç”¨å›æ•°ã‚’<end_line>
+    ä½•åº¦ã§ã‚‚å›å¾©ã™ã‚‹äº‹ãŒã§ãã¾ã™<end_line>
+  </sjis>
+  <ascii>
+    You can sleep in your bed at any time<end_line>
+    to recover health and spell uses.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
-	<info box="special"/>
-	<sjis>
-		ƒxƒbƒh‚É“ü‚èA‚`ƒ{ƒ^ƒ“‚ğ‰Ÿ‚·‚Æ<end_line/>
-		‰ñ•œ‚·‚é–‚ª‚Å‚«‚Ü‚·<end_line/>
-	</sjis>
+  <info box="special">
+  <sjis>
+    ãƒ™ãƒƒãƒ‰ã«å…¥ã‚Šã€ï¼¡ãƒœã‚¿ãƒ³ã‚’æŠ¼ã™ã¨<end_line>
+    å›å¾©ã™ã‚‹äº‹ãŒã§ãã¾ã™<end_line>
+  </sjis>
+  <ascii>
+    To do so, just get into the bed,<end_line>
+    and press the A button.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple"/>
-	<portrait_l name="vee"/>
-	<sjis>
-		‹C‡‚¢“ü‚ê‚Ä‚¢‚­‚æI<end_line/>
-	</sjis>
+  <info box="simple">
+  <portrait_l name="vee">
+  <sjis>
+    æ°—åˆã„å…¥ã‚Œã¦ã„ãã‚ˆï¼<end_line>
+  </sjis>
+  <ascii>
+    Letâ€™s put some spirit into it!<end_line>
+  </ascii>
 </dialogue>

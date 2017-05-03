@@ -3,8 +3,11 @@
 	<portrait_l entry="player" eye="serious" mouth="serious"/>
 	<portrait_r entry="weido_1" eye="serious" mouth="neutral"/>
 	<sjis>
-		Ÿ•‰‚Ì€”õ‚Í‚Å‚«‚½‚Ì‚©H<end_line/>
+		å‹è² ã®æº–å‚™ã¯ã§ããŸã®ã‹ï¼Ÿ<end_line>
 	</sjis>
+	<ascii>
+		You ready for the match?<end_line>
+	</ascii>
 </dialogue>
 <choice>
 	<info box="left"/>
@@ -12,13 +15,19 @@
 	<portrait_r entry="weido_1" eye="serious" mouth="neutral"/>
 	<option>
 		<sjis>
-			€”õ‚Íƒoƒbƒ`ƒŠI<end_line/>
+			æº–å‚™ã¯ãƒãƒƒãƒãƒªï¼<end_line>
 		</sjis>
+		<ascii>
+			Bring it on!<end_line>
+		</ascii>
 	</option>
 	<option>
 		<sjis>
-			‚»‚¤‚¢‚¦‚Î–Y‚ê•¨‚ª<three_dots/><end_line/>
+			ãã†ã„ãˆã°å¿˜ã‚Œç‰©ãŒ<three_dots><end_line>
 		</sjis>
+		<ascii>
+			Ehh, wait a bit<three_dots><end_line>
+		</ascii>
 	</option>
 </choice>
 <dialogue>
@@ -27,16 +36,20 @@
 	<portrait_r entry="partner" eye="decided" mouth="neutral"/>
 	<male>
 		<sjis>
-			‚æ‚µI<end_line/>
-			s‚­‚¼A<partner>I<end_line/>
+			ã‚ˆã—ï¼<end_line>
+			è¡Œããžã€<partner>ï¼<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			‚æ‚µI<end_line/>
-			s‚­‚æA<partner>I<end_line/>
+			ã‚ˆã—ï¼<end_line>
+			è¡Œãã‚ˆã€<partner>ï¼<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Alright!<end_line>
+    Let's do this, <partner>!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
@@ -44,8 +57,11 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral"/>
 	<portrait_r entry="partner" eye="serious" mouth="neutral"/>
 	<sjis>
-		ƒI[I<end_line/>
+		ã‚ªãƒ¼ï¼<end_line>
 	</sjis>
+	<ascii>
+		Yes!<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi"/>
@@ -53,8 +69,11 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral"/>
 	<portrait_r entry="partner" eye="serious" mouth="neutral"/>
 	<sjis>
-		³’mI<end_line/>
+		æ‰¿çŸ¥ï¼<end_line>
 	</sjis>
+	<ascii>
+		Understood!<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith"/>
@@ -62,8 +81,11 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral"/>
 	<portrait_r entry="partner" eye="serious" mouth="neutral"/>
 	<sjis>
-		D‚«‚É‚µ‚ë<end_line/>
+		å¥½ãã«ã—ã‚<end_line>
 	</sjis>
+	<ascii>
+		Yep.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel"/>
@@ -71,6 +93,10 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral"/>
 	<portrait_r entry="partner" eye="serious" mouth="neutral"/>
 	<sjis>
-		‚Í‚¢I<end_line/>
+		ã¯ã„ï¼<end_line>
 	</sjis>
+	<ascii>
+		Okay!<end_line>
+	</ascii>
 </dialogue>
+

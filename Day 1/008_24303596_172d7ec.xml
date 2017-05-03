@@ -1,91 +1,90 @@
 <location>
-  <sjis>
-    �f�B�b�N����<end_line/>
-  </sjis>
+	<sjis>
+		ディックル村<end_line>
+	</sjis>
 </location>
 <location>
-  <sjis>
-    �f�B�b�N�����@�Z��n<end_line/>
-  </sjis>
+	<sjis>
+		ディックル村　住宅地<end_line>
+	</sjis>
 </location>
 <dialogue>
-  <info box="simple"/>
-  <portrait_l name="player"/>
-  <male>
-    <sjis>
-      �O�ɏo���荡��<end_line/>
-      �H�[�ŏC�s�̑������ȁI<end_line/>
-    </sjis>
-  </male>
-  <female>
-    <sjis>
-      �O�ɏo���荡��<end_line/>
-      �H�[�ŏC�s�̑����ˁI<end_line/>
-    </sjis>
-  </female>
+	<info box="simple"/>
+	<portrait_l name="player"/>
+	<male>
+		<sjis>
+			外に出るより今は<end_line>
+			工房で修行の続きだな！<end_line>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			外に出るより今は<end_line>
+			工房で修行の続きね！<end_line>
+		</sjis>
+	</female>
   <ascii>
-    I should be training at the workshop!<end_line/>
+    Forget going outside,<end_line>
+    it's time to train!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple"/>
-  <portrait_l name="player"/>
-  <male>
-    <sjis>
-      <partner>���Љ��<end_line/>
-      �����̂Ƃ��ɍs���Ȃ��ƁI<end_line/>
-    </sjis>
-  </male>
-  <female>
-    <sjis>
-      <partner>���Љ��<end_line/>
-      �����̂Ƃ��ɍs���Ȃ���I<end_line/>
-    </sjis>
-  </female>
+	<info box="simple"/>
+	<portrait_l name="player"/>
+	<male>
+		<sjis>
+			<partner>を紹介しに<end_line>
+			村長のとこに行かないと！<end_line>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			<partner>を紹介しに<end_line>
+			村長のとこに行かなきゃ！<end_line>
+		</sjis>
+	</female>
   <ascii>
-    I need to introduce <partner><end_line/>
-    to the village chief!<end_line/>
+    I need to introduce <partner><end_line>
+    to the Chief!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple"/>
-  <portrait_l name="player"/>
-  <male>
-    <sjis>
-      �U�b�N�Ƀn���}�[��<end_line/>
-      �͂��Ă��Ȃ���<three_dots/><end_line/>
-    </sjis>
-  </male>
-  <female>
-    <sjis>
-      �U�b�N�Ƀn���}�[��<end_line/>
-      �͂��Ă����Ȃ�����<three_dots/><end_line/>
-    </sjis>
-  </female>
+	<info box="simple"/>
+	<portrait_l name="player"/>
+	<male>
+		<sjis>
+			ザックにハンマーを<end_line>
+			届けてやらないと<three_dots><end_line>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			ザックにハンマーを<end_line>
+			届けてあげなくちゃ<three_dots><end_line>
+		</sjis>
+	</female>
   <ascii>
-    I have to return Zakk's hammer<three_dots/><end_line/>
+    I need to return this hammer<three_dots><end_line>
+    Where's Zakk<three_dots>?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple"/>
-  <portrait_l name="child"/>
-  <sjis>
-    ���������Ȃ�����<end_line/>
-    ���񂵂ɂȂ���<end_line/>
-    �͂���������������<end_line/>
-  </sjis>
+	<info box="simple"/>
+	<portrait_l name="child"/>
+	<sjis>
+		おおきくなったら<end_line>
+		けんしになって<end_line>
+		はぐれをたいじするんだ<end_line>
+	</sjis>
   <ascii>
-    When I grow up,<end_line/>
-    I'm gonna be a swordsman<end_line/>
-    and get rid of Strays.<end_line/>
+    When I grow up,<end_line>
+    I'm gonna be a swordsman<end_line>
+    and fight the Strays.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple"/>
-  <sjis>
-    ��ӂ�I<end_line/>
-  </sjis>
-  <ascii>
-    Wafun!<end_line/>
-  </ascii>
+	<info box="simple"/>
+	<sjis>
+		わふん！<end_line>
+	</sjis>
 </dialogue>

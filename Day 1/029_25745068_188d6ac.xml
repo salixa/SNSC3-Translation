@@ -1,22 +1,25 @@
 <location>
-	<sjis>
-		�}�j�O�̌@��<end_line/>
-	</sjis>
+  <sjis>
+    マニグ採掘場<end_line>
+  </sjis>
 </location>
 <location>
-	<sjis>
-		�}�j�O�̌@��@�G���A�S<end_line/>
-	</sjis>
+  <sjis>
+    マニグ採掘場　エリア４<end_line>
+  </sjis>
 </location>
 <dialogue>
-	<info box="simple"/>
-	<portrait_l name="stray_cat"/>
-	<sjis>
-		�ɂ�H<end_line/>
-	</sjis>
+  <info box="simple"/>
+  <portrait_l name="stray_cat"/>
+  <sjis>
+    にゃ？<end_line>
+  </sjis>
 </dialogue>
 <popup>
-	<sjis>
-		�����l�R��ی삵���I<end_line/>
-	</sjis>
+  <sjis>
+    迷いネコを保護した！<end_line>
+  </sjis>
+  <ascii>
+    Found the lost cat!<end_line>
+  </ascii>
 </popup>

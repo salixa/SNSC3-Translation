@@ -1,22 +1,28 @@
 <location>
 	<sjis>
-		ƒfƒBƒbƒNƒ‹z“´<end_line/>
+		ãƒ‡ã‚£ãƒƒã‚¯ãƒ«é‰±æ´ž<end_line>
 	</sjis>
 </location>
 <location>
 	<sjis>
-		ƒfƒBƒbƒNƒ‹z“´@ƒGƒŠƒA‚S<end_line/>
+		ãƒ‡ã‚£ãƒƒã‚¯ãƒ«é‰±æ´žã€€ã‚¨ãƒªã‚¢ï¼”<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple"/>
 	<portrait_l name="stray_cat"/>
 	<sjis>
-		‚É‚áH<end_line/>
+		ã«ã‚ƒï¼Ÿ<end_line>
 	</sjis>
+	<ascii>
+		Meow~?<end_line>
+	</ascii>
 </dialogue>
 <popup>
 	<sjis>
-		–À‚¢ƒlƒR‚ð•ÛŒì‚µ‚½I<end_line/>
+		è¿·ã„ãƒã‚³ã‚’ä¿è­·ã—ãŸï¼<end_line>
 	</sjis>
+	<ascii>
+		Acquired the stray cat!<end_line>
+	</ascii>
 </popup>

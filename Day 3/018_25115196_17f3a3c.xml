@@ -23,7 +23,7 @@
 			パートナーなんだ！<end_line/>
 		</sjis>
 		<ascii>	
-			Are they?<end_line/>
+			That so?<end_line/>
 			Well, this one's my partner!<end_line/>
 		</ascii>
 	</male>
@@ -50,7 +50,7 @@
 	</sjis>
 	<ascii>
 		Oh!<end_line/>
-		What a cool summon beast!<end_line/>
+		It's so cool~!<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -76,7 +76,7 @@
 	</sjis>
 	<ascii>
 		Hey<three_dots/><end_line/>
-		They aren't responding at all<three_dots/><end_line/>
+		It's not responding at all<three_dots/><end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -90,7 +90,7 @@
 	</sjis>
 	<ascii>
 		Oh, how cute!<end_line/>
-		A cat Summon Beast!<end_line/>
+		A cat Summon Beast~!<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -104,6 +104,8 @@
 		おぬしのメガネはダテか？<end_line/>
 	</sjis>
 	<ascii>
+    I am not! I'm a tiger!<end_line/>
+    A graceful Toramata!<end_line/>
 		Do those glasses serve any purpose?!<end_line/>
 	</ascii>
 </dialogue>
@@ -132,7 +134,7 @@
 	</sjis>
 	<ascii>
 		Oh!<end_line/>
-		What a cute Summon Beast!<end_line/>
+		He looks smart!<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -145,8 +147,8 @@
 		なれなれしいぞ<end_line/>
 	</sjis>
 	<ascii>
-		Cute?<end_line/>
-		Don't screw with me.<end_line/>
+    Of course.<end_line/>
+		And who might you be?<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -184,7 +186,7 @@
 		ありがとうございます<end_line/>
 	</sjis>
 	<ascii>
-		Thank you very much.<end_line/>
+		Thank you very much!<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -196,7 +198,7 @@
 		素直なイイ子です～<end_line/>
 	</sjis>
 	<ascii>
-		You're a great one.<end_line/>
+		She's seems like a good girl~<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -209,7 +211,7 @@
 		町へ向かってます？<end_line/>
 	</sjis>
 	<ascii>	
-		So anyway, are you folk<end_line/>
+		So anyway, are you<end_line/>
 		all heading to town?<end_line/>
 	</ascii>
 </dialogue>
@@ -221,7 +223,7 @@
 		あなた、一体<three_dots/>？<end_line/>
 	</sjis>
 	<ascii>
-		Who in the world<three_dots/><end_line/>
+		Who are you<three_dots/><end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -236,7 +238,7 @@
 	<ascii>
 		Ah!<end_line/>
 		No, no,<end_line/>
-		I'm not a suspicious person!<end_line/>
+		I'm not suspicious at all!<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -273,9 +275,9 @@
 		この先は迷路みたいになってるんです<end_line/>
 	</sjis>
 	<ascii>
-		Because of the earthquake earlier,<end_line/>
-		this area is full of giant holes<end_line/>
-		and it's like a labyrinth now.<end_line/>
+    The earthquake earlier totally<end_line/>
+    messed up the terrain around here.<end_line/>
+    It's like navigating a maze.<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -286,8 +288,8 @@
 		道案内があった方が断然いいですよ～<end_line/>
 	</sjis>
 	<ascii>
-		It's definitely easier to go through<end_line/>
-		with a guide!<end_line/>
+    You'd do well to have<end_line/>
+    someone guide you through!<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -316,8 +318,8 @@
 		　コイツはいけるわ<three_dots/>！）<end_line/>
 	</sjis>
 	<ascii>
-		*It'll work<three_dots/>!*<end_line/>
-		*It'll work with these folk!*<end_line/>
+    (This might just work!<end_line/>
+		 Just a bit more<three_dots/>!)<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -357,7 +359,7 @@
 	</sjis>
 	<ascii>
 		Oh?<end_line/>
-		Ohohohohoho!<end_line/>
+		Ohohohohoho<three_dots/><end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -369,6 +371,7 @@
 		スルドイわね<end_line/>
 	</sjis>
 	<ascii>
+    Tch<three_dots/>!<end_line/>
 		Well, aren't you shrewd?<end_line/>
 	</ascii>
 </dialogue>
@@ -393,9 +396,8 @@
 		迷いやすいんだから<end_line/>
 	</sjis>
 	<ascii>
-		200 boam.<end_line/>
-		But it really is easy<end_line/>
-		to get lost from here on out.<end_line/>
+		200 Boam.<end_line/>
+    It's easy to get lost in here<three_dots/><end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -496,8 +498,7 @@
 		２００バームいただきまぁす！<end_line/>
 	</sjis>
 	<ascii>
-		Then I'll be taking that<end_line/>
-		guiding fee of 200 boam!<end_line/>
+    That'll be 200 Boam!<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -520,7 +521,7 @@
 		今日はいい日だわ～<end_line/>
 	</sjis>
 	<ascii>
-		The second one today, and so fast<three_dots/><end_line/>
+		Already the second one today<three_dots/><end_line/>
 		Today's a good day~<end_line/>
 	</ascii>
 </dialogue>
@@ -545,9 +546,8 @@
 		お気づかいなく～<end_line/>
 	</sjis>
 	<ascii>
-		Oh no no~<end_line/>
+		Oh don't mind me~<end_line/>
 		Just talking to myself~<end_line/>
-		No worries~<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -572,6 +572,8 @@
 	</sjis>
 	<ascii>
 		Alright then, please follow me.<end_line/>
+    Please be careful, as there<end_line/>
+    are many Strays around too~<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -594,7 +596,7 @@
 		ひど～い！<end_line/>
 	</sjis>
 	<ascii>
-		So you were just window-shopping!?<end_line/>
+		Are you trying to scam me!?<end_line/>
 		That's ho~rri~ble~!<end_line/>
 	</ascii>
 </dialogue>
@@ -616,8 +618,8 @@
 		お金できたら来てね<end_line/>
 	</sjis>
 	<ascii>
-		Then, I'll wait here, so<end_line/>
-		go make the money.<end_line/>
+    Well, I'll be waiting here<end_line/>
+    when you do have the money.<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -626,7 +628,7 @@
 		やっぱ、別にいいや<end_line/>
 	</sjis>
 	<ascii>
-		I don't need a guide.<end_line/>
+		Nah, I don't need a guide.<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -650,8 +652,8 @@
 		その気になったら知らせてね<end_line/>
 	</sjis>
 	<ascii>
-		I'll be here,<end_line/>
-		so come tell me when<end_line/>
-		you inevitably change your mind.<end_line/>
+		I'll be waiting here,<end_line/>
+		so come tell me when you<end_line/>
+		inevitably change your mind.<end_line/>
 	</ascii>
 </dialogue>

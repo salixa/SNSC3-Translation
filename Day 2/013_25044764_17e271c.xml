@@ -2,57 +2,79 @@
 	<info box="simple"/>
 	<portrait_r name="gatekeeper"/>
 	<sjis>
-		���̐�ɂ͂��ꏢ���b���o����<end_line/>
-		���ԂȂ�����ގ��ł���܂�<end_line/>
-		�ʍs�֎~����<end_line/>
+		この先にはぐれ召喚獣が出たんだ<end_line>
+		あぶないから退治できるまで<end_line>
+		通行禁止だよ<end_line>
 	</sjis>
+	<ascii>
+		Strays have appeared just ahead.<end_line>
+		It's dangerous, so please<end_line>
+		come at a later time.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="left"/>
 	<portrait_l entry="player" eye="serious" mouth="neutral"/>
 	<male>
 		<sjis>
-			�I�������̂͂���ގ���<end_line/>
-			��`��������<end_line/>
+			オレもそのはぐれ退治を<end_line>
+			手伝いたいんだ<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�킽�������̂͂���ގ���<end_line/>
-			��`��������ł�<end_line/>
+			わたしもそのはぐれ退治を<end_line>
+			手伝いたいんです<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    I want to help hunt the Strays too.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple"/>
 	<portrait_r name="gatekeeper"/>
 	<sjis>
-		�ȂɌ����Ă��<end_line/>
-		��߂Ƃ���<end_line/>
+		なに言ってるんだ<end_line>
+		やめときな<end_line>
 	</sjis>
+	<ascii>
+		What are you talking about?<end_line>
+		You're not on the list.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="left"/>
 	<portrait_l entry="player" eye="decided" mouth="serious"/>
 	<sjis>
-		�ł�<three_dots/>�I<end_line/>
+		でも<three_dots>！<end_line>
 	</sjis>
+	<ascii>
+		But<three_dots>!<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple"/>
 	<portrait_r name="gatekeeper"/>
 	<sjis>
-		�ق�ق�<end_line/>
-		�C�s�Ȃ炢���̂Ƃ����<end_line/>
-		����<end_line/>
+		ほらほら<end_line>
+		修行ならいつものところで<end_line>
+		やりな<end_line>
 	</sjis>
+	<ascii>
+		If you want to train,<end_line>
+		just go to your usual place.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="left"/>
 	<portrait_l entry="player" eye="sad" mouth="tense"/>
 	<sjis>
-		����<three_dots/><end_line/>
+		うぅ<three_dots><end_line>
 	</sjis>
+	<ascii>	
+		Ugh<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
@@ -60,9 +82,13 @@
 	<portrait_l entry="player" eye="sad" mouth="tense"/>
 	<portrait_r entry="partner" eye="serious" mouth="tense"/>
 	<sjis>
-		���n�@�I���}�Z���f�V�^�l<end_line/>
-		�h�E�X�����f�X�J�H<end_line/>
+		許可ハ　オリマセンデシタネ<end_line>
+		ドウスルンデスカ？<end_line>
 	</sjis>
+	<ascii>	
+		We Have Been Denied.<end_line>
+		What Will We Do?<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi"/>
@@ -70,10 +96,15 @@
 	<portrait_l entry="player" eye="sad" mouth="tense"/>
 	<portrait_r entry="partner" eye="serious" mouth="tense"/>
 	<sjis>
-		�������ɐ��ʓ˔j��<end_line/>
-		�����������悤�����<end_line/>
-		���ɊO�ɏo����@�͂Ȃ��̂��H<end_line/>
+		さすがに正面突破は<end_line>
+		ムリだったようじゃな<end_line>
+		他に外に出る方法はないのか？<end_line>
 	</sjis>
+	<ascii>	
+		As expected,<end_line>
+		a frontal assault<end_line>
+    seems impossible.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith"/>
@@ -81,10 +112,14 @@
 	<portrait_l entry="player" eye="sad" mouth="tense"/>
 	<portrait_r entry="partner" eye="serious" mouth="tense"/>
 	<sjis>
-		�W���}�ȃj���Q��������<three_dots/><end_line/>
-		�Ƃ����̂̓_���Ȃ񂾂�H<end_line/>
-		�ǂ�������肾�H<end_line/>
+		ジャマなニンゲンを消す<three_dots><end_line>
+		というのはダメなんだろ？<end_line>
+		どうするつもりだ？<end_line>
 	</sjis>
+	<ascii>
+		I can't just erase him, can I<three_dots>?<end_line>
+		What do you intend to do?<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel"/>
@@ -92,25 +127,39 @@
 	<portrait_l entry="player" eye="sad" mouth="tense"/>
 	<portrait_r entry="partner" eye="serious" mouth="tense"/>
 	<sjis>
-		�������ɐ��ʓ˔j��<end_line/>
-		�����݂����ł���<three_dots/><end_line/>
-		�ǂ����܂��傤<three_dots/>�H<end_line/>
+		さすがに正面突破は<end_line>
+		ムリみたいですわ<three_dots><end_line>
+		どうしましょう<three_dots>？<end_line>
 	</sjis>
+	<ascii>
+		Looks like we can't<end_line>
+		just barge in, huh<three_dots>?<end_line>
+    What shall we do<three_dots>?<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="left"/>
 	<portrait_l entry="player" eye="serious" mouth="serious"/>
 	<portrait_r entry="partner" eye="serious" mouth="tense"/>
 	<sjis>
-		���ƂȂ����C�s���邵��<end_line/>
-		�Ȃ��̂��Ȃ�<three_dots/><end_line/>
+		おとなしく修行するしか<end_line>
+		ないのかなぁ<three_dots><end_line>
 	</sjis>
+	<ascii>
+		I guess there's no choice<end_line>
+		but to go practice<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple"/>
 	<portrait_r name="gatekeeper"/>
 	<sjis>
-		�����̓��͒ʍs�~�߂�<end_line/>
-		�C�s�Ȃ�悻�ł���<end_line/>
+		今この道は通行止めだ<end_line>
+		修行ならよそでやりな<end_line>
 	</sjis>
+	<ascii>
+		The road is closed for now.<end_line>
+		If you want to train,<end_line>
+		do it elsewhere.<end_line>
+	</ascii>
 </dialogue>

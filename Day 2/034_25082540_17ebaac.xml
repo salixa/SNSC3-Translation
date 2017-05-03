@@ -4,32 +4,42 @@
 	<portrait_r entry="player" eye="serious" mouth="talk"/>
 	<male>
 		<sjis>
-			�悵���I<end_line/>
-			���������I<end_line/>
+			よしっ！<end_line>
+			勝ったぞ！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			��������I<end_line/>
-			��������I<end_line/>
+			やったぁ！<end_line>
+			勝ったよ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Yeah!<end_line>
+    I won!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left"/>
 	<portrait_l entry="weido_1" eye="sad" mouth="neutral"/>
 	<portrait_r entry="player" eye="serious" mouth="talk"/>
 	<sjis>
-		�������܂�����<three_dots/><end_line/>
+		負けちまったか<three_dots><end_line>
 	</sjis>
+	<ascii>
+		So I lost<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="right"/>
 	<portrait_l entry="weido_1" eye="sad" mouth="neutral"/>
 	<portrait_r entry="player" eye="decided" mouth="neutral"/>
 	<sjis>
-		�����A�����S���@���̖��΂�<end_line/>
+		さあ、早くゴヴァンの魔石を<end_line>
 	</sjis>
+	<ascii>
+		Now, about that stone<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="right"/>
@@ -37,22 +47,29 @@
 	<portrait_r entry="player" eye="decided" mouth="neutral"/>
 	<male>
 		<sjis>
-			�Ԃ��Ă��炨�����I<end_line/>
+			返してもらおうか！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�Ԃ��āI<end_line/>
+			返して！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    I'll be taking it back!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left"/>
 	<portrait_l entry="weido_1" eye="serious" mouth="talk"/>
 	<portrait_r entry="player" eye="decided" mouth="neutral"/>
 	<sjis>
-		�N�����O�ɕԂ����Č������H<end_line/>
+		誰がお前に返すって言った？<end_line>
 	</sjis>
+	<ascii>
+		Who said anything about<end_line>
+		giving it to you?<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="right"/>
@@ -60,14 +77,17 @@
 	<portrait_r entry="player" eye="surprised" mouth="yell"/>
 	<male>
 		<sjis>
-			�Ȃ񂾂ƁI�H<end_line/>
+			なんだと！？<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�Ȃɂ�A����I�H<end_line/>
+			なによ、それ！？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    But you did!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
@@ -75,8 +95,11 @@
 	<portrait_l entry="weido_1" eye="serious" mouth="talk"/>
 	<portrait_r entry="partner" eye="surprised" mouth="neutral"/>
 	<sjis>
-		<three_dots/><end_line/>
+		<three_dots><end_line>
 	</sjis>
+	<ascii>
+		<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi"/>
@@ -84,9 +107,13 @@
 	<portrait_l entry="weido_1" eye="serious" mouth="talk"/>
 	<portrait_r entry="partner" eye="special" mouth="tense"/>
 	<sjis>
-		���ʂ�<three_dots/><end_line/>
-		���̊���O�x�܂ł��Ⴜ<three_dots/>�I<end_line/>
+		おぬし<three_dots><end_line>
+		仏の顔も三度までじゃぞ<three_dots>！<end_line>
 	</sjis>
+	<ascii>
+		<three_dots><end_line>
+		I've gotten truly sick of you.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith"/>
@@ -94,96 +121,136 @@
 	<portrait_l entry="weido_1" eye="serious" mouth="talk"/>
 	<portrait_r entry="partner" eye="special" mouth="serious"/>
 	<sjis>
-		�L�T�}<three_dots/><end_line/>
-		���̎�������ȏ�<end_line/>
-		�K�}������Ƃł��v�����̂�<three_dots/>�H<end_line/>
+		キサマ<three_dots><end_line>
+		この私がこれ以上<end_line>
+		ガマンするとでも思ったのか<three_dots>？<end_line>
 	</sjis>
+	<ascii>
+		<three_dots><end_line>
+    I'm done putting up with your crap.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="right"/>
 	<portrait_l entry="weido_1" eye="serious" mouth="talk"/>
 	<portrait_r entry="partner" eye="decided" mouth="serious"/>
 	<sjis>
-		���Ȃ�<three_dots/><end_line/>
-		���A�����{�C��<three_dots/><end_line/>
+		あなた<three_dots><end_line>
+		私、もう本気で<three_dots><end_line>
 	</sjis>
+	<ascii>
+		<three_dots><end_line>
+    I'm seriously going to<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="left"/>
 	<portrait_l entry="weido_1" eye="serious" mouth="neutral"/>
 	<portrait_r entry="partner" eye="decided" mouth="serious"/>
 	<sjis>
-		�N���Ԃ��Ȃ��Ƃ͌����ĂȂ�����<end_line/>
-		�R���͒��ڂ��̎q�ɕԂ�<end_line/>
+		誰も返さないとは言ってないだろ<end_line>
+		コレは直接あの子に返す<end_line>
 	</sjis>
+	<ascii>
+		Didn't say I wouldn't give it back.<end_line>
+		I'll give it to the girl personally.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="right"/>
 	<portrait_l entry="weido_1" eye="serious" mouth="neutral"/>
 	<portrait_r entry="player" eye="surprised" mouth="serious"/>
 	<sjis>
-		��<three_dots/>�H<end_line/>
-		����<three_dots/><end_line/>
+		え<three_dots>？<end_line>
+		直接<three_dots><end_line>
 	</sjis>
+	<ascii>
+		<three_dots>Pardon?<end_line>
+		Personally<three_dots>?<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="right"/>
 	<portrait_l entry="weido_1" eye="serious" mouth="neutral"/>
 	<portrait_r entry="player" eye="happy" mouth="neutral"/>
 	<sjis>
-		���肪�Ƃ��I<end_line/>
+		ありがとう！<end_line>
 	</sjis>
+	<ascii>
+		T-Thank you then!<end_line>
+		I appreciate it!<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="left"/>
 	<portrait_l entry="weido_1" eye="surprised" mouth="tense"/>
 	<portrait_r entry="player" eye="happy" mouth="neutral"/>
 	<sjis>
-		���H<end_line/>
+		え？<end_line>
 	</sjis>
+	<ascii>
+		Eh?<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="left"/>
 	<portrait_l entry="weido_1" eye="neutral_blush" mouth="stressed"/>
 	<portrait_r entry="player" eye="happy" mouth="neutral"/>
 	<sjis>
-		���A����<three_dots/><end_line/>
-		<three_dots/>���������A��<end_line/>
+		あ、ああ<three_dots><end_line>
+		<three_dots>悪かった、な<end_line>
 	</sjis>
+	<ascii>
+		Uhhh<three_dots> yeah<three_dots><end_line>
+		<three_dots>Sorry<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="right"/>
 	<portrait_l entry="weido_1" eye="neutral_blush" mouth="stressed"/>
 	<portrait_r entry="player" eye="decided" mouth="talk"/>
 	<sjis>
-		�ȂɁH<end_line/>
+		なに？<end_line>
 	</sjis>
+	<ascii>	
+		Hm?<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="left"/>
 	<portrait_l entry="weido_1" eye="happy_blush" mouth="yell"/>
 	<portrait_r entry="player" eye="decided" mouth="talk"/>
 	<sjis>
-		�Ȃ�ł��˂���<end_line/>
-		���Ⴀ�s����<end_line/>
+		なんでもねぇよ<end_line>
+		じゃあ行くぜ<end_line>
 	</sjis>
+	<ascii>
+		Nothing.<end_line>
+		I'll be going.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="right"/>
 	<portrait_l entry="player" eye="serious" mouth="neutral"/>
 	<portrait_r entry="jade" eye="happy" mouth="talk"/>
 	<sjis>
-		�悩������<end_line/>
-		<player_nickname><end_line/>
+		よかったな<end_line>
+		<player_nickname><end_line>
 	</sjis>
+	<ascii>
+    And all is well.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="left"/>
 	<portrait_l entry="player" eye="happy" mouth="neutral"/>
 	<portrait_r entry="jade" eye="happy" mouth="talk"/>
 	<sjis>
-		����<end_line/>
+		うん<end_line>
 	</sjis>
+	<ascii>
+		Yeah!<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="left"/>
@@ -191,16 +258,19 @@
 	<portrait_r entry="jade" eye="happy" mouth="talk"/>
 	<male>
 		<sjis>
-			�悵�I<end_line/>
-			�I���������߂낤�I<end_line/>
+			よし！<end_line>
+			オレたちも戻ろう！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			���āI<end_line/>
-			�킽���������߂낤�I<end_line/>
+			さて！<end_line>
+			わたしたちも戻ろう！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Alright, let's head back too!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
@@ -208,8 +278,11 @@
 	<portrait_l entry="player" eye="happy" mouth="neutral"/>
 	<portrait_r entry="partner" eye="serious" mouth="neutral"/>
 	<sjis>
-		�I�[�I<end_line/>
+		オー！<end_line>
 	</sjis>
+	<ascii>
+		Yes!<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi"/>
@@ -217,8 +290,11 @@
 	<portrait_l entry="player" eye="happy" mouth="neutral"/>
 	<portrait_r entry="partner" eye="serious" mouth="neutral"/>
 	<sjis>
-		���m�I<end_line/>
+		承知！<end_line>
 	</sjis>
+	<ascii>
+		Understood!<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith"/>
@@ -226,8 +302,11 @@
 	<portrait_l entry="player" eye="happy" mouth="neutral"/>
 	<portrait_r entry="partner" eye="serious" mouth="neutral"/>
 	<sjis>
-		�D���ɂ���<end_line/>
+		好きにしろ<end_line>
 	</sjis>
+	<ascii>
+		Alright.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel"/>
@@ -235,6 +314,9 @@
 	<portrait_l entry="player" eye="happy" mouth="neutral"/>
 	<portrait_r entry="partner" eye="serious" mouth="neutral"/>
 	<sjis>
-		�͂��I<end_line/>
+		はい！<end_line>
 	</sjis>
+	<ascii>
+		Okay!<end_line>
+	</ascii>
 </dialogue>

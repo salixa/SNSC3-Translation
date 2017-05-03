@@ -1,17 +1,20 @@
 <location>
 	<sjis>
-		ƒ}ƒjƒOÌŒ@ê<end_line/>
+		ãƒžãƒ‹ã‚°æŽ¡æŽ˜å ´<end_line>
 	</sjis>
 </location>
 <location>
 	<sjis>
-		ƒ}ƒjƒOÌŒ@ê@ƒGƒŠƒA‚R<end_line/>
+		ãƒžãƒ‹ã‚°æŽ¡æŽ˜å ´ã€€ã‚¨ãƒªã‚¢ï¼“<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple"/>
 	<portrait_l name="zakk"/>
 	<sjis>
-		ƒLƒbƒJ‚ÌŽÀ‚ ‚é‚Æ‚¢‚¢‚¯‚Ç<three_dots/><end_line/>
+		ã‚­ãƒƒã‚«ã®å®Ÿã‚ã‚‹ã¨ã„ã„ã‘ã©<three_dots><end_line>
 	</sjis>
+	<ascii>
+		It'd be nice if it was here<three_dots><end_line>
+	</ascii>
 </dialogue>

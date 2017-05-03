@@ -1,877 +1,1271 @@
 <dialogue>
-	<info box="left"/>
-	<portrait_l entry="player" eye="happy" mouth="talk"/>
-	<male>
-		<sjis>
-			������I<end_line/>
-			���������I<end_line/>
-		</sjis>
-	</male>
-	<female>
-		<sjis>
-			��������I<end_line/>
-			������������I<end_line/>
-		</sjis>
-	</female>
+  <info box="left">
+  <portrait_l entry="player" eye="happy" mouth="talk">
+  <male>
+    <sjis>
+      やった！<end_line>
+      勝ったぞ！<end_line>
+    </sjis>
+    <ascii>
+      Yes!<end_line>
+      Victory!<end_line>
+    </ascii>	
+  </male>
+  <female>
+    <sjis>
+      やったぁ！<end_line>
+      勝っちゃった！<end_line>
+    </sjis>
+    <ascii>
+      Yay!<end_line>
+      I won!<end_line>
+    </ascii>	
+  </female>
 </dialogue>
 <dialogue>
-	<info box="right"/>
-	<portrait_r entry="vee" eye="happy" mouth="neutral"/>
-	<sjis>
-		�����Ȃ����˂�<three_dots/><end_line/>
-		�A���^�̃n���}�[����<end_line/>
-		�b���������`����Ă�����<end_line/>
-	</sjis>
+  <info box="right">
+  <portrait_r entry="vee" eye="happy" mouth="neutral">
+  <sjis>
+    強くなったねぇ<three_dots><end_line>
+    アンタのハンマーから<end_line>
+    鍛えた魂が伝わってきたよ<end_line>
+  </sjis>
+  <ascii>
+    You've grown strong<three_dots><end_line>
+    I could feel your determination<end_line>
+    with every blow.<end_line>
+  </ascii>	
 </dialogue>
 <dialogue>
-	<info box="right"/>
-	<portrait_r entry="vee" eye="serious" mouth="talk"/>
-	<sjis>
-		�J�b�R�悩������<end_line/>
-	</sjis>
+  <info box="right">
+  <portrait_r entry="vee" eye="serious" mouth="talk">
+  <sjis>
+    カッコよかったぞ<end_line>
+  </sjis>
+  <ascii>
+    You were really cool, you know.<end_line>
+  </ascii>	
 </dialogue>
 <dialogue>
-	<info box="left"/>
-	<portrait_l entry="player" eye="happy_blush" mouth="talk"/>
-	<portrait_r entry="vee" eye="happy" mouth="talk"/>
-	<male>
-		<sjis>
-			��<three_dots/>�I<end_line/>
-			���肪�Ƃ��A���B�[�˂������I<end_line/>
-		</sjis>
-	</male>
-	<female>
-		<sjis>
-			��<three_dots/>�I<end_line/>
-			���肪�Ƃ��A���B�[�o�I<end_line/>
-		</sjis>
-	</female>
+  <info box="left">
+  <portrait_l entry="player" eye="happy_blush" mouth="talk">
+  <portrait_r entry="vee" eye="happy" mouth="talk">
+  <male>
+    <sjis>
+      あ<three_dots>！<end_line>
+      ありがとう、ヴィーねえちゃん！<end_line>
+    </sjis>
+    <ascii>
+      Ah<three_dots>! <end_line>
+      Thank you, Sis V.E!<end_line>
+    </ascii>	
+  </male>
+  <female>
+    <sjis>
+      あ<three_dots>！<end_line>
+      ありがとう、ヴィー姉！<end_line>
+    </sjis>
+    <ascii>
+      Ah<three_dots>!<end_line>
+      Thanks, Sis V.E!<end_line>
+    </ascii>
+  </female>
 </dialogue>
 <dialogue>
-	<info box="simple"/>
-	<portrait_l name="unknown"/>
-	<sjis>
-		�悭������ȁA<player_name>�I<end_line/>
-	</sjis>
+  <info box="simple">
+  <portrait_l name="unknown">
+  <sjis>
+    よくやったな、<player_name>！<end_line>
+  </sjis>
+  <ascii>
+    Well done, <player_name>!<end_line>
+  </ascii>	
 </dialogue>
 <dialogue>
-	<info box="left"/>
-	<portrait_l entry="player" eye="surprised" mouth="stressed"/>
-	<sjis>
-		���u<three_dots/>�e���I�I<end_line/>
-	</sjis>
+  <info box="left">
+  <portrait_l entry="player" eye="surprised" mouth="stressed">
+  <sjis>
+    ロブ<three_dots>親方！！<end_line>
+  </sjis>
+  <ascii>
+    Master Rob<three_dots>!!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
-	<info box="right"/>
-	<portrait_r entry="rob" eye="serious" mouth="neutral"/>
-	<sjis>
-		���O������ň�l�O����<three_dots/><end_line/>
-		���߂łƂ�<three_dots/><end_line/>
-		<player_nickname><three_dots/><end_line/>
-	</sjis>
+  <info box="right">
+  <portrait_r entry="rob" eye="serious" mouth="neutral">
+  <sjis>
+    お前もこれで一人前だな<three_dots><end_line>
+    おめでとう<three_dots><end_line>
+    <player_nickname><three_dots><end_line>
+  </sjis>
+  <ascii>
+    Now, you too are a fully fledged<three_dots><end_line>
+    Craftknight. Congratulations<three_dots><end_line>
+    <player_nickname><three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
-	<info box="left"/>
-	<portrait_l entry="player" eye="surprised" mouth="tense"/>
-	<sjis>
-		�e��<three_dots/>�H<end_line/>
-	</sjis>
+  <info box="left">
+  <portrait_l entry="player" eye="surprised" mouth="tense">
+  <sjis>
+    親方<three_dots>？<end_line>
+  </sjis>
+  <ascii>
+    Master<three_dots>?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple"/>
-	<portrait_r name="rob"/>
-	<sjis>
-		<three_dots/><end_line/>
-	</sjis>
+  <info box="simple">
+  <portrait_r name="rob">
+  <sjis>
+    <three_dots><end_line>
+  </sjis>
+  <ascii>
+    <three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
-	<info box="left"/>
-	<portrait_l entry="player" eye="sad" mouth="tense"/>
-	<sjis>
-		�e��<three_dots/>�I�H<end_line/>
-	</sjis>
-</dialogue>
-<bigtext>
-	<info box="left" effect="big"/>
-	<portrait_l entry="player" eye="decided" mouth="yell"/>
-	<sjis>
-		���₩�����I�I<end_line/>
-	</sjis>
-</bigtext>
-<dialogue>
-	<info box="simple"/>
-	<portrait_l name="vee"/>
-	<sjis>
-		�ǂ��������ƂȂ񂾂��H<end_line/>
-		�{�X�^�t<three_dots/>�I<end_line/>
-	</sjis>
-</dialogue>
-<dialogue>
-	<info box="nobox"/>
-	<male>
-		<sjis>
-			�@�@�@�@�@���B�[�˂������<three_dots/>�@�@�@<end_line/>
-			�@�@�@�@�@�@�����Ă�̂��H�@�@�@�@<end_line/>
-		</sjis>
-	</male>
-	<female>
-		<sjis>
-			�@�@�@�@�@�@���B�[�o��<three_dots/>�@�@�@�@�@�@<end_line/>
-			�@�@�@�@�@�@�����Ă�́H�@�@�@�@�@�@<end_line/>
-		</sjis>
-	</female>
-</dialogue>
-<dialogue>
-	<info box="simple"/>
-	<portrait_l name="unknown"/>
-	<sjis>
-		�I��������������<end_line/>
-		�����肨���ꂾ����<three_dots/><end_line/>
-		������A���񂽂ɂ���<three_dots/><end_line/>
-	</sjis>
-</dialogue>
-<dialogue>
-	<info box="nobox"/>
-	<sjis>
-		�@�@�@�@�@�@�@�����<three_dots/>�@�@�@�@�@�@�@<end_line/>
-		�@�@�@�@�@�@���u�e����<three_dots/>�I�@�@�@�@�@<end_line/>
-	</sjis>
-</dialogue>
-<dialogue>
-	<info box="simple"/>
-	<portrait_l name="vee"/>
-	<sjis>
-		�����<three_dots/><end_line/>
-	</sjis>
-</dialogue>
-<dialogue>
-	<info box="simple"/>
-	<portrait_l name="vee"/>
-	<sjis>
-		���u��<three_dots/><end_line/>
-		�͂��ꏢ���b��<three_dots/><end_line/>
-	</sjis>
+  <info box="left">
+  <portrait_l entry="player" eye="sad" mouth="tense">
+  <sjis>
+    親方<three_dots>！？<end_line>
+  </sjis>
+  <ascii>
+    Master<three_dots>!?<end_line>
+  </ascii>
 </dialogue>
 <bigtext>
-	<info box="nobox"/>
-	<sjis>
-		���낳�ꂽ<three_dots/>�I<end_line/>
-	</sjis>
-</bigtext>
-<bigtext>
-	<info box="nobox" effect="big"/>
-	<sjis>
-		�e�����I�I<end_line/>
-	</sjis>
+  <info box="left" effect="big">
+  <portrait_l entry="player" eye="decided" mouth="yell">
+  <sjis>
+    おやかたぁ！！<end_line>
+  </sjis>
+  <ascii>
+    Masteer!!<end_line>
+  </ascii>
 </bigtext>
 <dialogue>
-	<info box="right"/>
-	<portrait_r entry="vee" eye="serious" mouth="tense"/>
-	<sjis>
-		�Ȃ񂾂��A<player_nickname>�H<end_line/>
-	</sjis>
+  <info box="simple">
+  <portrait_l name="vee">
+  <sjis>
+    どういうことなんだい？<end_line>
+    ボスタフ<three_dots>！<end_line>
+  </sjis>
+  <ascii>
+    What’s the meaning of this? <end_line>
+    Bostaph<three_dots>!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
-	<info box="left"/>
-	<portrait_l entry="player" eye="surprised" mouth="tense"/>
-	<sjis>
-		��<three_dots/><end_line/>
-		����<three_dots/>�H<end_line/>
-	</sjis>
+  <info box="nobox">
+  <male>
+    <sjis>
+                 ヴィーねえちゃん<three_dots>		<end_line>
+                 泣いてるのか？<end_line>
+    </sjis>
+    <ascii>
+      V.E<three_dots><end_line>
+      Are you crying?<end_line>
+    </ascii>		
+  </male>
+  <female>
+    <sjis>
+      　　　　　　ヴィー姉が<three_dots>		<end_line>
+      　　　　　　泣いてるの？　　　　　　<end_line>
+    </sjis>
+    <ascii>
+      V.E is<three_dots><end_line>
+      Crying?<end_line>
+    </ascii>		
+  </female>
 </dialogue>
 <dialogue>
-	<info box="right"/>
-	<portrait_l entry="player" eye="surprised" mouth="tense"/>
-	<portrait_r entry="vee" eye="sad" mouth="neutral"/>
-	<sjis>
-		���܂ł����Ă��A���Ă��Ȃ���<end_line/>
-		�v������<end_line/>
-		���C�ɓ���̏ꏊ�ł����Q�Ƃ�<three_dots/><end_line/>
-	</sjis>
+  <info box="simple">
+  <portrait_l name="unknown">
+  <sjis>
+    オレが見つけた時は<end_line>
+    もう手おくれだった<three_dots><end_line>
+    これを、あんたにって<three_dots><end_line>
+  </sjis>
+  <ascii>
+    When I found him,<end_line>
+    it was already too late<three_dots><end_line>
+    He aksed me to give this to you<three_dots><end_line>
+  </ascii>	
 </dialogue>
 <dialogue>
-	<info box="right"/>
-	<portrait_l entry="player" eye="sad" mouth="neutral"/>
-	<portrait_r entry="vee" eye="serious" mouth="neutral"/>
-	<sjis>
-		�����C�Ȃ��񂾂˂�<three_dots/><end_line/>
-	</sjis>
+  <info box="nobox">
+  <sjis>
+    　　　　　　　あれは<three_dots>　　　　　　　<end_line>
+    　　　　　　ロブ親方の<three_dots>！　　　　　<end_line>
+  </sjis>
+  <ascii>
+    That's<three_dots><end_line>
+    Master Rob's<three_dots>!<end_line>
+  </ascii>			
 </dialogue>
 <dialogue>
-	<info box="left"/>
-	<portrait_l entry="player" eye="happy" mouth="talk"/>
-	<portrait_r entry="vee" eye="serious" mouth="serious"/>
-	<male>
-		<sjis>
-			����ρA�Ђ�˂�����ɂ�<end_line/>
-			�����Ɍ����<three_dots/><end_line/>
-		</sjis>
-	</male>
-	<female>
-		<sjis>
-			����ρA���Ђ�˂���ɂ�<end_line/>
-			�����Ɍ����<three_dots/><end_line/>
-		</sjis>
-	</female>
+  <info box="simple">
+  <portrait_l name="vee">
+  <sjis>
+    そんな<three_dots><end_line>
+  </sjis>
+  <ascii>
+    No way<three_dots><end_line>
+  </ascii>	
 </dialogue>
 <dialogue>
-	<info box="left"/>
-	<portrait_l entry="player" eye="decided_blush" mouth="stressed"/>
-	<portrait_r entry="vee" eye="serious" mouth="serious"/>
-	<sjis>
-		����Ȃ��āI<end_line/>
-		����<three_dots/>�����<three_dots/><end_line/>
-	</sjis>
-</dialogue>
-<dialogue>
-	<info box="right"/>
-	<portrait_l entry="player" eye="decided_blush" mouth="stressed"/>
-	<portrait_r entry="vee" eye="sad" mouth="neutral"/>
-	<sjis>
-		�ǂ����܂��A�����݂�����<end_line/>
-		���q�̂����}���K�݂����Ȗ�<end_line/>
-		�݂Ă��񂾂�H<end_line/>
-	</sjis>
-</dialogue>
-<dialogue>
-	<info box="right"/>
-	<portrait_l entry="player" eye="serious" mouth="tense"/>
-	<portrait_r entry="vee" eye="happy" mouth="talk"/>
-	<sjis>
-		���̃A�^�V���������Ƃ��ˁH<end_line/>
-	</sjis>
-</dialogue>
-<dialogue>
-	<info box="left"/>
-	<portrait_l entry="player" eye="surprised" mouth="stressed"/>
-	<portrait_r entry="vee" eye="happy" mouth="talk"/>
-	<male>
-		<sjis>
-			������I�H�@���������I<end_line/>
-			�Ȃ�ł킩�����̂�<end_line/>
-			���B�[�˂������H<end_line/>
-		</sjis>
-	</male>
-	<female>
-		<sjis>
-			������I�H�@���������I<end_line/>
-			�ǂ����Ă킩�����́H<end_line/>
-			���B�[�o�H<end_line/>
-		</sjis>
-	</female>
-</dialogue>
-<dialogue>
-	<info box="left"/>
-	<portrait_l entry="player" eye="decided" mouth="stressed"/>
-	<portrait_r entry="vee" eye="decided" mouth="serious"/>
-	<male>
-		<sjis>
-			<three_dots/>���ā[�ȁI<end_line/>
-			�Ȃɂ��񂾂�I<end_line/>
-		</sjis>
-	</male>
-	<female>
-		<sjis>
-			<three_dots/>���������I<end_line/>
-			�Ђǂ���I<end_line/>
-			�ǂ����āH<end_line/>
-		</sjis>
-	</female>
-</dialogue>
-<dialogue>
-	<info box="right"/>
-	<portrait_l entry="player" eye="decided" mouth="stressed"/>
-	<portrait_r entry="vee" eye="decided" mouth="yell"/>
-	<male>
-		<sjis>
-			�N���˂�����񂾂�A�_�����I�H<end_line/>
-			�e�����ČĂׂ��Č����Ă邾��H<end_line/>
-			���B�[�e���I<end_line/>
-		</sjis>
-	</male>
-	<female>
-		<sjis>
-			�N�����B�[�o����A�_�����I�H<end_line/>
-			�e�����ČĂׂ��Č����Ă邾��H<end_line/>
-			���B�[�e���I<end_line/>
-		</sjis>
-	</female>
-</dialogue>
-<dialogue>
-	<info box="left"/>
-	<portrait_l entry="player" eye="sad" mouth="serious"/>
-	<portrait_r entry="vee" eye="decided" mouth="yell"/>
-	<male>
-		<sjis>
-			����������A�e���I<end_line/>
-			�`���b�g�܂���������������I<end_line/>
-		</sjis>
-	</male>
-	<female>
-		<sjis>
-			�����������A�e���I<end_line/>
-			�ł��`���b�g<end_line/>
-			�܂���������������Ȃ��I<end_line/>
-		</sjis>
-	</female>
-</dialogue>
-<dialogue>
-	<info box="right"/>
-	<portrait_l entry="player" eye="sad" mouth="serious"/>
-	<portrait_r entry="vee" eye="decided" mouth="stressed"/>
-	<sjis>
-		�Ȃɂ��`���b�g����I<end_line/>
-		�A���^�A�܂��A�^�V��e���Ƃ���<end_line/>
-		�݂Ƃ߂ĂȂ����肩���H<end_line/>
-	</sjis>
-</dialogue>
-<dialogue>
-	<info box="right"/>
-	<portrait_l entry="player" eye="sad" mouth="serious"/>
-	<portrait_r entry="vee" eye="sad" mouth="yell"/>
-	<sjis>
-		�A���^���A�^�V�������b���������<end_line/>
-		�������Ƃ����Ȃ��Ƃł�<end_line/>
-		�������肩���I�H<end_line/>
-	</sjis>
-</dialogue>
-<dialogue>
-	<info box="left"/>
-	<portrait_l entry="player" eye="surprised" mouth="stressed"/>
-	<portrait_r entry="vee" eye="sad" mouth="yell"/>
-	<male>
-		<sjis>
-			���A����Ȃ��ƂȂ�����<three_dots/>�I<end_line/>
-		</sjis>
-	</male>
-	<female>
-		<sjis>
-			���A����Ȃ��ƂȂ���<three_dots/>�I<end_line/>
-		</sjis>
-	</female>
-</dialogue>
-<dialogue>
-	<info box="right"/>
-	<portrait_l entry="player" eye="surprised" mouth="stressed"/>
-	<portrait_r entry="vee" eye="sad" mouth="talk"/>
-	<sjis>
-		�������낤�H<end_line/>
-		�Ȃ�Ă������Ă��̃A�^�V��<end_line/>
-		�悭����Ă邩��˂�<end_line/>
-	</sjis>
-</dialogue>
-<dialogue>
-	<info box="left"/>
-	<portrait_l entry="player" eye="happy" mouth="tense"/>
-	<portrait_r entry="vee" eye="sad" mouth="talk"/>
-	<sjis>
-		���A��������<end_line/>
-	</sjis>
-</dialogue>
-<dialogue>
-	<info box="right"/>
-	<portrait_l entry="player" eye="happy" mouth="tense"/>
-	<portrait_r entry="vee" eye="decided" mouth="tense"/>
-	<sjis>
-		�A�^�V�̍��̃��b�N��<end_line/>
-		�S���E���V�r�ꂳ���Ă�낤����<end_line/>
-		�Ƃ��o�Ă��������Ă����̂�<end_line/>
-	</sjis>
-</dialogue>
-<dialogue>
-	<info box="right"/>
-	<portrait_l entry="player" eye="serious" mouth="tense"/>
-	<portrait_r entry="vee" eye="decided" mouth="serious"/>
-	<sjis>
-		���̃��B���o�E���Ƃ��������E��<end_line/>
-		�b��t�̑����Ƃ��ď������ꂽ�񂾂�<end_line/>
-		�b��Ȃ�Ă�������Ƃ��Ȃ��̂ɂˁI<end_line/>
-	</sjis>
-</dialogue>
-<dialogue>
-	<info box="right"/>
-	<portrait_l entry="player" eye="sad" mouth="serious"/>
-	<portrait_r entry="vee" eye="sad" mouth="serious"/>
-	<sjis>
-		���̑��ɗ�����܂ŐF�X����������<end_line/>
-		���肪���u����������<end_line/>
-		���܂łȂ�Ƃ�����Ă��ꂽ��<end_line/>
-	</sjis>
-</dialogue>
-<dialogue>
-	<info box="right"/>
-	<portrait_l entry="player" eye="sad" mouth="serious"/>
-	<portrait_r entry="vee" eye="sad_blush" mouth="tense"/>
-	<sjis>
-		����Ȃ̂�<three_dots/><end_line/>
-		���u�͎��񂶂����<three_dots/><end_line/>
-	</sjis>
-</dialogue>
-<dialogue>
-	<info box="left"/>
-	<portrait_l entry="player" eye="sad" mouth="tense"/>
-	<portrait_r entry="vee" eye="sad_blush" mouth="tense"/>
-	<sjis>
-		�e��<three_dots/><end_line/>
-	</sjis>
-</dialogue>
-<dialogue>
-	<info box="right"/>
-	<portrait_l entry="player" eye="sad" mouth="tense"/>
-	<portrait_r entry="vee" eye="sad_blush" mouth="neutral"/>
-	<sjis>
-		���u������ł��炸����<end_line/>
-		���u�̂����ɃA���^�̐e���Ƃ���<end_line/>
-		����΂��Ă������肾�����̂�<three_dots/><end_line/>
-	</sjis>
-</dialogue>
-<dialogue>
-	<info box="right"/>
-	<portrait_l entry="player" eye="sad" mouth="tense"/>
-	<portrait_r entry="vee" eye="sad_blush" mouth="serious"/>
-	<sjis>
-		�q�h�C���<three_dots/><end_line/>
-		�q���̓U���R�N���<three_dots/><end_line/>
-		���u<three_dots/>�I<end_line/>
-	</sjis>
-</dialogue>
-<dialogue>
-	<info box="right"/>
-	<portrait_r entry="vee_romantic" eye="sad" mouth="tense"/>
-	<sjis>
-		�ł��{���͂킽����<end_line/>
-		���Ȃ��̂��Ƃ��Y����Ȃ���<end_line/>
-		���u<three_dots/><end_line/>
-	</sjis>
-</dialogue>
-<dialogue>
-	<info box="right"/>
-	<portrait_r entry="vee_romantic" eye="sad" mouth="yell"/>
-	<sjis>
-		������<end_line/>
-		�Y���R�g�Ȃ��<end_line/>
-		�ł������Ȃ���I<end_line/>
-	</sjis>
-</dialogue>
-<dialogue>
-	<info box="right"/>
-	<portrait_r entry="vee_romantic" eye="serious" mouth="neutral"/>
-	<sjis>
-		�����Ă��Ȃ��͂킽����<three_dots/><end_line/>
-		�킽����<three_dots/>�I<end_line/>
-	</sjis>
-</dialogue>
-<dialogue>
-	<info box="left"/>
-	<portrait_l entry="player" eye="sad" mouth="neutral"/>
-	<portrait_r entry="vee_romantic" eye="serious" mouth="neutral"/>
-	<male>
-		<sjis>
-			�܂��e���̃��[�\�[���͂��܂�����<end_line/>
-			���̂����ɋA������ȁA�I��<end_line/>
-		</sjis>
-	</male>
-	<female>
-		<sjis>
-			�܂��e���̃��[�\�[��<end_line/>
-			�͂��܂��������<end_line/>
-			���̂����ɋA������ȁA�킽��<end_line/>
-		</sjis>
-	</female>
+  <info box="simple">
+  <portrait_l name="vee">
+  <sjis>
+    ロブが<three_dots><end_line>
+    はぐれ召喚獣に<three_dots><end_line>
+  </sjis>
+  <ascii>
+    Rob was<three_dots><end_line>
+    A Stray Summon Beast<three_dots><end_line>
+  </ascii>	
 </dialogue>
 <bigtext>
-	<info box="right" effect="big"/>
-	<portrait_l entry="player" eye="sad" mouth="neutral"/>
-	<portrait_r entry="vee" eye="serious" mouth="tense"/>
-	<sjis>
-		�ŁA<end_line/>
-	</sjis>
+  <info box="nobox">
+  <sjis>
+    ころされた<three_dots>！<end_line>
+  </sjis>
+  <ascii>
+    Killed him!<end_line>
+  </ascii>	
 </bigtext>
 <bigtext>
-	<info box="left" effect="big"/>
-	<portrait_l entry="player" eye="surprised" mouth="neutral"/>
-	<portrait_r entry="vee" eye="serious" mouth="tense"/>
-	<sjis>
-		�͂�<end_line/>
-	</sjis>
+  <info box="nobox" effect="big">
+  <sjis>
+    親方ぁ！！<end_line>
+  </sjis>
+  <ascii>
+    Masteer!!<end_line>
+  </ascii>	
 </bigtext>
 <dialogue>
-	<info box="right"/>
-	<portrait_l entry="player" eye="surprised" mouth="neutral"/>
-	<portrait_r entry="vee" eye="serious" mouth="neutral"/>
-	<sjis>
-		�����̂Ƃ��ւ�<end_line/>
-		�����ƍs�����̂����H<end_line/>
-	</sjis>
+  <info box="right">
+  <portrait_r entry="vee" eye="serious" mouth="tense">
+  <sjis>
+    なんだい、<player_nickname>？<end_line>
+  </sjis>
+  <ascii>
+    What's wrong, <player_nickname>?<end_line>
+  </ascii>	
 </dialogue>
 <dialogue>
-	<info box="left"/>
-	<portrait_l entry="player" eye="serious" mouth="talk"/>
-	<portrait_r entry="vee" eye="serious" mouth="neutral"/>
-	<male>
-		<sjis>
-			�C���������͂����ƕԂ�����I<end_line/>
-			���������āA�ق�I<end_line/>
-			�����������Ă����ƁI<end_line/>
-		</sjis>
-	</male>
-	<female>
-		<sjis>
-			�C���������͂����ƕԂ�����I<end_line/>
-			���������āA�ق�I<end_line/>
-			�������������Ă����ƁI<end_line/>
-		</sjis>
-	</female>
+  <info box="left">
+  <portrait_l entry="player" eye="surprised" mouth="tense">
+  <sjis>
+    あ<three_dots><end_line>
+    あれ<three_dots>？<end_line>
+  </sjis>
+  <ascii>
+    Uh<three_dots><end_line>
+    Huh<three_dots>?<end_line>
+  </ascii>	
 </dialogue>
 <dialogue>
-	<info box="right"/>
-	<portrait_l entry="player" eye="serious" mouth="talk"/>
-	<portrait_r entry="vee" eye="happy" mouth="neutral"/>
-	<sjis>
-		���[����J����J<end_line/>
-		����Ŋ�蓹�Ƌ����肵�ĂȂ����<end_line/>
-		�J���y�L�������̂ɂ˂�<three_dots/><end_line/>
-	</sjis>
+  <info box="right">
+  <portrait_l entry="player" eye="surprised" mouth="tense">
+  <portrait_r entry="vee" eye="sad" mouth="neutral">
+  <sjis>
+    いつまでたっても帰ってこないと<end_line>
+    思ったら<end_line>
+    お気に入りの場所でお昼寝とは<three_dots><end_line>
+  </sjis>
+  <ascii>
+    You were taking forever getting home<three_dots><end_line>
+    To think you were lazing about<end_line>
+    around here<three_dots><end_line>
+  </ascii>	
 </dialogue>
 <dialogue>
-	<info box="left"/>
-	<portrait_l entry="player" eye="happy" mouth="tense"/>
-	<portrait_r entry="vee" eye="happy" mouth="neutral"/>
-	<male>
-		<sjis>
-			���͂�<three_dots/><end_line/>
-			����[�A�ЂƎd������������<end_line/>
-			������ƂЂƋx�݂��悤��<three_dots/><end_line/>
-		</sjis>
-	</male>
-	<female>
-		<sjis>
-			���͂�<three_dots/><end_line/>
-			����[�A�ЂƎd������������<end_line/>
-			������ƂЂƋx�݂�������Ȃ���<three_dots/><end_line/>
-		</sjis>
-	</female>
+  <info box="right">
+  <portrait_l entry="player" eye="sad" mouth="neutral">
+  <portrait_r entry="vee" eye="serious" mouth="neutral">
+  <sjis>
+    いい気なもんだねぇ<three_dots><end_line>
+  </sjis>
+  <ascii>
+    Aren’t you easygoing<three_dots><end_line>
+  </ascii>	
 </dialogue>
 <dialogue>
-	<info box="right"/>
-	<portrait_l entry="player" eye="happy" mouth="tense"/>
-	<portrait_r entry="vee" eye="sad" mouth="serious"/>
-	<sjis>
-		����Ȃ񂾂���<end_line/>
-		���܂ł����Ă����l�O�Ȃ񂾂�<end_line/>
-		�A���^�́I<end_line/>
-	</sjis>
+  <info box="left">
+  <portrait_l entry="player" eye="happy" mouth="talk">
+  <portrait_r entry="vee" eye="serious" mouth="serious">
+  <male>
+    <sjis>
+      やっぱ、ひるねをするには<end_line>
+      ここに限るね<three_dots><end_line>
+    </sjis>
+  </male>
+  <female>
+    <sjis>
+      やっぱ、おひるねするには<end_line>
+      ここに限るわ<three_dots><end_line>
+    </sjis>
+  </female>
+  <ascii>
+    Yeah, this is a great<end_line>
+    place to relax and<three_dots><end_line>
+  </ascii>	
 </dialogue>
 <dialogue>
-	<player gender="male"/>
-	<info box="left"/>
-	<portrait_l entry="player" eye="decided" mouth="stressed"/>
-	<portrait_r entry="vee" eye="serious" mouth="tense"/>
-	<sjis>
-		���l�O���Č����ȁI<end_line/>
-	</sjis>
+  <info box="left">
+  <portrait_l entry="player" eye="decided_blush" mouth="stressed">
+  <portrait_r entry="vee" eye="serious" mouth="serious">
+  <sjis>
+    じゃなくて！<end_line>
+    あの<three_dots>これは<three_dots><end_line>
+  </sjis>
+  <ascii>
+    Er, no!<end_line>
+    Um<three_dots>This is<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
-	<player gender="male"/>
-	<info box="left"/>
-	<portrait_l entry="player" eye="decided" mouth="serious"/>
-	<portrait_r entry="vee" eye="serious" mouth="tense"/>
-	<sjis>
-		�������ɂ܂��b��t�̃^�}�S������<end_line/>
-		�����ɐe����������͂��ꏢ���b��<end_line/>
-		�������邭�炢�����Ȃ��Ă��I<end_line/>
-	</sjis>
+  <info box="right">
+  <portrait_l entry="player" eye="decided_blush" mouth="stressed">
+  <portrait_r entry="vee" eye="sad" mouth="neutral">
+  <sjis>
+    どうせまた、いつもみたいに<end_line>
+    調子のいいマンガみたいな夢<end_line>
+    みてたんだろ？<end_line>
+  </sjis>
+  <ascii>
+    Anyway, like always, you were probably<end_line>
+    having some idiotic manga-like dream,<end_line>
+    weren’t you?<end_line>
+  </ascii>	
 </dialogue>
 <dialogue>
-	<player gender="male"/>
-	<info box="left"/>
-	<portrait_l entry="player" eye="decided" mouth="yell"/>
-	<portrait_r entry="vee" eye="serious" mouth="tense"/>
-	<sjis>
-		���̃I������΂�<end_line/>
-		�e���̃J�^�L�������Ă݂���I<end_line/>
-	</sjis>
+  <info box="right">
+  <portrait_l entry="player" eye="serious" mouth="tense">
+  <portrait_r entry="vee" eye="happy" mouth="talk">
+  <sjis>
+    このアタシをやっつけるとかね？<end_line>
+  </sjis>
+  <ascii>
+    Like beating me in a fight?<end_line>
+  </ascii>	
 </dialogue>
 <dialogue>
-	<player gender="female"/>
-	<info box="left"/>
-	<portrait_l entry="player" eye="decided" mouth="stressed"/>
-	<portrait_r entry="vee" eye="serious" mouth="tense"/>
-	<sjis>
-		���l�O���Č���Ȃ��ł�I<end_line/>
-	</sjis>
+  <info box="left">
+  <portrait_l entry="player" eye="surprised" mouth="stressed">
+  <portrait_r entry="vee" eye="happy" mouth="talk">
+  <male>
+    <sjis>
+      うっわ！？　すっげぇ！<end_line>
+      なんでわかったのさ<end_line>
+      ヴィーねえちゃん？<end_line>
+    </sjis>
+    <ascii>
+      Uwah!? Wow! <end_line>
+      How'd you know, Sis V.E? <end_line>
+    </ascii>	
+  </male>
+  <female>
+    <sjis>
+      うっわ！？　すごぉい！<end_line>
+      どうしてわかったの？<end_line>
+      ヴィー姉？<end_line>
+    </sjis>
+    <ascii>
+      Uwah!? Amazing! <end_line>
+      How did you know, Sis V.E? <end_line>
+    </ascii>	
+  </female>
 </dialogue>
 <dialogue>
-	<player gender="female"/>
-	<info box="left"/>
-	<portrait_l entry="player" eye="decided" mouth="serious"/>
-	<portrait_r entry="vee" eye="serious" mouth="tense"/>
-	<sjis>
-		�������ɂ܂��b��t�̃^�}�S������<end_line/>
-		�����ɐe������������͂��ꏢ���b��<end_line/>
-		�������邭�炢�����Ȃ�񂾂���I<end_line/>
-	</sjis>
+  <info box="left">
+  <portrait_l entry="player" eye="decided" mouth="stressed">
+  <portrait_r entry="vee" eye="decided" mouth="serious">
+  <male>
+    <sjis>
+      <three_dots>ってーな！<end_line>
+      なにすんだよ！<end_line>
+    </sjis>
+    <ascii>
+      <three_dots>Ouch!<end_line>
+      What was that for!?<end_line>
+    </ascii>	
+  </male> 
+  <female>
+    <sjis>
+      <three_dots>ったぁい！<end_line>
+      ひどいよ！<end_line>
+      どうして？<end_line>
+    </sjis>
+    <ascii>
+      <three_dots>Oww!<end_line>
+      That’s mean!<end_line>
+      Why'd you do that!?<end_line>
+    </ascii>	
+  </female>
 </dialogue>
 <dialogue>
-	<player gender="female"/>
-	<info box="left"/>
-	<portrait_l entry="player" eye="decided" mouth="yell"/>
-	<portrait_r entry="vee" eye="serious" mouth="tense"/>
-	<sjis>
-		���̂킽������΂�<end_line/>
-		�e���̃J�^�L�������Ă݂���I<end_line/>
-	</sjis>
+  <info box="right">
+  <portrait_l entry="player" eye="decided" mouth="stressed">
+  <portrait_r entry="vee" eye="decided" mouth="yell">
+  <male>
+    <sjis>
+      誰がねえちゃんだよ、ダレが！？<end_line>
+      親方って呼べって言ってるだろ？<end_line>
+      ヴィー親方！<end_line>
+    </sjis>
+    <ascii>
+      Sis V.E!?<end_line>
+      I've told you to call me Master!<end_line>
+      Master V.E!<end_line>
+    </ascii>	
+  </male>
+  <female>
+    <sjis>
+      誰がヴィー姉だよ、ダレが！？<end_line>
+      親方って呼べって言ってるだろ？<end_line>
+      ヴィー親方！<end_line>
+    </sjis>
+    <ascii>
+      Who's your “sis”!?<end_line>
+      I've told you to call me Master!<end_line>
+      Master V.E!<end_line>
+    </ascii>	
+  </female>
 </dialogue>
 <dialogue>
-	<info box="right"/>
-	<portrait_l entry="player" eye="decided" mouth="yell"/>
-	<portrait_r entry="vee" eye="decided" mouth="stressed"/>
-	<sjis>
-		���ꂪ���l�O�����Č����񂾂�I<end_line/>
-	</sjis>
+  <info box="left">
+  <portrait_l entry="player" eye="sad" mouth="serious">
+  <portrait_r entry="vee" eye="decided" mouth="yell">
+  <male>
+    <sjis>
+      悪かったよ、親方！<end_line>
+      チョットまちがえただけだろ！<end_line>
+    </sjis>
+    <ascii>
+      Sorry, Master!<end_line>
+      I just made a little mistake!<end_line>
+    </ascii>	
+  </male>
+  <female>
+    <sjis>
+      悪かったわよ、親方！<end_line>
+      でもチョット<end_line>
+      まちがえただけじゃない！<end_line>
+    </sjis>
+    <ascii>
+      I'm sorry, Master!<end_line>
+      But it was just a little mistake!<end_line>
+    </ascii>	
+  </female>
 </dialogue>
 <dialogue>
-	<info box="left"/>
-	<portrait_l entry="player" eye="surprised" mouth="tense"/>
-	<portrait_r entry="vee" eye="decided" mouth="stressed"/>
-	<male>
-		<sjis>
-			��<three_dots/>�I<end_line/>
-			�Ȃ�ł���I�H<end_line/>
-		</sjis>
-	</male>
-	<female>
-		<sjis>
-			��<three_dots/>�I<end_line/>
-			�ǂ����āI�H<end_line/>
-		</sjis>
-	</female>
+  <info box="right">
+  <portrait_l entry="player" eye="sad" mouth="serious">
+  <portrait_r entry="vee" eye="decided" mouth="stressed">
+  <sjis>
+    なにがチョットだよ！<end_line>
+    アンタ、まだアタシを親方として<end_line>
+    みとめてないつもりかい？<end_line>
+  </sjis>
+  <ascii>
+    A little mistake!?<end_line>
+    Do you not accept me<end_line>
+    as your master?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
-	<info box="right"/>
-	<portrait_l entry="player" eye="surprised" mouth="tense"/>
-	<portrait_r entry="vee" eye="decided" mouth="tense"/>
-	<sjis>
-		�A���^�͍�<end_line/>
-		�ǂ����Ă����ɂ���񂾁I<end_line/>
-		�Ȃ�̂��߂ɖ����C�s���Ă�񂾁I�H<end_line/>
-	</sjis>
+  <info box="right">
+  <portrait_l entry="player" eye="sad" mouth="serious">
+  <portrait_r entry="vee" eye="sad" mouth="yell">
+  <sjis>
+    アンタもアタシが召喚獣だからって<end_line>
+    言うこときけないとでも<end_line>
+    言うつもりかい！？<end_line>
+  </sjis>
+  <ascii>
+    You're saying you won't listen to me?<end_line>
+    It's because I'm a Summon Beast,<end_line>
+    isn't it!?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
-	<info box="left"/>
-	<portrait_l entry="player" eye="sad" mouth="tense"/>
-	<portrait_r entry="vee" eye="decided" mouth="tense"/>
-	<sjis>
-		�����<three_dots/><end_line/>
-	</sjis>
+  <info box="left">
+  <portrait_l entry="player" eye="surprised" mouth="stressed">
+  <portrait_r entry="vee" eye="sad" mouth="yell">
+  <male>
+    <sjis>
+      そ、そんなことないって<three_dots>！<end_line>
+    </sjis>
+    <ascii>
+      I-I didn't mean it like that<three_dots>!<end_line>
+    </ascii>	
+  </male>
+  <female>
+    <sjis>
+      そ、そんなことないよ<three_dots>！<end_line>
+    </sjis>
+    <ascii>
+      Th-That's not what I meant<three_dots>!<end_line>
+    </ascii>
+  </female>
 </dialogue>
 <dialogue>
-	<info box="left"/>
-	<portrait_l entry="player" eye="serious" mouth="stressed"/>
-	<portrait_r entry="vee" eye="decided" mouth="serious"/>
-	<sjis>
-		����<three_dots/>���u�e���݂�����<end_line/>
-		�J�b�R�C�C�b��t�ɂȂ肽������<three_dots/>�I<end_line/>
-	</sjis>
+  <info box="right">
+  <portrait_l entry="player" eye="surprised" mouth="stressed">
+  <portrait_r entry="vee" eye="sad" mouth="talk">
+  <sjis>
+    そうだろう？<end_line>
+    なんてったってこのアタシは<end_line>
+    よくやってるからねぇ<end_line>
+  </sjis>
+  <ascii>
+    Of course not, right?<end_line>
+    After all, I'm doing a pretty good job.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
-	<info box="right"/>
-	<portrait_l entry="player" eye="serious" mouth="stressed"/>
-	<portrait_r entry="vee" eye="serious" mouth="yell"/>
-	<sjis>
-		��������w�����Ȃ��<end_line/>
-		�o�J�Ȃ��ƍl���Ă�q�}����������<end_line/>
-		�����ƕ�����̏C�s���ȁA�C�s�I<end_line/>
-	</sjis>
+  <info box="left">
+  <portrait_l entry="player" eye="happy" mouth="tense">
+  <portrait_r entry="vee" eye="sad" mouth="talk">
+  <sjis>
+    そ、そうそう<end_line>
+  </sjis>
+  <ascii>
+    Th-That's right!<end_line>
+  </ascii>	
 </dialogue>
 <dialogue>
-	<info box="right"/>
-	<portrait_l entry="player" eye="serious" mouth="serious"/>
-	<portrait_r entry="vee" eye="serious" mouth="talk"/>
-	<sjis>
-		������l�O�̒b��t�ɂȂ���<end_line/>
-		�A���^�̂₳�����p�p�ƃ}�}��<end_line/>
-		���S�����Ă�邱������<end_line/>
-	</sjis>
+  <info box="right">
+  <portrait_l entry="player" eye="happy" mouth="tense">
+  <portrait_r entry="vee" eye="decided" mouth="tense">
+  <sjis>
+    アタシの魂のロックで<end_line>
+    全世界をシビれさせてやろうって<end_line>
+    家を出てすぐだっていうのに<end_line>
+  </sjis>
+  <ascii>
+    I left my home, thinking<end_line>
+    “I’ll make the whole world shiver<end_line>
+    with the Rock of my soul!”,<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
-	<info box="left"/>
-	<portrait_l entry="player" eye="sad" mouth="tense"/>
-	<portrait_r entry="vee" eye="serious" mouth="talk"/>
-	<male>
-		<sjis>
-			��<three_dots/><end_line/>
-			������ƕꂳ��A��<three_dots/><end_line/>
-		</sjis>
-	</male>
-	<female>
-		<sjis>
-			��<three_dots/><end_line/>
-			��������Ƃ��ꂳ��A��<three_dots/><end_line/>
-		</sjis>
-	</female>
+  <info box="right">
+  <portrait_l entry="player" eye="serious" mouth="tense">
+  <portrait_r entry="vee" eye="decided" mouth="serious">
+  <sjis>
+    このリィンバウムとかいう世界に<end_line>
+    鍛冶師の相方として召喚されたんだよ<end_line>
+    鍛冶なんてやったこともないのにね！<end_line>
+  </sjis>
+  <ascii>
+    I was summoned to this world Lyndbaum,<end_line>
+    as a Craftknight's partner,<end_line>
+    even though I'd never touched a forge!<end_line>
+  </ascii>	
 </dialogue>
 <dialogue>
-	<info box="left"/>
-	<portrait_l entry="player" eye="decided" mouth="talk"/>
-	<portrait_r entry="vee" eye="serious" mouth="talk"/>
-	<sjis>
-		�킩�����I<end_line/>
-		�C�s���Ă���I<end_line/>
-		����̍ޗ��ł��W�߂Ă����<end_line/>
-	</sjis>
+  <info box="right">
+  <portrait_l entry="player" eye="sad" mouth="serious">
+  <portrait_r entry="vee" eye="sad" mouth="serious">
+  <sjis>
+    この村に流れつくまで色々あったけど<end_line>
+    相手がロブだったから<end_line>
+    今までなんとかやってこれたんだ<end_line>
+  </sjis>
+  <ascii>
+    Life was hard before we came here,<end_line>
+    but with Rob by my side,<end_line>
+    we managed to make it work.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
-	<info box="right"/>
-	<portrait_l entry="player" eye="decided" mouth="neutral"/>
-	<portrait_r entry="vee" eye="happy" mouth="neutral"/>
-	<sjis>
-		���̈ӋC���I<end_line/>
-		����΃��ȁI<end_line/>
-	</sjis>
+  <info box="right">
+  <portrait_l entry="player" eye="sad" mouth="serious">
+  <portrait_r entry="vee" eye="sad_blush" mouth="tense">
+  <sjis>
+    それなのに<three_dots><end_line>
+    ロブは死んじゃって<three_dots><end_line>
+  </sjis>
+  <ascii>
+    And yet<three_dots><end_line>
+    Rob passed away<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
-	<info box="right"/>
-	<portrait_l entry="player" eye="decided" mouth="neutral"/>
-	<portrait_r entry="vee" eye="serious" mouth="talk"/>
-	<sjis>
-		����A���g���̂��ق��тł�<end_line/>
-		������Ƃ��邩<three_dots/><end_line/>
-		�ق�<end_line/>
-	</sjis>
+  <info box="left">
+  <portrait_l entry="player" eye="sad" mouth="tense">
+  <portrait_r entry="vee" eye="sad_blush" mouth="tense">
+  <sjis>
+    親方<three_dots><end_line>
+  </sjis>
+  <ascii>
+    Master<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
-	<info box="left"/>
-	<portrait_l entry="player" eye="surprised" mouth="stressed"/>
-	<male>
-		<sjis>
-			����͕���̍ޗ��I<end_line/>
-			���������I<end_line/>
-			�e���A�J�b�R�C�[�I<end_line/>
-		</sjis>
-	</male>
-	<female>
-		<sjis>
-			����͕���̍ޗ��I<end_line/>
-			���������I<end_line/>
-			�e���A�J�b�R�C�[�I<end_line/>
-		</sjis>
-	</female>
+  <info box="right">
+  <portrait_l entry="player" eye="sad" mouth="tense">
+  <portrait_r entry="vee" eye="sad_blush" mouth="neutral">
+  <sjis>
+    ロブが死んでからずっと<end_line>
+    ロブのかわりにアンタの親方として<end_line>
+    がんばってきたつもりだったのに<three_dots><end_line>
+  </sjis>
+  <ascii>
+    Ever since Rob died,<end_line>
+    I’ve been trying my best<end_line>
+    as your Master, in his place<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
-	<info box="right"/>
-	<portrait_l entry="player" eye="surprised" mouth="stressed"/>
-	<portrait_r entry="vee" eye="happy" mouth="talk"/>
-	<sjis>
-		��������H<end_line/>
-		�A�^�V�̓J�b�R�C�[�񂾂�<end_line/>
-	</sjis>
+  <info box="right">
+  <portrait_l entry="player" eye="sad" mouth="tense">
+  <portrait_r entry="vee" eye="sad_blush" mouth="serious">
+  <sjis>
+    ヒドイよね<three_dots><end_line>
+    子供はザンコクよね<three_dots><end_line>
+    ロブ<three_dots>！<end_line>
+  </sjis>
+  <ascii>
+    You're terrible<three_dots><end_line>
+    Kids are cruel, aren't they<three_dots>?<end_line>
+    Rob<three_dots>!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
-	<info box="right"/>
-	<portrait_l entry="player" eye="serious" mouth="neutral"/>
-	<portrait_r entry="vee" eye="serious" mouth="talk"/>
-	<sjis>
-		�����炻���ɍ�������ޗ��܂�<end_line/>
-		������قǁA�A�}���Ȃ���<end_line/>
-		��͎����Ō����Ă���񂾂�<end_line/>
-	</sjis>
+  <info box="right">
+  <portrait_r entry="vee_romantic" eye="sad" mouth="tense">
+  <sjis>
+    でも本当はわたしも<end_line>
+    あなたのことが忘れられないの<end_line>
+    ロブ<three_dots><end_line>
+  </sjis>
+  <ascii>
+    Truthfully<three_dots><end_line>
+    I cannot forget about you, Rob<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
-	<info box="left"/>
-	<portrait_l entry="player" eye="decided" mouth="neutral"/>
-	<portrait_r entry="vee" eye="serious" mouth="talk"/>
-	<sjis>
-		�킩���Ă���āI<end_line/>
-		�ޗ����������b��t�̎d�����ĂˁI<end_line/>
-	</sjis>
+  <info box="right">
+  <portrait_r entry="vee_romantic" eye="sad" mouth="yell">
+  <sjis>
+    いいえ<end_line>
+    忘れるコトなんて<end_line>
+    できっこないわ！<end_line>
+  </sjis>
+  <ascii>
+    No,<end_line>
+    there's no way<end_line>
+    I could ever forget!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
-	<info box="right"/>
-	<portrait_l entry="player" eye="decided" mouth="neutral"/>
-	<portrait_r entry="vee" eye="serious" mouth="yell"/>
-	<sjis>
-		�C�����čs���񂾂�<end_line/>
-		�A���^�ɉ�����������<end_line/>
-		�����e�ɐ\����Ȃ������<end_line/>
-	</sjis>
+  <info box="right">
+  <portrait_r entry="vee_romantic" eye="serious" mouth="neutral">
+  <sjis>
+    だってあなたはわたしの<three_dots><end_line>
+    わたしの<three_dots>！<end_line>
+  </sjis>
+  <ascii>
+    Because you're my<three_dots><end_line>
+    My<three_dots>!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
-	<info box="left"/>
-	<portrait_l entry="player" eye="happy" mouth="neutral"/>
-	<portrait_r entry="vee" eye="serious" mouth="yell"/>
-	<sjis>
-		�͂��I<end_line/>
-		����A�ޗ�������<end_line/>
-		�s���Ă��܂��I<end_line/>
-	</sjis>
+  <info box="left">
+  <portrait_l entry="player" eye="sad" mouth="neutral">
+  <portrait_r entry="vee_romantic" eye="serious" mouth="neutral">
+  <male>
+    <sjis>
+      また親方のモーソーがはじまったよ<end_line>
+      今のうちに帰ろっかな、オレ<end_line>
+    </sjis>
+    <ascii>
+      Master’s delusions have started again.<end_line>
+      I better leave while I can.<end_line>
+    </ascii>
+  </male>
+  <female>
+    <sjis>
+      また親方のモーソーが<end_line>
+      はじまっちゃった<end_line>
+      今のうちに帰ろっかな、わたし<end_line>
+    </sjis>
+    <ascii>
+      Master's imagination is running<end_line>
+      wild once again<three_dots><end_line>
+      I better leave while I can.<end_line>
+    </ascii>	
+  </female>
+</dialogue>
+<bigtext>
+  <info box="right" effect="big">
+  <portrait_l entry="player" eye="sad" mouth="neutral">
+  <portrait_r entry="vee" eye="serious" mouth="tense">
+  <sjis>
+    で、<end_line>
+  </sjis>
+  <ascii>
+    So!<end_line>
+  </ascii>
+</bigtext>
+<bigtext>
+  <info box="left" effect="big">
+  <portrait_l entry="player" eye="surprised" mouth="neutral">
+  <portrait_r entry="vee" eye="serious" mouth="tense">
+  <sjis>
+    はい<end_line>
+  </sjis>
+  <ascii>
+    Yes!?<end_line>
+  </ascii>
+</bigtext>
+<dialogue>
+  <info box="right">
+  <portrait_l entry="player" eye="surprised" mouth="neutral">
+  <portrait_r entry="vee" eye="serious" mouth="neutral">
+  <sjis>
+    村長のとこへは<end_line>
+    ちゃんと行ったのかい？<end_line>
+  </sjis>
+  <ascii>
+    Have you already been<end_line>
+    to the Village Chief’s place?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
-	<info box="right"/>
-	<portrait_l entry="player" eye="happy" mouth="neutral"/>
-	<portrait_r entry="vee" eye="decided" mouth="talk"/>
-	<male>
-		<sjis>
-			�����I�@�s���Ă��ȁI<end_line/>
-			���̃n���}�[��<end_line/>
-			�A���^�̒j��b����񂾁I<end_line/>
-		</sjis>
-	</male>
-	<female>
-		<sjis>
-			�����I�@�s���Ă��ȁI<end_line/>
-			���̃n���}�[��<end_line/>
-			�A���^�̏���b����񂾁I<end_line/>
-		</sjis>
-	</female>
+  <info box="left">
+  <portrait_l entry="player" eye="serious" mouth="talk">
+  <portrait_r entry="vee" eye="serious" mouth="neutral">
+  <male>
+    <sjis>
+      修理した剣はちゃんと返したよ！<end_line>
+      お金だって、ほら！<end_line>
+      買い物だってちゃんと！<end_line>
+    </sjis>
+  </male>
+  <female>
+    <sjis>
+      修理した剣はちゃんと返したよ！<end_line>
+      お金だって、ほら！<end_line>
+      お買い物だってちゃんと！<end_line>
+    </sjis>
+  </female>
+  <ascii>
+    Yeah, I already returned the sword!<end_line>
+    I got the money here, look!<end_line>
+    And I even did the shopping too!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
-	<info box="left"/>
-	<portrait_l entry="player" eye="serious" mouth="talk"/>
-	<portrait_r entry="vee" eye="decided" mouth="talk"/>
-	<sjis>
-		���[�I<end_line/>
-	</sjis>
+  <info box="right">
+  <portrait_l entry="player" eye="serious" mouth="talk">
+  <portrait_r entry="vee" eye="happy" mouth="neutral">
+  <sjis>
+    おーご苦労ご苦労<end_line>
+    これで寄り道と居眠りしてなければ<end_line>
+    カンペキだったのにねぇ<three_dots><end_line>
+  </sjis>
+  <ascii>
+    Oh, I'm impressed!<end_line>
+    That would've been perfect, that is,<end_line>
+    if you hadn't wandered off for a nap<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
-	<info box="right"/>
-	<portrait_l entry="player" eye="serious" mouth="talk"/>
-	<portrait_r entry="vee" eye="serious" mouth="neutral"/>
-	<sjis>
-		����A�A�^�V��<end_line/>
-		�Ƃɂ��邩���<end_line/>
-	</sjis>
+  <info box="left">
+  <portrait_l entry="player" eye="happy" mouth="tense">
+  <portrait_r entry="vee" eye="happy" mouth="neutral">
+  <male>
+    <sjis>
+      あはは<three_dots><end_line>
+      いやー、ひと仕事おわったんで<end_line>
+      ちょっとひと休みしようと<three_dots><end_line>
+    </sjis>
+  </male>
+  <female>
+    <sjis>
+      あはは<three_dots><end_line>
+      いやー、ひと仕事おわったんで<end_line>
+      ちょっとひと休みしよっかなって<three_dots><end_line>
+    </sjis>
+  </female>
+  <ascii>
+    Hehehe<three_dots><end_line>
+    Well, after all that hard work,<end_line>
+    I deserve a break, right<three_dots>?<end_line>
+  </ascii>    
 </dialogue>
 <dialogue>
-	<info box="right"/>
-	<portrait_r entry="vee" eye="happy" mouth="neutral"/>
-	<sjis>
-		���ꂵ����<end_line/>
-		<player_nickname>�����C���o���Ă��ꂽ��<end_line/>
-		��Ȃ��猩���ȃA���ƃ��`�A���ȁH<end_line/>
-	</sjis>
+  <info box="right">
+  <portrait_l entry="player" eye="happy" mouth="tense">
+  <portrait_r entry="vee" eye="sad" mouth="serious">
+  <sjis>
+    そんなんだから<end_line>
+    いつまでたっても半人前なんだよ<end_line>
+    アンタは！<end_line>
+  </sjis>
+  <ascii>
+    It's because you’re so lazy,<end_line>
+    that no matter how much time passes,<end_line>
+    you're still just an amateur!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
-	<info box="right"/>
-	<portrait_r entry="vee" eye="serious" mouth="neutral"/>
-	<sjis>
-		���Ă�H�@���u<end_line/>
-		�A�^�V�A����΂��Ă��I<end_line/>
-	</sjis>
+  <player gender="male">
+  <info box="left">
+  <portrait_l entry="player" eye="decided" mouth="stressed">
+  <portrait_r entry="vee" eye="serious" mouth="tense">
+  <sjis>
+    半人前って言うな！<end_line>
+  </sjis>
+  <ascii>
+    Don’t call me an amateur!<end_line>
+  </ascii>	
 </dialogue>
 <dialogue>
-	<info box="left"/>
-	<portrait_l entry="player" eye="decided" mouth="talk"/>
-	<male>
-		<sjis>
-			������I<end_line/>
-			�I�����o�����I<end_line/>
-		</sjis>
-	</male>
-	<female>
-		<sjis>
-			�悧���I<end_line/>
-			�킽�����s�����I<end_line/>
-		</sjis>
-	</female>
+  <player gender="male">
+  <info box="left">
+  <portrait_l entry="player" eye="decided" mouth="serious">
+  <portrait_r entry="vee" eye="serious" mouth="tense">
+  <sjis>
+    たしかにまだ鍛冶師のタマゴだけど<end_line>
+    すぐに親方をやったはぐれ召喚獣を<end_line>
+    たおせるくらい強くなってやる！<end_line>
+  </sjis>
+  <ascii>
+    I may be just an apprentice right now,<end_line>
+    but soon I’ll be strong enough to<end_line>
+    defeat the Stray that killed Master Rob!<end_line>
+  </ascii>
+</dialogue>
+<dialogue>
+  <player gender="male">
+  <info box="left">
+  <portrait_l entry="player" eye="decided" mouth="yell">
+  <portrait_r entry="vee" eye="serious" mouth="tense">
+  <sjis>
+    このオレが絶対に<end_line>
+    親方のカタキをうってみせる！<end_line>
+  </sjis>
+  <ascii>
+    I'll show you!<end_line>
+    I'll avenge Master Rob!<end_line>
+  </ascii>
+</dialogue>
+<dialogue>
+  <player gender="female">
+  <info box="left">
+  <portrait_l entry="player" eye="decided" mouth="stressed">
+  <portrait_r entry="vee" eye="serious" mouth="tense">
+  <sjis>
+    半人前って言わないでよ！<end_line>
+  </sjis>
+  <ascii>
+    Don’t call me an amateur!<end_line>
+  </ascii>
+</dialogue>
+<dialogue>
+  <player gender="female">
+  <info box="left">
+  <portrait_l entry="player" eye="decided" mouth="serious">
+  <portrait_r entry="vee" eye="serious" mouth="tense">
+  <sjis>
+    たしかにまだ鍛冶師のタマゴだけど<end_line>
+    すぐに親方をやっつけたはぐれ召喚獣を<end_line>
+    たおせるくらい強くなるんだから！<end_line>
+  </sjis>
+  <ascii>
+    I may be just an apprentice right now,<end_line>
+    but soon I’ll be strong enough to<end_line>
+    defeat the Stray that killed Master Rob!<end_line>
+  </ascii>
+</dialogue>
+<dialogue>
+  <player gender="female">
+  <info box="left">
+  <portrait_l entry="player" eye="decided" mouth="yell">
+  <portrait_r entry="vee" eye="serious" mouth="tense">
+  <sjis>
+    このわたしが絶対に<end_line>
+    親方のカタキをうってみせる！<end_line>
+  </sjis>
+  <ascii>
+    I'll show you!<end_line>
+    I'll avenge Master Rob!<end_line>
+  </ascii>
+</dialogue>
+<dialogue>
+  <info box="right">
+  <portrait_l entry="player" eye="decided" mouth="yell">
+  <portrait_r entry="vee" eye="decided" mouth="stressed">
+  <sjis>
+    それが半人前だって言うんだよ！<end_line>
+  </sjis>
+  <ascii>
+    That’s why you’re an amateur!<end_line>
+  </ascii>
+</dialogue>
+<dialogue>
+  <info box="left">
+  <portrait_l entry="player" eye="surprised" mouth="tense">
+  <portrait_r entry="vee" eye="decided" mouth="stressed">
+  <male>
+    <sjis>
+      う<three_dots>！<end_line>
+      なんでだよ！？<end_line>
+    </sjis>
+    <ascii>
+      Ugh<three_dots><end_line>
+      Why's that!?<end_line>
+    </ascii>
+  </male>
+  <female>
+    <sjis>
+      う<three_dots>！<end_line>
+      どうして！？<end_line>
+    </sjis>
+    <ascii>
+      Ugh<three_dots><end_line>
+      Why!?<end_line>
+    </ascii>
+  </female>
+</dialogue>
+<dialogue>
+  <info box="right">
+  <portrait_l entry="player" eye="surprised" mouth="tense">
+  <portrait_r entry="vee" eye="decided" mouth="tense">
+  <sjis>
+    アンタは今<end_line>
+    どうしてここにいるんだ！<end_line>
+    なんのために毎日修行してるんだ！？<end_line>
+  </sjis>
+  <ascii>
+    Why are you here now!?<end_line>
+    Why do you train so hard every day!?<end_line>
+  </ascii>
+</dialogue>
+<dialogue>
+  <info box="left">
+  <portrait_l entry="player" eye="sad" mouth="tense">
+  <portrait_r entry="vee" eye="decided" mouth="tense">
+  <sjis>
+    それは<three_dots><end_line>
+  </sjis>
+  <ascii>
+    That's<three_dots><end_line>
+  </ascii>
+</dialogue>
+<dialogue>
+  <info box="left">
+  <portrait_l entry="player" eye="serious" mouth="stressed">
+  <portrait_r entry="vee" eye="decided" mouth="serious">
+  <sjis>
+    先代の<three_dots>ロブ親方みたいな<end_line>
+    カッコイイ鍛冶師になりたいから<three_dots>！<end_line>
+  </sjis>
+  <ascii>
+    That's because I want to be a cool<end_line>
+    Craftknight, just like Master Rob<three_dots>!<end_line>
+  </ascii>
+</dialogue>
+<dialogue>
+  <info box="right">
+  <portrait_l entry="player" eye="serious" mouth="stressed">
+  <portrait_r entry="vee" eye="serious" mouth="yell">
+  <sjis>
+    だったら仇討ちなんて<end_line>
+    バカなこと考えてるヒマがあったら<end_line>
+    ちゃんと武器作りの修行しな、修行！<end_line>
+  </sjis>
+  <ascii>
+    Well then stop thinking about stupid<end_line>
+    things like revenge, and use that time<end_line>
+    to continue training!<end_line>
+  </ascii>
+</dialogue>
+<dialogue>
+  <info box="right">
+  <portrait_l entry="player" eye="serious" mouth="serious">
+  <portrait_r entry="vee" eye="serious" mouth="talk">
+  <sjis>
+    早く一人前の鍛冶師になって<end_line>
+    アンタのやさしいパパとママを<end_line>
+    安心させてやるこったな<end_line>
+  </sjis>
+  <ascii>
+    Become a full-fledged Craftknight,<end_line>
+    and let your kind father and mother<end_line>
+    stop worrying about you.<end_line>
+  </ascii>
+</dialogue>
+<dialogue>
+  <info box="left">
+  <portrait_l entry="player" eye="sad" mouth="tense">
+  <portrait_r entry="vee" eye="serious" mouth="talk">
+  <male>
+    <sjis>
+      う<three_dots><end_line>
+      父さんと母さん、か<three_dots><end_line>
+    </sjis>
+    <ascii>
+      Ugh<three_dots><end_line>
+      Mom and Dad, huh<three_dots>?<end_line>
+    </ascii>
+  </male>
+  <female>
+    <sjis>
+      う<three_dots><end_line>
+      お父さんとお母さん、か<three_dots><end_line>
+    </sjis>
+    <ascii>
+      Ugh<three_dots><end_line>
+      Mom and Dad, huh<three_dots>?<end_line>
+    </ascii>
+  </female>
+</dialogue>
+<dialogue>
+  <info box="left">
+  <portrait_l entry="player" eye="decided" mouth="talk">
+  <portrait_r entry="vee" eye="serious" mouth="talk">
+  <sjis>
+    わかった！<end_line>
+    修行してくる！<end_line>
+    武器の材料でも集めてくるよ<end_line>
+  </sjis>
+  <ascii>
+    Okay, I understand!<end_line>
+    I'll go train!<end_line>
+    I'll go gather some materials!<end_line>
+  </ascii>
+</dialogue>
+<dialogue>
+  <info box="right">
+  <portrait_l entry="player" eye="decided" mouth="neutral">
+  <portrait_r entry="vee" eye="happy" mouth="neutral">
+  <sjis>
+    その意気だ！<end_line>
+    がんばンな！<end_line>
+  </sjis>
+  <ascii>
+    That's the spirit!<end_line>
+    Do your best!<end_line>
+  </ascii>
+</dialogue>
+<dialogue>
+  <info box="right">
+  <portrait_l entry="player" eye="decided" mouth="neutral">
+  <portrait_r entry="vee" eye="serious" mouth="talk">
+  <sjis>
+    じゃ、お使いのごほうびでも<end_line>
+    あげるとするか<three_dots><end_line>
+    ほれ<end_line>
+  </sjis>
+  <ascii>
+    Well then, why don't I give you<end_line>
+    some compensation for your errand.<end_line>
+    Take this.<end_line>
+  </ascii>
+</dialogue>
+<dialogue>
+  <info box="left">
+  <portrait_l entry="player" eye="surprised" mouth="stressed">
+  <male>
+    <sjis>
+      これは武器の材料！<end_line>
+      すっげぇ！<end_line>
+      親方、カッコイー！<end_line>
+    </sjis>
+    <ascii>
+      This is a Weapon Shapestone!<end_line>
+      Awesome!<end_line>
+      Master, you’re so cool!<end_line>
+    </ascii>
+  </male>
+  <female>
+    <sjis>
+      これは武器の材料！<end_line>
+      すごぉい！<end_line>
+      親方、カッコイー！<end_line>
+    </sjis>
+    <ascii>
+      This is a Weapon Shapestone!<end_line>
+      Incredible!<end_line>
+      Master, you’re so cool!<end_line>
+    </ascii>
+  </female>
+</dialogue>
+<dialogue>
+  <info box="right">
+  <portrait_l entry="player" eye="surprised" mouth="stressed">
+  <portrait_r entry="vee" eye="happy" mouth="talk">
+  <sjis>
+    そうだろ？<end_line>
+    アタシはカッコイーんだよ<end_line>
+  </sjis>
+  <ascii>
+    Right?<end_line>
+    I am pretty cool.<end_line>
+  </ascii>
+</dialogue>
+<dialogue>
+  <info box="right">
+  <portrait_l entry="player" eye="serious" mouth="neutral">
+  <portrait_r entry="vee" eye="serious" mouth="talk">
+  <sjis>
+    だからそいつに合成する材料まで<end_line>
+    あげるほど、アマかないよ<end_line>
+    後は自分で見つけてくるんだね<end_line>
+  </sjis>
+  <ascii>
+    Which is why I'm not gonna spoil you<end_line>
+    by giving you everything for free.<end_line>
+    Look for the rest by yourself.<end_line>
+  </ascii>
+</dialogue>
+<dialogue>
+  <info box="left">
+  <portrait_l entry="player" eye="decided" mouth="neutral">
+  <portrait_r entry="vee" eye="serious" mouth="talk">
+  <sjis>
+    わかってるって！<end_line>
+    材料さがしも鍛冶師の仕事ってね！<end_line>
+  </sjis>
+  <ascii>
+    I know, I know!<end_line>
+    Collecting materials is part<end_line>
+    of being a Craftknight too!<end_line>
+  </ascii>
+</dialogue>
+<dialogue>
+  <info box="right">
+  <portrait_l entry="player" eye="decided" mouth="neutral">
+  <portrait_r entry="vee" eye="serious" mouth="yell">
+  <sjis>
+    気をつけて行くんだよ<end_line>
+    アンタに何かあったら<end_line>
+    ご両親に申し訳ないからね<end_line>
+  </sjis>
+  <ascii>
+    Be careful. If something were<end_line>
+    to happen to you, I'd have no excuse<end_line>
+    for your parents.<end_line>
+  </ascii>
+</dialogue>
+<dialogue>
+  <info box="left">
+  <portrait_l entry="player" eye="happy" mouth="neutral">
+  <portrait_r entry="vee" eye="serious" mouth="yell">
+  <sjis>
+    はい！<end_line>
+    じゃ、材料さがし<end_line>
+    行ってきます！<end_line>
+  </sjis>
+  <ascii>
+    I will!<end_line>
+    I'll be off then!<end_line>
+  </ascii>
+</dialogue>
+<dialogue>
+  <info box="right">
+  <portrait_l entry="player" eye="happy" mouth="neutral">
+  <portrait_r entry="vee" eye="decided" mouth="talk">
+  <male>
+    <sjis>
+      おお！　行ってきな！<end_line>
+      そのハンマーで<end_line>
+      アンタの男を鍛えるんだ！<end_line>
+    </sjis>
+    <ascii>
+      Yeah! Get going!<end_line>
+      Forge yourself into a man<end_line>
+      with that hammer!<end_line>
+    </ascii>
+  </male>
+  <female>
+    <sjis>
+      おお！　行ってきな！<end_line>
+      そのハンマーで<end_line>
+      アンタの女を鍛えるんだ！<end_line>
+    </sjis>
+    <ascii>
+      Yeah! Get going!<end_line>
+      Forge yourself into a woman<end_line>
+      with that hammer!<end_line>
+    </ascii>
+  </female>
+</dialogue>
+<dialogue>
+  <info box="left">
+  <portrait_l entry="player" eye="serious" mouth="talk">
+  <portrait_r entry="vee" eye="decided" mouth="talk">
+  <sjis>
+    おー！<end_line>
+  </sjis>
+  <ascii>
+    Yeah!<end_line>
+  </ascii>
+</dialogue>
+<dialogue>
+  <info box="right">
+  <portrait_l entry="player" eye="serious" mouth="talk">
+  <portrait_r entry="vee" eye="serious" mouth="neutral">
+  <sjis>
+    じゃ、アタシは<end_line>
+    家にいるからね<end_line>
+  </sjis>
+  <ascii>
+    Well, I'll be at home, then.<end_line>
+  </ascii>
+</dialogue>
+<dialogue>
+  <info box="right">
+  <portrait_r entry="vee" eye="happy" mouth="neutral">
+  <sjis>
+    うれしいね<end_line>
+    <player_nickname>がやる気を出してくれたよ<end_line>
+    我ながら見事なアメとムチ、かな？<end_line>
+  </sjis>
+  <ascii>
+    <player_nickname> looks motivated<end_line>
+    A wonderful example of the 'carrot and<end_line>
+    the stick', if I may say so myself.<end_line>
+  </ascii>	
+</dialogue>
+<dialogue>
+  <info box="right">
+  <portrait_r entry="vee" eye="serious" mouth="neutral">
+  <sjis>
+    見てる？　ロブ<end_line>
+    アタシ、がんばってるよ！<end_line>
+  </sjis>
+  <ascii>
+    Are you watching, Rob?<end_line>
+    I'm doing my best!<end_line>
+  </ascii>
+</dialogue>
+<dialogue>
+  <info box="left">
+  <portrait_l entry="player" eye="decided" mouth="talk">
+  <male>
+    <sjis>
+      よっし！<end_line>
+      オレも出発だ！<end_line>
+    </sjis>
+  </male>
+  <female>
+    <sjis>
+      よぉし！<end_line>
+      わたしも行こう！<end_line>
+    </sjis>
+  </female>
+  <ascii>
+    Alright!<end_line>
+    Time to get moving!<end_line>
+  </ascii>
 </dialogue>

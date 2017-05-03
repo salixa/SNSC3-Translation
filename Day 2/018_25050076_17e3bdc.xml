@@ -4,16 +4,20 @@
 	<portrait_r entry="partner" eye="serious" mouth="neutral"/>
 	<male>
 		<sjis>
-			ŠyŸI<end_line/>
-			‚â‚Á‚ÏƒIƒŒ‚½‚¿‚Í‹­‚¢‚ÈI<end_line/>
+			æ¥½å‹ï¼<end_line>
+			ã‚„ã£ã±ã‚ªãƒ¬ãŸã¡ã¯å¼·ã„ãªï¼<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			ŠyŸI<end_line/>
-			‚â‚Á‚Ï‚í‚½‚µ‚½‚¿‚Á‚Ä‹­‚¢‚ËI<end_line/>
+			æ¥½å‹ï¼<end_line>
+			ã‚„ã£ã±ã‚ãŸã—ãŸã¡ã£ã¦å¼·ã„ã­ï¼<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Easy!<end_line>
+    We really are strong!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
@@ -21,8 +25,11 @@
 	<portrait_l entry="player" eye="happy" mouth="neutral"/>
 	<portrait_r entry="partner" eye="happy" mouth="neutral"/>
 	<sjis>
-		“–‘RƒmŒ‹‰ÊƒfƒX<end_line/>
+		å½“ç„¶ãƒŽçµæžœãƒ‡ã‚¹<end_line>
 	</sjis>
+	<ascii>
+		As Expected.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi"/>
@@ -30,9 +37,14 @@
 	<portrait_l entry="player" eye="happy" mouth="neutral"/>
 	<portrait_r entry="partner" eye="happy" mouth="neutral"/>
 	<sjis>
-		‚¤‚Þ<end_line/>
-		‚à‚¤­‚µŽ•‚²‚½‚¦‚ª—~‚µ‚©‚Á‚½‚È<end_line/>
+		ã†ã‚€<end_line>
+		ã‚‚ã†å°‘ã—æ­¯ã”ãŸãˆãŒæ¬²ã—ã‹ã£ãŸãª<end_line>
 	</sjis>
+	<ascii>
+    Indeed.<end_line>
+		Though I wouldn't have minded<end_line>
+		if it lasted a bit longer.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith"/>
@@ -40,9 +52,13 @@
 	<portrait_l entry="player" eye="happy" mouth="neutral"/>
 	<portrait_r entry="partner" eye="happy" mouth="neutral"/>
 	<sjis>
-		<three_dots/>‚Ó‚Á<end_line/>
-		‚¤‚©‚ê‚â‚ª‚Á‚Ä<end_line/>
+		<three_dots>ãµã£<end_line>
+		ã†ã‹ã‚Œã‚„ãŒã£ã¦<end_line>
 	</sjis>
+	<ascii>
+		<three_dots>Hmph.<end_line>
+		It was a mere weakling.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel"/>
@@ -50,9 +66,12 @@
 	<portrait_l entry="player" eye="happy" mouth="neutral"/>
 	<portrait_r entry="partner" eye="happy" mouth="neutral"/>
 	<sjis>
-		‚»‚Ì‚Æ‚¨‚è‚Å‚·‚í<end_line/>
-		Ž„‚½‚¿‚Í‹­‚¢‚Ì‚Å‚·I<end_line/>
+		ãã®ã¨ãŠã‚Šã§ã™ã‚<end_line>
+		ç§ãŸã¡ã¯å¼·ã„ã®ã§ã™ï¼<end_line>
 	</sjis>
+	<ascii>
+		Of course!<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="left"/>
@@ -60,16 +79,19 @@
 	<portrait_r entry="partner" eye="happy" mouth="neutral"/>
 	<male>
 		<sjis>
-			‚»‚ê‚¶‚á<end_line/>
-			æ‚Éi‚à‚¤‚ºI<end_line/>
+			ãã‚Œã˜ã‚ƒ<end_line>
+			å…ˆã«é€²ã‚‚ã†ãœï¼<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			‚»‚ê‚¶‚á<end_line/>
-			æ‚És‚«‚Ü‚µ‚å‚¤I<end_line/>
+			ãã‚Œã˜ã‚ƒ<end_line>
+			å…ˆã«è¡Œãã¾ã—ã‚‡ã†ï¼<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Let's keep going then!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left"/>
@@ -77,14 +99,17 @@
 	<portrait_r entry="partner" eye="serious" mouth="serious"/>
 	<male>
 		<sjis>
-			‚¿‚å‚Á‚Æ–û’f‚µ‚½‚º<three_dots/><end_line/>
+			ã¡ã‚‡ã£ã¨æ²¹æ–­ã—ãŸãœ<three_dots><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			‚¿‚å‚Á‚Æ–û’f‚µ‚½‚©‚È<three_dots/><end_line/>
+			ã¡ã‚‡ã£ã¨æ²¹æ–­ã—ãŸã‹ãª<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    I let my guard down<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
@@ -92,10 +117,14 @@
 	<portrait_l entry="player" eye="sad" mouth="tense"/>
 	<portrait_r entry="partner" eye="serious" mouth="serious"/>
 	<sjis>
-		–{—ˆƒmƒ`ƒJƒ‰ƒK@oƒZƒeƒCƒŒƒo<end_line/>
-		ƒAƒ“ƒi‘ŠŽè@–â‘èƒfƒn<end_line/>
-		ƒAƒŠƒ}ƒZƒ“ƒfƒVƒ^<end_line/>
+		æœ¬æ¥ãƒŽãƒã‚«ãƒ©ã‚¬ã€€å‡ºã‚»ãƒ†ã‚¤ãƒ¬ãƒ<end_line>
+		ã‚¢ãƒ³ãƒŠç›¸æ‰‹ã€€å•é¡Œãƒ‡ãƒ<end_line>
+		ã‚¢ãƒªãƒžã‚»ãƒ³ãƒ‡ã‚·ã‚¿<end_line>
 	</sjis>
+	<ascii>
+		If I Was Able To Use My Real Power,<end_line>
+		That Opponent Would Not Stand A Chance.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi"/>
@@ -103,9 +132,13 @@
 	<portrait_l entry="player" eye="sad" mouth="tense"/>
 	<portrait_r entry="partner" eye="serious" mouth="serious"/>
 	<sjis>
-		‚ ‚Ì’ö“x‚Ì‘ŠŽè‚É‹êí‚·‚é‚Æ‚Í<end_line/>
-		î‚¯‚È‚¢‚Ì‚§<three_dots/><end_line/>
+		ã‚ã®ç¨‹åº¦ã®ç›¸æ‰‹ã«è‹¦æˆ¦ã™ã‚‹ã¨ã¯<end_line>
+		æƒ…ã‘ãªã„ã®ã‰<three_dots><end_line>
 	</sjis>
+	<ascii>
+		Having a close fight with<end_line>
+		such an opponent is a bit saddening.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith"/>
@@ -113,10 +146,15 @@
 	<portrait_l entry="player" eye="sad" mouth="tense"/>
 	<portrait_r entry="partner" eye="serious" mouth="serious"/>
 	<sjis>
-		‚¿‚Á<three_dots/><end_line/>
-		‚ ‚Ì’ö“x‚Ì‘ŠŽè‚É<end_line/>
-		D‚«ŸŽè‚â‚ç‚ê‚é‚È‚Ç‚Æ<three_dots/><end_line/>
+		ã¡ã£<three_dots><end_line>
+		ã‚ã®ç¨‹åº¦ã®ç›¸æ‰‹ã«<end_line>
+		å¥½ãå‹æ‰‹ã‚„ã‚‰ã‚Œã‚‹ãªã©ã¨<three_dots><end_line>
 	</sjis>
+	<ascii>
+		Tch<three_dots><end_line>
+    Letting an opponent like that<end_line>
+    throw you around so easily<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel"/>
@@ -124,9 +162,13 @@
 	<portrait_l entry="player" eye="sad" mouth="tense"/>
 	<portrait_r entry="partner" eye="serious" mouth="serious"/>
 	<sjis>
-		‚·A­‚µ‚¾‚¯‚Å‚·‚¯‚Ç<end_line/>
-		‚ ‚Ô‚È‚©‚Á‚½‚Å‚·‚í<three_dots/><end_line/>
+		ã™ã€å°‘ã—ã ã‘ã§ã™ã‘ã©<end_line>
+		ã‚ã¶ãªã‹ã£ãŸã§ã™ã‚<three_dots><end_line>
 	</sjis>
+	<ascii>
+		Th-That was just<end_line>
+		a liiiitle bit dangerous<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="left"/>
@@ -134,16 +176,20 @@
 	<portrait_r entry="partner" eye="serious" mouth="serious"/>
 	<male>
 		<sjis>
-			‹C‚ðŽæ‚è’¼‚µ‚Ä<end_line/>
-			æ‚Éi‚à‚¤‚ºI<end_line/>
+			æ°—ã‚’å–ã‚Šç›´ã—ã¦<end_line>
+			å…ˆã«é€²ã‚‚ã†ãœï¼<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			‹C‚ðŽæ‚è’¼‚µ‚Ä<end_line/>
-			æ‚És‚«‚Ü‚µ‚å‚¤I<end_line/>
+			æ°—ã‚’å–ã‚Šç›´ã—ã¦<end_line>
+			å…ˆã«è¡Œãã¾ã—ã‚‡ã†ï¼<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    We can't let this get us down.<end_line>
+    Come on, let's go!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left"/>
@@ -151,14 +197,17 @@
 	<portrait_r entry="partner" eye="serious" mouth="neutral"/>
 	<male>
 		<sjis>
-			‚´‚Á‚Æ‚±‚ñ‚È‚à‚ñ‚¾‚ÈI<end_line/>
+			ã–ã£ã¨ã“ã‚“ãªã‚‚ã‚“ã ãªï¼<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			‚´‚Á‚Æ‚±‚ñ‚È‚à‚ñ‚ËI<end_line/>
+			ã–ã£ã¨ã“ã‚“ãªã‚‚ã‚“ã­ï¼<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    We really did it!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
@@ -166,9 +215,13 @@
 	<portrait_l entry="player" eye="happy" mouth="neutral"/>
 	<portrait_r entry="partner" eye="serious" mouth="talk"/>
 	<sjis>
-		ƒAƒm’ö“xƒm‘ŠŽèƒiƒ‰ƒo<end_line/>
-		–â‘èƒfƒnƒAƒŠƒ}ƒZƒ“<end_line/>
+		ã‚¢ãƒŽç¨‹åº¦ãƒŽç›¸æ‰‹ãƒŠãƒ©ãƒ<end_line>
+		å•é¡Œãƒ‡ãƒã‚¢ãƒªãƒžã‚»ãƒ³<end_line>
 	</sjis>
+	<ascii>
+		An Opponent Of That Level<end_line>
+		Is No Problem.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi"/>
@@ -176,9 +229,13 @@
 	<portrait_l entry="player" eye="happy" mouth="neutral"/>
 	<portrait_r entry="partner" eye="serious" mouth="talk"/>
 	<sjis>
-		‚¤‚Þ<three_dots/><end_line/>
-		‚Ü‚ ‚Ü‚ ‚Æ‚¢‚¤‚Æ‚±‚ë‚©<end_line/>
+		ã†ã‚€<three_dots><end_line>
+		ã¾ã‚ã¾ã‚ã¨ã„ã†ã¨ã“ã‚ã‹<end_line>
 	</sjis>
+	<ascii>
+		Hm<three_dots><end_line>
+		That went alright.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith"/>
@@ -186,10 +243,14 @@
 	<portrait_l entry="player" eye="happy" mouth="neutral"/>
 	<portrait_r entry="partner" eye="serious" mouth="talk"/>
 	<sjis>
-		‚¿‚Á<three_dots/><end_line/>
-		‚ ‚Ì’ö“x‚Ì‘ŠŽè‚É<end_line/>
-		ƒ‚ƒ^ƒ‚ƒ^‚·‚é‚Æ‚Í<three_dots/><end_line/>
+		ã¡ã£<three_dots><end_line>
+		ã‚ã®ç¨‹åº¦ã®ç›¸æ‰‹ã«<end_line>
+		ãƒ¢ã‚¿ãƒ¢ã‚¿ã™ã‚‹ã¨ã¯<three_dots><end_line>
 	</sjis>
+	<ascii>
+    Tch<three_dots><end_line>
+    Should've been an easy win<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel"/>
@@ -197,8 +258,11 @@
 	<portrait_l entry="player" eye="happy" mouth="neutral"/>
 	<portrait_r entry="partner" eye="serious" mouth="talk"/>
 	<sjis>
-		Œ‹\A—]—T‚Å‚µ‚½‚í<end_line/>
+		çµæ§‹ã€ä½™è£•ã§ã—ãŸã‚<end_line>
 	</sjis>
+	<ascii>
+		That wasn't too bad.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="left"/>
@@ -206,14 +270,17 @@
 	<portrait_r entry="partner" eye="serious" mouth="talk"/>
 	<male>
 		<sjis>
-			‚»‚ê‚¶‚á<end_line/>
-			æ‚Éi‚à‚¤‚ºI<end_line/>
+			ãã‚Œã˜ã‚ƒ<end_line>
+			å…ˆã«é€²ã‚‚ã†ãœï¼<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			‚»‚ê‚¶‚á<end_line/>
-			æ‚És‚«‚Ü‚µ‚å‚¤I<end_line/>
+			ãã‚Œã˜ã‚ƒ<end_line>
+			å…ˆã«è¡Œãã¾ã—ã‚‡ã†ï¼<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    C'mon, let's keep moving!<end_line>
+  </ascii>
 </dialogue>

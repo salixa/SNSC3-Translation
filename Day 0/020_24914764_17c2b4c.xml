@@ -1,22 +1,32 @@
 <dialogue>
-	<info box="right"/>
-	<portrait_r entry="player" eye="serious" mouth="tense"/>
-	<sjis>
-		Ç†<three_dots/><end_line/>
-		Ç†ÇÍÇÕ<three_dots/>ÅH<end_line/>
-	</sjis>
+  <info box="right">
+  <portrait_r entry="player" eye="serious" mouth="tense">
+  <sjis>
+    „ÅÇ<three_dots><end_line>
+    „ÅÇ„Çå„ÅØ<three_dots>Ôºü<end_line>
+  </sjis>
+  <ascii>
+    Th<three_dots><end_line>
+    That's<three_dots>?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
-	<info box="right"/>
-	<portrait_r entry="player" eye="decided" mouth="stressed"/>
-	<male>
-		<sjis>
-			ç°ìxÇÕÇ»ÇÒÇæÅH<end_line/>
-		</sjis>
-	</male>
-	<female>
-		<sjis>
-			ç°ìxÇÕÇ»Ç…ÅH<end_line/>
-		</sjis>
-	</female>
+  <info box="right">
+  <portrait_r entry="player" eye="decided" mouth="stressed">
+  <male>
+    <sjis>
+      ‰ªäÂ∫¶„ÅØ„Å™„Çì„Å†Ôºü<end_line>
+    </sjis>
+    <ascii>
+      Oh, what now?<end_line>
+    </ascii>
+  </male>
+  <female>
+    <sjis>
+      ‰ªäÂ∫¶„ÅØ„Å™„Å´Ôºü<end_line>
+    </sjis>
+    <ascii>
+      What is it this time?<end_line>
+    </ascii>
+  </female>
 </dialogue>

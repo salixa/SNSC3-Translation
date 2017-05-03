@@ -28,7 +28,8 @@
 		ちっ<three_dots/>はぐれ召喚獣か<end_line/>
 	</sjis>
 	<ascii>
-		A stray one, huh<three_dots/><end_line/>
+    Tch<three_dots/><end_line/>
+		A Stray<three_dots/><end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -39,7 +40,7 @@
 		はぐれ召喚獣ですわ<end_line/>
 	</sjis>
 	<ascii>
-		Looks like it's a Stray.<end_line/>
+		That must be a Stray.<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -53,7 +54,7 @@
 	<ascii>
 		Huh, I've seen it before.<end_line/>
 		It's ferocious despite its size.<end_line/>
-		First time I've seen it here though.<end_line/>
+    I haven't seen it around here before<three_dots/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -64,8 +65,7 @@
 		何かがおかしいのかも<three_dots/><end_line/>
 	</sjis>
 	<ascii>
-		Like I thought,<end_line/>
-		something's definitely weird<three_dots/><end_line/>
+    I knew something was off<three_dots/><end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -103,8 +103,8 @@
 	</sjis>
 	<ascii>
 		Well, we don't have a choice<three_dots/><end_line/>
-		It's time for the<end_line/>
-		mature, strong, cool me to step up<three_dots/><end_line/>
+		It's time for the mature,<end_line/>
+		strong, cool me to step up<three_dots/><end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -115,8 +115,9 @@
 		　コレはいけるわ<three_dots/>！）<end_line/>
 	</sjis>
 	<ascii>
-		*It'll work<three_dots/>!*<end_line/>
-		*With this, it's sure to<three_dots/>!*<end_line/>
+    (Wait<three_dots/>!<end_line/>
+     If I beat the Stray<three_dots/><end_line/>
+     Maybe I'll get a bonus<three_dots/>!)<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -126,7 +127,7 @@
 		ちょっとどいてもらいましょう<end_line/>
 	</sjis>
 	<ascii>
-		Move aside a bit.<end_line/>
+		Move aside.<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -172,7 +173,7 @@
 	</sjis>
 	<ascii>
 		Hey, let go of me!<end_line/>
-		I'll go defeat that Stray!<end_line/>
+		I'll defeat that Stray!<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -209,7 +210,7 @@
 	<ascii>
 		What are you saying!?<end_line/>
 		At times like these,<end_line/>
-		you should leave it to an adult!<end_line/>
+		you should let an adult handle it!<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -231,8 +232,8 @@
 	</female>
   <ascii>
     Hey!<end_line/>
-    What are you two doing<end_line/>
-    at a time like this!?<end_line/>
+    Now's not the time<end_line/>
+    to argue<three_dots/><end_line/>
   </ascii>
 </dialogue>
 <dialogue>
@@ -244,7 +245,6 @@
 	</sjis>
 	<ascii>
 		That kid<three_dots/><end_line/>
-		<break>
 		It's coming!<end_line/>
 	</ascii>
 </dialogue>
@@ -272,7 +272,7 @@
 		ミューノを守るのじゃ！<end_line/>
 	</sjis>
 	<ascii>
-		We'll protect Murno here!<end_line/>
+		We'll protect Murno!<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>

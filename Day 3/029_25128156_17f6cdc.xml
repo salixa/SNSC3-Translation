@@ -18,8 +18,8 @@
 		この娘は<three_dots/><end_line/>
 	</sjis>
 	<ascii>
-		Jeez, just what is the deal<end_line/>
-		with this girl<three_dots/><end_line/>
+    What is wrong with<end_line/>
+    this girl<three_dots/>?<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -32,7 +32,6 @@
 	</sjis>
 	<ascii>
 		Are you alright, <player_nickname>?<end_line/>
-		Any injuries!?<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -59,8 +58,8 @@
 	</sjis>
 	<ascii>
 		If you're hurt,<end_line/>
-		I have some medicine I can sell<end_line/>
-		for reaa~aal cheap~<end_line/>
+		I have some medicine I<end_line/>
+		can sell for reaal cheap~<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -91,7 +90,7 @@
 	</sjis>
 	<ascii>
 		You're very well prepared.<end_line/>
-		Like the granny from my hometown<three_dots/><end_line/>
+		Like a hometown granny.<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -105,8 +104,8 @@
 	</sjis>
 	<ascii>
 		I dunno about your granny,<end_line/>
-		but its only natural that I prepare.<end_line/>
-		The forest is chock-full of dangers.<end_line/>
+		but its only natural to do this much.<end_line/>
+		The forest is chock-full of danger.<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -119,7 +118,8 @@
 		アナタガ原因ダト　判断シマス<end_line/>
 	</sjis>
 	<ascii>
-		Contrarily, You Have Caused Danger<end_line/>
+		To The Contrary,<end_line/>
+    You Yourself Have Caused Danger<end_line/>
 		By Initiating The Fight Earlier.<end_line/>
 	</ascii>
 </dialogue>
@@ -134,8 +134,8 @@
 		したからじゃぞ<end_line/>
 	</sjis>
 	<ascii>
-		We were forced to go through that
-		purely due to your ill-preperation.<end_line/>
+		We were forced to fight that<end_line/>
+		purely due to your carelessness.<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -148,9 +148,8 @@
 		こんな目にあっているのだがな<end_line/>
 	</sjis>
 	<ascii>
-		How dumb.<end_line/>
-		It's thanks to your stupid move<end_line/>
-		that I went through all that.<end_line/>
+		It's thanks to your stupidity<end_line/>
+		we had to fight that thing.<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -164,7 +163,7 @@
 		あなたのせいなんですよ<end_line/>
 	</sjis>
 	<ascii>
-		I'm pretty sure it was your fault.<end_line/>
+    That was your fault, you know?<end_line/>
 		You started the fight yourself.<end_line/>
 	</ascii>
 </dialogue>
@@ -178,7 +177,8 @@
 	</sjis>
 	<ascii>
 		Huh!?<end_line/>
-		You were the ones deciding to fight!<end_line/>
+    I did say I'd take care of it!<end_line/>
+		You were the ones who butted in!<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -218,8 +218,7 @@
 	</sjis>
 	<ascii>
 		Don't judge my appearance~<end_line/>
-		Even if I look meek,<end_line/>
-		I'm actually quite strong.<end_line/>
+    I'm stronger than I look.<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>

@@ -8,9 +8,9 @@
 		マーネイル宿場ですよ<end_line/>
 	</sjis>
 	<ascii>
-		Good job on handling the hard work~<end_line/>
-		In a little bit, we'll get to the<end_line/>
-		Summon Creature rail car.<end_line/>
+		Well done~<end_line/>
+    Just ahead is Marneil Station.<end_line/>
+    There you'll find the rail car.<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -24,8 +24,8 @@
 	</sjis>
 	<ascii>
 		We're finally halfway.<end_line/>
-		Well, at this rate,<end_line/>
-		we'll get to town by late today.<end_line/>
+		Well, at this rate we'll<end_line/>
+		get there before dark.<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -36,7 +36,7 @@
 		あと半分か<end_line/>
 	</sjis>
 	<ascii>
-		Only half left, huh.<end_line/>
+		Only halfway there, huh.<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -87,8 +87,7 @@
 		ミューノ様<end_line/>
 	</sjis>
 	<ascii>
-		Are you alright, Murno?<end_line/>
-		Can you still walk okay?<end_line/>
+		Are you alright, Lady Murno?<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -101,7 +100,7 @@
 	</sjis>
 	<ascii>
 		Yeah.<end_line/>
-		I'm just fine.<end_line/>
+		I'm fine.<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -140,7 +139,7 @@
 			なに？<end_line/>
 		</sjis>
 	</female>
-		<ascii>
+  <ascii>
     What's wrong?<end_line/>
   </ascii>
 </dialogue>

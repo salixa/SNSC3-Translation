@@ -5,7 +5,7 @@
 		やった！<end_line/>
 	</sjis>
 	<ascii>
-		Yes!<end_line/>
+		Yes! I won!<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -31,8 +31,7 @@
 	</sjis>
 	<ascii>
 		Damn it<three_dots/><end_line/>
-		To think that even<end_line/>
-		I'd lose to you<three_dots/><end_line/>
+    How could I lose<three_dots/>?<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -45,9 +44,9 @@
 		してたとは言え、このザマとは<three_dots/><end_line/>
 	</sjis>
 	<ascii>
-		My skills must've grown dull.<end_line/>
-		I may not have been training,<end_line/>
-		but this is just<three_dots/><end_line/>
+    I must have gotten rusty.<end_line/>
+		Sure I haven't been training,<end_line/>
+		but this is just pathetic<three_dots/><end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -58,7 +57,8 @@
 		親方、やっぱケガが<three_dots/><end_line/>
 	</sjis>
 	<ascii>
-		Master, your injuries<three_dots/><end_line/>
+		Master<three_dots/><end_line/>
+    Your injuries must be<three_dots/><end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -73,7 +73,7 @@
 	</sjis>
 	<ascii>
 		Compared To Our Previous Encounter,<end_line/>
-		You Were Lacking Speed By 50%.<end_line/>
+		Your Speed Was Down 50%.<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -99,8 +99,9 @@
 		比べものにならんかったぞ<end_line/>
 	</sjis>
 	<ascii>
-		Certainly, this was nothing<end_line/>
-		compared to our last encounter.<end_line/>
+    Your movements have become<end_line/>
+    much easier to read since<end_line/>
+    our last encounter.<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -127,8 +128,8 @@
 	</sjis>
 	<ascii>
 		Jeez<three_dots/><end_line/>
-		You weren't even comparable<end_line/>
-		to the last time we fought.<end_line/>
+    It's like you were a different<end_line/>
+    person last time we fought.<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -141,8 +142,8 @@
 		いいのは、どっちだ？<end_line/>
 	</sjis>
 	<ascii>
-		Wouldn't it be better<end_line/>
-		if you just stayed here instead?<end_line/>
+    Perhaps you should be<end_line/>
+    the one to stay behind?<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -156,10 +157,9 @@
 		ムリはいけませんわ<end_line/>
 	</sjis>
 	<ascii>
-		Yes, compared to our last time<end_line/>
-		you were quite a bit slower.<end_line/>
-		<break>
-		You shouldn't push yourself so hard.<end_line/>
+    Yes, your movements are quite<end_line/>
+    sluggish compared to before.<end_line/>
+		Don't push yourself so hard.<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -172,8 +172,8 @@
 		アンタけっこうやさしいんだね<end_line/>
 	</sjis>
 	<ascii>
-		Fu<three_dots/><end_line/>
-		Well, aren't you kind<three_dots/><end_line/>
+    Heh<three_dots/><end_line/>
+		You're too kind<three_dots/><end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -209,7 +209,7 @@
 		ふ、ふざけたことを言うな！<end_line/>
 	</sjis>
 	<ascii>
-		Kind? Don't mess with me<three_dots/><end_line/>
+		K-kind? Me<three_dots/>!?<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -221,7 +221,7 @@
 		そんなことありませんわ<end_line/>
 	</sjis>
 	<ascii>
-		Not really being kind<three_dots/><end_line/>
+		Not really<three_dots/><end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -235,8 +235,7 @@
 	</sjis>
 	<ascii>
 		But you know, even like this<three_dots/><end_line/>
-		I could've easily won against<end_line/>
-		you two at the beginning.<end_line/>
+		I could've easily beat you two before.<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -247,7 +246,7 @@
 		強くなったね、<player_nickname><end_line/>
 	</sjis>
 	<ascii>
-		You've gotten strong, <player_nickname><end_line/>
+		You've grown, <player_nickname>.<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -287,7 +286,7 @@
 	</sjis>
 	<ascii>
 		<three_dots/><end_line/>
-		The Probability Of That <end_line/>
+		The Probability Of That<end_line/>
 		Is Exceptionally High.<end_line/>
 	</ascii>
 </dialogue>
@@ -301,7 +300,7 @@
 		当然じゃ<end_line/>
 	</sjis>
 	<ascii>
-		Fu<three_dots/><end_line/>
+		Hmph<three_dots/><end_line/>
 		Of course.<end_line/>
 	</ascii>
 </dialogue>
@@ -315,6 +314,7 @@
 		当たり前だ<end_line/>
 	</sjis>
 	<ascii>
+    Hmph<three_dots/><end_line/>
 		Obviously.<end_line/>
 	</ascii>
 </dialogue>
@@ -329,7 +329,7 @@
 	</sjis>
 	<ascii>
 		Of course.<end_line/>
-		I deserve even more thanks, in fact.<end_line/>
+		That much is obvious.<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -347,7 +347,7 @@
 		</sjis>
 	</female>
   <ascii>
-    Way to be blunt about it!<end_line/>
+    Hey!<end_line/>
   </ascii>
 </dialogue>
 <dialogue>
@@ -360,9 +360,8 @@
 		つれてってやるよ、アンタたちも<end_line/>
 	</sjis>
 	<ascii>
-		Anyway,<end_line/>
-		you beat me.<end_line/>
-		So, I'll take you along too.<end_line/>
+		Anyway, you did beat me.<end_line/>
+    I'll hold up my end of the deal.<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -400,7 +399,7 @@
 		ヴィーさん<end_line/>
 	</sjis>
 	<ascii>
-		I'm already prepared, Miss Vee.<end_line/>
+		I'm ready any time, Miss V.E.<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -413,7 +412,7 @@
 		<player_nickname>も早くしなよ<end_line/>
 	</sjis>
 	<ascii>
-		As expected of you!<end_line/>
+		Great!<end_line/>
 		I'll be waiting at the gate, then.<end_line/>
 		Now hurry it up, <player_nickname>.<end_line/>
 	</ascii>
@@ -427,8 +426,7 @@
 		門のところだね！<end_line/>
 	</sjis>
 	<ascii>
-		Alright!<end_line/>
-		At the gate!<end_line/>
+		Okay!<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -440,9 +438,9 @@
 		<partner>にミューノ<three_dots/><end_line/>
 	</sjis>
 	<ascii>
-		Mm<three_dots/><end_line/>
-		Not just <player_nickname>,<end_line/>
-		but <partner> and Murno too<three_dots/><end_line/>
+		Hmm<three_dots/><end_line/>
+		<player_nickname><three_dots/><end_line/>
+		<partner>, and Murno<three_dots/><end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -454,9 +452,9 @@
 		だけど<three_dots/><end_line/>
 	</sjis>
 	<ascii>
-		A blade filled with the feelings of<end_line/>
-		three whole people is pretty heavy<three_dots/><end_line/>
-		But<three_dots/>
+    A blade made with the feelings of<end_line/>
+		three people is quite sharp<three_dots/><end_line/>
+		But<three_dots/><end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -468,9 +466,9 @@
 		うれしいねえ、ロブ<three_dots/><end_line/>
 	</sjis>
 	<ascii>
-		Now that kid is fighting<end_line/>
-		for someone else's sake too.<end_line/>
-		That's great, Rob<three_dots/><end_line/>
+    I'm glad that kid has other<end_line/>
+    reasons to fight now.<end_line/>
+		Right, Rob<three_dots/>?<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -483,7 +481,7 @@
 	</sjis>
 	<ascii>
 		Um<three_dots/><end_line/>
-		Vee?<end_line/>
+    V.E?<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -495,7 +493,7 @@
 		行こうか<end_line/>
 	</sjis>
 	<ascii>
-		Ahh, sorry. My bad.<end_line/>
+		Ahh, sorry. It's nothing.<end_line/>
 		Shall we go?<end_line/>
 	</ascii>
 </dialogue>

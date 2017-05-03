@@ -1,12 +1,17 @@
 <location>
-	<sjis>
-		ƒfƒBƒbƒNƒ‹‘º@‰w<end_line/>
-	</sjis>
+  <sjis>
+    ãƒ‡ã‚£ãƒƒã‚¯ãƒ«æ‘ã€€é§…<end_line>
+  </sjis>
 </location>
+#Deckell Village - Station
 <dialogue>
-	<info box="simple"/>
-	<sjis>
-		¢Š«bƒgƒƒbƒR‚ÉæÔ‚ÌÛ‚É‚Í<end_line/>
-		‘«‰º‚É\•ª‚²’ˆÓ‰º‚³‚¢<end_line/>
-	</sjis>
+  <info box="simple">
+  <sjis>
+    å¬å–šç£ãƒˆãƒ­ãƒƒã‚³ã«ä¹—è»Šã®éš›ã«ã¯<end_line>
+    è¶³ä¸‹ã«ååˆ†ã”æ³¨æ„ä¸‹ã•ã„<end_line>
+  </sjis>
+  <ascii>
+    When riding the Summon Beast railcar,<end_line>
+    please make sure to watch your step.<end_line>
+  </ascii>	
 </dialogue>

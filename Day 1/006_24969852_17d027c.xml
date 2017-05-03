@@ -1,43 +1,51 @@
-<dialogue>
+<dialogue>
 	<info box="left"/>
 	<portrait_l entry="player" eye="decided" mouth="serious"/>
 	<male>
 		<sjis>
-			���邼<end_line/>
-			�~���[�m<three_dots/><end_line/>
+			入るぞ<end_line>
+			ミューノ<three_dots><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�����<end_line/>
-			�~���[�m<three_dots/><end_line/>
+			入るよ<end_line>
+			ミューノ<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    I'm coming in,<end_line>
+    Murno<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left"/>
 	<portrait_l entry="player" eye="decided" mouth="yell"/>
 	<male>
 		<sjis>
-			�~���[�m�I�H<end_line/>
-			�ǂ������񂾁H<end_line/>
+			ミューノ！？<end_line>
+			どうしたんだ？<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�~���[�m�I�H<end_line/>
-			�ǂ������́H<end_line/>
+			ミューノ！？<end_line>
+			どうしたの？<end_line>
 		</sjis>
-	</female>
+	</female>  <ascii>    Murno!?<end_line>    Are you okay?<end_line>  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right"/>
 	<portrait_l entry="player" eye="decided" mouth="yell"/>
 	<portrait_r entry="murno_hatless" eye="happy_blush" mouth="tense"/>
 	<sjis>
-		���v<three_dots/><end_line/>
-		������ƁA�N�����Ƃ���������<end_line/>
+		大丈夫<three_dots><end_line>
+		ちょっと、クラっとしただけで<end_line>
 	</sjis>
+	<ascii>
+		I'm fine<three_dots><end_line>
+		I'm just a little dizzy.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
@@ -45,9 +53,13 @@
 	<portrait_l entry="player" eye="decided" mouth="tense"/>
 	<portrait_r entry="partner" eye="surprised" mouth="stressed"/>
 	<sjis>
-		�݂�[�̗l�m�̉��K�@�ُ�f�X<end_line/>
-		���i�����@���N�i�b�e�C�}�X<end_line/>
+		みゅーの様ノ体温ガ　異常デス<end_line>
+		普段ヨリ　高クナッテイマス<end_line>
 	</sjis>
+	<ascii>
+		Lady Murno's Temperature: Abnormal.<end_line>
+		She Is Overheating.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
@@ -55,9 +67,13 @@
 	<portrait_l entry="player" eye="decided" mouth="tense"/>
 	<portrait_r entry="partner" eye="surprised" mouth="stressed"/>
 	<sjis>
-		���`����<end_line/>
-		�悤�����<three_dots/><end_line/>
+		え～っと<end_line>
+		ようするに<three_dots><end_line>
 	</sjis>
+	<ascii>
+		Uhh~<end_line>
+		So in other words<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
@@ -65,8 +81,11 @@
 	<portrait_l entry="player" eye="decided" mouth="tense"/>
 	<portrait_r entry="murno_hatless" eye="neutral_blush" mouth="tense"/>
 	<sjis>
-		�M������̂�<three_dots/><end_line/>
+		熱があるのね<three_dots><end_line>
 	</sjis>
+	<ascii>
+		I must have a fever<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi"/>
@@ -74,9 +93,13 @@
 	<portrait_l entry="player" eye="decided" mouth="tense"/>
 	<portrait_r entry="partner" eye="surprised" mouth="stressed"/>
 	<sjis>
-		�ǂ����~���[�m��<three_dots/><end_line/>
-		�����M������݂��������<three_dots/><end_line/>
+		どうやらミューノは<three_dots><end_line>
+		少し熱があるみたいじゃな<three_dots><end_line>
 	</sjis>
+	<ascii>
+		Murno<three_dots><end_line>
+		She must have a fever<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith"/>
@@ -84,9 +107,13 @@
 	<portrait_l entry="player" eye="decided" mouth="tense"/>
 	<portrait_r entry="partner" eye="surprised" mouth="stressed"/>
 	<sjis>
-		����<three_dots/><end_line/>
-		�M�����邶��Ȃ���<three_dots/><end_line/>
+		ちっ<three_dots><end_line>
+		熱があるじゃないか<three_dots><end_line>
 	</sjis>
+	<ascii>
+		Tch<three_dots><end_line>
+		She's got a fever<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel"/>
@@ -94,28 +121,41 @@
 	<portrait_l entry="player" eye="decided" mouth="tense"/>
 	<portrait_r entry="partner" eye="surprised" mouth="stressed"/>
 	<sjis>
-		�ǂ����܂��傤<end_line/>
-		�~���[�m�l�A�������M�ł��I<end_line/>
+		どうしましょう<end_line>
+		ミューノ様、すごい熱です！<end_line>
 	</sjis>
+	<ascii>
+		What should we do!?<end_line>
+		Murno has a terrible fever!<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="left"/>
 	<portrait_l entry="player" eye="surprised" mouth="stressed"/>
 	<portrait_r entry="partner" eye="surprised" mouth="stressed"/>
 	<sjis>
-		�M����<three_dots/><end_line/>
-		���Ⴀ�A�Q�ĂȂ�����I<end_line/>
-		�e���Ă�ł����I<end_line/>
+		熱って<three_dots><end_line>
+		じゃあ、寝てなくちゃ！<end_line>
+		親方呼んでくるよ！<end_line>
 	</sjis>
+	<ascii>
+		Hm<three_dots><end_line>
+		Then, she should be in bed!<end_line>
+		I'll go get Master!<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="right"/>
 	<portrait_l entry="partner" eye="sad" mouth="tense"/>
 	<portrait_r entry="vee" eye="serious" mouth="serious"/>
 	<sjis>
-		�z���g��<end_line/>
-		�M�������<three_dots/><end_line/>
+		ホントだ<end_line>
+		熱があるね<three_dots><end_line>
 	</sjis>
+	<ascii>
+		You were right.<end_line>
+		It's definitely a fever.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
@@ -123,10 +163,15 @@
 	<portrait_l entry="partner" eye="sad" mouth="tense"/>
 	<portrait_r entry="vee" eye="serious" mouth="serious"/>
 	<sjis>
-		���N�@�߂�ĂȂ񂷃�<end_line/>
-		���m��p���f<end_line/>
-		�̃��⃄�V�}�X�J�H<end_line/>
+		早ク　めんてなんすヲ<end_line>
+		私ノ冷却水デ<end_line>
+		体ヲ冷ヤシマスカ？<end_line>
 	</sjis>
+	<ascii>
+		We Must Perform Maintenance.<end_line>
+		I Will Reduce Her Body Temeprature<end_line>
+		With My Cooling Fluid.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
@@ -134,9 +179,13 @@
 	<portrait_l entry="partner" eye="sad" mouth="tense"/>
 	<portrait_r entry="vee" eye="surprised" mouth="stressed"/>
 	<sjis>
-		�������ă������I<end_line/>
-		�����ƈ����������̂����H<end_line/>
+		何言ってンだい！<end_line>
+		もっと悪くしたいのかい？<end_line>
 	</sjis>
+	<ascii>
+		Stop right there!<end_line>
+		Are you trying to make it worse!?<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
@@ -144,9 +193,13 @@
 	<portrait_l entry="partner" eye="sad" mouth="neutral"/>
 	<portrait_r entry="vee" eye="surprised" mouth="stressed"/>
 	<sjis>
-		�C�C�G<three_dots/><end_line/>
-		�f�n�@�h�E�X���o<three_dots/><end_line/>
+		イイエ<three_dots><end_line>
+		デハ　ドウスレバ<three_dots><end_line>
 	</sjis>
+	<ascii>
+		I Am Not<three_dots><end_line>
+		Then What Action Should We-<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
@@ -154,10 +207,15 @@
 	<portrait_l entry="partner" eye="sad" mouth="neutral"/>
 	<portrait_r entry="vee" eye="serious" mouth="neutral"/>
 	<sjis>
-		���̂Ƃ���<end_line/>
-		�A���^�ɏo�Ԃ͂Ȃ���<end_line/>
-		���ƂȂ������Ă�<end_line/>
+		今のところ<end_line>
+		アンタに出番はないね<end_line>
+		おとなしくしてな<end_line>
 	</sjis>
+	<ascii>
+		Right now,<end_line>
+		there's nothing you can do.<end_line>
+		Just stay quiet.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
@@ -165,17 +223,23 @@
 	<portrait_l entry="partner" eye="serious" mouth="neutral"/>
 	<portrait_r entry="vee" eye="serious" mouth="neutral"/>
 	<sjis>
-		�����f�X<end_line/>
+		了解デス<end_line>
 	</sjis>
+	<ascii>
+		Roger.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
 	<info box="left"/>
 	<portrait_l entry="player" eye="sad" mouth="serious"/>
 	<sjis>
-		�ł�<end_line/>
-		�}�ɔM���Ȃ��<three_dots/><end_line/>
+		でも<end_line>
+		急に熱だなんて<three_dots><end_line>
 	</sjis>
+	<ascii>
+		But how could she develop<end_line>    a fever so suddenly<three_dots>?<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
@@ -183,10 +247,11 @@
 	<portrait_l entry="player" eye="sad" mouth="serious"/>
 	<portrait_r entry="vee" eye="serious" mouth="serious"/>
 	<sjis>
-		���̎q�A����ȏ����ȑ̂ł����܂�<end_line/>
-		�����������Ă����݂����������<three_dots/><end_line/>
-		���S�������C�ɂ����񂾂낤��<end_line/>
+		この子、こんな小さな体でここまで<end_line>
+		相当ムリしてきたみたいだからね<three_dots><end_line>
+		安心したら一気にきたんだろうね<end_line>
 	</sjis>
+	<ascii>    She's been pushing it for a while now<three_dots><end_line>    All of the pent up stress<end_line>    must have hit her at once.<end_line>	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
@@ -194,9 +259,13 @@
 	<portrait_l entry="player" eye="sad" mouth="serious"/>
 	<portrait_r entry="vee" eye="serious" mouth="neutral"/>
 	<sjis>
-		�������x�ނ̂���Ԃ���<end_line/>
-		���͂����Ƃ��Ă����Ă���<end_line/>
+		ゆっくり休むのが一番だよ<end_line>
+		今はそっとしておいてやりな<end_line>
 	</sjis>
+	<ascii>
+		It'll be best if she just rests.<end_line>
+		Leave her alone for now.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
@@ -204,9 +273,12 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral"/>
 	<portrait_r entry="vee" eye="serious" mouth="neutral"/>
 	<sjis>
-		��������<end_line/>
-		�킩����<end_line/>
+		そうだね<end_line>
+		わかった<end_line>
 	</sjis>
+	<ascii>
+		Okay.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
@@ -214,10 +286,14 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral"/>
 	<portrait_r entry="vee" eye="serious" mouth="tense"/>
 	<sjis>
-		����A�����̓A�^�V�ɂ܂�����<end_line/>
-		�A���^��<partner>�����ł�<end_line/>
-		�����ɏЉ�Ƃ���<end_line/>
+		じゃ、ここはアタシにまかせて<end_line>
+		アンタは<partner>だけでも<end_line>
+		村長に紹介しといで<end_line>
 	</sjis>
+	<ascii>
+		Alright, leave this to me.<end_line>
+		You should go introduce <partner><end_line>    to the Chief.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
@@ -225,9 +301,13 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral"/>
 	<portrait_r entry="vee" eye="serious" mouth="neutral"/>
 	<sjis>
-		�߂���͂�����ӂ��Ă�����<end_line/>
-		�܂������Ȃ��悤�ɂ��Ȃ����<end_line/>
+		近ごろはぐれもふえてきたし<end_line>
+		まちがわれないようにしなきゃね<end_line>
 	</sjis>
+	<ascii>
+		There've been more strays lately,<end_line>
+		so we need to make sure<end_line>    <partner> isn't mistaken for one.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
@@ -235,9 +315,12 @@
 	<portrait_l entry="player" eye="serious" mouth="tense"/>
 	<portrait_r entry="vee" eye="serious" mouth="neutral"/>
 	<sjis>
-		�ł��A�Љ����<end_line/>
-		�Ȃ�Č������炢���񂾂�H<end_line/>
+		でも、紹介って<end_line>
+		なんて言ったらいいんだろ？<end_line>
 	</sjis>
+	<ascii>
+		What should I even say?<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
@@ -245,10 +328,15 @@
 	<portrait_l entry="player" eye="serious" mouth="tense"/>
 	<portrait_r entry="vee" eye="serious" mouth="tense"/>
 	<sjis>
-		�b��t�̑������Ă��Ƃ�<end_line/>
-		�A�^�V�ɏ����΂���������Ƃ�<end_line/>
-		����Ȋ����ł����񂶂�Ȃ��H<end_line/>
+		鍛冶師の相方ってことで<end_line>
+		アタシに召喚石をもらったとか<end_line>
+		そんな感じでいいんじゃない？<end_line>
 	</sjis>
+	<ascii>
+		Say something like,<end_line>
+		'I got this summon stone from Master<end_line>
+		so I could get a partner for crafting'.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
@@ -256,8 +344,11 @@
 	<portrait_l entry="player" eye="happy" mouth="tense"/>
 	<portrait_r entry="vee" eye="serious" mouth="tense"/>
 	<sjis>
-		����Ȋ����ł���<three_dots/><end_line/>
+		そんな感じでって<three_dots><end_line>
 	</sjis>
+	<ascii>
+		That'll totally work<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
@@ -265,9 +356,13 @@
 	<portrait_l entry="partner" eye="serious" mouth="neutral"/>
 	<portrait_r entry="vee" eye="serious" mouth="tense"/>
 	<sjis>
-		�\���n�^���g�@�كi���}�X<end_line/>
-		���n�݂�[�̗l�m�@�����b�_�b�^<three_dots/><end_line/>
+		ソレハ真実ト　異ナリマス<end_line>
+		私ハみゅーの様ノ　召喚獣ダッタ<three_dots><end_line>
 	</sjis>
+	<ascii>
+		That Differs From The Truth.<end_line>
+		I Am Lady Murno's Summon Beast<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
@@ -275,9 +370,13 @@
 	<portrait_l entry="partner" eye="serious" mouth="neutral"/>
 	<portrait_r entry="vee" eye="sad" mouth="neutral"/>
 	<sjis>
-		�{���̂��Ƃ�`���Ă������̂����H<end_line/>
-		�~���[�m�̓��P����Ȃ񂾂�H<end_line/>
+		本当のことを伝えてもいいのかい？<end_line>
+		ミューノはワケありなんだろ？<end_line>
 	</sjis>
+	<ascii>
+		Would it be okay to tell the truth?<end_line>
+		Murno has special circumstances, right?<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
@@ -285,8 +384,11 @@
 	<portrait_l entry="partner" eye="sad" mouth="neutral"/>
 	<portrait_r entry="vee" eye="sad" mouth="neutral"/>
 	<sjis>
-		<three_dots/><end_line/>
+		<three_dots><end_line>
 	</sjis>
+	<ascii>
+		<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
@@ -295,18 +397,23 @@
 	<portrait_r entry="vee" eye="sad" mouth="neutral"/>
 	<male>
 		<sjis>
-			��������<end_line/>
-			�킩������A�e��<end_line/>
-			�s�����A<partner><end_line/>
+			そうだね<end_line>
+			わかったよ、親方<end_line>
+			行こう、<partner><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			��������<end_line/>
-			�킩�����A�e��<end_line/>
-			�s�����A<partner><end_line/>
+			そうだね<end_line>
+			わかった、親方<end_line>
+			行こう、<partner><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    You're right.<end_line>
+    I understand, Master.<end_line>
+    Let's get going, <partner><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
@@ -314,25 +421,32 @@
 	<portrait_l entry="player" eye="serious" mouth="tense"/>
 	<male>
 		<sjis>
-			<partner>�H<end_line/>
-			�����Ă񂾂�H<end_line/>
+			<partner>？<end_line>
+			何してんだよ？<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			<partner>�H<end_line/>
-			�����Ă�́H<end_line/>
+			<partner>？<end_line>
+			何してんの？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    <partner>?<end_line>    Why aren't you saying anything?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
 	<info box="left"/>
 	<portrait_l entry="partner" eye="serious" mouth="neutral"/>
 	<sjis>
-		�݂�[�̗l�m�M���@���Q���^���j<end_line/>
-		�I�g�i�V�N�V�e�C�}�X<end_line/>
+		みゅーの様ノ熱ヲ　下ゲルタメニ<end_line>
+		オトナシクシテイマス<end_line>
 	</sjis>
+	<ascii>
+		I Am Being Quiet<end_line>
+		To Lower Lady Murno's Fever.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
@@ -340,8 +454,11 @@
 	<portrait_l entry="partner" eye="serious" mouth="neutral"/>
 	<portrait_r entry="vee" eye="happy" mouth="tense"/>
 	<sjis>
-		�A���^<three_dots/><end_line/>
+		アンタ<three_dots><end_line>
 	</sjis>
+	<ascii>
+		You<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
@@ -349,8 +466,11 @@
 	<portrait_l entry="partner" eye="serious" mouth="neutral"/>
 	<portrait_r entry="vee" eye="happy" mouth="tense"/>
 	<sjis>
-		<three_dots/><end_line/>
+		<three_dots><end_line>
 	</sjis>
+	<ascii>
+		<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
@@ -358,10 +478,15 @@
 	<portrait_l entry="partner" eye="serious" mouth="neutral"/>
 	<portrait_r entry="vee" eye="happy" mouth="stressed"/>
 	<sjis>
-		�A���^�������~���[�m��<end_line/>
-		���C�ɂ������̂�<end_line/>
-		��`���킩������<end_line/>
+		アンタが早くミューノを<end_line>
+		元気にしたいのは<end_line>
+		よ～くわかったよ<end_line>
 	</sjis>
+	<ascii>
+		I get that you<end_line>
+		reaaallly want Murno<end_line>
+		to feel better.<end_line>
+	</ascii>
 </dialogue>
 <bigtext>
 	<partner name="run-dor"/>
@@ -369,8 +494,11 @@
 	<portrait_l entry="partner" eye="serious" mouth="neutral"/>
 	<portrait_r entry="vee" eye="decided" mouth="yell"/>
 	<sjis>
-		�ł��ˁA�W���}�I<end_line/>
+		でもね、ジャマ！<end_line>
 	</sjis>
+	<ascii>
+		But you're being annoying!<end_line>
+	</ascii>
 </bigtext>
 <dialogue>
 	<partner name="run-dor"/>
@@ -378,9 +506,10 @@
 	<portrait_l entry="partner" eye="serious" mouth="neutral"/>
 	<portrait_r entry="vee" eye="decided" mouth="serious"/>
 	<sjis>
-		<player_nickname>�Ƃ��������<end_line/>
-		���������ɂ��������Ă��ȁI<end_line/>
+		<player_nickname>といっしょに<end_line>
+		早く村長にあいさつしてきな！<end_line>
 	</sjis>
+	<ascii>    Come on, get out of here!<end_line>    Go meet the Chief!<end_line>	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
@@ -388,25 +517,35 @@
 	<portrait_l entry="player" eye="surprised" mouth="stressed"/>
 	<portrait_r entry="vee" eye="decided" mouth="serious"/>
 	<sjis>
-		���A�e���I�H<end_line/>
-		������Ƃ������ɁI<end_line/>
+		お、親方！？<end_line>
+		ちょっとしずかに！<end_line>
 	</sjis>
+	<ascii>
+		M-Master!?<end_line>
+		You're too loud!<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
 	<info box="simple"/>
 	<portrait_l name="murno"/>
 	<sjis>
-		����<three_dots/><end_line/>
+		うう<three_dots><end_line>
 	</sjis>
+	<ascii>
+		Hn<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
 	<info box="right"/>
 	<portrait_r entry="vee" eye="sad" mouth="neutral"/>
 	<sjis>
-		���A���߂�<end_line/>
+		あ、ごめん<end_line>
 	</sjis>
+	<ascii>
+		Ohhh, sorry.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
@@ -414,8 +553,11 @@
 	<portrait_l entry="partner" eye="serious" mouth="neutral"/>
 	<portrait_r entry="vee" eye="sad" mouth="neutral"/>
 	<sjis>
-		<three_dots/><end_line/>
+		<three_dots><end_line>
 	</sjis>
+	<ascii>
+		<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
@@ -423,9 +565,13 @@
 	<portrait_l entry="partner" eye="serious" mouth="neutral"/>
 	<portrait_r entry="vee" eye="decided" mouth="neutral"/>
 	<sjis>
-		�Ȃ񂾂�<end_line/>
-		���̖ڂ�<end_line/>
+		なんだい<end_line>
+		その目は<end_line>
 	</sjis>
+	<ascii>
+		Hey, what's up<end_line>
+		with your eyes?<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
@@ -433,8 +579,11 @@
 	<portrait_l entry="partner" eye="serious" mouth="neutral"/>
 	<portrait_r entry="vee" eye="decided" mouth="neutral"/>
 	<sjis>
-		���߂�f�X<end_line/>
+		かめらデス<end_line>
 	</sjis>
+	<ascii>
+		They Are Cameras.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
@@ -442,8 +591,11 @@
 	<portrait_l entry="partner" eye="serious" mouth="neutral"/>
 	<portrait_r entry="vee" eye="happy" mouth="yell"/>
 	<sjis>
-		��������Ȃ���<three_dots/>�I<end_line/>
+		そうじゃなくて<three_dots>！<end_line>
 	</sjis>
+	<ascii>
+		That's not what-<three_dots>!<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
@@ -451,9 +603,13 @@
 	<portrait_l entry="player" eye="decided" mouth="tense"/>
 	<portrait_r entry="vee" eye="happy" mouth="yell"/>
 	<sjis>
-		���A�e���I�H<end_line/>
-		���邳������<three_dots/>�I<end_line/>
+		お、親方！？<end_line>
+		うるさいって<three_dots>！<end_line>
 	</sjis>
+	<ascii>
+		M-Master!?<end_line>
+		Keep it down<three_dots>!<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
@@ -461,8 +617,11 @@
 	<portrait_l entry="player" eye="decided" mouth="tense"/>
 	<portrait_r entry="vee" eye="sad" mouth="tense"/>
 	<sjis>
-		���A���߂�<end_line/>
+		あ、ごめん<end_line>
 	</sjis>
+	<ascii>
+		Ahem~<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
@@ -470,8 +629,11 @@
 	<portrait_l entry="partner" eye="serious" mouth="neutral"/>
 	<portrait_r entry="vee" eye="sad" mouth="tense"/>
 	<sjis>
-		<three_dots/><end_line/>
+		<three_dots><end_line>
 	</sjis>
+	<ascii>
+		<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
@@ -479,10 +641,11 @@
 	<portrait_l entry="partner" eye="serious" mouth="neutral"/>
 	<portrait_r entry="vee" eye="serious" mouth="tense"/>
 	<sjis>
-		<three_dots/>�Ƃɂ���<end_line/>
-		�A���^�A�W���}������<end_line/>
-		�����̂Ƃ���ɍs���Ă���Ȃ���<end_line/>
+		<three_dots>とにかく<end_line>
+		アンタ、ジャマだから<end_line>
+		村長のところに行ってくれないか<end_line>
 	</sjis>
+	<ascii>		<three_dots>Anyway,<end_line>		you two are in the way.<end_line>		Just go and greet the guy already.<end_line>	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
@@ -490,9 +653,12 @@
 	<portrait_l entry="partner" eye="serious" mouth="neutral"/>
 	<portrait_r entry="vee" eye="serious" mouth="neutral"/>
 	<sjis>
-		��������΃~���[�m������<end_line/>
-		�ǂ��Ȃ邩��A��<end_line/>
+		そうすればミューノもじき<end_line>
+		良くなるから、ね<end_line>
 	</sjis>
+	<ascii>
+		Murno'll feel better in no time.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
@@ -500,10 +666,15 @@
 	<portrait_l entry="partner" eye="serious" mouth="neutral"/>
 	<portrait_r entry="vee" eye="serious" mouth="neutral"/>
 	<sjis>
-		�W�b�g�V�e�C������<end_line/>
-		�o�J�P�e�C�^���K�@�C�C<end_line/>
-		�g�C�E�R�g�f�X�J�H<end_line/>
+		ジットシテイルヨリ<end_line>
+		出カケテイタ方ガ　イイ<end_line>
+		トイウコトデスカ？<end_line>
 	</sjis>
+	<ascii>
+		So You Are Saying<end_line>
+		It Is Better To Go Out<end_line>
+		Than Stay Here?<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
@@ -511,10 +682,15 @@
 	<portrait_l entry="partner" eye="serious" mouth="neutral"/>
 	<portrait_r entry="vee" eye="decided" mouth="neutral"/>
 	<sjis>
-		�����ւ̂������ȊO�ɂ�<end_line/>
-		�A���^�����ɂ͏C�s�����邾��<end_line/>
-		�b��t���Ă̂̓q�}����Ȃ���<end_line/>
+		村長へのあいさつ以外にも<end_line>
+		アンタたちには修行があるだろ<end_line>
+		鍛冶師ってのはヒマじゃないよ<end_line>
 	</sjis>
+	<ascii>
+		Even if you didn't need to greet the<end_line>
+		Chief, I'd make you train instead.<end_line>
+		Craftknights are quite busy.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
@@ -523,18 +699,19 @@
 	<portrait_r entry="vee" eye="decided" mouth="neutral"/>
 	<male>
 		<sjis>
-			����A�킩������A�e��<end_line/>
-			�Ƃ肠���������̂Ƃ���ɍs����<end_line/>
-			�ȁA<partner><end_line/>
+			うん、わかったよ、親方<end_line>
+			とりあえず村長のところに行こう<end_line>
+			な、<partner><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			����A�킩������A�e��<end_line/>
-			�Ƃ肠���������̂Ƃ���ɍs����<end_line/>
-			�ˁA<partner><end_line/>
+			うん、わかったよ、親方<end_line>
+			とりあえず村長のところに行こう<end_line>
+			ね、<partner><end_line>
 		</sjis>
 	</female>
+  <ascii>    Alright, Master.<end_line>    We'll be on our way.<end_line>    Okay <partner>?<end_line>  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
@@ -542,9 +719,13 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral"/>
 	<portrait_r entry="partner" eye="sad" mouth="neutral"/>
 	<sjis>
-		<three_dots/><end_line/>
-		�����f�X<end_line/>
+		<three_dots><end_line>
+		了解デス<end_line>
 	</sjis>
+	<ascii>
+		<three_dots><end_line>
+		Roger.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi"/>
@@ -552,10 +733,15 @@
 	<portrait_l entry="partner" eye="sad" mouth="tense"/>
 	<portrait_r entry="vee" eye="serious" mouth="serious"/>
 	<sjis>
-		�ł͑����Ȃ�Ƃ�����̂���<end_line/>
-		�M��܂��͂Ȃ��̂��H<end_line/>
-		���K�n�C�ɉ����A�ł��邱�Ƃ�<three_dots/><end_line/>
+		では早くなんとかするのじゃ<end_line>
+		熱冷ましはないのか？<end_line>
+		ワガハイに何か、できることは<three_dots><end_line>
 	</sjis>
+	<ascii>
+		Then we must cure her quickly.<end_line>
+		Do we have any medicine?<end_line>
+		Is there anything I can do<three_dots>?<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi"/>
@@ -563,9 +749,13 @@
 	<portrait_l entry="partner" eye="sad" mouth="tense"/>
 	<portrait_r entry="vee" eye="serious" mouth="neutral"/>
 	<sjis>
-		���A���^�����ׂ����Ƃ�<end_line/>
-		���ƂȂ������邱�Ƃ���<end_line/>
+		今アンタがすべきことは<end_line>
+		おとなしくすることだよ<end_line>
 	</sjis>
+	<ascii>
+		What you should do,<end_line>
+		is stay quiet.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi"/>
@@ -573,9 +763,13 @@
 	<portrait_l entry="partner" eye="special" mouth="yell"/>
 	<portrait_r entry="vee" eye="serious" mouth="neutral"/>
 	<sjis>
-		�Ȃ񂶂�Ƃ��ʂ��I<end_line/>
-		���K�n�C�Ɍ�������<three_dots/><end_line/>
+		なんじゃとおぬし！<end_line>
+		ワガハイに向かって<three_dots><end_line>
 	</sjis>
+	<ascii>
+		Excuse me!?<end_line>
+		How dare you<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi"/>
@@ -583,10 +777,14 @@
 	<portrait_l entry="partner" eye="special" mouth="yell"/>
 	<portrait_r entry="vee" eye="decided" mouth="serious"/>
 	<sjis>
-		�����炨�ƂȂ���������Ă�<end_line/>
-		���̃~���[�m�ɕK�v�Ȃ̂�<end_line/>
-		�x�ނ��Ƃ���<end_line/>
+		だからおとなしくしろっての<end_line>
+		今のミューノに必要なのは<end_line>
+		休むことだよ<end_line>
 	</sjis>
+	<ascii>
+		I told you to keep it down.<end_line>
+		What Murno need right now is rest.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi"/>
@@ -594,18 +792,23 @@
 	<portrait_l entry="partner" eye="sad" mouth="tense"/>
 	<portrait_r entry="vee" eye="decided" mouth="serious"/>
 	<sjis>
-		�����Ȃ̂�<three_dots/><end_line/>
-		���܂�<three_dots/><end_line/>
+		そうなのか<three_dots><end_line>
+		すまぬ<three_dots><end_line>
 	</sjis>
+	<ascii>
+		Ah, is that so<three_dots><end_line>
+		My apologies<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi"/>
 	<info box="left"/>
 	<portrait_l entry="player" eye="sad" mouth="tense"/>
 	<sjis>
-		�ł�<end_line/>
-		�}�ɔM���Ȃ��<three_dots/><end_line/>
+		でも<end_line>
+		急に熱だなんて<three_dots><end_line>
 	</sjis>
+	<ascii>		But how could she develop<end_line>    a fever so suddenly<three_dots>?<end_line>	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi"/>
@@ -613,10 +816,11 @@
 	<portrait_l entry="player" eye="sad" mouth="tense"/>
 	<portrait_r entry="vee" eye="serious" mouth="serious"/>
 	<sjis>
-		���̎q�A����ȏ����ȑ̂ł����܂�<end_line/>
-		�����������Ă����݂����������<three_dots/><end_line/>
-		���S�������C�ɂ����񂾂낤��<end_line/>
+		この子、こんな小さな体でここまで<end_line>
+		相当ムリしてきたみたいだからね<three_dots><end_line>
+		安心したら一気にきたんだろうね<end_line>
 	</sjis>
+  <ascii>    She's been pushing it for a while now<three_dots><end_line>    All of the pent up stress<end_line>    must have hit her at once.<end_line>  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi"/>
@@ -624,9 +828,13 @@
 	<portrait_l entry="player" eye="sad" mouth="tense"/>
 	<portrait_r entry="vee" eye="serious" mouth="neutral"/>
 	<sjis>
-		�������x�ނ̂���Ԃ���<end_line/>
-		���͂����Ƃ��Ă����Ă���<end_line/>
+		ゆっくり休むのが一番だよ<end_line>
+		今はそっとしておいてやりな<end_line>
 	</sjis>
+	<ascii>
+		It'll be best if she just rests.<end_line>
+		Leave her alone for now.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi"/>
@@ -634,9 +842,10 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral"/>
 	<portrait_r entry="vee" eye="serious" mouth="neutral"/>
 	<sjis>
-		��������<end_line/>
-		�킩����<end_line/>
+		そうだね<end_line>
+		わかった<end_line>
 	</sjis>
+	<ascii>		Okay.<end_line>	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi"/>
@@ -644,10 +853,11 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral"/>
 	<portrait_r entry="vee" eye="serious" mouth="tense"/>
 	<sjis>
-		����A�����̓A�^�V�ɂ܂�����<end_line/>
-		�A���^��<partner>�����ł�<end_line/>
-		�����ɏЉ�Ƃ���<end_line/>
+		じゃ、ここはアタシにまかせて<end_line>
+		アンタは<partner>だけでも<end_line>
+		村長に紹介しといで<end_line>
 	</sjis>
+	<ascii>		Alright, leave this to me.<end_line>		You should go introduce <partner><end_line>    to the Chief.<end_line>	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi"/>
@@ -655,9 +865,10 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral"/>
 	<portrait_r entry="vee" eye="serious" mouth="neutral"/>
 	<sjis>
-		�߂���͂�����ӂ��Ă�����<end_line/>
-		�܂������Ȃ��悤�ɂ��Ȃ����<end_line/>
+		近ごろはぐれもふえてきたし<end_line>
+		まちがわれないようにしなきゃね<end_line>
 	</sjis>
+	<ascii>		There've been more strays lately,<end_line>		so we need to make sure<end_line>    <partner> isn't mistaken for one.<end_line>	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi"/>
@@ -665,9 +876,10 @@
 	<portrait_l entry="player" eye="serious" mouth="tense"/>
 	<portrait_r entry="vee" eye="serious" mouth="neutral"/>
 	<sjis>
-		�ł��A�Љ����<end_line/>
-		�Ȃ�Č������炢���񂾂�H<end_line/>
+		でも、紹介って<end_line>
+		なんて言ったらいいんだろ？<end_line>
 	</sjis>
+	<ascii>		What should I even say?<end_line>	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi"/>
@@ -675,10 +887,11 @@
 	<portrait_l entry="player" eye="serious" mouth="tense"/>
 	<portrait_r entry="vee" eye="serious" mouth="tense"/>
 	<sjis>
-		�b��t�̑������Ă��Ƃ�<end_line/>
-		�A�^�V�ɏ����΂���������Ƃ�<end_line/>
-		����Ȋ����ł����񂶂�Ȃ��H<end_line/>
+		鍛冶師の相方ってことで<end_line>
+		アタシに召喚石をもらったとか<end_line>
+		そんな感じでいいんじゃない？<end_line>
 	</sjis>
+	<ascii>		Say something like,<end_line>		'I got this summon stone from Master<end_line>		so I could get a partner for crafting'.<end_line>	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi"/>
@@ -686,8 +899,9 @@
 	<portrait_l entry="player" eye="happy" mouth="tense"/>
 	<portrait_r entry="vee" eye="serious" mouth="tense"/>
 	<sjis>
-		����Ȋ����ł���<three_dots/><end_line/>
+		そんな感じでって<three_dots><end_line>
 	</sjis>
+	<ascii>		That'll totally work<three_dots><end_line>	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi"/>
@@ -695,9 +909,11 @@
 	<portrait_l entry="partner" eye="decided" mouth="serious"/>
 	<portrait_r entry="vee" eye="serious" mouth="tense"/>
 	<sjis>
-		�������A�{���̃��K�n�C��<end_line/>
-		�~���[�m�̏����b��<three_dots/><end_line/>
+		しかし、本来のワガハイは<end_line>
+		ミューノの召喚獣で<three_dots><end_line>
 	</sjis>
+	<ascii>    But in truth,<end_line>    I am Murno's Summon Beast<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi"/>
@@ -705,9 +921,13 @@
 	<portrait_l entry="partner" eye="decided" mouth="serious"/>
 	<portrait_r entry="vee" eye="sad" mouth="neutral"/>
 	<sjis>
-		�{���̂��Ƃ�`���Ă������̂����H<end_line/>
-		�~���[�m�̓��P����Ȃ񂾂�H<end_line/>
+		本当のことを伝えてもいいのかい？<end_line>
+		ミューノはワケありなんだろ？<end_line>
 	</sjis>
+	<ascii>
+		Would it be okay to tell the truth?<end_line>
+		Murno has special circumstances, right?<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi"/>
@@ -715,8 +935,11 @@
 	<portrait_l entry="partner" eye="sad" mouth="tense"/>
 	<portrait_r entry="vee" eye="sad" mouth="neutral"/>
 	<sjis>
-		��������<three_dots/><end_line/>
+		たしかに<three_dots><end_line>
 	</sjis>
+	<ascii>
+		That is true<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi"/>
@@ -725,28 +948,34 @@
 	<portrait_r entry="vee" eye="sad" mouth="neutral"/>
 	<male>
 		<sjis>
-			��������<end_line/>
-			�킩������A�e��<end_line/>
-			�s�����A<partner><end_line/>
+			そうだね<end_line>
+			わかったよ、親方<end_line>
+			行こう、<partner><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			��������<end_line/>
-			�킩�����A�e��<end_line/>
-			�s�����A<partner><end_line/>
+			そうだね<end_line>
+			わかった、親方<end_line>
+			行こう、<partner><end_line>
 		</sjis>
 	</female>
+  <ascii>    You're right.<end_line>    I understand, Master.<end_line>    Let's get going, <partner><end_line>  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi"/>
 	<info box="left"/>
 	<portrait_l entry="partner" eye="serious" mouth="tense"/>
 	<sjis>
-		������<three_dots/><end_line/>
-		�̂̒��q�̈����~���[�m��<end_line/>
-		�ЂƂ�ɂ��Ă����킯�ɂ�<three_dots/><end_line/>
+		しかし<three_dots><end_line>
+		体の調子の悪いミューノを<end_line>
+		ひとりにしておくわけには<three_dots><end_line>
 	</sjis>
+	<ascii>
+		However<three_dots><end_line>
+		I cannot leave Murno alone<end_line>
+		when she is in such bad shape<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi"/>
@@ -754,9 +983,13 @@
 	<portrait_l entry="partner" eye="serious" mouth="tense"/>
 	<portrait_r entry="vee" eye="serious" mouth="neutral"/>
 	<sjis>
-		���S����<end_line/>
-		�����ƃA�^�V�����Ă邩�炳<end_line/>
+		安心しな<end_line>
+		ちゃんとアタシがついてるからさ<end_line>
 	</sjis>
+	<ascii>
+		Relax.<end_line>
+		I'll be here for her.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi"/>
@@ -764,8 +997,11 @@
 	<portrait_l entry="partner" eye="sad" mouth="tense"/>
 	<portrait_r entry="vee" eye="serious" mouth="neutral"/>
 	<sjis>
-		<three_dots/><end_line/>
+		<three_dots><end_line>
 	</sjis>
+	<ascii>
+		<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi"/>
@@ -773,8 +1009,11 @@
 	<portrait_l entry="partner" eye="sad" mouth="tense"/>
 	<portrait_r entry="vee" eye="decided" mouth="neutral"/>
 	<sjis>
-		�Ȃ񂾂��A���̖ڂ́H<end_line/>
+		なんだい、その目は？<end_line>
 	</sjis>
+	<ascii>
+		What's with that look?<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi"/>
@@ -782,8 +1021,11 @@
 	<portrait_l entry="partner" eye="sad" mouth="serious"/>
 	<portrait_r entry="vee" eye="decided" mouth="neutral"/>
 	<sjis>
-		�s������<three_dots/><end_line/>
+		不安じゃ<three_dots><end_line>
 	</sjis>
+	<ascii>
+		I'm even more worried<three_dots><end_line>
+	</ascii>
 </dialogue>
 <bigtext>
 	<partner name="enzi"/>
@@ -791,8 +1033,11 @@
 	<portrait_l entry="partner" eye="sad" mouth="serious"/>
 	<portrait_r entry="vee" eye="decided" mouth="yell"/>
 	<sjis>
-		�Ȃ񂾂��āI<end_line/>
+		なんだって！<end_line>
 	</sjis>
+	<ascii>
+		Excuse me!?<end_line>
+	</ascii>
 </bigtext>
 <dialogue>
 	<partner name="enzi"/>
@@ -800,25 +1045,32 @@
 	<portrait_l entry="player" eye="surprised" mouth="stressed"/>
 	<portrait_r entry="vee" eye="decided" mouth="yell"/>
 	<sjis>
-		���A�e���I�H<end_line/>
-		������Ƃ������ɁI<end_line/>
+		お、親方！？<end_line>
+		ちょっとしずかに！<end_line>
 	</sjis>
+	<ascii>		M-Master!?<end_line>		You're too loud!<end_line>	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi"/>
 	<info box="simple"/>
 	<portrait_l name="murno"/>
 	<sjis>
-		����<three_dots/><end_line/>
+		うう<three_dots><end_line>
 	</sjis>
+	<ascii>
+		Hn<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi"/>
 	<info box="right"/>
 	<portrait_r entry="vee" eye="sad" mouth="neutral"/>
 	<sjis>
-		���A���߂�<end_line/>
+		あ、ごめん<end_line>
 	</sjis>
+	<ascii>
+		Ohhh, sorry.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi"/>
@@ -826,8 +1078,11 @@
 	<portrait_l entry="partner" eye="sad" mouth="neutral"/>
 	<portrait_r entry="vee" eye="sad" mouth="neutral"/>
 	<sjis>
-		<three_dots/><end_line/>
+		<three_dots><end_line>
 	</sjis>
+	<ascii>
+		<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi"/>
@@ -835,10 +1090,13 @@
 	<portrait_l entry="partner" eye="sad" mouth="neutral"/>
 	<portrait_r entry="vee" eye="decided" mouth="yell"/>
 	<sjis>
-		�Ȃ񂾂�<end_line/>
-		�������̓A���^���ςȂ��Ƃ�������<end_line/>
-		���J�b�ƂȂ����܂���<three_dots/><end_line/>
+		なんだよ<end_line>
+		さっきはアンタが変なこというから<end_line>
+		ついカッとなっちまって<three_dots><end_line>
 	</sjis>
+	<ascii>
+		Stop looking at me like that.<end_line>    This is all your fault, you know<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi"/>
@@ -846,9 +1104,13 @@
 	<portrait_l entry="partner" eye="sad" mouth="neutral"/>
 	<portrait_r entry="vee" eye="decided" mouth="yell"/>
 	<sjis>
-		���K�n�C�A�Ȃɂ��ςȂ��ƂȂ�<end_line/>
-		�����Ă���񂪂́H<end_line/>
+		ワガハイ、なにも変なことなど<end_line>
+		言っておらんがの？<end_line>
 	</sjis>
+	<ascii>
+		Oh, I don't recall<end_line>
+		saying anything odd at all.<end_line>
+	</ascii>
 </dialogue>
 <bigtext>
 	<partner name="enzi"/>
@@ -856,8 +1118,11 @@
 	<portrait_l entry="partner" eye="sad" mouth="neutral"/>
 	<portrait_r entry="vee" eye="decided" mouth="yell"/>
 	<sjis>
-		�Ȃ񂾂��āI�H<end_line/>
+		なんだって！？<end_line>
 	</sjis>
+	<ascii>
+		Huh!?<end_line>
+	</ascii>
 </bigtext>
 <dialogue>
 	<partner name="enzi"/>
@@ -865,8 +1130,11 @@
 	<portrait_l entry="player" eye="decided" mouth="tense"/>
 	<portrait_r entry="vee" eye="decided" mouth="yell"/>
 	<sjis>
-		������e��<three_dots/>�I<end_line/>
+		だから親方<three_dots>！<end_line>
 	</sjis>
+	<ascii>
+		Master<three_dots>!<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi"/>
@@ -874,10 +1142,15 @@
 	<portrait_l entry="partner" eye="sad" mouth="serious"/>
 	<portrait_r entry="vee" eye="decided" mouth="serious"/>
 	<sjis>
-		<three_dots/>�Ƃɂ���<end_line/>
-		�A���^�A�W���}������<end_line/>
-		�����̂Ƃ���ɍs���Ă���Ȃ���<end_line/>
+		<three_dots>とにかく<end_line>
+		アンタ、ジャマだから<end_line>
+		村長のところに行ってくれないか<end_line>
 	</sjis>
+	<ascii>
+		<three_dots>Anyway,<end_line>
+		you two are in the way.<end_line>
+		Just go and greet the guy already.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi"/>
@@ -885,9 +1158,12 @@
 	<portrait_l entry="partner" eye="sad" mouth="serious"/>
 	<portrait_r entry="vee" eye="serious" mouth="neutral"/>
 	<sjis>
-		��������΃~���[�m������<end_line/>
-		�ǂ��Ȃ邩��A��<end_line/>
+		そうすればミューノもじき<end_line>
+		良くなるから、ね<end_line>
 	</sjis>
+	<ascii>
+		Murno'll feel better in no time.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi"/>
@@ -895,8 +1171,10 @@
 	<portrait_l entry="partner" eye="surprised" mouth="tense"/>
 	<portrait_r entry="vee" eye="serious" mouth="neutral"/>
 	<sjis>
-		�W���}�����<three_dots/><end_line/>
+		ジャマじゃと<three_dots><end_line>
 	</sjis>
+	<ascii>    In the way<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi"/>
@@ -904,10 +1182,11 @@
 	<portrait_l entry="partner" eye="surprised" mouth="tense"/>
 	<portrait_r entry="vee" eye="decided" mouth="serious"/>
 	<sjis>
-		�����ւ̂������ȊO�ɂ�<end_line/>
-		�A���^�����ɂ͏C�s�����邾��<end_line/>
-		�b��t���Ă̂̓q�}����Ȃ���<end_line/>
+		村長へのあいさつ以外にも<end_line>
+		アンタたちには修行があるだろ<end_line>
+		鍛冶師ってのはヒマじゃないよ<end_line>
 	</sjis>
+	<ascii>		Even if you didn't need to greet the<end_line>		Chief, I'd make you train instead.<end_line>		Craftknights are quite busy.<end_line>	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi"/>
@@ -916,18 +1195,23 @@
 	<portrait_r entry="vee" eye="decided" mouth="serious"/>
 	<male>
 		<sjis>
-			����A�킩������A�e��<end_line/>
-			�Ƃ肠���������̂Ƃ���ɍs����<end_line/>
-			�ȁA<partner><end_line/>
+			うん、わかったよ、親方<end_line>
+			とりあえず村長のところに行こう<end_line>
+			な、<partner><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			����A�킩������A�e��<end_line/>
-			�Ƃ肠���������̂Ƃ���ɍs����<end_line/>
-			�ˁA<partner><end_line/>
+			うん、わかったよ、親方<end_line>
+			とりあえず村長のところに行こう<end_line>
+			ね、<partner><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Alright, Master.<end_line>
+    We'll be on our way.<end_line>
+    Okay <partner>?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi"/>
@@ -935,8 +1219,11 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral"/>
 	<portrait_r entry="partner" eye="sad" mouth="tense"/>
 	<sjis>
-		�킩����<three_dots/><end_line/>
+		わかった<three_dots><end_line>
 	</sjis>
+	<ascii>
+		Alright<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith"/>
@@ -944,8 +1231,11 @@
 	<portrait_l entry="partner" eye="sad" mouth="tense"/>
 	<portrait_r entry="vee" eye="serious" mouth="serious"/>
 	<sjis>
-		�Ȃ�Ƃ��ł���̂��H<end_line/>
+		なんとかできるのか？<end_line>
 	</sjis>
+	<ascii>
+		Is there anything I do?<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith"/>
@@ -953,10 +1243,15 @@
 	<portrait_l entry="partner" eye="sad" mouth="tense"/>
 	<portrait_r entry="vee" eye="serious" mouth="neutral"/>
 	<sjis>
-		����ȂɐS�z���Ȃ��Ă�<end_line/>
-		���ƂȂ����Q�Ă��<end_line/>
-		�悭�Ȃ��<end_line/>
+		そんなに心配しなくても<end_line>
+		おとなしく寝てれば<end_line>
+		よくなるよ<end_line>
 	</sjis>
+	<ascii>
+		No need to worry,<end_line>
+		let her get some rest and<end_line>
+		she should get better.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith"/>
@@ -964,9 +1259,13 @@
 	<portrait_l entry="partner" eye="surprised" mouth="tense"/>
 	<portrait_r entry="vee" eye="serious" mouth="neutral"/>
 	<sjis>
-		�Ȃ񂾂�<three_dots/><end_line/>
-		�N���S�z�Ȃ�<three_dots/>�I<end_line/>
+		なんだと<three_dots><end_line>
+		誰が心配など<three_dots>！<end_line>
 	</sjis>
+	<ascii>
+		What<three_dots><end_line>
+		I didn't say I was worried<three_dots>!<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith"/>
@@ -974,10 +1273,14 @@
 	<portrait_l entry="partner" eye="surprised" mouth="tense"/>
 	<portrait_r entry="vee" eye="decided" mouth="tense"/>
 	<sjis>
-		���邳����<end_line/>
-		���ƂȂ����Q�����Ă�����<end_line/>
-		�����Ă邾��<end_line/>
+		うるさいよ<end_line>
+		おとなしく寝かせてやれって<end_line>
+		言ってるだろ<end_line>
 	</sjis>
+	<ascii>
+		You're too loud.<end_line>
+		I told you to let her rest, didn't I?<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith"/>
@@ -985,17 +1288,21 @@
 	<portrait_l entry="partner" eye="decided_blush" mouth="neutral"/>
 	<portrait_r entry="vee" eye="decided" mouth="tense"/>
 	<sjis>
-		����<three_dots/><end_line/>
+		ちっ<three_dots><end_line>
 	</sjis>
+	<ascii>
+		Tch<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith"/>
 	<info box="left"/>
 	<portrait_l entry="player" eye="sad" mouth="tense"/>
 	<sjis>
-		�ł�<end_line/>
-		�}�ɔM���Ȃ��<three_dots/><end_line/>
+		でも<end_line>
+		急に熱だなんて<three_dots><end_line>
 	</sjis>
+  <ascii>    But how could she develop<end_line>    a fever so suddenly<three_dots>?<end_line>  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith"/>
@@ -1003,10 +1310,11 @@
 	<portrait_l entry="player" eye="sad" mouth="tense"/>
 	<portrait_r entry="vee" eye="serious" mouth="serious"/>
 	<sjis>
-		���̎q�A����ȏ����ȑ̂ł����܂�<end_line/>
-		�����������Ă����݂����������<three_dots/><end_line/>
-		���S�������C�ɂ����񂾂낤��<end_line/>
+		この子、こんな小さな体でここまで<end_line>
+		相当ムリしてきたみたいだからね<three_dots><end_line>
+		安心したら一気にきたんだろうね<end_line>
 	</sjis>
+  <ascii>    She's been pushing it for a while now<three_dots><end_line>    All of the pent up stress<end_line>    must have hit her at once.<end_line>  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith"/>
@@ -1014,9 +1322,10 @@
 	<portrait_l entry="player" eye="sad" mouth="tense"/>
 	<portrait_r entry="vee" eye="serious" mouth="neutral"/>
 	<sjis>
-		�Ƃ������ƂŁA�R�R�ɂ��Ă�<end_line/>
-		�A���^�����̂�邱�Ƃ͂Ȃ���<end_line/>
+		ということで、ココにいても<end_line>
+		アンタたちのやることはないよ<end_line>
 	</sjis>
+	<ascii>    There's nothing you two<end_line>    can do about it.<end_line>	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith"/>
@@ -1024,9 +1333,13 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral"/>
 	<portrait_r entry="vee" eye="serious" mouth="neutral"/>
 	<sjis>
-		������<three_dots/><end_line/>
-		�킩����<end_line/>
+		そっか<three_dots><end_line>
+		わかった<end_line>
 	</sjis>
+	<ascii>
+		I suppose so<three_dots><end_line>
+		Okay.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith"/>
@@ -1034,10 +1347,11 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral"/>
 	<portrait_r entry="vee" eye="serious" mouth="tense"/>
 	<sjis>
-		����A�����̓A�^�V�ɂ܂�����<end_line/>
-		�A���^��<partner>�����ł�<end_line/>
-		�����ɏЉ�Ƃ���<end_line/>
+		じゃ、ここはアタシにまかせて<end_line>
+		アンタは<partner>だけでも<end_line>
+		村長に紹介しといで<end_line>
 	</sjis>
+  <ascii>		Alright, leave this to me.<end_line>		You should go introduce <partner><end_line>    to the Chief.<end_line>	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith"/>
@@ -1045,9 +1359,10 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral"/>
 	<portrait_r entry="vee" eye="serious" mouth="neutral"/>
 	<sjis>
-		�߂���͂�����ӂ��Ă�����<end_line/>
-		�܂������Ȃ��悤�ɂ��Ȃ����<end_line/>
+		近ごろはぐれもふえてきたし<end_line>
+		まちがわれないようにしなきゃね<end_line>
 	</sjis>
+	<ascii>		There've been more strays lately,<end_line>		so we need to make sure<end_line>    <partner> isn't get mistaken for one.<end_line>	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith"/>
@@ -1055,9 +1370,10 @@
 	<portrait_l entry="player" eye="serious" mouth="tense"/>
 	<portrait_r entry="vee" eye="serious" mouth="neutral"/>
 	<sjis>
-		�ł��A�Љ����<end_line/>
-		�Ȃ�Č������炢���񂾂�H<end_line/>
+		でも、紹介って<end_line>
+		なんて言ったらいいんだろ？<end_line>
 	</sjis>
+  <ascii>		What should I even say?<end_line>	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith"/>
@@ -1065,10 +1381,11 @@
 	<portrait_l entry="player" eye="serious" mouth="tense"/>
 	<portrait_r entry="vee" eye="serious" mouth="tense"/>
 	<sjis>
-		�b��t�̑������Ă��Ƃ�<end_line/>
-		�A�^�V�ɏ����΂���������Ƃ�<end_line/>
-		����Ȋ����ł����񂶂�Ȃ��H<end_line/>
+		鍛冶師の相方ってことで<end_line>
+		アタシに召喚石をもらったとか<end_line>
+		そんな感じでいいんじゃない？<end_line>
 	</sjis>
+  <ascii>		Say something like,<end_line>		'I got this summon stone from Master<end_line>		so I could get a partner for crafting'.<end_line>	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith"/>
@@ -1076,8 +1393,9 @@
 	<portrait_l entry="player" eye="happy" mouth="tense"/>
 	<portrait_r entry="vee" eye="serious" mouth="tense"/>
 	<sjis>
-		����Ȋ����ł���<three_dots/><end_line/>
+		そんな感じでって<three_dots><end_line>
 	</sjis>
+	<ascii>		That'll totally work<three_dots><end_line>	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith"/>
@@ -1085,8 +1403,11 @@
 	<portrait_l entry="partner" eye="serious" mouth="neutral"/>
 	<portrait_r entry="vee" eye="serious" mouth="tense"/>
 	<sjis>
-		�R�C�c�̑�����<three_dots/><end_line/>
+		コイツの相方か<three_dots><end_line>
 	</sjis>
+	<ascii>
+		This kid's partner, huh<three_dots>?<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith"/>
@@ -1094,10 +1415,11 @@
 	<portrait_l entry="partner" eye="serious" mouth="neutral"/>
 	<portrait_r entry="vee" eye="sad" mouth="neutral"/>
 	<sjis>
-		�{���̂��Ƃ�`��������<end_line/>
-		�����̂����H<end_line/>
-		�~���[�m�̓��P����Ȃ񂾂�H<end_line/>
+		本当のことを伝えた方が<end_line>
+		いいのかい？<end_line>
+		ミューノはワケありなんだろ？<end_line>
 	</sjis>
+	<ascii>		Would it be okay to tell the truth?<end_line>		Murno has special circumstances, right?<end_line>	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith"/>
@@ -1105,9 +1427,13 @@
 	<portrait_l entry="partner" eye="serious" mouth="serious"/>
 	<portrait_r entry="vee" eye="sad" mouth="neutral"/>
 	<sjis>
-		����<three_dots/><end_line/>
-		�D���ɂ���<end_line/>
+		ちっ<three_dots><end_line>
+		好きにしろ<end_line>
 	</sjis>
+	<ascii>
+		Hmph<three_dots><end_line>
+		Do what you want.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith"/>
@@ -1116,28 +1442,32 @@
 	<portrait_r entry="vee" eye="sad" mouth="neutral"/>
 	<male>
 		<sjis>
-			��������<end_line/>
-			�킩������A�e��<end_line/>
-			�s�����A<partner><end_line/>
+			そうだね<end_line>
+			わかったよ、親方<end_line>
+			行こう、<partner><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			��������<end_line/>
-			�킩�����A�e��<end_line/>
-			�s�����A<partner><end_line/>
+			そうだね<end_line>
+			わかった、親方<end_line>
+			行こう、<partner><end_line>
 		</sjis>
-	</female>
+	</female>  <ascii>    You're right.<end_line>    Alright, let's go,<end_line>    <partner><end_line>  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith"/>
 	<info box="left"/>
 	<portrait_l entry="partner" eye="serious" mouth="tense"/>
 	<sjis>
-		<three_dots/><end_line/>
-		�~���[�m�̃����h�E��<end_line/>
-		�L�T�}�ЂƂ�ł݂���肩<three_dots/><end_line/>
+		<three_dots><end_line>
+		ミューノのメンドウは<end_line>
+		キサマひとりでみるつもりか<three_dots><end_line>
 	</sjis>
+	<ascii>
+		<three_dots><end_line>		Do you intend to take care<end_line>
+		of Murno on your own<three_dots>?<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith"/>
@@ -1145,9 +1475,13 @@
 	<portrait_l entry="partner" eye="serious" mouth="tense"/>
 	<portrait_r entry="vee" eye="decided" mouth="serious"/>
 	<sjis>
-		�L�T�}����Ȃ��āA�e������H<end_line/>
-		�܂������A�����Ƃ��Ȃ�<three_dots/><end_line/>
+		キサマじゃなくて、親方だろ？<end_line>
+		まったく、ちゃんとしなよ<three_dots><end_line>
 	</sjis>
+	<ascii>
+		Call me 'Master', not 'you'.<end_line>
+		Seriously, show some respect<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith"/>
@@ -1155,10 +1489,12 @@
 	<portrait_l entry="partner" eye="serious" mouth="neutral"/>
 	<portrait_r entry="vee" eye="serious" mouth="neutral"/>
 	<sjis>
-		���̓_�A�^�V�͂����Ƃ��Ă邩���<end_line/>
-		�ЂƂ�ł��\�������h�E�݂����<end_line/>
-		���S���čs���Ă��Ȃ���<end_line/>
+		その点アタシはちゃんとしてるからね<end_line>
+		ひとりでも十分メンドウみられるよ<end_line>
+		安心して行ってきなって<end_line>
 	</sjis>
+	<ascii>    I'll be perfectly fine on my won.<end_line>    Hurry up and get out of here.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith"/>
@@ -1166,8 +1502,11 @@
 	<portrait_l entry="partner" eye="special" mouth="neutral"/>
 	<portrait_r entry="vee" eye="serious" mouth="neutral"/>
 	<sjis>
-		<three_dots/><end_line/>
+		<three_dots><end_line>
 	</sjis>
+	<ascii>
+		<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith"/>
@@ -1175,8 +1514,11 @@
 	<portrait_l entry="partner" eye="special" mouth="neutral"/>
 	<portrait_r entry="vee" eye="decided" mouth="neutral"/>
 	<sjis>
-		�Ȃ񂾂��A���̖ڂ́H<end_line/>
+		なんだい、その目は？<end_line>
 	</sjis>
+	<ascii>
+		What's with the look?<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith"/>
@@ -1184,8 +1526,11 @@
 	<portrait_l entry="partner" eye="serious" mouth="neutral"/>
 	<portrait_r entry="vee" eye="decided" mouth="neutral"/>
 	<sjis>
-		�ʂ�<three_dots/><end_line/>
+		別に<three_dots><end_line>
 	</sjis>
+	<ascii>
+		Nothing<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith"/>
@@ -1193,10 +1538,12 @@
 	<portrait_l entry="partner" eye="serious" mouth="neutral"/>
 	<portrait_r entry="vee" eye="decided" mouth="yell"/>
 	<sjis>
-		�Ȃ񂾂�<three_dots/><end_line/>
-		���傪����Ȃ�<end_line/>
-		�n�b�L�������ȁI<end_line/>
+		なんだよ<three_dots><end_line>
+		文句があるなら<end_line>
+		ハッキリ言いな！<end_line>
 	</sjis>
+	<ascii>
+		Huh<three_dots>?<end_line>    What, you got a problem!?<end_line>	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith"/>
@@ -1204,25 +1551,30 @@
 	<portrait_l entry="player" eye="surprised" mouth="stressed"/>
 	<portrait_r entry="vee" eye="decided" mouth="yell"/>
 	<sjis>
-		���A�e���I�H<end_line/>
-		������Ƃ������ɁI<end_line/>
+		お、親方！？<end_line>
+		ちょっとしずかに！<end_line>
 	</sjis>
+  <ascii>		M-Master!?<end_line>		You're too loud!<end_line>	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith"/>
 	<info box="simple"/>
 	<portrait_l name="murno"/>
 	<sjis>
-		����<three_dots/><end_line/>
+		うう<three_dots><end_line>
 	</sjis>
+	<ascii>
+		Hn<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith"/>
 	<info box="right"/>
 	<portrait_r entry="vee" eye="sad" mouth="neutral"/>
 	<sjis>
-		���A���߂�<end_line/>
+		あ、ごめん<end_line>
 	</sjis>
+	<ascii>		Ohhh, sorry.<end_line>	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith"/>
@@ -1230,8 +1582,11 @@
 	<portrait_l entry="partner" eye="sad" mouth="tense"/>
 	<portrait_r entry="vee" eye="sad" mouth="neutral"/>
 	<sjis>
-		<three_dots/><end_line/>
+		<three_dots><end_line>
 	</sjis>
+	<ascii>
+		<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith"/>
@@ -1239,10 +1594,11 @@
 	<portrait_l entry="partner" eye="sad" mouth="tense"/>
 	<portrait_r entry="vee" eye="decided" mouth="tense"/>
 	<sjis>
-		�Ȃ񂾂�<end_line/>
-		�������̓A���^���ςȂ��Ƃ�������<end_line/>
-		���J�b�ƂȂ����܂���<three_dots/><end_line/>
+		なんだよ<end_line>
+		さっきはアンタが変なこというから<end_line>
+		ついカッとなっちまって<three_dots><end_line>
 	</sjis>
+	<ascii>		Stop looking at me like that.<end_line>    This is all your fault, you know<three_dots><end_line>	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith"/>
@@ -1250,8 +1606,11 @@
 	<portrait_l entry="partner" eye="serious" mouth="talk"/>
 	<portrait_r entry="vee" eye="decided" mouth="tense"/>
 	<sjis>
-		���͉��������ĂȂ���<three_dots/><end_line/>
+		私は何も言ってないが<three_dots><end_line>
 	</sjis>
+	<ascii>
+		I didn't say anything<three_dots><end_line>
+	</ascii>
 </dialogue>
 <bigtext>
 	<partner name="killfith"/>
@@ -1259,8 +1618,11 @@
 	<portrait_l entry="partner" eye="serious" mouth="talk"/>
 	<portrait_r entry="vee" eye="decided" mouth="yell"/>
 	<sjis>
-		�Ȃ񂾂��āI�H<end_line/>
+		なんだって！？<end_line>
 	</sjis>
+	<ascii>
+		Huh!?<end_line>
+	</ascii>
 </bigtext>
 <dialogue>
 	<partner name="killfith"/>
@@ -1268,8 +1630,9 @@
 	<portrait_l entry="player" eye="decided" mouth="tense"/>
 	<portrait_r entry="vee" eye="decided" mouth="yell"/>
 	<sjis>
-		������e��<three_dots/>�I<end_line/>
+		だから親方<three_dots>！<end_line>
 	</sjis>
+	<ascii>		Master<three_dots>!<end_line>	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith"/>
@@ -1277,10 +1640,11 @@
 	<portrait_l entry="player" eye="decided" mouth="tense"/>
 	<portrait_r entry="vee" eye="decided" mouth="serious"/>
 	<sjis>
-		<three_dots/>�Ƃɂ���<end_line/>
-		�A���^�A�W���}������<end_line/>
-		�����̂Ƃ���ɍs���Ă���Ȃ���<end_line/>
+		<three_dots>とにかく<end_line>
+		アンタ、ジャマだから<end_line>
+		村長のところに行ってくれないか<end_line>
 	</sjis>
+	<ascii>		<three_dots>Anyway,<end_line>		you two are in the way.<end_line>		Just go and greet the guy already.<end_line>	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith"/>
@@ -1288,9 +1652,12 @@
 	<portrait_l entry="player" eye="decided" mouth="tense"/>
 	<portrait_r entry="vee" eye="decided" mouth="neutral"/>
 	<sjis>
-		��������΃~���[�m������<end_line/>
-		�ǂ��Ȃ邩��A��<end_line/>
+		そうすればミューノもじき<end_line>
+		良くなるから、ね<end_line>
 	</sjis>
+	<ascii>
+		Murno'll feel better in no time.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith"/>
@@ -1298,8 +1665,11 @@
 	<portrait_l entry="partner" eye="decided" mouth="serious"/>
 	<portrait_r entry="vee" eye="decided" mouth="neutral"/>
 	<sjis>
-		�W���}����<three_dots/><end_line/>
+		ジャマだと<three_dots><end_line>
 	</sjis>
+	<ascii>
+		Hmph<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith"/>
@@ -1307,11 +1677,11 @@
 	<portrait_l entry="partner" eye="decided" mouth="serious"/>
 	<portrait_r entry="vee" eye="decided" mouth="talk"/>
 	<sjis>
-		�����ւ̂������ȊO�ɂ�<end_line/>
-		�A���^�����ɂ͏C�s�����邾��<end_line/>
-		�b��t���Ă̂̓q�}����Ȃ���<end_line/>
+		村長へのあいさつ以外にも<end_line>
+		アンタたちには修行があるだろ<end_line>
+		鍛冶師ってのはヒマじゃないよ<end_line>
 	</sjis>
-</dialogue>
+	<ascii>		Even if you didn't need to greet the<end_line>		Chief, I'd make you train instead.<end_line>		Craftknights are quite busy.<end_line>	</ascii></dialogue>
 <dialogue>
 	<partner name="killfith"/>
 	<info box="left"/>
@@ -1319,18 +1689,19 @@
 	<portrait_r entry="vee" eye="decided" mouth="talk"/>
 	<male>
 		<sjis>
-			����A�킩������A�e��<end_line/>
-			�Ƃ肠���������̂Ƃ���ɍs����<end_line/>
-			�ȁA<partner><end_line/>
+			うん、わかったよ、親方<end_line>
+			とりあえず村長のところに行こう<end_line>
+			な、<partner><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			����A�킩������A�e��<end_line/>
-			�Ƃ肠���������̂Ƃ���ɍs����<end_line/>
-			�ˁA<partner><end_line/>
+			うん、わかったよ、親方<end_line>
+			とりあえず村長のところに行こう<end_line>
+			ね、<partner><end_line>
 		</sjis>
 	</female>
+  <ascii>    Alright, Master.<end_line>    We'll be on our way.<end_line>    Okay <partner>?<end_line>  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith"/>
@@ -1338,9 +1709,13 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral"/>
 	<portrait_r entry="partner" eye="serious" mouth="stressed"/>
 	<sjis>
-		����<three_dots/><end_line/>
-		�D���ɂ���<three_dots/><end_line/>
+		ちっ<three_dots><end_line>
+		好きにしろ<three_dots><end_line>
 	</sjis>
+	<ascii>
+		Yeah, yeah<three_dots><end_line>
+		Whatever<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel"/>
@@ -1348,9 +1723,13 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral"/>
 	<portrait_r entry="partner" eye="serious" mouth="stressed"/>
 	<sjis>
-		�ǂ����܂��傤�H<end_line/>
-		�͂₭�Ȃ�Ƃ����Ȃ���<three_dots/>�I<end_line/>
+		どうしましょう？<end_line>
+		はやくなんとかしないと<three_dots>！<end_line>
 	</sjis>
+	<ascii>
+		What should we do!?<end_line>
+		We have to do something<three_dots>!<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel"/>
@@ -1358,10 +1737,15 @@
 	<portrait_l entry="player" eye="decided" mouth="yell"/>
 	<portrait_r entry="partner" eye="serious" mouth="stressed"/>
 	<sjis>
-		�������I<end_line/>
-		�����~���[�m�l�̑̂�<end_line/>
-		�������߂�<three_dots/><end_line/>
+		そうだ！<end_line>
+		私がミューノ様の体を<end_line>
+		あたためて<three_dots><end_line>
 	</sjis>
+	<ascii>
+		Oh, that's right!<end_line>
+		I'll warm her up<end_line>
+		with my body<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel"/>
@@ -1369,8 +1753,11 @@
 	<portrait_l entry="player" eye="decided" mouth="yell"/>
 	<portrait_r entry="partner" eye="sad" mouth="neutral"/>
 	<sjis>
-		����Ȃ��Ƃ��Ȃ��Ă�������<end_line/>
+		そんなことしなくていいから<end_line>
 	</sjis>
+	<ascii>
+		You don't have to do that.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel"/>
@@ -1378,10 +1765,14 @@
 	<portrait_l entry="player" eye="decided" mouth="serious"/>
 	<portrait_r entry="partner" eye="sad" mouth="neutral"/>
 	<sjis>
-		�ł́A�ǂ������<end_line/>
-		�~���[�m�l�����C�ɂ��邱�Ƃ�<end_line/>
-		�ł���̂ł����H<end_line/>
+		では、どうすれば<end_line>
+		ミューノ様を元気にすることが<end_line>
+		できるのですか？<end_line>
 	</sjis>
+	<ascii>    But what else can I do<end_line>
+		to make Lady Murno<end_line>
+		feel better?<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel"/>
@@ -1389,9 +1780,13 @@
 	<portrait_l entry="player" eye="decided" mouth="serious"/>
 	<portrait_r entry="partner" eye="serious" mouth="neutral"/>
 	<sjis>
-		���̃A���^�ɂł��邱�Ƃ͂ЂƂ�<end_line/>
-		���ƂȂ������Ă邱�Ƃ�������<end_line/>
+		今のアンタにできることはひとつ<end_line>
+		おとなしくしてることだけだよ<end_line>
 	</sjis>
+	<ascii>
+		The only thing you can do<end_line>
+		now is stay quiet.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel"/>
@@ -1399,17 +1794,21 @@
 	<portrait_l entry="player" eye="sad" mouth="tense"/>
 	<portrait_r entry="partner" eye="serious" mouth="neutral"/>
 	<sjis>
-		�����Ȃ�ł���<three_dots/><end_line/>
+		そうなんですか<three_dots><end_line>
 	</sjis>
+	<ascii>
+		Is that so<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel"/>
 	<info box="left"/>
 	<portrait_l entry="player" eye="sad" mouth="tense"/>
 	<sjis>
-		�ł�<end_line/>
-		�}�ɔM���Ȃ��<three_dots/><end_line/>
+		でも<end_line>
+		急に熱だなんて<three_dots><end_line>
 	</sjis>
+  <ascii>    But how could she develop<end_line>    a fever so suddenly<three_dots>?<end_line>  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel"/>
@@ -1417,10 +1816,11 @@
 	<portrait_l entry="player" eye="sad" mouth="tense"/>
 	<portrait_r entry="partner" eye="serious" mouth="serious"/>
 	<sjis>
-		���̎q�A����ȏ����ȑ̂ł����܂�<end_line/>
-		�����������Ă����݂����������<three_dots/><end_line/>
-		���S�������C�ɂ����񂾂낤��<end_line/>
+		この子、こんな小さな体でここまで<end_line>
+		相当ムリしてきたみたいだからね<three_dots><end_line>
+		安心したら一気にきたんだろうね<end_line>
 	</sjis>
+  <ascii>    She's been pushing it for a while now<three_dots><end_line>    All of the pent up stress<end_line>    must have hit her at once.<end_line>  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel"/>
@@ -1428,9 +1828,13 @@
 	<portrait_l entry="player" eye="sad" mouth="tense"/>
 	<portrait_r entry="partner" eye="serious" mouth="neutral"/>
 	<sjis>
-		�������x�ނ̂���Ԃ���<end_line/>
-		���͂����Ƃ��Ă����Ă���<end_line/>
+		ゆっくり休むのが一番だよ<end_line>
+		今はそっとしておいてやりな<end_line>
 	</sjis>
+	<ascii>
+		It'll be best if she just rests.<end_line>
+		Leave her alone for now.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel"/>
@@ -1438,9 +1842,10 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral"/>
 	<portrait_r entry="partner" eye="serious" mouth="neutral"/>
 	<sjis>
-		��������<end_line/>
-		�킩����<end_line/>
+		そうだね<end_line>
+		わかった<end_line>
 	</sjis>
+  <ascii>		Okay.<end_line>	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel"/>
@@ -1448,10 +1853,11 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral"/>
 	<portrait_r entry="partner" eye="serious" mouth="tense"/>
 	<sjis>
-		����A�����̓A�^�V�ɂ܂�����<end_line/>
-		�A���^��<partner>�����ł�<end_line/>
-		�����ɏЉ�Ƃ���<end_line/>
+		じゃ、ここはアタシにまかせて<end_line>
+		アンタは<partner>だけでも<end_line>
+		村長に紹介しといで<end_line>
 	</sjis>
+  <ascii>		Alright, leave this to me.<end_line>		You should go introduce <partner><end_line>    to the Chief.<end_line>	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel"/>
@@ -1459,9 +1865,10 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral"/>
 	<portrait_r entry="partner" eye="serious" mouth="neutral"/>
 	<sjis>
-		�߂���͂�����ӂ��Ă�����<end_line/>
-		�܂������Ȃ��悤�ɂ��Ȃ����<end_line/>
+		近ごろはぐれもふえてきたし<end_line>
+		まちがわれないようにしなきゃね<end_line>
 	</sjis>
+  <ascii>		There've been more strays lately,<end_line>		so we need to make sure<end_line>    <partner> isn't get mistaken for one.<end_line>	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel"/>
@@ -1469,9 +1876,10 @@
 	<portrait_l entry="player" eye="serious" mouth="tense"/>
 	<portrait_r entry="partner" eye="serious" mouth="neutral"/>
 	<sjis>
-		�ł��A�Љ����<end_line/>
-		�Ȃ�Č������炢���񂾂�H<end_line/>
+		でも、紹介って<end_line>
+		なんて言ったらいいんだろ？<end_line>
 	</sjis>
+  <ascii>		What should I even say?<end_line>	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel"/>
@@ -1479,10 +1887,11 @@
 	<portrait_l entry="player" eye="serious" mouth="tense"/>
 	<portrait_r entry="partner" eye="serious" mouth="tense"/>
 	<sjis>
-		�b��t�̑������Ă��Ƃ�<end_line/>
-		�A�^�V�ɏ����΂���������Ƃ�<end_line/>
-		����Ȋ����ł����񂶂�Ȃ��H<end_line/>
+		鍛冶師の相方ってことで<end_line>
+		アタシに召喚石をもらったとか<end_line>
+		そんな感じでいいんじゃない？<end_line>
 	</sjis>
+  <ascii>		Say something like,<end_line>		'I got this summon stone from Master<end_line>		so I could get a partner for crafting'.<end_line>	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel"/>
@@ -1490,8 +1899,9 @@
 	<portrait_l entry="player" eye="happy" mouth="tense"/>
 	<portrait_r entry="partner" eye="serious" mouth="tense"/>
 	<sjis>
-		����Ȋ����ł���<three_dots/><end_line/>
+		そんな感じでって<three_dots><end_line>
 	</sjis>
+	<ascii>		That'll totally work<three_dots><end_line>	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel"/>
@@ -1499,10 +1909,14 @@
 	<portrait_l entry="partner" eye="decided" mouth="serious"/>
 	<portrait_r entry="partner" eye="serious" mouth="tense"/>
 	<sjis>
-		�����<three_dots/><end_line/>
-		���A�{����<end_line/>
-		�~���[�m�l�̏����b��<three_dots/><end_line/>
+		そんな<three_dots><end_line>
+		私、本当は<end_line>
+		ミューノ様の召喚獣で<three_dots><end_line>
 	</sjis>
+	<ascii>
+		But, that's not<three_dots><end_line>
+		I am really Lady Murno's partner<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel"/>
@@ -1510,10 +1924,11 @@
 	<portrait_l entry="partner" eye="decided" mouth="serious"/>
 	<portrait_r entry="partner" eye="sad" mouth="neutral"/>
 	<sjis>
-		�{���̂��Ƃ�`��������<end_line/>
-		�����̂����H<end_line/>
-		�~���[�m�̓��P����Ȃ񂾂�H<end_line/>
+		本当のことを伝えた方が<end_line>
+		いいのかい？<end_line>
+		ミューノはワケありなんだろ？<end_line>
 	</sjis>
+	<ascii>		Would it be okay to tell the truth?<end_line>		Murno has special circumstances, right?<end_line>	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel"/>
@@ -1521,9 +1936,11 @@
 	<portrait_l entry="partner" eye="surprised" mouth="tense"/>
 	<portrait_r entry="partner" eye="sad" mouth="neutral"/>
 	<sjis>
-		��������<three_dots/><end_line/>
-		�����ł���<three_dots/><end_line/>
+		たしかに<three_dots><end_line>
+		そうですわ<three_dots><end_line>
 	</sjis>
+	<ascii>    <three_dots>I suppose you're right<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel"/>
@@ -1532,28 +1949,34 @@
 	<portrait_r entry="partner" eye="sad" mouth="neutral"/>
 	<male>
 		<sjis>
-			��������<end_line/>
-			�킩������A�e��<end_line/>
-			�s�����A<partner><end_line/>
+			そうだね<end_line>
+			わかったよ、親方<end_line>
+			行こう、<partner><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			��������<end_line/>
-			�킩�����A�e��<end_line/>
-			�s�����A<partner><end_line/>
+			そうだね<end_line>
+			わかった、親方<end_line>
+			行こう、<partner><end_line>
 		</sjis>
 	</female>
+  <ascii>    Alright, Master.<end_line>    We'll be on our way.<end_line>    Okay <partner>?<end_line>  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel"/>
 	<info box="left"/>
 	<portrait_l entry="partner" eye="sad" mouth="tense"/>
 	<sjis>
-		����<three_dots/><end_line/>
-		�~���[�m�l�͐e������<end_line/>
-		�ЂƂ�ł݂Ă���̂ł����H<end_line/>
+		あの<three_dots><end_line>
+		ミューノ様は親方さんが<end_line>
+		ひとりでみているのですか？<end_line>
 	</sjis>
+	<ascii>
+		Um<three_dots><end_line>
+		Master, will you be looking after<end_line>
+		Lady Murno by yourself?<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel"/>
@@ -1561,10 +1984,14 @@
 	<portrait_l entry="partner" eye="sad" mouth="tense"/>
 	<portrait_r entry="partner" eye="serious" mouth="neutral"/>
 	<sjis>
-		��������<end_line/>
-		�����ƃA�^�V�����Ă邩�炳<end_line/>
-		���S����<end_line/>
+		そうだよ<end_line>
+		ちゃんとアタシがついてるからさ<end_line>
+		安心しな<end_line>
 	</sjis>
+	<ascii>
+		That's right.<end_line>		I'll be here the whole time,<end_line>
+		so don't worry about it.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel"/>
@@ -1572,8 +1999,11 @@
 	<portrait_l entry="partner" eye="serious" mouth="tense"/>
 	<portrait_r entry="partner" eye="serious" mouth="neutral"/>
 	<sjis>
-		<three_dots/><end_line/>
+		<three_dots><end_line>
 	</sjis>
+	<ascii>
+		<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel"/>
@@ -1581,8 +2011,11 @@
 	<portrait_l entry="partner" eye="sad" mouth="serious"/>
 	<portrait_r entry="partner" eye="serious" mouth="neutral"/>
 	<sjis>
-		�S�z�ł���<three_dots/><end_line/>
+		心配ですわ<three_dots><end_line>
 	</sjis>
+	<ascii>
+		I am more worried now<three_dots><end_line>
+	</ascii>
 </dialogue>
 <bigtext>
 	<partner name="rufeel"/>
@@ -1590,8 +2023,11 @@
 	<portrait_l entry="partner" eye="sad" mouth="serious"/>
 	<portrait_r entry="partner" eye="decided" mouth="yell"/>
 	<sjis>
-		�Ȃ񂾂��āI<end_line/>
+		なんだって！<end_line>
 	</sjis>
+	<ascii>
+		What was that!?<end_line>
+	</ascii>
 </bigtext>
 <dialogue>
 	<partner name="rufeel"/>
@@ -1599,25 +2035,32 @@
 	<portrait_l entry="player" eye="surprised" mouth="stressed"/>
 	<portrait_r entry="partner" eye="decided" mouth="yell"/>
 	<sjis>
-		���A�e���I�H<end_line/>
-		������Ƃ������ɁI<end_line/>
+		お、親方！？<end_line>
+		ちょっとしずかに！<end_line>
 	</sjis>
+  <ascii>		M-Master!?<end_line>		You're too loud!<end_line>	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel"/>
 	<info box="simple"/>
 	<portrait_l name="murno"/>
 	<sjis>
-		����<three_dots/><end_line/>
+		うう<three_dots><end_line>
 	</sjis>
+	<ascii>
+		Hn<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel"/>
 	<info box="right"/>
 	<portrait_r entry="partner" eye="sad" mouth="neutral"/>
 	<sjis>
-		���A���߂�<end_line/>
+		あ、ごめん<end_line>
 	</sjis>
+	<ascii>
+		Ohhh, sorry.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel"/>
@@ -1625,8 +2068,11 @@
 	<portrait_l entry="partner" eye="decided" mouth="tense"/>
 	<portrait_r entry="partner" eye="sad" mouth="neutral"/>
 	<sjis>
-		<three_dots/><end_line/>
+		<three_dots><end_line>
 	</sjis>
+	<ascii>
+		<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel"/>
@@ -1634,10 +2080,11 @@
 	<portrait_l entry="partner" eye="decided" mouth="tense"/>
 	<portrait_r entry="partner" eye="decided" mouth="tense"/>
 	<sjis>
-		�Ȃ񂾂�A���̖ڂ�<end_line/>
-		�������̓A���^���ςȂ��Ƃ�������<end_line/>
-		���J�b�ƂȂ����܂���<three_dots/><end_line/>
+		なんだよ、その目は<end_line>
+		さっきはアンタが変なこというから<end_line>
+		ついカッとなっちまって<three_dots><end_line>
 	</sjis>
+	<ascii>		Stop looking at me like that.<end_line>    This is all your fault, you know<three_dots><end_line>	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel"/>
@@ -1645,8 +2092,11 @@
 	<portrait_l entry="partner" eye="sad" mouth="serious"/>
 	<portrait_r entry="partner" eye="decided" mouth="tense"/>
 	<sjis>
-		����ς�S�z�ł���<three_dots/><end_line/>
+		やっぱり心配ですわ<three_dots><end_line>
 	</sjis>
+	<ascii>
+		I really am worried<three_dots><end_line>
+	</ascii>
 </dialogue>
 <bigtext>
 	<partner name="rufeel"/>
@@ -1654,8 +2104,11 @@
 	<portrait_l entry="partner" eye="sad" mouth="serious"/>
 	<portrait_r entry="partner" eye="decided" mouth="yell"/>
 	<sjis>
-		�Ȃ񂾂��āI�H<end_line/>
+		なんだって！？<end_line>
 	</sjis>
+	<ascii>
+		Huh!?<end_line>
+	</ascii>
 </bigtext>
 <dialogue>
 	<partner name="rufeel"/>
@@ -1663,8 +2116,11 @@
 	<portrait_l entry="player" eye="decided" mouth="tense"/>
 	<portrait_r entry="partner" eye="decided" mouth="yell"/>
 	<sjis>
-		������e��<three_dots/>�I<end_line/>
+		だから親方<three_dots>！<end_line>
 	</sjis>
+	<ascii>
+		Master<three_dots>!<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel"/>
@@ -1672,10 +2128,11 @@
 	<portrait_l entry="partner" eye="serious" mouth="serious"/>
 	<portrait_r entry="partner" eye="decided" mouth="serious"/>
 	<sjis>
-		<three_dots/>�Ƃɂ���<end_line/>
-		�A���^�A�W���}������<end_line/>
-		�����̂Ƃ���ɍs���Ă���Ȃ���<end_line/>
+		<three_dots>とにかく<end_line>
+		アンタ、ジャマだから<end_line>
+		村長のところに行ってくれないか<end_line>
 	</sjis>
+	<ascii>		<three_dots>Anyway,<end_line>		you two are in the way.<end_line>		Just go and greet the guy already.<end_line>	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel"/>
@@ -1683,9 +2140,12 @@
 	<portrait_l entry="partner" eye="serious" mouth="serious"/>
 	<portrait_r entry="partner" eye="happy" mouth="tense"/>
 	<sjis>
-		��������΃~���[�m������<end_line/>
-		�ǂ��Ȃ邩��A��<end_line/>
+		そうすればミューノもじき<end_line>
+		良くなるから、ね<end_line>
 	</sjis>
+	<ascii>
+		Murno'll feel better in no time.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel"/>
@@ -1693,8 +2153,11 @@
 	<portrait_l entry="partner" eye="surprised" mouth="tense"/>
 	<portrait_r entry="partner" eye="happy" mouth="tense"/>
 	<sjis>
-		�����A�W���}<three_dots/><end_line/>
+		私が、ジャマ<three_dots><end_line>
 	</sjis>
+	<ascii>
+    Me? I am not in<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel"/>
@@ -1702,10 +2165,11 @@
 	<portrait_l entry="partner" eye="surprised" mouth="tense"/>
 	<portrait_r entry="partner" eye="decided" mouth="neutral"/>
 	<sjis>
-		�����ւ̂������ȊO�ɂ�<end_line/>
-		�A���^�����ɂ͏C�s�����邾��<end_line/>
-		�b��t���Ă̂̓q�}����Ȃ���<end_line/>
+		村長へのあいさつ以外にも<end_line>
+		アンタたちには修行があるだろ<end_line>
+		鍛冶師ってのはヒマじゃないよ<end_line>
 	</sjis>
+	<ascii>		Even if you didn't need to greet the<end_line>		Chief, I'd make you train instead.<end_line>		Craftknights are quite busy.<end_line>	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel"/>
@@ -1714,18 +2178,19 @@
 	<portrait_r entry="partner" eye="decided" mouth="neutral"/>
 	<male>
 		<sjis>
-			����A�킩������A�e��<end_line/>
-			�Ƃ肠���������̂Ƃ���ɍs����<end_line/>
-			�ȁA<partner><end_line/>
+			うん、わかったよ、親方<end_line>
+			とりあえず村長のところに行こう<end_line>
+			な、<partner><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			����A�킩������A�e��<end_line/>
-			�Ƃ肠���������̂Ƃ���ɍs����<end_line/>
-			�ˁA<partner><end_line/>
+			うん、わかったよ、親方<end_line>
+			とりあえず村長のところに行こう<end_line>
+			ね、<partner><end_line>
 		</sjis>
 	</female>
+  <ascii>    Alright, Master.<end_line>    We'll be on our way.<end_line>    Okay <partner>?<end_line>  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel"/>
@@ -1733,7 +2198,11 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral"/>
 	<portrait_r entry="partner" eye="sad" mouth="tense"/>
 	<sjis>
-		�d������܂����<three_dots/><end_line/>
-		�킩��܂���<three_dots/><end_line/>
+		仕方ありませんわ<three_dots><end_line>
+		わかりました<three_dots><end_line>
 	</sjis>
+	<ascii>
+		Very well<three_dots><end_line>
+		I understand<three_dots><end_line>
+	</ascii>
 </dialogue>

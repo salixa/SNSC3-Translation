@@ -1,11 +1,11 @@
 <location>
 	<sjis>
-		ƒfƒBƒbƒNƒ‹z“´<end_line/>
+		ãƒ‡ã‚£ãƒƒã‚¯ãƒ«é‰±æ´ž<end_line>
 	</sjis>
 </location>
 <location>
 	<sjis>
-		ƒfƒBƒbƒNƒ‹z“´@ƒGƒŠƒA‚P<end_line/>
+		ãƒ‡ã‚£ãƒƒã‚¯ãƒ«é‰±æ´žã€€ã‚¨ãƒªã‚¢ï¼‘<end_line>
 	</sjis>
 </location>
 <dialogue>
@@ -13,14 +13,21 @@
 	<portrait_l name="player"/>
 	<male>
 		<sjis>
-			‚¤[‚ñ<end_line/>
-			ŠJ‚©‚È‚¢‚È‚Ÿ<three_dots/><end_line/>
+			ã†ãƒ¼ã‚“<end_line>
+			é–‹ã‹ãªã„ãªã<three_dots><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			‚¤[‚ñ<end_line/>
-			ŠJ‚©‚È‚¢‚æ‚§<three_dots/><end_line/>
+			ã†ãƒ¼ã‚“<end_line>
+			é–‹ã‹ãªã„ã‚ˆã‰<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Hnnnn<three_dots>!<end_line>
+    It won't open<three_dots><end_line>
+  </ascii>
 </dialogue>
+
+
+

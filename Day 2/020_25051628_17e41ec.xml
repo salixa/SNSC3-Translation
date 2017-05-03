@@ -3,30 +3,37 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral"/>
 	<male>
 		<sjis>
-			‚â‚Á‚½I<end_line/>
-			o‚½‚¼I<end_line/>
+			ã‚„ã£ãŸï¼<end_line>
+			å‡ºãŸãžï¼<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			‚â‚Á‚½I<end_line/>
-			ŠO‚¾I<end_line/>
+			ã‚„ã£ãŸï¼<end_line>
+			å¤–ã ï¼<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Alright!<end_line>
+    We made it!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left"/>
 	<portrait_l entry="player" eye="serious" mouth="tense"/>
 	<male>
 		<sjis>
-			‚Ç‚¤‚µ‚½H<end_line/>
+			ã©ã†ã—ãŸï¼Ÿ<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			‚Ç‚¤‚µ‚½‚ÌH<end_line/>
+			ã©ã†ã—ãŸã®ï¼Ÿ<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    What's wrong?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
@@ -34,9 +41,13 @@
 	<portrait_l entry="player" eye="serious" mouth="tense"/>
 	<portrait_r entry="partner" eye="serious" mouth="tense"/>
 	<sjis>
-		lŠÔƒm@˜bƒVºƒ’@Šm”F<end_line/>
-		ƒRƒ`ƒ‰ƒj@ŒüƒJƒbƒeƒLƒeƒCƒ}ƒX<end_line/>
+		äººé–“ãƒŽã€€è©±ã‚·å£°ãƒ²ã€€ç¢ºèª<end_line>
+		ã‚³ãƒãƒ©ãƒ‹ã€€å‘ã‚«ãƒƒãƒ†ã‚­ãƒ†ã‚¤ãƒžã‚¹<end_line>
 	</sjis>
+	<ascii>
+		Human Voices Confirmed.<end_line>
+		They Are Approaching.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi"/>
@@ -44,9 +55,13 @@
 	<portrait_l entry="player" eye="serious" mouth="tense"/>
 	<portrait_r entry="partner" eye="serious" mouth="tense"/>
 	<sjis>
-		l‚Ì‹C”z‚ª‚·‚é<three_dots/><end_line/>
-		‹ß‚¢‚¼I<end_line/>
+		äººã®æ°—é…ãŒã™ã‚‹<three_dots><end_line>
+		è¿‘ã„ãžï¼<end_line>
 	</sjis>
+	<ascii>
+		I can sense someone<three_dots><end_line>
+		They're close!<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith"/>
@@ -54,9 +69,13 @@
 	<portrait_l entry="player" eye="serious" mouth="tense"/>
 	<portrait_r entry="partner" eye="serious" mouth="tense"/>
 	<sjis>
-		ƒjƒ“ƒQƒ“‚ª‚¢‚é<three_dots/><end_line/>
-		‹ß‚¢‚¼I<end_line/>
+		ãƒ‹ãƒ³ã‚²ãƒ³ãŒã„ã‚‹<three_dots><end_line>
+		è¿‘ã„ãžï¼<end_line>
 	</sjis>
+	<ascii>
+		There are humans here<three_dots><end_line>
+		They're close!<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel"/>
@@ -64,66 +83,98 @@
 	<portrait_l entry="player" eye="serious" mouth="tense"/>
 	<portrait_r entry="partner" eye="serious" mouth="tense"/>
 	<sjis>
-		’N‚©‚¢‚Ü‚·‚í<three_dots/><end_line/>
-		‚±‚Á‚¿‚É‚«‚Ü‚·I<end_line/>
+		èª°ã‹ã„ã¾ã™ã‚<three_dots><end_line>
+		ã“ã£ã¡ã«ãã¾ã™ï¼<end_line>
 	</sjis>
+	<ascii>
+		Someone's here<three_dots><end_line>
+		They're coming!<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="left"/>
 	<portrait_l entry="player" eye="surprised" mouth="stressed"/>
 	<portrait_r entry="partner" eye="serious" mouth="tense"/>
 	<sjis>
-		ƒ„ƒo‚¢I<end_line/>
-		‚©‚­‚ê‚È‚«‚áI<end_line/>
+		ãƒ¤ãƒã„ï¼<end_line>
+		ã‹ãã‚Œãªãã‚ƒï¼<end_line>
 	</sjis>
+	<ascii>
+		Crap!<end_line>
+		We gotta hide!<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple"/>
 	<portrait_l name="man"/>
 	<sjis>
-		<three_dots/>‚Å‚à‘å•Ï‚¾‚Á‚½‚Å‚µ‚åH<end_line/>
-		‚±‚ÌŠÔ‚Ì’nk‚Å‹´‚ª‚¨‚¿‚Ä‚½‚µ<end_line/>
+		<three_dots>ã§ã‚‚å¤§å¤‰ã ã£ãŸã§ã—ã‚‡ï¼Ÿ<end_line>
+		ã“ã®é–“ã®åœ°éœ‡ã§æ©‹ãŒãŠã¡ã¦ãŸã—<end_line>
 	</sjis>
+	<ascii>
+		<three_dots>That was tough wasn't it?<end_line>
+    Who would've thought the<end_line>
+    bridge would collapse?<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple"/>
 	<portrait_r name="unknown"/>
 	<sjis>
-		­‚µ‚¨‚Ç‚ë‚¢‚½‚ª<end_line/>
-		“¹‚È‚ñ‚©‚¢‚­‚ç‚Å‚à‚ ‚é‚©‚ç‚È<end_line/>
+		å°‘ã—ãŠã©ã‚ã„ãŸãŒ<end_line>
+		é“ãªã‚“ã‹ã„ãã‚‰ã§ã‚‚ã‚ã‚‹ã‹ã‚‰ãª<end_line>
 	</sjis>
+	<ascii>
+		It was a bit surprising,<end_line>
+		but there are other ways around.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple"/>
 	<portrait_l name="man"/>
 	<sjis>
-		‚ÜA‚¨‚©‚°‚Å•‚©‚Á‚½‚æ<end_line/>
-		‚ ‚è‚ª‚Æ‚¤‚È<end_line/>
+		ã¾ã€ãŠã‹ã’ã§åŠ©ã‹ã£ãŸã‚ˆ<end_line>
+		ã‚ã‚ŠãŒã¨ã†ãª<end_line>
 	</sjis>
+	<ascii>
+		Well, you did save me.<end_line>
+		Thanks for that.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple"/>
 	<portrait_r name="unknown"/>
 	<sjis>
-		—ç‚È‚ñ‚ÄA‚¢‚¢‚ÁƒX‚æ<end_line/>
-		‚ ‚ñ‚È‚Ì‚ÍŒy‚¢‚à‚ñ‚Å‚·‚©‚çI<end_line/>
-		‚È‚º‚È‚çAƒIƒŒ‚Í<three_dots/><end_line/>
+		ç¤¼ãªã‚“ã¦ã€ã„ã„ã£ã‚¹ã‚ˆ<end_line>
+		ã‚ã‚“ãªã®ã¯è»½ã„ã‚‚ã‚“ã§ã™ã‹ã‚‰ï¼<end_line>
+		ãªãœãªã‚‰ã€ã‚ªãƒ¬ã¯<three_dots><end_line>
 	</sjis>
+	<ascii>
+		You don't need to thank me.<end_line>
+		That much was nothing!<end_line>
+		And that's because<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple"/>
 	<portrait_r name="unknown"/>
 	<sjis>
-		–³“G‚Å•sŽ€g‚ÁƒX‚©‚çI<end_line/>
+		ç„¡æ•µã§ä¸æ­»èº«ã£ã‚¹ã‹ã‚‰ï¼<end_line>
 	</sjis>
+	<ascii>
+		I am the strongest, the invincible!<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="left"/>
 	<portrait_l entry="player" eye="serious" mouth="serious"/>
 	<portrait_r entry="partner" eye="decided" mouth="serious"/>
 	<sjis>
-		<three_dots/>s‚Á‚½‚©‚ÈH<end_line/>
+		<three_dots>è¡Œã£ãŸã‹ãªï¼Ÿ<end_line>
 	</sjis>
+	<ascii>
+		<three_dots>Are they gone?<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
@@ -131,8 +182,11 @@
 	<portrait_l entry="player" eye="serious" mouth="serious"/>
 	<portrait_r entry="partner" eye="serious" mouth="serious"/>
 	<sjis>
-		ƒ\ƒmƒˆƒEƒfƒX<end_line/>
+		ã‚½ãƒŽãƒ¨ã‚¦ãƒ‡ã‚¹<end_line>
 	</sjis>
+	<ascii>
+		It Appears So.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
@@ -141,16 +195,20 @@
 	<portrait_r entry="partner" eye="serious" mouth="serious"/>
 	<male>
 		<sjis>
-			‚³‚Á‚«‚ÌƒZƒŠƒt<end_line/>
-			‚È‚ñ‚©AƒAƒjƒL‚Ý‚½‚¢‚¾‚Á‚½‚È<end_line/>
+			ã•ã£ãã®ã‚»ãƒªãƒ•<end_line>
+			ãªã‚“ã‹ã€ã‚¢ãƒ‹ã‚­ã¿ãŸã„ã ã£ãŸãª<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			‚³‚Á‚«‚ÌƒZƒŠƒtA‚È‚ñ‚¾‚©<end_line/>
-			ƒAƒjƒL‚Ý‚½‚¢‚¾‚Á‚½‚¯‚Ç<three_dots/><end_line/>
+			ã•ã£ãã®ã‚»ãƒªãƒ•ã€ãªã‚“ã ã‹<end_line>
+			ã‚¢ãƒ‹ã‚­ã¿ãŸã„ã ã£ãŸã‘ã©<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    That guy<three_dots><end_line>
+    He kind of sounded like Bro.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
@@ -158,9 +216,13 @@
 	<portrait_l entry="player" eye="serious" mouth="tense"/>
 	<portrait_r entry="partner" eye="serious" mouth="neutral"/>
 	<sjis>
-		‚ ‚É‚«H<end_line/>
-		ƒAƒiƒ^ƒm@ƒIŒZƒTƒ“@ƒfƒXƒJH<end_line/>
+		ã‚ã«ãï¼Ÿ<end_line>
+		ã‚¢ãƒŠã‚¿ãƒŽã€€ã‚ªå…„ã‚µãƒ³ã€€ãƒ‡ã‚¹ã‚«ï¼Ÿ<end_line>
 	</sjis>
+	<ascii>
+		Bro?<end_line>
+		Is He Part Of Your Family?<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
@@ -168,10 +230,15 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral"/>
 	<portrait_r entry="partner" eye="serious" mouth="neutral"/>
 	<sjis>
-		‚ A‚»‚¤‚¶‚á‚È‚­‚ÄA‚ ‚¾–¼<three_dots/><end_line/>
-		ƒƒue•û‚Ì—F’B‚¾‚Á‚½l‚¾‚æ<end_line/>
-		’b–èEl‚Ì’j‚Ìl‚È‚ñ‚¾<end_line/>
+		ã‚ã€ãã†ã˜ã‚ƒãªãã¦ã€ã‚ã å<three_dots><end_line>
+		ãƒ­ãƒ–è¦ªæ–¹ã®å‹é”ã ã£ãŸäººã ã‚ˆ<end_line>
+		é›å†¶è·äººã®ç”·ã®äººãªã‚“ã <end_line>
 	</sjis>
+	<ascii>
+		Oh, no, that's just a nickname.<end_line>
+		He's a friend of Master Rob.<end_line>
+    He's a blacksmith.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
@@ -179,10 +246,14 @@
 	<portrait_l entry="player" eye="serious" mouth="tense"/>
 	<portrait_r entry="partner" eye="serious" mouth="neutral"/>
 	<sjis>
-		‚¿‚å‚Á‚Æs‚Á‚½‚Æ‚±‚ë‚É‚ ‚é<end_line/>
-		ƒvƒƒXƒoƒ“‚Á‚Ä’¬‚É‚·‚ñ‚Å‚Ä<end_line/>
-		Ì‚Í‚¢‚Á‚µ‚å‚ÉCs‚à‚µ‚½‚¯‚Ç<three_dots/><end_line/>
+		ã¡ã‚‡ã£ã¨è¡Œã£ãŸã¨ã“ã‚ã«ã‚ã‚‹<end_line>
+		ãƒ—ãƒ­ã‚¹ãƒãƒ³ã£ã¦ç”ºã«ã™ã‚“ã§ã¦<end_line>
+		æ˜”ã¯ã„ã£ã—ã‚‡ã«ä¿®è¡Œã‚‚ã—ãŸã‘ã©<three_dots><end_line>
 	</sjis>
+	<ascii>
+    I trained with him once a<end_line>
+    long time ago in Prosban<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
@@ -190,9 +261,13 @@
 	<portrait_l entry="player" eye="sad" mouth="neutral"/>
 	<portrait_r entry="partner" eye="serious" mouth="neutral"/>
 	<sjis>
-		ƒƒue•û‚ªŽ€‚ñ‚Å‚©‚ç‚Í<end_line/>
-		ˆê“x‚à‰ï‚Á‚Ä‚È‚¢‚È‚Ÿ<three_dots/><end_line/>
+		ãƒ­ãƒ–è¦ªæ–¹ãŒæ­»ã‚“ã§ã‹ã‚‰ã¯<end_line>
+		ä¸€åº¦ã‚‚ä¼šã£ã¦ãªã„ãªã<three_dots><end_line>
 	</sjis>
+	<ascii>
+		But I haven't seen him<end_line>
+		since Master Rob passed away<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
@@ -200,8 +275,11 @@
 	<portrait_l entry="player" eye="sad" mouth="neutral"/>
 	<portrait_r entry="partner" eye="serious" mouth="neutral"/>
 	<sjis>
-		ƒ\ƒmlƒK@ƒ„ƒbƒeƒLƒ^ƒmƒfƒXƒJH<end_line/>
+		ã‚½ãƒŽäººã‚¬ã€€ãƒ¤ãƒƒãƒ†ã‚­ã‚¿ãƒŽãƒ‡ã‚¹ã‚«ï¼Ÿ<end_line>
 	</sjis>
+	<ascii>
+		Why Would He Be Here?<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi"/>
@@ -209,8 +287,11 @@
 	<portrait_l entry="player" eye="serious" mouth="serious"/>
 	<portrait_r entry="partner" eye="serious" mouth="serious"/>
 	<sjis>
-		‚»‚Ì‚æ‚¤‚¶‚á<end_line/>
+		ãã®ã‚ˆã†ã˜ã‚ƒ<end_line>
 	</sjis>
+	<ascii>
+		Looks like it.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi"/>
@@ -219,16 +300,20 @@
 	<portrait_r entry="partner" eye="serious" mouth="serious"/>
 	<male>
 		<sjis>
-			‚³‚Á‚«‚ÌƒZƒŠƒt<end_line/>
-			‚È‚ñ‚©AƒAƒjƒL‚Ý‚½‚¢‚¾‚Á‚½‚È<end_line/>
+			ã•ã£ãã®ã‚»ãƒªãƒ•<end_line>
+			ãªã‚“ã‹ã€ã‚¢ãƒ‹ã‚­ã¿ãŸã„ã ã£ãŸãª<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			‚³‚Á‚«‚ÌƒZƒŠƒtA‚È‚ñ‚¾‚©<end_line/>
-			ƒAƒjƒL‚Ý‚½‚¢‚¾‚Á‚½‚¯‚Ç<three_dots/><end_line/>
+			ã•ã£ãã®ã‚»ãƒªãƒ•ã€ãªã‚“ã ã‹<end_line>
+			ã‚¢ãƒ‹ã‚­ã¿ãŸã„ã ã£ãŸã‘ã©<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    That guy<three_dots><end_line>
+    He kind of sounded like Bro.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi"/>
@@ -236,9 +321,13 @@
 	<portrait_l entry="player" eye="serious" mouth="tense"/>
 	<portrait_r entry="partner" eye="serious" mouth="tense"/>
 	<sjis>
-		ƒAƒjƒLH<end_line/>
-		‚¨‚Ê‚µAŒZ‚ª‚¢‚½‚Ì‚©H<end_line/>
+		ã‚¢ãƒ‹ã‚­ï¼Ÿ<end_line>
+		ãŠã¬ã—ã€å…„ãŒã„ãŸã®ã‹ï¼Ÿ<end_line>
 	</sjis>
+	<ascii>
+		Bro?<end_line>
+		You have a brother?<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi"/>
@@ -246,10 +335,15 @@
 	<portrait_l entry="player" eye="serious" mouth="tense"/>
 	<portrait_r entry="partner" eye="serious" mouth="tense"/>
 	<sjis>
-		‚ A‚»‚¤‚¶‚á‚È‚­‚ÄA‚ ‚¾–¼<three_dots/><end_line/>
-		ƒƒue•û‚Ì—F’B‚¾‚Á‚½l‚¾‚æ<end_line/>
-		’b–èEl‚Ì’j‚Ìl‚È‚ñ‚¾<end_line/>
+		ã‚ã€ãã†ã˜ã‚ƒãªãã¦ã€ã‚ã å<three_dots><end_line>
+		ãƒ­ãƒ–è¦ªæ–¹ã®å‹é”ã ã£ãŸäººã ã‚ˆ<end_line>
+		é›å†¶è·äººã®ç”·ã®äººãªã‚“ã <end_line>
 	</sjis>
+	<ascii>
+		Oh, no, that's just a nickname.<end_line>
+		He's a friend of Master Rob.<end_line>
+    He's a blacksmith.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi"/>
@@ -257,10 +351,14 @@
 	<portrait_l entry="player" eye="serious" mouth="tense"/>
 	<portrait_r entry="partner" eye="serious" mouth="tense"/>
 	<sjis>
-		‚¿‚å‚Á‚Æs‚Á‚½‚Æ‚±‚ë‚É‚ ‚é<end_line/>
-		ƒvƒƒXƒoƒ“‚Á‚Ä’¬‚É‚·‚ñ‚Å‚Ä<end_line/>
-		Ì‚Í‚¢‚Á‚µ‚å‚ÉCs‚à‚µ‚½‚¯‚Ç<three_dots/><end_line/>
+		ã¡ã‚‡ã£ã¨è¡Œã£ãŸã¨ã“ã‚ã«ã‚ã‚‹<end_line>
+		ãƒ—ãƒ­ã‚¹ãƒãƒ³ã£ã¦ç”ºã«ã™ã‚“ã§ã¦<end_line>
+		æ˜”ã¯ã„ã£ã—ã‚‡ã«ä¿®è¡Œã‚‚ã—ãŸã‘ã©<three_dots><end_line>
 	</sjis>
+	<ascii>
+    I trained with him once a<end_line>
+    long time ago in Prosban<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi"/>
@@ -268,9 +366,13 @@
 	<portrait_l entry="player" eye="sad" mouth="neutral"/>
 	<portrait_r entry="partner" eye="serious" mouth="tense"/>
 	<sjis>
-		ƒƒue•û‚ªŽ€‚ñ‚Å‚©‚ç‚Í<end_line/>
-		ˆê“x‚à‰ï‚Á‚Ä‚È‚¢‚È‚Ÿ<three_dots/><end_line/>
+		ãƒ­ãƒ–è¦ªæ–¹ãŒæ­»ã‚“ã§ã‹ã‚‰ã¯<end_line>
+		ä¸€åº¦ã‚‚ä¼šã£ã¦ãªã„ãªã<three_dots><end_line>
 	</sjis>
+	<ascii>
+		But I haven't seen him<end_line>
+		since Master Rob passed away<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi"/>
@@ -278,8 +380,11 @@
 	<portrait_l entry="player" eye="sad" mouth="neutral"/>
 	<portrait_r entry="partner" eye="serious" mouth="serious"/>
 	<sjis>
-		‚»‚ÌƒAƒjƒL‚ª‚â‚Á‚Ä‚«‚½‚Ì‚©‚ÌH<end_line/>
+		ãã®ã‚¢ãƒ‹ã‚­ãŒã‚„ã£ã¦ããŸã®ã‹ã®ï¼Ÿ<end_line>
 	</sjis>
+	<ascii>
+		And you think it's him?<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith"/>
@@ -287,8 +392,11 @@
 	<portrait_l entry="player" eye="serious" mouth="serious"/>
 	<portrait_r entry="partner" eye="serious" mouth="serious"/>
 	<sjis>
-		‚ç‚µ‚¢‚È<end_line/>
+		ã‚‰ã—ã„ãª<end_line>
 	</sjis>
+	<ascii>
+		Seems like it.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith"/>
@@ -297,16 +405,20 @@
 	<portrait_r entry="partner" eye="serious" mouth="serious"/>
 	<male>
 		<sjis>
-			‚³‚Á‚«‚ÌƒZƒŠƒt<end_line/>
-			‚È‚ñ‚©AƒAƒjƒL‚Ý‚½‚¢‚¾‚Á‚½‚È<end_line/>
+			ã•ã£ãã®ã‚»ãƒªãƒ•<end_line>
+			ãªã‚“ã‹ã€ã‚¢ãƒ‹ã‚­ã¿ãŸã„ã ã£ãŸãª<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			‚³‚Á‚«‚ÌƒZƒŠƒtA‚È‚ñ‚¾‚©<end_line/>
-			ƒAƒjƒL‚Ý‚½‚¢‚¾‚Á‚½‚¯‚Ç<three_dots/><end_line/>
+			ã•ã£ãã®ã‚»ãƒªãƒ•ã€ãªã‚“ã ã‹<end_line>
+			ã‚¢ãƒ‹ã‚­ã¿ãŸã„ã ã£ãŸã‘ã©<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    That guy<three_dots><end_line>
+    He kind of sounded like Bro.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith"/>
@@ -314,9 +426,13 @@
 	<portrait_l entry="player" eye="serious" mouth="tense"/>
 	<portrait_r entry="partner" eye="serious" mouth="tense"/>
 	<sjis>
-		ƒAƒjƒL<three_dots/>H<end_line/>
-		ƒLƒTƒ}AŒZ‚ª‚¢‚½‚Ì‚©<end_line/>
+		ã‚¢ãƒ‹ã‚­<three_dots>ï¼Ÿ<end_line>
+		ã‚­ã‚µãƒžã€å…„ãŒã„ãŸã®ã‹<end_line>
 	</sjis>
+	<ascii>
+		Bro<three_dots>ï¼Ÿ<end_line>
+		So you have a brother?<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith"/>
@@ -324,10 +440,15 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral"/>
 	<portrait_r entry="partner" eye="serious" mouth="tense"/>
 	<sjis>
-		‚ A‚»‚¤‚¶‚á‚È‚­‚ÄA‚ ‚¾–¼<three_dots/><end_line/>
-		ƒƒue•û‚Ì—F’B‚¾‚Á‚½l‚¾‚æ<end_line/>
-		’b–èEl‚Ì’j‚Ìl‚È‚ñ‚¾<end_line/>
+		ã‚ã€ãã†ã˜ã‚ƒãªãã¦ã€ã‚ã å<three_dots><end_line>
+		ãƒ­ãƒ–è¦ªæ–¹ã®å‹é”ã ã£ãŸäººã ã‚ˆ<end_line>
+		é›å†¶è·äººã®ç”·ã®äººãªã‚“ã <end_line>
 	</sjis>
+	<ascii>
+		Oh, no, that's just a nickname.<end_line>
+		He's a friend of Master Rob.<end_line>
+    He's a blacksmith.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith"/>
@@ -335,10 +456,14 @@
 	<portrait_l entry="player" eye="serious" mouth="tense"/>
 	<portrait_r entry="partner" eye="serious" mouth="tense"/>
 	<sjis>
-		‚¿‚å‚Á‚Æs‚Á‚½‚Æ‚±‚ë‚É‚ ‚é<end_line/>
-		ƒvƒƒXƒoƒ“‚Á‚Ä’¬‚É‚·‚ñ‚Å‚Ä<end_line/>
-		Ì‚Í‚¢‚Á‚µ‚å‚ÉCs‚à‚µ‚½‚¯‚Ç<three_dots/><end_line/>
+		ã¡ã‚‡ã£ã¨è¡Œã£ãŸã¨ã“ã‚ã«ã‚ã‚‹<end_line>
+		ãƒ—ãƒ­ã‚¹ãƒãƒ³ã£ã¦ç”ºã«ã™ã‚“ã§ã¦<end_line>
+		æ˜”ã¯ã„ã£ã—ã‚‡ã«ä¿®è¡Œã‚‚ã—ãŸã‘ã©<three_dots><end_line>
 	</sjis>
+	<ascii>
+    I trained with him once a<end_line>
+    long time ago in Prosban<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith"/>
@@ -346,9 +471,13 @@
 	<portrait_l entry="player" eye="sad" mouth="neutral"/>
 	<portrait_r entry="partner" eye="serious" mouth="tense"/>
 	<sjis>
-		ƒƒue•û‚ªŽ€‚ñ‚Å‚©‚ç‚Í<end_line/>
-		ˆê“x‚à‰ï‚Á‚Ä‚È‚¢‚È‚Ÿ<three_dots/><end_line/>
+		ãƒ­ãƒ–è¦ªæ–¹ãŒæ­»ã‚“ã§ã‹ã‚‰ã¯<end_line>
+		ä¸€åº¦ã‚‚ä¼šã£ã¦ãªã„ãªã<three_dots><end_line>
 	</sjis>
+	<ascii>
+		But I haven't seen him<end_line>
+		since Master Rob passed away<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith"/>
@@ -356,8 +485,11 @@
 	<portrait_l entry="player" eye="sad" mouth="neutral"/>
 	<portrait_r entry="partner" eye="serious" mouth="neutral"/>
 	<sjis>
-		‚»‚¢‚Â‚ª—ˆ‚½‚Ì‚©H<end_line/>
+		ãã„ã¤ãŒæ¥ãŸã®ã‹ï¼Ÿ<end_line>
 	</sjis>
+  <ascii>
+    And he's here?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel"/>
@@ -365,8 +497,11 @@
 	<portrait_l entry="player" eye="sad" mouth="neutral"/>
 	<portrait_r entry="partner" eye="serious" mouth="neutral"/>
 	<sjis>
-		‚Ý‚½‚¢‚Å‚·‚Ë<end_line/>
+		ã¿ãŸã„ã§ã™ã­<end_line>
 	</sjis>
+  <ascii>
+    So it seems.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel"/>
@@ -375,16 +510,20 @@
 	<portrait_r entry="partner" eye="serious" mouth="neutral"/>
 	<male>
 		<sjis>
-			‚³‚Á‚«‚ÌƒZƒŠƒt<end_line/>
-			‚È‚ñ‚©AƒAƒjƒL‚Ý‚½‚¢‚¾‚Á‚½‚È<end_line/>
+			ã•ã£ãã®ã‚»ãƒªãƒ•<end_line>
+			ãªã‚“ã‹ã€ã‚¢ãƒ‹ã‚­ã¿ãŸã„ã ã£ãŸãª<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			‚³‚Á‚«‚ÌƒZƒŠƒtA‚È‚ñ‚¾‚©<end_line/>
-			ƒAƒjƒL‚Ý‚½‚¢‚¾‚Á‚½‚¯‚Ç<three_dots/><end_line/>
+			ã•ã£ãã®ã‚»ãƒªãƒ•ã€ãªã‚“ã ã‹<end_line>
+			ã‚¢ãƒ‹ã‚­ã¿ãŸã„ã ã£ãŸã‘ã©<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    That guy<three_dots><end_line>
+    He kind of sounded like Bro.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel"/>
@@ -392,10 +531,14 @@
 	<portrait_l entry="player" eye="serious" mouth="tense"/>
 	<portrait_r entry="partner" eye="serious" mouth="tense"/>
 	<sjis>
-		ƒAƒjƒLH<end_line/>
-		‚ ‚È‚½‚É‚à‚¨ŒZ‚³‚ñ‚ª<end_line/>
-		‚¢‚½‚ñ‚Å‚·‚©H<end_line/>
+		ã‚¢ãƒ‹ã‚­ï¼Ÿ<end_line>
+		ã‚ãªãŸã«ã‚‚ãŠå…„ã•ã‚“ãŒ<end_line>
+		ã„ãŸã‚“ã§ã™ã‹ï¼Ÿ<end_line>
 	</sjis>
+  <ascii>
+    Bro?<end_line>
+    You had a brother?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel"/>
@@ -403,10 +546,15 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral"/>
 	<portrait_r entry="partner" eye="serious" mouth="tense"/>
 	<sjis>
-		‚ A‚»‚¤‚¶‚á‚È‚­‚ÄA‚ ‚¾–¼<three_dots/><end_line/>
-		ƒƒue•û‚Ì—F’B‚¾‚Á‚½l‚¾‚æ<end_line/>
-		’b–èEl‚Ì’j‚Ìl‚È‚ñ‚¾<end_line/>
+		ã‚ã€ãã†ã˜ã‚ƒãªãã¦ã€ã‚ã å<three_dots><end_line>
+		ãƒ­ãƒ–è¦ªæ–¹ã®å‹é”ã ã£ãŸäººã ã‚ˆ<end_line>
+		é›å†¶è·äººã®ç”·ã®äººãªã‚“ã <end_line>
 	</sjis>
+	<ascii>
+		Oh, no, that's just a nickname.<end_line>
+		He's a friend of Master Rob.<end_line>
+    He's a blacksmith.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel"/>
@@ -414,10 +562,14 @@
 	<portrait_l entry="player" eye="serious" mouth="tense"/>
 	<portrait_r entry="partner" eye="serious" mouth="tense"/>
 	<sjis>
-		‚¿‚å‚Á‚Æs‚Á‚½‚Æ‚±‚ë‚É‚ ‚é<end_line/>
-		ƒvƒƒXƒoƒ“‚Á‚Ä’¬‚É‚·‚ñ‚Å‚Ä<end_line/>
-		Ì‚Í‚¢‚Á‚µ‚å‚ÉCs‚à‚µ‚½‚¯‚Ç<three_dots/><end_line/>
+		ã¡ã‚‡ã£ã¨è¡Œã£ãŸã¨ã“ã‚ã«ã‚ã‚‹<end_line>
+		ãƒ—ãƒ­ã‚¹ãƒãƒ³ã£ã¦ç”ºã«ã™ã‚“ã§ã¦<end_line>
+		æ˜”ã¯ã„ã£ã—ã‚‡ã«ä¿®è¡Œã‚‚ã—ãŸã‘ã©<three_dots><end_line>
 	</sjis>
+	<ascii>
+    I trained with him once a<end_line>
+    long time ago in Prosban<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel"/>
@@ -425,9 +577,13 @@
 	<portrait_l entry="player" eye="sad" mouth="neutral"/>
 	<portrait_r entry="partner" eye="serious" mouth="tense"/>
 	<sjis>
-		ƒƒue•û‚ªŽ€‚ñ‚Å‚©‚ç‚Í<end_line/>
-		ˆê“x‚à‰ï‚Á‚Ä‚È‚¢‚È‚Ÿ<three_dots/><end_line/>
+		ãƒ­ãƒ–è¦ªæ–¹ãŒæ­»ã‚“ã§ã‹ã‚‰ã¯<end_line>
+		ä¸€åº¦ã‚‚ä¼šã£ã¦ãªã„ãªã<three_dots><end_line>
 	</sjis>
+	<ascii>
+		But I haven't seen him<end_line>
+		since Master Rob passed away<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel"/>
@@ -435,55 +591,83 @@
 	<portrait_l entry="player" eye="sad" mouth="neutral"/>
 	<portrait_r entry="partner" eye="serious" mouth="tense"/>
 	<sjis>
-		‚»‚ÌƒAƒjƒL‚³‚ñ‚ª<end_line/>
-		‚â‚Á‚Ä‚«‚½‚ñ‚Å‚·‚©H<end_line/>
+		ãã®ã‚¢ãƒ‹ã‚­ã•ã‚“ãŒ<end_line>
+		ã‚„ã£ã¦ããŸã‚“ã§ã™ã‹ï¼Ÿ<end_line>
 	</sjis>
+	<ascii>
+		And you think he is here?<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="left"/>
 	<portrait_l entry="player" eye="decided" mouth="neutral"/>
 	<portrait_r entry="partner" eye="serious" mouth="tense"/>
 	<sjis>
-		‚í‚©‚ñ‚È‚¢‚¯‚Ç<three_dots/><end_line/>
-		¡‚Í‚Æ‚É‚©‚­<end_line/>
-		‚Í‚®‚ê‘ÞŽ¡‚És‚±‚¤I<end_line/>
+		ã‚ã‹ã‚“ãªã„ã‘ã©<three_dots><end_line>
+		ä»Šã¯ã¨ã«ã‹ã<end_line>
+		ã¯ãã‚Œé€€æ²»ã«è¡Œã“ã†ï¼<end_line>
 	</sjis>
+	<ascii>
+		I don't know<three_dots><end_line>
+		Anyway, right now we need<end_line>
+    to take care of that Stray!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="nobox"/>
 	<male>
 		<sjis>
-			‚³‚Á‚«‚ÌƒZƒŠƒt<end_line/>
-			‚È‚ñ‚©AƒAƒjƒL‚Ý‚½‚¢‚¾‚Á‚½‚È<end_line/>
+			ã•ã£ãã®ã‚»ãƒªãƒ•<end_line>
+			ãªã‚“ã‹ã€ã‚¢ãƒ‹ã‚­ã¿ãŸã„ã ã£ãŸãª<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			‚³‚Á‚«‚ÌƒZƒŠƒtA‚È‚ñ‚¾‚©<end_line/>
-			ƒAƒjƒL‚Ý‚½‚¢‚¾‚Á‚½‚¯‚Ç<three_dots/><end_line/>
+			ã•ã£ãã®ã‚»ãƒªãƒ•ã€ãªã‚“ã ã‹<end_line>
+			ã‚¢ãƒ‹ã‚­ã¿ãŸã„ã ã£ãŸã‘ã©<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    That guy<three_dots><end_line>
+    He kind of sounded like Bro.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="nobox"/>
 	<sjis>
-		‚ A‚»‚¤‚¶‚á‚È‚­‚ÄA‚ ‚¾–¼<three_dots/><end_line/>
-		ƒƒue•û‚Ì—F’B‚¾‚Á‚½l‚¾‚æ<end_line/>
-		’b–èEl‚Ì’j‚Ìl‚È‚ñ‚¾<end_line/>
+		ã‚ã€ãã†ã˜ã‚ƒãªãã¦ã€ã‚ã å<three_dots><end_line>
+		ãƒ­ãƒ–è¦ªæ–¹ã®å‹é”ã ã£ãŸäººã ã‚ˆ<end_line>
+		é›å†¶è·äººã®ç”·ã®äººãªã‚“ã <end_line>
 	</sjis>
+	<ascii>
+		Oh, no, that's just a nickname.<end_line>
+		He's a friend of Master Rob.<end_line>
+    He's a blacksmith.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="nobox"/>
 	<sjis>
-		‚¿‚å‚Á‚Æs‚Á‚½‚Æ‚±‚ë‚É‚ ‚é<end_line/>
-		ƒvƒƒXƒoƒ“‚Á‚Ä’¬‚É‚·‚ñ‚Å‚Ä<end_line/>
-		Ì‚Í‚¢‚Á‚µ‚å‚ÉCs‚à‚µ‚½‚¯‚Ç<three_dots/><end_line/>
+		ã¡ã‚‡ã£ã¨è¡Œã£ãŸã¨ã“ã‚ã«ã‚ã‚‹<end_line>
+		ãƒ—ãƒ­ã‚¹ãƒãƒ³ã£ã¦ç”ºã«ã™ã‚“ã§ã¦<end_line>
+		æ˜”ã¯ã„ã£ã—ã‚‡ã«ä¿®è¡Œã‚‚ã—ãŸã‘ã©<three_dots><end_line>
 	</sjis>
+	<ascii>
+    I trained with him once a<end_line>
+    long time ago in Prosban<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="nobox"/>
 	<sjis>
-		ƒƒue•û‚ªŽ€‚ñ‚Å‚©‚ç‚Í<end_line/>
-		ˆê“x‚à‰ï‚Á‚Ä‚È‚¢‚È‚Ÿ<three_dots/><end_line/>
+		ãƒ­ãƒ–è¦ªæ–¹ãŒæ­»ã‚“ã§ã‹ã‚‰ã¯<end_line>
+		ä¸€åº¦ã‚‚ä¼šã£ã¦ãªã„ãªã<three_dots><end_line>
 	</sjis>
+	<ascii>
+		But I haven't seen him<end_line>
+		since Master Rob passed away<three_dots><end_line>
+	</ascii>
 </dialogue>
+
+
+

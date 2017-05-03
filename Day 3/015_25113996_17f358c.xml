@@ -6,7 +6,7 @@
 		出かける準備はできたかい？<end_line/>
 	</sjis>
 	<ascii>
-		Are you ready to leave?<end_line/>
+		Ready to leave?<end_line/>
 	</ascii>
 </dialogue>
 <choice>
@@ -38,8 +38,8 @@
 		ミューノもいいね<end_line/>
 	</sjis>
 	<ascii>
-		Then, let's get going.<end_line/>
-		You're okay too, right Murno?<end_line/>
+		Good, let's get going.<end_line/>
+		Murno?<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -50,7 +50,7 @@
 		はい<end_line/>
 	</sjis>
 	<ascii>
-		Yes. Definitely.<end_line/>
+		Yes.<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -63,7 +63,7 @@
 	</sjis>
 	<ascii>
 		We're counting on you two,<end_line/> 
-		<player_nickname> and <partner>.<end_line/>
+		<player_nickname>, <partner>.<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -99,8 +99,9 @@
 		ミューノは守り抜くと誓おう！<end_line/>
 	</sjis>
 	<ascii>
-		I swear on this topknot,<end_line/>
-		we'll protect Murno to the very end!<end_line/>
+		I swear upon my topknot,<end_line/>
+		we will protect Murno<end_line/>
+    to the very end!<end_line/>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -162,6 +163,3 @@
 		</ascii>
 	</female>
 </dialogue>
-
-
-

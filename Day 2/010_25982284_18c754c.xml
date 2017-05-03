@@ -2,328 +2,485 @@
 	<info box="simple"/>
 	<portrait_l name="zenichi"/>
 	<sjis>
-		���V�̖��̓[���C�`����<end_line/>
+		ワシの名はゼンイチじゃ<end_line>
 	</sjis>
+	<ascii>
+		My name is Zenichi.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple"/>
 	<portrait_l name="zenichi"/>
 	<sjis>
-		���V�͎Ⴂ����<end_line/>
-		�ыƂ�����Ă����Ă�<end_line/>
+		ワシは若いころ<end_line>
+		林業をやっておってな<end_line>
 	</sjis>
+	<ascii>
+		When I was young,<end_line>
+		I was in the forestry industry.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple"/>
 	<portrait_l name="zenichi"/>
 	<sjis>
-		�d�����q�}�ȂƂ���<end_line/>
-		�X�⓴�A�ɂ���ؔ��Ȃǂ�<end_line/>
-		�������ς�����A���킵�Ă�������<end_line/>
+		仕事がヒマなときは<end_line>
+		森や洞窟にある木箱などを<end_line>
+		かたっぱしから、こわしておったわ<end_line>
 	</sjis>
+	<ascii>
+		If I had free time,<end_line>
+		I would break all the boxes<end_line>
+		I could find in forests and caves.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple"/>
 	<portrait_l name="zenichi"/>
 	<sjis>
-		���ꂪ���\�A�y�����񂶂��<end_line/>
-		�ǂ�����H<end_line/>
-		���O��������킵�Ă݂Ȃ����H<end_line/>
+		これが結構、楽しいんじゃよ<end_line>
+		どうじゃ？<end_line>
+		お前さんも挑戦してみないか？<end_line>
 	</sjis>
+	<ascii>
+		It's pretty fun,<end_line>
+		so how about it?<end_line>
+		You wanna take the challenge?<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple"/>
 	<portrait_l name="zenichi"/>
 	<sjis>
-		�X�⓴�A�ɂ���^����ؔ��Ȃǂ�<end_line/>
-		��C�ɂ��킷���Ƃ��ł�����<end_line/>
-		�ꏊ���Ƃɗǂ����m����邼<end_line/>
+		森や洞窟にあるタルや木箱などを<end_line>
+		一気にこわすことができたら<end_line>
+		場所ごとに良いモノをやるぞ<end_line>
 	</sjis>
+	<ascii>
+		If you can break all the barrels<end_line>
+		and boxes in areas in one go,<end_line>
+		I'll give you a prize for each area.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple"/>
 	<portrait_l name="zenichi"/>
 	<sjis>
-		���O�̂��Ƃ�<end_line/>
-		�킩�畷���Ă���<end_line/>
-		���ɐ�������K�v�͂Ȃ���<end_line/>
+		お前のことは<end_line>
+		弟から聞いておる<end_line>
+		特に説明する必要はないな<end_line>
 	</sjis>
+	<ascii>
+		I heard about you<end_line>
+		from my little brother.<end_line>
+		No need to say anything.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple"/>
 	<portrait_l name="zenzou"/>
 	<sjis>
-		���V�̖��̓[���]�E����<end_line/>
+		ワシの名はゼンゾウじゃ<end_line>
 	</sjis>
+	<ascii>
+		My name is Zenzou.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple"/>
 	<portrait_l name="zenzou"/>
 	<sjis>
-		���V�͎Ⴂ����<end_line/>
-		�ыƂ�����Ă����Ă�<end_line/>
+		ワシは若いころ<end_line>
+		林業をやっておってな<end_line>
 	</sjis>
+	<ascii>
+		When I was young,<end_line>
+		I was in the forestry industry.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple"/>
 	<portrait_l name="zenzou"/>
 	<sjis>
-		�d�����q�}�ȂƂ���<end_line/>
-		�X�⓴�A�ɂ���ؔ��Ȃǂ�<end_line/>
-		�������ς�����A���킵�Ă�������<end_line/>
+		仕事がヒマなときは<end_line>
+		森や洞窟にある木箱などを<end_line>
+		かたっぱしから、こわしておったわ<end_line>
 	</sjis>
+	<ascii>
+		If I had free time,<end_line>
+		I would break all the boxes<end_line>
+		I could find in forests and caves.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple"/>
 	<portrait_l name="zenzou"/>
 	<sjis>
-		���ꂪ���\�A�y�����񂶂��<end_line/>
-		�ǂ�����H<end_line/>
-		���O��������킵�Ă݂Ȃ����H<end_line/>
+		これが結構、楽しいんじゃよ<end_line>
+		どうじゃ？<end_line>
+		お前さんも挑戦してみないか？<end_line>
 	</sjis>
+	<ascii>
+		It's pretty fun,<end_line>
+		so how about it?<end_line>
+		You wanna take the challenge?<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple"/>
 	<portrait_l name="zenzou"/>
 	<sjis>
-		�X�⓴�A�ɂ���^����ؔ��Ȃǂ�<end_line/>
-		��C�ɂ��킷���Ƃ��ł�����<end_line/>
-		�ꏊ���Ƃɗǂ����m����邼<end_line/>
+		森や洞窟にあるタルや木箱などを<end_line>
+		一気にこわすことができたら<end_line>
+		場所ごとに良いモノをやるぞ<end_line>
 	</sjis>
+	<ascii>
+		If you can break all the barrels<end_line>
+		and boxes in areas in one go,<end_line>
+		I'll give you a prize for each area.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple"/>
 	<portrait_l name="zenzou"/>
 	<sjis>
-		���O����ɉ�̂�<end_line/>
-		�͂��߂Ă��Ⴊ<end_line/>
-		�N���l�Ⴂ�ł͂Ȃ���<end_line/>
+		お前さんに会うのは<end_line>
+		はじめてじゃが<end_line>
+		誰か人違いではないか<end_line>
 	</sjis>
+	<ascii>
+		Hm, it's the first time we've met,<end_line>
+		but you seem to recognize me.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple"/>
 	<portrait_l name="zenzou"/>
 	<sjis>
-		�ف`�ف`�A�����̓��V�̌Z����<end_line/>
+		ほ～ほ～、そいつはワシの兄じゃ<end_line>
 	</sjis>
+	<ascii>
+		Hoho~, it seems you met my brother.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple"/>
 	<portrait_l name="zenzou"/>
 	<sjis>
-		���Ⴀ�A��������K�v�͂Ȃ���<end_line/>
+		じゃあ、説明する必要はないな<end_line>
+	</sjis>
+	<ascii>
+		Then I won't need to explain.<end_line>
+	</ascii>
+</dialogue>
+<dialogue>
+	<info box="simple"/>
+	<portrait_l name="zenji"/>
+	<sjis>
+		ワシの名はゼンジじゃ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple"/>
 	<portrait_l name="zenji"/>
 	<sjis>
-		���V�̖��̓[���W����<end_line/>
+		ワシは若いころ<end_line>
+		林業をやっておってな<end_line>
 	</sjis>
+	<ascii>
+		When I was young,<end_line>
+		I was in the forestry industry.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple"/>
 	<portrait_l name="zenji"/>
 	<sjis>
-		���V�͎Ⴂ����<end_line/>
-		�ыƂ�����Ă����Ă�<end_line/>
+		仕事がヒマなときは<end_line>
+		森や洞窟にある木箱などを<end_line>
+		かたっぱしから、こわしておったわ<end_line>
 	</sjis>
+	<ascii>
+		If I had free time,<end_line>
+		I would break all the boxes<end_line>
+		I could find in forests and caves.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple"/>
 	<portrait_l name="zenji"/>
 	<sjis>
-		�d�����q�}�ȂƂ���<end_line/>
-		�X�⓴�A�ɂ���ؔ��Ȃǂ�<end_line/>
-		�������ς�����A���킵�Ă�������<end_line/>
+		これが結構、楽しいんじゃよ<end_line>
+		どうじゃ？<end_line>
+		お前さんも挑戦してみないか？<end_line>
 	</sjis>
+	<ascii>
+		It's pretty fun,<end_line>
+		so how about it?<end_line>
+		You wanna take the challenge?<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple"/>
 	<portrait_l name="zenji"/>
 	<sjis>
-		���ꂪ���\�A�y�����񂶂��<end_line/>
-		�ǂ�����H<end_line/>
-		���O��������킵�Ă݂Ȃ����H<end_line/>
+		森や洞窟にあるタルや木箱などを<end_line>
+		一気にこわすことができたら<end_line>
+		場所ごとに良いモノをやるぞ<end_line>
 	</sjis>
+	<ascii>
+		If you can break all the barrels<end_line>
+		and boxes in areas in one go,<end_line>
+		I'll give you a prize for each area.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple"/>
 	<portrait_l name="zenji"/>
 	<sjis>
-		�X�⓴�A�ɂ���^����ؔ��Ȃǂ�<end_line/>
-		��C�ɂ��킷���Ƃ��ł�����<end_line/>
-		�ꏊ���Ƃɗǂ����m����邼<end_line/>
+		お前のことは<end_line>
+		兄弟から聞いておる<end_line>
+		特に説明する必要はないな<end_line>
 	</sjis>
-</dialogue>
-<dialogue>
-	<info box="simple"/>
-	<portrait_l name="zenji"/>
-	<sjis>
-		���O�̂��Ƃ�<end_line/>
-		�Z�킩�畷���Ă���<end_line/>
-		���ɐ�������K�v�͂Ȃ���<end_line/>
-	</sjis>
+	<ascii>
+		I've heard of you from my brothers.<end_line>
+		It seems there's no need to explain.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple"/>
 	<portrait_l name="zentatsu"/>
 	<sjis>
-		���V�̖��̓[���^�c����<end_line/>
+		ワシの名はゼンタツじゃ<end_line>
 	</sjis>
+	<ascii>
+		My name is Zentatsu.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple"/>
 	<portrait_l name="zentatsu"/>
 	<sjis>
-		�����`���񌩂��Ė����<end_line/>
-		�ᕟ�A�ᕟ<end_line/>
+		ええ～もん見せて貰った<end_line>
+		眼福、眼福<end_line>
 	</sjis>
+	<ascii>
+		I got you to show me something good~<end_line>
+		Quite the sight.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple"/>
 	<portrait_l name="zentatsu"/>
 	<sjis>
-		���傪�A�`����<three_dots/><end_line/>
+		お主が、伝説の<three_dots><end_line>
 	</sjis>
+	<ascii>
+		You're the legendary<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple"/>
 	<portrait_l name="zentatsu"/>
 	<sjis>
-		���q�B���畷���Ă���<end_line/>
-		�������낤<end_line/>
+		息子達から聞いておる<end_line>
+		これをやろう<end_line>
 	</sjis>
+	<ascii>
+		Ah, I've heard of you from my sons.<end_line>
+		I will give you this.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple"/>
 	<portrait_l name="zentatsu"/>
 	<sjis>
-		�ӂ��`�����̂�<end_line/>
+		ふぁ～眠いのう<end_line>
 	</sjis>
+	<ascii>
+		*yawn*~ I'm tired.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple"/>
 	<portrait_l name="zentatsu"/>
 	<sjis>
-		�}�j�O�̌@��ɂ�����̂�<end_line/>
+		マニグ採掘場にあるものを<end_line>
 	</sjis>
+	<ascii>
+		Manig Mine's<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple"/>
 	<portrait_l name="zentatsu"/>
 	<sjis>
-		�f�B�b�N���z���ɂ�����̂�<end_line/>
+		ディックル鉱洞にあるものを<end_line>
 	</sjis>
+	<ascii>
+		Deikle Mine's<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple"/>
 	<portrait_l name="zentatsu"/>
 	<sjis>
-		�o�W�����̐X�ɂ�����̂�<end_line/>
+		バジャンの森にあるものを<end_line>
 	</sjis>
+	<ascii>
+		Vajan Forest's<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple"/>
 	<portrait_l name="zentatsu"/>
 	<sjis>
-		�R���V�[���̐X�ɂ�����̂�<end_line/>
+		コンシールの森にあるものを<end_line>
 	</sjis>
+	<ascii>
+		Consheel Forest's<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple"/>
 	<portrait_l name="zentatsu"/>
 	<sjis>
-		�s���r�b�N�̐X�ɂ�����̂�<end_line/>
+		ピュビックの森にあるものを<end_line>
 	</sjis>
+	<ascii>
+		Pyubick Forest's<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple"/>
 	<portrait_l name="zentatsu"/>
 	<sjis>
-		�����[�g��A�ɂ�����̂�<end_line/>
+		リュート岩窟にあるものを<end_line>
 	</sjis>
+	<ascii>
+		Lute Cave's<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple"/>
 	<portrait_l name="zentatsu"/>
 	<sjis>
-		�x���[�g�̐X�ɂ�����̂�<end_line/>
+		ベリートの森にあるものを<end_line>
 	</sjis>
+	<ascii>
+		Beleet Forest's<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple"/>
 	<portrait_l name="zentatsu"/>
 	<sjis>
-		�t���[�h���A�ɂ�����̂�<end_line/>
+		フラード洞窟にあるものを<end_line>
 	</sjis>
+	<ascii>
+		Hulard Cave's<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple"/>
 	<portrait_l name="zentatsu"/>
 	<sjis>
-		�X�����W�̌@��ɂ�����̂�<end_line/>
+		スレンジ採掘場にあるものを<end_line>
 	</sjis>
+	<ascii>
+		Slenh Mine's<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple"/>
 	<portrait_l name="zentatsu"/>
 	<sjis>
-		�X�|�[�g���A�ɂ�����̂�<end_line/>
+		スポート洞窟にあるものを<end_line>
 	</sjis>
+	<ascii>
+		Sport Cave's<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple"/>
 	<portrait_l name="zentatsu"/>
 	<sjis>
-		�~�V���[�X�̔p�Ђɂ�����̂�<end_line/>
+		ミシュースの廃墟にあるものを<end_line>
 	</sjis>
+	<ascii>
+		Mishus Ruins'<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple"/>
 	<portrait_l name="zentatsu"/>
 	<sjis>
-		�X�⓴�A�ɂ�����̂�<end_line/>
-		���ׂĂ��킵�Ă��܂��Ƃ�<three_dots/><end_line/>
-		�Ȃ��Ȃ����̂�<end_line/>
+		森や洞窟にあるものを<end_line>
+		すべてこわしてしまうとは<three_dots><end_line>
+		なかなかやるのう<end_line>
 	</sjis>
+	<ascii>
+		All the objects in the<end_line>
+		forests and caves are broken.<end_line>
+		You've done well.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple"/>
 	<portrait_l name="zentatsu"/>
 	<sjis>
-		����A�܂����`����<three_dots/><end_line/>
+		お主、まさか伝説の<three_dots><end_line>
 	</sjis>
+	<ascii>
+		Could you be the legendary<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple"/>
 	<portrait_l name="zentatsu"/>
 	<sjis>
-		�E�E�E�E�E<end_line/>
-		��H<end_line/>
+		・・・・・<end_line>
+		ん？<end_line>
 	</sjis>
+	<ascii>
+		.....<end_line>
+		Hm?<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple"/>
 	<portrait_l name="zentatsu"/>
 	<sjis>
-		���ɂȂɂ��ڐV��������<end_line/>
-		�Ȃ����������<end_line/>
+		特になにも目新しい事は<end_line>
+		なさそうじゃな<end_line>
 	</sjis>
+	<ascii>
+		Doesn't seem like there's<end_line>
+		anything new here.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple"/>
 	<portrait_l name="zentatsu"/>
 	<sjis>
-		���ׂĂ��킵���悤�����<end_line/>
-		�������낤<end_line/>
+		すべてこわしたようじゃな<end_line>
+		これをやろう<end_line>
 	</sjis>
+	<ascii>
+		Looks like you've broken everything.<end_line>
+		So I will give you this.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="special"/>
 	<sjis>
-		�u�ϐ�`�P�b�g�v����������Ԃ�<end_line/>
-		�Z�[�u���s�����ƂŁA���܂�������<end_line/>
-		�u���o�g���A�^�b�N�v���ǉ�����܂�<end_line/>
+		「観戦チケット」を持った状態で<end_line>
+		セーブを行うことで、おまけ条件に<end_line>
+		「超バトルアタック」が追加されます<end_line>
 	</sjis>
+	<ascii>
+		Save with an observation ticket, and<end_line>
+		"Super Battle Attack"<end_line>
+		will be unlocked in extras.<end_line>
+	</ascii>
 </dialogue>

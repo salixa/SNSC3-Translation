@@ -2,8 +2,11 @@
 	<info box="right"/>
 	<portrait_r entry="partner" eye="decided" mouth="serious"/>
 	<sjis>
-		<three_dots/><end_line/>
+		<three_dots><end_line>
 	</sjis>
+	<ascii>
+		<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="left"/>
@@ -11,16 +14,20 @@
 	<portrait_r entry="partner" eye="decided" mouth="serious"/>
 	<male>
 		<sjis>
-			‚¿‚å‚Á‚ÆA<partner><end_line/>
-			‚Ç‚¤‚µ‚½‚ñ‚¾H<end_line/>
+			ã¡ã‚‡ã£ã¨ã€<partner><end_line>
+			ã©ã†ã—ãŸã‚“ã ï¼Ÿ<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			‚¿‚å‚Á‚ÆA<partner><end_line/>
-			‚Ç‚¤‚µ‚½‚ÌH<end_line/>
+			ã¡ã‚‡ã£ã¨ã€<partner><end_line>
+			ã©ã†ã—ãŸã®ï¼Ÿ<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Hey <partner>,<end_line>
+    what's wrong?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor"/>
@@ -28,10 +35,15 @@
 	<portrait_l entry="player" eye="serious" mouth="tense"/>
 	<portrait_r entry="partner" eye="decided" mouth="tense"/>
 	<sjis>
-		Ž„ƒ^ƒ`ƒmÕƒ’@ƒcƒPƒeƒCƒ‹ƒˆƒEƒi<end_line/>
-		“®ƒLƒ’ƒXƒ‹@l•¨ƒ’<end_line/>
-		‚¹‚ñ‚³[ƒj@ƒgƒ‰ƒGƒ^ƒmƒfƒXƒK<three_dots/><end_line/>
+		ç§ã‚¿ãƒãƒŽè·¡ãƒ²ã€€ãƒ„ã‚±ãƒ†ã‚¤ãƒ«ãƒ¨ã‚¦ãƒŠ<end_line>
+		å‹•ã‚­ãƒ²ã‚¹ãƒ«ã€€äººç‰©ãƒ²<end_line>
+		ã›ã‚“ã•ãƒ¼ãƒ‹ã€€ãƒˆãƒ©ã‚¨ã‚¿ãƒŽãƒ‡ã‚¹ã‚¬<three_dots><end_line>
 	</sjis>
+	<ascii>
+    My Sensors Have Detected<end_line>
+    Movement Behind Us.<end_line>
+    Someone Must Be Following Us.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi"/>
@@ -39,10 +51,14 @@
 	<portrait_l entry="player" eye="serious" mouth="tense"/>
 	<portrait_r entry="partner" eye="decided" mouth="tense"/>
 	<sjis>
-		’N‚©‚ª‚Â‚¢‚Ä‚«‚Ä‚¢‚é‚æ‚¤‚È<end_line/>
-		‹C”z‚ðŠ´‚¶‚½‚Ì‚¶‚á‚ª<three_dots/><end_line/>
-		‚Å‚«‚é<three_dots/>A‹C”z‚ðÁ‚µ‚¨‚Á‚½<end_line/>
+		èª°ã‹ãŒã¤ã„ã¦ãã¦ã„ã‚‹ã‚ˆã†ãª<end_line>
+		æ°—é…ã‚’æ„Ÿã˜ãŸã®ã˜ã‚ƒãŒ<three_dots><end_line>
+		ã§ãã‚‹<three_dots>ã€æ°—é…ã‚’æ¶ˆã—ãŠã£ãŸ<end_line>
 	</sjis>
+	<ascii>
+		I felt a presence that<end_line>
+		seems to be following us<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith"/>
@@ -50,10 +66,15 @@
 	<portrait_l entry="player" eye="serious" mouth="tense"/>
 	<portrait_r entry="partner" eye="decided" mouth="tense"/>
 	<sjis>
-		‰½‚©‚É‚¸‚Á‚ÆŒ©‚ç‚ê‚Ä‚¢‚½‚æ‚¤‚È<three_dots/><end_line/>
-		‚¿‚Á<three_dots/>I<end_line/>
-		ƒ€ƒJƒ€ƒJ‚·‚é<three_dots/><end_line/>
+		ä½•ã‹ã«ãšã£ã¨è¦‹ã‚‰ã‚Œã¦ã„ãŸã‚ˆã†ãª<three_dots><end_line>
+		ã¡ã£<three_dots>ï¼<end_line>
+		ãƒ ã‚«ãƒ ã‚«ã™ã‚‹<three_dots><end_line>
 	</sjis>
+	<ascii>
+		It feels like we're being watched.<end_line>
+    Tch<three_dots>!<end_line>
+		It's pissing me off<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel"/>
@@ -61,10 +82,15 @@
 	<portrait_l entry="player" eye="serious" mouth="tense"/>
 	<portrait_r entry="partner" eye="decided" mouth="tense"/>
 	<sjis>
-		’N‚©‚ÉÕ‚ð‚Â‚¯‚ç‚ê‚Ä‚¢‚½‚æ‚¤‚È<three_dots/><end_line/>
-		‚·‚Á‚²‚­ƒCƒ„`‚ÈŠ´‚¶‚ª‚µ‚½‚ñ‚Å‚·<end_line/>
-		â‘Î‚ ‚Ìl‚½‚¿‚Ì’‡ŠÔ‚Å‚·‚íI<end_line/>
+		èª°ã‹ã«è·¡ã‚’ã¤ã‘ã‚‰ã‚Œã¦ã„ãŸã‚ˆã†ãª<three_dots><end_line>
+		ã™ã£ã”ãã‚¤ãƒ¤ï½žãªæ„Ÿã˜ãŒã—ãŸã‚“ã§ã™<end_line>
+		çµ¶å¯¾ã‚ã®äººãŸã¡ã®ä»²é–“ã§ã™ã‚ï¼<end_line>
 	</sjis>
+	<ascii>
+		I think someone is following us<three_dots><end_line>
+		I have a very unpleasant feeling<three_dots><end_line>
+    I'm certain it may be one of them!<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="left"/>
@@ -72,25 +98,33 @@
 	<portrait_r entry="partner" eye="decided" mouth="tense"/>
 	<male>
 		<sjis>
-			‚È‚ñ‚¾‚æA‚»‚ê<three_dots/><end_line/>
-			‚»‚ñ‚Èƒ„ƒc<end_line/>
-			ƒ_ƒŒ‚à‚¢‚È‚¢‚¼<three_dots/><end_line/>
+			ãªã‚“ã ã‚ˆã€ãã‚Œ<three_dots><end_line>
+			ãã‚“ãªãƒ¤ãƒ„<end_line>
+			ãƒ€ãƒ¬ã‚‚ã„ãªã„ãž<three_dots><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			‚È‚É‚æA‚»‚ê<three_dots/><end_line/>
-			‚»‚ñ‚Èl<end_line/>
-			ƒ_ƒŒ‚à‚¢‚È‚¢‚æ<three_dots/><end_line/>
+			ãªã«ã‚ˆã€ãã‚Œ<three_dots><end_line>
+			ãã‚“ãªäºº<end_line>
+			ãƒ€ãƒ¬ã‚‚ã„ãªã„ã‚ˆ<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    What are talking about<three_dots><end_line>
+    I don't see anyone else here.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left"/>
 	<portrait_l entry="player" eye="decided" mouth="serious"/>
 	<portrait_r entry="partner" eye="decided" mouth="tense"/>
 	<sjis>
-		‚Æ‚É‚©‚­A¡‚Í<end_line/>
-		‹}‚ª‚È‚­‚¿‚á<three_dots/><end_line/>
+		ã¨ã«ã‹ãã€ä»Šã¯<end_line>
+		æ€¥ãŒãªãã¡ã‚ƒ<three_dots><end_line>
 	</sjis>
+	<ascii>
+		Anyway, for now,<end_line>
+		we just have to hurry<three_dots><end_line>
+	</ascii>
 </dialogue>

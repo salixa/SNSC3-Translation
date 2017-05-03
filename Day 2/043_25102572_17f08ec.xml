@@ -2,16 +2,22 @@
 	<info box="nobox"/>
 	<portrait_l name="lemmy"/>
 	<sjis>
-		�N���Ǝv����<three_dots/><end_line/>
+		誰かと思えば<three_dots><end_line>
 	</sjis>
+	<ascii>
+		I was wondering who it was<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="right"/>
 	<portrait_l entry="player" eye="serious" mouth="serious"/>
 	<portrait_r entry="lemmy" eye="sad" mouth="neutral"/>
 	<sjis>
-		����ς�N��<three_dots/><end_line/>
+		やっぱり君か<three_dots><end_line>
 	</sjis>
+	<ascii>
+		Of course it's you<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="left"/>
@@ -19,23 +25,30 @@
 	<portrait_r entry="lemmy" eye="sad" mouth="neutral"/>
 	<male>
 		<sjis>
-			����ς���ĂȂ񂾂�H<end_line/>
+			やっぱりってなんだよ？<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			����ς���ĂȂɂ�H<end_line/>
+			やっぱりってなによ？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    'Of course'?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right"/>
 	<portrait_l entry="player" eye="serious" mouth="tense"/>
 	<portrait_r entry="lemmy" eye="serious" mouth="tense"/>
 	<sjis>
-		���₵���l�e������������<end_line/>
-		���ׂɗ�����������<end_line/>
+		あやしい人影が見えたから<end_line>
+		調べに来ただけだよ<end_line>
 	</sjis>
+	<ascii>
+		I saw someone suspicious,<end_line>
+		so I came to investigate.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="left"/>
@@ -43,25 +56,31 @@
 	<portrait_r entry="lemmy" eye="serious" mouth="tense"/>
 	<male>
 		<sjis>
-			���₵�����āA�I���̂��Ƃ���<end_line/>
-			�I���̂ǂ������₵���񂾁H<end_line/>
+			あやしいって、オレのことかよ<end_line>
+			オレのどこがあやしいんだ？<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			���₵�����āA�킽���̂��ƁH<end_line/>
-			�킽���̂ǂ������₵���̂�<end_line/>
+			あやしいって、わたしのこと？<end_line>
+			わたしのどこがあやしいのよ<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Suspicious? How am I suspicious?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right"/>
 	<portrait_l entry="player" eye="decided" mouth="tense"/>
 	<portrait_r entry="lemmy" eye="decided" mouth="talk"/>
 	<sjis>
-		�C�����ĂȂ������̂�<three_dots/><end_line/>
-		�N�͏\�����₵����<end_line/>
+		気がついてなかったのか<three_dots><end_line>
+		君は十分あやしいよ<end_line>
 	</sjis>
+	<ascii>
+		So you haven't noticed<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="left"/>
@@ -69,32 +88,43 @@
 	<portrait_r entry="lemmy" eye="decided" mouth="talk"/>
 	<male>
 		<sjis>
-			�Ȃ񂾂ƁI<end_line/>
+			なんだと！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�Ȃ�ł����āI<end_line/>
+			なんですって！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    What are you talking about<three_dots>?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right"/>
 	<portrait_l entry="player" eye="decided" mouth="yell"/>
 	<portrait_r entry="lemmy" eye="serious" mouth="neutral"/>
 	<sjis>
-		���킬�̂���Ƃ���ɂ͕K��<end_line/>
-		�N�����邶��Ȃ���<end_line/>
+		さわぎのあるところには必ず<end_line>
+		君がいるじゃないか<end_line>
 	</sjis>
+	<ascii>
+		Whenever something troublesome happens,<end_line>
+		you're there, without fail.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="left"/>
 	<portrait_l entry="player" eye="sad" mouth="tense"/>
 	<portrait_r entry="lemmy" eye="serious" mouth="neutral"/>
 	<sjis>
-		��<three_dots/><end_line/>
-		���_�ł��Ȃ��Ƃ��낪<three_dots/><end_line/>
+		う<three_dots><end_line>
+		反論できないところが<three_dots><end_line>
 	</sjis>
+	<ascii>
+		Huh<three_dots><end_line>
+		I guess that true<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="left"/>
@@ -102,27 +132,36 @@
 	<portrait_r entry="lemmy" eye="serious" mouth="neutral"/>
 	<male>
 		<sjis>
-			����������<end_line/>
-			���́A�P�K�����A���͂ǂ��Ȃ����H<end_line/>
+			そういえば<end_line>
+			あの、ケガした連中はどうなった？<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			����������<end_line/>
-			���́A�P�K�����l������<end_line/>
-			�ǂ��Ȃ����́H<end_line/>
+			そういえば<end_line>
+			あの、ケガした人たちは<end_line>
+			どうなったの？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    But anyway, what happened<end_line>
+    to those injured people?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right"/>
 	<portrait_l entry="player" eye="surprised" mouth="tense"/>
 	<portrait_r entry="lemmy" eye="serious" mouth="tense"/>
 	<sjis>
-		����قǂЂǂ��P�K����Ȃ���������<end_line/>
-		�������C�ɂ��Ă�<three_dots/><end_line/>
-		����A���C����Ȃ���<three_dots/><end_line/>
+		それほどひどいケガじゃなかったから<end_line>
+		もう元気にしてる<three_dots><end_line>
+		いや、元気じゃないか<three_dots><end_line>
 	</sjis>
+	<ascii>
+		Their injuries weren't severe,<end_line>
+    so physically, they're fine.<end_line>
+		<three_dots>Mentally, maybe not<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="left"/>
@@ -130,26 +169,35 @@
 	<portrait_r entry="lemmy" eye="serious" mouth="tense"/>
 	<male>
 		<sjis>
-			�Ȃ񂾂�H<end_line/>
-			�ǂ��������̂��H<end_line/>
+			なんだよ？<end_line>
+			どこか悪いのか？<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�Ȃɂ�H<end_line/>
-			�ǂ��������́H<end_line/>
+			なによ？<end_line>
+			どこか悪いの？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    What?<end_line>
+    Did something happen?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right"/>
 	<portrait_l entry="player" eye="decided" mouth="tense"/>
 	<portrait_r entry="lemmy" eye="serious" mouth="neutral"/>
 	<sjis>
-		����A�P�K����Ȃ�����<end_line/>
-		���ƂȂ����Ȃ��Ă�<end_line/>
-		���Ȃ��Ă���<three_dots/>�Ƃ�������<end_line/>
+		いや、ケガじゃないけど<end_line>
+		おとなしくなってる<end_line>
+		反省している<three_dots>といいけど<end_line>
 	</sjis>
+	<ascii>
+		They've quieted down.<end_line>
+		It's as if they're truly<end_line>
+    reflecting on their actions.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="left"/>
@@ -157,27 +205,35 @@
 	<portrait_r entry="lemmy" eye="serious" mouth="neutral"/>
 	<male>
 		<sjis>
-			������<end_line/>
-			���v����<end_line/>
-			�Ƃ��ɃT�[�W���ă��c��<end_line/>
+			そっか<end_line>
+			大丈夫だろ<end_line>
+			とくにサージってヤツは<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			������<end_line/>
-			���v�ł���<end_line/>
-			�Ƃ��ɃT�[�W���Đl��<end_line/>
+			そっか<end_line>
+			大丈夫でしょ<end_line>
+			とくにサージって人は<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    I see.<end_line>
+    But I mean, isn't that fine?<end_line>
+    Especially for that 'Surge'.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right"/>
 	<portrait_l entry="player" eye="happy" mouth="neutral"/>
 	<portrait_r entry="lemmy" eye="decided" mouth="talk"/>
 	<sjis>
-		�܂��N���P���J��<end_line/>
-		����������炩���H<end_line/>
+		また君がケンカで<end_line>
+		やっつけたからかい？<end_line>
 	</sjis>
+	<ascii>
+		Because you beat them up again?<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="left"/>
@@ -185,24 +241,32 @@
 	<portrait_r entry="lemmy" eye="decided" mouth="talk"/>
 	<male>
 		<sjis>
-			�P���J����Ȃ��I<end_line/>
-			�������I<end_line/>
+			ケンカじゃない！<end_line>
+			勝負だ！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�P���J����Ȃ��I<end_line/>
-			������I<end_line/>
+			ケンカじゃない！<end_line>
+			勝負よ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    I didn't!<end_line>
+    It was a match,<end_line>
+    and he asked me for it!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right"/>
 	<portrait_l entry="player" eye="decided" mouth="yell"/>
 	<portrait_r entry="lemmy" eye="serious" mouth="neutral"/>
 	<sjis>
-		������āA�����������́H<end_line/>
+		それって、何かちがうの？<end_line>
 	</sjis>
+	<ascii>
+		What's the difference?<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="left"/>
@@ -210,28 +274,38 @@
 	<portrait_r entry="lemmy" eye="serious" mouth="neutral"/>
 	<male>
 		<sjis>
-			�S�R����������I<end_line/>
-			�Ȃ�Ă�������<three_dots/><end_line/>
-			�S�Ƃ��H<end_line/>
+			全然ちがうだろ！<end_line>
+			なんていうかさ<three_dots><end_line>
+			心とか？<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�S�R�������ł���I<end_line/>
-			�Ȃ�Ă�������<three_dots/><end_line/>
-			�S�Ƃ��H<end_line/>
+			全然ちがうでしょ！<end_line>
+			なんていうかさ<three_dots><end_line>
+			心とか？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    They're completely different!<end_line>
+    <three_dots>How do I put this<three_dots><end_line>
+    They're different at heart!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right"/>
 	<portrait_l entry="player" eye="decided" mouth="tense"/>
 	<portrait_r entry="lemmy" eye="sad" mouth="talk"/>
 	<sjis>
-		��<three_dots/><end_line/>
-		�S�A��<three_dots/><end_line/>
-		�N�����܂ɂ����܂����Ȃ��<end_line/>
+		ふ<three_dots><end_line>
+		心、か<three_dots><end_line>
+		君がたまにうらやましくなるよ<end_line>
 	</sjis>
+	<ascii>
+		Hah<three_dots><end_line>
+		At heart, huh<three_dots>?<end_line>
+		I envy you sometimes.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="left"/>
@@ -239,24 +313,31 @@
 	<portrait_r entry="lemmy" eye="sad" mouth="talk"/>
 	<male>
 		<sjis>
-			��<three_dots/><end_line/>
-			���I���̂���<end_line/>
-			�o�J�ɂ��Ȃ��������H<end_line/>
+			な<three_dots><end_line>
+			今オレのこと<end_line>
+			バカにしなかったか？<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			��<three_dots/><end_line/>
-			���킽���̂���<end_line/>
-			�o�J�ɂ��Ȃ������H<end_line/>
+			な<three_dots><end_line>
+			今わたしのこと<end_line>
+			バカにしなかった？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Wha<three_dots><end_line>
+    Are you making fun of me?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right"/>
 	<portrait_l entry="player" eye="decided" mouth="stressed"/>
 	<portrait_r entry="lemmy" eye="serious" mouth="talk"/>
 	<sjis>
-		������<end_line/>
+		さあね<end_line>
 	</sjis>
+	<ascii>
+		Maybe.<end_line>
+	</ascii>
 </dialogue>

@@ -1,20 +1,27 @@
 <location>
 	<sjis>
-		ƒ{ƒXƒ^ƒtH–[@ƒfƒBƒbƒNƒ‹‘ºŽx•”<end_line/>
+		ãƒœã‚¹ã‚¿ãƒ•å·¥æˆ¿ã€€ãƒ‡ã‚£ãƒƒã‚¯ãƒ«æ‘æ”¯éƒ¨<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple"/>
 	<portrait_l name="man"/>
 	<sjis>
-		<three_dots/><end_line/>
+		<three_dots><end_line>
 	</sjis>
+	<ascii>
+		<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple"/>
 	<portrait_l name="man"/>
 	<sjis>
-		g‚ðŽç‚é‚½‚ß‚Ì•Ší‚ð‚Á‚Ä<end_line/>
-		Žv‚Á‚½‚ñ‚¾‚¯‚Ç‚¨‹à‚ª‚Ë<three_dots/><end_line/>
+		èº«ã‚’å®ˆã‚‹ãŸã‚ã®æ­¦å™¨ã‚’ã£ã¦<end_line>
+		æ€ã£ãŸã‚“ã ã‘ã©ãŠé‡‘ãŒã­<three_dots><end_line>
 	</sjis>
+	<ascii>
+		I was thinking of getting a weapon<end_line>
+		to defend myself, but the money<three_dots><end_line>
+	</ascii>
 </dialogue>
