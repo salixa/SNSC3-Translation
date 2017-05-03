@@ -1,2 +1,3 @@
-ScriptValidator/.idea/codeStyleSettings.xml
-ScriptValidator/.idea/misc.xml
+ScriptValidator/.idea/*
+ScriptValidator/__pycache__/*
+__pycache__/*
