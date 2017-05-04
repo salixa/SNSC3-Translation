@@ -20,8 +20,27 @@ class TestScriptValidate(unittest.TestCase):
       validateFile(file[0])
 
   def testAsciiWithoutEndlineRaisesError(self):
-    with self.assertRaises(ParseError) as cm:
+    with self.assertRaises(SyntaxError) as cm:
       file = glob.glob('./test/asciiWithoutEndline.xml')
+      validateFile(file[0])
+
+  def testAsciiLineTooLongRaisesError(self):
+    with self.assertRaises(SyntaxError) as cm:
+      file = glob.glob('./test/asciiLineLength1.xml')
+      validateFile(file[0])
+
+  def testAsciiLineWithLeadingWhitespaceIsValid(self):
+    file = glob.glob('./test/asciiLineLength2.xml')
+    validateFile(file[0])
+
+  def testAsciiCharactersAfterEndLineRaisesError(self):
+    with self.assertRaises(SyntaxError) as cm:
+      file = glob.glob('./test/asciiEndLineTrailingCharacters.xml')
+      validateFile(file[0])
+
+  def testTooManyEndLinesRaisesError(self):
+    with self.assertRaises(SyntaxError) as cm:
+      file = glob.glob('./test/asciiExcessiveEndLines.xml')
       validateFile(file[0])
 
 if __name__ == '__main__':

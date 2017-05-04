@@ -1,17 +1,6 @@
 # Parser script run
 # encoding: utf-8
 
-"""
-Current progress:
-
-Validate tags
-
-
-TODO:
-Validate line length
-Validate <end_line> exists for lines between <ascii> tags
-more to come...
-"""
 
 import os
 import sys
@@ -28,8 +17,8 @@ def replacePseudoXml(bytes):
   :param bytes: bytearray read directly from file
   :returns: bytearray with pseudo-XML elements removed/replaced
   """
-  # if contains(bytes, constants.INFO_OPEN):
-  if any(tag in bytes for tag in constants.LINE_TAGS):
+
+  if any(el in bytes for el in constants.LINE_ELS):
     return constants.NEWLINE
 
   bytes = bytes.replace(constants.END_LINE_OPEN, constants.END_LINE_CLOSED)
@@ -46,6 +35,7 @@ def readXml(file):
   :param file: file to read from
   :returns: bytearray representation of the file
   """
+
   ascii = False
   bytes = bytearray()
   bytes += constants.ROOT_OPEN
@@ -56,11 +46,43 @@ def readXml(file):
   return bytes
 
 
-def validateTree(tree):
+def elementContentToStringList(ascii, end_els):
   """
-  TODO: implement
-  this method will find all ASCII tags and ensure the contents of them have <end_line> tags.
+  Converts the content of an ascii element into a list of strings.
+
+  :raises SyntaxError: error for incorrectly formed <ascii> content.
   """
+
+  lines = []
+  lines.append(ascii.text.strip())
+  for end_el in end_els:
+    texts = end_el.tail.strip().split('\n')
+    for text in texts:
+      if len(text) > 0:
+        lines.append(text)
+  return lines
+
+
+def validateAsciiElements(tree):
+  """
+  Performs validation of content between <ascii> elements.
+  
+  :raises SyntaxError: error for incorrectly formed <ascii> content.
+  """
+
+  for ascii in tree.iter('ascii'):
+    end_els = ascii.findall('end_line')
+    inner_text = ''.join(ascii.itertext())
+    lines = elementContentToStringList(ascii, end_els)
+
+    if len(end_els) != len(lines):
+      raise SyntaxError(inner_text + '\nNumber of <end_line> elements is incorrect!')
+
+    # TODO: add support for symbol elements (width of 2) (need to find all of these first)
+    for line in lines:
+      if len(line.strip()) > 30:
+        raise SyntaxError(inner_text + '\nIs longer than 30 characters!')
+
   return
 
 
@@ -71,11 +93,12 @@ def validateFile(filename):
   :param filename: name of the file to read from
   :raises ParseError: bubbled up from ElementTree
   """
+
   with open(filename, 'rb') as xml_file:
     bytes = readXml(xml_file)
     try:
       tree = ElementTree().parseBytes(bytes)
-      validateTree(tree)
+      validateAsciiElements(tree)
       print(filename + ' passed')
     finally:
       xml_file.close()

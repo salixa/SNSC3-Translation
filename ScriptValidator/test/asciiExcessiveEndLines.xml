@@ -6,8 +6,8 @@
     それがアンタが鍛冶師になるための<three_dots><end_line>
   </sjis>
   <ascii>
-    This is ascii without and end_line
-    and another line
+    This line is okay.<end_line>actually, not.
+    and another line, for fun.<end_line>
   </ascii>
 </dialogue>
 <bigtext>
