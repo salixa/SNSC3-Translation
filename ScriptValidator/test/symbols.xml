@@ -6,7 +6,8 @@
     それがアンタが鍛冶師になるための<three_dots><end_line>
   </sjis>
   <ascii>
-    This is<three_dots><end_line>
+    This is a line with symbols.<three_dots><end_line>
+    <hearth><paw><player_nickname><player_name><end_line>
   </ascii>	
 </dialogue>
 <bigtext>

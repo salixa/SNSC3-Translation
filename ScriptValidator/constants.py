@@ -14,7 +14,15 @@ PORTRAIT_L_OPEN = str.encode('<portrait_l')
 PORTRAIT_R_OPEN = str.encode('<portrait_r')
 ASCII_OPEN = str.encode('<ascii>')
 ASCII_CLOSE = str.encode('<ascii/>')
+HEARTH_OPEN = str.encode('<hearth>')
+HEARTH_CLOSED = str.encode('<hearth/>')
+PAW_OPEN = str.encode('<paw>')
+PAW_CLOSED = str.encode('<paw/>')
 
 LINE_ELS = [INFO_OPEN, PORTRAIT_L_OPEN, PORTRAIT_R_OPEN]
-SYMBOLS_OPEN = [END_LINE_OPEN, THREE_DOTS_OPEN, PLAYER_NAME_OPEN, PLAYER_NICKNAME_OPEN]
-SYMBOLS_CLOSED = [END_LINE_CLOSED, THREE_DOTS_CLOSED, PLAYER_NAME_CLOSED, PLAYER_NICKNAME_CLOSED]
+SYMBOLS = ['three_dots', 'hearth', 'paw']
+NAME_ELS = ['player_name', 'player_nickname']
+
+MAX_LINE_LENGTH = 36
+SYMBOL_LEN = 2
+NAME_EL_LEN = 8

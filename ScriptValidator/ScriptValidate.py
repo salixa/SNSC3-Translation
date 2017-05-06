@@ -2,12 +2,11 @@
 # encoding: utf-8
 
 
-import os
-import sys
-import constants
+import logging
+import warnings
 
+import constants
 from ElementTree import ElementTree
-from ElementTree import ParseError
 
 
 def replacePseudoXml(bytes):
@@ -17,7 +16,6 @@ def replacePseudoXml(bytes):
   :param bytes: bytearray read directly from file
   :returns: bytearray with pseudo-XML elements removed/replaced
   """
-
   if any(el in bytes for el in constants.LINE_ELS):
     return constants.NEWLINE
 
@@ -25,6 +23,9 @@ def replacePseudoXml(bytes):
   bytes = bytes.replace(constants.THREE_DOTS_OPEN, constants.THREE_DOTS_CLOSED)
   bytes = bytes.replace(constants.PLAYER_NAME_OPEN, constants.PLAYER_NAME_CLOSED)
   bytes = bytes.replace(constants.PLAYER_NICKNAME_OPEN, constants.PLAYER_NICKNAME_CLOSED)
+  bytes = bytes.replace(constants.HEARTH_OPEN, constants.HEARTH_CLOSED)
+  bytes = bytes.replace(constants.PAW_OPEN, constants.PAW_CLOSED)
+
   return bytes
 
 
@@ -35,7 +36,6 @@ def readXml(file):
   :param file: file to read from
   :returns: bytearray representation of the file
   """
-
   ascii = False
   bytes = bytearray()
   bytes += constants.ROOT_OPEN
@@ -46,21 +46,62 @@ def readXml(file):
   return bytes
 
 
-def elementContentToStringList(ascii, end_els):
+def elementContentToString(ascii, end_els):
   """
   Converts the content of an ascii element into a list of strings.
 
   :raises SyntaxError: error for incorrectly formed <ascii> content.
   """
-
-  lines = []
-  lines.append(ascii.text.strip())
-  for end_el in end_els:
-    texts = end_el.tail.strip().split('\n')
-    for text in texts:
-      if len(text) > 0:
-        lines.append(text)
+  lines = ''
+  lines += (ascii.text.strip())
+  for el in end_els:
+    if el.tail is not None and len(el.tail) > 0:
+      lines += (el.tail)
   return lines
+
+
+def validateEndlines(ascii, warn_array):
+  """
+  Checks <end_line> elements exist, match the number of lines, 
+  and are placed at the end of each line.
+  
+  :param ascii: 
+  :return: 
+  """
+  end_els = ascii.findall('end_line')
+  inner_text = ''.join(ascii.itertext())
+  if len(end_els) != inner_text.count('\n') - 1:
+    warn_array.append('Number of <end_line> elements is incorrect!')
+  for el in end_els:
+    if el.tail is None or el.tail[0] != '\n':
+      warn_array.append('<end_line> element not placed at end of line!')
+
+
+# THIS IS WRONG
+def determineSymbolLength(ascii):
+  len_array = []
+  len = 0
+  for el in ascii:
+    if el.tag in constants.SYMBOLS:
+      len += constants.SYMBOL_LEN
+    elif el.tag in constants.NAME_ELS:
+      len += constants.NAME_EL_LEN
+    else:
+      len_array.append(len)
+      len = 0
+  return len_array
+
+
+# THIS IS WRONG.
+def validateLineLength(ascii, warn_array):
+  end_els = ascii.findall('end_line')
+  lines = elementContentToString(ascii, end_els).split('\n')
+  line_symbols = determineSymbolLength(ascii)
+
+  index = 0
+  for line, symbol_len in zip(lines, line_symbols):
+    if len(line.strip()) + symbol_len > constants.MAX_LINE_LENGTH:
+      warn_array.append('Line is longer than ' + str(constants.MAX_LINE_LENGTH) + ' characters!')
 
 
 def validateAsciiElements(tree):
@@ -69,21 +110,17 @@ def validateAsciiElements(tree):
   
   :raises SyntaxError: error for incorrectly formed <ascii> content.
   """
-
+  valid = True
   for ascii in tree.iter('ascii'):
-    end_els = ascii.findall('end_line')
-    inner_text = ''.join(ascii.itertext())
-    lines = elementContentToStringList(ascii, end_els)
-
-    if len(end_els) != len(lines):
-      raise SyntaxError(inner_text + '\nNumber of <end_line> elements is incorrect!')
-
-    # TODO: add support for symbol elements (width of 2) (need to find all of these first)
-    for line in lines:
-      if len(line.strip()) > 30:
-        raise SyntaxError(inner_text + '\nIs longer than 30 characters!')
-
-  return
+    warn_array = []
+    validateEndlines(ascii, warn_array)
+    validateLineLength(ascii, warn_array)
+    if len(warn_array) > 0:
+      valid = False
+      print(''.join(ascii.itertext()))
+      for str in warn_array:
+        logging.warning(str)
+  return valid
 
 
 def validateFile(filename):
@@ -93,12 +130,12 @@ def validateFile(filename):
   :param filename: name of the file to read from
   :raises ParseError: bubbled up from ElementTree
   """
-
   with open(filename, 'rb') as xml_file:
     bytes = readXml(xml_file)
     try:
+      print('Validating ' + filename + '...')
       tree = ElementTree().parseBytes(bytes)
-      validateAsciiElements(tree)
-      print(filename + ' passed')
+      if not validateAsciiElements(tree):
+        warnings.warn(filename + ' is invalid!')
     finally:
       xml_file.close()
