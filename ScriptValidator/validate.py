@@ -1,5 +1,3 @@
-# use this to run the stuff. comment it out for now as we are still testing. later we'll run it against the actual folders n shit.
-
 import argparse
 import glob
 
