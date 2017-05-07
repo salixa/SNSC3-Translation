@@ -9,8 +9,8 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple"/>
-	<portrait_l name="player"/>
+	<info box="simple">
+	<portrait_l name="player">
 	<male>
 		<sjis>
 			外に出るより今は<end_line>
@@ -29,8 +29,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple"/>
-	<portrait_l name="player"/>
+	<info box="simple">
+	<portrait_l name="player">
 	<male>
 		<sjis>
 			<partner>を紹介しに<end_line>
@@ -49,8 +49,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple"/>
-	<portrait_l name="player"/>
+	<info box="simple">
+	<portrait_l name="player">
 	<male>
 		<sjis>
 			ザックにハンマーを<end_line>
@@ -69,8 +69,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple"/>
-	<portrait_l name="child"/>
+	<info box="simple">
+	<portrait_l name="child">
 	<sjis>
 		おおきくなったら<end_line>
 		けんしになって<end_line>
@@ -83,7 +83,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple"/>
+	<info box="simple">
 	<sjis>
 		わふん！<end_line>
 	</sjis>

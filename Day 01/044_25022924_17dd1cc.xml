@@ -1,6 +1,6 @@
 <dialogue>
-  <info box="left"/>
-  <portrait_l entry="player" eye="serious" mouth="neutral"/>
+  <info box="left">
+  <portrait_l entry="player" eye="serious" mouth="neutral">
   <sjis>
     まあ、いろいろあったけど<end_line>
     ミューノが元気になったんなら<end_line>
@@ -13,8 +13,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="left"/>
-  <portrait_l entry="player" eye="serious" mouth="neutral"/>
+  <info box="left">
+  <portrait_l entry="player" eye="serious" mouth="neutral">
   <male>
     <sjis>
       あれ？<end_line>

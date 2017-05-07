@@ -9,8 +9,8 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple"/>
-	<portrait_l name="zakk"/>
+	<info box="simple">
+	<portrait_l name="zakk">
 	<sjis>
 		キッカの実あるといいけど<three_dots><end_line>
 	</sjis>

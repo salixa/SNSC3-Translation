@@ -1,7 +1,7 @@
 <dialogue>
-  <info box="right"/>
-  <portrait_l entry="weido_1" eye="serious" mouth="neutral"/>
-  <portrait_r entry="player" eye="decided" mouth="serious"/>
+  <info box="right">
+  <portrait_l entry="weido_1" eye="serious" mouth="neutral">
+  <portrait_r entry="player" eye="decided" mouth="serious">
   <sjis>
     何か用？<end_line>
   </sjis>
@@ -10,9 +10,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="left"/>
-  <portrait_l entry="weido_1" eye="serious" mouth="neutral"/>
-  <portrait_r entry="player" eye="decided" mouth="serious"/>
+  <info box="left">
+  <portrait_l entry="weido_1" eye="serious" mouth="neutral">
+  <portrait_r entry="player" eye="decided" mouth="serious">
   <sjis>
     別に？<end_line>
   </sjis>
@@ -21,10 +21,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="run-dor"/>
-  <info box="right"/>
-  <portrait_l entry="player" eye="serious" mouth="serious"/>
-  <portrait_r entry="partner" eye="serious" mouth="tense"/>
+  <partner name="run-dor">
+  <info box="right">
+  <portrait_l entry="player" eye="serious" mouth="serious">
+  <portrait_r entry="partner" eye="serious" mouth="tense">
   <sjis>
     アレハ、昨日ノ<three_dots><end_line>
   </sjis>
@@ -33,11 +33,11 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <player gender="male"/>
-  <partner name="run-dor"/>
-  <info box="left"/>
-  <portrait_l entry="player" eye="serious" mouth="serious"/>
-  <portrait_r entry="partner" eye="serious" mouth="tense"/>
+  <player gender="male">
+  <partner name="run-dor">
+  <info box="left">
+  <portrait_l entry="player" eye="serious" mouth="serious">
+  <portrait_r entry="partner" eye="serious" mouth="tense">
   <sjis>
     ここの工房の連中は<end_line>
     オレたちがキライみたいでさ<end_line>
@@ -50,11 +50,11 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <player gender="male"/>
-  <partner name="run-dor"/>
-  <info box="left"/>
-  <portrait_l entry="player" eye="serious" mouth="tense"/>
-  <portrait_r entry="partner" eye="serious" mouth="tense"/>
+  <player gender="male">
+  <partner name="run-dor">
+  <info box="left">
+  <portrait_l entry="player" eye="serious" mouth="tense">
+  <portrait_r entry="partner" eye="serious" mouth="tense">
   <sjis>
     <partner>も気をつけろよ<end_line>
   </sjis>
@@ -63,11 +63,11 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <player gender="female"/>
-  <partner name="run-dor"/>
-  <info box="left"/>
-  <portrait_l entry="player" eye="serious" mouth="serious"/>
-  <portrait_r entry="partner" eye="serious" mouth="tense"/>
+  <player gender="female">
+  <partner name="run-dor">
+  <info box="left">
+  <portrait_l entry="player" eye="serious" mouth="serious">
+  <portrait_r entry="partner" eye="serious" mouth="tense">
   <sjis>
     ここの工房の連中は<end_line>
     わたしたちがキライみたいで<end_line>
@@ -80,11 +80,11 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <player gender="female"/>
-  <partner name="run-dor"/>
-  <info box="left"/>
-  <portrait_l entry="player" eye="serious" mouth="tense"/>
-  <portrait_r entry="partner" eye="serious" mouth="tense"/>
+  <player gender="female">
+  <partner name="run-dor">
+  <info box="left">
+  <portrait_l entry="player" eye="serious" mouth="tense">
+  <portrait_r entry="partner" eye="serious" mouth="tense">
   <sjis>
     <partner>も気をつけてね<end_line>
   </sjis>
@@ -93,10 +93,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="run-dor"/>
-  <info box="right"/>
-  <portrait_l entry="player" eye="serious" mouth="tense"/>
-  <portrait_r entry="partner" eye="serious" mouth="neutral"/>
+  <partner name="run-dor">
+  <info box="right">
+  <portrait_l entry="player" eye="serious" mouth="tense">
+  <portrait_r entry="partner" eye="serious" mouth="neutral">
   <sjis>
     了解デス<end_line>
   </sjis>
@@ -105,10 +105,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="enzi"/>
-  <info box="right"/>
-  <portrait_l entry="player" eye="serious" mouth="serious"/>
-  <portrait_r entry="partner" eye="serious" mouth="tense"/>
+  <partner name="enzi">
+  <info box="right">
+  <portrait_l entry="player" eye="serious" mouth="serious">
+  <portrait_r entry="partner" eye="serious" mouth="tense">
   <sjis>
     あれは、昨日の<three_dots><end_line>
   </sjis>
@@ -117,11 +117,11 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <player gender="male"/>
-  <partner name="enzi"/>
-  <info box="left"/>
-  <portrait_l entry="player" eye="serious" mouth="serious"/>
-  <portrait_r entry="partner" eye="serious" mouth="tense"/>
+  <player gender="male">
+  <partner name="enzi">
+  <info box="left">
+  <portrait_l entry="player" eye="serious" mouth="serious">
+  <portrait_r entry="partner" eye="serious" mouth="tense">
   <sjis>
     ここの工房の連中は<end_line>
     オレたちがキライみたいでさ<end_line>
@@ -134,11 +134,11 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <player gender="male"/>
-  <partner name="enzi"/>
-  <info box="left"/>
-  <portrait_l entry="player" eye="serious" mouth="tense"/>
-  <portrait_r entry="partner" eye="serious" mouth="tense"/>
+  <player gender="male">
+  <partner name="enzi">
+  <info box="left">
+  <portrait_l entry="player" eye="serious" mouth="tense">
+  <portrait_r entry="partner" eye="serious" mouth="tense">
   <sjis>
     <partner>も気をつけろよ<end_line>
   </sjis>
@@ -147,11 +147,11 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <player gender="female"/>
-  <partner name="enzi"/>
-  <info box="left"/>
-  <portrait_l entry="player" eye="serious" mouth="serious"/>
-  <portrait_r entry="partner" eye="serious" mouth="tense"/>
+  <player gender="female">
+  <partner name="enzi">
+  <info box="left">
+  <portrait_l entry="player" eye="serious" mouth="serious">
+  <portrait_r entry="partner" eye="serious" mouth="tense">
   <sjis>
     ここの工房の連中は<end_line>
     わたしたちがキライみたいで<end_line>
@@ -164,11 +164,11 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <player gender="female"/>
-  <partner name="enzi"/>
-  <info box="left"/>
-  <portrait_l entry="player" eye="serious" mouth="tense"/>
-  <portrait_r entry="partner" eye="serious" mouth="tense"/>
+  <player gender="female">
+  <partner name="enzi">
+  <info box="left">
+  <portrait_l entry="player" eye="serious" mouth="tense">
+  <portrait_r entry="partner" eye="serious" mouth="tense">
   <sjis>
     <partner>も気をつけてね<end_line>
   </sjis>
@@ -177,10 +177,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="enzi"/>
-  <info box="right"/>
-  <portrait_l entry="player" eye="serious" mouth="tense"/>
-  <portrait_r entry="partner" eye="serious" mouth="neutral"/>
+  <partner name="enzi">
+  <info box="right">
+  <portrait_l entry="player" eye="serious" mouth="tense">
+  <portrait_r entry="partner" eye="serious" mouth="neutral">
   <sjis>
     承知した<end_line>
   </sjis>
@@ -189,10 +189,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="killfith"/>
-  <info box="right"/>
-  <portrait_l entry="player" eye="serious" mouth="serious"/>
-  <portrait_r entry="partner" eye="serious" mouth="tense"/>
+  <partner name="killfith">
+  <info box="right">
+  <portrait_l entry="player" eye="serious" mouth="serious">
+  <portrait_r entry="partner" eye="serious" mouth="tense">
   <sjis>
     あれは、昨日の<three_dots><end_line>
   </sjis>
@@ -201,11 +201,11 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <player gender="male"/>
-  <partner name="killfith"/>
-  <info box="left"/>
-  <portrait_l entry="player" eye="serious" mouth="serious"/>
-  <portrait_r entry="partner" eye="serious" mouth="tense"/>
+  <player gender="male">
+  <partner name="killfith">
+  <info box="left">
+  <portrait_l entry="player" eye="serious" mouth="serious">
+  <portrait_r entry="partner" eye="serious" mouth="tense">
   <sjis>
     ここの工房の連中は<end_line>
     オレたちがキライみたいでさ<end_line>
@@ -218,11 +218,11 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <player gender="male"/>
-  <partner name="killfith"/>
-  <info box="left"/>
-  <portrait_l entry="player" eye="serious" mouth="tense"/>
-  <portrait_r entry="partner" eye="serious" mouth="tense"/>
+  <player gender="male">
+  <partner name="killfith">
+  <info box="left">
+  <portrait_l entry="player" eye="serious" mouth="tense">
+  <portrait_r entry="partner" eye="serious" mouth="tense">
   <sjis>
     <partner>も気をつけろよ<end_line>
   </sjis>
@@ -231,11 +231,11 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <player gender="female"/>
-  <partner name="killfith"/>
-  <info box="left"/>
-  <portrait_l entry="player" eye="serious" mouth="serious"/>
-  <portrait_r entry="partner" eye="serious" mouth="tense"/>
+  <player gender="female">
+  <partner name="killfith">
+  <info box="left">
+  <portrait_l entry="player" eye="serious" mouth="serious">
+  <portrait_r entry="partner" eye="serious" mouth="tense">
   <sjis>
     ここの工房の連中は<end_line>
     わたしたちがキライみたいで<end_line>
@@ -248,11 +248,11 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <player gender="female"/>
-  <partner name="killfith"/>
-  <info box="left"/>
-  <portrait_l entry="player" eye="serious" mouth="tense"/>
-  <portrait_r entry="partner" eye="serious" mouth="tense"/>
+  <player gender="female">
+  <partner name="killfith">
+  <info box="left">
+  <portrait_l entry="player" eye="serious" mouth="tense">
+  <portrait_r entry="partner" eye="serious" mouth="tense">
   <sjis>
     <partner>も気をつけてね<end_line>
   </sjis>
@@ -261,10 +261,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="killfith"/>
-  <info box="right"/>
-  <portrait_l entry="player" eye="serious" mouth="tense"/>
-  <portrait_r entry="partner" eye="serious" mouth="neutral"/>
+  <partner name="killfith">
+  <info box="right">
+  <portrait_l entry="player" eye="serious" mouth="tense">
+  <portrait_r entry="partner" eye="serious" mouth="neutral">
   <sjis>
     関係ない<end_line>
   </sjis>
@@ -273,10 +273,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="rufeel"/>
-  <info box="right"/>
-  <portrait_l entry="player" eye="serious" mouth="tense"/>
-  <portrait_r entry="partner" eye="serious" mouth="neutral"/>
+  <partner name="rufeel">
+  <info box="right">
+  <portrait_l entry="player" eye="serious" mouth="tense">
+  <portrait_r entry="partner" eye="serious" mouth="neutral">
   <sjis>
     あれは、昨日の<three_dots><end_line>
   </sjis>
@@ -285,11 +285,11 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <player gender="male"/>
-  <partner name="rufeel"/>
-  <info box="left"/>
-  <portrait_l entry="player" eye="serious" mouth="serious"/>
-  <portrait_r entry="partner" eye="serious" mouth="neutral"/>
+  <player gender="male">
+  <partner name="rufeel">
+  <info box="left">
+  <portrait_l entry="player" eye="serious" mouth="serious">
+  <portrait_r entry="partner" eye="serious" mouth="neutral">
   <sjis>
     ここの工房の連中は<end_line>
     オレたちがキライみたいでさ<end_line>
@@ -302,11 +302,11 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <player gender="male"/>
-  <partner name="rufeel"/>
-  <info box="left"/>
-  <portrait_l entry="player" eye="serious" mouth="tense"/>
-  <portrait_r entry="partner" eye="serious" mouth="neutral"/>
+  <player gender="male">
+  <partner name="rufeel">
+  <info box="left">
+  <portrait_l entry="player" eye="serious" mouth="tense">
+  <portrait_r entry="partner" eye="serious" mouth="neutral">
   <sjis>
     <partner>も気をつけろよ<end_line>
   </sjis>
@@ -315,11 +315,11 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <player gender="female"/>
-  <partner name="rufeel"/>
-  <info box="left"/>
-  <portrait_l entry="player" eye="serious" mouth="serious"/>
-  <portrait_r entry="partner" eye="serious" mouth="neutral"/>
+  <player gender="female">
+  <partner name="rufeel">
+  <info box="left">
+  <portrait_l entry="player" eye="serious" mouth="serious">
+  <portrait_r entry="partner" eye="serious" mouth="neutral">
   <sjis>
     ここの工房の連中は<end_line>
     わたしたちがキライみたいで<end_line>
@@ -332,11 +332,11 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <player gender="female"/>
-  <partner name="rufeel"/>
-  <info box="left"/>
-  <portrait_l entry="player" eye="serious" mouth="tense"/>
-  <portrait_r entry="partner" eye="serious" mouth="neutral"/>
+  <player gender="female">
+  <partner name="rufeel">
+  <info box="left">
+  <portrait_l entry="player" eye="serious" mouth="tense">
+  <portrait_r entry="partner" eye="serious" mouth="neutral">
   <sjis>
     <partner>も気をつけてね<end_line>
   </sjis>
@@ -345,10 +345,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="rufeel"/>
-  <info box="right"/>
-  <portrait_l entry="player" eye="serious" mouth="tense"/>
-  <portrait_r entry="partner" eye="serious" mouth="neutral"/>
+  <partner name="rufeel">
+  <info box="right">
+  <portrait_l entry="player" eye="serious" mouth="tense">
+  <portrait_r entry="partner" eye="serious" mouth="neutral">
   <sjis>
     わかりましたわ<end_line>
   </sjis>
@@ -357,8 +357,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <player gender="male"/>
-  <info box="nobox"/>
+  <player gender="male">
+  <info box="nobox">
   <sjis>
     ここの工房の連中は<end_line>
     オレたちがキライみたいでさ<end_line>
@@ -371,8 +371,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <player gender="male"/>
-  <info box="nobox"/>
+  <player gender="male">
+  <info box="nobox">
   <sjis>
     <partner>も気をつけろよ<end_line>
   </sjis>
@@ -381,8 +381,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <player gender="female"/>
-  <info box="nobox"/>
+  <player gender="female">
+  <info box="nobox">
   <sjis>
     ここの工房の連中は<end_line>
     わたしたちがキライみたいで<end_line>
@@ -395,8 +395,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <player gender="female"/>
-  <info box="nobox"/>
+  <player gender="female">
+  <info box="nobox">
   <sjis>
     <partner>も気をつけてね<end_line>
   </sjis>

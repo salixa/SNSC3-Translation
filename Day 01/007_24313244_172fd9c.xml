@@ -4,8 +4,8 @@
   </sjis>
 </location>
 <dialogue>
-  <info box="simple"/>
-  <portrait_l name="player"/>
+  <info box="simple">
+  <portrait_l name="player">
   <sjis>
     ミューノの様子を見に行こう！<end_line>
   </sjis>
@@ -14,8 +14,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple"/>
-  <portrait_l name="vee"/>
+  <info box="simple">
+  <portrait_l name="vee">
   <sjis>
     ミューノはアタシがみてるから<end_line>
     アンタたちは村長ンとこにいってきな<end_line>
@@ -27,8 +27,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple"/>
-  <portrait_l name="vee"/>
+  <info box="simple">
+  <portrait_l name="vee">
   <sjis>
     ミューノが寝てるんだから<end_line>
     おとなしくしてな<end_line>

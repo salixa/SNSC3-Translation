@@ -9,8 +9,8 @@
   </sjis>
 </location>
 <dialogue>
-  <info box="simple"/>
-  <portrait_l name="player"/>
+  <info box="simple">
+  <portrait_l name="player">
   <male>
     <sjis>
       さっきの女はなんかあやしい<end_line>
@@ -33,8 +33,8 @@
   </female>
 </dialogue>
 <dialogue>
-  <info box="simple"/>
-  <portrait_l name="player"/>
+  <info box="simple">
+  <portrait_l name="player">
   <male>
     <sjis>
       さっきの女を追いかけて<end_line>
@@ -57,8 +57,8 @@
   </female>
 </dialogue>
 <dialogue>
-  <info box="simple"/>
-  <portrait_l name="player"/>
+  <info box="simple">
+  <portrait_l name="player">
   <male>
     <sjis>
       <partner>との勝負が待ってるし<end_line>
@@ -77,14 +77,14 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple"/>
-  <portrait_l name="player"/>
+  <info box="simple">
+  <portrait_l name="player">
   <sjis>
     ザックが穴に落ちたみたいだから<end_line>
     見に行こう！<end_line>
   </sjis>
   <ascii>
-    It looks like Zakk fell into the hole.<end_line>
+    It looks like Zakk fell in the hole.<end_line>
     I should see if he's okay!<end_line>
   </ascii>
 </dialogue>

@@ -1,7 +1,7 @@
 <dialogue>
-  <info box="left"/>
-  <portrait_l entry="player" eye="serious" mouth="neutral"/>
-  <portrait_r entry="vee" eye="serious" mouth="neutral"/>
+  <info box="left">
+  <portrait_l entry="player" eye="serious" mouth="neutral">
+  <portrait_r entry="vee" eye="serious" mouth="neutral">
   <sjis>
     武器の解体、できました<end_line>
   </sjis>
@@ -10,9 +10,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right"/>
-  <portrait_l entry="player" eye="serious" mouth="neutral"/>
-  <portrait_r entry="vee" eye="serious" mouth="neutral"/>
+  <info box="right">
+  <portrait_l entry="player" eye="serious" mouth="neutral">
+  <portrait_r entry="vee" eye="serious" mouth="neutral">
   <sjis>
     じゃあ、そいつを材料にして<end_line>
     <partner>とふたりで<end_line>
@@ -25,9 +25,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="left"/>
-  <portrait_l entry="player" eye="serious" mouth="serious"/>
-  <portrait_r entry="vee" eye="serious" mouth="neutral"/>
+  <info box="left">
+  <portrait_l entry="player" eye="serious" mouth="serious">
+  <portrait_r entry="vee" eye="serious" mouth="neutral">
   <sjis>
     <partner>と武器を<three_dots><end_line>
   </sjis>
@@ -36,9 +36,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right"/>
-  <portrait_l entry="player" eye="serious" mouth="serious"/>
-  <portrait_r entry="partner" eye="serious" mouth="neutral"/>
+  <info box="right">
+  <portrait_l entry="player" eye="serious" mouth="serious">
+  <portrait_r entry="partner" eye="serious" mouth="neutral">
   <sjis>
     <three_dots><end_line>
   </sjis>
@@ -47,9 +47,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right"/>
-  <portrait_l entry="player" eye="serious" mouth="serious"/>
-  <portrait_r entry="vee" eye="serious" mouth="neutral"/>
+  <info box="right">
+  <portrait_l entry="player" eye="serious" mouth="serious">
+  <portrait_r entry="vee" eye="serious" mouth="neutral">
   <sjis>
     昨日、あんなに練習しただろ？<end_line>
     とにかく、やってみな！<end_line>

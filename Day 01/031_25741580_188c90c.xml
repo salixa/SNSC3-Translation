@@ -17,7 +17,7 @@
   </ascii>
 </popup>
 <dialogue>
-  <info box="special"/>
+  <info box="special">
   <sjis>
     回復ポイントでは、ＨＰと<end_line>
     魔法の使用回数を回復する<end_line>
@@ -30,7 +30,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="special"/>
+  <info box="special">
   <sjis>
     回復ポイントの上に乗りＡボタンで<end_line>
     使用します<end_line>
@@ -41,7 +41,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="special"/>
+  <info box="special">
   <sjis>
     一度回復すると使えなくなりますが<end_line>
     ダンジョンに入り直すことで<end_line>
