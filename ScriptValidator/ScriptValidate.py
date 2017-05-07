@@ -21,6 +21,7 @@ def replacePseudoXml(bytes):
   bytes = bytes.replace(constants.PLAYER_NICKNAME_OPEN, constants.PLAYER_NICKNAME_CLOSED)
   bytes = bytes.replace(constants.HEARTH_OPEN, constants.HEARTH_CLOSED)
   bytes = bytes.replace(constants.PAW_OPEN, constants.PAW_CLOSED)
+  bytes = bytes.replace(constants.PARTNER_OPEN, constants.PARTNER_CLOSED)
 
   return bytes
 
