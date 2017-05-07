@@ -35,8 +35,8 @@
     何度でも回復する事ができます<end_line>
   </sjis>
   <ascii>
-    You can sleep in your bed at any time<end_line>
-    to recover health and spell uses.<end_line>
+    Sleep in a bed to recover<end_line>
+    health and spell uses.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -46,8 +46,8 @@
     回復する事ができます<end_line>
   </sjis>
   <ascii>
-    To do so, just get into the bed,<end_line>
-    and press the A button.<end_line>
+    To do so, stand in front of<end_line>
+    a bed and press the A button.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
