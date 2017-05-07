@@ -16,6 +16,8 @@ PAW_OPEN = str.encode('<paw>')
 PAW_CLOSED = str.encode('<paw/>')
 PARTNER_OPEN =str.encode('<partner>')
 PARTNER_CLOSED = str.encode('<partner/>')
+WEAPON_TYPE_OPEN = str.encode('<weapon_type>')
+WEAPON_TYPE_CLOSED = str.encode('<weapon_type/>')
 
 NEWLINE = str.encode('\n')
 PARTNER_LINE = str.encode('<partner ')

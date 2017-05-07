@@ -9,6 +9,7 @@
   <ascii>
     This is a line with symbols.<three_dots><end_line>
     <hearth><paw><player_nickname><player_name><partner><end_line>
+    <weapon_type><end_line>
   </ascii>	
 </dialogue>
 <bigtext>
