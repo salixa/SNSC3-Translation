@@ -1,592 +1,592 @@
 <dialogue>
-  <player gender="male"/>
-  <info box="left"/>
-  <portrait_l entry="player" eye="sad" mouth="neutral"/>
-  <portrait_r entry="partner" eye="serious" mouth="serious"/>
+  <player gender="male">
+  <info box="left">
+  <portrait_l entry="player" eye="sad" mouth="neutral">
+  <portrait_r entry="partner" eye="serious" mouth="serious">
   <sjis>
-    結局、宿代をタダにしてもらうかわりに<end_line/>
-    ティエを連れて行くことになったのに<end_line/>
-    借りられた部屋はひとつだけ<three_dots/><end_line/>
+    結局、宿代をタダにしてもらうかわりに<end_line>
+    ティエを連れて行くことになったのに<end_line>
+    借りられた部屋はひとつだけ<three_dots><end_line>
   </sjis>
   <ascii>
-    In the end, we managed to stay for free<end_line/>
-    in exchange for bringing tier along,<end_line/>
-    but we only got a single room<three_dots/><end_line/>
+    In the end, we managed to stay for free<end_line>
+    in exchange for bringing tier along,<end_line>
+    but we only got a single room<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <player gender="male"/>
-  <info box="left"/>
-  <portrait_l entry="player" eye="happy" mouth="stressed"/>
-  <portrait_r entry="partner" eye="serious" mouth="serious"/>
+  <player gender="male">
+  <info box="left">
+  <portrait_l entry="player" eye="happy" mouth="stressed">
+  <portrait_r entry="partner" eye="serious" mouth="serious">
   <sjis>
-    オレたちは工房で泊まれだなんて<end_line/>
-    これじゃいつもといっしょだよ！<end_line/>
-    せっかくの宿屋なのに！！<end_line/>
+    オレたちは工房で泊まれだなんて<end_line>
+    これじゃいつもといっしょだよ！<end_line>
+    せっかくの宿屋なのに！！<end_line>
   </sjis>
   <ascii>
-    We're staying at the workshop.<end_line/>
-    So it's the same as always!<end_line/>
-    Even though we came to an inn!!<end_line/>
+    We're staying at the workshop.<end_line>
+    So it's the same as always!<end_line>
+    Even though we came to an inn!!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <player gender="female"/>
-  <info box="left"/>
-  <portrait_l entry="player" eye="sad" mouth="neutral"/>
-  <portrait_r entry="partner" eye="serious" mouth="serious"/>
+  <player gender="female">
+  <info box="left">
+  <portrait_l entry="player" eye="sad" mouth="neutral">
+  <portrait_r entry="partner" eye="serious" mouth="serious">
   <sjis>
-    結局、宿代をタダにしてもらうかわりに<end_line/>
-    ティエを連れて行くことになったのに<end_line/>
-    借りられた部屋はひとつだけ<three_dots/><end_line/>
+    結局、宿代をタダにしてもらうかわりに<end_line>
+    ティエを連れて行くことになったのに<end_line>
+    借りられた部屋はひとつだけ<three_dots><end_line>
   </sjis>
   <ascii>
-    In the end, we managed to stay for free<end_line/>
-    in exchange for bringing tier along,<end_line/>
-    but we only got a single room<three_dots/><end_line/>
+    In the end, we managed to stay for free<end_line>
+    in exchange for bringing tier along,<end_line>
+    but we only got a single room<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <player gender="female"/>
-  <info box="left"/>
-  <portrait_l entry="player" eye="happy" mouth="stressed"/>
-  <portrait_r entry="partner" eye="serious" mouth="serious"/>
+  <player gender="female">
+  <info box="left">
+  <portrait_l entry="player" eye="happy" mouth="stressed">
+  <portrait_r entry="partner" eye="serious" mouth="serious">
   <sjis>
-    わたしたちは工房で泊まれだなんて<end_line/>
-    これじゃいつもといっしょだよ！<end_line/>
-    せっかくの宿屋なのに！！<end_line/>
+    わたしたちは工房で泊まれだなんて<end_line>
+    これじゃいつもといっしょだよ！<end_line>
+    せっかくの宿屋なのに！！<end_line>
   </sjis>
   <ascii>
-    We're staying at the workshop.<end_line/>
-    So it's the same as always!<end_line/>
-    Even though we came to an inn!!<end_line/>
+    We're staying at the workshop.<end_line>
+    So it's the same as always!<end_line>
+    Even though we came to an inn!!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="run-dor"/>
-  <info box="right"/>
-  <portrait_l entry="player" eye="happy" mouth="stressed"/>
-  <portrait_r entry="partner" eye="serious" mouth="serious"/>
+  <partner name="run-dor">
+  <info box="right">
+  <portrait_l entry="player" eye="happy" mouth="stressed">
+  <portrait_r entry="partner" eye="serious" mouth="serious">
   <sjis>
-    イッショ<three_dots/>？<end_line/>
-    コノ工房ハ　イツモノ工房トハ<end_line/>
-    チガイマス<end_line/>
+    イッショ<three_dots>？<end_line>
+    コノ工房ハ　イツモノ工房トハ<end_line>
+    チガイマス<end_line>
   </sjis>
   <ascii>
-    The Same<three_dots/>?<end_line/>
-    This Workshop Is Different<end_line/>
-    From Ours.<end_line/>
+    The Same<three_dots>?<end_line>
+    This Workshop Is Different<end_line>
+    From Ours.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="run-dor"/>
-  <info box="left"/>
-  <portrait_l entry="player" eye="sad" mouth="tense"/>
-  <portrait_r entry="partner" eye="serious" mouth="serious"/>
+  <partner name="run-dor">
+  <info box="left">
+  <portrait_l entry="player" eye="sad" mouth="tense">
+  <portrait_r entry="partner" eye="serious" mouth="serious">
   <male>
     <sjis>
-      たしかにチガウけど<end_line/>
-      いっしょの気分なんだよ<end_line/>
+      たしかにチガウけど<end_line>
+      いっしょの気分なんだよ<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      たしかにチガウけど<end_line/>
-      いっしょの気分なの<end_line/>
+      たしかにチガウけど<end_line>
+      いっしょの気分なの<end_line>
     </sjis>
   </female>
   <ascii>
-    I suppose it is, but it feels<end_line/>
-    similar to me.<end_line/>
+    I suppose it is, but it feels<end_line>
+    similar to me.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="run-dor"/>
-  <info box="right"/>
-  <portrait_l entry="player" eye="sad" mouth="tense"/>
-  <portrait_r entry="partner" eye="serious" mouth="neutral"/>
+  <partner name="run-dor">
+  <info box="right">
+  <portrait_l entry="player" eye="sad" mouth="tense">
+  <portrait_r entry="partner" eye="serious" mouth="neutral">
   <sjis>
-    気分<three_dots/><end_line/>
+    気分<three_dots><end_line>
   </sjis>
   <ascii>
-    <three_dots/><end_line/>
+    <three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="run-dor"/>
-  <info box="left"/>
-  <portrait_l entry="player" eye="serious" mouth="neutral"/>
-  <portrait_r entry="partner" eye="serious" mouth="neutral"/>
+  <partner name="run-dor">
+  <info box="left">
+  <portrait_l entry="player" eye="serious" mouth="neutral">
+  <portrait_r entry="partner" eye="serious" mouth="neutral">
   <male>
     <sjis>
-      <three_dots/>って、ごめん！<end_line/>
-      出だしなんだから、気分だけでも<end_line/>
-      もりあがっていかなくちゃな！<end_line/>
+      <three_dots>って、ごめん！<end_line>
+      出だしなんだから、気分だけでも<end_line>
+      もりあがっていかなくちゃな！<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      <three_dots/>って、ごめん！<end_line/>
-      出だしなんだから、気分だけでも<end_line/>
-      もりあがっていかなくちゃね！<end_line/>
+      <three_dots>って、ごめん！<end_line>
+      出だしなんだから、気分だけでも<end_line>
+      もりあがっていかなくちゃね！<end_line>
     </sjis>
   </female>
   <ascii>
-    <three_dots/>er, sorry!<end_line/>
-    It's a start so I have to lift<end_line/>
-    my spirits at least!<end_line/>
+    <three_dots>er, sorry!<end_line>
+    It's a start so I have to lift<end_line>
+    my spirits at least!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="run-dor"/>
-  <info box="right"/>
-  <portrait_l entry="player" eye="serious" mouth="neutral"/>
-  <portrait_r entry="partner" eye="sad" mouth="neutral"/>
+  <partner name="run-dor">
+  <info box="right">
+  <portrait_l entry="player" eye="serious" mouth="neutral">
+  <portrait_r entry="partner" eye="sad" mouth="neutral">
   <sjis>
-    気分<three_dots/><end_line/>
+    気分<three_dots><end_line>
   </sjis>
   <ascii>
-    Spirit<three_dots/><end_line/>
+    Spirit<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="run-dor"/>
-  <info box="left"/>
-  <portrait_l entry="player" eye="decided" mouth="talk"/>
-  <portrait_r entry="partner" eye="sad" mouth="neutral"/>
+  <partner name="run-dor">
+  <info box="left">
+  <portrait_l entry="player" eye="decided" mouth="talk">
+  <portrait_r entry="partner" eye="sad" mouth="neutral">
   <male>
     <sjis>
-      よーし！<end_line/>
-      今日こそプロスバンの町へ行くぞ～！<end_line/>
+      よーし！<end_line>
+      今日こそプロスバンの町へ行くぞ～！<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      よーし！<end_line/>
-      今日こそプロスバンの町へ行くよ！<end_line/>
+      よーし！<end_line>
+      今日こそプロスバンの町へ行くよ！<end_line>
     </sjis>
   </female>
   <ascii>
-    Alright!<end_line/>
-    I'm going to Prosban for sure today!<end_line/>
+    Alright!<end_line>
+    I'm going to Prosban for sure today!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="enzi"/>
-  <info box="right"/>
-  <portrait_l entry="player" eye="happy" mouth="stressed"/>
-  <portrait_r entry="partner" eye="serious" mouth="serious"/>
+  <partner name="enzi">
+  <info box="right">
+  <portrait_l entry="player" eye="happy" mouth="stressed">
+  <portrait_r entry="partner" eye="serious" mouth="serious">
   <sjis>
-    おぬしもまだまだ<end_line/>
-    修行がたりんのぉ<end_line/>
+    おぬしもまだまだ<end_line>
+    修行がたりんのぉ<end_line>
   </sjis>
   <ascii>
-    You still have a ways<end_line/>
-    to go with your training.<end_line/>
+    You still have a ways<end_line>
+    to go with your training.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="enzi"/>
-  <info box="left"/>
-  <portrait_l entry="player" eye="decided" mouth="serious"/>
-  <portrait_r entry="partner" eye="serious" mouth="serious"/>
+  <partner name="enzi">
+  <info box="left">
+  <portrait_l entry="player" eye="decided" mouth="serious">
+  <portrait_r entry="partner" eye="serious" mouth="serious">
   <male>
     <sjis>
-      なんだよ<end_line/>
+      なんだよ<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      なによ、それ<end_line/>
+      なによ、それ<end_line>
     </sjis>
   </female>
   <ascii>
-    Hey, what's that supposed to mean.<end_line/>
+    Hey, what's that supposed to mean.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="enzi"/>
-  <info box="right"/>
-  <portrait_l entry="player" eye="decided" mouth="serious"/>
-  <portrait_r entry="partner" eye="serious" mouth="neutral"/>
+  <partner name="enzi">
+  <info box="right">
+  <portrait_l entry="player" eye="decided" mouth="serious">
+  <portrait_r entry="partner" eye="serious" mouth="neutral">
   <sjis>
-    空気の変化や風がはこぶ臭いが<end_line/>
-    ここがいつもとちがう場所だと<end_line/>
-    ちゃんと教えてくれておる<end_line/>
+    空気の変化や風がはこぶ臭いが<end_line>
+    ここがいつもとちがう場所だと<end_line>
+    ちゃんと教えてくれておる<end_line>
   </sjis>
   <ascii>
-    You should have noticed.<end_line/>
-    The change in atmosphere, the scent<end_line/>
-    of the air. It's all different.<end_line/>
+    You should have noticed.<end_line>
+    The change in atmosphere, the scent<end_line>
+    of the air. It's all different.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="enzi"/>
-  <info box="left"/>
-  <portrait_l entry="player" eye="decided" mouth="serious"/>
-  <portrait_r entry="partner" eye="serious" mouth="neutral"/>
+  <partner name="enzi">
+  <info box="left">
+  <portrait_l entry="player" eye="decided" mouth="serious">
+  <portrait_r entry="partner" eye="serious" mouth="neutral">
   <male>
     <sjis>
-      なんだよ<end_line/>
-      クサいってことか？<end_line/>
+      なんだよ<end_line>
+      クサいってことか？<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      なによ<end_line/>
-      クサいってこと？<end_line/>
+      なによ<end_line>
+      クサいってこと？<end_line>
     </sjis>
   </female>
   <ascii>
-    You mean it smells in here?<end_line/>
+    You mean it smells in here?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="enzi"/>
-  <info box="right"/>
-  <portrait_l entry="player" eye="decided" mouth="serious"/>
-  <portrait_r entry="partner" eye="happy" mouth="yell"/>
+  <partner name="enzi">
+  <info box="right">
+  <portrait_l entry="player" eye="decided" mouth="serious">
+  <portrait_r entry="partner" eye="happy" mouth="yell">
   <sjis>
-    そうではなくて！<end_line/>
+    そうではなくて！<end_line>
   </sjis>
   <ascii>
-    That's not it!<end_line/>
+    That's not it!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="enzi"/>
-  <info box="right"/>
-  <portrait_l entry="player" eye="decided" mouth="serious"/>
-  <portrait_r entry="partner" eye="sad" mouth="tense"/>
+  <partner name="enzi">
+  <info box="right">
+  <portrait_l entry="player" eye="decided" mouth="serious">
+  <portrait_r entry="partner" eye="sad" mouth="tense">
   <sjis>
-    まったく<three_dots/><end_line/>
-    風情もなにもないな<end_line/>
-    おぬしは<end_line/>
+    まったく<three_dots><end_line>
+    風情もなにもないな<end_line>
+    おぬしは<end_line>
   </sjis>
   <ascii>
-    Unbelievable<three_dots/><end_line/>
-    You're so incredibly obtuse.<end_line/>
+    Unbelievable<three_dots><end_line>
+    You're so incredibly obtuse.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="enzi"/>
-  <info box="left"/>
-  <portrait_l entry="player" eye="decided" mouth="serious"/>
-  <portrait_r entry="partner" eye="sad" mouth="tense"/>
+  <partner name="enzi">
+  <info box="left">
+  <portrait_l entry="player" eye="decided" mouth="serious">
+  <portrait_r entry="partner" eye="sad" mouth="tense">
   <male>
     <sjis>
-      なんだよ、フゼイって？<end_line/>
-      臭いにビンカンなことか？<end_line/>
+      なんだよ、フゼイって？<end_line>
+      臭いにビンカンなことか？<end_line>
     </sjis>
     <ascii>
-      What's obtuse mean?<end_line/>
-      Something to do with smells?<end_line/>
+      What's obtuse mean?<end_line>
+      Something to do with smells?<end_line>
     </ascii>
   </male>
   <female>
     <sjis>
-      フゼイ<three_dots/>ってなに？<end_line/>
-      臭いにビンカンなこと？<end_line/>
+      フゼイ<three_dots>ってなに？<end_line>
+      臭いにビンカンなこと？<end_line>
     </sjis>
     <ascii>
-      Obtuse<three_dots/>? What's that?<end_line/>
-      Something to do with smells?<end_line/>
+      Obtuse<three_dots>? What's that?<end_line>
+      Something to do with smells?<end_line>
     </ascii>
   </female>
 </dialogue>
 <dialogue>
-  <partner name="enzi"/>
-  <info box="right"/>
-  <portrait_l entry="player" eye="decided" mouth="serious"/>
-  <portrait_r entry="partner" eye="sad" mouth="neutral"/>
+  <partner name="enzi">
+  <info box="right">
+  <portrait_l entry="player" eye="decided" mouth="serious">
+  <portrait_r entry="partner" eye="sad" mouth="neutral">
   <sjis>
-    <three_dots/><end_line/>
-    もうよい<end_line/>
-    はやく出かけよう<end_line/>
+    <three_dots><end_line>
+    もうよい<end_line>
+    はやく出かけよう<end_line>
   </sjis>
   <ascii>
-    <three_dots/><end_line/>
-    Enough,<end_line/>
-    let's just get moving.<end_line/>
+    <three_dots><end_line>
+    Enough,<end_line>
+    let's just get moving.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="enzi"/>
-  <info box="left"/>
-  <portrait_l entry="player" eye="decided" mouth="neutral"/>
-  <portrait_r entry="partner" eye="sad" mouth="neutral"/>
+  <partner name="enzi">
+  <info box="left">
+  <portrait_l entry="player" eye="decided" mouth="neutral">
+  <portrait_r entry="partner" eye="sad" mouth="neutral">
   <male>
     <sjis>
-      あ、そうだな！<end_line/>
-      今日こそプロスバンの町に！<end_line/>
-      行かなくちゃな！<end_line/>
+      あ、そうだな！<end_line>
+      今日こそプロスバンの町に！<end_line>
+      行かなくちゃな！<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      うん、そうだなね！<end_line/>
-      今日こそプロスバンの町に！<end_line/>
-      行かなくちゃ！<end_line/>
+      うん、そうだなね！<end_line>
+      今日こそプロスバンの町に！<end_line>
+      行かなくちゃ！<end_line>
     </sjis>
   </female>
   <ascii>
-    Ah, right!<end_line/>
-    I'm going to Prosban today!<end_line/>
-    This time for sure!<end_line/>
+    Ah, right!<end_line>
+    I'm going to Prosban today!<end_line>
+    This time for sure!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="killfith"/>
-  <info box="right"/>
-  <portrait_l entry="player" eye="happy" mouth="stressed"/>
-  <portrait_r entry="partner" eye="serious" mouth="serious"/>
+  <partner name="killfith">
+  <info box="right">
+  <portrait_l entry="player" eye="happy" mouth="stressed">
+  <portrait_r entry="partner" eye="serious" mouth="serious">
   <sjis>
-    くだらない<end_line/>
-    キサマのようなニンゲンは<end_line/>
-    どこで寝ようと同じだろう？<end_line/>
+    くだらない<end_line>
+    キサマのようなニンゲンは<end_line>
+    どこで寝ようと同じだろう？<end_line>
   </sjis>
   <ascii>
-    How stupid.<end_line/>
-    For you humans, it's the same<end_line/>
-    no matter where you sleep, right?<end_line/>
+    How stupid.<end_line>
+    For you humans, it's the same<end_line>
+    no matter where you sleep, right?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="killfith"/>
-  <info box="left"/>
-  <portrait_l entry="player" eye="decided" mouth="serious"/>
-  <portrait_r entry="partner" eye="serious" mouth="serious"/>
+  <partner name="killfith">
+  <info box="left">
+  <portrait_l entry="player" eye="decided" mouth="serious">
+  <portrait_r entry="partner" eye="serious" mouth="serious">
   <male>
     <sjis>
-      なんだと<end_line/>
-      オレだって旅行気分を<end_line/>
-      少しは味わいたいんだよ！<end_line/>
+      なんだと<end_line>
+      オレだって旅行気分を<end_line>
+      少しは味わいたいんだよ！<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      なによ、それ<end_line/>
-      わたしだって旅行気分を<end_line/>
-      少しは味わいたいの！<end_line/>
+      なによ、それ<end_line>
+      わたしだって旅行気分を<end_line>
+      少しは味わいたいの！<end_line>
     </sjis>
   </female>
   <ascii>
-    Hey,<end_line/>
-    we were at an inn, this was<end_line/>
-    supposed to be like a vacation!<end_line/>
+    Hey,<end_line>
+    we were at an inn, this was<end_line>
+    supposed to be like a vacation!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="killfith"/>
-  <info box="right"/>
-  <portrait_l entry="player" eye="decided" mouth="serious"/>
-  <portrait_r entry="partner" eye="serious" mouth="talk"/>
+  <partner name="killfith">
+  <info box="right">
+  <portrait_l entry="player" eye="decided" mouth="serious">
+  <portrait_r entry="partner" eye="serious" mouth="talk">
   <sjis>
-    どうせ寝相が悪くて<end_line/>
-    床で寝るのに、か<three_dots/><end_line/>
+    どうせ寝相が悪くて<end_line>
+    床で寝るのに、か<three_dots><end_line>
   </sjis>
   <ascii>
-    Either way, you'll be<end_line/>
-    rolling around in your sleep<three_dots/><end_line/>
+    Either way, you'll be<end_line>
+    rolling around in your sleep<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="killfith"/>
-  <info box="left"/>
-  <portrait_l entry="player" eye="surprised" mouth="neutral"/>
-  <portrait_r entry="partner" eye="serious" mouth="talk"/>
+  <partner name="killfith">
+  <info box="left">
+  <portrait_l entry="player" eye="surprised" mouth="neutral">
+  <portrait_r entry="partner" eye="serious" mouth="talk">
   <sjis>
-    なっ<three_dots/>！<end_line/>
+    なっ<three_dots>！<end_line>
   </sjis>
   <ascii>
-    Wha<three_dots/>!<end_line/>
+    Wha<three_dots>!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="killfith"/>
-  <info box="left"/>
-  <portrait_l entry="player" eye="happy" mouth="stressed"/>
-  <portrait_r entry="partner" eye="serious" mouth="talk"/>
+  <partner name="killfith">
+  <info box="left">
+  <portrait_l entry="player" eye="happy" mouth="stressed">
+  <portrait_r entry="partner" eye="serious" mouth="talk">
   <sjis>
-    さーて！<end_line/>
-    そろそろ出発しようかな～！<end_line/>
-    今日こそプロスバンの町へ行くぞ～！<end_line/>
+    さーて！<end_line>
+    そろそろ出発しようかな～！<end_line>
+    今日こそプロスバンの町へ行くぞ～！<end_line>
   </sjis>
   <ascii>
-    Okaaay!<end_line/>
-    It's time to leave~!<end_line/>
-    We're making it to Prosban today~!<end_line/>
+    Okaaay!<end_line>
+    It's time to leave~!<end_line>
+    We're making it to Prosban today~!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="killfith"/>
-  <info box="right"/>
-  <portrait_l entry="player" eye="happy" mouth="stressed"/>
-  <portrait_r entry="partner" eye="sad" mouth="neutral"/>
+  <partner name="killfith">
+  <info box="right">
+  <portrait_l entry="player" eye="happy" mouth="stressed">
+  <portrait_r entry="partner" eye="sad" mouth="neutral">
   <sjis>
-    それでごまかしたつもりか<three_dots/><end_line/>
+    それでごまかしたつもりか<three_dots><end_line>
   </sjis>
   <ascii>
-    Changing the subject<three_dots/>?<end_line/>
+    Changing the subject<three_dots>?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="rufeel"/>
-  <info box="nobox"/>
+  <partner name="rufeel">
+  <info box="nobox">
   <sjis>
-    そうですわ<end_line/>
-    せめて旅先くらい<end_line/>
-    別々の部屋で眠りたかったです<end_line/>
+    そうですわ<end_line>
+    せめて旅先くらい<end_line>
+    別々の部屋で眠りたかったです<end_line>
   </sjis>
   <ascii>
-    That's right.<end_line/>
-    I wanted to at least sleep in<end_line/>
-    separate rooms while we're on this trip.<end_line/>
+    That's right.<end_line>
+    I wanted to at least sleep in<end_line>
+    separate rooms while we're on this trip.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="rufeel"/>
-  <info box="left"/>
-  <portrait_l name="player"/>
+  <partner name="rufeel">
+  <info box="left">
+  <portrait_l name="player">
   <male>
     <sjis>
-      なんだよ<end_line/>
-      オレだってひとりで<end_line/>
-      しずかに眠りたいぜ！<end_line/>
+      なんだよ<end_line>
+      オレだってひとりで<end_line>
+      しずかに眠りたいぜ！<end_line>
     </sjis>
     <ascii>
-      Hey,<end_line/>
-      of course I want some<end_line/>
-      quiet time myself!<end_line/>
+      Hey,<end_line>
+      of course I want some<end_line>
+      quiet time myself!<end_line>
     </ascii>
   </male>
   <female>
     <sjis>
-      なによ、それ<end_line/>
-      すっごくひどくない？<end_line/>
+      なによ、それ<end_line>
+      すっごくひどくない？<end_line>
     </sjis>
     <ascii>
-      Hey, aren't you<end_line/>
-      being mean?<end_line/>
+      Hey, aren't you<end_line>
+      being mean?<end_line>
     </ascii>
   </female>
 </dialogue>
 <dialogue>
-  <partner name="rufeel"/>
-  <info box="right"/>
-  <portrait_r name="partner"/>
+  <partner name="rufeel">
+  <info box="right">
+  <portrait_r name="partner">
   <sjis>
-    なに言ってるんですか<end_line/>
-    <player_nickname>さんの寝言<end_line/>
-    すごくうるさいんですのよ！<end_line/>
+    なに言ってるんですか<end_line>
+    <player_nickname>さんの寝言<end_line>
+    すごくうるさいんですのよ！<end_line>
   </sjis>
   <ascii>
-    What are you saying?<end_line/>
-    You sleeptalking is<end_line/>
-    incredibly loud, <player_nickname>!<end_line/>
+    What are you saying?<end_line>
+    You sleeptalking is<end_line>
+    incredibly loud, <player_nickname>!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="rufeel"/>
-  <info box="left"/>
-  <portrait_l name="player"/>
+  <partner name="rufeel">
+  <info box="left">
+  <portrait_l name="player">
   <sjis>
-    え？<end_line/>
+    え？<end_line>
   </sjis>
   <ascii>
-    Eh?<end_line/>
+    Eh?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="rufeel"/>
-  <info box="right"/>
-  <portrait_r name="partner"/>
+  <partner name="rufeel">
+  <info box="right">
+  <portrait_r name="partner">
   <sjis>
-    昨日だって、夜中に突然<end_line/>
+    昨日だって、夜中に突然<end_line>
   </sjis>
   <ascii>
-    Just last night, you shouted,<end_line/>
+    Just last night, you shouted,<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <player gender="male"/>
-  <partner name="rufeel"/>
-  <info box="right"/>
-  <portrait_r name="partner"/>
+  <player gender="male">
+  <partner name="rufeel">
+  <info box="right">
+  <portrait_r name="partner">
   <sjis>
-    ちょっと！？<end_line/>
-    そんなことやめろよ！<end_line/>
+    ちょっと！？<end_line>
+    そんなことやめろよ！<end_line>
   </sjis>
   <ascii>
-    Hey!?<end_line/>
-    Stop that!<end_line/>
+    Hey!?<end_line>
+    Stop that!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <player gender="female"/>
-  <partner name="rufeel"/>
-  <info box="right"/>
-  <portrait_r name="partner"/>
+  <player gender="female">
+  <partner name="rufeel">
+  <info box="right">
+  <portrait_r name="partner">
   <sjis>
-    いやっ！？<end_line/>
-    そこはダメよっ！<end_line/>
+    いやっ！？<end_line>
+    そこはダメよっ！<end_line>
   </sjis>
   <ascii>
-    No!?<end_line/>
-    Not there!<end_line/>
+    No!?<end_line>
+    Not there!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="rufeel"/>
-  <info box="right"/>
-  <portrait_r name="partner"/>
+  <partner name="rufeel">
+  <info box="right">
+  <portrait_r name="partner">
   <sjis>
-    とか叫んで<end_line/>
-    ワケがわかりませんわ<end_line/>
+    とか叫んで<end_line>
+    ワケがわかりませんわ<end_line>
   </sjis>
   <ascii>
-    completely out of nowhere.<end_line/>
-    I didn't understand it at all.<end_line/>
+    completely out of nowhere.<end_line>
+    I didn't understand it at all.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="rufeel"/>
-  <info box="left"/>
-  <portrait_l name="player"/>
+  <partner name="rufeel">
+  <info box="left">
+  <portrait_l name="player">
   <sjis>
-    それは<three_dots/><end_line/>
-    えーと<three_dots/><end_line/>
+    それは<three_dots><end_line>
+    えーと<three_dots><end_line>
   </sjis>
   <ascii>
-    That's<three_dots/><end_line/>
-    Well<three_dots/><end_line/>
+    That's<three_dots><end_line>
+    Well<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="rufeel"/>
-  <info box="left"/>
-  <portrait_l name="player"/>
+  <partner name="rufeel">
+  <info box="left">
+  <portrait_l name="player">
   <sjis>
-    そうだ！<end_line/>
-    そろそろ出発しないと<end_line/>
-    今日こそプロスバンの町へ行くぞ～！<end_line/>
+    そうだ！<end_line>
+    そろそろ出発しないと<end_line>
+    今日こそプロスバンの町へ行くぞ～！<end_line>
   </sjis>
   <ascii>
-    Right!<end_line/>
-    It's about time to get going.<end_line/>
-    We're making it to Prosban today!<end_line/>
+    Right!<end_line>
+    It's about time to get going.<end_line>
+    We're making it to Prosban today!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="rufeel"/>
-  <info box="right"/>
-  <portrait_r name="partner"/>
+  <partner name="rufeel">
+  <info box="right">
+  <portrait_r name="partner">
   <sjis>
-    まったく<three_dots/><end_line/>
-    どんなユメを見ていたんですか<three_dots/><end_line/>
+    まったく<three_dots><end_line>
+    どんなユメを見ていたんですか<three_dots><end_line>
   </sjis>
   <ascii>
-    Good grief<three_dots/><end_line/>
-    Just what kind of dream was that<three_dots/><end_line/>
+    Good grief<three_dots><end_line>
+    Just what kind of dream was that<three_dots><end_line>
   </ascii>
 </dialogue>

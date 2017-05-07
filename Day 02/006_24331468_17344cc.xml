@@ -9,8 +9,8 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple"/>
-	<portrait_l name="player"/>
+	<info box="simple">
+	<portrait_l name="player">
 	<sjis>
 		修行はいつものトコでしよう<end_line>
 	</sjis>
@@ -19,8 +19,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple"/>
-	<portrait_l name="elderly"/>
+	<info box="simple">
+	<portrait_l name="elderly">
 	<sjis>
 		小豆は体にええぞぉ<end_line>
 		こまめとかいてあずきじゃ<end_line>
@@ -31,8 +31,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple"/>
-	<portrait_l name="peddler's_daughter"/>
+	<info box="simple">
+	<portrait_l name="peddler's_daughter">
 	<sjis>
 		私のお母様は、旅商人なの<end_line>
 		今は２人で旅をして鍛冶師や職人に<end_line>
@@ -45,8 +45,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple"/>
-	<portrait_l name="peddler's_daughter"/>
+	<info box="simple">
+	<portrait_l name="peddler's_daughter">
 	<sjis>
 		お母様は、私が遊びに行ってるって<end_line>
 		思ってるみたいだけど、将来のために<end_line>
@@ -59,8 +59,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple"/>
-	<portrait_l name="peddler's_daughter"/>
+	<info box="simple">
+	<portrait_l name="peddler's_daughter">
 	<sjis>
 		ところであなたは、鍛冶師みたいだけど<end_line>
 		強化の情報を聞いていかない？<end_line>
@@ -71,7 +71,7 @@
 	</ascii>
 </dialogue>
 <choice>
-	<info box="simple"/>
+	<info box="simple">
 	<option>
 		<sjis>
 			聞いてみる<end_line>
@@ -90,8 +90,8 @@
 	</option>
 </choice>
 <dialogue>
-	<info box="simple"/>
-	<portrait_l name="peddler's_daughter"/>
+	<info box="simple">
+	<portrait_l name="peddler's_daughter">
 	<sjis>
 		えっとね、強化で「蓄電バッテリー」を<end_line>
 		使うと、必殺技の「サンダーショット」<end_line>
@@ -104,8 +104,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple"/>
-	<portrait_l name="peddler's_daughter"/>
+	<info box="simple">
+	<portrait_l name="peddler's_daughter">
 	<sjis>
 		あっ、でも武器タイプによって<end_line>
 		必殺技が付加されない場合があるから<end_line>
@@ -118,8 +118,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple"/>
-	<portrait_l name="peddler's_daughter"/>
+	<info box="simple">
+	<portrait_l name="peddler's_daughter">
 	<sjis>
 		でもって、今回はなんと<end_line>
 		「蓄電バッテリー」を、２００バームで<end_line>
@@ -132,8 +132,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple"/>
-	<portrait_l name="peddler's_daughter"/>
+	<info box="simple">
+	<portrait_l name="peddler's_daughter">
 	<sjis>
 		買ってくれます？<end_line>
 	</sjis>
@@ -142,7 +142,7 @@
 	</ascii>
 </dialogue>
 <choice>
-	<info box="simple"/>
+	<info box="simple">
 	<option>
 		<sjis>
 			買う<end_line>
@@ -161,8 +161,8 @@
 	</option>
 </choice>
 <dialogue>
-	<info box="simple"/>
-	<portrait_l name="peddler's_daughter"/>
+	<info box="simple">
+	<portrait_l name="peddler's_daughter">
 	<sjis>
 		ありがと～<end_line>
 	</sjis>
@@ -171,8 +171,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple"/>
-	<portrait_l name="peddler's_daughter"/>
+	<info box="simple">
+	<portrait_l name="peddler's_daughter">
 	<sjis>
 		ええぇ～これじゃ～<end_line>
 		お金たりないの～<end_line>
@@ -185,8 +185,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple"/>
-	<portrait_l name="peddler's_daughter"/>
+	<info box="simple">
+	<portrait_l name="peddler's_daughter">
 	<sjis>
 		え～聞くだけ聞いて買ってくれないの～<end_line>
 		ケチ～<end_line>
@@ -198,8 +198,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple"/>
-	<portrait_l name="peddler's_daughter"/>
+	<info box="simple">
+	<portrait_l name="peddler's_daughter">
 	<sjis>
 		え～聞いてくれないの～<end_line>
 		せっかくのお客さんだと思ったのに～<end_line>

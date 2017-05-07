@@ -1,6 +1,6 @@
 <dialogue>
-	<info box="simple"/>
-	<portrait_r name="gatekeeper"/>
+	<info box="simple">
+	<portrait_r name="gatekeeper">
 	<sjis>
 		この先にはぐれ召喚獣が出たんだ<end_line>
 		あぶないから退治できるまで<end_line>
@@ -13,8 +13,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="left"/>
-	<portrait_l entry="player" eye="serious" mouth="neutral"/>
+	<info box="left">
+	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
 			オレもそのはぐれ退治を<end_line>
@@ -32,8 +32,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple"/>
-	<portrait_r name="gatekeeper"/>
+	<info box="simple">
+	<portrait_r name="gatekeeper">
 	<sjis>
 		なに言ってるんだ<end_line>
 		やめときな<end_line>
@@ -44,8 +44,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="left"/>
-	<portrait_l entry="player" eye="decided" mouth="serious"/>
+	<info box="left">
+	<portrait_l entry="player" eye="decided" mouth="serious">
 	<sjis>
 		でも<three_dots>！<end_line>
 	</sjis>
@@ -54,8 +54,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple"/>
-	<portrait_r name="gatekeeper"/>
+	<info box="simple">
+	<portrait_r name="gatekeeper">
 	<sjis>
 		ほらほら<end_line>
 		修行ならいつものところで<end_line>
@@ -67,8 +67,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="left"/>
-	<portrait_l entry="player" eye="sad" mouth="tense"/>
+	<info box="left">
+	<portrait_l entry="player" eye="sad" mouth="tense">
 	<sjis>
 		うぅ<three_dots><end_line>
 	</sjis>
@@ -77,10 +77,10 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<partner name="run-dor"/>
-	<info box="right"/>
-	<portrait_l entry="player" eye="sad" mouth="tense"/>
-	<portrait_r entry="partner" eye="serious" mouth="tense"/>
+	<partner name="run-dor">
+	<info box="right">
+	<portrait_l entry="player" eye="sad" mouth="tense">
+	<portrait_r entry="partner" eye="serious" mouth="tense">
 	<sjis>
 		許可ハ　オリマセンデシタネ<end_line>
 		ドウスルンデスカ？<end_line>
@@ -91,10 +91,10 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<partner name="enzi"/>
-	<info box="right"/>
-	<portrait_l entry="player" eye="sad" mouth="tense"/>
-	<portrait_r entry="partner" eye="serious" mouth="tense"/>
+	<partner name="enzi">
+	<info box="right">
+	<portrait_l entry="player" eye="sad" mouth="tense">
+	<portrait_r entry="partner" eye="serious" mouth="tense">
 	<sjis>
 		さすがに正面突破は<end_line>
 		ムリだったようじゃな<end_line>
@@ -107,10 +107,10 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<partner name="killfith"/>
-	<info box="right"/>
-	<portrait_l entry="player" eye="sad" mouth="tense"/>
-	<portrait_r entry="partner" eye="serious" mouth="tense"/>
+	<partner name="killfith">
+	<info box="right">
+	<portrait_l entry="player" eye="sad" mouth="tense">
+	<portrait_r entry="partner" eye="serious" mouth="tense">
 	<sjis>
 		ジャマなニンゲンを消す<three_dots><end_line>
 		というのはダメなんだろ？<end_line>
@@ -122,10 +122,10 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<partner name="rufeel"/>
-	<info box="right"/>
-	<portrait_l entry="player" eye="sad" mouth="tense"/>
-	<portrait_r entry="partner" eye="serious" mouth="tense"/>
+	<partner name="rufeel">
+	<info box="right">
+	<portrait_l entry="player" eye="sad" mouth="tense">
+	<portrait_r entry="partner" eye="serious" mouth="tense">
 	<sjis>
 		さすがに正面突破は<end_line>
 		ムリみたいですわ<three_dots><end_line>
@@ -138,9 +138,9 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="left"/>
-	<portrait_l entry="player" eye="serious" mouth="serious"/>
-	<portrait_r entry="partner" eye="serious" mouth="tense"/>
+	<info box="left">
+	<portrait_l entry="player" eye="serious" mouth="serious">
+	<portrait_r entry="partner" eye="serious" mouth="tense">
 	<sjis>
 		おとなしく修行するしか<end_line>
 		ないのかなぁ<three_dots><end_line>
@@ -151,8 +151,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple"/>
-	<portrait_r name="gatekeeper"/>
+	<info box="simple">
+	<portrait_r name="gatekeeper">
 	<sjis>
 		今この道は通行止めだ<end_line>
 		修行ならよそでやりな<end_line>

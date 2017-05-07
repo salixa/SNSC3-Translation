@@ -1,19 +1,19 @@
 <location>
   <sjis>
-    村長の家　道具屋<end_line/>
+    村長の家　道具屋<end_line>
   </sjis>
 </location>
 <location>
   <sjis>
-    村長の家　道具屋<end_line/>
+    村長の家　道具屋<end_line>
   </sjis>
 </location>
 <dialogue>
-  <info box="simple"/>
+  <info box="simple">
   <sjis>
-    ゴロゴロ<three_dots/><end_line/>
+    ゴロゴロ<three_dots><end_line>
   </sjis>
   <ascii>
-    Rumble<three_dots/><end_line/>
+    Rumble<three_dots><end_line>
   </ascii>
 </dialogue>

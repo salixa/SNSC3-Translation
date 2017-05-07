@@ -9,8 +9,8 @@
   </sjis>
 </location>
 <dialogue>
-  <info box="simple"/>
-  <portrait_l name="murno"/>
+  <info box="simple">
+  <portrait_l name="murno">
   <sjis>
     追い出されたワケじゃないから<end_line>
     気にしないで<three_dots><end_line>
@@ -21,8 +21,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple"/>
-  <portrait_l name="zakk"/>
+  <info box="simple">
+  <portrait_l name="zakk">
   <sjis>
     あんまりケンカばっか<end_line>
     してるなよな<end_line>
@@ -32,8 +32,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple"/>
-  <portrait_l name="vee"/>
+  <info box="simple">
+  <portrait_l name="vee">
   <sjis>
     ジェイド相手にエンリョは無用だ<end_line>
     負けんじゃないよ！<end_line>
@@ -44,8 +44,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple"/>
-  <portrait_l name="murno"/>
+  <info box="simple">
+  <portrait_l name="murno">
   <sjis>
     がんばってね、<player_nickname><three_dots><end_line>
   </sjis>
@@ -54,8 +54,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple"/>
-  <portrait_l name="child"/>
+  <info box="simple">
+  <portrait_l name="child">
   <sjis>
     村の外には、はぐれが<end_line>
     いっぱいいるから<end_line>
@@ -68,8 +68,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple"/>
-  <portrait_l name="woman"/>
+  <info box="simple">
+  <portrait_l name="woman">
   <sjis>
     人の武器を預かるって、<end_line>
     何がおもしろいのかしら<end_line>
@@ -81,8 +81,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple"/>
-  <portrait_l name="woman"/>
+  <info box="simple">
+  <portrait_l name="woman">
   <sjis>
     あの池にはへんなひとばかり<end_line>
     集まるわね<end_line>

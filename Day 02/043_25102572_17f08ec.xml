@@ -1,6 +1,6 @@
 <dialogue>
-	<info box="nobox"/>
-	<portrait_l name="lemmy"/>
+	<info box="nobox">
+	<portrait_l name="lemmy">
 	<sjis>
 		誰かと思えば<three_dots><end_line>
 	</sjis>
@@ -9,9 +9,9 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="right"/>
-	<portrait_l entry="player" eye="serious" mouth="serious"/>
-	<portrait_r entry="lemmy" eye="sad" mouth="neutral"/>
+	<info box="right">
+	<portrait_l entry="player" eye="serious" mouth="serious">
+	<portrait_r entry="lemmy" eye="sad" mouth="neutral">
 	<sjis>
 		やっぱり君か<three_dots><end_line>
 	</sjis>
@@ -20,9 +20,9 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="left"/>
-	<portrait_l entry="player" eye="serious" mouth="tense"/>
-	<portrait_r entry="lemmy" eye="sad" mouth="neutral"/>
+	<info box="left">
+	<portrait_l entry="player" eye="serious" mouth="tense">
+	<portrait_r entry="lemmy" eye="sad" mouth="neutral">
 	<male>
 		<sjis>
 			やっぱりってなんだよ？<end_line>
@@ -38,9 +38,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="right"/>
-	<portrait_l entry="player" eye="serious" mouth="tense"/>
-	<portrait_r entry="lemmy" eye="serious" mouth="tense"/>
+	<info box="right">
+	<portrait_l entry="player" eye="serious" mouth="tense">
+	<portrait_r entry="lemmy" eye="serious" mouth="tense">
 	<sjis>
 		あやしい人影が見えたから<end_line>
 		調べに来ただけだよ<end_line>
@@ -51,9 +51,9 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="left"/>
-	<portrait_l entry="player" eye="decided" mouth="tense"/>
-	<portrait_r entry="lemmy" eye="serious" mouth="tense"/>
+	<info box="left">
+	<portrait_l entry="player" eye="decided" mouth="tense">
+	<portrait_r entry="lemmy" eye="serious" mouth="tense">
 	<male>
 		<sjis>
 			あやしいって、オレのことかよ<end_line>
@@ -71,9 +71,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="right"/>
-	<portrait_l entry="player" eye="decided" mouth="tense"/>
-	<portrait_r entry="lemmy" eye="decided" mouth="talk"/>
+	<info box="right">
+	<portrait_l entry="player" eye="decided" mouth="tense">
+	<portrait_r entry="lemmy" eye="decided" mouth="talk">
 	<sjis>
 		気がついてなかったのか<three_dots><end_line>
 		君は十分あやしいよ<end_line>
@@ -83,9 +83,9 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="left"/>
-	<portrait_l entry="player" eye="decided" mouth="yell"/>
-	<portrait_r entry="lemmy" eye="decided" mouth="talk"/>
+	<info box="left">
+	<portrait_l entry="player" eye="decided" mouth="yell">
+	<portrait_r entry="lemmy" eye="decided" mouth="talk">
 	<male>
 		<sjis>
 			なんだと！<end_line>
@@ -101,9 +101,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="right"/>
-	<portrait_l entry="player" eye="decided" mouth="yell"/>
-	<portrait_r entry="lemmy" eye="serious" mouth="neutral"/>
+	<info box="right">
+	<portrait_l entry="player" eye="decided" mouth="yell">
+	<portrait_r entry="lemmy" eye="serious" mouth="neutral">
 	<sjis>
 		さわぎのあるところには必ず<end_line>
 		君がいるじゃないか<end_line>
@@ -114,9 +114,9 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="left"/>
-	<portrait_l entry="player" eye="sad" mouth="tense"/>
-	<portrait_r entry="lemmy" eye="serious" mouth="neutral"/>
+	<info box="left">
+	<portrait_l entry="player" eye="sad" mouth="tense">
+	<portrait_r entry="lemmy" eye="serious" mouth="neutral">
 	<sjis>
 		う<three_dots><end_line>
 		反論できないところが<three_dots><end_line>
@@ -127,9 +127,9 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="left"/>
-	<portrait_l entry="player" eye="surprised" mouth="tense"/>
-	<portrait_r entry="lemmy" eye="serious" mouth="neutral"/>
+	<info box="left">
+	<portrait_l entry="player" eye="surprised" mouth="tense">
+	<portrait_r entry="lemmy" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
 			そういえば<end_line>
@@ -149,9 +149,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="right"/>
-	<portrait_l entry="player" eye="surprised" mouth="tense"/>
-	<portrait_r entry="lemmy" eye="serious" mouth="tense"/>
+	<info box="right">
+	<portrait_l entry="player" eye="surprised" mouth="tense">
+	<portrait_r entry="lemmy" eye="serious" mouth="tense">
 	<sjis>
 		それほどひどいケガじゃなかったから<end_line>
 		もう元気にしてる<three_dots><end_line>
@@ -164,9 +164,9 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="left"/>
-	<portrait_l entry="player" eye="decided" mouth="tense"/>
-	<portrait_r entry="lemmy" eye="serious" mouth="tense"/>
+	<info box="left">
+	<portrait_l entry="player" eye="decided" mouth="tense">
+	<portrait_r entry="lemmy" eye="serious" mouth="tense">
 	<male>
 		<sjis>
 			なんだよ？<end_line>
@@ -185,9 +185,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="right"/>
-	<portrait_l entry="player" eye="decided" mouth="tense"/>
-	<portrait_r entry="lemmy" eye="serious" mouth="neutral"/>
+	<info box="right">
+	<portrait_l entry="player" eye="decided" mouth="tense">
+	<portrait_r entry="lemmy" eye="serious" mouth="neutral">
 	<sjis>
 		いや、ケガじゃないけど<end_line>
 		おとなしくなってる<end_line>
@@ -200,9 +200,9 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="left"/>
-	<portrait_l entry="player" eye="happy" mouth="neutral"/>
-	<portrait_r entry="lemmy" eye="serious" mouth="neutral"/>
+	<info box="left">
+	<portrait_l entry="player" eye="happy" mouth="neutral">
+	<portrait_r entry="lemmy" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
 			そっか<end_line>
@@ -224,9 +224,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="right"/>
-	<portrait_l entry="player" eye="happy" mouth="neutral"/>
-	<portrait_r entry="lemmy" eye="decided" mouth="talk"/>
+	<info box="right">
+	<portrait_l entry="player" eye="happy" mouth="neutral">
+	<portrait_r entry="lemmy" eye="decided" mouth="talk">
 	<sjis>
 		また君がケンカで<end_line>
 		やっつけたからかい？<end_line>
@@ -236,9 +236,9 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="left"/>
-	<portrait_l entry="player" eye="decided" mouth="yell"/>
-	<portrait_r entry="lemmy" eye="decided" mouth="talk"/>
+	<info box="left">
+	<portrait_l entry="player" eye="decided" mouth="yell">
+	<portrait_r entry="lemmy" eye="decided" mouth="talk">
 	<male>
 		<sjis>
 			ケンカじゃない！<end_line>
@@ -258,9 +258,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="right"/>
-	<portrait_l entry="player" eye="decided" mouth="yell"/>
-	<portrait_r entry="lemmy" eye="serious" mouth="neutral"/>
+	<info box="right">
+	<portrait_l entry="player" eye="decided" mouth="yell">
+	<portrait_r entry="lemmy" eye="serious" mouth="neutral">
 	<sjis>
 		それって、何かちがうの？<end_line>
 	</sjis>
@@ -269,9 +269,9 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="left"/>
-	<portrait_l entry="player" eye="decided" mouth="tense"/>
-	<portrait_r entry="lemmy" eye="serious" mouth="neutral"/>
+	<info box="left">
+	<portrait_l entry="player" eye="decided" mouth="tense">
+	<portrait_r entry="lemmy" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
 			全然ちがうだろ！<end_line>
@@ -293,9 +293,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="right"/>
-	<portrait_l entry="player" eye="decided" mouth="tense"/>
-	<portrait_r entry="lemmy" eye="sad" mouth="talk"/>
+	<info box="right">
+	<portrait_l entry="player" eye="decided" mouth="tense">
+	<portrait_r entry="lemmy" eye="sad" mouth="talk">
 	<sjis>
 		ふ<three_dots><end_line>
 		心、か<three_dots><end_line>
@@ -308,9 +308,9 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="left"/>
-	<portrait_l entry="player" eye="decided" mouth="stressed"/>
-	<portrait_r entry="lemmy" eye="sad" mouth="talk"/>
+	<info box="left">
+	<portrait_l entry="player" eye="decided" mouth="stressed">
+	<portrait_r entry="lemmy" eye="sad" mouth="talk">
 	<male>
 		<sjis>
 			な<three_dots><end_line>
@@ -331,9 +331,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="right"/>
-	<portrait_l entry="player" eye="decided" mouth="stressed"/>
-	<portrait_r entry="lemmy" eye="serious" mouth="talk"/>
+	<info box="right">
+	<portrait_l entry="player" eye="decided" mouth="stressed">
+	<portrait_r entry="lemmy" eye="serious" mouth="talk">
 	<sjis>
 		さあね<end_line>
 	</sjis>

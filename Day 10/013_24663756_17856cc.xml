@@ -1,12 +1,12 @@
 <location>
 	<sjis>
-		‘º’·‚Ì‰Æ@LŠÔ<end_line/>
+		‘º’·‚Ì‰Æ@LŠÔ<end_line>
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple"/>
-	<portrait_l name="chief"/>
+	<info box="simple">
+	<portrait_l name="chief">
 	<sjis>
-		‚Ç‚ñ‚ÈŽž‚à–û’f‚Í‚·‚é‚È‚æ<end_line/>
+		‚Ç‚ñ‚ÈŽž‚à–û’f‚Í‚·‚é‚È‚æ<end_line>
 	</sjis>
 </dialogue>

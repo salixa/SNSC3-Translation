@@ -1,333 +1,333 @@
 <dialogue>
-  <info box="nobox"/>
-  <portrait_l name="jade"/>
+  <info box="nobox">
+  <portrait_l name="jade">
   <sjis>
-    どうした、<player_nickname>？<end_line/>
+    どうした、<player_nickname>？<end_line>
   </sjis>
   <ascii>
-    What's wrong, <player_nickname>?<end_line/>
+    What's wrong, <player_nickname>?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right"/>
-  <portrait_l entry="player" eye="sad" mouth="serious"/>
-  <portrait_r entry="jade" eye="serious" mouth="talk"/>
+  <info box="right">
+  <portrait_l entry="player" eye="sad" mouth="serious">
+  <portrait_r entry="jade" eye="serious" mouth="talk">
   <male>
     <sjis>
-      すっげぇため息だなぁ<end_line/>
-      色男さんよ<end_line/>
+      すっげぇため息だなぁ<end_line>
+      色男さんよ<end_line>
     </sjis>
     <ascii>
-      That was a big sigh,<end_line/>
-      lady killer.<end_line/>
+      That was a big sigh,<end_line>
+      lady killer.<end_line>
     </ascii>
   </male>
   <female>
     <sjis>
-      すっげぇため息だなぁ<end_line/>
-      人気者さんったらよ<end_line/>
+      すっげぇため息だなぁ<end_line>
+      人気者さんったらよ<end_line>
     </sjis>
     <ascii>
-      That was a big sigh,<end_line/>
-      popular girl.<end_line/>
+      That was a big sigh,<end_line>
+      popular girl.<end_line>
     </ascii>
   </female>
 </dialogue>
 <dialogue>
-  <info box="left"/>
-  <portrait_l entry="player" eye="serious" mouth="tense"/>
-  <portrait_r entry="jade" eye="serious" mouth="talk"/>
+  <info box="left">
+  <portrait_l entry="player" eye="serious" mouth="tense">
+  <portrait_r entry="jade" eye="serious" mouth="talk">
   <male>
     <sjis>
-      なんだよ、アニキまで<end_line/>
-      人が真剣に悩んでるのに<end_line/>
+      なんだよ、アニキまで<end_line>
+      人が真剣に悩んでるのに<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      なによ、アニキまで<end_line/>
-      人が真剣に悩んでるのに<end_line/>
+      なによ、アニキまで<end_line>
+      人が真剣に悩んでるのに<end_line>
     </sjis>
   </female>
   <ascii>
-    What, you're messing with me too?<end_line/>
-    I'm seriously worried over here.<end_line/>
+    What, you're messing with me too?<end_line>
+    I'm seriously worried over here.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right"/>
-  <portrait_l entry="player" eye="serious" mouth="tense"/>
-  <portrait_r entry="jade" eye="serious" mouth="talk"/>
+  <info box="right">
+  <portrait_l entry="player" eye="serious" mouth="tense">
+  <portrait_r entry="jade" eye="serious" mouth="talk">
   <sjis>
-    そんなこと知るか<end_line/>
-    ハッキリしないお前が<end_line/>
-    悪いんだろ？<end_line/>
+    そんなこと知るか<end_line>
+    ハッキリしないお前が<end_line>
+    悪いんだろ？<end_line>
   </sjis>
   <ascii>
-    Like I care.<end_line/>
-    It's your fault for not<end_line/>
-    being straight about it, isn't it?<end_line/>
+    Like I care.<end_line>
+    It's your fault for not<end_line>
+    being straight about it, isn't it?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="left"/>
-  <portrait_l entry="player" eye="decided" mouth="yell"/>
-  <portrait_r entry="jade" eye="serious" mouth="talk"/>
+  <info box="left">
+  <portrait_l entry="player" eye="decided" mouth="yell">
+  <portrait_r entry="jade" eye="serious" mouth="talk">
   <male>
     <sjis>
-      そんなことないだろ<end_line/>
-      オレはちゃんと<three_dots/><end_line/>
+      そんなことないだろ<end_line>
+      オレはちゃんと<three_dots><end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      そんなことないよ<end_line/>
-      わたしはちゃんと<three_dots/><end_line/>
+      そんなことないよ<end_line>
+      わたしはちゃんと<three_dots><end_line>
     </sjis>
   </female>
   <ascii>
-    That's not it,<end_line/>
-    I'm really<three_dots/><end_line/>
+    That's not it,<end_line>
+    I'm really<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right"/>
-  <portrait_l entry="player" eye="decided" mouth="yell"/>
-  <portrait_r entry="jade" eye="decided" mouth="tense"/>
+  <info box="right">
+  <portrait_l entry="player" eye="decided" mouth="yell">
+  <portrait_r entry="jade" eye="decided" mouth="tense">
   <sjis>
-    じゃあミューノかティエ<end_line/>
-    どっちを選ぶんだ？<end_line/>
+    じゃあミューノかティエ<end_line>
+    どっちを選ぶんだ？<end_line>
   </sjis>
   <ascii>
-    Okay, then between Murno and Tier,<end_line/>
-    which would you choose?<end_line/>
+    Okay, then between Murno and Tier,<end_line>
+    which would you choose?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="left"/>
-  <portrait_l entry="player" eye="surprised_blush" mouth="yell"/>
-  <portrait_r entry="jade" eye="decided" mouth="tense"/>
+  <info box="left">
+  <portrait_l entry="player" eye="surprised_blush" mouth="yell">
+  <portrait_r entry="jade" eye="decided" mouth="tense">
   <sjis>
-    選ぶって<end_line/>
-    そういう問題なの！？<end_line/>
+    選ぶって<end_line>
+    そういう問題なの！？<end_line>
   </sjis>
   <ascii>
-    Choose?<end_line/>
-    It's that kind of question!?<end_line/>
+    Choose?<end_line>
+    It's that kind of question!?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right"/>
-  <portrait_l entry="player" eye="surprised_blush" mouth="yell"/>
-  <portrait_r entry="jade" eye="surprised" mouth="neutral"/>
+  <info box="right">
+  <portrait_l entry="player" eye="surprised_blush" mouth="yell">
+  <portrait_r entry="jade" eye="surprised" mouth="neutral">
   <sjis>
-    ちがうのか？<end_line/>
-    他に誰か好きなヤツでもいるのか？<end_line/>
+    ちがうのか？<end_line>
+    他に誰か好きなヤツでもいるのか？<end_line>
   </sjis>
   <ascii>
-    Am I wrong?<end_line/>
-    Is there anyone else you like?<end_line/>
+    Am I wrong?<end_line>
+    Is there anyone else you like?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="left"/>
-  <portrait_l entry="player" eye="happy_blush" mouth="yell"/>
-  <portrait_r entry="jade" eye="surprised" mouth="neutral"/>
+  <info box="left">
+  <portrait_l entry="player" eye="happy_blush" mouth="yell">
+  <portrait_r entry="jade" eye="surprised" mouth="neutral">
   <sjis>
-    そ、そういうことじゃなくて！<end_line/>
+    そ、そういうことじゃなくて！<end_line>
   </sjis>
   <ascii>
-    Th-that's not what I meant!<end_line/>
+    Th-that's not what I meant!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="left"/>
-  <portrait_l entry="player" eye="sad" mouth="neutral"/>
-  <portrait_r entry="jade" eye="serious" mouth="neutral"/>
+  <info box="left">
+  <portrait_l entry="player" eye="sad" mouth="neutral">
+  <portrait_r entry="jade" eye="serious" mouth="neutral">
   <male>
     <sjis>
-      最初は鍛冶師として働かないかって<end_line/>
-      話だったのに<end_line/>
-      どうしてダンナなんて話に<three_dots/><end_line/>
+      最初は鍛冶師として働かないかって<end_line>
+      話だったのに<end_line>
+      どうしてダンナなんて話に<three_dots><end_line>
     </sjis>
     <ascii>
-      She started off talking about me <end_line/>
-      working as a Craftknight, so how<end_line/>
-      did it end up with me being her husband<three_dots/><end_line/>
+      She started off talking about me <end_line>
+      working as a Craftknight, so how<end_line>
+      did it end up with me being her husband<three_dots><end_line>
     </ascii>
   </male>
   <female>
     <sjis>
-      最初は鍛冶師として働かないかって<end_line/>
-      話だったのに<end_line/>
-      どうしてカンバン娘なんて話に<three_dots/><end_line/>
+      最初は鍛冶師として働かないかって<end_line>
+      話だったのに<end_line>
+      どうしてカンバン娘なんて話に<three_dots><end_line>
     </sjis>
     <ascii>
-      She started off talking about me <end_line/>
-      working as a Craftknight, so how did<end_line/>
-      it end up with me being a poster girl<three_dots/><end_line/>
+      She started off talking about me <end_line>
+      working as a Craftknight, so how did<end_line>
+      it end up with me being a poster girl<three_dots><end_line>
     </ascii>
   </female>
 </dialogue>
 <dialogue>
-  <info box="right"/>
-  <portrait_l entry="player" eye="sad" mouth="neutral"/>
-  <portrait_r entry="jade" eye="decided" mouth="neutral"/>
+  <info box="right">
+  <portrait_l entry="player" eye="sad" mouth="neutral">
+  <portrait_r entry="jade" eye="decided" mouth="neutral">
   <sjis>
-    世の中はな、みんな自分の思い通りに<end_line/>
-    物事をすすめたいと思っているんだ<end_line/>
-    その中で自分の道をすすみたいなら<three_dots/><end_line/>
+    世の中はな、みんな自分の思い通りに<end_line>
+    物事をすすめたいと思っているんだ<end_line>
+    その中で自分の道をすすみたいなら<three_dots><end_line>
   </sjis>
   <ascii>
-    In this world, everyone wants things<end_line/>
-    to go the way they want.<end_line/>
-    If you want to walk your own path<three_dots/><end_line/>
+    In this world, everyone wants things<end_line>
+    to go the way they want.<end_line>
+    If you want to walk your own path<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right"/>
-  <portrait_l entry="player" eye="sad" mouth="neutral"/>
-  <portrait_r entry="jade" eye="decided" mouth="talk"/>
+  <info box="right">
+  <portrait_l entry="player" eye="sad" mouth="neutral">
+  <portrait_r entry="jade" eye="decided" mouth="talk">
   <sjis>
-    それなりのことをするんだな<end_line/>
-    自分の力で！<end_line/>
+    それなりのことをするんだな<end_line>
+    自分の力で！<end_line>
   </sjis>
   <ascii>
-    You have to do just that,<end_line/>
-    with your own strength!<end_line/>
+    You have to do just that,<end_line>
+    with your own strength!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="left"/>
-  <portrait_l entry="player" eye="sad" mouth="neutral"/>
-  <portrait_r entry="jade" eye="decided" mouth="talk"/>
+  <info box="left">
+  <portrait_l entry="player" eye="sad" mouth="neutral">
+  <portrait_r entry="jade" eye="decided" mouth="talk">
   <sjis>
-    うぅ<three_dots/><end_line/>
-    がんばろう<three_dots/><end_line/>
+    うぅ<three_dots><end_line>
+    がんばろう<three_dots><end_line>
   </sjis>
   <ascii>
-    Uu<three_dots/><end_line/>
-    I'll try my best<three_dots/><end_line/>
+    Uu<three_dots><end_line>
+    I'll try my best<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right"/>
-  <portrait_l entry="player" eye="serious" mouth="tense"/>
-  <portrait_r entry="jade" eye="serious" mouth="talk"/>
+  <info box="right">
+  <portrait_l entry="player" eye="serious" mouth="tense">
+  <portrait_r entry="jade" eye="serious" mouth="talk">
   <sjis>
-    でもいいじゃねぇか<end_line/>
-    お前は好かれてるんだからさ<end_line/>
-    ゼイタクな悩みだぜ<end_line/>
+    でもいいじゃねぇか<end_line>
+    お前は好かれてるんだからさ<end_line>
+    ゼイタクな悩みだぜ<end_line>
   </sjis>
   <ascii>
-    But isn't that great,<end_line/>
-    being so loved by others.<end_line/>
-    That's a luxurious worry.<end_line/>
+    But isn't that great,<end_line>
+    being so loved by others.<end_line>
+    That's a luxurious worry.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right"/>
-  <portrait_l entry="player" eye="serious" mouth="tense"/>
-  <portrait_r entry="jade" eye="sad" mouth="tense"/>
+  <info box="right">
+  <portrait_l entry="player" eye="serious" mouth="tense">
+  <portrait_r entry="jade" eye="sad" mouth="tense">
   <sjis>
-    オレの周りに集まってくるのは<end_line/>
-    男ばっかりだってのによ<three_dots/><end_line/>
-    うれしくもなんともねぇ<three_dots/><end_line/>
+    オレの周りに集まってくるのは<end_line>
+    男ばっかりだってのによ<three_dots><end_line>
+    うれしくもなんともねぇ<three_dots><end_line>
   </sjis>
   <ascii>
-    The only people who gather<end_line/>
-    around me are men<three_dots/><end_line/>
-    That doesn't make me happy at all<three_dots/><end_line/>
+    The only people who gather<end_line>
+    around me are men<three_dots><end_line>
+    That doesn't make me happy at all<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <player gender="male"/>
-  <info box="left"/>
-  <portrait_l entry="player" eye="decided" mouth="yell"/>
-  <portrait_r entry="jade" eye="sad" mouth="tense"/>
+  <player gender="male">
+  <info box="left">
+  <portrait_l entry="player" eye="decided" mouth="yell">
+  <portrait_r entry="jade" eye="sad" mouth="tense">
   <sjis>
-    悪かったね！<end_line/>
-    じゃあ今度からオレは<end_line/>
-    アニキには近づかないから！<end_line/>
+    悪かったね！<end_line>
+    じゃあ今度からオレは<end_line>
+    アニキには近づかないから！<end_line>
   </sjis>
   <ascii>
-    Well my bad!<end_line/>
-    I won't get near<end_line/>
-    you again, Brother!<end_line/>
+    Well my bad!<end_line>
+    I won't get near<end_line>
+    you again, Brother!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <player gender="female"/>
-  <info box="left"/>
-  <portrait_l entry="player" eye="decided_blush" mouth="yell"/>
-  <portrait_r entry="jade" eye="sad" mouth="tense"/>
+  <player gender="female">
+  <info box="left">
+  <portrait_l entry="player" eye="decided_blush" mouth="yell">
+  <portrait_r entry="jade" eye="sad" mouth="tense">
   <sjis>
-    ひっどーい！<end_line/>
-    わたしは女の子なのに<end_line/>
-    ムシされてたなんて<three_dots/>！<end_line/>
+    ひっどーい！<end_line>
+    わたしは女の子なのに<end_line>
+    ムシされてたなんて<three_dots>！<end_line>
   </sjis>
   <ascii>
-    How cruel!<end_line/>
-    What about me?<end_line/>
-    I'm a girl too<three_dots/>!<end_line/>
+    How cruel!<end_line>
+    What about me?<end_line>
+    I'm a girl too<three_dots>!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right"/>
-  <portrait_l entry="player" eye="decided_blush" mouth="yell"/>
-  <portrait_r entry="jade" eye="surprised" mouth="yell"/>
+  <info box="right">
+  <portrait_l entry="player" eye="decided_blush" mouth="yell">
+  <portrait_r entry="jade" eye="surprised" mouth="yell">
   <sjis>
-    お、おい<three_dots/><end_line/>
-    何もオレはそういうことを<end_line/>
-    言いたかったワケじゃなくて<three_dots/><end_line/>
+    お、おい<three_dots><end_line>
+    何もオレはそういうことを<end_line>
+    言いたかったワケじゃなくて<three_dots><end_line>
   </sjis>
   <ascii>
-    H-hey<three_dots/><end_line/>
-    That's not what<end_line/>
-    I meant to say<three_dots/><end_line/>
+    H-hey<three_dots><end_line>
+    That's not what<end_line>
+    I meant to say<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="left"/>
-  <portrait_l entry="player" eye="happy" mouth="talk"/>
-  <portrait_r entry="jade" eye="surprised" mouth="yell"/>
+  <info box="left">
+  <portrait_l entry="player" eye="happy" mouth="talk">
+  <portrait_r entry="jade" eye="surprised" mouth="yell">
   <male>
     <sjis>
-      へへ<three_dots/><end_line/>
-      アニキにもオレの気持ちが<end_line/>
-      少しはわかった？<end_line/>
+      へへ<three_dots><end_line>
+      アニキにもオレの気持ちが<end_line>
+      少しはわかった？<end_line>
     </sjis>
     <ascii>
-      Hehe<three_dots/><end_line/>
-      So now do you understand<end_line/>
-      my feelings a bit, Brother?<end_line/>
+      Hehe<three_dots><end_line>
+      So now do you understand<end_line>
+      my feelings a bit, Brother?<end_line>
     </ascii>
   </male>
   <female>
     <sjis>
-      えへへ<three_dots/><end_line/>
-      アニキにもわたしの気持ちが<end_line/>
-      少しはわかった？<end_line/>
+      えへへ<three_dots><end_line>
+      アニキにもわたしの気持ちが<end_line>
+      少しはわかった？<end_line>
     </sjis>
     <ascii>
-      Ehehe<three_dots/><end_line/>
-      So now do you understand<end_line/>
-      my feelings a bit, Brother?<end_line/>
+      Ehehe<three_dots><end_line>
+      So now do you understand<end_line>
+      my feelings a bit, Brother?<end_line>
     </ascii>
   </female>
 </dialogue>
 <dialogue>
-  <info box="right"/>
-  <portrait_l entry="player" eye="happy" mouth="talk"/>
-  <portrait_r entry="jade" eye="sad" mouth="talk"/>
+  <info box="right">
+  <portrait_l entry="player" eye="happy" mouth="talk">
+  <portrait_r entry="jade" eye="sad" mouth="talk">
   <sjis>
-    ち<three_dots/>！<end_line/>
-    お前、だんだんねえさんに<end_line/>
-    似てきてねぇか？<end_line/>
+    ち<three_dots>！<end_line>
+    お前、だんだんねえさんに<end_line>
+    似てきてねぇか？<end_line>
   </sjis>
   <ascii>
-    Tch<three_dots/>!<end_line/>
-    You're becoming more<end_line/>
-    and more like V.E.<end_line/>
+    Tch<three_dots>!<end_line>
+    You're becoming more<end_line>
+    and more like V.E.<end_line>
   </ascii>
 </dialogue>

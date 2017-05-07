@@ -4,8 +4,8 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple"/>
-	<portrait_l name="man"/>
+	<info box="simple">
+	<portrait_l name="man">
 	<sjis>
 		<three_dots><end_line>
 	</sjis>
@@ -14,8 +14,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple"/>
-	<portrait_l name="man"/>
+	<info box="simple">
+	<portrait_l name="man">
 	<sjis>
 		身を守るための武器をって<end_line>
 		思ったんだけどお金がね<three_dots><end_line>

@@ -1,11 +1,11 @@
 <location>
 	<sjis>
-		プロスバンの町　民家Ｂ<end_line/>
+		プロスバンの町　民家Ｂ<end_line>
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple"/>
+	<info box="simple">
 	<sjis>
-		ゴロゴロ<three_dots/><end_line/>
+		ゴロゴロ<three_dots><end_line>
 	</sjis>
 </dialogue>

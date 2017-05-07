@@ -14,8 +14,8 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple"/>
-	<portrait_l name="gatekeeper"/>
+	<info box="simple">
+	<portrait_l name="gatekeeper">
 	<sjis>
 		修行するなら他行ってやりな<end_line>
 		街道はあぶないからな<end_line>
@@ -26,8 +26,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple"/>
-	<portrait_l name="gatekeeper"/>
+	<info box="simple">
+	<portrait_l name="gatekeeper">
 	<sjis>
 		修行がんばれよ<end_line>
 	</sjis>
@@ -36,8 +36,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple"/>
-	<portrait_l name="player"/>
+	<info box="simple">
+	<portrait_l name="player">
 	<male>
 		<sjis>
 			今戻ったら見つかるぞ<end_line>
@@ -54,7 +54,7 @@
 		</ascii>
 </dialogue>
 <dialogue>
-	<info box="special"/>
+	<info box="special">
 	<sjis>
 		転送装置は起動中の転送装置間を一瞬で<end_line>
 		移動することができます<end_line>
@@ -66,7 +66,7 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="special"/>
+	<info box="special">
 	<sjis>
 		ハンマーで殴ると起動し、転送装置の<end_line>
 		上に立ってＡボタンを押すことで<end_line>
@@ -79,7 +79,7 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="special"/>
+	<info box="special">
 	<sjis>
 		今は別の転送装置が起動していないため<end_line>
 		使用することはできません<end_line>

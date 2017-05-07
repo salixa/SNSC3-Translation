@@ -1,655 +1,655 @@
 <dialogue>
-  <partner name="run-dor"/>
-  <info box="right"/>
-  <portrait_r entry="partner" eye="surprised" mouth="stressed"/>
+  <partner name="run-dor">
+  <info box="right">
+  <portrait_r entry="partner" eye="surprised" mouth="stressed">
   <sjis>
-    何カガ　来マス！<end_line/>
+    何カガ　来マス！<end_line>
   </sjis>
   <ascii>
-    Something Is Approaching!<end_line/>
+    Something Is Approaching!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="enzi"/>
-  <info box="right"/>
-  <portrait_r entry="partner" eye="surprised" mouth="stressed"/>
+  <partner name="enzi">
+  <info box="right">
+  <portrait_r entry="partner" eye="surprised" mouth="stressed">
   <sjis>
-    何か来るぞ！<end_line/>
+    何か来るぞ！<end_line>
   </sjis>
   <ascii>
-    Something's coming!<end_line/>
+    Something's coming!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="killfith"/>
-  <info box="right"/>
-  <portrait_r entry="partner" eye="surprised" mouth="stressed"/>
+  <partner name="killfith">
+  <info box="right">
+  <portrait_r entry="partner" eye="surprised" mouth="stressed">
   <sjis>
-    何か来る！<end_line/>
+    何か来る！<end_line>
   </sjis>
   <ascii>
-    Something's coming!<end_line/>
+    Something's coming!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="rufeel"/>
-  <info box="right"/>
-  <portrait_r entry="partner" eye="surprised" mouth="stressed"/>
+  <partner name="rufeel">
+  <info box="right">
+  <portrait_r entry="partner" eye="surprised" mouth="stressed">
   <sjis>
-    な、何か来ますわ！<end_line/>
+    な、何か来ますわ！<end_line>
   </sjis>
   <ascii>
-    S-something's coming!<end_line/>
+    S-something's coming!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="left"/>
-  <portrait_l entry="player" eye="decided" mouth="yell"/>
-  <portrait_r entry="partner" eye="surprised" mouth="stressed"/>
+  <info box="left">
+  <portrait_l entry="player" eye="decided" mouth="yell">
+  <portrait_r entry="partner" eye="surprised" mouth="stressed">
   <sjis>
-    はぐれ<three_dots/>！？<end_line/>
+    はぐれ<three_dots>！？<end_line>
   </sjis>
   <ascii>
-    A Stray<three_dots/>!?<end_line/>
+    A Stray<three_dots>!?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple"/>
-  <portrait_l name="man"/>
+  <info box="simple">
+  <portrait_l name="man">
   <sjis>
-    うわっ！？<end_line/>
-    はぐれ召喚獣！？<end_line/>
+    うわっ！？<end_line>
+    はぐれ召喚獣！？<end_line>
   </sjis>
   <ascii>
-    Uwah!?<end_line/>
-    A Stray Summon!?<end_line/>
+    Uwah!?<end_line>
+    A Stray Summon!?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="run-dor"/>
-  <info box="right"/>
-  <portrait_r entry="partner" eye="decided" mouth="stressed"/>
+  <partner name="run-dor">
+  <info box="right">
+  <portrait_r entry="partner" eye="decided" mouth="stressed">
   <sjis>
-    チガイマス！<end_line/>
+    チガイマス！<end_line>
   </sjis>
   <ascii>
-    I Am Not!<end_line/>
+    I Am Not!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="enzi"/>
-  <info box="right"/>
-  <portrait_r entry="partner" eye="decided" mouth="stressed"/>
+  <partner name="enzi">
+  <info box="right">
+  <portrait_r entry="partner" eye="decided" mouth="stressed">
   <sjis>
-    ちがうぞ！<end_line/>
+    ちがうぞ！<end_line>
   </sjis>
   <ascii>
-    Not me!<end_line/>
+    Not me!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="killfith"/>
-  <info box="right"/>
-  <portrait_r entry="partner" eye="decided" mouth="stressed"/>
+  <partner name="killfith">
+  <info box="right">
+  <portrait_r entry="partner" eye="decided" mouth="stressed">
   <sjis>
-    キサマ<three_dots/><end_line/>
-    ふざけるな！<end_line/>
+    キサマ<three_dots><end_line>
+    ふざけるな！<end_line>
   </sjis>
   <ascii>
-    Why you<three_dots/><end_line/>
+    Why you<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="rufeel"/>
-  <info box="right"/>
-  <portrait_r entry="partner" eye="decided" mouth="stressed"/>
+  <partner name="rufeel">
+  <info box="right">
+  <portrait_r entry="partner" eye="decided" mouth="stressed">
   <sjis>
-    ちがいますわ！<end_line/>
+    ちがいますわ！<end_line>
   </sjis>
   <ascii>
-    No, I'm not!<end_line/>
+    No, I'm not!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="left"/>
-  <portrait_l entry="player" eye="serious" mouth="neutral"/>
-  <portrait_r entry="partner" eye="decided" mouth="stressed"/>
+  <info box="left">
+  <portrait_l entry="player" eye="serious" mouth="neutral">
+  <portrait_r entry="partner" eye="decided" mouth="stressed">
   <male>
     <sjis>
-      あ、こっちはオレのパートナー<end_line/>
-      仲間なんです！<end_line/>
+      あ、こっちはオレのパートナー<end_line>
+      仲間なんです！<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      あ、こっちはわたしのパートナー<end_line/>
-      仲間なんです！<end_line/>
+      あ、こっちはわたしのパートナー<end_line>
+      仲間なんです！<end_line>
     </sjis>
   </female>
   <ascii>
-    Ah, this is my partner,<end_line/>
-    they're on our side!<end_line/>
+    Ah, this is my partner,<end_line>
+    they're on our side!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple"/>
-  <portrait_l name="man"/>
+  <info box="simple">
+  <portrait_l name="man">
   <sjis>
-    そうか<three_dots/><end_line/>
-    はぐれじゃないのか<three_dots/><end_line/>
+    そうか<three_dots><end_line>
+    はぐれじゃないのか<three_dots><end_line>
   </sjis>
   <ascii>
-    I see<three_dots/><end_line/>
-    So it's not a Stray<three_dots/><end_line/>
+    I see<three_dots><end_line>
+    So it's not a Stray<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple"/>
-  <portrait_l name="man"/>
+  <info box="simple">
+  <portrait_l name="man">
   <sjis>
-    あ、君たち<end_line/>
-    君たちもはやくここから<end_line/>
-    逃げた方がいい！<end_line/>
+    あ、君たち<end_line>
+    君たちもはやくここから<end_line>
+    逃げた方がいい！<end_line>
   </sjis>
   <ascii>
-    Ah, you there,<end_line/>
-    hurry up and get<end_line/>
-    out of here!<end_line/>
+    Ah, you there,<end_line>
+    hurry up and get<end_line>
+    out of here!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="left"/>
-  <portrait_l entry="player" eye="serious" mouth="serious"/>
+  <info box="left">
+  <portrait_l entry="player" eye="serious" mouth="serious">
   <sjis>
-    逃げるって<end_line/>
-    どうしたの、おじさん？<end_line/>
+    逃げるって<end_line>
+    どうしたの、おじさん？<end_line>
   </sjis>
   <ascii>
-    Why? What's going on?<end_line/>
+    Why? What's going on?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple"/>
-  <portrait_l name="man"/>
+  <info box="simple">
+  <portrait_l name="man">
   <sjis>
-    この奥で出たんだよ<end_line/>
-    はぐれ召喚獣が！<end_line/>
-    それもデカイのが沢山！<end_line/>
+    この奥で出たんだよ<end_line>
+    はぐれ召喚獣が！<end_line>
+    それもデカイのが沢山！<end_line>
   </sjis>
   <ascii>
-    There's some inside!<end_line/>
-    Strays I mean!<end_line/>
-    And they're big!<end_line/>
+    There's some inside!<end_line>
+    Strays I mean!<end_line>
+    And they're big!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple"/>
-  <portrait_r name="unknown"/>
+  <info box="simple">
+  <portrait_r name="unknown">
   <sjis>
-    それはいい！<end_line/>
+    それはいい！<end_line>
   </sjis>
   <ascii>
-    Oh yes!<end_line/>
+    Oh yes!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right"/>
-  <portrait_r entry="pike" eye="serious" mouth="neutral"/>
+  <info box="right">
+  <portrait_r entry="pike" eye="serious" mouth="neutral">
   <sjis>
-    デカイはぐれ召喚獣<end_line/>
-    面白そうな話じゃないか！<end_line/>
+    デカイはぐれ召喚獣<end_line>
+    面白そうな話じゃないか！<end_line>
   </sjis>
   <ascii>
-    Huge Strays?<end_line/>
-    Sounds like fun!<end_line/>
+    Huge Strays?<end_line>
+    Sounds like fun!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="left"/>
-  <portrait_l entry="player" eye="surprised" mouth="yell"/>
-  <portrait_r entry="pike" eye="serious" mouth="neutral"/>
+  <info box="left">
+  <portrait_l entry="player" eye="surprised" mouth="yell">
+  <portrait_r entry="pike" eye="serious" mouth="neutral">
   <male>
     <sjis>
-      （な<three_dots/>っ！<end_line/>
-      　なんだ<three_dots/>っ！？<end_line/>
-      　このアタマ<three_dots/>！？）<end_line/>
+      （な<three_dots>っ！<end_line>
+      　なんだ<three_dots>っ！？<end_line>
+      　このアタマ<three_dots>！？）<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      （な<three_dots/>っ！<end_line/>
-      　なによ<three_dots/>っ！？<end_line/>
-      　このアタマ<three_dots/>！？）<end_line/>
+      （な<three_dots>っ！<end_line>
+      　なによ<three_dots>っ！？<end_line>
+      　このアタマ<three_dots>！？）<end_line>
     </sjis>
   </female>
   <ascii>
-    (Wha<three_dots/>!<end_line/>
-     What's with him<three_dots/>!?<end_line/>
-     Is his head messed up<three_dots/>!?)<end_line/>
+    (Wha<three_dots>!<end_line>
+     What's with him<three_dots>!?<end_line>
+     Is his head messed up<three_dots>!?)<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="run-dor"/>
-  <info box="right"/>
-  <portrait_l entry="player" eye="surprised" mouth="yell"/>
-  <portrait_r entry="partner" eye="decided" mouth="serious"/>
+  <partner name="run-dor">
+  <info box="right">
+  <portrait_l entry="player" eye="surprised" mouth="yell">
+  <portrait_r entry="partner" eye="decided" mouth="serious">
   <sjis>
-    （ソレヨリモ　アノ服装デス！<end_line/>
-    　みゅーの様ヲ　ネラウモノト<end_line/>
-    　同ジデス）<end_line/>
+    （ソレヨリモ　アノ服装デス！<end_line>
+    　みゅーの様ヲ　ネラウモノト<end_line>
+    　同ジデス）<end_line>
   </sjis>
   <ascii>
-    (Look At His Clothes!<end_line/>
-     They Are Same As Those<end_line/>
-     Targeting Murno!)<end_line/>
+    (Look At His Clothes!<end_line>
+     They Are Same As Those<end_line>
+     Targeting Murno!)<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="enzi"/>
-  <info box="right"/>
-  <portrait_l entry="player" eye="surprised" mouth="yell"/>
-  <portrait_r entry="partner" eye="decided" mouth="serious"/>
+  <partner name="enzi">
+  <info box="right">
+  <portrait_l entry="player" eye="surprised" mouth="yell">
+  <portrait_r entry="partner" eye="decided" mouth="serious">
   <sjis>
-    （おぬし、どこを見ておる！<end_line/>
-    　あやつはミューノを狙う者と<end_line/>
-    　同じ格好じゃ<three_dots/>）<end_line/>
+    （おぬし、どこを見ておる！<end_line>
+    　あやつはミューノを狙う者と<end_line>
+    　同じ格好じゃ<three_dots>）<end_line>
   </sjis>
   <ascii>
-    (Do not concern youself with that!<end_line/>
-     More importantly, his clothes are the <end_line/>
-     same as those targeting Murno<three_dots/>)<end_line/>
+    (Do not concern youself with that!<end_line>
+     More importantly, his clothes are the <end_line>
+     same as those targeting Murno<three_dots>)<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="killfith"/>
-  <info box="right"/>
-  <portrait_l entry="player" eye="surprised" mouth="yell"/>
-  <portrait_r entry="partner" eye="decided" mouth="serious"/>
+  <partner name="killfith">
+  <info box="right">
+  <portrait_l entry="player" eye="surprised" mouth="yell">
+  <portrait_r entry="partner" eye="decided" mouth="serious">
   <sjis>
-    （キサマ、どこに目をつけている！<end_line/>
-    　あいつミューノの敵と<end_line/>
-    　同じ服装だ<three_dots/>）<end_line/>
+    （キサマ、どこに目をつけている！<end_line>
+    　あいつミューノの敵と<end_line>
+    　同じ服装だ<three_dots>）<end_line>
   </sjis>
   <ascii>
-    (That's the first thing you notice!?<end_line/>
-     Look at his clothes.<end_line/>
-     They're the same as Murno's enemies<three_dots/>)<end_line/>
+    (That's the first thing you notice!?<end_line>
+     Look at his clothes.<end_line>
+     They're the same as Murno's enemies<three_dots>)<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="rufeel"/>
-  <info box="right"/>
-  <portrait_l entry="player" eye="surprised" mouth="yell"/>
-  <portrait_r entry="partner" eye="decided" mouth="serious"/>
+  <partner name="rufeel">
+  <info box="right">
+  <portrait_l entry="player" eye="surprised" mouth="yell">
+  <portrait_r entry="partner" eye="decided" mouth="serious">
   <sjis>
-    （気がつかないんですか！？<end_line/>
-    　あの人、ミューノ様の敵と<end_line/>
-    　同じ格好ですわ<three_dots/>！）<end_line/>
+    （気がつかないんですか！？<end_line>
+    　あの人、ミューノ様の敵と<end_line>
+    　同じ格好ですわ<three_dots>！）<end_line>
   </sjis>
   <ascii>
-    (Did you not notice!?<end_line/>
-     That person, he is wearing the<end_line/>
-     same clothes as Murno's enemies<three_dots/>!)<end_line/>
+    (Did you not notice!?<end_line>
+     That person, he is wearing the<end_line>
+     same clothes as Murno's enemies<three_dots>!)<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right"/>
-  <portrait_l entry="player" eye="surprised" mouth="yell"/>
-  <portrait_r entry="pike" eye="surprised" mouth="neutral"/>
+  <info box="right">
+  <portrait_l entry="player" eye="surprised" mouth="yell">
+  <portrait_r entry="pike" eye="surprised" mouth="neutral">
   <sjis>
-    ん？<end_line/>
-    その召喚獣ははぐれか？<end_line/>
+    ん？<end_line>
+    その召喚獣ははぐれか？<end_line>
   </sjis>
   <ascii>
-    Hm?<end_line/>
-    Is that Summon a Stray?<end_line/>
+    Hm?<end_line>
+    Is that Summon a Stray?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="left"/>
-  <portrait_l entry="player" eye="decided" mouth="stressed"/>
-  <portrait_r entry="pike" eye="surprised" mouth="neutral"/>
+  <info box="left">
+  <portrait_l entry="player" eye="decided" mouth="stressed">
+  <portrait_r entry="pike" eye="surprised" mouth="neutral">
   <male>
     <sjis>
-      ち、ちがうよ！<end_line/>
-      オレのパートナーだ！<end_line/>
+      ち、ちがうよ！<end_line>
+      オレのパートナーだ！<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ち、ちがうわよ！<end_line/>
-      わたしのパートナーだよ！<end_line/>
+      ち、ちがうわよ！<end_line>
+      わたしのパートナーだよ！<end_line>
     </sjis>
   </female>
   <ascii>
-    N-no!<end_line/>
-    It's my partner!<end_line/>
+    N-no!<end_line>
+    It's my partner!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right"/>
-  <portrait_l entry="player" eye="decided" mouth="stressed"/>
-  <portrait_r entry="pike" eye="serious" mouth="serious"/>
+  <info box="right">
+  <portrait_l entry="player" eye="decided" mouth="stressed">
+  <portrait_r entry="pike" eye="serious" mouth="serious">
   <sjis>
-    ほう、キサマ<end_line/>
-    召喚獣づれか<three_dots/><end_line/>
+    ほう、キサマ<end_line>
+    召喚獣づれか<three_dots><end_line>
   </sjis>
   <ascii>
-    Hoho, so you've got<end_line/>
-    a Summon Beast<three_dots/><end_line/>
+    Hoho, so you've got<end_line>
+    a Summon Beast<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="left"/>
-  <portrait_l entry="player" eye="decided" mouth="tense"/>
-  <portrait_r entry="pike" eye="serious" mouth="serious"/>
+  <info box="left">
+  <portrait_l entry="player" eye="decided" mouth="tense">
+  <portrait_r entry="pike" eye="serious" mouth="serious">
   <male>
     <sjis>
-      な、なんだよ！？<end_line/>
-      悪いのかよ<three_dots/>！<end_line/>
+      な、なんだよ！？<end_line>
+      悪いのかよ<three_dots>！<end_line>
     </sjis>
     <ascii>
-      W-what of it!?<end_line/>
-      Got a problem<three_dots/>!<end_line/>
+      W-what of it!?<end_line>
+      Got a problem<three_dots>!<end_line>
     </ascii>
   </male>
   <female>
     <sjis>
-      な、なによ！？<end_line/>
-      ジロジロ見ないでよ<three_dots/>！<end_line/>
+      な、なによ！？<end_line>
+      ジロジロ見ないでよ<three_dots>！<end_line>
     </sjis>
     <ascii>
-      W-what of it!?<end_line/>
-      And don't stare at me like that<three_dots/>!<end_line/>
+      W-what of it!?<end_line>
+      And don't stare at me like that<three_dots>!<end_line>
     </ascii>
   </female>
 </dialogue>
 <dialogue>
-  <info box="right"/>
-  <portrait_l entry="player" eye="decided" mouth="tense"/>
-  <portrait_r entry="pike" eye="sad" mouth="neutral"/>
+  <info box="right">
+  <portrait_l entry="player" eye="decided" mouth="tense">
+  <portrait_r entry="pike" eye="sad" mouth="neutral">
   <sjis>
-    ま、関係ないみたいだな<end_line/>
-    そう都合よくはいかんか<end_line/>
+    ま、関係ないみたいだな<end_line>
+    そう都合よくはいかんか<end_line>
   </sjis>
   <ascii>
-    Well, it doesn't look<end_line/>
-    like you're involved.<end_line/>
-    That'd be too convenient anyway.<end_line/>
+    Well, it doesn't look<end_line>
+    like you're involved.<end_line>
+    That'd be too convenient anyway.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right"/>
-  <portrait_r entry="pike" eye="serious" mouth="neutral"/>
+  <info box="right">
+  <portrait_r entry="pike" eye="serious" mouth="neutral">
   <sjis>
-    で、さっき話していた<end_line/>
-    そのはぐれ召喚獣<end_line/>
-    強そうか？<end_line/>
+    で、さっき話していた<end_line>
+    そのはぐれ召喚獣<end_line>
+    強そうか？<end_line>
   </sjis>
   <ascii>
-    So, back the subject at hand.<end_line/>
-    You said the Stray<end_line/>
-    looked strong?<end_line/>
+    So, back the subject at hand.<end_line>
+    You said the Stray<end_line>
+    looked strong?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple"/>
-  <portrait_l name="man"/>
+  <info box="simple">
+  <portrait_l name="man">
   <sjis>
-    あ<three_dots/>はい<three_dots/><end_line/>
-    それはもう！<end_line/>
-    数も多いですし！<end_line/>
+    あ<three_dots>はい<three_dots><end_line>
+    それはもう！<end_line>
+    数も多いですし！<end_line>
   </sjis>
   <ascii>
-    Ah<three_dots/>, yes<three_dots/><end_line/>
-    Not only that,<end_line/>
-    there's a lot of them!<end_line/>
+    Ah<three_dots>, yes<three_dots><end_line>
+    Not only that,<end_line>
+    there's a lot of them!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right"/>
-  <portrait_r entry="pike" eye="decided" mouth="neutral"/>
+  <info box="right">
+  <portrait_r entry="pike" eye="decided" mouth="neutral">
   <sjis>
-    そうか<three_dots/><end_line/>
-    オレを満足させてくれる相手だと<end_line/>
-    いいのだが<three_dots/><end_line/>
+    そうか<three_dots><end_line>
+    オレを満足させてくれる相手だと<end_line>
+    いいのだが<three_dots><end_line>
   </sjis>
   <ascii>
-    I see<three_dots/><end_line/>
-    In that case, they may be<end_line/>
-    enough to satisfy me<three_dots/><end_line/>
+    I see<three_dots><end_line>
+    In that case, they may be<end_line>
+    enough to satisfy me<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple"/>
-  <portrait_l name="man"/>
+  <info box="simple">
+  <portrait_l name="man">
   <sjis>
-    え？　ちょっと待ってください<end_line/>
-    １人でたおしに行くつもりですか？<end_line/>
-    危ないですよ！？<end_line/>
+    え？　ちょっと待ってください<end_line>
+    １人でたおしに行くつもりですか？<end_line>
+    危ないですよ！？<end_line>
   </sjis>
   <ascii>
-    Eh? Wait a minute.<end_line/>
-    You're going to fight them alone?<end_line/>
-    Isn't that dangerous!?<end_line/>
+    Eh? Wait a minute.<end_line>
+    You're going to fight them alone?<end_line>
+    Isn't that dangerous!?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right"/>
-  <portrait_r entry="pike" eye="serious" mouth="talk"/>
+  <info box="right">
+  <portrait_r entry="pike" eye="serious" mouth="talk">
   <sjis>
-    危ない<three_dots/>？<end_line/>
-    だから行くのではないか！<end_line/>
-    どんな攻撃にもひるまない鉄の城<end_line/>
+    危ない<three_dots>？<end_line>
+    だから行くのではないか！<end_line>
+    どんな攻撃にもひるまない鉄の城<end_line>
   </sjis>
   <ascii>
-    Dangerous<three_dots/>?<end_line/>
-    That's exactly why I'm going!<end_line/>
-    I will not flinch, won't back away,<end_line/>
+    Dangerous<three_dots>?<end_line>
+    That's exactly why I'm going!<end_line>
+    I will not flinch, won't back away,<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right"/>
-  <portrait_r entry="pike" eye="decided" mouth="neutral"/>
+  <info box="right">
+  <portrait_r entry="pike" eye="decided" mouth="neutral">
   <sjis>
-    この鋼鉄のパイク様がな！<end_line/>
+    この鋼鉄のパイク様がな！<end_line>
   </sjis>
   <ascii>
-    For I am Steel Pike!<end_line/>
+    For I am Steel Pike!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="left"/>
-  <portrait_l entry="player" eye="decided" mouth="tense"/>
-  <portrait_r entry="pike" eye="decided" mouth="neutral"/>
+  <info box="left">
+  <portrait_l entry="player" eye="decided" mouth="tense">
+  <portrait_r entry="pike" eye="decided" mouth="neutral">
   <sjis>
-    こうてつの、パイク<three_dots/>？<end_line/>
+    こうてつの、パイク<three_dots>？<end_line>
   </sjis>
   <ascii>
-    Steel, Pike<three_dots/>?<end_line/>
+    Steel, Pike<three_dots>?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right"/>
-  <portrait_l entry="player" eye="decided" mouth="tense"/>
-  <portrait_r entry="pike" eye="happy" mouth="neutral"/>
+  <info box="right">
+  <portrait_l entry="player" eye="decided" mouth="tense">
+  <portrait_r entry="pike" eye="happy" mouth="neutral">
   <sjis>
-    ククク<three_dots/><end_line/>
-    このオレにイタみを与えられる<end_line/>
-    相手だとよいのだがな<three_dots/><end_line/>
+    ククク<three_dots><end_line>
+    このオレにイタみを与えられる<end_line>
+    相手だとよいのだがな<three_dots><end_line>
   </sjis>
   <ascii>
-    Kukuku<three_dots/><end_line/>
-    It would be so great if they<end_line/>
-    could give me pain<three_dots/><end_line/>
+    Kukuku<three_dots><end_line>
+    It would be so great if they<end_line>
+    could give me pain<three_dots><end_line>
  </ascii>
 </dialogue>
 <dialogue>
-  <info box="right"/>
-  <portrait_l entry="player" eye="decided" mouth="tense"/>
-  <portrait_r entry="pike" eye="decided" mouth="neutral"/>
+  <info box="right">
+  <portrait_l entry="player" eye="decided" mouth="tense">
+  <portrait_r entry="pike" eye="decided" mouth="neutral">
   <sjis>
-    お前たちは近づかない方がいいぞ<end_line/>
-    はぐれとまちがえて<end_line/>
-    ぶっとばしてしまうかもしれん！<end_line/>
+    お前たちは近づかない方がいいぞ<end_line>
+    はぐれとまちがえて<end_line>
+    ぶっとばしてしまうかもしれん！<end_line>
   </sjis>
   <ascii>
-    You shouldn't get too close.<end_line/>
-    I might mistake you<end_line/>
-    for a Stray and attack you.<end_line/>
+    You shouldn't get too close.<end_line>
+    I might mistake you<end_line>
+    for a Stray and attack you.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="left"/>
-  <portrait_l entry="player" eye="decided" mouth="yell"/>
-  <portrait_r entry="pike" eye="decided" mouth="neutral"/>
+  <info box="left">
+  <portrait_l entry="player" eye="decided" mouth="yell">
+  <portrait_r entry="pike" eye="decided" mouth="neutral">
   <sjis>
-    なっ！<end_line/>
+    なっ！<end_line>
   </sjis>
   <ascii>
-    Wha!<end_line/>
+    Wha!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right"/>
-  <portrait_l entry="player" eye="decided" mouth="yell"/>
-  <portrait_r entry="pike" eye="happy" mouth="talk"/>
+  <info box="right">
+  <portrait_l entry="player" eye="decided" mouth="yell">
+  <portrait_r entry="pike" eye="happy" mouth="talk">
   <sjis>
-    子供ははやくお母さんのところにでも<end_line/>
-    帰るんだな！<end_line/>
-    ははははは<three_dots/><end_line/>
+    子供ははやくお母さんのところにでも<end_line>
+    帰るんだな！<end_line>
+    ははははは<three_dots><end_line>
   </sjis>
   <ascii>
-    Children should hurry back<end_line/>
-    to their mothers!<end_line/>
-    Hahahaha<three_dots/><end_line/>
+    Children should hurry back<end_line>
+    to their mothers!<end_line>
+    Hahahaha<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="left"/>
-  <portrait_l entry="player" eye="decided" mouth="serious"/>
+  <info box="left">
+  <portrait_l entry="player" eye="decided" mouth="serious">
   <male>
     <sjis>
-      あいつ<three_dots/>！<end_line/>
+      あいつ<three_dots>！<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      あの人<three_dots/>！<end_line/>
+      あの人<three_dots>！<end_line>
     </sjis>
   </female>
   <ascii>
-    This guy<three_dots/>!<end_line/>
+    This guy<three_dots>!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple"/>
-  <portrait_r name="man"/>
+  <info box="simple">
+  <portrait_r name="man">
   <sjis>
-    と、とにかく<end_line/>
-    私は町に連絡してくる！<end_line/>
-    君たちも早く戻るんだぞ！<end_line/>
+    と、とにかく<end_line>
+    私は町に連絡してくる！<end_line>
+    君たちも早く戻るんだぞ！<end_line>
   </sjis>
   <ascii>
-    A-anyways,<end_line/>
-    I'm going to contact the village!<end_line/>
-    You should head back too!<end_line/>
+    A-anyways,<end_line>
+    I'm going to contact the village!<end_line>
+    You should head back too!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="left"/>
-  <portrait_l entry="elieze" eye="sad" mouth="serious"/>
+  <info box="left">
+  <portrait_l entry="elieze" eye="sad" mouth="serious">
   <male>
     <sjis>
-      コワいはぐれだって<end_line/>
-      おにーちゃん<three_dots/><end_line/>
+      コワいはぐれだって<end_line>
+      おにーちゃん<three_dots><end_line>
     </sjis>
     <ascii>
-      A scary Stray<three_dots/><end_line/>
-      Big bro<three_dots/><end_line/>
+      A scary Stray<three_dots><end_line>
+      Big bro<three_dots><end_line>
     </ascii>
   </male>
   <female>
     <sjis>
-      コワいはぐれだって<end_line/>
-      おねーちゃん<three_dots/><end_line/>
+      コワいはぐれだって<end_line>
+      おねーちゃん<three_dots><end_line>
     </sjis>
      <ascii>
-      A scary Stray<three_dots/><end_line/>
-      Big sis<three_dots/><end_line/>
+      A scary Stray<three_dots><end_line>
+      Big sis<three_dots><end_line>
     </ascii>
   </female>
 </dialogue>
 <dialogue>
-  <partner name="run-dor"/>
-  <info box="right"/>
-  <portrait_l entry="player" eye="decided" mouth="serious"/>
-  <portrait_r entry="partner" eye="decided" mouth="serious"/>
+  <partner name="run-dor">
+  <info box="right">
+  <portrait_l entry="player" eye="decided" mouth="serious">
+  <portrait_r entry="partner" eye="decided" mouth="serious">
   <sjis>
-    彼ヲ　みゅーの様ニ<end_line/>
-    近ヅケルワケニハ　イキマセン<end_line/>
+    彼ヲ　みゅーの様ニ<end_line>
+    近ヅケルワケニハ　イキマセン<end_line>
   </sjis>
   <ascii>
-    We Cannot Let That<end_line/>
-    Man Near Lady Murno.<end_line/>
+    We Cannot Let That<end_line>
+    Man Near Lady Murno.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="enzi"/>
-  <info box="right"/>
-  <portrait_l entry="player" eye="decided" mouth="serious"/>
-  <portrait_r entry="partner" eye="decided" mouth="serious"/>
+  <partner name="enzi">
+  <info box="right">
+  <portrait_l entry="player" eye="decided" mouth="serious">
+  <portrait_r entry="partner" eye="decided" mouth="serious">
   <sjis>
-    あやつをミューノに近づけることは<end_line/>
-    絶対にさけなければ<three_dots/><end_line/>
+    あやつをミューノに近づけることは<end_line>
+    絶対にさけなければ<three_dots><end_line>
   </sjis>
   <ascii>
-    We must not let him<end_line/>
-    get close to Murno<three_dots/><end_line/>
+    We must not let him<end_line>
+    get close to Murno<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="killfith"/>
-  <info box="right"/>
-  <portrait_l entry="player" eye="decided" mouth="serious"/>
-  <portrait_r entry="partner" eye="decided" mouth="serious"/>
+  <partner name="killfith">
+  <info box="right">
+  <portrait_l entry="player" eye="decided" mouth="serious">
+  <portrait_r entry="partner" eye="decided" mouth="serious">
   <sjis>
-    ちっ<three_dots/><end_line/>
-    アイツを野放しにしておくと<end_line/>
-    ミューノが<three_dots/><end_line/>
+    ちっ<three_dots><end_line>
+    アイツを野放しにしておくと<end_line>
+    ミューノが<three_dots><end_line>
   </sjis>
   <ascii>
-    Tch<three_dots/><end_line/>
-    If he leave him alone,<end_line/>
-    Murno will<three_dots/><end_line/>
+    Tch<three_dots><end_line>
+    If he leave him alone,<end_line>
+    Murno will<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="rufeel"/>
-  <info box="right"/>
-  <portrait_l entry="player" eye="decided" mouth="serious"/>
-  <portrait_r entry="partner" eye="decided" mouth="serious"/>
+  <partner name="rufeel">
+  <info box="right">
+  <portrait_l entry="player" eye="decided" mouth="serious">
+  <portrait_r entry="partner" eye="decided" mouth="serious">
   <sjis>
-    あの人をミューノ様に<end_line/>
-    近づけてはいけません<three_dots/><end_line/>
+    あの人をミューノ様に<end_line>
+    近づけてはいけません<three_dots><end_line>
   </sjis>
   <ascii>
-    We cannot allow that person<end_line/>
-    to get close to Lady Murno<three_dots/><end_line/>
+    We cannot allow that person<end_line>
+    to get close to Lady Murno<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="left"/>
-  <portrait_l entry="player" eye="decided" mouth="tense"/>
-  <portrait_r entry="partner" eye="decided" mouth="serious"/>
+  <info box="left">
+  <portrait_l entry="player" eye="decided" mouth="tense">
+  <portrait_r entry="partner" eye="decided" mouth="serious">
   <sjis>
-    どうしよう？<end_line/>
-    あの男は気になる<three_dots/><end_line/>
-    だけどエリエもいるし<three_dots/><end_line/>
+    どうしよう？<end_line>
+    あの男は気になる<three_dots><end_line>
+    だけどエリエもいるし<three_dots><end_line>
   </sjis>
   <ascii>
-    What should we do?<end_line/>
-    I'm worried about him<three_dots/><end_line/>
-    But Elieze<three_dots/><end_line/>
+    What should we do?<end_line>
+    I'm worried about him<three_dots><end_line>
+    But Elieze<three_dots><end_line>
   </ascii>
 </dialogue>

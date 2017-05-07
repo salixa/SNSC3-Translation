@@ -9,8 +9,8 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple"/>
-	<portrait_l name="jade"/>
+	<info box="simple">
+	<portrait_l name="jade">
 	<sjis>
 		ヤツの目の色が変わったぜ<end_line>
 		面白い勝負になりそうだ<three_dots><end_line>
@@ -21,8 +21,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple"/>
-	<portrait_l name="jade"/>
+	<info box="simple">
+	<portrait_l name="jade">
 	<sjis>
 		お前は魔石を取り返すためにも<end_line>
 		がんばらなきゃな<end_line>

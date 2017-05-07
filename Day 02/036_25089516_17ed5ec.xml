@@ -1,7 +1,7 @@
 <dialogue>
-	<info box="right"/>
-	<portrait_l entry="player" eye="decided" mouth="talk"/>
-	<portrait_r entry="jade" eye="serious" mouth="neutral"/>
+	<info box="right">
+	<portrait_l entry="player" eye="decided" mouth="talk">
+	<portrait_r entry="jade" eye="serious" mouth="neutral">
 	<sjis>
 		勝負の準備はできたのか？<end_line>
 	</sjis>
@@ -10,9 +10,9 @@
 	</ascii>
 </dialogue>
 <choice>
-	<info box="left"/>
-	<portrait_l entry="player" eye="serious" mouth="neutral"/>
-	<portrait_r entry="jade" eye="serious" mouth="neutral"/>
+	<info box="left">
+	<portrait_l entry="player" eye="serious" mouth="neutral">
+	<portrait_r entry="jade" eye="serious" mouth="neutral">
 	<option>
 		<sjis>
 			準備はカンペキだよ！<end_line>
@@ -31,9 +31,9 @@
 	</option>
 </choice>
 <dialogue>
-	<info box="right"/>
-	<portrait_l entry="player" eye="serious" mouth="neutral"/>
-	<portrait_r entry="jade" eye="serious" mouth="talk"/>
+	<info box="right">
+	<portrait_l entry="player" eye="serious" mouth="neutral">
+	<portrait_r entry="jade" eye="serious" mouth="talk">
 	<sjis>
 		よっしゃ！<end_line>
 		じゃあ、お前の実力<end_line>
@@ -45,9 +45,9 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="right"/>
-	<portrait_l entry="player" eye="serious" mouth="neutral"/>
-	<portrait_r entry="jade" eye="decided" mouth="yell"/>
+	<info box="right">
+	<portrait_l entry="player" eye="serious" mouth="neutral">
+	<portrait_r entry="jade" eye="decided" mouth="yell">
 	<sjis>
 		この、不死身のジェイドがなっ！<end_line>
 	</sjis>
@@ -56,9 +56,9 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="left"/>
-	<portrait_l entry="player" eye="decided" mouth="neutral"/>
-	<portrait_r entry="partner" eye="decided" mouth="neutral"/>
+	<info box="left">
+	<portrait_l entry="player" eye="decided" mouth="neutral">
+	<portrait_r entry="partner" eye="decided" mouth="neutral">
 	<male>
 		<sjis>
 			いくぞ！<end_line>
@@ -76,10 +76,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<partner name="run-dor"/>
-	<info box="right"/>
-	<portrait_l entry="player" eye="decided" mouth="neutral"/>
-	<portrait_r entry="partner" eye="decided" mouth="talk"/>
+	<partner name="run-dor">
+	<info box="right">
+	<portrait_l entry="player" eye="decided" mouth="neutral">
+	<portrait_r entry="partner" eye="decided" mouth="talk">
 	<sjis>
 		オー！<end_line>
 	</sjis>
@@ -88,10 +88,10 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<partner name="enzi"/>
-	<info box="right"/>
-	<portrait_l entry="player" eye="decided" mouth="neutral"/>
-	<portrait_r entry="partner" eye="decided" mouth="talk"/>
+	<partner name="enzi">
+	<info box="right">
+	<portrait_l entry="player" eye="decided" mouth="neutral">
+	<portrait_r entry="partner" eye="decided" mouth="talk">
 	<sjis>
 		承知！<end_line>
 	</sjis>
@@ -100,10 +100,10 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<partner name="killfith"/>
-	<info box="right"/>
-	<portrait_l entry="player" eye="decided" mouth="neutral"/>
-	<portrait_r entry="partner" eye="decided" mouth="talk"/>
+	<partner name="killfith">
+	<info box="right">
+	<portrait_l entry="player" eye="decided" mouth="neutral">
+	<portrait_r entry="partner" eye="decided" mouth="talk">
 	<sjis>
 		好きにしろ<end_line>
 	</sjis>
@@ -112,10 +112,10 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<partner name="rufeel"/>
-	<info box="right"/>
-	<portrait_l entry="player" eye="decided" mouth="neutral"/>
-	<portrait_r entry="partner" eye="decided" mouth="talk"/>
+	<partner name="rufeel">
+	<info box="right">
+	<portrait_l entry="player" eye="decided" mouth="neutral">
+	<portrait_r entry="partner" eye="decided" mouth="talk">
 	<sjis>
 		はい！<end_line>
 	</sjis>

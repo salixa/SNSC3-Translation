@@ -1,33 +1,33 @@
 <location>
 	<sjis>
-		ディックル村　釣り人の池<end_line/>
+		ディックル村　釣り人の池<end_line>
 	</sjis>
 </location>
 ###WeaponBank
 <dialogue>
-	<info box="simple"/>
-	<portrait_l name="man"/>
+	<info box="simple">
+	<portrait_l name="man">
 	<sjis>
-		武器を取りに来たのか？<end_line/>
+		武器を取りに来たのか？<end_line>
 	</sjis>
 	<ascii>
-		Did you come to pick up a weapon?<end_line/>
+		Did you come to pick up a weapon?<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple"/>
-	<portrait_l name="man"/>
+	<info box="simple">
+	<portrait_l name="man">
 	<sjis>
-		武器を預けに来たのか？<end_line/>
+		武器を預けに来たのか？<end_line>
 	</sjis>
 	<ascii>
-		Did you come to drop off a weapon?<end_line/>
+		Did you come to drop off a weapon?<end_line>
 	</ascii>
 </dialogue>
 <menu>
 	<option>
 		<sjis>
-			はい<end_line/>
+			はい<end_line>
 		</sjis>
 		<acii>
 			Yes
@@ -35,34 +35,34 @@
 	</option>
 	<option>
 		<sjis>
-			いいえ<end_line/>
+			いいえ<end_line>
 		</sjis>
 		<ascii>
-			No<end_line/>
+			No<end_line>
 		</ascii>
 	</option>
 </menu>
 <dialogue>
-	<info box="simple"/>
-	<portrait_l name="man"/>
+	<info box="simple">
+	<portrait_l name="man">
 	<sjis>
-		預けられそうな武器が無いぞ<end_line/>
+		預けられそうな武器が無いぞ<end_line>
 	</sjis>
 	<ascii>
-		You have no weapons to drop off.<end_line/>
+		You have no weapons to drop off.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple"/>
-	<portrait_l name="child"/>
+	<info box="simple">
+	<portrait_l name="child">
 	<sjis>
-		おおきくなったらゆうしゃになるんだ<end_line/>
-		ゆうしゃはけんしより<end_line/>
-		つよいんだよ<end_line/>
+		おおきくなったらゆうしゃになるんだ<end_line>
+		ゆうしゃはけんしより<end_line>
+		つよいんだよ<end_line>
 	</sjis>
 	<ascii>
-		I'll be a hero when I grow up<end_line/>.
-		Heroes are stronger than<end_line/>
-		simple craftsmen.<end_line/>
+		I'll be a hero when I grow up<end_line>.
+		Heroes are stronger than<end_line>
+		simple craftsmen.<end_line>
 	</ascii>
 </dialogue>

@@ -1,10 +1,10 @@
 <dialogue>
-	<info box="right"/>
-	<portrait_l entry="player" eye="serious" mouth="neutral"/>
-	<portrait_r entry="gallahan" eye="serious" mouth="tense"/>
+	<info box="right">
+	<portrait_l entry="player" eye="serious" mouth="neutral">
+	<portrait_r entry="gallahan" eye="serious" mouth="tense">
 	<sjis>
-		一人前の顔になったな<end_line/>
-		だからと言って、自分を鍛えることを<end_line/>
-		おこたってはいかんぞ<end_line/>
+		一人前の顔になったな<end_line>
+		だからと言って、自分を鍛えることを<end_line>
+		おこたってはいかんぞ<end_line>
 	</sjis>
 </dialogue>

@@ -1,14 +1,14 @@
 <dialogue>
-  <info box="right"/>
-  <portrait_r entry="jade" eye="serious" mouth="tense"/>
+  <info box="right">
+  <portrait_r entry="jade" eye="serious" mouth="tense">
   <sjis>
-    ‹à‚Ì”h”´‚Í‚±‚Ìæ‚Ì“Ë‚«“–‚½‚è‚ğ<end_line/>
-    ‹È‚ª‚Á‚½‰œ‚¾<three_dots/><end_line/>
-    ‚Â‚¢‚Ä‚«‚È<end_line/>
+    ‹à‚Ì”h”´‚Í‚±‚Ìæ‚Ì“Ë‚«“–‚½‚è‚ğ<end_line>
+    ‹È‚ª‚Á‚½‰œ‚¾<three_dots><end_line>
+    ‚Â‚¢‚Ä‚«‚È<end_line>
   </sjis>
   <ascii>
-    The Gold Council is just past<end_line/>
-    the bend in the street there<three_dots/><end_line/>
-    Follow me.<end_line/>
+    The Gold Council is just past<end_line>
+    the bend in the street there<three_dots><end_line>
+    Follow me.<end_line>
   </ascii>
 </dialogue>

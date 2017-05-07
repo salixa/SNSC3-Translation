@@ -1,24 +1,24 @@
 <location>
   <sjis>
-    村長の家　道具屋<end_line/>
+    村長の家　道具屋<end_line>
   </sjis>
 </location>
 <location>
   <sjis>
-    村長の家　道具屋<end_line/>
+    村長の家　道具屋<end_line>
   </sjis>
 </location>
 <dialogue>
-  <info box="simple"/>
-  <portrait_l name="merchant"/>
+  <info box="simple">
+  <portrait_l name="merchant">
   <sjis>
-    ここ最近のはぐれの<end_line/>
-    おかげで武器や防具が<end_line/>
-    飛ぶように売れて嬉しいわ<end_line/>
+    ここ最近のはぐれの<end_line>
+    おかげで武器や防具が<end_line>
+    飛ぶように売れて嬉しいわ<end_line>
   </sjis>
   <ascii>
-    The Strays have been acting up recently.<end_line/>
-    Weapons and armor are just<end_line/>
-    flying right off the shelves!<end_line/>
+    The Strays have been acting up recently.<end_line>
+    Weapons and armor are just<end_line>
+    flying right off the shelves!<end_line>
   </ascii>
 </dialogue>

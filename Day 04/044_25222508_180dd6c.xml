@@ -1,31 +1,31 @@
 <dialogue>
-	<info box="right"/>
-	<portrait_r entry="elieze" eye="serious" mouth="neutral"/>
+	<info box="right">
+	<portrait_r entry="elieze" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
-			おにーちゃん<end_line/>
+			おにーちゃん<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			おねーちゃん<end_line/>
+			おねーちゃん<end_line>
 		</sjis>
 	</female>
 </dialogue>
 <dialogue>
-	<info box="right"/>
-	<portrait_r entry="elieze" eye="serious" mouth="neutral"/>
+	<info box="right">
+	<portrait_r entry="elieze" eye="serious" mouth="neutral">
 	<sjis>
-		おそとにでるには<end_line/>
-		こっちからだよ<end_line/>
+		おそとにでるには<end_line>
+		こっちからだよ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="left"/>
-	<portrait_l entry="player" eye="serious" mouth="neutral"/>
-	<portrait_r entry="elieze" eye="serious" mouth="neutral"/>
+	<info box="left">
+	<portrait_l entry="player" eye="serious" mouth="neutral">
+	<portrait_r entry="elieze" eye="serious" mouth="neutral">
 	<sjis>
-		うん<end_line/>
-		わかった！<end_line/>
+		うん<end_line>
+		わかった！<end_line>
 	</sjis>
 </dialogue>
