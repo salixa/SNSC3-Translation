@@ -10,7 +10,7 @@
 	<ascii>
 		Alright!<end_line>
 		<player_nickname>, <partner>,<end_line>
-		you both did well!<end_line>
+		well done!<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -39,7 +39,7 @@
 		</sjis>
 	</female>
   <ascii>
-    Yeah, I'd like my money back<three_dots><end_line>
+    That was MY money, you know<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -50,7 +50,7 @@
 		親方<three_dots><end_line>
 	</sjis>
 	<ascii>
-		Hm, Master<three_dots><end_line>
+		Master<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -78,8 +78,8 @@
 		しておこうか<three_dots><end_line>
 	</sjis>
 	<ascii>
-		You appear quite happy<end_line>
-		for something this minor<three_dots><end_line>
+    She's way too excited<three_dots><end_line>
+    Well, as long as she's satisfied<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -94,8 +94,8 @@
 	</sjis>
 	<ascii>
 		Such an intense aura<three_dots><end_line>
-		You're a little too happy<end_line>
-		just for this being free<three_dots><end_line>
+    She's much too<end_line>
+    excited about this<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -161,8 +161,7 @@
 	</sjis>
 	<ascii>
 		How cruel<three_dots><end_line>
-		Fighting so seriously<end_line>
-		against just a girl<three_dots><end_line>
+    You went all out against a girl<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -177,8 +176,8 @@
 	</sjis>
 	<ascii>
 		Huh!?<end_line>
-		Aren't you the one<end_line>
-		who was all arrogant to begin with!?<end_line>
+    You're the one who<end_line>
+    wanted to fight me!<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -193,8 +192,8 @@
 	</sjis>
 	<ascii>
 		Huh!?<end_line>
-		Aren't you the one<end_line>
-		who was all arrogant to begin with!?<end_line>
+		You're the one who<end_line>
+    wanted to fight me!<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -258,7 +257,7 @@
 	<ascii>
 		Does it hurt<three_dots>?<end_line>
 		Do you have some medicine?<end_line>
-		Then I'll<three_dots><end_line>
+		I'll<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -272,8 +271,8 @@
 	</sjis>
 	<ascii>
 		I can't<three_dots><end_line>
-		I can't use the medicine<end_line>
-		I'm supposed to sell on myself<three_dots><end_line>
+    This is my merchandise<three_dots><end_line>
+    I can't use it on myself<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -286,7 +285,7 @@
 	</sjis>
 	<ascii>
 		But<three_dots><end_line>
-		We have to apply some first aid<three_dots><end_line>
+		We have to treat you or<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -300,7 +299,8 @@
 	</sjis>
 	<ascii>
 		It's okay<three_dots><end_line>
-		The Station is close<three_dots><end_line>
+		Marneil Station is close<three_dots><end_line>
+    If we make it there<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -407,7 +407,7 @@
 	</sjis>
 	<ascii>
 		We don't have a choice then.<end_line>
-		I suppose we'll take her together.<end_line>
+    We'll escort you to town.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -420,8 +420,8 @@
 		好きにすればいい<end_line>
 	</sjis>
 	<ascii>
-		You want to take her to town?<end_line>
-		Yeah, okay.<end_line>
+		You want to escort her to town?<end_line>
+		Fine.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -436,7 +436,7 @@
 	</sjis>
 	<ascii>	
 		That's right.<end_line>
-		Let's take her back to town.<end_line>
+		Let's escort her back to town.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -460,8 +460,7 @@
 		じゃあ、おねがいします<end_line>
 	</sjis>
 	<ascii>
-		Sorry<three_dots><end_line>
-		Then, please.<end_line>
+		Sorry about this<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -497,6 +496,7 @@
 	</sjis>
 	<ascii>
 		Oww<three_dots><end_line>
+    Ah, it hurts<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -538,7 +538,8 @@
 		なんだい、その目は？<end_line>
 	</sjis>
 	<ascii>
-		What's with those eyes<three_dots>?<end_line>
+    Why are you staring<end_line>
+    at me like that?<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -550,7 +551,9 @@
 		かめらデス<end_line>
 	</sjis>
 	<ascii>
-		It Is A Camera.<end_line>
+    Staring? I Am Not.<end_line>
+		These Are Cameras.<end_line>
+    I Am Simply Recording Your Image.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -564,7 +567,7 @@
 	</sjis>
 	<ascii>
 		<three_dots><end_line>
-		Nothing.<end_line>
+		Forget it.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -576,7 +579,7 @@
 		<three_dots>別に<end_line>
 	</sjis>
 	<ascii>
-		<three_dots><end_line>
+		<three_dots>It's nothing<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -590,7 +593,7 @@
 	</sjis>
 	<ascii>
 		Eh!?<end_line>
-		Did we hurt your feelings?<end_line>
+    Oh no, I wasn't<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -602,6 +605,7 @@
 		行くよ！<end_line>
 	</sjis>
 	<ascii>
+    Forget it!<end_line>
 		Let's go!<end_line>
 	</ascii>
 </dialogue>
@@ -623,7 +627,7 @@
 		ふふ<three_dots><end_line>
 	</sjis>
 	<ascii>
-		Fufu<three_dots><end_line>
+		Heheh<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -651,6 +655,6 @@
 	<ascii>
 		Eh?<end_line>
 		Y-Yeah<three_dots>!<end_line>
-		Let's<three_dots>Go!<three_dots>*cough*<end_line>
+    C'mon, let's go already!<end_line>
 	</ascii>
 </dialogue>

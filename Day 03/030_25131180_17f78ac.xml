@@ -61,7 +61,7 @@
 		</sjis>
 	</female>
   <ascii>
-    Uh<three_dots><end_line>
+    Ugh<three_dots><end_line>
     I got it already<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -73,7 +73,7 @@
 		ふたりとも、がんばってね<end_line>
 	</sjis>
 	<ascii>
-		Alright, do your best.<end_line>
+		Do your best, you two.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -145,5 +145,3 @@
 		Got it!<end_line>
 	</ascii>
 </dialogue>
-
-
