@@ -98,9 +98,9 @@
 		が武器に付加されるの<end_line>
 	</sjis>
 	<ascii>
-		Okay so, if you add specific items<end_line>
-		to a weapon, it'll gain special moves<end_line>
-		depending on the item.<end_line>
+		Okay so, if you add an<end_line>
+    'Electric Battery' to a weapon,<end_line>
+    it'll gain the move 'Thunder Shot'.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -126,7 +126,7 @@
 		販売中なの～<end_line>
 	</sjis>
 	<ascii>
-		But this time only,<end_line><end_line>
+		But this time only,<end_line>
 		I'll sell you an 'Electric Battery'<end_line>
 		for a mere 200 boam.<end_line>
 	</ascii>
@@ -179,7 +179,7 @@
 		商談不成立だよ～<end_line>
 	</sjis>
 	<ascii>
-		Eeeh~
+		Eeeh~<end_line>
 		But you don't have the money~<end_line>
 		Transaction denied.<end_line>
 	</ascii>

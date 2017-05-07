@@ -79,7 +79,8 @@
 		君は十分あやしいよ<end_line>
 	</sjis>
 	<ascii>
-		So you haven't noticed<three_dots><end_line>
+    You seriously haven't noticed<three_dots>?<end_line>
+    Think about it for a second.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -109,7 +110,7 @@
 		君がいるじゃないか<end_line>
 	</sjis>
 	<ascii>
-		Whenever something troublesome happens,<end_line>
+		Whenever there's trouble,<end_line>
 		you're there, without fail.<end_line>
 	</ascii>
 </dialogue>
