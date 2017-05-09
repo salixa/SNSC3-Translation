@@ -334,7 +334,7 @@
 	</sjis>
 	<ascii>
 		<three_dots><end_line>
-		What should I do<three_dots>
+		What should I do<three_dots><end_line>
 	</ascii>
 </dialogue>
 <choice>

@@ -37,8 +37,7 @@
 		どうしよう、<player_nickname><three_dots><end_line>
 	</sjis>
 	<ascii>
-		What're you going to do,<end_line> 
-		<player_nickname>?<end_line>
+		What do we do, <player_nickname>?<end_line>
 	</ascii>
 </dialogue>
 <dialogue>

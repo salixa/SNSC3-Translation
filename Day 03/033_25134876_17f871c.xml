@@ -12,7 +12,7 @@
 		</sjis>
 	</female>
   <ascii>
-    So this is Mahneil Post Town.<end_line>
+    So this is Marneil Station.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -24,7 +24,8 @@
 		いいのかしら？<end_line>
 	</sjis>
 	<ascii>
-		Where can we get treatment?<end_line>
+    Is there anywhere around here<end_line>
+    we can get medical treatment?<end_line>
 	</ascii>
 </dialogue>
 <dialogue>

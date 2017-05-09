@@ -15,17 +15,20 @@
 		<sjis>
 			まずほほえみ亭って宿屋に行こう<end_line>
 		</sjis>
+    <ascii>
+      I should head to Smile Inn first.<end_line>
+    </ascii>
 	</male>
 	<female>
 		<sjis>
 			先にほほえみ亭って<end_line>
 			宿屋に行きたいな<three_dots><end_line>
 		</sjis>
+    <ascii>
+      I should really check out<end_line>
+      this 'Smile Inn' first<three_dots><end_line>
+    </ascii>
 	</female>
-  <ascii>
-    Let's head to the inn called<end_line>
-    Smile Pavilion first.<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -41,7 +44,7 @@
 		</sjis>
 	</female>
   <ascii>
-    Let's go to the Smile Inn.<end_line>
+    Let's head back to the inn.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -51,16 +54,20 @@
 		<sjis>
 			まずほほえみ亭って宿屋に行こう<end_line>
 		</sjis>
+    <ascii>
+      I should head to Smile Inn first.<end_line>
+    </ascii>
 	</male>
 	<female>
 		<sjis>
 			先にほほえみ亭って<end_line>
 			宿屋に行きたいな<three_dots><end_line>
 		</sjis>
+    <ascii>
+      I should really check out<end_line>
+      this 'Smile Inn' first<three_dots><end_line>
+    </ascii>
 	</female>
-  <ascii>
-    Let's head to the Smile Inn.<end_line>
-  </ascii>
 </dialogue>
 ###Peddler
 <dialogue>
@@ -134,7 +141,7 @@
 	</sjis>
 	<ascii>
 		Well, there's this special material.<end_line>
-		If you use it on your weapon,
+		If you use it on your weapon,<end_line>
 		you'll get a 'Double Attack' ability.<end_line>	
 	</ascii>
 </dialogue>
