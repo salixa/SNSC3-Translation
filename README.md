@@ -6,7 +6,7 @@ Alternate location to private gDrive.
 
 Current Status:
 
-Main Scenario has passed initial reading and being proofread. Progress: 20%
+Main Scenario has passed initial reading and being proofread. Progress: ~25%
 
 Other text, such as side quests, shops, tutorials, etc... are in limbo and may not have been translated yet. Will be worked on after I'm satisfied with the Main Scenario. No ETA, probably not any time soon.
 

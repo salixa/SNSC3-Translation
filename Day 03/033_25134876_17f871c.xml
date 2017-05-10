@@ -39,8 +39,8 @@
 	</sjis>
 	<ascii>
 		Please take me to that inn.<end_line>
-		It's called the Smile Pavilion,<end_line>
-		and it's really nice there<three_dots><end_line>
+		It's called the Smile Inn.<end_line>
+		The staff know me well, so<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -63,9 +63,9 @@
 		あそこ、食事もおいしいですよ<end_line>
 	</sjis>
 	<ascii>
-		Would everyone else<end_line>
-		like to rest there as well?<end_line>
-		The food there is delicious.<end_line>
+    Oh, and I recommend you stay<end_line>
+    there for a night if you can.<end_line>
+		The food there is great.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -77,10 +77,9 @@
 		とろけるおいしさですよ<end_line>
 	</sjis>
 	<ascii>
-		The cake is absolutely delicious,<end_line>
-		so much so that it seems like<end_line>
-		it's casting a spell over you.<end_line>
-	</ascii>
+    Their specialty homemade cake<end_line>
+    just melts in your mouth<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -103,9 +102,9 @@
 		ちょっと<three_dots><end_line>
 	</sjis>
 	<ascii>
-		Cake, huh<three_dots>?<end_line>
-		I find sweet things<end_line>
-		to be a little<three_dots><end_line>
+		Cake<three_dots>?<end_line>
+    I don't really care<end_line>
+    for sweet things<three_dots><end_line>
 	</ascii>
 </dialogue>
 <bigtext>
@@ -114,7 +113,7 @@
 		くぅ<three_dots><end_line>
 	</sjis>
 	<ascii>
-		Brrrrr<three_dots><end_line>
+		*grumble*<three_dots><end_line>
 	</ascii>
 </bigtext>
 <dialogue>
@@ -137,7 +136,7 @@
 	</sjis>
 	<ascii>
 		<three_dots><end_line>
-		Just now<three_dots><end_line>
+		Was that<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -149,7 +148,7 @@
 		みゅーの様ノ　オナカノ音デス<end_line>
 	</sjis>
 	<ascii>
-		It Was The Sound Of Murno's Stomach.<end_line>
+		The Sound Of Murno's Stomach.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -163,7 +162,7 @@
 	</sjis>
 	<ascii>
 		Wha<three_dots>!<end_line>
-		<partner>, what are you saying!?<end_line>
+		<partner>!<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -187,15 +186,18 @@
 		<sjis>
 			オレもハラへったなぁ！<end_line>
 		</sjis>
+    <ascii>
+      I'm starving!<end_line>
+    </ascii>
 	</male>
 	<female>
 		<sjis>
 			わたしもおなかすいたかな<three_dots><end_line>
 		</sjis>
+    <ascii>
+      I'm hungry too<three_dots><end_line>
+    </ascii>
 	</female>
-  <ascii>
-    I'm hungry too<three_dots><end_line>
-  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -233,8 +235,8 @@
 	</sjis>
 	<ascii>
 		<three_dots>?<end_line>
-		No way<three_dots><end_line>
-		You're trying to hide it<three_dots>?<end_line>
+    Are you<three_dots><end_line>
+    Trying to cover for her<three_dots>?<end_line>
 	</ascii>
 </dialogue>
 <bigtext>
@@ -259,6 +261,7 @@
 		<partner><three_dots><end_line>
 	</sjis>
 	<ascii>
+    <partner><three_dots><end_line>
 		Thank you<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -315,7 +318,7 @@
 		うぅ<three_dots><end_line>
 	</sjis>
 	<ascii>
-		Uuh<three_dots><end_line>
+		<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -354,7 +357,7 @@
 	</sjis>
 	<ascii>
 		That's right.<end_line>
-		Sorry about that.<end_line>
+		I'm sorry about that.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -366,6 +369,7 @@
 		<partner><three_dots><end_line>
 	</sjis>
 	<ascii>
+    <partner><three_dots><end_line>
 		Thank you<three_dots><end_line>
 	</ascii>
 </dialogue>
