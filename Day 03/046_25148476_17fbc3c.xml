@@ -20,9 +20,8 @@
 		声なんかかけるのか<three_dots><end_line>
 	</sjis>
   <ascii>
-    Jeez,<end_line>
-    you don't have to<end_line>
-    yell so loud<three_dots><end_line>
+    Ugh<three_dots> My ears<three_dots><end_line>
+    You don't have to shout<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -35,7 +34,7 @@
 	</sjis>
   <ascii>
     Ah!<end_line>
-    Sorry!<end_line>
+    S-Sorry!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -47,7 +46,7 @@
 			なにやってんだ？<end_line>
 		</sjis>
     <ascii>
-      It's you guys<three_dots><end_line>
+      It's you two<three_dots><end_line>
       What are you doing?<end_line>
     </ascii>
 	</male>
@@ -71,8 +70,8 @@
 		鉱石を運ぶ途中だよ<end_line>
 	</sjis>
   <ascii>
-    We're transporting ore with<end_line>
-    the rail car.<end_line>
+    We're transporting ore<end_line>
+    with the rail car.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -84,8 +83,7 @@
 		どうしてここに<three_dots><end_line>
 	</sjis>
   <ascii>
-    What abou tyou?<end_line>
-    Why are you here<three_dots><end_line>
+    What about you?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -99,7 +97,7 @@
 	</sjis>
   <ascii>
     How should I put this<three_dots><end_line>
-    All sorts of things happened<three_dots><end_line>
+    Some stuff happened<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -127,7 +125,7 @@
 	</sjis>
   <ascii>
     How should I put this<three_dots><end_line>
-    All sorts of things happened<three_dots><end_line>
+    Some stuff happened<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -155,8 +153,8 @@
 	</sjis>
   <ascii>
     Yeah.<end_line>
-    It'l take the rail car<end_line>
-    another two days to get to town.<end_line>
+    It'll take the rail car two<end_line>
+    more days to its destination.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -192,7 +190,7 @@
 		ノンビリしたもんだ<end_line>
 	</sjis>
   <ascii>
-    It sure takes its time.<end_line>
+    How leisurely.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -216,8 +214,9 @@
 		急な坂とかは行けないし<end_line>
 	</sjis>
   <ascii>
-    There's a lot of stuff to move<end_line>
-    so we can't push it too hard.<end_line>
+    It is carrying tons of stuff<three_dots><end_line>
+    In any case it's much faster<end_line>
+    than carrying it all ourselves.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -229,8 +228,7 @@
 		そこのほほえみ亭って宿屋？<end_line>
 	</sjis>
   <ascii>
-    If you're staying the night,<end_line>
-    will you be at that Smile Inn?<end_line>
+    So are you staying at Smile Inn?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -256,8 +254,7 @@
 		そこに泊まるんだよ<end_line>
 	</sjis>
   <ascii>
-    No,<end_line>
-    Bostaph's Workshop is here.<end_line>
+    Nah, Bostaph's workshop is here.<end_line>
     We're staying there.<end_line>
   </ascii>
 </dialogue>
@@ -298,11 +295,9 @@
   <ascii>
     That's rare.<end_line>
     Where'd all your energy go?<end_line>
-    Eat something bad?<end_line>
+    Feeling sick?<end_line>
   </ascii>
 </dialogue>
-#### ? not sure what they're trying to say here. just putting something else that fits
-#### for the time being.
 <dialogue>
 	<info box="left">
 	<portrait_l entry="player" eye="sad" mouth="talk">
@@ -313,11 +308,6 @@
 			メシはうまいって話だぜ<three_dots><end_line>
 			はは<three_dots><end_line>
 		</sjis>
-    <ascii>
-      Fu<three_dots><end_line>
-      It'd be easier if that were true<three_dots><end_line>
-      Haha<three_dots><end_line>
-    </ascii>
 	</male>
 	<female>
 		<sjis>
@@ -325,12 +315,11 @@
 			ごはんはおいしいって話だけどね<three_dots><end_line>
 			はは<three_dots><end_line>
 		</sjis>
-    <ascii>
-      Fu<three_dots><end_line>
-      It'd be easier if that were true<three_dots><end_line>
-      Haha<three_dots><end_line>
-    </ascii>
 	</female>
+  <ascii>
+    It'd be easier if that were true<three_dots><end_line>
+    Haha<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -374,21 +363,17 @@
 			あー<three_dots><end_line>
 			オレたちも行こうか<end_line>
 		</sjis>
-    <ascii>
-      Aaahh<three_dots><end_line>
-      Guess we should get going too.<end_line>
-    </ascii>
 	</male>
 	<female>
 		<sjis>
 			はぁ<three_dots><end_line>
 			わたしたちも行こうか<end_line>
 		</sjis>
-    <ascii>
-      Sigh<three_dots><end_line>
-      Guess we should get going too.<end_line>
-    </ascii>
 	</female>
+  <ascii>
+    Sigh<three_dots><end_line>
+    Guess we should get going too.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -470,8 +455,8 @@
 		誰が？<end_line>
 	</sjis>
   <ascii>
+    Me?<end_line>
     Worried?<end_line>
-    Who?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -484,9 +469,8 @@
 		ゼンゼン心配じゃないですよね！<end_line>
 	</sjis>
   <ascii>
-    Ah!?<end_line>
-    Sorry,<end_line>
-    no one's worried about them at all!<end_line>
+    Uh, er, don't mind me,<end_line>
+    just talking to myself!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -499,6 +483,6 @@
 	</sjis>
   <ascii>
     Sigh<three_dots><end_line>
-    Seriously<three_dots><end_line>
+    Unbelievable<three_dots><end_line>
   </ascii>
 </dialogue>

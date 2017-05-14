@@ -20,7 +20,7 @@
 	</sjis>
 	<ascii>
 		Tch<three_dots>!<end_line>
-		What are you gonna do?<end_line>
+		What do we do now?<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -33,9 +33,9 @@
 		行くぞ<end_line>
 	</sjis>
 	<ascii>
-		What am I gonna do, eh<three_dots>?<end_line>
-		These people aren't that kid.<end_line>
-		Let's go.<end_line>
+		They're not who<end_line>
+    we're looking for.<end_line>
+		Forget 'em, let's go.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -60,9 +60,9 @@
 		本日３件目のお客が<three_dots><end_line>
 	</sjis>
 	<ascii>
-		Ugh<three_dots><end_line>
-		What do you intend to do about this?<end_line>
-		My third failed customers today<three_dots><end_line>
+		Sigh<three_dots><end_line>
+    That's the third one<end_line>
+    to get away today<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -84,7 +84,7 @@
 		</sjis>
 	</female>
   <ascii>
-    What!?><end_line>
+    Are you kidding me!?<end_line>
     You were actually planning on<end_line>
     keeping that charade going?!<end_line>
   </ascii>
@@ -112,8 +112,8 @@
 		戦ってくれたの？<end_line>
 	</sjis>
 	<ascii>
-		Were you actually wanting to fight<end_line>
-		just to protect me<three_dots>?<end_line>
+    Were you<three_dots><end_line>
+    Trying to protect me?<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -153,7 +153,7 @@
 	</sjis>
 	<ascii>
 		Yeah.<end_line>
-		My real name is <player_name>.<end_line>
+		My full name is <player_name>.<end_line>
 		And this is <partner>.<end_line>
 	</ascii>
 </dialogue>
@@ -167,7 +167,7 @@
 	</sjis>
 	<ascii>
 		That reminds me<three_dots><end_line>
-		You guys are Craftknights, right?<end_line>
+		You two are Craftknights, right?<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -189,7 +189,8 @@
 		　コレはいけるかも<three_dots>！）<end_line>
 	</sjis>
 	<ascii>
-		*This could really work!*<end_line>
+		(I just got a great idea<three_dots><end_line>
+     This could really work!)<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -202,8 +203,8 @@
 		ウチの宿で働かない？<end_line>
 	</sjis>
 	<ascii>
-		Then, how would you like to<end_line>
-		work at our inn,<end_line>
+		Hey, how would you like<end_line>
+		to work at our inn,<end_line>
 		as our personal Craftknight?<end_line>
 	</ascii>
 </dialogue>
@@ -229,7 +230,7 @@
 	</sjis>
 	<ascii>
 		I've heard that weapons created<end_line>
-		with the help of Guardian Beasts<end_line>
+		with the help of Summon Beasts<end_line>
 		are especially powerful.<end_line>
 	</ascii>
 </dialogue>
@@ -255,8 +256,8 @@
 		絶対ウチの名物になるわ！<end_line>
 	</sjis>
 	<ascii>
-		Then, the weapons you craft<end_line>
-		are special weapons, right?!<end_line>
+    The weapons you craft<end_line>
+    must be awesome then!<end_line>
 		They'd become a specialty here!<end_line>
 	</ascii>
 </dialogue>
@@ -269,9 +270,8 @@
 		今よりずっとふえるはずよ<end_line>
 	</sjis>
 	<ascii>
-		And the amount of customers coming<end_line>
-		to ask for weapon repairs<end_line>
-		would increase by a lot too!<end_line>
+    And we'd have more customers<end_line>
+    coming for repair jobs too!<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -306,7 +306,7 @@
 		ええ～！？<end_line>
 	</sjis>
 	<ascii>
-		Oh jeez<three_dots><end_line>
+		Whaa<three_dots>!?<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -319,7 +319,7 @@
 		ね～！？<end_line>
 	</sjis>
 	<ascii>
-		It's alright, right?<end_line>
+    You'll do it, right?<end_line>
 		Right!?<end_line>
 		Right~!?<end_line>
 	</ascii>
@@ -333,7 +333,7 @@
 		どうしようかな<three_dots><end_line>
 	</sjis>
 	<ascii>
-		<three_dots><end_line>
+		Hmm<three_dots><end_line>
 		What should I do<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -367,7 +367,7 @@
 		私ハ、オ断リシマス<end_line>
 	</sjis>
 	<ascii>
-		I Refuse This Request.<end_line>
+		I Refuse.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -379,7 +379,7 @@
 		断る！<end_line>
 	</sjis>
 	<ascii>
-		I'm inclined to decline!<end_line>
+		I refuse!<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -406,7 +406,7 @@
 		お断りします！<end_line>
 	</sjis>
 	<ascii>
-		I refuse!<end_line>
+		I must refuse!<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -448,8 +448,8 @@
 		断じてできん！<end_line>
 	</sjis>
 	<ascii>
-		I must protect Lady Murno.<end_line>
-		I absolutely cannot work for you!<end_line>
+    I swore to protect Murno.<end_line>
+    I cannot break an oath!<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -462,7 +462,8 @@
 		働かなくてはならないのだ<end_line>
 	</sjis>
 	<ascii>
-		Why would I care to begin with?<end_line>
+    What reason do I<end_line>
+    have to help you?<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -476,8 +477,8 @@
 		ありませんわ！<end_line>
 	</sjis>
 	<ascii>
-		My only role is to<end_line>
-		protect Lady Murno!<end_line>
+    My duty is to protect Lady Murno.<end_line>
+    I will not take my duty lightly!<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -499,9 +500,8 @@
 		</sjis>
 	</female>
   <ascii>
-    Well, right now,<end_line>
-    we have to head to town anyway.<end_line>
-    Can't just stay here<three_dots><end_line>
+    Well, we were just passing<end_line>
+    through to begin with<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -523,9 +523,9 @@
 		</sjis>
 	</female>
   <ascii>
-    We should be heading to town,<end_line>
-    it's not like I can help you<end_line>
-    with crafting anyway.<end_line>
+    We're just passing through.<end_line>
+    I don't have time to<end_line>
+    stick around right now.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -538,8 +538,7 @@
 	</sjis>
 	<ascii>
 		In other words,<end_line>
-		you can't 'right now',<end_line>
-		but you will, right?<end_line>
+		you can some other time?<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -563,8 +562,9 @@
 		その気にさせてみせるんだから！<end_line>
 	</sjis>
 	<ascii>
-		You won't be think that for long.<end_line>
-		I'll definitely convince you!<end_line>
+    Heh heh heh<three_dots><end_line>
+    Resist while you can.<end_line>
+		I'll make you come around!<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -582,7 +582,7 @@
 		</sjis>
 	</female>
   <ascii>
-    I doubt that<three_dots><end_line>
+    Huh? Hey, wait!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -594,7 +594,7 @@
 		お母さんたちにしらせなきゃ！<end_line>
 	</sjis>
 	<ascii>
-		Since that's decided,<end_line>
+    It's decided then!<end_line>
 		I have to go tell mom and dad!<end_line>
 	</ascii>
 </dialogue>
@@ -605,7 +605,7 @@
 		行っちゃったよ<three_dots><end_line>
 	</sjis>
 	<ascii>
-		She left<three_dots><end_line>
+    What just happened<three_dots>?<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -629,7 +629,7 @@
 		なんて娘じゃ<three_dots><end_line>
 	</sjis>
 	<ascii>
-		What an odd human<three_dots><end_line>
+		What an odd girl<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -653,7 +653,7 @@
 		大変な女の子ですね<three_dots><end_line>
 	</sjis>
 	<ascii>
-		She's quite odd<three_dots><end_line>
+		She's quite troublesome<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -675,8 +675,9 @@
 		</sjis>
 	</female>
   <ascii>
-    So, <partner><three_dots><end_line>
+    Oh, I forgot to ask<three_dots><end_line>
     Who were those guys earlier?<end_line>
+    What's their relation to Murno?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -712,7 +713,7 @@
 		キサマに話すことは、何もない<end_line>
 	</sjis>
 	<ascii>
-		I have nothing to say to you.<end_line>
+    Nothing you need to know.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -724,6 +725,10 @@
 		ごめんなさい<three_dots><end_line>
 		何もお話しできませんわ<end_line>
 	</sjis>
+  <ascii>
+    I'm sorry<three_dots><end_line>
+    I can't tell you right now.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -747,8 +752,7 @@
 	</sjis>
 	<ascii>
 		I Am Sorry.<end_line>
-		It Is A Promise Lady Murno<end_line>
-		Is Holding Me Up To.<end_line>
+    I Promised Lady Murno.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -762,6 +766,7 @@
 		ミューノとの、な<end_line>
 	</sjis>
 	<ascii>
+    I promised Murno.<end_line>
 		I swore upon this topknot<end_line>
 		I wouldn't say it anyone.<end_line>
 	</ascii>
@@ -777,8 +782,8 @@
 		キサマは、やぶって欲しいか？<end_line>
 	</sjis>
 	<ascii>
-		I was forced to make<end_line>
-		such a promise to Murno<three_dots><end_line>
+    I made a promise with Murno<three_dots><end_line>
+    Want me to break it?<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -791,7 +796,8 @@
 		約束ですから<three_dots><end_line>
 	</sjis>
 	<ascii>
-		It's a promise I made to Murno.<end_line>
+    I made a promise with Murno<three_dots><end_line>
+    So<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -803,7 +809,6 @@
 		そっか<three_dots><end_line>
 	</sjis>
 	<ascii>
-		A promise<three_dots><end_line>
 		I see<three_dots><end_line>
 		That's fair.<end_line>
 	</ascii>
@@ -845,7 +850,7 @@
 		みんなのとこへ戻ろうか？<end_line>
 	</sjis>
 	<ascii>
-		Let's head back then.<end_line>
+		Shall we head back?<end_line>
 	</ascii>
 </dialogue>
 <dialogue>

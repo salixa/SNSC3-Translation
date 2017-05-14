@@ -18,7 +18,7 @@
     はあ<end_line>
   </sjis>
   <ascii>
-    Hmm.<end_line>
+    Yeah<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -31,8 +31,8 @@
     なってるんだい？<end_line>
   </sjis>
   <ascii>
-    So, what exactly<end_line>
-    is going on with you?<end_line>
+    So, care to explain<end_line>
+    what's going on?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -56,7 +56,7 @@
     何を考えているの<three_dots>？<end_line>
   </sjis>
   <ascii>
-    Really, what are you thinking?<end_line>
+    What were you thinking?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -85,11 +85,10 @@
       I wonder why<three_dots>)<end_line>
   </ascii>
 </dialogue>
-####incorrect portrait. should be partner
 <dialogue>
   <partner name="run-dor">
   <info box="left">
-  <portrait_l entry="player" eye="sad" mouth="tense">
+  <portrait_l entry="partner" eye="sad" mouth="tense">
   <portrait_r entry="vee" eye="decided" mouth="neutral">
   <sjis>
     みゅーの様<three_dots><end_line>
@@ -101,7 +100,7 @@
 <dialogue>
   <partner name="enzi">
   <info box="left">
-  <portrait_l entry="player" eye="sad" mouth="tense">
+  <portrait_l entry="partner" eye="sad" mouth="tense">
   <portrait_r entry="vee" eye="decided" mouth="neutral">
   <sjis>
     ミューノ<three_dots><end_line>
@@ -113,7 +112,7 @@
 <dialogue>
   <partner name="killfith">
   <info box="left">
-  <portrait_l entry="player" eye="sad" mouth="tense">
+  <portrait_l entry="partner" eye="sad" mouth="tense">
   <portrait_r entry="vee" eye="decided" mouth="neutral">
   <sjis>
     ちっ<three_dots><end_line>
@@ -125,7 +124,7 @@
 <dialogue>
   <partner name="rufeel">
   <info box="left">
-  <portrait_l entry="player" eye="sad" mouth="tense">
+  <portrait_l entry="partner" eye="sad" mouth="tense">
   <portrait_r entry="vee" eye="decided" mouth="neutral">
   <sjis>
     ミューノ様<three_dots><end_line>
@@ -143,8 +142,9 @@
     <player_nickname>と<partner><end_line>
   </sjis>
   <ascii>
-    Oh, father<end_line>
-    returned just now.<end_line>
+    Oh, Father!<end_line>
+    They're back now.<end_line>
+    This is <player_nickname> and <partner>.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -170,9 +170,9 @@
     テュスです<end_line>
   </sjis>
   <ascii>
-    Oh, you must be<three_dots><end_line>
-    I am the proprietor here,<end_line>
-    Thus.<end_line>
+    Oh, so you're<three_dots><end_line>
+    I am Thus, Tier's father and<end_line>
+    the owner of this inn.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -185,9 +185,9 @@
     本当にありがとう<end_line>
   </sjis>
   <ascii>
-    You must be the ones who saved my<end_line>
-    daughter from those sketchy people.<end_line>
-    I'm grateful.<end_line>
+    You must be the two<end_line>
+    who saved my daughter.<end_line>
+    I'm very grateful.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -226,7 +226,7 @@
     ジャマしておるぞ<end_line>
   </sjis>
   <ascii>
-    We will be staying here.<end_line>
+    We'll be staying the night.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -264,8 +264,8 @@
   </sjis>
   <ascii>
     I see.<end_line>
-    So you two are the ones<end_line>
-    who craft weapons.<end_line>
+    So you two are the<end_line>
+    smithies Tier mentioned.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -279,8 +279,8 @@
   </sjis>
   <ascii>
     That's right!<end_line>
-    We'll have them make us mysterious<end_line>
-    weapons to sell with a tagline!<end_line>
+    They'd be able to make us some<end_line>
+    really high quality weapons!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -334,8 +334,8 @@
     いっしょに仲良くがんばるの！<end_line>
   </sjis>
   <ascii>
-    Us young ones will work hard<end_line>
-    together to save the inn!<end_line>
+    <player_nickname> and I will<end_line>
+    do our best to save the inn!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -365,9 +365,8 @@
     カンバン娘になるのよ<end_line>
   </sjis>
   <ascii>
-    On top of that, <player_name> and I<end_line>
-    can also work as poster girls<end_line>
-    for the inn.<end_line>
+    And with two young girls around,<end_line>
+    it'd be easy to attract customers!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -381,8 +380,7 @@
     おしよせてくるに決まってるわ！<end_line>
   </sjis>
   <ascii>
-    Think of it this way,<end_line>
-    any customers we go after are<end_line>
+    Any customers we go after are<end_line>
     sure to become good business!<end_line>
   </ascii>
 </dialogue>
@@ -407,6 +405,7 @@
     町に行かなきゃならないんだって<end_line>
   </sjis>
   <ascii>
+    But before that can happen,<end_line>
     <player_name> and the others have some<end_line>
     business to take care of in town.<end_line>
   </ascii>
@@ -421,7 +420,7 @@
     すぐに片づくと思うわ<end_line>
   </sjis>
   <ascii>
-    I will be accompanying them.<end_line>
+    So I'll go with them.<end_line>
     That way, we'll finish<end_line>
     things up faster.<end_line>
   </ascii>
@@ -434,7 +433,7 @@
     ついていくって、お前<three_dots><end_line>
   </sjis>
   <ascii>
-    Tier, you<three_dots><end_line>
+    Tier<three_dots>!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -448,7 +447,7 @@
   </sjis>
   <ascii>
     Hold on!<end_line>
-    Um, this is the first time<end_line>
+    This is the first time<end_line>
     I'm hearing about that.<end_line>
   </ascii>
 </dialogue>
@@ -476,8 +475,8 @@
     ゴチソウを作りますから<end_line>
   </sjis>
   <ascii>
-    I will prepare a feast<end_line>
-    for everyone.<end_line>
+    I will prepare a<end_line>
+    feast for everyone.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -583,7 +582,8 @@
   </sjis>
   <ascii>
     Jeez<three_dots><end_line>
-    What a reliable young lady.<end_line>
+    She's got a good head<end_line>
+    on her shoulders.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -595,8 +595,8 @@
     <player_nickname><end_line>
   </sjis>
   <ascii>
-    You've found a good comrade,<end_line>
-    <player_nickname>.<end_line>
+    You've got a good eye.<end_line>
+    Nice going <player_nickname>.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -627,7 +627,7 @@
     </sjis>
   </female>
   <ascii>
-    How did it turn out this way!<end_line>
+    It's not like that!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -638,7 +638,8 @@
     というかアンタ<end_line>
   </sjis>
   <ascii>
-    Hold up.<end_line>
+    And you.<end_line>
+    Hold on a second.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -658,7 +659,7 @@
       将来の仕事仲間にしようって相手の<end_line>
     </sjis>
     <ascii>
-      I'm your future colleague's family.<end_line>
+      I'm your future coworker's family.<end_line>
     </ascii>
   </female>
 </dialogue>
@@ -734,7 +735,7 @@
     お<three_dots>、鬼じゃ<three_dots><end_line>
   </sjis>
   <ascii>
-    A<three_dots> an ogre<three_dots><end_line>
+    She's<three_dots> an ogre<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -760,7 +761,7 @@
     思えませんわ！<end_line>
   </sjis>
   <ascii>
-    Somehow<three_dots><end_line>
+    Sigh<three_dots><end_line>
     You wouldn't expect someone's master<end_line>
     to say something like that!<end_line>
   </ascii>
@@ -774,8 +775,7 @@
     本当にティエちゃんと<three_dots><end_line>
   </sjis>
   <ascii>
-    Could it be<end_line>
-    you and Tier are really<three_dots><end_line>
+    Are you two really<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -798,7 +798,7 @@
     もしかして、ヤキモチ？<end_line>
   </sjis>
   <ascii>
-    Oh my?<end_line>
+    Oh?<end_line>
     Are you jealous?<end_line>
   </ascii>
 </dialogue>
@@ -839,7 +839,7 @@
     そうかな～<end_line>
   </sjis>
   <ascii>
-    Ehh~<end_line>
+    Heheh~<end_line>
     You think so?<end_line>
   </ascii>
 </dialogue>
@@ -876,7 +876,7 @@
     すくいようがないな<three_dots><end_line>
   </sjis>
   <ascii>
-    No way out of this<end_line>
+    You've dug your own grave<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -888,7 +888,7 @@
     サイアクですわ<three_dots><end_line>
   </sjis>
   <ascii>
-    This is the worst<three_dots><end_line>
+    You're the worst<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -901,8 +901,8 @@
   </sjis>
   <ascii>
     You know<three_dots><end_line>
-    When I see <player_nickname>'s face,<end_line>
-    fighting for me, I can tell<three_dots><end_line>
+    When I saw <player_nickname><end_line>
+    fighting for me, I knew<three_dots><end_line>
   </ascii>
 </dialogue>
 <bigtext>
@@ -934,7 +934,7 @@
     おおい！　ちょっと<three_dots><end_line>
   </sjis>
   <ascii>
-    H-hey! Wait<three_dots><end_line>
+    H-Hey! Wait<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -994,7 +994,7 @@
   </sjis>
   <ascii>
     I understand<three_dots><end_line>
-    Be happy together<three_dots><end_line>
+    I wish you two the best<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1004,7 +1004,7 @@
     そんな、ちょっと！<end_line>
   </sjis>
   <ascii>
-    You're wrong!<end_line>
+    Wait!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1044,11 +1044,10 @@
   <sjis>
     どうして<end_line>
     こんなことに<end_line>
-    なってるんだ<three_dots><end_line>#701
+    なってるんだ<three_dots><end_line>
   </sjis>
   <ascii>
-    Why has it<end_line>
-    turned out like this<three_dots><end_line>
+    Why is this happening<three_dots>?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1060,15 +1059,14 @@
     末恐ろしいヤツ<three_dots><end_line>
   </sjis>
   <ascii>
-    This kind of situation<three_dots><end_line>
-    <player_nickname><three_dots><end_line>
-    They're only going to get worse<three_dots><end_line>
+    You're so young and you're<end_line>
+    already this popular<three_dots><end_line>
+    I envy you<three_dots><end_line>
   </ascii>
 </dialogue>
-####I'm guessing these should be Tier...
 <dialogue> 
   <info box="left">
-  <portrait_l name="jade">
+  <portrait_l name="tier">
   <sjis>
     カンバン娘にえらばれなかった<end_line>
     あなたがヤキモチをやく気持ち<end_line>
@@ -1076,13 +1074,13 @@
   </sjis>
   <ascii>
     It's not like I don't understand<end_line>
-    you'd get jealous, not being<end_line>
+    why you'd get jealous, not being<end_line>
     chosen as a poster girl.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
   <info box="left">
-  <portrait_l name="jade">
+  <portrait_l name="tier">
   <sjis>
     でもね、あなたは鍛冶師でも<end_line>
     なんでもないみたいだし<end_line>
@@ -1102,7 +1100,7 @@
     暗い、ですか<three_dots>？<end_line>
   </sjis>
   <ascii>
-    Ku<three_dots><end_line>
+    Gl<three_dots><end_line>
     Gloomy<three_dots>?<end_line>
   </ascii>
 </dialogue>
@@ -1116,7 +1114,7 @@
   </sjis>
   <ascii>
     I mean, we're in the service industry,<end_line>
-    so we have to be energetic.<end_line>
+    so we have to be bright and cheery.<end_line>
     I'm really sorry~<end_line>
   </ascii>
 </dialogue>
@@ -1153,8 +1151,8 @@
   <ascii>
     But I really<end_line>
     don't have any interest<end_line>
-    in being a poster girl!<end_line>
-  </ascii.
+    in doing that!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -1226,8 +1224,7 @@
     なってるの<three_dots>？<end_line>
   </sjis>
   <ascii>
-    Why did it have to<end_line>
-    turn out like this<three_dots>?<end_line>
+    Why is this happening<three_dots>?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1238,7 +1235,8 @@
     なんというフンイキ<end_line>
   </sjis>
   <ascii>
-    Ku, even I couldn't move a single step.<end_line>
+    Even I can't help you<end_line>
+    out this time<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1250,7 +1248,7 @@
   </sjis>
   <ascii>
     Umm<three_dots><end_line>
-    What were we doing again?<end_line>
+    So, about the bill<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1276,7 +1274,8 @@
     お<three_dots>、鬼が再び<three_dots><end_line>
   </sjis>
   <ascii>
-    The<three_dots> the ogre again<three_dots><end_line>
+    She's back<three_dots><end_line>
+    The ogre<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1288,8 +1287,8 @@
     悪魔以上かもしれん<three_dots><end_line>
   </sjis>
   <ascii>
-    She may actually be worse<end_line>
-    than a demon<three_dots><end_line>
+    She may actually be<end_line>
+    worse than a demon<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1318,7 +1317,7 @@
     えらい人も言ってたじゃない<end_line>
   </sjis>
   <ascii>
-    Ah, right! The lodging fees.<end_line>
+    Ah, right! The bill.<end_line>
     Of course, you must pay us.<end_line>
     A great person once said,<end_line>
   </ascii>
@@ -1359,7 +1358,7 @@
   <ascii>
     In life, one must be able<end_line>
     to make money to continue living.<end_line>
-    So, the fee per person will be<three_dots><end_line>
+    So, the total will be<three_dots><end_line>
   </ascii>
 </dialogue>
 <bigtext>
@@ -1394,8 +1393,7 @@
   </sjis>
   <ascii>
     Knock it off!<end_line>
-    You've just been going on and on<end_line>
-    about money, oh the money<three_dots><end_line>
+    Money this, money that<three_dots><end_line>
   </ascii>
 </dialogue>
 <bigtext>
@@ -1406,7 +1404,7 @@
     みっともないぞ！<end_line>
   </sjis>
   <ascii>
-    It's so unsightly!<end_line>
+    It's disgusting!<end_line>
   </ascii>
 </bigtext>
 <dialogue>
@@ -1474,7 +1472,7 @@
     Besides, even I wouldn't<end_line>
     let customers stay here<end_line>
     for free.<end_line>
-  </ascii.
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -1497,8 +1495,8 @@
   </sjis>
   <ascii>
     But<three_dots><end_line>
-    Earlier, you said you didn't<end_line>
-    need our money<three_dots><end_line>
+    Earlier, you said you<end_line>
+    didn't need our money<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1561,7 +1559,7 @@
     おねがいします<end_line>
   </sjis>
   <ascii>
-    So, that will be one thousand Boam<end_line>
+    So, that will be 1000 Boam<end_line>
     per person, please.<end_line>
   </ascii>
 </dialogue>
@@ -1589,8 +1587,8 @@
     あなたが言わないでよ<end_line>
   </sjis>
   <ascii>
-    Something great<three_dots><end_line>
-    Don't say that.<end_line>
+    Of course you'd say that,<end_line>
+    you cheapskate.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1617,7 +1615,7 @@
   </sjis>
   <ascii>
     Dad, do you really understand?<end_line>
-    If I wasn't attracting customers,<end_line>
+    If I wasn't making money on my own,<end_line>
     we'd be bankrupt a long time ago!<end_line>
   </ascii>
 </dialogue>
@@ -1631,7 +1629,7 @@
     お金をかせいでから言ってよね！<end_line>
   </sjis>
   <ascii>
-    What's this your smiles crap?<end_line>
+    What's this crap about smiles?<end_line>
     Say that kind of stuff<end_line>
     after you've made some money!<end_line>
   </ascii>
@@ -1673,7 +1671,6 @@
     So let's all eat together.<end_line>
   </ascii>
 </dialogue>
-#593
 <dialogue>
   <info box="left">
   <portrait_l entry="vee" eye="happy" mouth="talk">
@@ -1692,7 +1689,8 @@
     あ、ちょっと、逃げるな！<end_line>
   </sjis>
   <ascii>
-    Ah, wait, don't run!<end_line>
+    Hey, wait!<end_line>
+    You're not getting away!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1704,7 +1702,8 @@
     本当にすんません<three_dots><end_line>
   </sjis>
   <ascii>
-    Jeez, sis V.E<three_dots><end_line>
+    When it comes to V.E and money<three_dots><end_line>
+    She can be difficult<three_dots><end_line>
     I'm really sorry about her<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -1741,7 +1740,7 @@
     あ！　もう！　ちょっと！？<end_line>
   </sjis>
   <ascii>
-    Ah! Come on! Again!?<end_line>
+    Come on! Again!?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1755,7 +1754,7 @@
   <ascii>
     Ugh<three_dots><end_line>
     My parents are just<three_dots><end_line>
-    Are they really running a business~!?<end_line>
+    This isn't a charity!!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
