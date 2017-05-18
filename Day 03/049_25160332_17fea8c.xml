@@ -5,7 +5,7 @@
     Ç†ÇÁÅA<player_nickname><end_line>
   </sjis>
   <ascii>
-    Oh, it's <player_nickname>.<end_line>
+    Oh, <player_nickname>.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -28,7 +28,7 @@
     Ç±ÇÒÇ»Ç∆Ç±ÇÎÇ…Ç¢ÇƒÇ‡Ç¢Ç¢ÇÃÅH<end_line>
   </sjis>
   <ascii>
-    What is it?<end_line>
+    What's wrong?<end_line>
     Is it okay for you to be here?<end_line>
   </ascii>
 </dialogue>
@@ -50,7 +50,7 @@
   </female>
   <ascii>
     Eh<three_dots>?<end_line>
-    It should be fine, but<three_dots><end_line>
+    I don't see why not<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -64,8 +64,8 @@
   </sjis>
   <ascii>
     Really?<end_line>
-    You weren't planning your next<end_line>
-    move with Tier?<end_line>
+    I thought you'd be with Tier,<end_line>
+    planning your future together.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -87,7 +87,7 @@
     </sjis>
   </female>
   <ascii>
-    Why would you<three_dots>!<end_line>
+    This again<three_dots>?<end_line>
     Murno, do you really think<end_line>
     I'd do something like that!?<end_line>
   </ascii>
@@ -102,9 +102,9 @@
     Ç§ÇÍÇµÇªÇ§ÇæÇ¡ÇΩÇµ<three_dots><end_line>
   </sjis>
   <ascii>
-    T-that's<three_dots><end_line>
-    But <player_nickname>,<end_line>
-    you seemed to be happy<three_dots><end_line>
+    W-Well<three_dots><end_line>
+    But <player_nickname><three_dots><end_line>
+    You seemed to be happy about it<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -135,8 +135,8 @@
   </sjis>
   <ascii>
     But talking about marriage<three_dots><end_line>
-    Even I didn't think it<end_line>
-    would become like this<three_dots><end_line>
+    That's a completely<end_line>
+    different topic<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -167,8 +167,8 @@
   </sjis>
   <ascii>
     But working as a poster girl<three_dots><end_line>
-    Even I didn't think it<end_line>
-    would become like this<three_dots><end_line>
+    That's a completely<end_line>
+    different topic<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -204,8 +204,9 @@
     Ç‹ÇÒÇ¥ÇÁÇ≈Ç‡Ç»Ç¢äÁÇµÇƒÇΩÇµ<three_dots><end_line>
   </sjis>
   <ascii>
-    You seemed to be quite satisfied<end_line>
-    when Tier said you were cool<three_dots><end_line>
+    Really<three_dots><end_line>
+    You looked quite satisfied<end_line>
+    by Tier's praise<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -251,9 +252,9 @@
     Ç‹ÇÒÇ¥ÇÁÇ≈Ç‡Ç»Ç¢äÁÇµÇƒÇΩÇµ<three_dots><end_line>
   </sjis>
   <ascii>
-    You seemed to be quite satisfied<end_line>
-    when Tier said you could<end_line>
-    work with her as a poster girl<three_dots><end_line>
+    Really<three_dots><end_line>
+    You looked quite satisfied<end_line>
+    by Tier's praise<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -268,7 +269,7 @@
   </sjis>
   <ascii>
     That was, well, the first time<end_line>
-    anyone's told me something like that<three_dots><end_line>
+    anyone's complimented me like that<three_dots><end_line>
     I got embarrassed<three_dots><end_line>
   </ascii>
 </dialogue>

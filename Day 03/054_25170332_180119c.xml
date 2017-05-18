@@ -29,9 +29,9 @@
     話し合いましょ！<end_line>
   </sjis>
   <ascii>
-    Now once again,<end_line>
-    let the Our Future Together<end_line>
-    conference begin!<end_line>
+    Now that we're alone,<end_line>
+    let's make some plans<end_line>
+    for our future together!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -74,8 +74,8 @@
   </sjis>
   <ascii>
     Jeez!<end_line>
-    Stop getting so embarrassed<end_line>
-    when you're actually happy!<end_line>
+    Stop getting so embarrassed!<end_line>
+    You're actually happy, right!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -101,7 +101,7 @@
   </sjis>
   <ascii>
     I was happy when you said I could<end_line>
-    work for them as a Craftknight.<end_line>
+    work for you as a Craftknight.<end_line>
     I felt like someone recognized my skill.<end_line>
   </ascii>
 </dialogue>
@@ -131,7 +131,7 @@
   </sjis>
   <ascii>
     I was happy when you said I could<end_line>
-    work for them as a Craftknight.<end_line>
+    work for you as a Craftknight.<end_line>
     I felt like someone recognized my skill.<end_line>
   </ascii>
 </dialogue>
@@ -159,9 +159,9 @@
     ちゃんと立てないとダメでしょ？<end_line>
   </sjis>
   <ascii>
-    But it's no good<end_line>
-    if we don't plan for<end_line>
-    our future together, right?<end_line>
+    Well, we can at least<end_line>
+    think about what comes<end_line>
+    after this, right?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -182,7 +182,7 @@
   </female>
   <ascii>
     Ehhh!?<end_line>
-    But why are we together!?<end_line>
+    I just said<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -211,9 +211,9 @@
       宣伝するのよ！<end_line>
     </sjis>
     <ascii>
-      And they'll tell everyone,<end_line>
-      there's a brave pair working at<end_line>
-      an amazing inn!<end_line>
+      Then they'll spread rumors!<end_line>
+      About there's a brave couple<end_line>
+      working at an amazing inn!<end_line>
     </ascii>
   </male>
   <female>
@@ -223,9 +223,9 @@
       宣伝するのよ！<end_line>
     </sjis>
     <ascii>
-      And they'll tell everyone,<end_line>
-      there's a cute pair working at<end_line>
-      an amazing inn!<end_line>
+      Then they'll spread rumors!<end_line>
+      About a pair of cute girls<end_line>
+      working at an amazing inn!<end_line>
     </ascii>
   </female>
 </dialogue>
@@ -251,7 +251,7 @@
   </sjis>
   <ascii>
     And then, people will flock<end_line>
-    to our shop, they'll be<end_line>
+    to the inn, they'll be<end_line>
     impressed by our cooking,<end_line>
   </ascii>
 </dialogue>
@@ -265,9 +265,9 @@
     いう寸法よ！<end_line>
   </sjis>
   <ascii>
-    Rumors will spread,<end_line>
+    Word will spread,<end_line>
     and our number of<end_line>
-    customers, will grow!<end_line>
+    customers will grow!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -278,7 +278,8 @@
     す、すごい計画ですね<three_dots><end_line>
   </sjis>
   <ascii>
-    W-what an amazing plan<three_dots><end_line>
+    W-Wow<three_dots><end_line>
+    She's really thought this out<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -291,8 +292,8 @@
     ね、<player_nickname><hearth><end_line>
   </sjis>
   <ascii>
-    Let's do our best to make this<end_line>
-    the number 1 inn in all of Lindbaum!<end_line>
+    We're going to make this the<end_line>
+    number one inn in all of Lindbaum!<end_line>
     Right, <player_nickname><hearth>?<end_line>
   </ascii>
 </dialogue>

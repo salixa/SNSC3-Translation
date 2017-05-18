@@ -17,7 +17,7 @@
     こりゃまた大きなため息じゃの<three_dots><end_line>
   </sjis>
   <ascii>
-    That was quite a sigh<three_dots><end_line>
+    That was quite the sigh<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -28,7 +28,7 @@
     どんな大きなため息だ<three_dots><end_line>
   </sjis>
   <ascii>
-    What a huge sigh<three_dots><end_line>
+   That was quite the sigh<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -38,7 +38,7 @@
     スゴイ大きなため息ですね<end_line>
   </sjis>
   <ascii>
-    That was an amazingly large sigh.<end_line>
+    That was quite the sigh.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -64,8 +64,8 @@
     大丈夫デスカ？<end_line>
   </sjis>
   <ascii>
-    You Do Not Appear<end_line>
-    To Feel Any Better<three_dots><end_line>
+    You Do Not Appear To<end_line>
+    Feel Any Better<three_dots><end_line>
     Are You Alright?<end_line>
   </ascii>
 </dialogue>
@@ -90,8 +90,8 @@
   <ascii>
   </female>
     Sigh<three_dots><end_line>
-    I'm bummed out<three_dots><end_line>
-    What should I do<three_dots><end_line>
+    There's just a lot to take in<three_dots><end_line>
+    What should I do<three_dots>?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -130,9 +130,9 @@
     反応ヲ示シタノデ<three_dots><end_line>
   </sjis>
   <ascii>
-    Then It Is Fine, But<three_dots><end_line>
-    At That Time, You Displayed<end_line>
-    A Happy Reaction<three_dots><end_line>
+    That Is Good. However<three_dots><end_line>
+    When Tier Spoke Of Her Plans,<end_line>
+    Your Face Filled With Emotion<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -165,8 +165,8 @@
   </sjis>
   <ascii>
     But talking about marriage<three_dots><end_line>
-    Even I didn't think it<end_line>
-    would become like this<three_dots><end_line>
+    That's a completely<end_line>
+    different topic<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -182,8 +182,8 @@
   </sjis>
   <ascii>
     That Is Not All.<end_line>
-    When You Were Told You Were Cool,<end_line>
-    You Displayed The Same Reaction<three_dots><end_line>
+    You Displayed The Same Reaction<end_line>
+    When She Said You Were Cool<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -231,8 +231,8 @@
   </sjis>
   <ascii>
     But working as a poster girl<three_dots><end_line>
-    Even I didn't think it<end_line>
-    would become like this<three_dots><end_line>
+    That's a completely<end_line>
+    different topic<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -248,8 +248,8 @@
   </sjis>
   <ascii>
     That Is Not All.<end_line>
-    When You Were Told You Were Cool,<end_line>
-    You Displayed The Same Reaction<three_dots><end_line>
+    You Displayed The Same Reaction<end_line>
+    When She Said You Were Cool<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -320,7 +320,7 @@
     トホホ<three_dots><end_line>
   </sjis>
   <ascii>
-    Uh<three_dots><end_line>
+    Uh<three_dots> Haha<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -345,8 +345,8 @@
     ため息もつきたくなるか<end_line>
   </sjis>
   <ascii>
-    This has become quite troublesome.<end_line>
-    It would make one want to sigh.<end_line>
+    This is quite the situation.<end_line>
+    I understand how you feel.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -385,6 +385,7 @@
     全くないからの<end_line>
   </sjis>
   <ascii>
+    For my part,<end_line>
     I don't intend to work here.<end_line>
   </ascii>
 </dialogue>
@@ -418,9 +419,9 @@
     うれしそうに見えたものでな<three_dots><end_line>
   </sjis>
   <ascii>
-    Then it's fine, but<three_dots><end_line>
-    At that time, you looked<end_line>
-    somewhat happy<three_dots><end_line>
+    Good. That aside<three_dots><end_line>
+    When Tier unveiled her plans,<end_line>
+    you seemed to be happy<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -440,7 +441,6 @@
     I felt like she recognized my skill.<end_line>
   </ascii>
 </dialogue>
-#350
 <dialogue>
   <player gender="male">
   <partner name="enzi">
@@ -454,8 +454,9 @@
   </sjis>
   <ascii>
     But talking about marriage<three_dots><end_line>
-    Even I didn't think it<end_line>
-    would become like this<three_dots><end_line>
+    That's a completely<end_line>
+    different topic<three_dots><end_line>
+  </ascii>
   </ascii>
 </dialogue>
 <dialogue>
@@ -470,9 +471,9 @@
     うれしかったのではないか？<end_line>
   </sjis>
   <ascii>
-    Oh, is that so?<end_line>
-    Weren't you also happy that<end_line>
-    a cute girl confessed to you?<end_line>
+    Oh, is that all?<end_line>
+    I thought you'd be happy to have<end_line>
+    a cute girl confess to you.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -501,6 +502,11 @@
     言われたとき、少しうれしかったんだ<end_line>
     わたしのウデが認められた気がして<end_line>
   </sjis>
+  <ascii>
+    That's because she told me I could<end_line>
+    work for them as a Craftknight.<end_line>
+    I felt like she recognized my skill.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <player gender="female">
@@ -514,9 +520,9 @@
     わたしだって思ってなかったよ<three_dots><end_line>
   </sjis>
   <ascii>
-    That's because she told me I could<end_line>
-    work for them as a Craftknight.<end_line>
-    I felt like she recognized my skill.<end_line>
+    But working as a poster girl<three_dots><end_line>
+    That's a completely<end_line>
+    different topic<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -532,8 +538,8 @@
   </sjis>
   <ascii>
     Oh, is that so?<end_line>
-    Weren't you also happy she said<end_line>
-    you could even be poster girl?<end_line>
+    I thought you'd be happy to have<end_line>
+    her complement your looks.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -590,8 +596,8 @@
     たとえ、おぬしでも<end_line>
   </sjis>
   <ascii>
-    So those who would make<end_line>
-    her sad are my enemies.<end_line>
+    Those who would cause<end_line>
+    her sadness are my enemies.<end_line>
     Even if its you.<end_line>
   </ascii>
 </dialogue>
@@ -604,7 +610,7 @@
     トホホ<three_dots><end_line>
   </sjis>
   <ascii>
-    Uh<three_dots><end_line>
+    Uh<three_dots> Haha<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -656,7 +662,7 @@
   </female>
   <ascii>
     Don't say that<three_dots><end_line>
-    Even I'm taking this seriously.<end_line>
+    I'm taking this seriously.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -669,8 +675,8 @@
     私にそんな気はないぞ<end_line>
   </sjis>
   <ascii>
-    You're free to work here if you wish,<end_line>
-    but I won't.<end_line>
+    You may work here if you wish,<end_line>
+    but don't include me.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -704,8 +710,8 @@
   </sjis>
   <ascii>
     I wonder.<end_line>
-    It didn't look like you were<end_line>
-    really against it.<end_line>
+    It didn't look like you<end_line>
+    were really against it.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -720,8 +726,8 @@
     オレのウデが認められた気がしてさ<end_line>
   </sjis>
   <ascii>
-    I was a bit happy when she told me I <end_line>
-    could work for them as a Craftknight.<end_line>
+    That's because she told me I could<end_line>
+    work for them as a Craftknight.<end_line>
     I felt like she recognized my skill.<end_line>
   </ascii>
 </dialogue>
@@ -738,8 +744,8 @@
   </sjis>
   <ascii>
     But talking about marriage<three_dots><end_line>
-    Even I didn't think it<end_line>
-    would become like this<three_dots><end_line>
+    That's a completely<end_line>
+    different topic<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -754,9 +760,9 @@
     キライではないのだろ？<end_line>
   </sjis>
   <ascii>
-    Hm.<end_line>
-    It's not like you<end_line>
-    hate that girl, do you?<end_line>
+    Hmph.<end_line>
+    It's not like you dislike her.<end_line>
+    Why not give it a try?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -786,8 +792,8 @@
     わたしのウデが認められた気がして<end_line>
   </sjis>
   <ascii>
-    I was a bit happy when she told me I <end_line>
-    could work for them as a Craftknight.<end_line>
+    That's because she told me I could<end_line>
+    work for them as a Craftknight.<end_line>
     I felt like she recognized my skill.<end_line>
   </ascii>
 </dialogue>
@@ -804,8 +810,8 @@
   </sjis>
   <ascii>
     But working as a poster girl<three_dots><end_line>
-    Even I didn't think it<end_line>
-    would become like this<three_dots><end_line>
+    That's a completely<end_line>
+    different topic<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -866,8 +872,8 @@
     敵と<three_dots><end_line>
   </sjis>
   <ascii>
-    You mean, the enemy<end_line>
-    we fought today<three_dots>?<end_line>
+    Ah, you mean about those guys<end_line>
+    we fought earlier<three_dots>?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -923,7 +929,7 @@
     本当に大変なことになりましたね<end_line>
   </sjis>
   <ascii>
-    Today has been qutie troublesome.<end_line>
+    Today has been quite troublesome.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -935,21 +941,18 @@
       ああ<three_dots><end_line>
       まったくどうしたらいいんだか<three_dots><end_line>
     </sjis>
-    <ascii>
-      Yeah<three_dots><end_line>
-      Seriously, what should I do<three_dots><end_line>
-    </ascii>
   </male>
   <female>
     <sjis>
       うん<three_dots><end_line>
       ホントにどうしたらいいんだろ<three_dots><end_line>
     </sjis>
-    <ascii>
-      Yeah<three_dots><end_line>
-      Seriously, what should I do<three_dots><end_line>
-    </ascii>
   </female>
+  <ascii>
+    Yeah<three_dots><end_line>
+    I have no idea what I'm<end_line>
+    supposed to do now<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -994,9 +997,9 @@
     うれしそうに見えましたから<three_dots><end_line>
   </sjis>
   <ascii>
-    Then that's fine, but<three_dots><end_line>
-    At that time, you seemed<end_line>
-    happy for some reason<three_dots><end_line>
+    Good. That aside<three_dots><end_line>
+    When Tier spoke of her plans,<end_line>
+    you were positively ecstatic<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1027,8 +1030,8 @@
   </sjis>
   <ascii>
     But talking about marriage<three_dots><end_line>
-    Even I didn't think it<end_line>
-    would become like this<three_dots><end_line>
+    That's a completely<end_line>
+    different topic<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1089,8 +1092,8 @@
   </sjis>
   <ascii>
     But working as a poster girl<three_dots><end_line>
-    Even I didn't think it<end_line>
-    would become like this<three_dots><end_line>
+    That's a completely<end_line>
+    different topic<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1120,7 +1123,7 @@
   </sjis>
   <ascii>
     Idi<three_dots>!<end_line>
-    No I didn't!<end_line>
+    No I wasn't!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1133,9 +1136,9 @@
     守ることですわ<end_line>
   </sjis>
   <ascii>
-    Just<three_dots> Please don't forget.<end_line>
-    My mission is<end_line>
-    to protect Lady Murno.<end_line>
+    Please<three_dots> Don't forget.<end_line>
+    My mission is to<end_line>
+    protect Lady Murno.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
