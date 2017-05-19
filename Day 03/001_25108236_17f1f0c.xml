@@ -31,8 +31,8 @@
 		シッカリしてもらわないとね<end_line>
 	</sjis>
 	<ascii>
-		Alright.<end_line>
-    In that case, we'll need to keep those<end_line>
+		Alright. In that case,<end_line>
+    we'll need to keep those<end_line>
     two from doing anything stupid.<end_line>
 	</ascii>
 </dialogue>
@@ -119,8 +119,8 @@
 		いつまでも待てないからね<end_line>
 	</sjis>
 	<ascii>
-		Jade returned to town earlier,<end_line>
-		and I don't have much free time either.<end_line>
+		Jade went back to town earlier,<end_line>
+		and I don't have much free time.<end_line>
 		Can't wait forever, you know.<end_line>
 	</ascii>
 </dialogue>
@@ -136,7 +136,7 @@
 	<ascii>
 		So, I'm not gonna waste time<end_line>
 		warming up for this.<end_line>
-		Might even give you a chance at winning.<end_line>
+		Might even give you a chance.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>

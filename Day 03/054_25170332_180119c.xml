@@ -2,7 +2,7 @@
   <info box="nobox">
   <portrait_l name="tier">
   <sjis>
-    �����ɂ����̂ˁI<end_line>
+    ここにいたのね！<end_line>
   </sjis>
   <ascii>
     There you are!<end_line>
@@ -13,7 +13,7 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="tier" eye="serious" mouth="neutral">
   <sjis>
-    ���A�e�B�G<three_dots><end_line>
+    あ、ティエ<three_dots><end_line>
   </sjis>
   <ascii>
     Ah, Tier<three_dots><end_line>
@@ -24,9 +24,9 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="tier" eye="happy" mouth="neutral">
   <sjis>
-    �����A���炽�߂�<end_line>
-    �ӂ���̂��ꂩ��̂��Ƃ�<end_line>
-    �b�������܂���I<end_line>
+    さあ、あらためて<end_line>
+    ふたりのこれからのことを<end_line>
+    話し合いましょ！<end_line>
   </sjis>
   <ascii>
     Now that we're alone,<end_line>
@@ -40,9 +40,9 @@
   <portrait_r entry="tier" eye="happy" mouth="neutral">
   <male>
     <sjis>
-      �b���������Ȃɂ�<end_line>
-      �I���͂���<three_dots><end_line>
-      �_���i�ɂȂ��<three_dots><end_line>
+      話し合いもなにも<end_line>
+      オレはその<three_dots><end_line>
+      ダンナになんて<three_dots><end_line>
     </sjis>
     <ascii>
       Forget about that,<end_line>
@@ -52,9 +52,9 @@
   </male>
   <female>
     <sjis>
-      �b���������Ȃɂ�<end_line>
-      �킽���͂���<three_dots><end_line>
-      �J���o�������Ȃ��<three_dots><end_line>
+      話し合いもなにも<end_line>
+      わたしはその<three_dots><end_line>
+      カンバン娘だなんて<three_dots><end_line>
     </sjis>
     <ascii>
       Forget about that,<end_line>
@@ -68,9 +68,9 @@
   <portrait_l entry="player" eye="surprised" mouth="stressed">
   <portrait_r entry="tier" eye="happy" mouth="neutral">
   <sjis>
-    ������I<end_line>
-    �{���͂��ꂵ��������<end_line>
-    �e���Ȃ��e���Ȃ��I<end_line>
+    んもう！<end_line>
+    本当はうれしいくせに<end_line>
+    テレないテレない！<end_line>
   </sjis>
   <ascii>
     Jeez!<end_line>
@@ -83,7 +83,7 @@
   <portrait_l entry="player" eye="decided" mouth="yell">
   <portrait_r entry="tier" eye="happy" mouth="neutral">
   <sjis>
-    �e���ĂȂ��I<end_line>
+    テレてない！<end_line>
   </sjis>
   <ascii>
     I'm not embarrassed!<end_line>
@@ -95,14 +95,14 @@
   <portrait_l entry="player" eye="decided" mouth="tense">
   <portrait_r entry="tier" eye="happy" mouth="neutral">
   <sjis>
-    �������ɒb��t�Ƃ��ē����Ȃ�������<end_line>
-    ����ꂽ�Ƃ��A�������ꂵ��������<end_line>
-    �I���̃E�f���F�߂�ꂽ�C�����Ă�<end_line>
+    たしかに鍛冶師として働かないかって<end_line>
+    言われたとき、少しうれしかったよ<end_line>
+    オレのウデが認められた気がしてさ<end_line>
   </sjis>
   <ascii>
     I was happy when you said I could<end_line>
     work for you as a Craftknight.<end_line>
-    I felt like someone recognized my skill.<end_line>
+    You recognized my skill.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -111,8 +111,8 @@
   <portrait_l entry="player" eye="decided" mouth="stressed">
   <portrait_r entry="tier" eye="serious" mouth="talk">
   <sjis>
-    �ł��A�_���i�Ƃ��͂�<end_line>
-    �������񂾂�I<end_line>
+    でも、ダンナとかはさ<end_line>
+    ちがうんだよ！<end_line>
   </sjis>
   <ascii>
     But marriage is<end_line>
@@ -125,14 +125,14 @@
   <portrait_l entry="player" eye="decided" mouth="tense">
   <portrait_r entry="tier" eye="happy" mouth="neutral">
   <sjis>
-    �������ɒb��t�Ƃ��ē����Ȃ�������<end_line>
-    ����ꂽ�Ƃ��A�������ꂵ��������<end_line>
-    �킽���̃E�f���F�߂�ꂽ�C������<end_line>
+    たしかに鍛冶師として働かないかって<end_line>
+    言われたとき、少しうれしかったんだ<end_line>
+    わたしのウデが認められた気がして<end_line>
   </sjis>
   <ascii>
     I was happy when you said I could<end_line>
     work for you as a Craftknight.<end_line>
-    I felt like someone recognized my skill.<end_line>
+    You recognized my skill.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -141,8 +141,8 @@
   <portrait_l entry="player" eye="decided" mouth="stressed">
   <portrait_r entry="tier" eye="serious" mouth="talk">
   <sjis>
-    �ł��A�J���o�������Ȃ��<three_dots><end_line>
-    �������񂾂�I<end_line>
+    でも、カンバン娘だなんて<three_dots><end_line>
+    ちがうんだよ！<end_line>
   </sjis>
   <ascii>
     But, being a poster girl<three_dots><end_line>
@@ -154,9 +154,9 @@
   <portrait_l entry="player" eye="decided" mouth="stressed">
   <portrait_r entry="tier" eye="serious" mouth="tense">
   <sjis>
-    �ł��A�Ƃ肠����<end_line>
-    ����̂ӂ���̌v���<end_line>
-    �����Ɨ��ĂȂ��ƃ_���ł���H<end_line>
+    でも、とりあえず<end_line>
+    今後のふたりの計画は<end_line>
+    ちゃんと立てないとダメでしょ？<end_line>
   </sjis>
   <ascii>
     Well, we can at least<end_line>
@@ -170,14 +170,14 @@
   <portrait_r entry="tier" eye="serious" mouth="tense">
   <male>
     <sjis>
-      �������I�H<end_line>
-      �ǂ����Ă����Ȃ�񂾁I�H<end_line>
+      ええっ！？<end_line>
+      どうしてそうなるんだ！？<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �������I�H<end_line>
-      �ǂ����Ă����Ȃ�́I�H<end_line>
+      ええっ！？<end_line>
+      どうしてそうなるの！？<end_line>
     </sjis>
   </female>
   <ascii>
@@ -190,9 +190,9 @@
   <portrait_l entry="player" eye="surprised" mouth="yell">
   <portrait_r entry="tier" eye="serious" mouth="talk">
   <sjis>
-    �܂��́A�킽���Ƃ��Ȃ������֍s����<end_line>
-    �ӂ���ł͂��ꏢ���b������������<end_line>
-    ���̐l�̎菕���������肷�邱�Ƃ�<three_dots><end_line>
+    まずは、わたしとあなたが町へ行って<end_line>
+    ふたりではぐれ召喚獣をたおしたり<end_line>
+    町の人の手助けをしたりすることで<three_dots><end_line>
   </sjis>
   <ascii>
     First off, we go to the village<end_line>
@@ -206,9 +206,9 @@
   <portrait_r entry="tier" eye="happy" mouth="neutral">
   <male>
     <sjis>
-      ����ȃP�i�Q�Ȃӂ��肪����Ă�<end_line>
-      ���Ă��ȏh��������܂�����<end_line>
-      ��`����̂�I<end_line>
+      こんなケナゲなふたりがやってる<end_line>
+      すてきな宿屋がありますって<end_line>
+      宣伝するのよ！<end_line>
     </sjis>
     <ascii>
       Then they'll spread rumors!<end_line>
@@ -218,9 +218,9 @@
   </male>
   <female>
     <sjis>
-      ����ȃJ���C�C�ӂ��肪����Ă�<end_line>
-      ���Ă��ȏh��������܂�����<end_line>
-      ��`����̂�I<end_line>
+      こんなカワイイふたりがやってる<end_line>
+      すてきな宿屋がありますって<end_line>
+      宣伝するのよ！<end_line>
     </sjis>
     <ascii>
       Then they'll spread rumors!<end_line>
@@ -234,7 +234,7 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="tier" eye="happy" mouth="neutral">
   <sjis>
-    ������Ƒ҂���<three_dots><end_line>
+    ちょっと待って<three_dots><end_line>
   </sjis>
   <ascii>
     Wait a minute<three_dots><end_line>
@@ -245,9 +245,9 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="tier" eye="serious" mouth="neutral">
   <sjis>
-    ����ƁA�킽�������̂��X�ɒ��̐l��<end_line>
-    �����������Ă���<end_line>
-    �E�`�̗����Ƃ��Ɋ������������<end_line>
+    すると、わたしたちのお店に町の人が<end_line>
+    たくさんやってきて<end_line>
+    ウチの料理とかに感動しちゃって<end_line>
   </sjis>
   <ascii>
     And then, people will flock<end_line>
@@ -260,9 +260,9 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="tier" eye="decided" mouth="neutral">
   <sjis>
-    �E���T���E���T���Ă��<end_line>
-    �ǂ�ǂ񂨋q�l�������Ă�������<end_line>
-    �������@��I<end_line>
+    ウワサがウワサを呼んで<end_line>
+    どんどんお客様が増えていくって<end_line>
+    いう寸法よ！<end_line>
   </sjis>
   <ascii>
     Word will spread,<end_line>
@@ -275,7 +275,7 @@
   <portrait_l entry="player" eye="sad" mouth="talk">
   <portrait_r entry="tier" eye="decided" mouth="neutral">
   <sjis>
-    ���A�������v��ł���<three_dots><end_line>
+    す、すごい計画ですね<three_dots><end_line>
   </sjis>
   <ascii>
     W-Wow<three_dots><end_line>
@@ -287,9 +287,9 @@
   <portrait_l entry="player" eye="sad" mouth="talk">
   <portrait_r entry="tier" eye="happy" mouth="neutral">
   <sjis>
-    �ӂ���ł���΂��Ă��̓X��<end_line>
-    ���B���o�E�������̏h���ɂ��܂���<end_line>
-    �ˁA<player_nickname><hearth><end_line>
+    ふたりでがんばってこの店を<end_line>
+    リィンバウムいちの宿屋にしましょ<end_line>
+    ね、<player_nickname><hearth><end_line>
   </sjis>
   <ascii>
     We're going to make this the<end_line>
@@ -302,8 +302,8 @@
   <portrait_l entry="player" eye="happy" mouth="tense">
   <portrait_r entry="tier" eye="happy" mouth="neutral">
   <sjis>
-    ��<three_dots><end_line>
-    �e�B�G���Đe���ȏォ��<three_dots><end_line>
+    う<three_dots><end_line>
+    ティエって親方以上かも<three_dots><end_line>
   </sjis>
   <ascii>
     Ugh<three_dots><end_line>

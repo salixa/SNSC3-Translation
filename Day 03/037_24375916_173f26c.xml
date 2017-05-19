@@ -57,7 +57,6 @@
 	<ascii>
 		Oh, that hammer must mean<end_line>
 		that you're a Craftknight.<end_line>
-		<break>
 		I'm on a journey to meet<end_line>
 		as many Craftknights as I can.<end_line>
 	</ascii>
@@ -140,7 +139,6 @@
 		Sometimes, when you manufacture,<end_line>
 		you'll create weapons that are<end_line>
 		a good deal better than the usual.<end_line>
-		<break>
 		Those are known as Superior weapons.<end_line>
 	</ascii>
 </dialogue>

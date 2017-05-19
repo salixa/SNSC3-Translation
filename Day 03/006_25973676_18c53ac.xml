@@ -1,4 +1,4 @@
-<dialogue>
+﻿<dialogue>
 	<info box="simple">
 	<portrait_l name="chief">
 	<sjis>
@@ -76,7 +76,7 @@
 		なんだ、渡してくれんのか<end_line>
 	</sjis>
 	<ascii>
-		What, you're not gonna give it?<end_line> 
+		What, you're not gonna give it?<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -296,7 +296,7 @@
 			渡す<end_line>
 		</sjis>
 		<ascii>
-			Hand over
+			Hand over<end_line>
 		</ascii>
 	</option>
 	<option>
@@ -574,7 +574,7 @@
 		</sjis>
 		<ascii>
 			Hand over<end_line>
-		</asci>
+		</ascii>
 	</option>
 	<option>
 		<sjis>
@@ -692,7 +692,7 @@
 		しょうがない、他を探すよ<end_line>
 	</sjis>
 	<ascii>
-		Okay then< I'll look for another.<end_line>
+		Okay then. I'll look for another.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -702,7 +702,7 @@
 		またいつか<end_line>
 	</sjis>
 	<ascii>
-		Appreciate it.またいつか
+		Appreciate it.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -715,7 +715,7 @@
 	</sjis>
 	<ascii>
 		Going out for something?<end_line>
-		While you're out, <end_line>
+		While you're out, <end_line>  
 		could you find me a Backlight Lamp?<end_line>
 	</ascii>
 </dialogue>
@@ -877,7 +877,7 @@
 			渡す<end_line>
 		</sjis>
 		<ascii>
-			Hand over
+			Hand over<end_line>
 		</ascii>
 	</option>
 	<option>

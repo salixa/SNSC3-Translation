@@ -29,8 +29,8 @@
 		<sjis>
 			はい<end_line>
 		</sjis>
-		<acii>
-			Yes
+		<ascii>
+			Yes<end_line>
 		</ascii>
 	</option>
 	<option>
@@ -61,7 +61,7 @@
 		つよいんだよ<end_line>
 	</sjis>
 	<ascii>
-		I'll be a hero when I grow up<end_line>.
+		I'll be a hero when I grow up.<end_line>
 		Heroes are stronger than<end_line>
 		simple craftsmen.<end_line>
 	</ascii>

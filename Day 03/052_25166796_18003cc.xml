@@ -2,7 +2,7 @@
   <info box="nobox">
   <portrait_l name="lemmy">
   <sjis>
-    �N�̐��������̂�<three_dots><end_line>
+    君の声だったのか<three_dots><end_line>
   </sjis>
   <ascii>
     So it's you<three_dots><end_line>
@@ -13,8 +13,8 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="lemmy" eye="serious" mouth="neutral">
   <sjis>
-    ���A���~�B<end_line>
-    �ǂ����Ă���ȂƂ��ɁH<end_line>
+    あ、レミィ<end_line>
+    どうしてこんなとこに？<end_line>
   </sjis>
   <ascii>
     Ah, Lemmy.<end_line>
@@ -26,8 +26,8 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="lemmy" eye="serious" mouth="tense">
   <sjis>
-    �X�S�C���߂������������������<end_line>
-    �܂��͂��ꏢ���b���Ǝv����<end_line>
+    スゴイうめき声が聞こえたからね<end_line>
+    またはぐれ召喚獣かと思って<end_line>
   </sjis>
   <ascii>
     I heard some really loud groaning.<end_line>
@@ -40,14 +40,14 @@
   <portrait_r entry="lemmy" eye="serious" mouth="tense">
   <male>
     <sjis>
-      �͂�<three_dots><end_line>
-      ������<three_dots><end_line>
+      はあ<three_dots><end_line>
+      そうか<three_dots><end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �͂�<three_dots><end_line>
-      ������<three_dots><end_line>
+      はあ<three_dots><end_line>
+      そっか<three_dots><end_line>
     </sjis>
   </female>
   <ascii>
@@ -60,9 +60,9 @@
   <portrait_l entry="player" eye="sad" mouth="serious">
   <portrait_r entry="lemmy" eye="serious" mouth="talk">
   <sjis>
-    �܂����C���Ȃ��݂�������<end_line>
-    �������ꂭ�炢���ƂȂ�����<end_line>
-    ������̂�<end_line>
+    まだ元気がないみたいだね<end_line>
+    いつもそれくらいおとなしいと<end_line>
+    助かるのに<end_line>
   </sjis>
   <ascii>
     You don't look any better.<end_line>
@@ -75,7 +75,7 @@
   <portrait_l entry="player" eye="sad" mouth="tense">
   <portrait_r entry="lemmy" eye="serious" mouth="talk">
   <sjis>
-    �͂�<three_dots><end_line>
+    はぁ<three_dots><end_line>
   </sjis>
   <ascii>
     Sigh<three_dots><end_line>
@@ -86,7 +86,7 @@
   <portrait_l entry="player" eye="sad" mouth="tense">
   <portrait_r entry="lemmy" eye="sad" mouth="neutral">
   <sjis>
-    �܂�����<three_dots><end_line>
+    まったく<three_dots><end_line>
   </sjis>
   <ascii>
     Jeez<three_dots><end_line>
@@ -98,12 +98,13 @@
   <portrait_l entry="player" eye="sad" mouth="tense">
   <portrait_r entry="lemmy" eye="sad" mouth="neutral">
   <sjis>
-    ���̂����A���O<three_dots><end_line>
-    �P�b�R�����čl�������Ƃ���H<end_line>
+    あのさあ、お前<three_dots><end_line>
+    ケッコンって考えたことある？<end_line>
   </sjis>
   <ascii>
     Hey, Lemmy<three_dots><end_line>
-    Have you ever thought about marriage?<end_line>
+    Have you ever thought<end_line>
+    about marriage?<end_line>
   </ascii>
 </dialogue>
 <bigtext>
@@ -112,7 +113,7 @@
   <portrait_l entry="player" eye="sad" mouth="tense">
   <portrait_r entry="lemmy" eye="surprised_blush" mouth="stressed">
   <sjis>
-    �P�A�P�b�R���I�H<end_line>
+    ケ、ケッコン！？<end_line>
   </sjis>
   <ascii>
     M-marriage!?<end_line>
@@ -124,8 +125,8 @@
   <portrait_l entry="player" eye="sad" mouth="tense">
   <portrait_r entry="lemmy" eye="neutral_blush" mouth="tense">
   <sjis>
-    ���A����<three_dots><end_line>
-    �܂��Ȃ�����<three_dots><end_line>
+    い、いや<three_dots><end_line>
+    まだないけど<three_dots><end_line>
   </sjis>
   <ascii>
     N-no<three_dots><end_line>
@@ -138,8 +139,8 @@
   <portrait_l entry="player" eye="sad" mouth="neutral">
   <portrait_r entry="lemmy" eye="neutral_blush" mouth="tense">
   <sjis>
-    �͂�<three_dots>�A�����Ȃ�<three_dots><end_line>
-    ���O�A�K������<three_dots><end_line>
+    はあ<three_dots>、いいなぁ<three_dots><end_line>
+    お前、幸せだよ<three_dots><end_line>
   </sjis>
   <ascii>
     Sigh<three_dots> How nice<three_dots><end_line>
@@ -152,9 +153,9 @@
   <portrait_l entry="player" eye="sad" mouth="tense">
   <portrait_r entry="lemmy" eye="sad" mouth="neutral">
   <sjis>
-    ���̂����A���Ȃ�<three_dots><end_line>
-    �킽���ł����A�ǂ����̂��X��<end_line>
-    �J���o�����ɂȂ��Ǝv���H<end_line>
+    あのさあ、あなた<three_dots><end_line>
+    わたしでもさ、どこかのお店の<end_line>
+    カンバン娘になれると思う？<end_line>
   </sjis>
   <ascii>
     Hey, Lemmy<three_dots><end_line>
@@ -168,7 +169,7 @@
   <portrait_l entry="player" eye="sad" mouth="tense">
   <portrait_r entry="lemmy" eye="surprised" mouth="stressed">
   <sjis>
-    ���A�J���o�����H<end_line>
+    か、カンバン娘？<end_line>
   </sjis>
   <ascii>
     P-poster girl?<end_line>
@@ -180,7 +181,7 @@
   <portrait_l entry="player" eye="sad" mouth="tense">
   <portrait_r entry="lemmy" eye="decided_blush" mouth="tense">
   <sjis>
-    ����Ȃ��Ǝ����ōl������H<end_line>
+    そんなこと自分で考えたら？<end_line>
   </sjis>
   <ascii>
     Why don't you think<end_line>
@@ -193,9 +194,9 @@
   <portrait_l entry="player" eye="sad" mouth="neutral">
   <portrait_r entry="lemmy" eye="decided_blush" mouth="tense">
   <sjis>
-    ������Y��ł�񂶂�Ȃ���<three_dots><end_line>
-    ������ˁA���Ȃ�<end_line>
-    ���C�y��<three_dots><end_line>
+    だから悩んでるんじゃないの<three_dots><end_line>
+    いいわね、あなた<end_line>
+    お気楽で<three_dots><end_line>
   </sjis>
   <ascii>
     That's what I'm worried about<three_dots><end_line>
@@ -208,11 +209,12 @@
   <portrait_l entry="player" eye="sad" mouth="neutral">
   <portrait_r entry="lemmy" eye="surprised" mouth="neutral">
   <sjis>
-    ���ǂ낢��<three_dots><end_line>
-    �N�ɂ���Ȃ��ƌ����邾�Ȃ��<three_dots><end_line>
+    おどろいた<three_dots><end_line>
+    君にそんなこと言われるだなんて<three_dots><end_line>
   </sjis>
   <ascii>
     That's surprising<three_dots><end_line>
+    This isn't like you<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -220,13 +222,13 @@
   <portrait_l entry="player" eye="sad" mouth="neutral">
   <portrait_r entry="lemmy" eye="decided" mouth="talk">
   <sjis>
-    �������ꂾ���D������ɐ����Ă�N��<end_line>
-    �l���s�K�����Č����̂����H<end_line>
-    �΂��Ȃ���k����<end_line>
+    毎日あれだけ好き勝手に生きてる君が<end_line>
+    僕より不幸だって言うのかい？<end_line>
+    笑えない冗談だよ<end_line>
   </sjis>
   <ascii>
-    Besides, you can do anything you want.<end_line>
-    And you say you're worse off than I?<end_line>
+    You make it seem like<end_line>
+    you're worse off than I am.<end_line>
     What a joke.<end_line>
   </ascii>
 </dialogue>
@@ -236,14 +238,14 @@
   <portrait_r entry="lemmy" eye="decided" mouth="talk">
   <male>
     <sjis>
-      �Ȃ񂾂�<three_dots>�H<end_line>
-      �I���͐^���ɔY��ł��񂾂�I<end_line>
+      なんだと<three_dots>？<end_line>
+      オレは真剣に悩んでたんだよ！<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �Ȃ�ł�����<three_dots>�H<end_line>
-      �킽���͐^���ɔY��ł�̂�I<end_line>
+      なんですって<three_dots>？<end_line>
+      わたしは真剣に悩んでるのよ！<end_line>
     </sjis>
   </female>
   <ascii>
@@ -256,8 +258,8 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <portrait_r entry="lemmy" eye="serious" mouth="tense">
   <sjis>
-    �{���ɐ^���ɔY��ł���̂Ȃ�<end_line>
-    �������Q�邱�Ƃ���<end_line>
+    本当に真剣に悩んでいるのなら<end_line>
+    今すぐ寝ることだね<end_line>
   </sjis>
   <ascii>
     If you really are,<end_line>
@@ -269,8 +271,8 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <portrait_r entry="lemmy" eye="serious" mouth="talk">
   <sjis>
-    ��������Ζ����̒��ɂ�<end_line>
-    �Y�݂Ȃ�āA�Y��Ă���Ǝv����<end_line>
+    そうすれば明日の朝には<end_line>
+    悩みなんて、忘れていると思うよ<end_line>
   </sjis>
   <ascii>
     You'll have forgotten everything<end_line>
@@ -283,14 +285,14 @@
   <portrait_r entry="lemmy" eye="serious" mouth="talk">
   <male>
     <sjis>
-      ��<three_dots>�A�Ȃ񂾂�I<end_line>
-      ���J���I<end_line>
+      な<three_dots>、なんだよ！<end_line>
+      ムカつく！<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ��<three_dots>�A�Ȃɂ�A����I<end_line>
-      ���J���I<end_line>
+      な<three_dots>、なによ、それ！<end_line>
+      ムカつく！<end_line>
     </sjis>
   </female>
   <ascii>
@@ -303,9 +305,9 @@
   <portrait_l entry="player" eye="decided" mouth="yell">
   <portrait_r entry="lemmy" eye="serious" mouth="talk">
   <sjis>
-    �Ȃ�<three_dots><end_line>
-    �������C�ɂȂ�������Ȃ���<end_line>
-    �悩����<end_line>
+    なんだ<three_dots><end_line>
+    もう元気になったじゃないか<end_line>
+    よかった<end_line>
   </sjis>
   <ascii>
     Hah<three_dots><end_line>
@@ -318,9 +320,9 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <portrait_r entry="lemmy" eye="sad" mouth="talk">
   <sjis>
-    ���ƂȂ����̂͏����邯��<end_line>
-    �N�����C����Ȃ��ƁA�������̒��q�܂�<end_line>
-    ���������Ȃ����Ⴄ�����<end_line>
+    おとなしいのは助かるけど<end_line>
+    君が元気じゃないと、こっちの調子まで<end_line>
+    おかしくなっちゃうからね<end_line>
   </sjis>
   <ascii>
     It's nice of you to shut up,<end_line>
@@ -334,8 +336,8 @@
   <portrait_r entry="lemmy" eye="sad" mouth="talk">
   <male>
     <sjis>
-      �ȁA�Ȃ񂾂�I<end_line>
-      �m�邩�A����Ȃ��ƁI<end_line>
+      な、なんだよ！<end_line>
+      知るか、そんなこと！<end_line>
     </sjis>
     <ascii>
       W-what!<end_line>
@@ -344,8 +346,8 @@
   </male>
   <female>
     <sjis>
-      �Ȃɂ�I<end_line>
-      ���[���I<end_line>
+      なによ！<end_line>
+      もーっ！<end_line>
     </sjis>
     <ascii>
       What!<end_line>

@@ -69,7 +69,6 @@
     </ascii>
 	</female>
 </dialogue>
-###Peddler
 <dialogue>
 	<info box="simple">
 	<portrait_l name="peddler's_daughter">
@@ -80,7 +79,6 @@
 	</sjis>
 	<ascii>
 		My mom is a traveling merchant.<end_line>
-		<break>
 		Right now, we're on a journey to<end_line>
 		make ourselves known<end_line>
 		amongst the best of Craftknights.<end_line>
@@ -142,7 +140,7 @@
 	<ascii>
 		Well, there's this special material.<end_line>
 		If you use it on your weapon,<end_line>
-		you'll get a 'Double Attack' ability.<end_line>	
+		you'll get 'Double Attack'.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>

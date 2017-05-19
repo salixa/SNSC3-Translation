@@ -2,7 +2,7 @@
   <info box="left" effect="big">
   <portrait_l entry="player" eye="sad" mouth="stressed">
   <sjis>
-    �͂����`�`�`�`<three_dots><end_line>
+    はあぁ～～～～<three_dots><end_line>
   </sjis>
   <ascii>
     Sigh~~~~<three_dots><end_line>
@@ -13,16 +13,16 @@
   <portrait_l entry="player" eye="sad" mouth="tense">
   <male>
     <sjis>
-      ���[��<three_dots><end_line>
-      �Ȃ�ł���Ȃ��Ƃ�<end_line>
-      �Ȃ��Ă�񂾂�<three_dots><end_line>
+      あーあ<three_dots><end_line>
+      なんでこんなことに<end_line>
+      なってるんだろ<three_dots><end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ���[��<three_dots><end_line>
-      �Ȃ�ł���Ȃ��Ƃ�<end_line>
-      �Ȃ��Ă�̂��Ȃ�<three_dots><end_line>
+      あーあ<three_dots><end_line>
+      なんでこんなことに<end_line>
+      なってるのかなぁ<three_dots><end_line>
     </sjis>
   </female>
   <ascii>
@@ -34,9 +34,9 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <male>
     <sjis>
-      ��H<end_line>
-      �N������̂��H<end_line>
-      �܂���<three_dots><end_line>
+      ん？<end_line>
+      誰かいるのか？<end_line>
+      まさか<three_dots><end_line>
     </sjis>
     <ascii>
       Hm?<end_line>
@@ -46,9 +46,9 @@
   </male>
   <female>
     <sjis>
-      ����H<end_line>
-      �N������́H<end_line>
-      �܂���<three_dots><end_line>
+      あれ？<end_line>
+      誰かいるの？<end_line>
+      まさか<three_dots><end_line>
     </sjis>
     <ascii>
       Huh?<end_line>
@@ -60,7 +60,7 @@
 <menu>
   <option>
     <sjis>
-      �~���[�m<end_line>
+      ミューノ<end_line>
     </sjis>
     <ascii>
       Murno<end_line>
@@ -76,7 +76,7 @@
   </option>
   <option>
     <sjis>
-      ���B�[<end_line>
+      ヴィー<end_line>
     </sjis>
     <ascii>
       V.E<end_line>
@@ -84,7 +84,7 @@
   </option>
   <option>
     <sjis>
-      ���~�B<end_line>
+      レミィ<end_line>
     </sjis>
     <ascii>
       Lemmy<end_line>
@@ -92,7 +92,7 @@
   </option>
   <option>
     <sjis>
-      �W�F�C�h<end_line>
+      ジェイド<end_line>
     </sjis>
     <ascii>
       Jade<end_line>
@@ -100,7 +100,7 @@
   </option>
   <option>
     <sjis>
-      �e�B�G<end_line>
+      ティエ<end_line>
     </sjis>
     <ascii>
       Tier<end_line>
