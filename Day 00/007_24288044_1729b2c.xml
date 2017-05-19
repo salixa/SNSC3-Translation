@@ -77,7 +77,7 @@
     望み通り、消してやる<end_line>
   </sjis>
   <ascii>
-    As you wish. I’ll erase you.<end_line>
+    As you wish. I'll erase you.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -169,8 +169,8 @@
     嫁いでから、うん十年<end_line>
   </sjis>
   <ascii>
-    It's been really dangerous lately<three_dots> 
-    It’s been decades since<end_line>
+    It's been really dangerous lately<three_dots><end_line>
+    It's been decades since<end_line>
     I came to this village,<end_line>
   </ascii>
 </dialogue>

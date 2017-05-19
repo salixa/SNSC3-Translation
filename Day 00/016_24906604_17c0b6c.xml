@@ -100,7 +100,7 @@
   <ascii>
     Why!?<end_line>
     You got beat up, Master!<end_line>
-    I can’t stand here and do nothing!<end_line>
+    I can't stand here and do nothing!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -196,7 +196,7 @@
       召喚師がいる？<end_line>
     </sjis>
     <ascii>
-      So it has a Summoner?
+      So it has a Summoner?<end_line>
     </ascii>
   </male>
   <female>
@@ -251,8 +251,8 @@
     ないと思うよ<end_line>
   </sjis>
   <ascii>
-    Didn't seem like it was trying to kill.<end_line>
-    It’s not like they’re targetting me<end_line>
+    It wasn't trying to kill.<end_line>
+    It's not like they're targetting me<end_line>
     or this workshop, I think.<end_line>
   </ascii>
 </dialogue>
@@ -291,7 +291,7 @@
   </sjis>
   <ascii>
     Eh?<end_line>
-  <ascii>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="left">

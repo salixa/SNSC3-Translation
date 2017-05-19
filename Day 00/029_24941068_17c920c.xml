@@ -17,7 +17,7 @@
     </sjis>
   </female>
   <ascii>
-    How’s that!?<end_line>
+    How's that!?<end_line>
     Did you understand<end_line>
     my true power?<end_line>
   </ascii>
@@ -161,7 +161,7 @@
   <ascii>
     Anyway, I'm strong!<end_line>
     Therefore I can protect Murno!<end_line>
-    So you should help with the smithing!<end_line>
+    So you help me with the smithing!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -192,8 +192,8 @@
   </sjis>
   <ascii>
     Anyway, I won,<end_line>
-    meaning I can protect Murno just fine.<end_line>
-    So you should help with the smithing!<end_line>
+    meaning I can protect Murno.<end_line>
+    So you help me with the smithing!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -331,7 +331,7 @@
     <ascii>
       Don't feel so down.<end_line>
       You were pretty strong too!<end_line>
-      I won't call you a cat anymore, okay?<end_line>
+      I won't call you a cat anymore!<end_line>
     </ascii>
   </female>
 </dialogue>
@@ -377,7 +377,7 @@
   <ascii>
     Anyway, I'm strong!<end_line>
     Therefore, I can protect Murno!<end_line>
-    So you should help me with the smithing!<end_line>
+    So you help me with the smithing!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -408,8 +408,8 @@
   </sjis>
   <ascii>
     Anyway, I won,<end_line>
-    meaning I can protect Murno just fine.<end_line>
-    So you should help with the smithing!<end_line>
+    meaning I can protect Murno.<end_line>
+    So you help me with the smithing!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -476,7 +476,7 @@
   <ascii>
     To think<three_dots><end_line>
     I could lose to such a child<three_dots><end_line>
-    If only my spiritual power returned<three_dots><end_line>
+    If only my power returned<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -514,7 +514,7 @@
     そうだ<three_dots><end_line>
   </sjis>
   <ascii>
-    That’s right<three_dots><end_line>
+    That's right<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -577,7 +577,7 @@
     <ascii>
       What's wrong?<end_line>
       Where's your answer?<end_line>
-    </asciI>
+    </ascii>
   </female>
 </dialogue>
 <dialogue>
@@ -639,7 +639,7 @@
       なんだって！？<end_line>
     </sjis>
     <ascii>
-      Hm?<end_line><end_line>
+      Hm?<end_line>
       I can't hear you!<end_line>
     </ascii>
   </male>
@@ -761,7 +761,8 @@
   </female>
   <ascii>
     Hey, don't take it too hard.<end_line>
-    I thought you were pretty strong too!<end_line>
+    I thought you were<end_line>
+    pretty strong too!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -837,7 +838,7 @@
   <ascii>
     Anyway, I'm strong!<end_line>
     Therefore I can protect Murno!<end_line>
-    So you should help with the smithing!<end_line>
+    So you help me with the smithing!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -868,8 +869,8 @@
   </sjis>
   <ascii>
     Anyway, I won,<end_line>
-    meaning I can protect Murno just fine.<end_line>
-    So you should help with the smithing!<end_line>
+    meaning I can protect Murno.<end_line>
+    So you help me with the smithing!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -944,7 +945,7 @@
   <ascii>
     Alright!<end_line>
     From today on,<end_line>
-    you’re my apprentice!<end_line>
+    you're my apprentice!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -981,8 +982,9 @@
     １００年早いんだよ！<end_line>
   </sjis>
   <ascii>
-    It’s 100 years too early for an<end_line>
-    amateur like you to have an apprentice!<end_line>
+    It's 100 years too early<end_line>
+    for an amateur like you<end_line>
+    to have an apprentice!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1000,7 +1002,7 @@
     </sjis>
   </female>
   <ascii>
-    Don’t call me an amateur!<end_line>
+    Don't call me an amateur!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1150,8 +1152,8 @@
   </sjis>
   <ascii>
     Alright, covenant established!<end_line>
-    A promise stronger than steel.<end_line>
-    Starting today, you'll train together!<end_line>
+    Starting today,<end_line>
+    you'll be training together!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1169,7 +1171,7 @@
     </sjis>
   </female>
   <ascii>
-    I’m counting on you,<end_line>
+    I'm counting on you,<end_line>
   </ascii>
 </dialogue>
 <dialogue>

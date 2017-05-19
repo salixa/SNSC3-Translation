@@ -53,7 +53,7 @@
     </sjis>
     <ascii>
       Hey!<end_line>
-      What’s your problem!?<end_line>
+      What's your problem!?<end_line>
     </ascii>
   </female>
 </dialogue>
@@ -81,8 +81,8 @@
     オレたちがやってやろうか？<end_line>
   </sjis>
   <ascii>
-    If you can’t do it,<end_line>
-    how about we take care of it for you?<end_line>
+    Can't do it?<end_line>
+    Let us get rid of it for you.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -111,7 +111,7 @@
   </sjis>
   <ascii>
     We can't just leave it be!<end_line>
-    Where was it even summoned from, again?<end_line>
+    Where was it summoned from?<end_line>
     Was it Loreilal?<end_line>
   </ascii>
 </dialogue>
@@ -125,7 +125,7 @@
     シルターンの鬼じゃね？<end_line>
   </sjis>
   <ascii>
-    That girl’s a machine soldier?<end_line>
+    That girl's a machine soldier?<end_line>
     No way.<end_line>
     Isn't she an Oni from Silturn?<end_line>
   </ascii>
@@ -140,7 +140,7 @@
     メイトルパのケダモノでもなくて<three_dots><end_line>
   </sjis>
   <ascii>
-    No, that’s wrong!<end_line>
+    No, that's wrong!<end_line>
     A demon from Sapureth<three_dots> Maybe not.<end_line>
     And it's not a beast from Maetropa<three_dots><end_line>
   </ascii>
@@ -208,8 +208,8 @@
     はぐれの仲間が！<end_line>
   </sjis>
   <ascii>
-    Think you're better than us blacksmiths?<end_line>
-    Let’s start by beating you up, huh?<end_line>
+    Think you're better than us?<end_line>
+    Let's start by beating you up, huh?<end_line>
     Stray human! <end_line>
   </ascii>
 </dialogue>
@@ -288,7 +288,7 @@
     お前だってこいつはニクイだろ？<end_line>
   </sjis>
   <ascii>
-    What’s that?<end_line>
+    What's that?<end_line>
     Don't you hate them, too?<end_line>
   </ascii>
 </dialogue>
@@ -362,7 +362,7 @@
     けど、やめときます<end_line>
   </sjis>
   <ascii>
-    However, I’ll refrain from it.<end_line>
+    However, I'll refrain from it.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -427,7 +427,7 @@
     ジャマだって<end_line>
   </sjis>
   <ascii>
-    Could you hurry up and leave as well?<end_line>
+    Could you hurry up and leave?<end_line>
     I told you already.<end_line>
     You're in the way.<end_line>
   </ascii>
@@ -518,7 +518,7 @@
     十分休んだよ<end_line>
   </sjis>
   <ascii>
-    It’s all right.<end_line>
+    It's all right.<end_line>
     I've rested enough.<end_line>
   </ascii>
 </dialogue>
@@ -535,7 +535,7 @@
     <ascii>
       What's that?<end_line>
       So that run-down face is<end_line>
-      because you aren’t feeling well?<end_line>
+      because you aren't feeling well?<end_line>
     </ascii>
   </male>
   <female>
@@ -546,7 +546,7 @@
     </sjis>
     <ascii>
       So you're saying<three_dots><end_line>
-      you’re making suuuch a horrible face<end_line>
+      you're making suuuch a horrible face<end_line>
       because you aren't feeling well?<end_line>
     </ascii>
   </female>
@@ -650,7 +650,7 @@
   </sjis>
   <ascii>
     Ahh, whatever!<end_line>
-    I won’t worry about it!<end_line>
+    I won't worry about it!<end_line>
     I need to go make a weapon!<end_line>
   </ascii>
 </dialogue>
@@ -678,7 +678,7 @@
   </sjis>
   <ascii>
     Ahh, whatever!<end_line>
-    I won’t worry about it!<end_line>
+    I won't worry about it!<end_line>
     I need to go make a weapon!<end_line>
   </ascii>
 </dialogue>

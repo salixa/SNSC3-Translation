@@ -124,7 +124,7 @@
   </sjis>
   <ascii>
     Her Fighting Ability Is Very High.<end_line>
-    I Determined That If I Had Not Attacked,<end_line>
+    I Felt That If I Had Not Attacked,<end_line>
     I Would Have Been Destroyed.<end_line>
   </ascii>
 </dialogue>
@@ -172,8 +172,8 @@
   </sjis>
   <ascii>
     That is because<three_dots><end_line>
-    Ms. V.E was very strong, so I felt I<end_line>
-    had to make a serious effort as well<three_dots><end_line>
+    Ms. V.E was very strong, so I felt<end_line>
+    I had to be serious as well<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -286,7 +286,7 @@
     <three_dots>すみません<end_line>
   </sjis>
   <ascii>
-    <three_dots>I’m sorry.<end_line>
+    <three_dots>I'm sorry.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -299,7 +299,7 @@
     アンタ、一体なにがあったんだい？<end_line>
   </sjis>
   <ascii>
-    <three_dots>Well, you’re dressed like that,<end_line>
+    <three_dots>Well, you're dressed like that,<end_line>
     So you must have your reasons.<end_line>
     What in the world happened with you?<end_line>
   </ascii>
@@ -480,8 +480,9 @@
     そういう気持ちになれないもんかね？<end_line>
   </sjis>
   <ascii>
-    Can’t I get you to help out around<end_line>
-    the house or something, as an apology?<end_line>
+    Can't I get you to help out<end_line>
+    around the house or something,<end_line>
+    as an apology?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -507,10 +508,10 @@
     そんで<partner>は<three_dots><end_line>
   </sjis>
   <ascii>
-    Let’s see<three_dots><end_line>
+    Let's see<three_dots><end_line>
     Murno does the housework in general.<end_line>
     And <partner><three_dots><end_line>
-  </scii>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -520,7 +521,7 @@
     <player_nickname>の手伝い、かな？<end_line>
   </sjis>
   <ascii>
-    <player_nickname>’s assistant, I guess?<end_line>
+    <player_nickname>'s assistant, I guess?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -554,8 +555,8 @@
   </sjis>
   <ascii>
     That's right.<end_line>
-    Crafting weapons with a Summon Beast<end_line>
-    is a part of a Craftknight's training.<end_line>
+    Crafting with a Summon Beast is a<end_line>
+    part of a Craftknight's training.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -980,8 +981,8 @@
     おもしろい<three_dots><end_line>
   </sjis>
   <ascii>
-    So in your head, it’s already<end_line>
-    decided that I’ll lose, huh<three_dots><end_line>
+    So in your head, it's already<end_line>
+    decided that I'll lose, huh<three_dots><end_line>
     Interesting<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -1016,7 +1017,7 @@
   <ascii>
     Don't talk as if<end_line>
     I'm gonna lose!<end_line>
-    It’s revolting.<end_line>
+    It's revolting.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1032,8 +1033,8 @@
   </sjis>
   <ascii>
     I'll teach you that<end_line>
-    it’s you who’s going to lose!<end_line>
-    Let’s fight!<end_line>
+    it's you who's going to lose!<end_line>
+    Let's fight!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1132,7 +1133,7 @@
       たのむ、勝負して<three_dots><end_line>
     </sjis>
     <ascii>
-      I’m begging, fight me<three_dots><end_line>
+      I'm begging, fight me<three_dots><end_line>
     </ascii>
   </male>
   <female>
@@ -1468,8 +1469,8 @@
     <ascii>
       Interesting!<end_line>
       Then, let's have a match!<end_line>
-      Let’s go outside!<end_line>
-    </asci>
+      Let's go outside!<end_line>
+    </ascii>
   </female>
 </dialogue>
 <dialogue>
@@ -1514,8 +1515,8 @@
       おじけづいたか！？<end_line>
     </sjis>
     <ascii>
-      Why’s that!?<end_line>
-      We can't know that until we try, right!?<end_line>
+      Why's that!?<end_line>
+      We can't know that until we try!<end_line>
       Are you scared or something!?<end_line>
     </ascii>
   </male>
@@ -1582,7 +1583,7 @@
     何度言ったらわかるんじゃ！<end_line>
   </sjis>
   <ascii>
-    I am not a cat!<end_line><end_line>
+    I am not a cat!<end_line>
     How many times must I say it<end_line>
     for you to understand!<end_line>
   </ascii>
@@ -1742,7 +1743,7 @@
   <ascii>
     Very well.<end_line>
     I swear upon this topknot.<end_line>
-    That is, if you can triumph against me!<end_line>
+    If you can triumph against me!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1807,7 +1808,7 @@
   </sjis>
   <ascii>
     Hey, you.<end_line>
-    Are you even following the conversation?<end_line>
+    Are you paying attention?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1853,7 +1854,7 @@
     </sjis>
     <ascii>
       You<three_dots>!<end_line>
-      What’s up with that attitude!?<end_line>
+      What's up with that attitude!?<end_line>
     </ascii>
   </male>
   <female>
@@ -1945,7 +1946,7 @@
   </sjis>
   <ascii>
     Tsk<three_dots><end_line>
-    It’s none of my concern.<end_line>
+    It's none of my concern.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1973,7 +1974,7 @@
     </sjis>
     <ascii>
       Don't talk like that!<end_line>
-      Didn’t you say you wanted to<end_line>
+      Didn't you say you wanted to<end_line>
       protect Murno too<three_dots>!?<end_line>
     </ascii>
   </female>
@@ -2111,7 +2112,7 @@
   </female>
   <ascii>
     I'm sorry, Murno.<end_line>
-    I’m asking you,<end_line>
+    I'm asking you,<end_line>
     let us fight!<end_line>
   </ascii>
 </dialogue>
@@ -2205,7 +2206,7 @@
     </sjis>
   </female>
   <ascii>
-    ‘If I win’, huh<three_dots><end_line>
+    ‘If I win', huh<three_dots><end_line>
     How foolish<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -2336,7 +2337,7 @@
       なによ、それ！？<end_line>
     </sjis>
     <ascii>
-      What’s with that!?<end_line>
+      What's with that!?<end_line>
     </ascii>
   </female>
 </dialogue>
@@ -2404,7 +2405,7 @@
     </sjis>
     <ascii>
       You<three_dots>!<end_line>
-      It’s a match, then!<end_line>
+      It's a match, then!<end_line>
       I'll show you my strength!<end_line>
     </ascii>
   </male>
@@ -2586,7 +2587,7 @@
     表に行くかい<end_line>
   </sjis>
   <ascii>
-    With that, negotiations are complete.<end_line>
+    And that's that.<end_line>
     Let's take this outside.<end_line>
   </ascii>
 </dialogue>
@@ -2601,6 +2602,6 @@
   <ascii>
     Still, for the Summon Beast and<end_line>
     the Summoner to fight<three_dots><end_line>
-    What’s going on here, I wonder<three_dots><end_line>
+    What's going on here, I wonder<three_dots><end_line>
   </ascii>
 </dialogue>

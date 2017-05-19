@@ -66,7 +66,8 @@
   </sjis>
   <ascii>
     <three_dots><end_line>
-    It Is An Urgent Situation, Isn’t It<three_dots><end_line>
+    It Is An Urgent Situation,<end_line>
+    Isn't It<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -184,8 +185,7 @@
   </sjis>
   <ascii>
     Ahh, and also,<end_line>
-    for crafting good weapons,<end_line>
-    it's essential you two get along well.<end_line>
+    it's essential you two get along.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -198,7 +198,7 @@
     工房で暮らしな<end_line>
   </sjis>
   <ascii>
-    That’s why, from today onwards<end_line>
+    That's why, from today onwards<end_line>
     you two will be living<end_line>
     together in the workshop.<end_line>
   </ascii>
@@ -333,7 +333,7 @@
   </sjis>
   <ascii>
     I still remember, Rob<three_dots><end_line>
-    Hot as if burning, sweet as if melting,<end_line>
+    The scorching air, the intense heat,<end_line>
     those days of training with you<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -372,8 +372,8 @@
   </sjis>
   <ascii>
     Wha<three_dots><end_line>
-    What’s it? That woman<three_dots><end_line>
-    Her soul’s shine changed?<end_line>
+    What's it? That woman<three_dots><end_line>
+    Her soul's shine changed?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -527,7 +527,7 @@
     </sjis>
   </female>
   <ascii>
-    It can’t be helped.<end_line>
+    It can't be helped.<end_line>
     Let's go, <partner>.<end_line>
   </ascii>
 </dialogue>

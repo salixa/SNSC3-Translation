@@ -1,14 +1,14 @@
 <location>
   <sjis>
-    ƒ{ƒXƒ^ƒtH–[@ƒfƒBƒbƒNƒ‹‘ºŽx•”<end_line>
+    ãƒœã‚¹ã‚¿ãƒ•å·¥æˆ¿ã€€ãƒ‡ã‚£ãƒƒã‚¯ãƒ«æ‘æ”¯éƒ¨<end_line>
   </sjis>
 </location>
 <dialogue>
   <info box="simple">
   <portrait_l name="merchant">
   <sjis>
-    ¢Š«b‚Ý‚½‚¢‚È<end_line>
-    “¾‘Ì‚Ì’m‚ê‚È‚¢ƒ‚ƒm‚æ‚èA<end_line>
+    å¬å–šç£ã¿ãŸã„ãª<end_line>
+    å¾—ä½“ã®çŸ¥ã‚Œãªã„ãƒ¢ãƒŽã‚ˆã‚Šã€<end_line>
   </sjis>
   <ascii>
     Instead of something unknown<end_line>
@@ -19,7 +19,7 @@
   <info box="simple">
   <portrait_l name="merchant">
   <sjis>
-    ŒÈ‚Ì—Í‚¾‚¯‚ðM‚¶‚Ä<end_line>
+    å·±ã®åŠ›ã ã‘ã‚’ä¿¡ã˜ã¦<end_line>
   </sjis>
   <ascii>
     believing in your own strength<end_line>
@@ -30,12 +30,12 @@
   <portrait_l name="merchant">
   <male>
     <sjis>
-      ¶‚«‚é‚Ì‚ª’j‚¶‚á‚È‚¢H<end_line>
+      ç”Ÿãã‚‹ã®ãŒç”·ã˜ã‚ƒãªã„ï¼Ÿ<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ¶‚«‚é‚Ì‚ª—‚¶‚á‚È‚¢H<end_line>
+      ç”Ÿãã‚‹ã®ãŒå¥³ã˜ã‚ƒãªã„ï¼Ÿ<end_line>
     </sjis>
   </female>
   <ascii>

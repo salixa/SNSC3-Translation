@@ -7,7 +7,7 @@
   </sjis>
   <ascii>
     Ah!<end_line>
-    It’s Master!<end_line>
+    It's Master!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -19,8 +19,8 @@
     イカス材料は手に入ったかい？<end_line>
   </sjis>
   <ascii>
-    How’s it going, <player_nickname>?<end_line>
-    You find any cool, stylish materials?<end_line>
+    How's it going, <player_nickname>?<end_line>
+    You find any interesting materials?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -88,8 +88,8 @@
   </sjis>
   <ascii>
     Hm? I see.<end_line>
-    Anyway, if you've got all the materials,<end_line>
-    let's start making a weapon right now.<end_line>
+    Anyway, if you've got everything,<end_line>
+    let's start crafting right now.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -102,7 +102,7 @@
   </sjis>
   <ascii>
     Come to the workshop!<end_line>
-    Let’s get pumped up!<end_line>
+    Let's get pumped up!<end_line>
   </ascii>
 </dialogue>
 <dialogue>

@@ -121,8 +121,8 @@
     <three_dots>って思ってたんだけど<end_line>
   </sjis>
   <ascii>
-    “Maybe I’ll use it as weapon material”<end_line>
-    <three_dots>is what I was thinking, though.<end_line>
+    Maybe I'll use it as weapon material<end_line>
+    <three_dots>is what I was thinking.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -152,8 +152,7 @@
     </sjis>
     <ascii>
       Ehh!?<end_line>
-      So it is!<end_line>
-      Sorry, I'll give it back right away<three_dots><end_line>
+      Sorry, here<three_dots><end_line>
     </ascii>
   </male>
   <female>
@@ -164,8 +163,7 @@
     </sjis>
     <ascii>
       Ehh!?<end_line>
-      Sorry, so that's how it is!<end_line>
-      I'll give it back right away<three_dots><end_line>
+      Sorry, here<three_dots><end_line>
     </ascii>
   </female>
 </dialogue>
@@ -268,7 +266,7 @@
     <ascii>
       Ugh<three_dots><end_line>
       Hey, you guys<three_dots><end_line>
-      Isn’t that unfair<three_dots>?<end_line>
+      Isn't that unfair<three_dots>?<end_line>
     </ascii>
   </female>
 </dialogue>
@@ -316,7 +314,7 @@
   <ascii>
     You think it's unfair?<end_line>
     Yeah, well, we're friends, so<end_line>
-    isn’t cooperating just natural?<end_line>
+    isn't cooperating just natural?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -329,9 +327,9 @@
     親方召喚獣でもな！<end_line>
   </sjis>
   <ascii>
-    That's right. You should get help too.<end_line>
-    You know, your Master the Summon Beast,<end_line>
-    or something!<end_line>
+    That's right.<end_line>
+    Feel free to call for help too.<end_line>
+    How about your Summon Beast master!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -377,7 +375,7 @@
   </sjis>
   <ascii>
     So, miss,<end_line>
-    I’m asking you to go out<end_line>
+    I'm asking you to go out<end_line>
     with me for a bit!<end_line>
   </ascii>
 </dialogue>
@@ -502,7 +500,7 @@
   </sjis>
   <ascii>
     I'm really sorry<three_dots><end_line>
-    Don’t worry about it anymore<three_dots><end_line>
+    Don't worry about it anymore<three_dots><end_line>
     If I just go with him<three_dots><end_line>
   </ascii>
 </dialogue>

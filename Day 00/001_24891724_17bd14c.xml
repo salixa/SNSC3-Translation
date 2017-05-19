@@ -153,7 +153,7 @@
     ボスタフ<three_dots>！<end_line>
   </sjis>
   <ascii>
-    What’s the meaning of this? <end_line>
+    What's the meaning of this? <end_line>
     Bostaph<three_dots>!<end_line>
   </ascii>
 </dialogue>
@@ -277,9 +277,9 @@
     お気に入りの場所でお昼寝とは<three_dots><end_line>
   </sjis>
   <ascii>
-    You were taking forever getting home<three_dots><end_line>
-    To think you were lazing about<end_line>
-    around here<three_dots><end_line>
+    You were taking forever<three_dots><end_line>
+    To think you were lazing<end_line>
+    about around here<three_dots><end_line>
   </ascii>	
 </dialogue>
 <dialogue>
@@ -290,7 +290,7 @@
     いい気なもんだねぇ<three_dots><end_line>
   </sjis>
   <ascii>
-    Aren’t you easygoing<three_dots><end_line>
+    Aren't you easygoing<three_dots><end_line>
   </ascii>	
 </dialogue>
 <dialogue>
@@ -337,9 +337,9 @@
     みてたんだろ？<end_line>
   </sjis>
   <ascii>
-    Anyway, like always, you were probably<end_line>
-    having some idiotic manga-like dream,<end_line>
-    weren’t you?<end_line>
+    Anyway, you were probably<end_line>
+    having some idiotic dream,<end_line>
+    weren't you?<end_line>
   </ascii>	
 </dialogue>
 <dialogue>
@@ -402,7 +402,7 @@
     </sjis>
     <ascii>
       <three_dots>Oww!<end_line>
-      That’s mean!<end_line>
+      That's mean!<end_line>
       Why'd you do that!?<end_line>
     </ascii>	
   </female>
@@ -430,7 +430,7 @@
       ヴィー親方！<end_line>
     </sjis>
     <ascii>
-      Who's your “sis”!?<end_line>
+      Who's your sis!?<end_line>
       I've told you to call me Master!<end_line>
       Master V.E!<end_line>
     </ascii>	
@@ -487,7 +487,7 @@
     言うつもりかい！？<end_line>
   </sjis>
   <ascii>
-    You're saying you won't listen to me?<end_line>
+    So you won't listen to me?<end_line>
     It's because I'm a Summon Beast,<end_line>
     isn't it!?<end_line>
   </ascii>
@@ -524,7 +524,8 @@
   </sjis>
   <ascii>
     Of course not, right?<end_line>
-    After all, I'm doing a pretty good job.<end_line>
+    After all, I'm doing<end_line>
+    a pretty good job.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -549,8 +550,8 @@
   </sjis>
   <ascii>
     I left my home, thinking<end_line>
-    “I’ll make the whole world shiver<end_line>
-    with the Rock of my soul!”,<end_line>
+    I'll make the whole world shiver<end_line>
+    with the Rock of my soul!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -563,9 +564,9 @@
     鍛冶なんてやったこともないのにね！<end_line>
   </sjis>
   <ascii>
-    I was summoned to this world Lyndbaum,<end_line>
+    I was summoned to this world,<end_line>
     as a Craftknight's partner,<end_line>
-    even though I'd never touched a forge!<end_line>
+    though I'd never touched a forge!<end_line>
   </ascii>	
 </dialogue>
 <dialogue>
@@ -618,7 +619,7 @@
   </sjis>
   <ascii>
     Ever since Rob died,<end_line>
-    I’ve been trying my best<end_line>
+    I've been trying my best<end_line>
     as your Master, in his place<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -686,7 +687,8 @@
       今のうちに帰ろっかな、オレ<end_line>
     </sjis>
     <ascii>
-      Master’s delusions have started again.<end_line>
+      Master's delusions have<end_line>
+      started again.<end_line>
       I better leave while I can.<end_line>
     </ascii>
   </male>
@@ -735,7 +737,7 @@
   </sjis>
   <ascii>
     Have you already been<end_line>
-    to the Village Chief’s place?<end_line>
+    to the Village Chief's place?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -774,7 +776,7 @@
   <ascii>
     Oh, I'm impressed!<end_line>
     That would've been perfect, that is,<end_line>
-    if you hadn't wandered off for a nap<three_dots><end_line>
+    if you hadn't wandered off<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -811,7 +813,7 @@
     アンタは！<end_line>
   </sjis>
   <ascii>
-    It's because you’re so lazy,<end_line>
+    It's because you're so lazy,<end_line>
     that no matter how much time passes,<end_line>
     you're still just an amateur!<end_line>
   </ascii>
@@ -825,7 +827,7 @@
     半人前って言うな！<end_line>
   </sjis>
   <ascii>
-    Don’t call me an amateur!<end_line>
+    Don't call me an amateur!<end_line>
   </ascii>	
 </dialogue>
 <dialogue>
@@ -839,9 +841,9 @@
     たおせるくらい強くなってやる！<end_line>
   </sjis>
   <ascii>
-    I may be just an apprentice right now,<end_line>
-    but soon I’ll be strong enough to<end_line>
-    defeat the Stray that killed Master Rob!<end_line>
+    I may be just an apprentice, but<end_line>
+    soon I'll be strong enough to defeat<end_line>
+    the Stray that killed Master Rob!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -867,7 +869,7 @@
     半人前って言わないでよ！<end_line>
   </sjis>
   <ascii>
-    Don’t call me an amateur!<end_line>
+    Don't call me an amateur!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -881,9 +883,9 @@
     たおせるくらい強くなるんだから！<end_line>
   </sjis>
   <ascii>
-    I may be just an apprentice right now,<end_line>
-    but soon I’ll be strong enough to<end_line>
-    defeat the Stray that killed Master Rob!<end_line>
+    I may be just an apprentice, but<end_line>
+    soon I'll be strong enough to defeat<end_line>
+    the Stray that killed Master Rob!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -908,7 +910,7 @@
     それが半人前だって言うんだよ！<end_line>
   </sjis>
   <ascii>
-    That’s why you’re an amateur!<end_line>
+    That's why you're an amateur!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -985,8 +987,8 @@
   </sjis>
   <ascii>
     Well then stop thinking about stupid<end_line>
-    things like revenge, and use that time<end_line>
-    to continue training!<end_line>
+    things like revenge, and use<end_line>
+    that time to continue training!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1084,7 +1086,7 @@
     <ascii>
       This is a Weapon Shapestone!<end_line>
       Awesome!<end_line>
-      Master, you’re so cool!<end_line>
+      Master, you're so cool!<end_line>
     </ascii>
   </male>
   <female>
@@ -1096,7 +1098,7 @@
     <ascii>
       This is a Weapon Shapestone!<end_line>
       Incredible!<end_line>
-      Master, you’re so cool!<end_line>
+      Master, you're so cool!<end_line>
     </ascii>
   </female>
 </dialogue>
@@ -1233,7 +1235,7 @@
   </sjis>
   <ascii>
     <player_nickname> looks motivated<end_line>
-    A wonderful example of the 'carrot and<end_line>
+    A great example of the 'carrot and<end_line>
     the stick', if I may say so myself.<end_line>
   </ascii>	
 </dialogue>

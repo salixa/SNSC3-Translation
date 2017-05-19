@@ -6,7 +6,7 @@
     どうだ！<end_line> #LINE 597 OF TRANSLATION
   </sjis>
   <ascii>
-    How’s that!<end_line>
+    How's that!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -169,7 +169,7 @@
     ダメ、やめて！<end_line>
   </sjis>
   <ascii>
-    No, stop!
+    No, stop!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -255,7 +255,7 @@
       ここで何してたんだ？<end_line>
     </sjis>
     <ascii>
-      What, it’s just a kid<three_dots><end_line>
+      What, it's just a kid<three_dots><end_line>
       What were you doing here?<end_line>
     </ascii>
   </male>
@@ -305,7 +305,7 @@
       なにか知らない？<end_line>
     </sjis>
     <ascii>
-      Well, I'm looking for a Summon Beast.<end_line>
+      I'm looking for a Summon Beast.<end_line>
       It has a drill for a head.<end_line>
       Do you happen to know anything?<end_line>
     </ascii>
@@ -335,7 +335,7 @@
       なにか知らない？<end_line>
     </sjis>
     <ascii>
-      Well, I'm looking for a Summon Beast.<end_line>
+      I'm looking for a Summon Beast.<end_line>
       It's big, and wears a scarf.<end_line>
       Do you happen to know anything?<end_line>
     </ascii>
@@ -353,7 +353,7 @@
       なんか知らない？<end_line>
     </sjis>
     <ascii>
-      I’m looking for a Summon Beast.<end_line>
+      I'm looking for a Summon Beast.<end_line>
       Some naked guy with wings.<end_line>
       Know anything?<end_line>
     </ascii>
@@ -365,7 +365,7 @@
       なにか知らない？<end_line>
     </sjis>
     <ascii>
-      Well, I'm looking for a Summon Beast.<end_line>
+      I'm looking for a Summon Beast.<end_line>
       A man with black wings.<end_line>
       Do you happen to know anything?<end_line>
     </ascii>
@@ -384,7 +384,7 @@
     </sjis>
     <ascii>
       I'm looking for a Summon Beast.<end_line>
-      Has spiky hair, like a bomb went off.<end_line>
+      Has spiky hair, like a hedgehog.<end_line>
       Know anything?<end_line>
     </ascii>
   </male>
@@ -395,8 +395,8 @@
       なにか知らない？<end_line>
     </sjis>
     <ascii>
-      Well, I'm looking for a Summon Beast.<end_line>
-      Has spiky hair, like a bomb went off.<end_line>
+      I'm looking for a Summon Beast.<end_line>
+      Has spiky hair, like a hedgehog.<end_line>
       Do you happen to know anything?<end_line>
     </ascii>
   </female>
@@ -466,7 +466,7 @@
     </sjis>
   </female>
   <ascii>
-    What’s with you!?<end_line>
+    What's with you!?<end_line>
     Then, what was glowing earlier!?<end_line>
     What are you really up to!?<end_line>
   </ascii>
@@ -587,7 +587,7 @@
   </sjis>
   <ascii>
     What!?<end_line>
-    No way, that’s a lie<three_dots><end_line>
+    No way, that's a lie<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -642,7 +642,7 @@
   </sjis>
   <ascii>
     C'mon, talk!<end_line>
-    You know about that Summon Beast,
+    You know something,<end_line>
     right!? Hey!<end_line>
   </ascii>
 </dialogue>
@@ -666,7 +666,7 @@
     むに？<end_line>
   </sjis>
   <ascii>
-    “Squeeze”?<end_line>
+    Squeeze?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -771,8 +771,8 @@
   </sjis>
   <ascii>
     So, talk then!<end_line>
-    You know about that Summon Beast,
-    don’t you? Hey!<end_line>
+    You know something,<end_line>
+    don't you? Hey!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -960,7 +960,7 @@
     さわったワケじゃないぞ！<end_line>
   </sjis>
   <ascii>
-    Tsk, what’s with you!<end_line>
+    Tsk, what's with you!<end_line>
     It's not like I touched you<end_line>
     because I wanted to!<end_line>
   </ascii>
@@ -1047,8 +1047,8 @@
   </sjis>
   <ascii>
     Do not get involved with me<three_dots><end_line>
-    You too will<three_dots><end_line>
-    You too will be met with misfortune, so<three_dots><end_line>
+    Or else<three_dots><end_line>
+    Misfortune will befall you<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1059,7 +1059,7 @@
   </sjis>
   <ascii>
     (Is she crying?)<end_line>
-  <ascii>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -1091,7 +1091,7 @@
     ワケわかんないぞ！<end_line>
   </sjis>
   <ascii>
-    What’s up with that<three_dots><end_line>
+    What's up with that<three_dots><end_line>
     Misfortune!?<end_line>
     I don't get it at all!<end_line>
   </ascii>
@@ -1133,7 +1133,7 @@
   <ascii>
     Huh, did someone drop this<three_dots>?<end_line>
     Must be hers<three_dots><end_line>
-    What’s this? Something important?<end_line>
+    What's this? Something important?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1146,9 +1146,9 @@
     召喚石だったりして<end_line>
   </sjis>
   <ascii>
-    What if<three_dots><end_line>
-    What if it's the Summon Stone used to<end_line>
-    call that Summon Beast from earlier!<end_line>
+    A Summon Stone<three_dots>!<end_line>
+    Was this used to call<end_line>
+    that Summon Beast?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1201,7 +1201,7 @@
   </sjis>
   <ascii>
     This stone<three_dots>it's pretty unusual<three_dots><end_line>
-    Is it that girl’s<three_dots>?<end_line>
+    Is it that girl's<three_dots>?<end_line>
     What is it? Something important?<end_line>
   </ascii>
 </dialogue>
@@ -1215,9 +1215,9 @@
     召喚石だったりして<end_line>
   </sjis>
   <ascii>
-    What if<three_dots><end_line>
-    What if it's the Summon Stone used to<end_line>
-    call that Summon Beast from earlier!<end_line>
+    A Summon Stone<three_dots>!<end_line>
+    Was this used to call<end_line>
+    that Summon Beast?<end_line>
   </ascii>
 </dialogue>
 <choice>
@@ -1228,7 +1228,7 @@
       召喚できるかためしてみよう！<end_line>
     </sjis>
     <ascii>
-      I’ll see if I can summon it!<end_line>
+      I'll see if I can use it!<end_line>
     </ascii>
   </option>
   <option>
@@ -1306,7 +1306,7 @@
   </sjis>
   <ascii>
     It's kinda scary too,<end_line>
-    let’s not.<end_line>
+    let's not.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1328,7 +1328,7 @@
         あいつに届けてやろうかな<end_line>
       </sjis>
       <ascii>
-        Maybe I’ll go give it to her?<end_line>
+        Maybe I'll go give it to her?<end_line>
       </ascii>
     </option>
   </male>
@@ -1338,7 +1338,7 @@
         あの子に届けてあげようかな<end_line>
       </sjis>
       <ascii>
-        Maybe I’ll go give it to that girl?<end_line>
+        Maybe I'll go give it to that girl?<end_line>
       </ascii>
     </option>
   </female>
@@ -1347,7 +1347,7 @@
       武器の材料にしちゃえ！<end_line>
     </sjis>
     <ascii>
-      I’ll just use it as weapon material!<end_line>
+      I'll just use it as weapon material!<end_line>
     </ascii>
   </option>
 </choice>
@@ -1370,7 +1370,7 @@
   </female>
   <ascii>
     I guess I'll give it back.<end_line>
-    While I’m at it, I'll make her<end_line>
+    While I'm at it, I'll make her<end_line>
     tell me about the Summon Beast!<end_line>
   </ascii>
 </dialogue>
@@ -1416,7 +1416,7 @@
   <ascii>
     <three_dots><end_line>
     Like I care about it.<end_line>
-    Let’s use it as a material!<end_line>
+    Let's use it as a material!<end_line>
   </ascii>
 </dialogue>
 <dialogue>

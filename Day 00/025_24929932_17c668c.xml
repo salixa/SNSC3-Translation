@@ -83,7 +83,7 @@
       かっこよかったぜ！<end_line>
     </sjis>
     <ascii>
-      Hey, you’re strong!<end_line>
+      Hey, you're strong!<end_line>
       That was really cool!<end_line>
     </ascii>
   </male>
@@ -387,7 +387,7 @@
   <ascii>
     What did you say!?<end_line>
     Aargh!<end_line>
-    If only my youkai powers would return<three_dots><end_line>
+    If only my powers would return<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -401,7 +401,7 @@
   </sjis>
   <ascii>
     The summoning wasn't complete.<end_line>
-    That’s why your power is<three_dots><end_line>
+    That's why your power is<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -441,7 +441,7 @@
   </female>	
   <ascii>
     I don't really get it, but<three_dots><end_line>
-    Well, isn’t it fine!<end_line>
+    Well, isn't it fine!<end_line>
     We managed to chase them off!<end_line>
   </ascii>
 </dialogue>
@@ -496,7 +496,7 @@
   </sjis>
   <ascii>
     <three_dots><end_line>
-    You’re an eyesore<three_dots><end_line>
+    You're an eyesore<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -541,7 +541,7 @@
     </sjis>
   </female>
   <ascii>
-    You’re strong for your size!<end_line>
+    You're strong for your size!<end_line>
     That was pretty cool!<end_line>
   </ascii>
 </dialogue>
@@ -594,7 +594,7 @@
   </sjis>
   <ascii>
     You're an eyesore too.<end_line>
-    I’ll erase you, got it?<end_line>
+    I'll erase you, got it?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -607,7 +607,7 @@
       なんだと！<end_line>
     </sjis>
     <ascii>
-      What’d you say!?<end_line>
+      What'd you say!?<end_line>
     </ascii>
   </male>
   <female>
@@ -615,7 +615,7 @@
       なによ、それ！？<end_line>
     </sjis>
     <ascii>
-      What’s with that!?<end_line>
+      What's with that!?<end_line>
     </ascii>
   </female>
 </dialogue>
@@ -772,7 +772,7 @@
       かっこよかったよ！<end_line>
     </sjis>
     <ascii>
-      You're pretty strong, aren’t you!<end_line>
+      You're pretty strong, aren't you!<end_line>
       That was so cool!<end_line>
     </ascii>
   </female>
@@ -788,7 +788,8 @@
   </sjis>
   <ascii>
     Thank you very much.<end_line>
-    In truth, I am even stronger, you know!<end_line>
+    In truth, I am even<end_line>
+    stronger, you know!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -843,7 +844,7 @@
   </sjis>
   <ascii>
     The summoning wasn't complete.<end_line>
-    That’s why your power is<three_dots><end_line>
+    That's why your power is<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -896,7 +897,7 @@
   <ascii>
     Besides,<end_line>
     we drove them off.<end_line>
-    Well, I’d say it’s all good!<end_line>
+    Well, I'd say it's all good!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1067,7 +1068,7 @@
     その召喚獣、あんたのだったのか？<end_line>
   </sjis>
   <ascii>
-    What’s happening here?<end_line>
+    What's happening here?<end_line>
     That Summon Beast, was it yours?<end_line>
   </ascii>
 </dialogue>
@@ -1097,7 +1098,7 @@
     その召喚獣、あなたのだったの？<end_line>
   </sjis>
   <ascii>
-    What’s happening here?<end_line>
+    What's happening here?<end_line>
     That Summon Beast, was it yours?<end_line>
   </ascii>
 </dialogue>
@@ -1270,7 +1271,7 @@
     </sjis>
   </female>
   <ascii>
-    It’s this one.<end_line>
+    It's this one.<end_line>
   </ascii>
 </dialogue>
 <dialogue>

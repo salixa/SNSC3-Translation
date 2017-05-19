@@ -200,7 +200,7 @@
   </female>
   <ascii>
     Sorry, but I do need to talk to<end_line>
-    the girl. And it’s important.<end_line>
+    the girl. And it's important.<end_line>
     So could you let her go?<end_line>
   </ascii>
 </dialogue>
@@ -263,9 +263,9 @@
     あやまりもしねぇからだな<three_dots><end_line>
   </sjis>
   <ascii>
-    First of all, even though she’s<end_line>
+    First of all, even though she's<end_line>
     the one who ran into me,<end_line>
-    she didn’t even apologize, so<three_dots><end_line>
+    she didn't even apologize, so<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -355,7 +355,7 @@
     </sjis>
     <ascii>
       Huh?<end_line>
-      What’s up?<end_line>
+      What's up?<end_line>
     </ascii>
   </male>
   <female>

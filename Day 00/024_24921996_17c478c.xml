@@ -217,7 +217,7 @@
     あなたに扱うことなんてできないわ！<end_line>
   </sjis>
   <ascii>
-    You can’t!<end_line>
+    You can't!<end_line>
     That Summon Stone is too pure!<end_line>
     There's no way you could handle it!<end_line>
   </ascii>
@@ -257,7 +257,7 @@
     まさか<three_dots><end_line>
   </sjis>
   <ascii>
-    That’s<three_dots><end_line>
+    That's<three_dots><end_line>
     No way<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -565,7 +565,7 @@
     どういうイミだ？<end_line>
   </sjis>
   <ascii>
-    What’s that mean?<end_line>
+    What's that mean?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -629,8 +629,8 @@
   </sjis>
   <ascii>
     Oh, shut up!<end_line>
-    In times like these, there's only one<end_line>
-    important thing! And that's<three_dots><end_line>
+    In times like these, there's only<end_line>
+    one important thing! And that's<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -659,8 +659,8 @@
   </sjis>
   <ascii>
     Well, excuse me!<end_line>
-    In times like these, there's only one<end_line>
-    important thing! And that's<three_dots><end_line>
+    In times like these, there's only<end_line>
+    one important thing! And that's<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -829,7 +829,7 @@
   </sjis>
   <ascii>
     Wow, what a useless Summon Beast!<end_line>
-    I’m gonna break it down!<end_line>
+    I'm gonna break it down!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -852,7 +852,7 @@
     ジャマだっての！<end_line>
   </sjis>
   <ascii>
-    You’re in the way!<end_line>
+    You're in the way!<end_line>
   </ascii>
 </dialogue>
 <bigtext>
@@ -1000,7 +1000,7 @@
   <ascii>
     Gyahahaha!<end_line>
     I was wondering what you'd summon,<end_line>
-    but ain’t it just a talking kitten!<end_line>
+    but ain't it just a talking kitten!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1029,7 +1029,7 @@
     <ascii>
       W-What!<end_line>
       I-It talks, you know?<end_line>
-      Isn’t this cat awesome!<end_line>
+      Isn't this cat awesome!<end_line>
     </ascii>
   </male>
   <female>
@@ -1041,7 +1041,7 @@
     <ascii>
       I think it's great!<end_line>
       It's a talking cat!<end_line>
-      How cute!<end_line> 
+      How cute!<end_line>
     </ascii>
   </female>
 </dialogue>
@@ -1072,7 +1072,6 @@
   <ascii>
     I knew it<three_dots><end_line>
     The Summoning didn't go well.<end_line>
-    They can't draw out their real power.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1088,7 +1087,7 @@
     Gahahaha<three_dots><end_line>
     Oh man, my stomach hurts<three_dots><end_line>
     Well, we'll be going now.<end_line>
-  </asciI>
+  </ascii>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -1163,7 +1162,7 @@
     こぞう<end_line>
   </sjis>
   <ascii>
-    That’s what I’m saying,<end_line>
+    That's what I'm saying,<end_line>
     youngster.<end_line>
   </ascii>
 </dialogue>
@@ -1280,7 +1279,7 @@
   </sjis>
   <ascii>
     W-What<three_dots><end_line>
-    My power, it’s fading<three_dots>?<end_line>
+    My power, it's fading<three_dots>?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1340,7 +1339,7 @@
     出てきたのが子供じゃなぁ<end_line>
   </sjis>
   <ascii>
-    I’m surprised you<end_line>
+    I'm surprised you<end_line>
     had a Summon Beast,<end_line>
     but turns out it was just a kid!<end_line>
   </ascii>
@@ -1406,7 +1405,6 @@
   <ascii>
     I knew it<three_dots><end_line>
     The Summoning didn't go well.<end_line>
-    They can't draw out their real power.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1449,8 +1447,8 @@
   </sjis>
   <ascii>
     What's that?<end_line>
-    So scared your voice won’t come out?<end_line>
-    If you ain’t gonna fight, we're leaving.<end_line>
+    Cat got your tongue?<end_line>
+    C'mon, we're outta here.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1512,7 +1510,7 @@
   <ascii>
     I told you to be quiet.<end_line>
     Your voice is a pain in the ears.<end_line>
-    Don’t open your mouth.<end_line>
+    Don't open your mouth.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1544,7 +1542,7 @@
   <ascii>
     You bastard<three_dots><end_line>
     So you can't even stay quiet?<end_line>
-    Did you throw your brain in the trash?<end_line>
+    Is your brain rotten?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1557,7 +1555,7 @@
   </sjis>
   <ascii>
     You!<end_line>
-  <ascii>
+  </ascii>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -1679,7 +1677,7 @@
   </female>
   <ascii>
     What happened?<end_line>
-    You’re looking weaker now.<end_line>
+    You're looking weaker now.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1790,7 +1788,7 @@
   <ascii>
     I knew it<three_dots><end_line>
     The Summoning didn't go well.<end_line>
-    That’s why<three_dots><end_line>
+    That's why<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1805,7 +1803,7 @@
   </sjis>
   <ascii>
     What's with you, huh?<end_line>
-    Ain’t you scared!<end_line>
+    Ain't you scared!<end_line>
     Can you even fight like that?<end_line>
   </ascii>
 </dialogue>
@@ -1836,9 +1834,9 @@
     あぶないわ！<end_line>
   </sjis>
   <ascii>
-    You can’t, <partner>.<end_line>
+    You can't, <partner>.<end_line>
     With the way you are now,<end_line>
-    it’s dangerous!<end_line>
+    it's dangerous!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1867,9 +1865,9 @@
     痛い目にあわせてやるぜ！<end_line>
   </sjis>
   <ascii>
-    You’re pretty confident<end_line>
+    You're pretty confident<end_line>
     for a Summon Beast!<end_line>
-    How about I teach you a lesson in pain!<end_line>
+    How about I teach you a lesson!<end_line>
   </ascii>
 </dialogue>
 <dialogue>

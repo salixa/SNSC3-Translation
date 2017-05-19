@@ -108,7 +108,7 @@
       そんなことあるか！<end_line>
     </sjis>
     <ascii>
-      Like that’d happen!<end_line>
+      Like that'd happen!<end_line>
     </ascii>
   </male>
   <female>
@@ -116,7 +116,7 @@
       そんなことないって！<end_line>
     </sjis>
     <ascii>
-      There’s no way that’d happen!<end_line>
+      There's no way that'd happen!<end_line>
     </ascii>
   </female>
 </dialogue>
@@ -181,7 +181,7 @@
   </sjis>
   <ascii>
     Uhhh<three_dots><end_line>
-    I wonder if it’s really that?<end_line>
+    I wonder if it's really that?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -194,7 +194,7 @@
     私ハ　戻リマス<end_line>
   </sjis>
   <ascii>
-    If You Are Not Targetting Lady Murno,<end_line>
+    If You Are Not Targeting Lady Murno,<end_line>
     I Will Return.<end_line>
   </ascii>
 </dialogue>
@@ -244,8 +244,8 @@
     </sjis>
   </female>
   <ascii>
-    I’ll say it anew.<end_line>
-    Let’s get along from now on,<end_line>
+    I'll say it anew.<end_line>
+    Let's get along from now on,<end_line>
     <partner>!<end_line>
   </ascii>
 </dialogue>
@@ -287,7 +287,7 @@
     アレ？<end_line>
   </sjis>
   <ascii>
-    ‘That’?<end_line>
+    ‘That'?<end_line>
   </ascii>
 </dialogue>
 <bigtext>
@@ -330,7 +330,7 @@
     </sjis>
   </female>
   <ascii>
-    <three_dots>Hey, what’s the matter?<end_line>
+    <three_dots>Hey, what's the matter?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -344,7 +344,8 @@
   </sjis>
   <ascii>
     I Repeat,<end_line>
-    I Do Not Understand Why We Must Shout.<end_line>
+    I Do Not Understand<end_line>
+    Why We Must Shout.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -356,7 +357,7 @@
     だから、気合いだよ<end_line>
   </sjis>
   <ascii>
-    It’s all about spirit, of course!<end_line>
+    It's all about spirit, of course!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -544,7 +545,7 @@
       そんなことあるか！<end_line>
     </sjis>
     <ascii>
-      Like that’d happen!<end_line>
+      Like that'd happen!<end_line>
     </ascii>
   </male>
   <female>
@@ -552,7 +553,7 @@
       そんなことないって！<end_line>
     </sjis>
     <ascii>
-      There’s no way that’d happen!<end_line>
+      There's no way that'd happen!<end_line>
     </ascii>
   </female>
 </dialogue>
@@ -675,9 +676,9 @@
     では、用はない<end_line>
   </sjis>
   <ascii>
-    From the looks of it, it really seems<end_line>
+    From the looks of it,<end_line>
     this has nothing to do with Murno.<end_line>
-    Well then, I have no further business.<end_line>
+    I have no further business here.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -769,7 +770,7 @@
     このマゲにかけて、手は抜かぬぞ！<end_line>
   </sjis>
   <ascii>
-    I have already decided once to do it.<end_line>
+    I have already decided to do it.<end_line>
     I swear upon this topknot,<end_line>
     that I will not hold back!<end_line>
   </ascii>
@@ -787,7 +788,7 @@
   <ascii>
     That's how it should be!<end_line>
     Alright!<end_line>
-    Let's shout ‘that’ to cheer us up!<end_line>
+    Let's shout ‘that' to cheer us up!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -800,7 +801,7 @@
     もしや、さっきの<three_dots><end_line>
   </sjis>
   <ascii>
-    ‘That’? <end_line>
+    ‘That'? <end_line>
     Do you mean, that<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -844,7 +845,7 @@
     </sjis>
   </female>
     <ascii>
-      <three_dots>Hey, what’s the matter?<end_line>
+      <three_dots>Hey, what's the matter?<end_line>
     </ascii>
 </dialogue>
 <dialogue>
@@ -874,7 +875,7 @@
       おじいちゃんみたいだな<end_line>
     </sjis>
     <ascii>
-      What’s that?<end_line>
+      What's that?<end_line>
       You sound like a grandpa!<end_line>
     </ascii>
   </male>
@@ -899,8 +900,8 @@
     十分おじいちゃんじゃよ<end_line>
   </sjis>
   <ascii>
-    I have lived for over 100 years, you know.<end_line>
-    I am plenty of a grandpa!<end_line>
+    You could say that.<end_line>
+    I have lived for over 100 years.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -963,7 +964,7 @@
     </sjis>
   </female>
   <ascii>
-    What’s with the attitude<three_dots><end_line>
+    What's with the attitude<three_dots><end_line>
     Did you follow me here?<end_line>
   </ascii>
 </dialogue>
@@ -998,7 +999,7 @@
     </sjis>
   </female>
   <ascii>
-    That’s<three_dots><end_line>
+    That's<three_dots><end_line>
     Because you're my partner?<end_line>
   </ascii>
 </dialogue>
@@ -1038,7 +1039,7 @@
     </sjis>
   </female>
   <ascii>
-    What’s that!?<end_line>
+    What's that!?<end_line>
     A lot happened today, so<end_line>
     I was just cooling my head!<end_line>
   </ascii>
@@ -1085,8 +1086,8 @@
   </sjis>
   <ascii>
     <three_dots>Hey!!<end_line>
-    We’re partners, you know!<end_line>
-    Let’s get along a little better!<end_line>
+    We're partners, you know!<end_line>
+    Let's get along a little better!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1116,9 +1117,9 @@
     もう少し仲良くしようよ<end_line>
   </sjis>
   <ascii>
-    <three_dots>Hey, that’s not it!!<end_line>
-    We’re partners, you know!<end_line>
-    Let’s try to get along a bit better!<end_line>
+    <three_dots>Hey, that's not it!!<end_line>
+    We're partners, you know!<end_line>
+    Let's try to get along a bit better!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1132,7 +1133,7 @@
     言ってないぞ<end_line>
   </sjis>
   <ascii>
-    Hey, I did say I’d help with smithing,<end_line>
+    Hey, I did say I'd help out,<end_line>
     but I never said I'd<end_line>
     get along with you.<end_line>
   </ascii>
@@ -1194,8 +1195,8 @@
     </sjis>
   </female>
   <ascii>
-    So! I’ll say it once again.<end_line>
-    Let’s work together!<end_line>
+    So! I'll say it once again.<end_line>
+    Let's work together!<end_line>
     <partner>！<end_line>
   </ascii>
 </dialogue>
@@ -1226,7 +1227,7 @@
   </sjis>
   <ascii>
     Don't say things like that.<end_line>
-    Let's shout ‘that’ to get fired up!<end_line>
+    Let's shout ‘that' to get fired up!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1239,7 +1240,7 @@
     まさか、さっきの<three_dots>！<end_line>
   </sjis>
   <ascii>
-    ‘That’<three_dots>?<end_line>
+    ‘That'<three_dots>?<end_line>
     You don't mean<three_dots>!<end_line>
   </ascii>
 </dialogue>
@@ -1283,7 +1284,7 @@
     </sjis>
   </female>
     <ascii>
-      <three_dots>Hey, what’s the matter?<end_line>
+      <three_dots>Hey, what's the matter?<end_line>
     </ascii>
 </dialogue>
 <dialogue>
@@ -1435,7 +1436,7 @@
       そんなことあるか！<end_line>
     </sjis>
     <ascii>
-      Like that’d happen!<end_line>
+      Like that'd happen!<end_line>
     </ascii>
   </male>
   <female>
@@ -1443,7 +1444,7 @@
       そんなことないって！<end_line>
     </sjis>
     <ascii>
-      There’s no way that’d happen!<end_line>
+      There's no way that'd happen!<end_line>
     </ascii>
   </female>
 </dialogue>
@@ -1543,7 +1544,7 @@
   <ascii>
     It seems as if you<end_line>
     are truly innocent today.<end_line>
-    Well then, I have no more business here.<end_line>
+    Well, I have no more business here.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1576,7 +1577,7 @@
     </sjis>
   </female>
   <ascii>
-    Hey, what’s with that!<end_line>
+    Hey, what's with that!<end_line>
     We finally became partners, so<end_line>
     so let's get along better!<end_line>
   </ascii>
@@ -1615,7 +1616,7 @@
     </sjis>
   </female>
   <ascii>
-    It’s also important for<end_line>
+    It's also important for<end_line>
     making good weapons!<end_line>
     Right?<end_line>
   </ascii>
@@ -1682,7 +1683,7 @@
   </sjis>
   <ascii>
     Alright!<end_line>
-    Let's shout ‘that’ to get fired up!<end_line>
+    Let's shout ‘that' to get fired up!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1735,7 +1736,7 @@
     </sjis>
   </female>
   <ascii>
-    <three_dots>Hey, what’s the matter?<end_line>
+    <three_dots>Hey, what's the matter?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
