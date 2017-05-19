@@ -367,7 +367,7 @@
 		</sjis>
 	</female>
   <ascii>
-    You're the one who doesn't understand!<end_line>
+    You're the one who doesn't get it!<end_line>
     I'll show you my strength!<end_line>
     Let's have a match!<end_line>
   </ascii>
@@ -509,7 +509,8 @@
 		だから半人前って言われるんだ！<end_line>
 	</sjis>
 	<ascii>
-		That's why you're treated like a kid!<end_line>
+		That's why you're<end_line>
+    treated like a kid!<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -519,7 +520,7 @@
 	<sjis>
 		でも<three_dots><end_line>
 	</sjis>
-	<asici>
+	<ascii>
 		But<three_dots><end_line>
 	</ascii>
 </dialogue>

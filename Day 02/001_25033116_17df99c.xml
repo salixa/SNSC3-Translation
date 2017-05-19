@@ -442,7 +442,7 @@
   </sjis>
   <ascii>
     You<three_dots><end_line>
-    Dragged a sick girl outside, at night!?<end_line>
+    Dragged a sick girl out, at night!?<end_line>
     What are you thinking!?<end_line>
   </ascii>
 </dialogue>
@@ -634,7 +634,7 @@
     キサマ<three_dots><end_line>
     今朝は、会ったのか？<end_line>
   </sjis>
-  <scii>
+  <ascii>
     It's you<three_dots><end_line>
     Have you seen her this morning?<end_line>
   </ascii>
@@ -891,6 +891,7 @@
       夜に会ったんだ<end_line>
       元気そうだったよ<end_line>
     </sjis>
+  </female>
   <ascii>
     We went out for a walk last night.<end_line>
   </ascii>

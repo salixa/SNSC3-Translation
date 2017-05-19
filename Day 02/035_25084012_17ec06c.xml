@@ -606,7 +606,7 @@
 		つまり、どういうこと？<end_line>
 	</sjis>
 	<ascii>
-		Huuuh?<end_line><end_line>
+		Huuuh?<end_line>
     What?<end_line>
 	</ascii>
 </dialogue>
@@ -741,7 +741,7 @@
 	</sjis>
 	<ascii>
 		We Craftknights work so that<end_line>
-		we may fulfill our goals easier, not<end_line> 
+		we may fulfill our goals easier, not<end_line>
 		because crafting itself is our goal.<end_line>
 	</ascii>
 </dialogue>
@@ -754,7 +754,7 @@
 		な！？<end_line>
 	</sjis>
 	<ascii>
-		Well, something like that.<end_line> 
+		Well, something like that.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -765,7 +765,7 @@
 		う～ん<three_dots><end_line>
 	</sjis>
 	<ascii>
-		Uh<three_dots>huh<three_dots><end_line> 
+		Uh<three_dots>huh<three_dots><end_line>
 	</ascii>
 </dialogue>
 <bigtext>
@@ -776,7 +776,7 @@
 		な！<end_line>
 	</sjis>
 	<ascii>
-		WHAT?<end_line> 
+		WHAT?<end_line>
 	</ascii>
 </bigtext>
 <dialogue>
@@ -787,7 +787,7 @@
 		わかったよ～<end_line>
 	</sjis>
 	<ascii>
-		N-Nothing<three_dots><end_line> 
+		N-Nothing<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -800,9 +800,9 @@
 		町へ行く準備でもするかね<end_line>
 	</sjis>
 	<ascii>
-		Good.<end_line> 
-		Now, I guess I'll get ready<end_line> 
-		to head to town.<end_line> 
+		Good.<end_line>
+		Now, I guess I'll get ready<end_line>
+		to head to town.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -832,9 +832,9 @@
 		ちゃんと修行はするからさ<end_line>
 	</sjis>
 	<ascii>
-		I don't want to stay at home<end_line> 
+		I don't want to stay at home<end_line>
 		when something's happening in town.<end_line>
-		And I promise I'll keep training.<end_line> 
+		And I promise I'll keep training.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -864,9 +864,9 @@
 		ちゃんと修行はするから<end_line>
 	</sjis>
 	<ascii>
-		I don't want to stay at home<end_line> 
+		I don't want to stay at home<end_line>
 		when something's happening in town.<end_line>
-		And I promise I'll keep training.<end_line> 
+		And I promise I'll keep training.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>

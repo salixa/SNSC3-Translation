@@ -110,7 +110,8 @@
 	</sjis>
 	<ascii>
 		They're fine.<end_line>
-		They're bring treated in the atelier.<end_line>
+		They're bring treated<end_line>
+    in the workshop.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -158,8 +159,9 @@
 		聞いたから、来ただけだよ<end_line>
 	</sjis>
 	<ascii>
-		I heard people from the atelier<end_line>
-		were left behind, so I came for them.<end_line>
+		I heard some of our<end_line>
+    people were left behind.<end_line>
+    so I came for them.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -477,7 +479,7 @@
 		だから、もう一度勝負してくれ！<end_line>
 	</sjis>
 	<ascii>
-    I'll set a bad example for the others<end_line>
+    I'll set a bad example<end_line>
     if I just keep losing.<end_line>
 		So fight against me one last time!<end_line>
 	</ascii>

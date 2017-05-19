@@ -883,7 +883,7 @@
 	</female>
   <ascii>
     Yeah, yeah.<end_line>
-    Anyway, thanks for<end_line> 
+    Anyway, thanks for<end_line>
     holding back today.<end_line>
   </ascii>
 </dialogue>
@@ -962,8 +962,9 @@
 		魔石を取り戻したかったんだろ？<end_line>
 	</sjis>
 	<ascii>
-		You really wanted to beat those guys up<end_line>
-		and just take the stone back, right?<end_line>
+		You really wanted to beat<end_line>
+    those guys up and just take<end_line>
+		the stone back, right?<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -993,8 +994,9 @@
 		魔石を取り戻したかったんでしょ？<end_line>
 	</sjis>
 	<ascii>
-		You really wanted to beat those guys up<end_line>
-		and just take the stone back, right?<end_line>
+		You really wanted to beat<end_line>
+    those guys up and just take<end_line>
+		the stone back, right?<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -1117,7 +1119,7 @@
 	<ascii>
 		Though I hate to admit it,<end_line>
 		that's the decisive difference<end_line>
-		between us<three_dots><end_line>		
+		between us<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -1154,6 +1156,7 @@
 		ちっ<three_dots><end_line>
 		どこまでもおめでたいヤツだ<three_dots><end_line>
 	</sjis>
+  <ascii>
 		Tch<three_dots><end_line>
 		Just how oblivious are you<three_dots>?<end_line>
 	</ascii>
@@ -1332,8 +1335,9 @@
 		魔石を取り戻したかったんだろ？<end_line>
 	</sjis>
 	<ascii>
-		You really just wanted to beat them up<end_line>
-		and take the stone back, right?<end_line>
+		You really wanted to beat<end_line>
+    those guys up and just take<end_line>
+		the stone back, right?<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -1361,8 +1365,9 @@
 		魔石を取り戻したかったんでしょ？<end_line>
 	</sjis>
 	<ascii>
-		You really just wanted to beat them up<end_line>
-		and take the stone back, right?<end_line>
+		You really wanted to beat<end_line>
+    those guys up and just take<end_line>
+		the stone back, right?<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
