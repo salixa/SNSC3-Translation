@@ -1,47 +1,5 @@
 import logging
-import warnings
-
 import constants
-from ElementTree import ElementTree
-
-
-def replacePseudoXml(bytes):
-  """
-  Replaces all SNSC3 specific pseudo-XML with valid xml for parser to process.
-
-  :param bytes: bytearray read directly from file
-  :return: bytearray with pseudo-XML elements removed/replaced
-  """
-  if any(el in bytes for el in constants.LINE_ELS):
-    return constants.NEWLINE
-
-  bytes = bytes.replace(constants.END_LINE_OPEN, constants.END_LINE_CLOSED)
-  bytes = bytes.replace(constants.THREE_DOTS_OPEN, constants.THREE_DOTS_CLOSED)
-  bytes = bytes.replace(constants.PLAYER_NAME_OPEN, constants.PLAYER_NAME_CLOSED)
-  bytes = bytes.replace(constants.PLAYER_NICKNAME_OPEN, constants.PLAYER_NICKNAME_CLOSED)
-  bytes = bytes.replace(constants.HEARTH_OPEN, constants.HEARTH_CLOSED)
-  bytes = bytes.replace(constants.PAW_OPEN, constants.PAW_CLOSED)
-  bytes = bytes.replace(constants.PARTNER_OPEN, constants.PARTNER_CLOSED)
-  bytes = bytes.replace(constants.WEAPON_TYPE_OPEN, constants.WEAPON_TYPE_CLOSED)
-
-  return bytes
-
-
-def readXml(file):
-  """
-  Reads from a file and processes it to remove SNSC3 specific pseudo-XML.
-
-  :param file: file to read from
-  :return: bytearray representation of the file
-  """
-  ascii = False
-  bytes = bytearray()
-  bytes += constants.ROOT_OPEN
-  for line in file.readlines():
-    line = replacePseudoXml(line)
-    bytes += line
-  bytes += constants.ROOT_CLOSE
-  return bytes
 
 
 def elementContentToString(ascii, end_els):
@@ -56,7 +14,7 @@ def elementContentToString(ascii, end_els):
   return lines
 
 
-def validateEndlines(ascii, warn_list):
+def verifyEndlines(ascii, warn_list):
   """
   Checks <end_line> elements exist, match the number of lines, 
   and are placed at the end of each line.
@@ -95,7 +53,7 @@ def determineSymbolLength(ascii):
   return len_array
 
 
-def validateLineLength(ascii, warn_list):
+def verifyLineLength(ascii, warn_list):
   """
   Validates if length of lines within <ascii> elements conforms to specification.
   Warnings are added to warn_list for each inconsistency.
@@ -114,7 +72,7 @@ def validateLineLength(ascii, warn_list):
       warn_list.append('Line is longer than ' + str(constants.MAX_LINE_LENGTH) + ' characters!')
 
 
-def validateAsciiElements(tree):
+def verify(tree):
   """
   Performs validation of content between <ascii> elements, then logs any warnings.
   
@@ -123,29 +81,11 @@ def validateAsciiElements(tree):
   valid = True
   for ascii in tree.iter('ascii'):
     warn_list = []
-    validateEndlines(ascii, warn_list)
-    validateLineLength(ascii, warn_list)
+    verifyEndlines(ascii, warn_list)
+    verifyLineLength(ascii, warn_list)
     if len(warn_list) > 0:
       valid = False
       print(''.join(ascii.itertext()))
       for str in warn_list:
         logging.warning(str)
   return valid
-
-
-def validateFile(filename):
-  """
-  Checks if a given file follows SNSC3 pseudo-XML.
-  
-  :param filename: name of the file to read from
-  :raises ParseError: bubbled up from ElementTree
-  """
-  with open(filename, 'rb') as xml_file:
-    bytes = readXml(xml_file)
-    try:
-      print('Validating ' + filename + '...')
-      tree = ElementTree().parseBytes(bytes)
-      if not validateAsciiElements(tree):
-        warnings.warn(filename + ' is invalid!')
-    finally:
-      xml_file.close()

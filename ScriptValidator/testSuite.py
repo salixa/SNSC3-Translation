@@ -3,7 +3,7 @@ import unittest
 import warnings
 
 from ElementTree import ParseError
-from ScriptValidate import validateFile
+from parseXml import validateFile
 
 
 class TestScriptValidate(unittest.TestCase):
@@ -67,7 +67,6 @@ class TestScriptValidate(unittest.TestCase):
       file = glob.glob('./test/asciiLineLength3.xml')
       validateFile(file[0])
       assert len(w) == 1
-
 
 if __name__ == '__main__':
   unittest.main()

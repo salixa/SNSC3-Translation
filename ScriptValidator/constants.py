@@ -18,15 +18,20 @@ PARTNER_OPEN =str.encode('<partner>')
 PARTNER_CLOSED = str.encode('<partner/>')
 WEAPON_TYPE_OPEN = str.encode('<weapon_type>')
 WEAPON_TYPE_CLOSED = str.encode('<weapon_type/>')
+BREAK_OPEN = str.encode('<break>')
+BREAK_CLOSED = str.encode('<break/>')
 
 NEWLINE = str.encode('\n')
+PLAYER_LINE = str.encode('<player ')
 PARTNER_LINE = str.encode('<partner ')
 INFO_LINE = str.encode('<info')
 PORTRAIT_L_LINE = str.encode('<portrait_l')
 PORTRAIT_R_LINE = str.encode('<portrait_r')
 
+SJIS_OPEN = str.encode('<sjis>')
+SJIS_CLOSED = str.encode('<sjis/>')
 
-LINE_ELS = [INFO_LINE, PORTRAIT_L_LINE, PORTRAIT_R_LINE, PARTNER_LINE]
+LINE_ELS = [PLAYER_LINE, PARTNER_LINE, INFO_LINE, PORTRAIT_L_LINE, PORTRAIT_R_LINE]
 SYMBOLS = ['three_dots', 'hearth', 'paw']
 NAME_ELS = ['player_name', 'player_nickname', 'partner']
 
