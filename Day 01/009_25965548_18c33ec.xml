@@ -2,11 +2,12 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		‚»‚ë‚»‚ëA•Ší‚à”ƒ‚¢Š·‚¦‚½‚¢‚ñ‚¾‚¯‚Ç<end_line>
-		‚»‚ñ‚ÈA‰É‚à‚È‚¢‚æ<end_line>
+		ãã‚ãã‚ã€æ­¦å™¨ã‚‚è²·ã„æ›ãˆãŸã„ã‚“ã ã‘ã©<end_line>
+		ãã‚“ãªã€æš‡ã‚‚ãªã„ã‚ˆ<end_line>
 	</sjis>
   <ascii>
-    It's about time to replace my weapon,<end_line>
+    It's about time to<end_line>
+    replace my weapon,<end_line>
     but I'm just too busy.<end_line>
   </ascii>
 </dialogue>
@@ -14,12 +15,12 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		‚¦IƒLƒ~A‚à‚¤•Šíì‚ê‚é‚ÌH<end_line>
-		ƒ”ƒB[‚³‚ñ‚Ì‚¨Žè“`‚¢‚©‚ÆŽv‚Á‚Ä‚½‚æ<end_line>
-		‚¤`‚ñA‚»‚¤‚¾‚Ë`‚¶‚á‚ <three_dots><end_line>
+		ãˆï¼ã‚­ãƒŸã€ã‚‚ã†æ­¦å™¨ä½œã‚Œã‚‹ã®ï¼Ÿ<end_line>
+		ãƒ´ã‚£ãƒ¼ã•ã‚“ã®ãŠæ‰‹ä¼ã„ã‹ã¨æ€ã£ã¦ãŸã‚ˆ<end_line>
+		ã†ï½žã‚“ã€ãã†ã ã­ï½žã˜ã‚ƒã‚<three_dots><end_line>
 	</sjis>
   <ascii>
-    Eh! You, can you craft weapons already?<end_line>
+    Eh! You can craft weapons already?<end_line>
     I though you were V.E's helper.<end_line>
     Hmm, I see, then<three_dots><end_line>
   </ascii>
@@ -28,8 +29,8 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		<weapon_type>‚Á‚Ä‚¢‚¤A<end_line>
-		ƒXƒsƒA‚ª—~‚µ‚¢‚ñ‚¾‚¯‚Ç<three_dots><end_line>
+		<weapon_type>ã£ã¦ã„ã†ã€<end_line>
+		ã‚¹ãƒ”ã‚¢ãŒæ¬²ã—ã„ã‚“ã ã‘ã©<three_dots><end_line>
 	</sjis>
   <ascii>
     I want this spear, <weapon_type>, but<three_dots><end_line>
@@ -39,7 +40,7 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		<weapon_type>‚ª•K—v‚ç‚µ‚¢<end_line>
+		<weapon_type>ãŒå¿…è¦ã‚‰ã—ã„<end_line>
 	</sjis>
   <ascii>
     It seems you need <weapon_type> for it.<end_line>
@@ -49,7 +50,7 @@
 <menu>
 	<title>
 		<sjis>
-			’•¶Žó‚¯‚é<end_line>
+			æ³¨æ–‡å—ã‘ã‚‹<end_line>
 		</sjis>
     <ascii>
       Accept request?<end_line>
@@ -57,7 +58,7 @@
 	</title>
 	<option>
 		<sjis>
-			‚Í‚¢<end_line>
+			ã¯ã„<end_line>
 		</sjis>
     <ascii>
       Yes<end_line>
@@ -65,7 +66,7 @@
 	</option>
 	<option>
 		<sjis>
-			‚¢‚¢‚¦<end_line>
+			ã„ã„ãˆ<end_line>
 		</sjis>
     <ascii>
       No<end_line>
@@ -77,8 +78,8 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		‚ ‚è‚ª‚Æ‚¤<end_line>
-		‚»‚ê‚¶‚á‚ AƒXƒsƒAƒ}ƒeƒ‹<end_line>
+		ã‚ã‚ŠãŒã¨ã†<end_line>
+		ãã‚Œã˜ã‚ƒã‚ã€ã‚¹ãƒ”ã‚¢ãƒžãƒ†ãƒ«<end_line>
 	</sjis>
   <ascii>
     Thanks.<end_line>
@@ -89,7 +90,7 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		Šy‚µ‚Ý‚¾‚È`<end_line>
+		æ¥½ã—ã¿ã ãªï½ž<end_line>
 	</sjis>
   <ascii>
     I'm so excited~<end_line>
@@ -99,8 +100,8 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		<weapon_type>‚Á‚Ä‚¢‚¤<end_line>
-		ƒXƒsƒAA—~‚µ‚¢‚È‚Ÿ<three_dots><end_line>
+		<weapon_type>ã£ã¦ã„ã†<end_line>
+		ã‚¹ãƒ”ã‚¢ã€æ¬²ã—ã„ãªã<three_dots><end_line>
 	</sjis>
   <ascii>
     I really want that <weapon_type> spear<three_dots><end_line>
@@ -110,7 +111,7 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		<weapon_type>‚ª•K—v‚ç‚µ‚¢‚¯‚Ç<end_line>
+		<weapon_type>ãŒå¿…è¦ã‚‰ã—ã„ã‘ã©<end_line>
 	</sjis>
   <ascii>
     It seems you need <weapon_type> though.<end_line>
@@ -119,7 +120,7 @@
 <menu>
 	<title>
 		<sjis>
-			’•¶Žó‚¯‚é<end_line>
+			æ³¨æ–‡å—ã‘ã‚‹<end_line>
 		</sjis>
     <ascii>
       Accept request?<end_line>
@@ -127,7 +128,7 @@
 	</title>
 	<option>
 		<sjis>
-			‚Í‚¢<end_line>
+			ã¯ã„<end_line>
 		</sjis>
     <ascii>
       Yes<end_line>
@@ -135,7 +136,7 @@
 	</option>
 	<option>
 		<sjis>
-			‚¢‚¢‚¦<end_line>
+			ã„ã„ãˆ<end_line>
 		</sjis>
     <ascii>
       No<end_line>
@@ -146,8 +147,8 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		‚ ‚è‚ª‚Æ‚¤<end_line>
-		‚»‚ê‚¶‚á‚ AƒXƒsƒAƒ}ƒeƒ‹<end_line>
+		ã‚ã‚ŠãŒã¨ã†<end_line>
+		ãã‚Œã˜ã‚ƒã‚ã€ã‚¹ãƒ”ã‚¢ãƒžãƒ†ãƒ«<end_line>
 	</sjis>
   <ascii>
     Thanks.<end_line>
@@ -158,7 +159,7 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		Šy‚µ‚Ý‚¾‚È`<end_line>
+		æ¥½ã—ã¿ã ãªï½ž<end_line>
 	</sjis>
   <ascii>
     I'm so excited~<end_line>
@@ -168,7 +169,7 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		Šy‚µ‚Ý‚¾‚È`<end_line>
+		æ¥½ã—ã¿ã ãªï½ž<end_line>
 	</sjis>
   <ascii>
     I'm so excited~<end_line>
@@ -178,19 +179,19 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		‚È‚©‚È‚©A—Ç‚¢Š´‚¶‚¶‚á‚È‚¢<end_line>
-		‚Í‚¢A‘ã‹à‘ã‚í‚è‚ÉA‚±‚ê‚È‚ñ‚©<end_line>
+		ãªã‹ãªã‹ã€è‰¯ã„æ„Ÿã˜ã˜ã‚ƒãªã„<end_line>
+		ã¯ã„ã€ä»£é‡‘ä»£ã‚ã‚Šã«ã€ã“ã‚Œãªã‚“ã‹<end_line>
 	</sjis>
   <ascii>
     This feels pretty nice.<end_line>
-    Yes, instead of money, how about this.<end_line>
+    Here, take this.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		‚¤[‚ñAˆÓŠO‚É—Ç‚¢o—ˆ‚¾‚È`<end_line>
+		ã†ãƒ¼ã‚“ã€æ„å¤–ã«è‰¯ã„å‡ºæ¥ã ãªï½ž<end_line>
 	</sjis>
   <ascii>
     Hmm, it's better than I expected~<end_line>
@@ -200,7 +201,7 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		‚¤[‚ñAˆÓŠO‚É—Ç‚¢o—ˆ‚¾‚È`<end_line>
+		ã†ãƒ¼ã‚“ã€æ„å¤–ã«è‰¯ã„å‡ºæ¥ã ãªï½ž<end_line>
 	</sjis>
   <ascii>
     Hmm, it's better than I expected~<end_line>
@@ -210,11 +211,12 @@
 	<info box="simple">
 	<portrait_l name="elderly">
 	<sjis>
-		Å‹ß‚ÌƒhƒŠƒ‹‚ÍA‚È‚É‚©‚Æ•¡ŽG‚Å‚¢‚©‚ñ<end_line>
-		‚à‚Á‚ÆA‚±‚¤‘€ì‚ÌŠÈ’P‚È<three_dots><end_line>
+		æœ€è¿‘ã®ãƒ‰ãƒªãƒ«ã¯ã€ãªã«ã‹ã¨è¤‡é›‘ã§ã„ã‹ã‚“<end_line>
+		ã‚‚ã£ã¨ã€ã“ã†æ“ä½œã®ç°¡å˜ãª<three_dots><end_line>
 	</sjis>
   <ascii>
-    Drills these days are too complicated.<end_line>
+    Drills these days<end_line>
+    are too complicated.<end_line>
     They should be easier to use<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -222,12 +224,12 @@
 	<info box="simple">
 	<portrait_l name="elderly">
 	<sjis>
-		‚»‚¤‚¶‚áA‚¨‘OA‚Â‚­‚Á‚Ä‚­‚ê‚Ê‚©<end_line>
-		<weapon_type>‚Æ‚¢‚ÓA<end_line>
-		ƒhƒŠƒ‹‚ª—~‚µ‚¢‚ñ‚¶‚á‚ <end_line>
+		ãã†ã˜ã‚ƒã€ãŠå‰ã€ã¤ãã£ã¦ãã‚Œã¬ã‹<end_line>
+		<weapon_type>ã¨ã„ãµã€<end_line>
+		ãƒ‰ãƒªãƒ«ãŒæ¬²ã—ã„ã‚“ã˜ã‚ƒã‚<end_line>
 	</sjis>
   <ascii>
-    I know, why don't you make one for me?<end_line>
+    I know, why don't you make me one?<end_line>
     I've been thinking about getting<end_line>
     a <weapon_type> drill,<end_line>
   </ascii>
@@ -236,8 +238,8 @@
 	<info box="simple">
 	<portrait_l name="elderly">
 	<sjis>
-		<weapon_type>‚Æ‚¢‚Ó<end_line>
-		‚à‚Ì‚ª•K—v‚ç‚µ‚¢<end_line>
+		<weapon_type>ã¨ã„ãµ<end_line>
+		ã‚‚ã®ãŒå¿…è¦ã‚‰ã—ã„<end_line>
 	</sjis>
   <ascii>
     but it seems I need <weapon_type>.<end_line>
@@ -246,7 +248,7 @@
 <menu>
 	<title>
 		<sjis>
-			’•¶Žó‚¯‚é<end_line>
+			æ³¨æ–‡å—ã‘ã‚‹<end_line>
 		</sjis>
     <ascii>
       Accept request?<end_line>
@@ -254,7 +256,7 @@
 	</title>
 	<option>
 		<sjis>
-			‚Í‚¢<end_line>
+			ã¯ã„<end_line>
 		</sjis>
     <ascii>
       Yes<end_line>
@@ -262,7 +264,7 @@
 	</option>
 	<option>
 		<sjis>
-			‚¢‚¢‚¦<end_line>
+			ã„ã„ãˆ<end_line>
 		</sjis>
     <ascii>
       No<end_line>
@@ -273,7 +275,7 @@
 	<info box="simple">
 	<portrait_l name="elderly">
 	<sjis>
-		‚¤‚ÞA‚à‚Á‚Ä‚¢‚¯<end_line>
+		ã†ã‚€ã€ã‚‚ã£ã¦ã„ã‘<end_line>
 	</sjis>
   <ascii>
     Mm, take this.<end_line>
@@ -283,7 +285,7 @@
 	<info box="simple">
 	<portrait_l name="elderly">
 	<sjis>
-		‚Ü‚Á‚Ä‚¨‚é‚¼<end_line>
+		ã¾ã£ã¦ãŠã‚‹ãž<end_line>
 	</sjis>
   <ascii>
     I'll be waiting.<end_line>
@@ -293,8 +295,8 @@
 	<info box="simple">
 	<portrait_l name="elderly">
 	<sjis>
-		<weapon_type>‚Æ‚¢‚ÓAƒhƒŠƒ‹<end_line>
-		ì‚ê‚é‚æ‚¤‚É‚È‚Á‚½‚©H<end_line>
+		<weapon_type>ã¨ã„ãµã€ãƒ‰ãƒªãƒ«<end_line>
+		ä½œã‚Œã‚‹ã‚ˆã†ã«ãªã£ãŸã‹ï¼Ÿ<end_line>
 	</sjis>
   <ascii>
     Do you think you can<end_line>
@@ -305,7 +307,7 @@
 	<info box="simple">
 	<portrait_l name="elderly">
 	<sjis>
-		<weapon_type>‚Æ‚¢‚Ó‚à‚Ì‚ª•K—v‚¶‚á<end_line>
+		<weapon_type>ã¨ã„ãµã‚‚ã®ãŒå¿…è¦ã˜ã‚ƒ<end_line>
 	</sjis>
   <ascii>
     You'll need <weapon_type>.<end_line>
@@ -314,7 +316,7 @@
 <menu>
 	<title>
 		<sjis>
-			’•¶Žó‚¯‚é<end_line>
+			æ³¨æ–‡å—ã‘ã‚‹<end_line>
 		</sjis>
     <ascii>
       Accept request?<end_line>
@@ -322,7 +324,7 @@
 	</title>
 	<option>
 		<sjis>
-			‚Í‚¢<end_line>
+			ã¯ã„<end_line>
 		</sjis>
     <ascii>
       Yes<end_line>
@@ -330,7 +332,7 @@
 	</option>
 	<option>
 		<sjis>
-			‚¢‚¢‚¦<end_line>
+			ã„ã„ãˆ<end_line>
 		</sjis>
     <ascii>
       No<end_line>
@@ -341,7 +343,7 @@
 	<info box="simple">
 	<portrait_l name="elderly">
 	<sjis>
-		‚¤‚ÞA‚à‚Á‚Ä‚¢‚¯<end_line>
+		ã†ã‚€ã€ã‚‚ã£ã¦ã„ã‘<end_line>
 	</sjis>
   <ascii>
     Mm, take this.<end_line>
@@ -351,7 +353,7 @@
 	<info box="simple">
 	<portrait_l name="elderly">
 	<sjis>
-		‚Ü‚Á‚Ä‚¨‚é‚¼<end_line>
+		ã¾ã£ã¦ãŠã‚‹ãž<end_line>
 	</sjis>
   <ascii>
     I'll be waiting.<end_line>
@@ -361,7 +363,7 @@
 	<info box="simple">
 	<portrait_l name="elderly">
 	<sjis>
-		‚Ü‚Á‚Ä‚¨‚é‚¼<end_line>
+		ã¾ã£ã¦ãŠã‚‹ãž<end_line>
 	</sjis>
   <ascii>
     I'll be waiting.<end_line>
@@ -371,7 +373,7 @@
 	<info box="simple">
 	<portrait_l name="elderly">
 	<sjis>
-		‘Ê’À‘ã‚í‚è‚¶‚áAŽó‚¯Žæ‚ê<end_line>
+		é§„è³ƒä»£ã‚ã‚Šã˜ã‚ƒã€å—ã‘å–ã‚Œ<end_line>
 	</sjis>
   <ascii>
     Take this as your reward.<end_line>
@@ -381,8 +383,8 @@
 	<info box="simple">
 	<portrait_l name="elderly">
 	<sjis>
-		‚¬‚ã‚¢‚¡‚ñA‚¬‚ã‚¢‚¡‚ñ<end_line>
-		ŠÈ’P‚¶‚á‚È‚¢‚©<three_dots><end_line>
+		ãŽã‚…ã„ãƒã‚“ã€ãŽã‚…ã„ãƒã‚“<end_line>
+		ç°¡å˜ã˜ã‚ƒãªã„ã‹<three_dots><end_line>
 	</sjis>
   <ascii>
     *squeak, squeak*<three_dots><end_line>
@@ -393,8 +395,8 @@
 	<info box="simple">
 	<portrait_l name="elderly">
 	<sjis>
-		‚¬‚ã‚¢‚¡‚ñA‚¬‚ã‚¢‚¡‚ñ<end_line>
-		ŠÈ’P‚¶‚á‚È‚¢‚©<three_dots><end_line>
+		ãŽã‚…ã„ãƒã‚“ã€ãŽã‚…ã„ãƒã‚“<end_line>
+		ç°¡å˜ã˜ã‚ƒãªã„ã‹<three_dots><end_line>
 	</sjis>
   <ascii>
     *squeak, squeak*<three_dots><end_line>
@@ -405,7 +407,7 @@
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		•Ší‚ð’•¶‚µ‚½‚¢‚ñ‚¾‚¯‚Ç<end_line>
+		æ­¦å™¨ã‚’æ³¨æ–‡ã—ãŸã„ã‚“ã ã‘ã©<end_line>
 	</sjis>
   <ascii>
     I'd like to order a weapon,<end_line>
@@ -415,7 +417,7 @@
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		<weapon_type>‚Á‚Ä‚¢‚¤ƒ{ƒE<end_line>
+		<weapon_type>ã£ã¦ã„ã†ãƒœã‚¦<end_line>
 	</sjis>
   <ascii>
     the <weapon_type> bow.<end_line>
@@ -425,7 +427,7 @@
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		<weapon_type>‚ª‚¢‚é‚ç‚µ‚¢‚Ì‚æ<end_line>
+		<weapon_type>ãŒã„ã‚‹ã‚‰ã—ã„ã®ã‚ˆ<end_line>
 	</sjis>
   <ascii>
     It seems to need <weapon_type>.<end_line>
@@ -434,7 +436,7 @@
 <menu>
 	<title>
 		<sjis>
-			’•¶Žó‚¯‚é<end_line>
+			æ³¨æ–‡å—ã‘ã‚‹<end_line>
 		</sjis>
     <ascii>
       Accept request?<end_line>
@@ -442,7 +444,7 @@
 	</title>
 	<option>
 		<sjis>
-			‚Í‚¢<end_line>
+			ã¯ã„<end_line>
 		</sjis>
     <ascii>
       Yes<end_line>
@@ -450,7 +452,7 @@
 	</option>
 	<option>
 		<sjis>
-			‚¢‚¢‚¦<end_line>
+			ã„ã„ãˆ<end_line>
 		</sjis>
     <ascii>
       No<end_line>
@@ -461,11 +463,12 @@
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		’•¶‚·‚é‘¤‚ªƒ}ƒeƒ‹‚Í—pˆÓ‚·‚é‚Ì‚æ‚Ë<end_line>
-		‚Í‚¢Aƒ}ƒeƒ‹<end_line>
+		æ³¨æ–‡ã™ã‚‹å´ãŒãƒžãƒ†ãƒ«ã¯ç”¨æ„ã™ã‚‹ã®ã‚ˆã­<end_line>
+		ã¯ã„ã€ãƒžãƒ†ãƒ«<end_line>
 	</sjis>
   <ascii>
-    I've prepared the Shapestone you need.<end_line>
+    I've prepared the<end_line>
+    Shapestone you'll need.<end_line>
     Here, take it.<end_line>
   </ascii>
 </dialogue>
@@ -473,7 +476,7 @@
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		‚ `‘‚­A“I‚ð‚¤‚¿‚És‚«‚½‚¢<end_line>
+		ã‚ï½žæ—©ãã€çš„ã‚’ã†ã¡ã«è¡ŒããŸã„<end_line>
 	</sjis>
   <ascii>
     Ah~, I can't wait to try it out.<end_line>
@@ -483,7 +486,7 @@
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		<weapon_type>‚Á‚Ä‚¢‚¤ƒ{ƒE<end_line>
+		<weapon_type>ã£ã¦ã„ã†ãƒœã‚¦<end_line>
 	</sjis>
   <ascii>
     So, about the <weapon_type> bow.<end_line>
@@ -493,7 +496,7 @@
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		<weapon_type>‚ª‚¢‚é‚ç‚µ‚¢‚Ì‚æ<end_line>
+		<weapon_type>ãŒã„ã‚‹ã‚‰ã—ã„ã®ã‚ˆ<end_line>
 	</sjis>
   <ascii>
     You'll need <weapon_type> to make it.<end_line>
@@ -502,7 +505,7 @@
 <menu>
 	<title>
 		<sjis>
-			’•¶Žó‚¯‚é<end_line>
+			æ³¨æ–‡å—ã‘ã‚‹<end_line>
 		</sjis>
     <ascii>
       Accept request?<end_line>
@@ -510,7 +513,7 @@
 	</title>
 	<option>
 		<sjis>
-			‚Í‚¢<end_line>
+			ã¯ã„<end_line>
 		</sjis>
     <ascii>
       Yes<end_line>
@@ -518,7 +521,7 @@
 	</option>
 	<option>
 		<sjis>
-			‚¢‚¢‚¦<end_line>
+			ã„ã„ãˆ<end_line>
 		</sjis>
     <ascii>
       No<end_line>
@@ -529,11 +532,12 @@
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		’•¶‚·‚é‘¤‚ªƒ}ƒeƒ‹‚Í—pˆÓ‚·‚é‚Ì‚æ‚Ë<end_line>
-		‚Í‚¢Aƒ}ƒeƒ‹<end_line>
+		æ³¨æ–‡ã™ã‚‹å´ãŒãƒžãƒ†ãƒ«ã¯ç”¨æ„ã™ã‚‹ã®ã‚ˆã­<end_line>
+		ã¯ã„ã€ãƒžãƒ†ãƒ«<end_line>
 	</sjis>
   <ascii>
-    I've prepared the Shapestone you need.<end_line>
+    I've prepared the<end_line>
+    Shapestone you'll need.<end_line>
     Here, take it.<end_line>
   </ascii>
 </dialogue>
@@ -541,7 +545,7 @@
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		‚ `‘‚­A“I‚ð‚¤‚¿‚És‚«‚½‚¢<end_line>
+		ã‚ï½žæ—©ãã€çš„ã‚’ã†ã¡ã«è¡ŒããŸã„<end_line>
 	</sjis>
   <ascii>
     Ah~, I can't wait to try it out.<end_line>
@@ -551,7 +555,7 @@
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		‚ `‘‚­A“I‚ð‚¤‚¿‚És‚«‚½‚¢<end_line>
+		ã‚ï½žæ—©ãã€çš„ã‚’ã†ã¡ã«è¡ŒããŸã„<end_line>
 	</sjis>
   <ascii>
     Ah~, I can't wait to try it out.<end_line>
@@ -561,9 +565,9 @@
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		‚Í‚¢A‚±‚ê<end_line>
-		‚Ù‚ñ‚Ì‹CŽ‚¿‚Ë<end_line>
-		ƒzƒ“ƒgA•‚©‚é‚í<end_line>
+		ã¯ã„ã€ã“ã‚Œ<end_line>
+		ã»ã‚“ã®æ°—æŒã¡ã­<end_line>
+		ãƒ›ãƒ³ãƒˆã€åŠ©ã‹ã‚‹ã‚<end_line>
 	</sjis>
   <ascii>
     Here, take this.<end_line>
@@ -575,9 +579,9 @@
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		‚ `‘‚­A“I‚ð‚¤‚¿‚És‚«‚½‚¢‚¯‚Ç<end_line>
-		“I‚Á‚Ä‚Ç‚±‚É‚ ‚é‚ñ‚¾‚ë<end_line>
-		‚ñ`‚±‚Ü‚Á‚½‚í<end_line>
+		ã‚ï½žæ—©ãã€çš„ã‚’ã†ã¡ã«è¡ŒããŸã„ã‘ã©<end_line>
+		çš„ã£ã¦ã©ã“ã«ã‚ã‚‹ã‚“ã ã‚<end_line>
+		ã‚“ï½žã“ã¾ã£ãŸã‚<end_line>
 	</sjis>
   <ascii>
     Ah~, I can't wait to try this out.<end_line>
@@ -589,9 +593,9 @@
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		‚ `‘‚­A“I‚ð‚¤‚¿‚És‚«‚½‚¢‚¯‚Ç<end_line>
-		“I‚Á‚Ä‚Ç‚±‚É‚ ‚é‚ñ‚¾‚ë<end_line>
-		‚ñ`‚±‚Ü‚Á‚½‚í<end_line>
+		ã‚ï½žæ—©ãã€çš„ã‚’ã†ã¡ã«è¡ŒããŸã„ã‘ã©<end_line>
+		çš„ã£ã¦ã©ã“ã«ã‚ã‚‹ã‚“ã ã‚<end_line>
+		ã‚“ï½žã“ã¾ã£ãŸã‚<end_line>
 	</sjis>
   <ascii>
     Ah~, I can't wait to try this out.<end_line>
@@ -603,7 +607,7 @@
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		•Ší‚ð’•¶‚µ‚½‚¢‚ñ‚¾‚¯‚Ç<end_line>
+		æ­¦å™¨ã‚’æ³¨æ–‡ã—ãŸã„ã‚“ã ã‘ã©<end_line>
 	</sjis>
   <ascii>
     I'd like to order a weapon,<end_line>
@@ -613,8 +617,8 @@
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		<weapon_type>‚Á‚Ä‚¢‚¤AƒiƒbƒNƒ‹<end_line>
-		‚¿‚å‚Á‚ÆA‚Ô‚ñ‰£‚è‚½‚¢’j‚ª‹‚é‚Ì‚æ<end_line>
+		<weapon_type>ã£ã¦ã„ã†ã€ãƒŠãƒƒã‚¯ãƒ«<end_line>
+		ã¡ã‚‡ã£ã¨ã€ã¶ã‚“æ®´ã‚ŠãŸã„ç”·ãŒå±…ã‚‹ã®ã‚ˆ<end_line>
 	</sjis>
   <ascii>
     a <weapon_type> knuckle.<end_line>
@@ -625,7 +629,7 @@
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		<weapon_type>‚ª‚¢‚é‚ç‚µ‚¢‚í<end_line>
+		<weapon_type>ãŒã„ã‚‹ã‚‰ã—ã„ã‚<end_line>
 	</sjis>
   <ascii>
     You'll need <weapon_type> to make it.<end_line>
@@ -634,7 +638,7 @@
 <menu>
 	<title>
 		<sjis>
-			’•¶Žó‚¯‚é<end_line>
+			æ³¨æ–‡å—ã‘ã‚‹<end_line>
 		</sjis>
     <ascii>
       Accept request?<end_line>
@@ -642,7 +646,7 @@
 	</title>
 	<option>
 		<sjis>
-			‚Í‚¢<end_line>
+			ã¯ã„<end_line>
 		</sjis>
     <ascii>
       Yes<end_line>
@@ -650,7 +654,7 @@
 	</option>
 	<option>
 		<sjis>
-			‚¢‚¢‚¦<end_line>
+			ã„ã„ãˆ<end_line>
 		</sjis>
     <ascii>
       No<end_line>
@@ -661,7 +665,7 @@
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		ƒ}ƒeƒ‹H<end_line>
+		ãƒžãƒ†ãƒ«ï¼Ÿ<end_line>
 	</sjis>
   <ascii>
     Shapestone?<end_line>
@@ -671,8 +675,8 @@
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		’b–èEl‚ª—pˆÓ‚·‚é‚ñ‚¶‚á‚È‚¢‚Ì<end_line>
-		’¬‚É‚æ‚Á‚Äˆá‚¤‚Ì‚©‚µ‚çH<end_line>
+		é›å†¶è·äººãŒç”¨æ„ã™ã‚‹ã‚“ã˜ã‚ƒãªã„ã®<end_line>
+		ç”ºã«ã‚ˆã£ã¦é•ã†ã®ã‹ã—ã‚‰ï¼Ÿ<end_line>
 	</sjis>
   <ascii>
     I thought the craftsman prepared it.<end_line>
@@ -683,7 +687,7 @@
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		‚Å‚«‚ ‚ª‚èAŠy‚µ‚Ý‚É‚µ‚Ä‚é‚í<end_line>
+		ã§ãã‚ãŒã‚Šã€æ¥½ã—ã¿ã«ã—ã¦ã‚‹ã‚<end_line>
 	</sjis>
   <ascii>
     I'm looking forward to<end_line>
@@ -694,8 +698,8 @@
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		<weapon_type>‚Á‚Ä‚¢‚¤AƒiƒbƒNƒ‹<end_line>
-		‚â‚Á‚Ï‚èA‚Å‚«‚È‚¢H<end_line>
+		<weapon_type>ã£ã¦ã„ã†ã€ãƒŠãƒƒã‚¯ãƒ«<end_line>
+		ã‚„ã£ã±ã‚Šã€ã§ããªã„ï¼Ÿ<end_line>
 	</sjis>
   <ascii>
     The <weapon_type> knuckle,<end_line>
@@ -706,7 +710,7 @@
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		<weapon_type>‚ª‚¢‚é‚ç‚µ‚¢‚í<end_line>
+		<weapon_type>ãŒã„ã‚‹ã‚‰ã—ã„ã‚<end_line>
 	</sjis>
   <ascii>
     You'll need <weapon_type>.<end_line>
@@ -715,7 +719,7 @@
 <menu>
 	<title>
 		<sjis>
-			’•¶Žó‚¯‚é<end_line>
+			æ³¨æ–‡å—ã‘ã‚‹<end_line>
 		</sjis>
     <ascii>
       Accept request?<end_line>
@@ -723,7 +727,7 @@
 	</title>
 	<option>
 		<sjis>
-			‚Í‚¢<end_line>
+			ã¯ã„<end_line>
 		</sjis>
     <ascii>
       Yes<end_line>
@@ -731,7 +735,7 @@
 	</option>
 	<option>
 		<sjis>
-			‚¢‚¢‚¦<end_line>
+			ã„ã„ãˆ<end_line>
 		</sjis>
     <ascii>
       No<end_line>
@@ -742,7 +746,7 @@
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		ƒ}ƒeƒ‹H<end_line>
+		ãƒžãƒ†ãƒ«ï¼Ÿ<end_line>
 	</sjis>
   <ascii>
     Shapestone?<end_line>
@@ -752,8 +756,8 @@
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		’b–èŽt‚ª—pˆÓ‚·‚é‚ñ‚¶‚á‚È‚¢‚Ì<end_line>
-		’¬‚É‚æ‚Á‚Äˆá‚¤‚Ì‚©‚µ‚çH<end_line>
+		é›å†¶å¸«ãŒç”¨æ„ã™ã‚‹ã‚“ã˜ã‚ƒãªã„ã®<end_line>
+		ç”ºã«ã‚ˆã£ã¦é•ã†ã®ã‹ã—ã‚‰ï¼Ÿ<end_line>
 	</sjis>
   <ascii>
     I thought the craftsman prepared it.<end_line>
@@ -764,7 +768,7 @@
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		‚Å‚«‚ ‚ª‚èAŠy‚µ‚Ý‚É‚µ‚Ä‚é‚í<end_line>
+		ã§ãã‚ãŒã‚Šã€æ¥½ã—ã¿ã«ã—ã¦ã‚‹ã‚<end_line>
 	</sjis>
   <ascii>
     I'm looking forward to<end_line>
@@ -775,7 +779,7 @@
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		‚Å‚«‚ ‚ª‚èAŠy‚µ‚Ý‚É‚µ‚Ä‚é‚í<end_line>
+		ã§ãã‚ãŒã‚Šã€æ¥½ã—ã¿ã«ã—ã¦ã‚‹ã‚<end_line>
 	</sjis>
   <ascii>
     I'm looking forward to<end_line>
@@ -786,8 +790,8 @@
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		‚Ó`‚ñ<three_dots><end_line>
-		‚Ü‚ A‚±‚ê‚­‚ç‚¢‚©‚µ‚ç<end_line>
+		ãµï½žã‚“<three_dots><end_line>
+		ã¾ã‚ã€ã“ã‚Œãã‚‰ã„ã‹ã—ã‚‰<end_line>
 	</sjis>
   <ascii>
     Hmm<three_dots><end_line>
@@ -798,7 +802,7 @@
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		‚Ü‚½A‚¢‚Â‚©—Š‚Þ‚í‚Ë<end_line>
+		ã¾ãŸã€ã„ã¤ã‹é ¼ã‚€ã‚ã­<end_line>
 	</sjis>
   <ascii>
     I'll ask you again sometime.<end_line>
@@ -808,7 +812,7 @@
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		‚Ü‚½A‚¢‚Â‚©—Š‚Þ‚í‚Ë<end_line>
+		ã¾ãŸã€ã„ã¤ã‹é ¼ã‚€ã‚ã­<end_line>
 	</sjis>
   <ascii>
     I'll ask you again sometime.<end_line>
@@ -818,7 +822,7 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		•Ší‚ð’•¶‚µ‚½‚¢‚ñ‚¾‚¯‚Ç<end_line>
+		æ­¦å™¨ã‚’æ³¨æ–‡ã—ãŸã„ã‚“ã ã‘ã©<end_line>
 	</sjis>
   <ascii>
     I want to order a weapon.<end_line>
@@ -828,8 +832,8 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		<weapon_type>‚Á‚Ä‚¢‚¤<end_line>
-		ƒ\[ƒh‚ª—~‚µ‚¢‚ñ‚¾‚¯‚Ç<three_dots><end_line>
+		<weapon_type>ã£ã¦ã„ã†<end_line>
+		ã‚½ãƒ¼ãƒ‰ãŒæ¬²ã—ã„ã‚“ã ã‘ã©<three_dots><end_line>
 	</sjis>
   <ascii>
     I'd like the <weapon_type><end_line>
@@ -840,7 +844,7 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		<weapon_type>‚ª‚¢‚é‚ç‚µ‚¢‚æ<end_line>
+		<weapon_type>ãŒã„ã‚‹ã‚‰ã—ã„ã‚ˆ<end_line>
 	</sjis>
   <ascii>
     It seems you'll need <weapon_type>.<end_line>
@@ -849,7 +853,7 @@
 <menu>
 	<title>
 		<sjis>
-			’•¶Žó‚¯‚é<end_line>
+			æ³¨æ–‡å—ã‘ã‚‹<end_line>
 		</sjis>
     <ascii>
       Accept request?<end_line>
@@ -857,7 +861,7 @@
 	</title>
 	<option>
 		<sjis>
-			‚Í‚¢<end_line>
+			ã¯ã„<end_line>
 		</sjis>
     <ascii>
       Yes<end_line>
@@ -865,7 +869,7 @@
 	</option>
 	<option>
 		<sjis>
-			‚¢‚¢‚¦<end_line>
+			ã„ã„ãˆ<end_line>
 		</sjis>
     <ascii>
       No<end_line>
@@ -876,7 +880,7 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		‚Å‚«‚ ‚ª‚èAŠy‚µ‚Ý‚É‚µ‚Ä‚é‚æ<end_line>
+		ã§ãã‚ãŒã‚Šã€æ¥½ã—ã¿ã«ã—ã¦ã‚‹ã‚ˆ<end_line>
 	</sjis>
   <ascii>
     I'm looking forward to<end_line>
@@ -887,8 +891,8 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		<weapon_type>‚Á‚Ä‚¢‚¤<end_line>
-		ƒ\[ƒh‚¾‚¯‚Ç<three_dots>‚â‚Á‚Ï‚èA‚Å‚«‚È‚¢H<end_line>
+		<weapon_type>ã£ã¦ã„ã†<end_line>
+		ã‚½ãƒ¼ãƒ‰ã ã‘ã©<three_dots>ã‚„ã£ã±ã‚Šã€ã§ããªã„ï¼Ÿ<end_line>
 	</sjis>
   <ascii>
     About the <weapon_type> sword<three_dots><end_line>
@@ -899,13 +903,13 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		<weapon_type>‚ª‚¢‚é‚ç‚µ‚¢‚æ<end_line>
+		<weapon_type>ãŒã„ã‚‹ã‚‰ã—ã„ã‚ˆ<end_line>
 	</sjis>
 </dialogue>
 <menu>
 	<title>
 		<sjis>
-			’•¶Žó‚¯‚é<end_line>
+			æ³¨æ–‡å—ã‘ã‚‹<end_line>
 		</sjis>
     <ascii>
       Accept request?<end_line>
@@ -913,7 +917,7 @@
 	</title>
 	<option>
 		<sjis>
-			‚Í‚¢<end_line>
+			ã¯ã„<end_line>
 		</sjis>
     <ascii>
       Yes<end_line>
@@ -921,7 +925,7 @@
 	</option>
 	<option>
 		<sjis>
-			‚¢‚¢‚¦<end_line>
+			ã„ã„ãˆ<end_line>
 		</sjis>
     <ascii>
       No<end_line>
@@ -932,7 +936,7 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		‚Å‚«‚ ‚ª‚èAŠy‚µ‚Ý‚É‚µ‚Ä‚é‚æ<end_line>
+		ã§ãã‚ãŒã‚Šã€æ¥½ã—ã¿ã«ã—ã¦ã‚‹ã‚ˆ<end_line>
 	</sjis>
   <ascii>
     I'm looking forward to<end_line>
@@ -943,7 +947,7 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		‚Å‚«‚ ‚ª‚èAŠy‚µ‚Ý‚É‚µ‚Ä‚é‚æ<end_line>
+		ã§ãã‚ãŒã‚Šã€æ¥½ã—ã¿ã«ã—ã¦ã‚‹ã‚ˆ<end_line>
 	</sjis>
   <ascii>
     I'm looking forward to<end_line>
@@ -954,8 +958,8 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		‘ã‹à‚Ì‘ã‚í‚è‚É‚±‚ê‚Å‚¢‚¢‚æ‚Ë<end_line>
-		‚Ù‚çA‚Ü‚¾”¼l‘O‚Ì’b–èŽt‚ÌŽdŽ–‚¾‚µ<three_dots><end_line>
+		ä»£é‡‘ã®ä»£ã‚ã‚Šã«ã“ã‚Œã§ã„ã„ã‚ˆã­<end_line>
+		ã»ã‚‰ã€ã¾ã åŠäººå‰ã®é›å†¶å¸«ã®ä»•äº‹ã ã—<three_dots><end_line>
 	</sjis>
   <ascii>
     I'll give you this as payment.<end_line>
@@ -966,7 +970,7 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		‚Ü‚½A‚¢‚Â‚©—Š‚Þ‚æ<end_line>
+		ã¾ãŸã€ã„ã¤ã‹é ¼ã‚€ã‚ˆ<end_line>
 	</sjis>
   <ascii>
     I'll ask you again sometime.<end_line>
@@ -976,7 +980,7 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		‚Ü‚½A‚¢‚Â‚©—Š‚Þ‚æ<end_line>
+		ã¾ãŸã€ã„ã¤ã‹é ¼ã‚€ã‚ˆ<end_line>
 	</sjis>
   <ascii>
     I'll ask you again sometime.<end_line>
@@ -986,7 +990,7 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		ƒLƒ~A’b–èŽt‚È‚ñ‚¾‚Á‚ÄH<end_line>
+		ã‚­ãƒŸã€é›å†¶å¸«ãªã‚“ã ã£ã¦ï¼Ÿ<end_line>
 	</sjis>
   <ascii>
     Hey, aren't you a Craftknight?<end_line>
@@ -996,8 +1000,8 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		‚»‚ê‚¶‚á‚ <end_line>
-		•Ší‚ð’•¶‚µ‚½‚¢‚ñ‚¾‚¯‚Ç<end_line>
+		ãã‚Œã˜ã‚ƒã‚<end_line>
+		æ­¦å™¨ã‚’æ³¨æ–‡ã—ãŸã„ã‚“ã ã‘ã©<end_line>
 	</sjis>
   <ascii>
     Then,<end_line>
@@ -1008,8 +1012,8 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		<weapon_type>‚Á‚Ä‚¢‚¤<end_line>
-		ƒAƒNƒX‚ª—~‚µ‚¢‚ñ‚¾‚¯‚Ç<three_dots><end_line>
+		<weapon_type>ã£ã¦ã„ã†<end_line>
+		ã‚¢ã‚¯ã‚¹ãŒæ¬²ã—ã„ã‚“ã ã‘ã©<three_dots><end_line>
 	</sjis>
   <ascii>
     I'd like the <weapon_type> axe, but<three_dots><end_line>
@@ -1019,7 +1023,7 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		<weapon_type>‚ª‚¢‚é‚ç‚µ‚¢‚æ<end_line>
+		<weapon_type>ãŒã„ã‚‹ã‚‰ã—ã„ã‚ˆ<end_line>
 	</sjis>
   <ascii>
     It seems you'll need <weapon_type><end_line>
@@ -1028,7 +1032,7 @@
 <menu>
 	<title>
 		<sjis>
-			’•¶Žó‚¯‚é<end_line>
+			æ³¨æ–‡å—ã‘ã‚‹<end_line>
 		</sjis>
     <ascii>
       Accept request?<end_line>
@@ -1036,7 +1040,7 @@
 	</title>
 	<option>
 		<sjis>
-			‚Í‚¢<end_line>
+			ã¯ã„<end_line>
 		</sjis>
     <ascii>
       Yes<end_line>
@@ -1044,7 +1048,7 @@
 	</option>
 	<option>
 		<sjis>
-			‚¢‚¢‚¦<end_line>
+			ã„ã„ãˆ<end_line>
 		</sjis>
     <ascii>
       No<end_line>
@@ -1055,7 +1059,7 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		‚Å‚«‚ ‚ª‚èAŠy‚µ‚Ý‚É‚µ‚Ä‚é‚æ<end_line>
+		ã§ãã‚ãŒã‚Šã€æ¥½ã—ã¿ã«ã—ã¦ã‚‹ã‚ˆ<end_line>
 	</sjis>
   <ascii>
     I'm looking forward to<end_line>
@@ -1066,9 +1070,9 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		<weapon_type>‚Á‚Ä‚¢‚¤<end_line>
-		ƒAƒNƒX‚¾‚¯‚Ç<three_dots><end_line>
-		‚â‚Á‚Ï‚èA‚Å‚«‚È‚¢H<end_line>
+		<weapon_type>ã£ã¦ã„ã†<end_line>
+		ã‚¢ã‚¯ã‚¹ã ã‘ã©<three_dots><end_line>
+		ã‚„ã£ã±ã‚Šã€ã§ããªã„ï¼Ÿ<end_line>
 	</sjis>
   <ascii>
     About the <weapon_type> axe<three_dots><end_line>
@@ -1079,7 +1083,7 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		<weapon_type>‚ª‚¢‚é‚ç‚µ‚¢‚æ<end_line>
+		<weapon_type>ãŒã„ã‚‹ã‚‰ã—ã„ã‚ˆ<end_line>
 	</sjis>
   <ascii>
     It seems you'll need <weapon_type><end_line>
@@ -1088,7 +1092,7 @@
 <menu>
 	<title>
 		<sjis>
-			’•¶Žó‚¯‚é<end_line>
+			æ³¨æ–‡å—ã‘ã‚‹<end_line>
 		</sjis>
     <ascii>
       Accept request?<end_line>
@@ -1096,7 +1100,7 @@
 	</title>
 	<option>
 		<sjis>
-			‚Í‚¢<end_line>
+			ã¯ã„<end_line>
 		</sjis>
     <ascii>
       Yes<end_line>
@@ -1104,7 +1108,7 @@
 	</option>
 	<option>
 		<sjis>
-			‚¢‚¢‚¦<end_line>
+			ã„ã„ãˆ<end_line>
 		</sjis>
     <ascii>
       No<end_line>
@@ -1115,7 +1119,7 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		‚Å‚«‚ ‚ª‚èAŠy‚µ‚Ý‚É‚µ‚Ä‚é‚æ<end_line>
+		ã§ãã‚ãŒã‚Šã€æ¥½ã—ã¿ã«ã—ã¦ã‚‹ã‚ˆ<end_line>
 	</sjis>
   <ascii>
     I'm looking forward to<end_line>
@@ -1126,7 +1130,7 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		‚Å‚«‚ ‚ª‚èAŠy‚µ‚Ý‚É‚µ‚Ä‚é‚æ<end_line>
+		ã§ãã‚ãŒã‚Šã€æ¥½ã—ã¿ã«ã—ã¦ã‚‹ã‚ˆ<end_line>
 	</sjis>
   <ascii>
     I'm looking forward to<end_line>
@@ -1137,9 +1141,9 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		‚¤`‚ñA‚â‚Á‚Ï‚èA<end_line>
-		ƒMƒƒƒ‰ƒnƒ“‚³‚ñ‚Ì‚Æ”ä‚×‚é‚Æ<end_line>
-		‚·‚²‚Ý‚ª‘«‚è‚È‚¢‹C‚ª‚·‚é‚Ë<end_line>
+		ã†ï½žã‚“ã€ã‚„ã£ã±ã‚Šã€<end_line>
+		ã‚®ãƒ£ãƒ©ãƒãƒ³ã•ã‚“ã®ã¨æ¯”ã¹ã‚‹ã¨<end_line>
+		ã™ã”ã¿ãŒè¶³ã‚Šãªã„æ°—ãŒã™ã‚‹ã­<end_line>
 	</sjis>
   <ascii>
     Hmm, as I thought,<end_line>
@@ -1151,7 +1155,7 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		‘ã‹à‚Ì‘ã‚í‚èA‚±‚ê‚Å‚¢‚¢‚æ‚Ë<end_line>
+		ä»£é‡‘ã®ä»£ã‚ã‚Šã€ã“ã‚Œã§ã„ã„ã‚ˆã­<end_line>
 	</sjis>
   <ascii>
     Take this as payment.<end_line>
@@ -1161,8 +1165,8 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		‚Ü‚½A‹@‰ï‚ª‚ ‚ê‚Î<end_line>
-		‚¢‚Â‚©—Š‚Þ‚æ<end_line>
+		ã¾ãŸã€æ©Ÿä¼šãŒã‚ã‚Œã°<end_line>
+		ã„ã¤ã‹é ¼ã‚€ã‚ˆ<end_line>
 	</sjis>
   <ascii>
     If I have the chance,<end_line>
@@ -1173,8 +1177,8 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		‚Ü‚½A‹@‰ï‚ª‚ ‚ê‚Î<end_line>
-		‚¢‚Â‚©—Š‚Þ‚æ<end_line>
+		ã¾ãŸã€æ©Ÿä¼šãŒã‚ã‚Œã°<end_line>
+		ã„ã¤ã‹é ¼ã‚€ã‚ˆ<end_line>
 	</sjis>
   <ascii>
     If I have the chance,<end_line>
@@ -1185,7 +1189,7 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		•Ší‚ð’•¶‚µ‚½‚¢‚ñ‚¾‚¯‚Ç<end_line>
+		æ­¦å™¨ã‚’æ³¨æ–‡ã—ãŸã„ã‚“ã ã‘ã©<end_line>
 	</sjis>
   <ascii>
     I want to order a weapon.<end_line>
@@ -1195,8 +1199,8 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		<weapon_type>‚Á‚Ä‚¢‚¤<end_line>
-		ƒ\[ƒh‚ª—~‚µ‚¢‚ñ‚¾‚¯‚Ç<three_dots><end_line>
+		<weapon_type>ã£ã¦ã„ã†<end_line>
+		ã‚½ãƒ¼ãƒ‰ãŒæ¬²ã—ã„ã‚“ã ã‘ã©<three_dots><end_line>
 	</sjis>
   <ascii>
     I'd like the <weapon_type> sword, but<three_dots><end_line>
@@ -1206,7 +1210,7 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		<weapon_type>‚ª‚¢‚é‚ç‚µ‚¢‚æ<end_line>
+		<weapon_type>ãŒã„ã‚‹ã‚‰ã—ã„ã‚ˆ<end_line>
 	</sjis>
   <ascii>
     It seems you'll need <weapon_type>.<end_line>
@@ -1215,7 +1219,7 @@
 <menu>
 	<title>
 		<sjis>
-			’•¶Žó‚¯‚é<end_line>
+			æ³¨æ–‡å—ã‘ã‚‹<end_line>
 		</sjis>
     <ascii>
       Accept request?<end_line>
@@ -1223,7 +1227,7 @@
 	</title>
 	<option>
 		<sjis>
-			‚Í‚¢<end_line>
+			ã¯ã„<end_line>
 		</sjis>
     <ascii>
       Yes<end_line>
@@ -1231,7 +1235,7 @@
 	</option>
 	<option>
 		<sjis>
-			‚¢‚¢‚¦<end_line>
+			ã„ã„ãˆ<end_line>
 		</sjis>
     <ascii>
       No<end_line>
@@ -1242,7 +1246,7 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		‚Å‚«‚ ‚ª‚èAŠy‚µ‚Ý‚É‚µ‚Ä‚é‚æ<end_line>
+		ã§ãã‚ãŒã‚Šã€æ¥½ã—ã¿ã«ã—ã¦ã‚‹ã‚ˆ<end_line>
 	</sjis>
   <ascii>
     I'm looking forward to<end_line>
@@ -1253,9 +1257,9 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		<weapon_type>‚Á‚Ä‚¢‚¤<end_line>
-		ƒ\[ƒh‚¾‚¯‚Ç<three_dots><end_line>
-		‚â‚Á‚Ï‚èA‚Å‚«‚È‚¢H<end_line>
+		<weapon_type>ã£ã¦ã„ã†<end_line>
+		ã‚½ãƒ¼ãƒ‰ã ã‘ã©<three_dots><end_line>
+		ã‚„ã£ã±ã‚Šã€ã§ããªã„ï¼Ÿ<end_line>
 	</sjis>
   <ascii>
     About the <weapon_type> sword<three_dots><end_line>
@@ -1266,13 +1270,13 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		<weapon_type>‚ª‚¢‚é‚ç‚µ‚¢‚æ<end_line>
+		<weapon_type>ãŒã„ã‚‹ã‚‰ã—ã„ã‚ˆ<end_line>
 	</sjis>
 </dialogue>
 <menu>
 	<title>
 		<sjis>
-			’•¶Žó‚¯‚é<end_line>
+			æ³¨æ–‡å—ã‘ã‚‹<end_line>
 		</sjis>
     <ascii>
       Accept request?<end_line>
@@ -1280,7 +1284,7 @@
 	</title>
 	<option>
 		<sjis>
-			‚Í‚¢<end_line>
+			ã¯ã„<end_line>
 		</sjis>
     <ascii>
       Yes<end_line>
@@ -1288,7 +1292,7 @@
 	</option>
 	<option>
 		<sjis>
-			‚¢‚¢‚¦<end_line>
+			ã„ã„ãˆ<end_line>
 		</sjis>
     <ascii>
       No<end_line>
@@ -1299,7 +1303,7 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		‚Å‚«‚ ‚ª‚èAŠy‚µ‚Ý‚É‚µ‚Ä‚é‚æ<end_line>
+		ã§ãã‚ãŒã‚Šã€æ¥½ã—ã¿ã«ã—ã¦ã‚‹ã‚ˆ<end_line>
 	</sjis>
   <ascii>
     I'm looking forward to<end_line>
@@ -1310,7 +1314,7 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		‚Å‚«‚ ‚ª‚èAŠy‚µ‚Ý‚É‚µ‚Ä‚é‚æ<end_line>
+		ã§ãã‚ãŒã‚Šã€æ¥½ã—ã¿ã«ã—ã¦ã‚‹ã‚ˆ<end_line>
 	</sjis>
    <ascii>
     I'm looking forward to<end_line>
@@ -1321,7 +1325,7 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		‚Í‚¢A‘ã‹à‚ª‚í‚è‚ÉA‚±‚ê<end_line>
+		ã¯ã„ã€ä»£é‡‘ãŒã‚ã‚Šã«ã€ã“ã‚Œ<end_line>
 	</sjis>
   <ascii>
     Here, your reward.<end_line>
@@ -1331,7 +1335,7 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		‚Ü‚½A‚¢‚Â‚©—Š‚Þ‚æ<end_line>
+		ã¾ãŸã€ã„ã¤ã‹é ¼ã‚€ã‚ˆ<end_line>
 	</sjis>
   <ascii>
     I'll ask you again sometime.<end_line>
@@ -1341,7 +1345,7 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		‚Ü‚½A‚¢‚Â‚©—Š‚Þ‚æ<end_line>
+		ã¾ãŸã€ã„ã¤ã‹é ¼ã‚€ã‚ˆ<end_line>
 	</sjis>
   <ascii>
     I'll ask you again sometime.<end_line>
@@ -1351,7 +1355,7 @@
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		•Ší‚ð’•¶‚µ‚½‚¢‚ñ‚¾‚¯‚Ç<end_line>
+		æ­¦å™¨ã‚’æ³¨æ–‡ã—ãŸã„ã‚“ã ã‘ã©<end_line>
 	</sjis>
   <ascii>
     I'd like to order a weapon.<end_line>
@@ -1361,8 +1365,8 @@
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		<weapon_type>‚Á‚Ä‚¢‚¤ƒXƒsƒA‚ª<end_line>
-		—~‚µ‚¢‚ñ‚¾‚¯‚Ç<three_dots><end_line>
+		<weapon_type>ã£ã¦ã„ã†ã‚¹ãƒ”ã‚¢ãŒ<end_line>
+		æ¬²ã—ã„ã‚“ã ã‘ã©<three_dots><end_line>
 	</sjis>
   <ascii>
     I'd like the <weapon_type> spear, but<three_dots><end_line>
@@ -1372,7 +1376,7 @@
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		<weapon_type>‚ª•K—v‚æ<end_line>
+		<weapon_type>ãŒå¿…è¦ã‚ˆ<end_line>
 	</sjis>
   <ascii>
     You need <weapon_type>.<end_line>
@@ -1381,7 +1385,7 @@
 <menu>
 	<title>
 		<sjis>
-			’•¶Žó‚¯‚é<end_line>
+			æ³¨æ–‡å—ã‘ã‚‹<end_line>
 		</sjis>
     <ascii>
       Accept request?<end_line>
@@ -1389,7 +1393,7 @@
 	</title>
 	<option>
 		<sjis>
-			‚Í‚¢<end_line>
+			ã¯ã„<end_line>
 		</sjis>
     <ascii>
       Yes<end_line>
@@ -1397,7 +1401,7 @@
 	</option>
 	<option>
 		<sjis>
-			‚¢‚¢‚¦<end_line>
+			ã„ã„ãˆ<end_line>
 		</sjis>
     <ascii>
       No<end_line>
@@ -1408,7 +1412,7 @@
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		‚Å‚«‚ ‚ª‚èAŠy‚µ‚Ý‚É‚µ‚Ä‚é‚í<end_line>
+		ã§ãã‚ãŒã‚Šã€æ¥½ã—ã¿ã«ã—ã¦ã‚‹ã‚<end_line>
 	</sjis>
   <ascii>
     I'm looking forward to<end_line>
@@ -1419,8 +1423,8 @@
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		<weapon_type>‚Á‚Ä‚¢‚¤A‚¾‚¯‚Ç<three_dots><end_line>
-		‚â‚Á‚Ï‚èA‚Å‚«‚È‚¢H<end_line>
+		<weapon_type>ã£ã¦ã„ã†ã€ã ã‘ã©<three_dots><end_line>
+		ã‚„ã£ã±ã‚Šã€ã§ããªã„ï¼Ÿ<end_line>
 	</sjis>
   <ascii>
     About the <weapon_type><three_dots><end_line>
@@ -1431,7 +1435,7 @@
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		<weapon_type>‚ª•K—v‚æ<end_line>
+		<weapon_type>ãŒå¿…è¦ã‚ˆ<end_line>
 	</sjis>
   <ascii>
     You'll need <weapon_type>.<end_line>
@@ -1440,7 +1444,7 @@
 <menu>
 	<title>
 		<sjis>
-			’•¶Žó‚¯‚é<end_line>
+			æ³¨æ–‡å—ã‘ã‚‹<end_line>
 		</sjis>
     <ascii>
       Accept request?<end_line>
@@ -1448,7 +1452,7 @@
 	</title>
 	<option>
 		<sjis>
-			‚Í‚¢<end_line>
+			ã¯ã„<end_line>
 		</sjis>
     <ascii>
       Yes<end_line>
@@ -1456,7 +1460,7 @@
 	</option>
 	<option>
 		<sjis>
-			‚¢‚¢‚¦<end_line>
+			ã„ã„ãˆ<end_line>
 		</sjis>
     <ascii>
       No<end_line>
@@ -1467,7 +1471,7 @@
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		‚Å‚«‚ ‚ª‚èAŠy‚µ‚Ý‚É‚µ‚Ä‚é‚í<end_line>
+		ã§ãã‚ãŒã‚Šã€æ¥½ã—ã¿ã«ã—ã¦ã‚‹ã‚<end_line>
 	</sjis>
   <ascii>
     I'm looking forward to<end_line>
@@ -1478,7 +1482,7 @@
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		‚Å‚«‚ ‚ª‚èAŠy‚µ‚Ý‚É‚µ‚Ä‚é‚í<end_line>
+		ã§ãã‚ãŒã‚Šã€æ¥½ã—ã¿ã«ã—ã¦ã‚‹ã‚<end_line>
 	</sjis>
   <ascii>
     I'm looking forward to<end_line>
@@ -1489,20 +1493,20 @@
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		‘ã‹à‚Ì‘ã‚í‚è‚É‚±‚ê‚Å‚¢‚¢‚í‚æ‚Ë<end_line>
-		¡A‚¿‚å‚Á‚Æ<three_dots><three_dots>ƒSƒjƒ‡ƒSƒjƒ‡<end_line>
+		ä»£é‡‘ã®ä»£ã‚ã‚Šã«ã“ã‚Œã§ã„ã„ã‚ã‚ˆã­<end_line>
+		ä»Šã€ã¡ã‚‡ã£ã¨<three_dots><three_dots>ã‚´ãƒ‹ãƒ§ã‚´ãƒ‹ãƒ§<end_line>
 	</sjis>
   <ascii>
-    This is fine instead of money, right?<end_line>
-    Right now kind of<three_dots><three_dots><end_line>
+    Would you accept this?<end_line>
+    I'm tight on cash right now<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		‚â‚Á‚Ï‚è‰£‚Á‚½‚Ì‚Í<end_line>
-		•s–¡‚©‚Á‚½‚©‚µ‚ç<three_dots><end_line>
+		ã‚„ã£ã±ã‚Šæ®´ã£ãŸã®ã¯<end_line>
+		ä¸å‘³ã‹ã£ãŸã‹ã—ã‚‰<three_dots><end_line>
 	</sjis>
   <ascii>
     Maybe hitting him<end_line>
@@ -1513,7 +1517,7 @@
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		‚Ü‚½A‚¢‚Â‚©‚Ë<end_line>
+		ã¾ãŸã€ã„ã¤ã‹ã­<end_line>
 	</sjis>
   <ascii>
     Well, some other time then.<end_line>
@@ -1523,7 +1527,7 @@
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		‚Ü‚½A‚¢‚Â‚©‚Ë<end_line>
+		ã¾ãŸã€ã„ã¤ã‹ã­<end_line>
 	</sjis>
   <ascii>
     Well, some other time then.<end_line>
@@ -1533,7 +1537,7 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		•Ší‚ð’•¶‚µ‚½‚¢‚ñ‚¾‚¯‚Ç<end_line>
+		æ­¦å™¨ã‚’æ³¨æ–‡ã—ãŸã„ã‚“ã ã‘ã©<end_line>
 	</sjis>
   <ascii>
     I'd like to order a weapon.<end_line>
@@ -1543,8 +1547,8 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		<weapon_type>‚Á‚Ä‚¢‚¤<end_line>
-		ƒhƒŠƒ‹‚ª—~‚µ‚¢‚ñ‚¾‚¯‚Ç<three_dots><end_line>
+		<weapon_type>ã£ã¦ã„ã†<end_line>
+		ãƒ‰ãƒªãƒ«ãŒæ¬²ã—ã„ã‚“ã ã‘ã©<three_dots><end_line>
 	</sjis>
   <ascii>
     I'd like the <weapon_type> drill, but<three_dots><end_line>
@@ -1554,7 +1558,7 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		<weapon_type>‚ª‚¢‚é‚ç‚µ‚¢‚æ<end_line>
+		<weapon_type>ãŒã„ã‚‹ã‚‰ã—ã„ã‚ˆ<end_line>
 	</sjis>
   <ascii>
     It seems you'll need <weapon_type>.<end_line>
@@ -1563,7 +1567,7 @@
 <menu>
 	<title>
 		<sjis>
-			’•¶Žó‚¯‚é<end_line>
+			æ³¨æ–‡å—ã‘ã‚‹<end_line>
 		</sjis>
     <ascii>
       Accept request?<end_line>
@@ -1571,7 +1575,7 @@
 	</title>
 	<option>
 		<sjis>
-			‚Í‚¢<end_line>
+			ã¯ã„<end_line>
 		</sjis>
     <ascii>
       Yes<end_line>
@@ -1579,7 +1583,7 @@
 	</option>
 	<option>
 		<sjis>
-			‚¢‚¢‚¦<end_line>
+			ã„ã„ãˆ<end_line>
 		</sjis>
     <ascii>
       No<end_line>
@@ -1590,7 +1594,7 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		‚Å‚«‚ ‚ª‚èAŠy‚µ‚Ý‚É‚µ‚Ä‚é‚æ<end_line>
+		ã§ãã‚ãŒã‚Šã€æ¥½ã—ã¿ã«ã—ã¦ã‚‹ã‚ˆ<end_line>
 	</sjis>
   <ascii>
     I'm looking forward to<end_line>
@@ -1601,9 +1605,9 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		<weapon_type>‚Á‚Ä‚¢‚¤<end_line>
-		ƒhƒŠƒ‹‚¾‚¯‚Ç<three_dots><end_line>
-		‚â‚Á‚Ï‚èA‚Å‚«‚È‚¢H<end_line>
+		<weapon_type>ã£ã¦ã„ã†<end_line>
+		ãƒ‰ãƒªãƒ«ã ã‘ã©<three_dots><end_line>
+		ã‚„ã£ã±ã‚Šã€ã§ããªã„ï¼Ÿ<end_line>
 	</sjis>
   <ascii>
     About the <weapon_type> drill<three_dots><end_line>
@@ -1614,13 +1618,13 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		<weapon_type>‚ª‚¢‚é‚ç‚µ‚¢‚æ<end_line>
+		<weapon_type>ãŒã„ã‚‹ã‚‰ã—ã„ã‚ˆ<end_line>
 	</sjis>
 </dialogue>
 <menu>
 	<title>
 		<sjis>
-			’•¶Žó‚¯‚é<end_line>
+			æ³¨æ–‡å—ã‘ã‚‹<end_line>
 		</sjis>
     <ascii>
       Accept request?<end_line>
@@ -1628,7 +1632,7 @@
 	</title>
 	<option>
 		<sjis>
-			‚Í‚¢<end_line>
+			ã¯ã„<end_line>
 		</sjis>
     <ascii>
       Yes<end_line>
@@ -1636,7 +1640,7 @@
 	</option>
 	<option>
 		<sjis>
-			‚¢‚¢‚¦<end_line>
+			ã„ã„ãˆ<end_line>
 		</sjis>
     <ascii>
       No<end_line>
@@ -1647,7 +1651,7 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		‚Å‚«‚ ‚ª‚èAŠy‚µ‚Ý‚É‚µ‚Ä‚é‚æ<end_line>
+		ã§ãã‚ãŒã‚Šã€æ¥½ã—ã¿ã«ã—ã¦ã‚‹ã‚ˆ<end_line>
 	</sjis>
   <ascii>
     I'm looking forward to<end_line>
@@ -1658,7 +1662,7 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		‚Å‚«‚ ‚ª‚èAŠy‚µ‚Ý‚É‚µ‚Ä‚é‚æ<end_line>
+		ã§ãã‚ãŒã‚Šã€æ¥½ã—ã¿ã«ã—ã¦ã‚‹ã‚ˆ<end_line>
 	</sjis>
   <ascii>
     I'm looking forward to<end_line>
@@ -1669,7 +1673,7 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		‚Í‚¢A•ñV‚Í‚±‚ê‚Å<end_line>
+		ã¯ã„ã€å ±é…¬ã¯ã“ã‚Œã§<end_line>
 	</sjis>
   <ascii>
     Here, your reward.<end_line>
@@ -1679,7 +1683,7 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		‚Ü‚½A‚¢‚Â‚©—Š‚Þ‚æ<end_line>
+		ã¾ãŸã€ã„ã¤ã‹é ¼ã‚€ã‚ˆ<end_line>
 	</sjis>
   <ascii>
     I'll ask you again sometime.<end_line>
@@ -1689,7 +1693,7 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		‚Ü‚½A‚¢‚Â‚©—Š‚Þ‚æ<end_line>
+		ã¾ãŸã€ã„ã¤ã‹é ¼ã‚€ã‚ˆ<end_line>
 	</sjis>
   <ascii>
     I'll ask you again sometime.<end_line>
@@ -1698,7 +1702,7 @@
 <menu>
 	<title>
 		<sjis>
-			’•¶Žó‚¯‚é<end_line>
+			æ³¨æ–‡å—ã‘ã‚‹<end_line>
 		</sjis>
     <ascii>
       Accept request?<end_line>
@@ -1706,7 +1710,7 @@
 	</title>
 	<option>
 		<sjis>
-			‚Í‚¢<end_line>
+			ã¯ã„<end_line>
 		</sjis>
     <ascii>
       Yes<end_line>
@@ -1714,7 +1718,7 @@
 	</option>
 	<option>
 		<sjis>
-			‚¢‚¢‚¦<end_line>
+			ã„ã„ãˆ<end_line>
 		</sjis>
     <ascii>
       No<end_line>

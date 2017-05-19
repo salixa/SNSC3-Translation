@@ -237,7 +237,7 @@
   </female>
   <ascii>
     What the<three_dots> Awwww<three_dots>!<end_line>
-    You just can't get excited for anything!<end_line>
+    You don't get excited for anything!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -321,7 +321,7 @@
     その程度の成果ではない！<end_line>
   </sjis>
   <ascii>
-    I wasn't referring to fruits that small!<end_line>
+    I meant the weapon!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -757,9 +757,9 @@
     起きてきてもらわないとな<end_line>
   </sjis>
   <ascii>
-    Jeez, well I guess there's no choice<three_dots><end_line>
-    It's getting late now,<end_line>
-    so someone has to wake her up.<end_line>
+    Persistent aren't you<three_dots><end_line>
+    Well, it's about time<end_line>
+    to wake her up anyway.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -788,7 +788,7 @@
   <ascii>
     <player_nickname>,<end_line>
     you should go too.<end_line>
-  <ascii>
+  </ascii>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -922,9 +922,9 @@
     起きてきてもらわないとな<end_line>
   </sjis>
   <ascii>
-    Jeez, well I guess there's no choice<three_dots><end_line>
-    It's getting late now,<end_line>
-    so someone has to wake her up.<end_line>
+    Persistent aren't you<three_dots><end_line>
+    Well, it's about time<end_line>
+    to wake her up anyway.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1024,7 +1024,7 @@
     では、許してやるかの<end_line>
   </sjis>
   <ascii>
-    I understand. Your reasoning is sound.<end_line>
+    I see. Your reasoning is sound.<end_line>
     Well then, let us leave.<end_line>
   </ascii>
 </dialogue>
@@ -1083,9 +1083,9 @@
     起きてきてもらわないとな<end_line>
   </sjis>
   <ascii>
-    Well~, I guess it can't be helped<three_dots><end_line>
-    It's getting pretty late,<end_line>
-    so someone has to wake her up.<end_line>
+    Persistent aren't you<three_dots><end_line>
+    Well, it's about time<end_line>
+    to wake her up anyway.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1256,9 +1256,9 @@
     起きてきてもらわないとな<end_line>
   </sjis>
   <ascii>
-    Well, I guess it can't be helped<three_dots><end_line>
-    It is getting late,<end_line>
-    and someone has to go wake her up.<end_line>
+    Persistent aren't you<three_dots><end_line>
+    Well, it's about time<end_line>
+    to wake her up anyway.<end_line>
   </ascii>
 </dialogue>
 <dialogue>

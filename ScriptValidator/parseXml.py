@@ -22,6 +22,7 @@ def replacePseudoXml(bytes):
   bytes = bytes.replace(constants.PARTNER_OPEN, constants.PARTNER_CLOSED)
   bytes = bytes.replace(constants.WEAPON_TYPE_OPEN, constants.WEAPON_TYPE_CLOSED)
   bytes = bytes.replace(constants.BREAK_OPEN, constants.BREAK_CLOSED)
+  bytes = bytes.replace(constants.QUOTE_OPEN, constants.QUOTE_CLOSED)
 
   return bytes
 

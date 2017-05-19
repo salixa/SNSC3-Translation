@@ -20,6 +20,8 @@ WEAPON_TYPE_OPEN = str.encode('<weapon_type>')
 WEAPON_TYPE_CLOSED = str.encode('<weapon_type/>')
 BREAK_OPEN = str.encode('<break>')
 BREAK_CLOSED = str.encode('<break/>')
+QUOTE_OPEN = str.encode('<quote>')
+QUOTE_CLOSED = str.encode('<quote/>')
 
 NEWLINE = str.encode('\n')
 PLAYER_LINE = str.encode('<player ')

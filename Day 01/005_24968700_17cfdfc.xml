@@ -115,7 +115,7 @@
       もう<three_dots>！<end_line>
     </sjis>
     <ascii>
-      Wait a minute<three_dots>Hey!<three_dots>
+      Wait a minute<three_dots>Hey!<end_line>
       Jeez<three_dots>!<end_line>
     </ascii>
   </female>
@@ -144,7 +144,7 @@
   <ascii>
     What's wrong!?<end_line>
     Murno!<end_line>
-  <ascii>
+  </ascii>
 </dialogue>
 <dialogue>
   <partner name="killfith">

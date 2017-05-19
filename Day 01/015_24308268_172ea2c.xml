@@ -1,15 +1,15 @@
 <location>
   <sjis>
-    �f�B�b�N�����@�ނ�l�̒r<end_line>
+    ディックル村　釣り人の池<end_line>
   </sjis>
 </location>
 <dialogue>
   <info box="simple">
   <portrait_l name="child">
   <sjis>
-    ���̊O�ɂ́A�͂��ꂪ<end_line>
-    �����ς����邩��<end_line>
-    �o���Ⴂ���Ȃ��񂾂�<end_line>
+    村の外には、はぐれが<end_line>
+    いっぱいいるから<end_line>
+    出ちゃいけないんだよ<end_line>
   </sjis>
   <ascii>
     There's a lot of Strays<end_line>

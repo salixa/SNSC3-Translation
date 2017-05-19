@@ -618,8 +618,8 @@
   </sjis>
   <ascii>
     A-About that<three_dots><end_line>
-    Running with such force would of course<end_line>
-    cause a bridge like this to<three_dots><end_line>
+    Running with such force would of<end_line>
+    course cause a bridge like this to<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -642,7 +642,7 @@
   <ascii>
     I don't want to hear any excuses!<end_line>
     That's so lame!<end_line>
-  <ascii>
+  </ascii>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -990,7 +990,7 @@
   <ascii>
     I don't want to hear any excuses!<end_line>
     That's so lame!<end_line>
-  <ascii>
+  </ascii>
 </dialogue>
 <dialogue>
   <partner name="rufeel">

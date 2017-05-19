@@ -17,7 +17,7 @@
     </sjis>
   </female>
   <ascii>
-    Your attacks didn't work<three_dots>
+    Your attacks didn't work<three_dots><end_line>
     THAT was a stray<three_dots>?<end_line>
     Are you alright, <partner>?<end_line>
   </ascii>
@@ -230,7 +230,7 @@
     <sjis>
       何！？<end_line>
       誰かが橋から落ちた！？<end_line>
-    </ascii>
+    </sjis>
   </female>
   <ascii>
     What was that?<end_line>
@@ -620,7 +620,7 @@
   </female>
   <ascii>
     Nah, we're partners,<end_line>
-    so helping each other is natural!<end_line>  
+    so helping each other is natural!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -959,7 +959,7 @@
     絶対にザックって少年ですわ<end_line>
   </sjis>
   <ascii>
-    That voice<three_dots>
+    That voice<three_dots><end_line>
     I am certain that was Zakk.<end_line>
   </ascii>
 </dialogue>

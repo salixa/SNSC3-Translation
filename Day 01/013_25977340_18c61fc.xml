@@ -1,9 +1,8 @@
-#118
 <dialogue>
   <info box="simple">
   <portrait_l name="elderly">
   <sjis>
-    <weapon_type>‚ª—~‚µ‚¢‚Ì‚¤<end_line>
+    <weapon_type>ãŒæ¬²ã—ã„ã®ã†<end_line>
   </sjis>
   <ascii>
     I want <weapon_type>.<end_line>
@@ -13,8 +12,8 @@
   <info box="simple">
   <portrait_l name="elderly">
   <sjis>
-    ‚¨‚Ê‚µ‚ªŽ‚Á‚Ä‚¢‚é<end_line>
-    ‚»‚Ì<weapon_type>‚Æ<end_line>
+    ãŠã¬ã—ãŒæŒã£ã¦ã„ã‚‹<end_line>
+    ãã®<weapon_type>ã¨<end_line>
   </sjis>
   <ascii>
     That <weapon_type> you have,<end_line>
@@ -24,8 +23,8 @@
   <info box="simple">
   <portrait_l name="elderly">
   <sjis>
-    <weapon_type>‚ð<end_line>
-    ŒðŠ·‚µ‚Ä‚­‚ê‚Ê‚©‚Ì‚¤<end_line>
+    <weapon_type>ã‚’<end_line>
+    äº¤æ›ã—ã¦ãã‚Œã¬ã‹ã®ã†<end_line>
   </sjis>
   <ascii>
     will you trade for this <weapon_type>?<end_line>
@@ -34,7 +33,7 @@
 <menu>
   <title>
     <sjis>
-      ŒðŠ·‚µ‚Ü‚·‚©<end_line>
+      äº¤æ›ã—ã¾ã™ã‹<end_line>
     </sjis>
     <ascii>
       Trade?<end_line>
@@ -42,7 +41,7 @@
   </title>
   <option>
     <sjis>
-      ‚·‚é<end_line>
+      ã™ã‚‹<end_line>
     </sjis>
     <ascii>
       Yes<end_line>
@@ -50,7 +49,7 @@
   </option>
   <option>
     <sjis>
-      ‚µ‚È‚¢<end_line>
+      ã—ãªã„<end_line>
     </sjis>
     <ascii>
       No<end_line>
@@ -61,7 +60,7 @@
   <info box="simple">
   <portrait_l name="elderly">
   <sjis>
-    ‚Ù‚ñ‚ÉAƒGƒG‚à‚ñA‚ ‚è‚ª‚½‚¢‚Ì‚¤<end_line>
+    ã»ã‚“ã«ã€ã‚¨ã‚¨ã‚‚ã‚“ã€ã‚ã‚ŠãŒãŸã„ã®ã†<end_line>
   </sjis>
   <ascii>
     Thanks for this.<end_line>
@@ -71,7 +70,7 @@
   <info box="simple">
   <portrait_l name="elderly">
   <sjis>
-    ‚Ù‚ñ‚ÉAƒGƒG‚à‚ñA‚ ‚è‚ª‚½‚¢‚Ì‚¤<end_line>
+    ã»ã‚“ã«ã€ã‚¨ã‚¨ã‚‚ã‚“ã€ã‚ã‚ŠãŒãŸã„ã®ã†<end_line>
   </sjis>
   <ascii>
     Thanks for this.<end_line>
@@ -81,7 +80,7 @@
   <info box="simple">
   <portrait_l name="child">
   <sjis>
-    <weapon_type>A<end_line>
+    <weapon_type>ã€<end_line>
     <weapon_type><three_dots><end_line>
   </sjis>
   <ascii>
@@ -93,7 +92,7 @@
   <info box="simple">
   <portrait_l name="child">
   <sjis>
-    ‚»‚Ì<weapon_type>‚Æ<end_line>
+    ãã®<weapon_type>ã¨<end_line>
   </sjis>
   <ascii>
     Will you trade your<weapon_type><end_line>
@@ -103,8 +102,8 @@
   <info box="simple">
   <portrait_l name="child">
   <sjis>
-    ƒ{ƒN‚Ì<weapon_type><end_line>
-    ‚©‚¦‚Á‚±‚µ‚È‚¢H<end_line>
+    ãƒœã‚¯ã®<weapon_type><end_line>
+    ã‹ãˆã£ã“ã—ãªã„ï¼Ÿ<end_line>
   </sjis>
   <ascii>
     for my <weapon_type>?<end_line>
@@ -113,7 +112,7 @@
 <menu>
   <title>
     <sjis>
-      ŒðŠ·‚µ‚Ü‚·‚©<end_line>
+      äº¤æ›ã—ã¾ã™ã‹<end_line>
     </sjis>
     <ascii>
       Trade?<end_line>
@@ -121,7 +120,7 @@
   </title>
   <option>
     <sjis>
-      ‚·‚é<end_line>
+      ã™ã‚‹<end_line>
     </sjis>
     <ascii>
       Yes<end_line>
@@ -129,7 +128,7 @@
   </option>
   <option>
     <sjis>
-      ‚µ‚È‚¢<end_line>
+      ã—ãªã„<end_line>
     </sjis>
     <ascii>
       No<end_line>
@@ -140,7 +139,7 @@
   <info box="simple">
   <portrait_l name="child">
   <sjis>
-    ‚¢‚µ‚µ<three_dots>Aâ‘Îƒ{ƒN‚ÌŸ‚¿<end_line>
+    ã„ã—ã—<three_dots>ã€çµ¶å¯¾ãƒœã‚¯ã®å‹ã¡<end_line>
   </sjis>
   <ascii>
     Heheh<three_dots> It's my victory.<end_line>
@@ -150,7 +149,7 @@
   <info box="simple">
   <portrait_l name="child">
   <sjis>
-    ‚¢‚µ‚µ<three_dots>Aâ‘Îƒ{ƒN‚ÌŸ‚¿<end_line>
+    ã„ã—ã—<three_dots>ã€çµ¶å¯¾ãƒœã‚¯ã®å‹ã¡<end_line>
   </sjis>
   <ascii>
     Heheh<three_dots> It's my victory.<end_line>
@@ -160,8 +159,8 @@
   <info box="simple">
   <portrait_l name="woman">
   <sjis>
-    ‚Ç‚±‚©‚É<weapon_type><end_line>
-    Ž‚Á‚Ä‚¢‚él‚¢‚È‚¢‚©‚µ‚ç<end_line>
+    ã©ã“ã‹ã«<weapon_type><end_line>
+    æŒã£ã¦ã„ã‚‹äººã„ãªã„ã‹ã—ã‚‰<end_line>
   </sjis>
   <ascii>
     I wonder if there's anyone<end_line>
@@ -172,8 +171,8 @@
   <info box="simple">
   <portrait_l name="woman">
   <sjis>
-    ‚Ë‚¥A‚«‚Ý‚ªŽ‚Á‚Ä‚¢‚é<end_line>
-    ‚»‚Ì<weapon_type>‚Æ<end_line>
+    ã­ã‡ã€ãã¿ãŒæŒã£ã¦ã„ã‚‹<end_line>
+    ãã®<weapon_type>ã¨<end_line>
   </sjis>
   <ascii>
     Hey, would like to trade<end_line>
@@ -184,8 +183,8 @@
   <info box="simple">
   <portrait_l name="woman">
   <sjis>
-    ƒƒ^ƒV‚Ì<weapon_type>‚ð<end_line>
-    ŒðŠ·‚µ‚È‚¢H<end_line>
+    ãƒ¯ã‚¿ã‚·ã®<weapon_type>ã‚’<end_line>
+    äº¤æ›ã—ãªã„ï¼Ÿ<end_line>
   </sjis>
   <ascii>
     for my <weapon_type>?<end_line>
@@ -194,7 +193,7 @@
 <menu>
   <title>
     <sjis>
-      ŒðŠ·‚µ‚Ü‚·‚©<end_line>
+      äº¤æ›ã—ã¾ã™ã‹<end_line>
     </sjis>
     <ascii>
       Trade?<end_line>
@@ -202,7 +201,7 @@
   </title>
   <option>
     <sjis>
-      ‚·‚é<end_line>
+      ã™ã‚‹<end_line>
     </sjis>
     <ascii>
       Yes<end_line>
@@ -210,7 +209,7 @@
   </option>
   <option>
     <sjis>
-      ‚µ‚È‚¢<end_line>
+      ã—ãªã„<end_line>
     </sjis>
     <ascii>
       No<end_line>
@@ -221,7 +220,7 @@
   <info box="simple">
   <portrait_l name="woman">
   <sjis>
-    ‚¿‚å‚Á‚ÆA‘¹‚µ‚½‹C‚ª‚·‚é‚í<end_line>
+    ã¡ã‚‡ã£ã¨ã€æã—ãŸæ°—ãŒã™ã‚‹ã‚<end_line>
   </sjis>
   <ascii>
     It kinda feels like I've lost.<end_line>
@@ -231,7 +230,7 @@
   <info box="simple">
   <portrait_l name="woman">
   <sjis>
-    ‚¿‚å‚Á‚ÆA‘¹‚µ‚½‹C‚ª‚·‚é‚í<end_line>
+    ã¡ã‚‡ã£ã¨ã€æã—ãŸæ°—ãŒã™ã‚‹ã‚<end_line>
   </sjis>
   <ascii>
     It kinda feels like I've lost.<end_line>
@@ -241,8 +240,8 @@
   <info box="simple">
   <portrait_l name="child">
   <sjis>
-    ‚Ë‚¥A<weapon_type><end_line>
-    Ž‚Á‚Ä‚È‚¢H<end_line>
+    ã­ã‡ã€<weapon_type><end_line>
+    æŒã£ã¦ãªã„ï¼Ÿ<end_line>
   </sjis>
   <ascii>
     Hey, do you have <weapon_type>?<end_line>
@@ -252,7 +251,7 @@
   <info box="simple">
   <portrait_l name="child">
   <sjis>
-    ‚Ë‚¥A‚»‚Ì<weapon_type>‚Æ<end_line>
+    ã­ã‡ã€ãã®<weapon_type>ã¨<end_line>
   </sjis>
   <ascii>
     Hey, want to trade your <weapon_type><end_line>
@@ -262,8 +261,8 @@
   <info box="simple">
   <portrait_l name="child">
   <sjis>
-    ƒƒ^ƒV‚Ì<weapon_type>A<end_line>
-    ŒðŠ·‚µ‚Ä‚æH<end_line>
+    ãƒ¯ã‚¿ã‚·ã®<weapon_type>ã€<end_line>
+    äº¤æ›ã—ã¦ã‚ˆï¼Ÿ<end_line>
   </sjis>
   <ascii>
     for my <weapon_type>?<end_line>
@@ -272,7 +271,7 @@
 <menu>
   <title>
     <sjis>
-      ŒðŠ·‚µ‚Ü‚·‚©<end_line>
+      äº¤æ›ã—ã¾ã™ã‹<end_line>
     </sjis>
     <ascii>
       Trade?<end_line>
@@ -280,7 +279,7 @@
   </title>
   <option>
     <sjis>
-      ‚·‚é<end_line>
+      ã™ã‚‹<end_line>
     </sjis>
     <ascii>
       Yes<end_line>
@@ -288,7 +287,7 @@
   </option>
   <option>
     <sjis>
-      ‚µ‚È‚¢<end_line>
+      ã—ãªã„<end_line>
     </sjis>
     <ascii>
       No<end_line>
@@ -299,8 +298,8 @@
   <info box="simple">
   <portrait_l name="child">
   <sjis>
-    ‚±‚ê‚ªA—~‚µ‚©‚Á‚½‚Ì‚æ<end_line>
-    ‘¹‚µ‚Ä‚È‚¢‚©‚ç<end_line>
+    ã“ã‚ŒãŒã€æ¬²ã—ã‹ã£ãŸã®ã‚ˆ<end_line>
+    æã—ã¦ãªã„ã‹ã‚‰<end_line>
   </sjis>
   <ascii>
     I've wanted this.<end_line>
@@ -310,8 +309,8 @@
   <info box="simple">
   <portrait_l name="child">
   <sjis>
-    ‚±‚ê‚ªA—~‚µ‚©‚Á‚½‚Ì‚æ<end_line>
-    ‘¹‚µ‚Ä‚È‚¢‚©‚ç<end_line>
+    ã“ã‚ŒãŒã€æ¬²ã—ã‹ã£ãŸã®ã‚ˆ<end_line>
+    æã—ã¦ãªã„ã‹ã‚‰<end_line>
   </sjis>
   <ascii>
     I've wanted this.<end_line>
@@ -321,8 +320,8 @@
   <info box="simple">
   <portrait_l name="gatekeeper">
   <sjis>
-    ‚Ç‚±‚©‚É<weapon_type><end_line>
-    Ž‚Á‚Ä‚¢‚él‚¢‚È‚¢‚©‚È<end_line>
+    ã©ã“ã‹ã«<weapon_type><end_line>
+    æŒã£ã¦ã„ã‚‹äººã„ãªã„ã‹ãª<end_line>
   </sjis>
     <ascii>
     I wonder if there's anyone<end_line>
@@ -333,8 +332,8 @@
   <info box="simple">
   <portrait_l name="gatekeeper">
   <sjis>
-    ‚«‚Ý‚ªŽ‚Á‚Ä‚¢‚é<end_line>
-    ‚»‚Ì<weapon_type>‚Æ<end_line>
+    ãã¿ãŒæŒã£ã¦ã„ã‚‹<end_line>
+    ãã®<weapon_type>ã¨<end_line>
   </sjis>
   <ascii>
     Would you like to trade<end_line>
@@ -345,8 +344,8 @@
   <info box="simple">
   <portrait_l name="gatekeeper">
   <sjis>
-    ƒIƒŒ‚Ì<weapon_type>‚ð<end_line>
-    ŒðŠ·‚µ‚È‚¢‚©<end_line>
+    ã‚ªãƒ¬ã®<weapon_type>ã‚’<end_line>
+    äº¤æ›ã—ãªã„ã‹<end_line>
   </sjis>
   <ascii>
     for my <weapon_type>?<end_line>
@@ -355,7 +354,7 @@
 <menu>
   <title>
     <sjis>
-      ŒðŠ·‚µ‚Ü‚·‚©<end_line>
+      äº¤æ›ã—ã¾ã™ã‹<end_line>
     </sjis>
     <ascii>
       Trade?<end_line>
@@ -363,7 +362,7 @@
   </title>
   <option>
     <sjis>
-      ‚·‚é<end_line>
+      ã™ã‚‹<end_line>
     </sjis>
     <ascii>
       Yes<end_line>
@@ -371,7 +370,7 @@
   </option>
   <option>
     <sjis>
-      ‚µ‚È‚¢<end_line>
+      ã—ãªã„<end_line>
     </sjis>
     <ascii>
       No<end_line>
@@ -382,7 +381,7 @@
   <info box="simple">
   <portrait_l name="gatekeeper">
   <sjis>
-    ‚±‚ÌŒðŠ·Aâ‘ÎƒIƒŒ‚Ì“¾‚¾‚ÆŽv‚¤‚Ë<end_line>
+    ã“ã®äº¤æ›ã€çµ¶å¯¾ã‚ªãƒ¬ã®å¾—ã ã¨æ€ã†ã­<end_line>
   </sjis>
   <ascii>
     This trade is definitely<end_line>
@@ -393,7 +392,7 @@
   <info box="simple">
   <portrait_l name="gatekeeper">
   <sjis>
-    ‚±‚ÌŒðŠ·Aâ‘ÎƒIƒŒ‚Ì“¾‚¾‚ÆŽv‚¤‚Ë<end_line>
+    ã“ã®äº¤æ›ã€çµ¶å¯¾ã‚ªãƒ¬ã®å¾—ã ã¨æ€ã†ã­<end_line>
   </sjis>
   <ascii>
     This trade is definitely<end_line>
@@ -404,7 +403,7 @@
   <info box="simple">
   <portrait_l name="child">
   <sjis>
-    <weapon_type>A<end_line>
+    <weapon_type>ã€<end_line>
     <weapon_type><three_dots><end_line>
   </sjis>
   <ascii>
@@ -416,7 +415,7 @@
   <info box="simple">
   <portrait_l name="child">
   <sjis>
-    ‚»‚Ì<weapon_type>‚Æ<end_line>
+    ãã®<weapon_type>ã¨<end_line>
   </sjis>
   <ascii>
     Wanna trade your <weapon_type><end_line>
@@ -426,8 +425,8 @@
   <info box="simple">
   <portrait_l name="child">
   <sjis>
-    ƒ{ƒN‚Ì<weapon_type><end_line>
-    ‚©‚¦‚Á‚±‚µ‚È‚¢H<end_line>
+    ãƒœã‚¯ã®<weapon_type><end_line>
+    ã‹ãˆã£ã“ã—ãªã„ï¼Ÿ<end_line>
   </sjis>
   <ascii>
     for my <weapon_type>?<end_line>
@@ -436,7 +435,7 @@
 <menu>
   <title>
     <sjis>
-      ŒðŠ·‚µ‚Ü‚·‚©<end_line>
+      äº¤æ›ã—ã¾ã™ã‹<end_line>
     </sjis>
     <ascii>
       Trade?<end_line>
@@ -444,7 +443,7 @@
   </title>
   <option>
     <sjis>
-      ‚·‚é<end_line>
+      ã™ã‚‹<end_line>
     </sjis>
     <ascii>
       Yes<end_line>
@@ -452,7 +451,7 @@
   </option>
   <option>
     <sjis>
-      ‚µ‚È‚¢<end_line>
+      ã—ãªã„<end_line>
     </sjis>
     <ascii>
       No<end_line>
@@ -463,7 +462,7 @@
   <info box="simple">
   <portrait_l name="child">
   <sjis>
-    ‚¢‚µ‚µ<three_dots>Aâ‘Îƒ{ƒN‚ÌŸ‚¿<end_line>
+    ã„ã—ã—<three_dots>ã€çµ¶å¯¾ãƒœã‚¯ã®å‹ã¡<end_line>
   </sjis>
   <ascii>
     Heheh<three_dots> It's my victory.<end_line>
@@ -473,7 +472,7 @@
   <info box="simple">
   <portrait_l name="child">
   <sjis>
-    ‚¢‚µ‚µ<three_dots>Aâ‘Îƒ{ƒN‚ÌŸ‚¿<end_line>
+    ã„ã—ã—<three_dots>ã€çµ¶å¯¾ãƒœã‚¯ã®å‹ã¡<end_line>
   </sjis>
   <ascii>
     Heheh<three_dots> It's my victory.<end_line>
@@ -483,7 +482,7 @@
   <info box="simple">
   <portrait_l name="child">
   <sjis>
-    <weapon_type>A<end_line>
+    <weapon_type>ã€<end_line>
     <weapon_type><three_dots><end_line>
   </sjis>
   <ascii>
@@ -495,7 +494,7 @@
   <info box="simple">
   <portrait_l name="child">
   <sjis>
-    ‚»‚Ì<weapon_type>‚Æ<end_line>
+    ãã®<weapon_type>ã¨<end_line>
   </sjis>
   <ascii>
     Wanna trade your <weapon_type><end_line>
@@ -505,8 +504,8 @@
   <info box="simple">
   <portrait_l name="child">
   <sjis>
-    ƒ{ƒN‚Ì<weapon_type><end_line>
-    ‚©‚¦‚Á‚±‚µ‚È‚¢H<end_line>
+    ãƒœã‚¯ã®<weapon_type><end_line>
+    ã‹ãˆã£ã“ã—ãªã„ï¼Ÿ<end_line>
   </sjis>
   <ascii>
     for my <weapon_type>?<end_line>
@@ -515,7 +514,7 @@
 <menu>
   <title>
     <sjis>
-      ŒðŠ·‚µ‚Ü‚·‚©<end_line>
+      äº¤æ›ã—ã¾ã™ã‹<end_line>
     </sjis>
     <ascii>
       Trade?<end_line>
@@ -523,7 +522,7 @@
   </title>
   <option>
     <sjis>
-      ‚·‚é<end_line>
+      ã™ã‚‹<end_line>
     </sjis>
     <ascii>
       Yes<end_line>
@@ -531,7 +530,7 @@
   </option>
   <option>
     <sjis>
-      ‚µ‚È‚¢<end_line>
+      ã—ãªã„<end_line>
     </sjis>
     <ascii>
       No<end_line>
@@ -542,7 +541,7 @@
   <info box="simple">
   <portrait_l name="child">
   <sjis>
-    ‚¢‚µ‚µ<three_dots>Aâ‘Îƒ{ƒN‚ÌŸ‚¿<end_line>
+    ã„ã—ã—<three_dots>ã€çµ¶å¯¾ãƒœã‚¯ã®å‹ã¡<end_line>
   </sjis>
   <ascii>
     Heheh<three_dots> It's my victory.<end_line>
@@ -552,7 +551,7 @@
   <info box="simple">
   <portrait_l name="child">
   <sjis>
-    ‚¢‚µ‚µ<three_dots>Aâ‘Îƒ{ƒN‚ÌŸ‚¿<end_line>
+    ã„ã—ã—<three_dots>ã€çµ¶å¯¾ãƒœã‚¯ã®å‹ã¡<end_line>
   </sjis>
   <ascii>
     Heheh<three_dots> It's my victory.<end_line>
@@ -562,8 +561,8 @@
   <info box="simple">
   <portrait_l name="shop_clerk">
   <sjis>
-    ‚Ç‚±‚©‚É<weapon_type><end_line>
-    Ž‚Á‚Ä‚¢‚él‚¢‚È‚¢‚©‚È<end_line>
+    ã©ã“ã‹ã«<weapon_type><end_line>
+    æŒã£ã¦ã„ã‚‹äººã„ãªã„ã‹ãª<end_line>
   </sjis>
   <ascii>
     I wonder if there's anyone<end_line>
@@ -574,8 +573,8 @@
   <info box="simple">
   <portrait_l name="shop_clerk">
   <sjis>
-    ‚«‚Ý‚ªŽ‚Á‚Ä‚¢‚é<end_line>
-    ‚»‚Ì<weapon_type>‚Æ<end_line>
+    ãã¿ãŒæŒã£ã¦ã„ã‚‹<end_line>
+    ãã®<weapon_type>ã¨<end_line>
   </sjis>
   <ascii>
     Would like to trade<end_line>
@@ -586,8 +585,8 @@
   <info box="simple">
   <portrait_l name="shop_clerk">
   <sjis>
-    ƒIƒŒ‚Ì<weapon_type>‚ð<end_line>
-    ŒðŠ·‚µ‚È‚¢‚©<end_line>
+    ã‚ªãƒ¬ã®<weapon_type>ã‚’<end_line>
+    äº¤æ›ã—ãªã„ã‹<end_line>
   </sjis>
   <ascii>
     for my <weapon_type>?<end_line>
@@ -596,7 +595,7 @@
 <menu>
   <title>
     <sjis>
-      ŒðŠ·‚µ‚Ü‚·‚©<end_line>
+      äº¤æ›ã—ã¾ã™ã‹<end_line>
     </sjis>
     <ascii>
       Trade?<end_line>
@@ -604,7 +603,7 @@
   </title>
   <option>
     <sjis>
-      ‚·‚é<end_line>
+      ã™ã‚‹<end_line>
     </sjis>
     <ascii>
       Yes<end_line>
@@ -612,7 +611,7 @@
   </option>
   <option>
     <sjis>
-      ‚µ‚È‚¢<end_line>
+      ã—ãªã„<end_line>
     </sjis>
     <ascii>
       No<end_line>
@@ -623,7 +622,7 @@
   <info box="simple">
   <portrait_l name="shop_clerk">
   <sjis>
-    ‚±‚ÌŒðŠ·Aâ‘ÎƒIƒŒ‚Ì“¾‚¾‚ÆŽv‚¤‚Ë<end_line>
+    ã“ã®äº¤æ›ã€çµ¶å¯¾ã‚ªãƒ¬ã®å¾—ã ã¨æ€ã†ã­<end_line>
   </sjis>
   <ascii>
     This trade is definitely<end_line>
@@ -634,7 +633,7 @@
   <info box="simple">
   <portrait_l name="shop_clerk">
   <sjis>
-    ‚±‚ÌŒðŠ·Aâ‘ÎƒIƒŒ‚Ì“¾‚¾‚ÆŽv‚¤‚Ë<end_line>
+    ã“ã®äº¤æ›ã€çµ¶å¯¾ã‚ªãƒ¬ã®å¾—ã ã¨æ€ã†ã­<end_line>
   </sjis>
   <ascii>
     This trade is definitely<end_line>
@@ -645,8 +644,8 @@
   <info box="simple">
   <portrait_l name="man">
   <sjis>
-    ‚Ç‚±‚©‚É<weapon_type><end_line>
-    Ž‚Á‚Ä‚¢‚él‚¢‚È‚¢‚©‚È<end_line>
+    ã©ã“ã‹ã«<weapon_type><end_line>
+    æŒã£ã¦ã„ã‚‹äººã„ãªã„ã‹ãª<end_line>
   </sjis>
   <ascii>
     I wonder if there's anyone<end_line>
@@ -657,8 +656,8 @@
   <info box="simple">
   <portrait_l name="man">
   <sjis>
-    ‚«‚Ý‚ªŽ‚Á‚Ä‚¢‚é<end_line>
-    ‚»‚Ì<weapon_type>‚Æ<end_line>
+    ãã¿ãŒæŒã£ã¦ã„ã‚‹<end_line>
+    ãã®<weapon_type>ã¨<end_line>
   </sjis>
   <ascii>
     Would like to trade<end_line>
@@ -669,8 +668,8 @@
   <info box="simple">
   <portrait_l name="man">
   <sjis>
-    ƒIƒŒ‚Ì<weapon_type>‚ð<end_line>
-    ŒðŠ·‚µ‚È‚¢‚©<end_line>
+    ã‚ªãƒ¬ã®<weapon_type>ã‚’<end_line>
+    äº¤æ›ã—ãªã„ã‹<end_line>
   </sjis>
   <ascii>
     for my <weapon_type>?<end_line>
@@ -679,7 +678,7 @@
 <menu>
   <title>
     <sjis>
-      ŒðŠ·‚µ‚Ü‚·‚©<end_line>
+      äº¤æ›ã—ã¾ã™ã‹<end_line>
     </sjis>
     <ascii>
       Trade?<end_line>
@@ -687,7 +686,7 @@
   </title>
   <option>
     <sjis>
-      ‚·‚é<end_line>
+      ã™ã‚‹<end_line>
     </sjis>
     <ascii>
       Yes<end_line>
@@ -695,7 +694,7 @@
   </option>
   <option>
     <sjis>
-      ‚µ‚È‚¢<end_line>
+      ã—ãªã„<end_line>
     </sjis>
     <ascii>
       No<end_line>
@@ -706,7 +705,7 @@
   <info box="simple">
   <portrait_l name="man">
   <sjis>
-    ‚±‚ÌŒðŠ·Aâ‘ÎƒIƒŒ‚Ì“¾‚¾‚ÆŽv‚¤‚Ë<end_line>
+    ã“ã®äº¤æ›ã€çµ¶å¯¾ã‚ªãƒ¬ã®å¾—ã ã¨æ€ã†ã­<end_line>
   </sjis>
   <ascii>
     This trade is definitely<end_line>
@@ -717,7 +716,7 @@
   <info box="simple">
   <portrait_l name="man">
   <sjis>
-    ‚±‚ÌŒðŠ·Aâ‘ÎƒIƒŒ‚Ì“¾‚¾‚ÆŽv‚¤‚Ë<end_line>
+    ã“ã®äº¤æ›ã€çµ¶å¯¾ã‚ªãƒ¬ã®å¾—ã ã¨æ€ã†ã­<end_line>
   </sjis>
   <ascii>
     This trade is definitely<end_line>
@@ -728,8 +727,8 @@
   <info box="simple">
   <portrait_l name="chief">
   <sjis>
-    ‚Ç‚±‚©‚É<weapon_type>‚ªA<end_line>
-    —L‚é‚Æ‚¢‚¢‚ñ‚¾‚ª<end_line>
+    ã©ã“ã‹ã«<weapon_type>ãŒã€<end_line>
+    æœ‰ã‚‹ã¨ã„ã„ã‚“ã ãŒ<end_line>
   </sjis>
   <ascii>
     I wonder if there's anyone<end_line>
@@ -740,8 +739,8 @@
   <info box="simple">
   <portrait_l name="chief">
   <sjis>
-    ‚¨‘O‚ªŽ‚Á‚Ä‚¢‚é<end_line>
-    ‚»‚Ì<weapon_type>‚Æ<end_line>
+    ãŠå‰ãŒæŒã£ã¦ã„ã‚‹<end_line>
+    ãã®<weapon_type>ã¨<end_line>
   </sjis>
   <ascii>
     Would like to trade<end_line>
@@ -752,8 +751,8 @@
   <info box="simple">
   <portrait_l name="chief">
   <sjis>
-    ƒIƒŒ‚Ì<weapon_type>‚ð<end_line>
-    ŒðŠ·‚µ‚È‚¢‚©<end_line>
+    ã‚ªãƒ¬ã®<weapon_type>ã‚’<end_line>
+    äº¤æ›ã—ãªã„ã‹<end_line>
   </sjis>
   <ascii>
     for my <weapon_type>?<end_line>
@@ -762,7 +761,7 @@
 <menu>
   <title>
     <sjis>
-      ŒðŠ·‚µ‚Ü‚·‚©<end_line>
+      äº¤æ›ã—ã¾ã™ã‹<end_line>
     </sjis>
     <ascii>
       Trade?<end_line>
@@ -770,7 +769,7 @@
   </title>
   <option>
     <sjis>
-      ‚·‚é<end_line>
+      ã™ã‚‹<end_line>
     </sjis>
     <ascii>
       Yes<end_line>
@@ -778,7 +777,7 @@
   </option>
   <option>
     <sjis>
-      ‚µ‚È‚¢<end_line>
+      ã—ãªã„<end_line>
     </sjis>
     <ascii>
       No<end_line>
@@ -789,7 +788,7 @@
   <info box="simple">
   <portrait_l name="chief">
   <sjis>
-    —Ç‚¢ŒðŠ·‚¾‚Á‚½<end_line>
+    è‰¯ã„äº¤æ›ã ã£ãŸ<end_line>
   </sjis>
   <ascii>
     That was a good trade.<end_line>
@@ -799,7 +798,7 @@
   <info box="simple">
   <portrait_l name="chief">
   <sjis>
-    —Ç‚¢ŒðŠ·‚¾‚Á‚½<end_line>
+    è‰¯ã„äº¤æ›ã ã£ãŸ<end_line>
   </sjis>
   <ascii>
     That was a good trade.<end_line>
@@ -809,8 +808,8 @@
   <info box="simple">
   <portrait_l name="elderly">
   <sjis>
-    ‚Ç‚±‚©‚É<weapon_type>‚ªA<end_line>
-    –³‚¢‚©‚Ì‚¤<end_line>
+    ã©ã“ã‹ã«<weapon_type>ãŒã€<end_line>
+    ç„¡ã„ã‹ã®ã†<end_line>
   </sjis>
   <ascii>
     I wonder if there's anyone<end_line>
@@ -821,8 +820,8 @@
   <info box="simple">
   <portrait_l name="elderly">
   <sjis>
-    ‚¨‚Ê‚µ‚ªŽ‚Á‚Ä‚¢‚é<end_line>
-    ‚»‚Ì<weapon_type>‚Æ<end_line>
+    ãŠã¬ã—ãŒæŒã£ã¦ã„ã‚‹<end_line>
+    ãã®<weapon_type>ã¨<end_line>
   </sjis>
   <ascii>
     Would like to trade<end_line>
@@ -833,8 +832,8 @@
   <info box="simple">
   <portrait_l name="elderly">
   <sjis>
-    ƒƒV‚Ì<weapon_type>‚ð<end_line>
-    ŒðŠ·‚¹‚Ê‚©<end_line>
+    ãƒ¯ã‚·ã®<weapon_type>ã‚’<end_line>
+    äº¤æ›ã›ã¬ã‹<end_line>
   </sjis>
   <ascii>
     for my <weapon_type>?<end_line>
@@ -843,7 +842,7 @@
 <menu>
   <title>
     <sjis>
-      ŒðŠ·‚µ‚Ü‚·‚©<end_line>
+      äº¤æ›ã—ã¾ã™ã‹<end_line>
     </sjis>
     <ascii>
       Trade?<end_line>
@@ -851,7 +850,7 @@
   </title>
   <option>
     <sjis>
-      ‚·‚é<end_line>
+      ã™ã‚‹<end_line>
     </sjis>
     <ascii>
       Yes<end_line>
@@ -859,7 +858,7 @@
   </option>
   <option>
     <sjis>
-      ‚µ‚È‚¢<end_line>
+      ã—ãªã„<end_line>
     </sjis>
     <ascii>
       No<end_line>
@@ -870,7 +869,7 @@
   <info box="simple">
   <portrait_l name="elderly">
   <sjis>
-    —Ç‚¢ŒðŠ·‚¶‚á‚Á‚½<end_line>
+    è‰¯ã„äº¤æ›ã˜ã‚ƒã£ãŸ<end_line>
   </sjis>
   <ascii>
     That was a good trade.<end_line>
@@ -880,7 +879,7 @@
   <info box="simple">
   <portrait_l name="elderly">
   <sjis>
-    —Ç‚¢ŒðŠ·‚¶‚á‚Á‚½<end_line>
+    è‰¯ã„äº¤æ›ã˜ã‚ƒã£ãŸ<end_line>
   </sjis>
   <ascii>
     That was a good trade.<end_line>
@@ -889,7 +888,7 @@
 <menu>
   <title>
     <sjis>
-      ŒðŠ·‚µ‚Ü‚·‚©<end_line>
+      äº¤æ›ã—ã¾ã™ã‹<end_line>
     </sjis>
     <ascii>
       Trade?<end_line>
@@ -897,7 +896,7 @@
   </title>
   <option>
     <sjis>
-      ‚·‚é<end_line>
+      ã™ã‚‹<end_line>
     </sjis>
     <ascii>
       Yes<end_line>
@@ -905,7 +904,7 @@
   </option>
   <option>
     <sjis>
-      ‚µ‚È‚¢<end_line>
+      ã—ãªã„<end_line>
     </sjis>
     <ascii>
       No<end_line>

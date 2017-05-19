@@ -1,14 +1,14 @@
 <location>
   <sjis>
-    ƒ{ƒXƒ^ƒtH–[@ƒfƒBƒbƒNƒ‹‘ºx•”<end_line>
+    ãƒœã‚¹ã‚¿ãƒ•å·¥æˆ¿ã€€ãƒ‡ã‚£ãƒƒã‚¯ãƒ«æ‘æ”¯éƒ¨<end_line>
   </sjis>
 </location>
 <dialogue>
   <info box="simple">
   <portrait_l name="man">
   <sjis>
-    ÌŒ@ê‚Ì‹´‚ªƒKƒ^ƒKƒ^‚Å<end_line>
-    Šë‚È‚­‚Á‚ÄA‚µ‚å‚¤‚ª‚È‚¢<end_line>
+    æ¡æ˜å ´ã®æ©‹ãŒã‚¬ã‚¿ã‚¬ã‚¿ã§<end_line>
+    å±ãªãã£ã¦ã€ã—ã‚‡ã†ãŒãªã„<end_line>
   </sjis>
   <ascii>
     The bridge near the bind is shaky,<end_line>
@@ -19,12 +19,13 @@
   <info box="simple">
   <portrait_l name="man">
   <sjis>
-    ‚¢‚­‚çÅ‹ßAÌŒ@—Ê‚ªŒ¸‚Á‚Ä‚é‚©‚ç‚Á‚Ä<end_line>
-    ‚¿‚á‚ñ‚Æ‚µ‚Ä—~‚µ‚¢‚à‚ñ‚¾‚æ<end_line>
+    ã„ãã‚‰æœ€è¿‘ã€æ¡æ˜é‡ãŒæ¸›ã£ã¦ã‚‹ã‹ã‚‰ã£ã¦<end_line>
+    ã¡ã‚ƒã‚“ã¨ã—ã¦æ¬²ã—ã„ã‚‚ã‚“ã ã‚ˆ<end_line>
   </sjis>
   <ascii>
     Lately we've been using less ore,<end_line>
-    and there hasn't been a need to fix it.<end_line>
+    and there just hasn't<end_line>
+    been a need to fix it.<end_line>
   </ascii>
 </dialogue>
 <dialogue>

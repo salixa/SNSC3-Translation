@@ -1,18 +1,18 @@
 <location>
   <sjis>
-    �����̉Ɓ@���<end_line>
+    村長の家　道具屋<end_line>
   </sjis>
 </location>
 <location>
   <sjis>
-    �����̉Ɓ@���<end_line>
+    村長の家　道具屋<end_line>
   </sjis>
 </location>
 <dialogue>
   <info box="simple">
   <portrait_l name="man">
   <sjis>
-    �����Ȃ牜�̕�������<end_line>
+    村長なら奥の部屋だよ<end_line>
   </sjis>
   <ascii>
     The chief's inside.<end_line>
@@ -22,8 +22,8 @@
   <info box="simple">
   <portrait_l name="peddler's_mother">
   <sjis>
-    ����A���̃n���}�[�Ə����b<three_dots><end_line>
-    ���Ȃ��b��t��<end_line>
+    あら、そのハンマーと召喚獣<three_dots><end_line>
+    あなた鍛冶師ね<end_line>
   </sjis>
   <ascii>
     My, that hammer and a Summon Beast<three_dots><end_line>
@@ -34,9 +34,9 @@
   <info box="simple">
   <portrait_l name="peddler's_mother">
   <sjis>
-    ���͒b��t��b��E�l�𑊎��<end_line>
-    �������Ȃ��痷�����Ă����<end_line>
-    �����ɂ����l���Ƃ�<end_line>
+    私は鍛冶師や鍛冶職人を相手に<end_line>
+    商売しながら旅をしているの<end_line>
+    そこにいる一人娘とね<end_line>
   </sjis>
   <ascii>
     I'm a traveling peddler who deals<end_line>
@@ -48,8 +48,8 @@
   <info box="simple">
   <portrait_l name="peddler's_mother">
   <sjis>
-    �b��̎��ɂ͏ڂ������牽��<end_line>
-    �m�肽�����Ƃ��������畷���Ă�<end_line>
+    鍛冶の事には詳しいから何か<end_line>
+    知りたいことがあったら聞いてね<end_line>
   </sjis>
   <ascii>
     I know quite a lot about smithing.<end_line>
@@ -60,7 +60,7 @@
   <info box="simple">
   <option>
     <sjis>
-      �쐻�ɂ��ċ����Ăق���<end_line>
+      作製について教えてほしい<end_line>
     </sjis>
     <ascii>
       Teach me about crafting<end_line>
@@ -68,7 +68,7 @@
   </option>
   <option>
     <sjis>
-      �b�胉���N�ɂ��ċ����Ăق���<end_line>
+      鍛冶ランクについて教えてほしい<end_line>
     </sjis>
     <ascii>
       Teach me about smithing ranks<end_line>
@@ -76,7 +76,7 @@
   </option>
   <option>
     <sjis>
-      ���͓��ɂȂ�<end_line>
+      今は特にない<end_line>
     </sjis>
     <ascii>
       Nothing right now<end_line>
@@ -87,8 +87,8 @@
   <info box="simple">
   <portrait_l name="peddler's_mother">
   <sjis>
-    �쐻�ł́A����}�e���ƍ����A�C�e����<end_line>
-    �g���ĕ�������̂�<end_line>
+    作製では、武器マテルと合成アイテムを<end_line>
+    使って武器を作るのよ<end_line>
   </sjis>
   <ascii>
     When crafting, you create weapons<end_line>
@@ -99,12 +99,12 @@
   <info box="simple">
   <portrait_l name="peddler's_mother">
   <sjis>
-    ����^�C�v�����߂�}�e����<end_line>
-    ����̋����ƃf�U�C�������߂�̂�<end_line>
-    �����A�C�e����<end_line>
+    武器タイプを決めるマテルと<end_line>
+    武器の強さとデザインを決めるのは<end_line>
+    合成アイテムね<end_line>
   </sjis>
   <ascii>
-    The Shapestone determines weapon type,<end_line>
+    The Shapestone determines type,<end_line>
     while the synthesis items determine<end_line>
     the weapon's strength and design.<end_line>
   </ascii>
@@ -113,9 +113,9 @@
   <info box="simple">
   <portrait_l name="peddler's_mother">
   <sjis>
-    �b�胉���N�͂ˁA���ꂼ��̕����<end_line>
-    �ǂꂾ���b�B���Ă�������<end_line>
-    �؂݂����Ȃ��̂�<end_line>
+    鍛冶ランクはね、それぞれの武器を<end_line>
+    どれだけ鍛錬してきたかの<end_line>
+    証みたいなものね<end_line>
   </sjis>
   <ascii>
     Smithing ranks are like proof<end_line>
@@ -127,13 +127,13 @@
   <info box="simple">
   <portrait_l name="peddler's_mother">
   <sjis>
-    �b�胉���N�������Ȃ��Əo���Ȃ�����<end_line>
-    ����������A�Ƃɂ����b�胉���N��<end_line>
-    �グ�Ȃ��Ƃ����Ȃ���<end_line>
+    鍛冶ランクが高くないと出来ない事も<end_line>
+    おおいから、とにかく鍛冶ランクを<end_line>
+    上げないといけないよ<end_line>
   </sjis>
   <ascii>
-    There are many things you cannot do<end_line>
-    with a low smithing rank. In any case,<end_line>
+    There are many things you can't do<end_line>
+    with a low rank. In any case,<end_line>
     raising your rank is important.<end_line>
   </ascii>
 </dialogue>
@@ -141,7 +141,7 @@
   <info box="simple">
   <portrait_l name="peddler's_mother">
   <sjis>
-    �C����������܂����Ă�<end_line>
+    気が向いたらまた来てね<end_line>
   </sjis>
   <ascii>
     Come again!<end_line>
@@ -151,9 +151,9 @@
   <info box="simple">
   <portrait_l name="peddler's_daughter">
   <sjis>
-    ���̂���l�́A�����l�Ȃ�<end_line>
-    ���͂Q�l�ŗ������Ēb��t��E�l��<end_line>
-    ��𔄂��Ă���i�K�Ȃ񂾂���<end_line>
+    私のお母様は、旅商人なの<end_line>
+    今は２人で旅をして鍛冶師や職人に<end_line>
+    顔を売っている段階なんだって<end_line>
   </sjis>
   <ascii>
     You know, my mom is a peddler.<end_line>
@@ -166,9 +166,9 @@
   <info box="simple">
   <portrait_l name="peddler's_daughter">
   <sjis>
-    �����͑傫�Ȃ��X�����\��Ȃ�<end_line>
-    ������A����͎����撣���ĉ҂�����<end_line>
-    �������Ă��ƂȂ�<end_line>
+    将来は大きなお店をもつ予定なの<end_line>
+    だから、旅費は私が頑張って稼ぐしか<end_line>
+    無いってことなの<end_line>
   </sjis>
   <ascii>
     We plan on opening a shop.<end_line>
@@ -180,8 +180,8 @@
   <info box="simple">
   <portrait_l name="peddler's_daughter">
   <sjis>
-    �Ƃ���ł��Ȃ��́A�b��t�݂���������<end_line>
-    �����̏��𕷂��Ă����Ȃ��H<end_line>
+    ところであなたは、鍛冶師みたいだけど<end_line>
+    強化の情報を聞いていかない？<end_line>
   </sjis>
   <ascii>
     Hey, aren't you a Craftknight?<end_line>
@@ -193,7 +193,7 @@
   <info box="simple">
   <option>
     <sjis>
-      �����Ă݂�<end_line>
+      聞いてみる<end_line>
     </sjis>
     <ascii>
       Listen to her lecture<end_line>
@@ -201,7 +201,7 @@
   </option>
   <option>
     <sjis>
-      ���ɕ����Ȃ�<end_line>
+      特に聞かない<end_line>
     </sjis>
     <ascii>
       Not interested<end_line>
@@ -212,35 +212,35 @@
   <info box="simple">
   <portrait_l name="peddler's_daughter">
   <sjis>
-    �����ƂˁA�����Łu�������̌��Ёv��<end_line>
-    �g���ƁA������ʂ́u�A�N�A�v��<end_line>
-    ����ɕt��������<end_line>
+    えっとね、強化で「水結晶の欠片」を<end_line>
+    使うと、特殊効果の「アクア」が<end_line>
+    武器に付加されるの<end_line>
   </sjis>
   <ascii>
     Um, let's see. If you use<end_line>
-    <quote>Aqua Stone Fragment<quote>,<end_line>
-    your weapon will gain the Water element.<end_line>
+    <quote>Aqua Stone Fragment<quote>, your weapon<end_line>
+     ill gain the Water element.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
   <info box="simple">
   <portrait_l name="peddler's_daughter">
   <sjis>
-    �ł����āA����͂Ȃ��<end_line>
-    �u�������̌��Ёv���A�P�O�O�o�[����<end_line>
-    �̔����Ȃ́`<end_line>
+    でもって、今回はなんと<end_line>
+    「水結晶の欠片」を、１００バームで<end_line>
+    販売中なの～<end_line>
   </sjis>
   <ascii>
     Amazingly, for one time only,<end_line>
     I have an <quote>Aqua Stone Fragment<quote><end_line>
-    on sale for only <1><0><0> Boam~<end_line>
+    on sale for only 100 Boam~<end_line>
   </ascii>
 </dialogue>
 <dialogue>
   <info box="simple">
   <portrait_l name="peddler's_daughter">
   <sjis>
-    �����Ă���܂��H<end_line>
+    買ってくれます？<end_line>
   </sjis>
   <ascii>
     How about it?<end_line>
@@ -250,15 +250,15 @@
   <info box="simple">
   <option>
     <sjis>
-      ����<end_line>
+      買う<end_line>
     </sjis>
     <ascii>
-      Buy
+      Buy<end_line>
     </ascii> 
   </option>
   <option>
     <sjis>
-      ����Ȃ�<end_line>
+      買わない<end_line>
     </sjis>
     <ascii>
       Don't buy<end_line>
@@ -269,7 +269,7 @@
   <info box="simple">
   <portrait_l name="peddler's_daughter">
   <sjis>
-    ���肪�Ɓ`<end_line>
+    ありがと～<end_line>
   </sjis>
   <ascii>
     Thanks~<end_line>
@@ -279,9 +279,9 @@
   <info box="simple">
   <portrait_l name="peddler's_daughter">
   <sjis>
-    �������`���ꂶ��`<end_line>
-    ��������Ȃ��́`<end_line>
-    ���k�s��������`<end_line>
+    ええぇ～これじゃ～<end_line>
+    お金たりないの～<end_line>
+    商談不成立だよ～<end_line>
   </sjis>
   <ascii>
     Ehh~ What's this~<end_line>
@@ -293,8 +293,8 @@
   <info box="simple">
   <portrait_l name="peddler's_daughter">
   <sjis>
-    ���`�������������Ĕ����Ă���Ȃ��́`<end_line>
-    �P�`�`<end_line>
+    え～聞くだけ聞いて買ってくれないの～<end_line>
+    ケチ～<end_line>
   </sjis>
   <ascii>
     Eh~ You make me explain but<end_line>
@@ -306,8 +306,8 @@
   <info box="simple">
   <portrait_l name="peddler's_daughter">
   <sjis>
-    ���`�����Ă���Ȃ��́`<end_line>
-    ���������̂��q���񂾂Ǝv�����̂Ɂ`<end_line>
+    え～聞いてくれないの～<end_line>
+    せっかくのお客さんだと思ったのに～<end_line>
   </sjis>
   <ascii>
     Eh~ You don't want to listen?<end_line>

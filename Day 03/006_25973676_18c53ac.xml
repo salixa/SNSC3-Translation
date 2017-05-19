@@ -715,7 +715,7 @@
 	</sjis>
 	<ascii>
 		Going out for something?<end_line>
-		While you're out, <end_line>  
+		While you're out, <end_line>
 		could you find me a Backlight Lamp?<end_line>
 	</ascii>
 </dialogue>
@@ -850,7 +850,7 @@
 	</sjis>
 	<ascii>
 		I've heard that it's<end_line>
-		a fishing prize in some town.<end_line>	
+		a fishing prize in some town.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -1061,7 +1061,8 @@
 	</sjis>
 	<ascii>
 		If you're in a hurry, it's fine.<end_line>
-		I'd still like some Black Ore though.<end_line>
+    Let me know if you find<end_line>
+    any Black Ore though.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -1157,8 +1158,8 @@
 	</sjis>
 	<ascii>
 		Are you about to go out?<end_line>
-		Could you find me
-		a Blood-Sucking Pump from out there?<end_line>
+		Could you find me a Blood-Sucking<end_line>
+		Pump from out there?<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -1347,8 +1348,8 @@
 		卵かけ飯が喰いたい～<end_line>
 	</sjis>
 	<ascii>
-		Ah~ I want to eat Rice<end_line>
-		with ridiculous amounts of Egg on it.<end_line>
+		Ah~ I want to eat Rice with<end_line>
+		ridiculous amounts of Eggs on it.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
