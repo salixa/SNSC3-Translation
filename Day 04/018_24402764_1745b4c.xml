@@ -17,8 +17,8 @@
       こっちじゃないって！<end_line>
     </sjis>
     <ascii>
-      Neither Brother nor the<end_line>
-      Gold Council is this way!<end_line>
+      Wrong way!<end_line>
+      I have to follow Bro!<end_line>
     </ascii>
   </male>
   <female>
@@ -46,8 +46,9 @@
     </sjis>
   </female>
   <ascii>
-    So this is Bostaph workshop's office<three_dots><end_line>
-    It'd be best not to intrude right now.<end_line>
+    This is Bostaph<end_line>
+    workshop's headquarters<three_dots><end_line>
+    It'd be best not to intrude.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
