@@ -22,6 +22,9 @@ BREAK_OPEN = str.encode('<break>')
 BREAK_CLOSED = str.encode('<break/>')
 QUOTE_OPEN = str.encode('<quote>')
 QUOTE_CLOSED = str.encode('<quote/>')
+MUSIC_NOTE_OPEN = str.encode('<music_note>')
+MUSIC_NOTE_CLOSED = str.encode('<music_note/>')
+
 
 NEWLINE = str.encode('\n')
 PLAYER_LINE = str.encode('<player ')
