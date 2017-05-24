@@ -1,62 +1,62 @@
 <location>
 	<sjis>
-		�v���X�o���̒��@���<end_line>
+		プロスバンの町　道具屋<end_line>
 	</sjis>
 </location>
 <location>
 	<sjis>
-		�v���X�o���̒��@���<end_line>
+		プロスバンの町　道具屋<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		����ŃP�K�������o���͂���܂��񂩁H<end_line>
-		����Ȏ��ɂ͂e�G�C�h�A���ł����낤<end_line>
-		�֗��ȓ��<end_line>
+		旅先でケガをした経験はありませんか？<end_line>
+		そんな時にはＦエイド、何でもそろう<end_line>
+		便利な道具屋<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="peddler's_mother">
 	<sjis>
-		����A���̃n���}�[�͒b��t��<end_line>
-		���A�b��t��b��E�l�ɉ���߂�<end_line>
-		�������Ėʎ����L���Ă�̂�<end_line>
+		あら、そのハンマーは鍛冶師ね<end_line>
+		今、鍛冶師や鍛冶職人に会うために<end_line>
+		旅をして面識を広げてるのよ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="peddler's_mother">
 	<sjis>
-		�����͑傫�ȓX�������Ė��ƂQ�l��<end_line>
-		��炷���߂ɂ����ӂ����<end_line>
-		�����邽�߂ɂ�<end_line>
+		将来は大きな店をもって娘と２人で<end_line>
+		暮らすためにお得意さんを<end_line>
+		見つけるためにね<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="peddler's_mother">
 	<sjis>
-		�b��̎��ɂ͏ڂ������牽��<end_line>
-		�m�肽�����Ƃ��������畷���Ă�<end_line>
+		鍛冶の事には詳しいから何か<end_line>
+		知りたいことがあったら聞いてね<end_line>
 	</sjis>
 </dialogue>
 <choice>
 	<info box="simple">
 	<option>
 		<sjis>
-			�����ɂ��ċ����Ăق���<end_line>
+			強化について教えてほしい<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			��̂ɂ��ċ����Ăق���<end_line>
+			解体について教えてほしい<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			���͓��ɂȂ�<end_line>
+			今は特にない<end_line>
 		</sjis>
 	</option>
 </choice>
@@ -64,50 +64,50 @@
 	<info box="simple">
 	<portrait_l name="peddler's_mother">
 	<sjis>
-		�����͂ˁA��x�쐻���������<end_line>
-		�F�X�ȃA�C�e������������<end_line>
-		�����ƕ������������̂�<end_line>
+		強化はね、一度作製した武器に<end_line>
+		色々なアイテムを合成して<end_line>
+		もっと武器を強くするのよ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="peddler's_mother">
 	<sjis>
-		�b�胉���N�������Ȃ��ƃ_��������<end_line>
-		�ő�R�܂ŃA�C�e�����g���邩��<end_line>
-		�撣���Ă݂Ă�<end_line>
+		鍛冶ランクが高くないとダメだけど<end_line>
+		最大３個までアイテムが使えるから<end_line>
+		頑張ってみてね<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="peddler's_mother">
 	<sjis>
-		��̂͂ˁA��x�쐻���������<end_line>
-		�}�e���̏�Ԃɖ߂����Ƃ��o�����<end_line>
+		解体はね、一度作製した武器を<end_line>
+		マテルの状態に戻すことが出来るの<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="peddler's_mother">
 	<sjis>
-		�ł��A�����}�e���ɖ߂邾������<end_line>
-		�����āA�p�����[�^����������<end_line>
-		�c�����܂܃}�e���ɖ߂��<end_line>
+		でも、ただマテルに戻るだけじゃ<end_line>
+		無くて、パラメータを少しだけ<end_line>
+		残したままマテルに戻るの<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="peddler's_mother">
 	<sjis>
-		�ł��A�n���x���Ⴂ����A�b�胉���N��<end_line>
-		�����Ȃ��ƁA�قƂ�ǖ����Ȃ���<end_line>
-		���܂����璍�ӂ�<end_line>
+		でも、熟練度が低い時や、鍛冶ランクが<end_line>
+		高くないと、ほとんど無くなって<end_line>
+		しまうから注意ね<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="peddler's_mother">
 	<sjis>
-		�C����������܂����Ă�<end_line>
+		気が向いたらまた来てね<end_line>
 	</sjis>
 </dialogue>

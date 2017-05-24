@@ -3,8 +3,8 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="elieze" eye="serious" mouth="neutral">
   <sjis>
-    �������烊���[�g��A��<end_line>
-    �s����́H<end_line>
+    ここからリュート岩窟に<end_line>
+    行けるの？<end_line>
   </sjis>
   <ascii>
     Are we going to<end_line>
@@ -16,9 +16,9 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="elieze" eye="serious" mouth="neutral">
   <sjis>
-    ����I<end_line>
-    �����ȂƂ�����������<end_line>
-    ���������������肷��񂾂�<end_line>
+    うん！<end_line>
+    いろんなとこをさがすと<end_line>
+    そざいがあったりするんだよ<end_line>
   </sjis>
   <ascii>
     Yep!<end_line>
@@ -30,9 +30,9 @@
   <info box="simple">
   <portrait_l name="gatekeeper">
   <sjis>
-    �G���G�����<end_line>
-    �����݂͂�Ȃōޗ��W�߂����H<end_line>
-    �����[�g��A�Ȃ炢���񂾂���<three_dots><end_line>
+    エリエちゃん<end_line>
+    今日はみんなで材料集めかい？<end_line>
+    リュート岩窟ならいいんだけど<three_dots><end_line>
   </sjis>
   <ascii>
     Elieze,<end_line>
@@ -44,9 +44,9 @@
   <info box="simple">
   <portrait_l name="gatekeeper">
   <sjis>
-    �X�|�[�g���A�͂��̊Ԃ̒n�k��<end_line>
-    ���ԂȂ��Ȃ��Ă��邩��<end_line>
-    ���͗�������֎~�������<end_line>
+    スポート洞窟はこの間の地震で<end_line>
+    あぶなくなっているから<end_line>
+    今は立ち入り禁止だからね<end_line>
   </sjis>
   <ascii>
     Spoat Grotto's become dangerous,<end_line>
@@ -58,7 +58,7 @@
   <info box="left">
   <portrait_l entry="elieze" eye="serious" mouth="talk">
   <sjis>
-    �́[���I<end_line>
+    はーい！<end_line>
   </sjis>
   <ascii>
     Okaaay!<end_line>
@@ -69,14 +69,14 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <male>
     <sjis>
-      �񂶂Ⴀ�A�Ƃ肠����<end_line>
-      ���܂ōs���Ă݂邩�I<end_line>
+      んじゃあ、とりあえず<end_line>
+      奥まで行ってみるか！<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ���Ⴀ�A�Ƃ肠����<end_line>
-      ���܂ōs���Ă݂悤<end_line>
+      じゃあ、とりあえず<end_line>
+      奥まで行ってみよう<end_line>
     </sjis>
   </female>
   <ascii>
@@ -90,7 +90,7 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="partner" eye="serious" mouth="neutral">
   <sjis>
-    �I�[�I<end_line>
+    オー！<end_line>
   </sjis>
   <ascii>
     Yes!<end_line>
@@ -102,7 +102,7 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="partner" eye="serious" mouth="neutral">
   <sjis>
-    ���m�I<end_line>
+    承知！<end_line>
   </sjis>
   <ascii>
     Understood.<end_line>
@@ -114,7 +114,7 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="partner" eye="serious" mouth="neutral">
   <sjis>
-    �D���ɂ���<end_line>
+    好きにしろ<end_line>
   </sjis>
   <ascii>
     Do as you like.<end_line>
@@ -126,7 +126,7 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="partner" eye="serious" mouth="neutral">
   <sjis>
-    �͂��I<end_line>
+    はい！<end_line>
   </sjis>
   <ascii>
     Yes!<end_line>

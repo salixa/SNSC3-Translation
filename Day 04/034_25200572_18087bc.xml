@@ -3,7 +3,7 @@
   <portrait_r entry="elieze" eye="serious" mouth="neutral">
   <male>
     <sjis>
-      ‚¨‚É[‚¿‚á‚ñ<end_line>
+      ãŠã«ãƒ¼ã¡ã‚ƒã‚“<end_line>
     </sjis>
     <ascii>
       Big Bro,<end_line>
@@ -11,7 +11,7 @@
   </male>
   <female>
     <sjis>
-      ‚¨‚Ë[‚¿‚á‚ñ<end_line>
+      ãŠã­ãƒ¼ã¡ã‚ƒã‚“<end_line>
     </sjis>
     <ascii>
       Big Sis,<end_line>
@@ -22,8 +22,8 @@
   <info box="right">
   <portrait_r entry="elieze" eye="serious" mouth="neutral">
   <sjis>
-    ‚»‚´‚¢‚ ‚Â‚ß‚Ì‚Î‚µ‚å‚Í<end_line>
-    ‚±‚Á‚¿‚¾‚æ<end_line>
+    ãã–ã„ã‚ã¤ã‚ã®ã°ã—ã‚‡ã¯<end_line>
+    ã“ã£ã¡ã ã‚ˆ<end_line>
   </sjis>
   <ascii>
     The gathering place<end_line>
@@ -35,8 +35,8 @@
   <portrait_l entry="player" eye="serious" mouth="neutral">
   <portrait_r entry="elieze" eye="serious" mouth="neutral">
   <sjis>
-    ‚¤‚ñ<end_line>
-    ‚í‚©‚Á‚½I<end_line>
+    ã†ã‚“<end_line>
+    ã‚ã‹ã£ãŸï¼<end_line>
   </sjis>
   <ascii>
     Oh, right.<end_line>

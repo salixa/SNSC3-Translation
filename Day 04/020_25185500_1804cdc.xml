@@ -2,8 +2,8 @@
   <info box="simple">
   <portrait_l name="zakk">
   <sjis>
-    ���A<player_nickname><end_line>
-    ���Ă��I�H<end_line>
+    あ、<player_nickname><end_line>
+    いてっ！？<end_line>
   </sjis>
   <ascii>
     Ah, <player_nickname>.<end_line>
@@ -15,14 +15,14 @@
   <portrait_r entry="player" eye="sad" mouth="neutral">
   <male>
     <sjis>
-      �z���g<end_line>
-      �����ɒ��ӂ����<end_line>
+      ホント<end_line>
+      足下に注意しろよ<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �z���g<end_line>
-      �����ɒ��ӂ��Ȃ�����<end_line>
+      ホント<end_line>
+      足下に注意しなさいよ<end_line>
     </sjis>
   </female>
   <ascii>
@@ -35,9 +35,9 @@
   <portrait_l entry="zakk" eye="happy" mouth="yell">
   <portrait_r entry="player" eye="sad" mouth="neutral">
   <sjis>
-    ���邳���ȁI<end_line>
-    �ق������Ƃ����邩��<end_line>
-    �������ł��񂾂�I<end_line>
+    うるさいな！<end_line>
+    ほうこくとかあるから<end_line>
+    いそいでたんだよ！<end_line>
   </sjis>
   <ascii>
     Shut up!<end_line>
@@ -50,7 +50,7 @@
   <portrait_l entry="zakk" eye="happy" mouth="yell">
   <portrait_r entry="player" eye="happy" mouth="tense">
   <sjis>
-    �����ł���<end_line>
+    そうですか<end_line>
   </sjis>
   <ascii>
     Is that so?<end_line>
@@ -62,16 +62,16 @@
   <portrait_r entry="player" eye="serious" mouth="neutral">
   <male>
     <sjis>
-      ���������΁A���O��Ƃ���<end_line>
-      �E�`�̐e�����s���Ă邩��<end_line>
-      ��낵�����̂ނ�<end_line>
+      そういえば、お前んとこに<end_line>
+      ウチの親方が行ってるから<end_line>
+      よろしくたのむな<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ���������΁A���񂽂̂Ƃ���<end_line>
-      �E�`�̐e�����s���Ă邩��<end_line>
-      ��낵����<end_line>
+      そういえば、あんたのとこに<end_line>
+      ウチの親方が行ってるから<end_line>
+      よろしくね<end_line>
     </sjis>
   </female>
   <ascii>
@@ -85,9 +85,9 @@
   <portrait_l entry="zakk" eye="surprised" mouth="stressed">
   <portrait_r entry="player" eye="serious" mouth="neutral">
   <sjis>
-    �́I�H<end_line>
-    ���O�̐e���H<end_line>
-    �ǂ��������ƁI�H<end_line>
+    は！？<end_line>
+    お前の親方？<end_line>
+    どういうこと！？<end_line>
   </sjis>
   <ascii>
     Huh!?<end_line>
@@ -101,14 +101,14 @@
   <portrait_r entry="player" eye="serious" mouth="tense">
   <male>
     <sjis>
-      �܂��A�F�X�����Ă�<end_line>
-      �b�������Ƃ�<three_dots><end_line>
+      まあ、色々あってさ<end_line>
+      話し合いとか<three_dots><end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �܂��A�F�X�����Ă�<end_line>
-      �b�������Ƃ�<three_dots><end_line>
+      まあ、色々あってね<end_line>
+      話し合いとか<three_dots><end_line>
     </sjis>
   </female>
   <ascii>
@@ -121,7 +121,7 @@
   <info box="right">
   <portrait_r entry="partner" eye="serious" mouth="tense">
   <sjis>
-    �݂�[�̗l�K�@�s�b�e�V�}�C�}�V�^<end_line>
+    みゅーの様ガ　行ッテシマイマシタ<end_line>
   </sjis>
   <ascii>
     Lady Murno has left.<end_line>
@@ -132,8 +132,8 @@
   <info box="right">
   <portrait_r entry="partner" eye="serious" mouth="tense">
   <sjis>
-    ����<end_line>
-    �~���[�m�������s���Ă��܂�����<end_line>
+    おい<end_line>
+    ミューノたちが行ってしまったぞ<end_line>
   </sjis>
   <ascii>
     Hey,<end_line>
@@ -145,9 +145,9 @@
   <info box="right">
   <portrait_r entry="partner" eye="serious" mouth="tense">
   <sjis>
-    ����<three_dots><end_line>
-    ����ȂƂ���ŃE�_�E�_�ƁH<end_line>
-    �b���Ă�ꍇ���H<end_line>
+    ちっ<three_dots><end_line>
+    こんなところでウダウダと？<end_line>
+    話してる場合か？<end_line>
   </sjis>
   <ascii>
     Tch<three_dots><end_line>
@@ -159,8 +159,8 @@
   <info box="right">
   <portrait_r entry="partner" eye="serious" mouth="tense">
   <sjis>
-    ����<three_dots><end_line>
-    �~���[�m�l���s���Ă��܂��܂���<end_line>
+    あの<three_dots><end_line>
+    ミューノ様が行ってしまいますわ<end_line>
   </sjis>
   <ascii>
     Um<three_dots><end_line>
@@ -173,16 +173,16 @@
   <portrait_r entry="player" eye="surprised" mouth="tense">
   <male>
     <sjis>
-      ���A������<end_line>
-      �I������������Ƌ}���ł��<end_line>
-      ���_�b���Ă鎞�Ԃ͂Ȃ��񂾂�<end_line>
+      あ、そうだ<end_line>
+      オレたちちょっと急いでるんだ<end_line>
+      ムダ話してる時間はないんだよ<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ���A����������<end_line>
-      �킽������������Ƌ}���ł��<end_line>
-      ���_�b���Ă鎞�Ԃ͂Ȃ���<end_line>
+      あ、そうだった<end_line>
+      わたしたちちょっと急いでるんだ<end_line>
+      ムダ話してる時間はないの<end_line>
     </sjis>
   </female>
   <ascii>
@@ -196,7 +196,7 @@
   <portrait_l entry="zakk" eye="decided" mouth="neutral">
   <portrait_r entry="player" eye="surprised" mouth="tense">
   <sjis>
-    ����Ȃ́A�I�C�������āI<end_line>
+    そんなの、オイラだって！<end_line>
   </sjis>
   <ascii>
     Well, me too!<end_line>
@@ -206,7 +206,7 @@
   <info box="left">
   <portrait_l entry="player" eye="serious" mouth="neutral">
   <sjis>
-    ����A�s������<end_line>
+    じゃ、行こうか<end_line>
   </sjis>
   <ascii>
     Then, shall we go?<end_line>

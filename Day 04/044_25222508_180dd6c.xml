@@ -3,12 +3,12 @@
 	<portrait_r entry="elieze" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
-			‚¨‚É[‚¿‚á‚ñ<end_line>
+			ãŠã«ãƒ¼ã¡ã‚ƒã‚“<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			‚¨‚Ë[‚¿‚á‚ñ<end_line>
+			ãŠã­ãƒ¼ã¡ã‚ƒã‚“<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -16,8 +16,8 @@
 	<info box="right">
 	<portrait_r entry="elieze" eye="serious" mouth="neutral">
 	<sjis>
-		‚¨‚»‚Æ‚É‚Å‚é‚É‚Í<end_line>
-		‚±‚Á‚¿‚©‚ç‚¾‚æ<end_line>
+		ãŠãã¨ã«ã§ã‚‹ã«ã¯<end_line>
+		ã“ã£ã¡ã‹ã‚‰ã ã‚ˆ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -25,7 +25,7 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="elieze" eye="serious" mouth="neutral">
 	<sjis>
-		‚¤‚ñ<end_line>
-		‚í‚©‚Á‚½I<end_line>
+		ã†ã‚“<end_line>
+		ã‚ã‹ã£ãŸï¼<end_line>
 	</sjis>
 </dialogue>

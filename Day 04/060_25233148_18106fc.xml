@@ -2,7 +2,7 @@
   <info box="nobox">
   <portrait_l name="lemmy">
   <sjis>
-    ����<three_dots>�H<end_line>
+    あれ<three_dots>？<end_line>
   </sjis>
   <ascii>
     Huh<three_dots>?<end_line>
@@ -13,8 +13,8 @@
   <portrait_l entry="player" eye="serious" mouth="serious">
   <portrait_r entry="lemmy" eye="serious" mouth="tense">
   <sjis>
-    <three_dots>�H<end_line>
-    �N�͂ǂ����Ă���ȂƂ����<end_line>
+    <three_dots>？<end_line>
+    君はどうしてこんなところに<end_line>
   </sjis>
   <ascii>
     <three_dots>?<end_line>
@@ -27,14 +27,14 @@
   <portrait_r entry="lemmy" eye="serious" mouth="tense">
   <male>
     <sjis>
-      �I���ɂ��悭�킩���<end_line>
-      �����Ă���A�Ȃ�ƂȂ�<three_dots><end_line>
+      オレにもよくわからん<end_line>
+      歩いてたら、なんとなく<three_dots><end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �킽���ɂ��悭�킩��Ȃ�<end_line>
-      �����Ă���A�Ȃ�ƂȂ�<three_dots><end_line>
+      わたしにもよくわかんない<end_line>
+      歩いてたら、なんとなく<three_dots><end_line>
     </sjis>
   </female>
   <ascii>
@@ -48,9 +48,9 @@
   <portrait_l entry="player" eye="sad" mouth="tense">
   <portrait_r entry="lemmy" eye="decided" mouth="neutral">
   <sjis>
-    �Ȃ�ƂȂ��H<end_line>
-    ����ȕ��Ƀt���t�����Ă�<end_line>
-    �܂�����܂�Ă��m��Ȃ���<end_line>
+    なんとなく？<end_line>
+    そんな風にフラフラしてて<end_line>
+    またからまれても知らないよ<end_line>
   </sjis>
   <ascii>
     Just kinda?<end_line>
@@ -64,16 +64,16 @@
   <portrait_r entry="lemmy" eye="decided" mouth="neutral">
   <male>
     <sjis>
-      �Ȃ񂾂�H<end_line>
-      ���O����Ȃ��ƐS�z����<end_line>
-      ����ȂƂ��܂ŗ����̂��H<end_line>
+      なんだよ？<end_line>
+      お前そんなこと心配して<end_line>
+      こんなとこまで来たのか？<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �Ȃɂ�H<end_line>
-      ���Ȃ�����Ȃ��ƐS�z����<end_line>
-      ����ȂƂ��܂ŗ����́H<end_line>
+      なによ？<end_line>
+      あなたそんなこと心配して<end_line>
+      こんなとこまで来たの？<end_line>
     </sjis>
   </female>
   <ascii>
@@ -86,7 +86,7 @@
   <portrait_l entry="player" eye="serious" mouth="serious">
   <portrait_r entry="lemmy" eye="surprised_blush" mouth="stressed">
   <sjis>
-    ���A�N��<three_dots>�I<end_line>
+    だ、誰が<three_dots>！<end_line>
   </sjis>
   <ascii>
     N-no, I'm not<three_dots>!<end_line>
@@ -97,9 +97,9 @@
   <portrait_l entry="player" eye="serious" mouth="serious">
   <portrait_r entry="lemmy" eye="decided" mouth="tense">
   <sjis>
-    �l�͌��������Ă���������<end_line>
-    �l��̍H�[�����̒��̎��x�c��<end_line>
-    ����������<end_line>
+    僕は見回りをしてただけだよ<end_line>
+    僕らの工房もこの町の自警団の<end_line>
+    一員だからね<end_line>
   </sjis>
   <ascii>
     I was just on patrol.<end_line>
@@ -113,16 +113,16 @@
   <portrait_r entry="lemmy" eye="decided" mouth="tense">
   <male>
     <sjis>
-      �ւ�<three_dots>�A�A�j�L�Ɠ����Ȃ̂�<end_line>
-      ����A�����[�g��A�ɂ����̂�<end_line>
-      �����Ȃ̂��H<end_line>
+      へぇ<three_dots>、アニキと同じなのか<end_line>
+      じゃ、リュート岩窟にいたのも<end_line>
+      見回りなのか？<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �ւ�<three_dots>�A�A�j�L�Ɠ����Ȃ�<end_line>
-      ����A�����[�g��A�ɂ����̂�<end_line>
-      �����Ȃ́H<end_line>
+      へぇ<three_dots>、アニキと同じなんだ<end_line>
+      じゃ、リュート岩窟にいたのも<end_line>
+      見回りなの？<end_line>
     </sjis>
   </female>
   <ascii>
@@ -136,7 +136,7 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="lemmy" eye="surprised" mouth="tense">
   <sjis>
-    �����<three_dots><end_line>
+    それは<three_dots><end_line>
   </sjis>
   <ascii>
     Well<three_dots><end_line>
@@ -147,7 +147,7 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="lemmy" eye="decided" mouth="neutral">
   <sjis>
-    ��������<end_line>
+    そうだよ<end_line>
   </sjis>
   <ascii>
     That's right.<end_line>
@@ -159,16 +159,16 @@
   <portrait_r entry="lemmy" eye="decided" mouth="neutral">
   <male>
     <sjis>
-      �������A��ς���<three_dots><end_line>
-      �܁A�������ŃI��������<end_line>
-      ���������킯������<end_line>
+      そっか、大変だな<three_dots><end_line>
+      ま、おかげでオレたちも<end_line>
+      助かったわけだけど<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �������A��ς���<three_dots><end_line>
-      �܁A�������ł킽��������<end_line>
-      ���������킯������<end_line>
+      そっか、大変だね<three_dots><end_line>
+      ま、おかげでわたしたちも<end_line>
+      助かったわけだけど<end_line>
     </sjis>
   </female>
   <ascii>
@@ -182,8 +182,8 @@
   <portrait_l entry="player" eye="happy" mouth="neutral">
   <portrait_r entry="lemmy" eye="decided" mouth="serious">
   <sjis>
-    �����炠��́I<end_line>
-    �N�����̂��߂���Ȃ���<three_dots><end_line>
+    だからあれは！<end_line>
+    君たちのためじゃなくて<three_dots><end_line>
   </sjis>
   <ascii>
     I told you, that was!<end_line>
@@ -196,16 +196,16 @@
   <portrait_r entry="lemmy" eye="decided" mouth="neutral">
   <male>
     <sjis>
-      �{�X�^�t����̂��߂�<three_dots><end_line>
-      �������炨�O�Ƃ�<end_line>
-      �܂��������邱�ƂɂȂ邩����<end_line>
+      ボスタフさんのためか<three_dots><end_line>
+      だったらお前とは<end_line>
+      また勝負することになるかもな<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �{�X�^�t����̂��߂�<three_dots><end_line>
-      �������炠�񂽂Ƃ�<end_line>
-      �܂��������邱�ƂɂȂ邩����<end_line>
+      ボスタフさんのためね<three_dots><end_line>
+      だったらあんたとは<end_line>
+      また勝負することになるかもね<end_line>
     </sjis>
   </female>
   <ascii>
@@ -219,7 +219,7 @@
   <portrait_l entry="player" eye="decided" mouth="tense">
   <portrait_r entry="lemmy" eye="serious" mouth="tense">
   <sjis>
-    �ǂ��������ƁH<end_line>
+    どういうこと？<end_line>
   </sjis>
   <ascii>
     What do you mean?<end_line>
@@ -241,8 +241,8 @@
   <portrait_l entry="player" eye="sad" mouth="serious">
   <portrait_r entry="lemmy" eye="decided" mouth="talk">
   <sjis>
-    �ʂɂ�������<end_line>
-    �ł��A���̎��͕����Ȃ�����<end_line>
+    別にいいけど<end_line>
+    でも、その時は負けないから<end_line>
   </sjis>
   <ascii>
     Fine by me.<end_line>

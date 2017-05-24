@@ -2,7 +2,7 @@
   <info box="nobox">
   <portrait_l name="jade">
   <sjis>
-    ���A<player_nickname><three_dots><end_line>
+    あ、<player_nickname><three_dots><end_line>
   </sjis>
   <ascii>
     Ah, <player_nickname><three_dots><end_line>
@@ -13,8 +13,8 @@
   <portrait_l entry="player" eye="serious" mouth="serious">
   <portrait_r entry="jade" eye="serious" mouth="tense">
   <sjis>
-    ���O<three_dots><end_line>
-    �����ɂ����̂�<end_line>
+    お前<three_dots><end_line>
+    ここにいたのか<end_line>
   </sjis>
   <ascii>
     So<three_dots><end_line>
@@ -26,8 +26,8 @@
   <portrait_l entry="player" eye="sad" mouth="neutral">
   <portrait_r entry="jade" eye="serious" mouth="tense">
   <sjis>
-    ����<end_line>
-    �U�����Ă��牽�ƂȂ�<three_dots><end_line>
+    うん<end_line>
+    散歩してたら何となく<three_dots><end_line>
   </sjis>
   <ascii>
     Yeah.<end_line>
@@ -39,8 +39,8 @@
   <portrait_l entry="player" eye="sad" mouth="neutral">
   <portrait_r entry="jade" eye="sad" mouth="neutral">
   <sjis>
-    ������<three_dots><end_line>
-    ������ƐS�z�����񂾂�<three_dots><end_line>
+    そうか<three_dots><end_line>
+    ちょっと心配したんだぜ<three_dots><end_line>
   </sjis>
   <ascii>
     I see<three_dots><end_line>
@@ -52,9 +52,9 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="jade" eye="sad" mouth="neutral">
   <sjis>
-    �~���[�m�������ˑR�o�Ă�����<end_line>
-    �Ȃ�Č����o������<end_line>
-    ���������Ă��O��<three_dots><end_line>
+    ミューノたちが突然出てくかも<end_line>
+    なんて言い出すから<end_line>
+    もしかしてお前も<three_dots><end_line>
   </sjis>
   <ascii>
     You'd said Murno might<end_line>
@@ -67,7 +67,7 @@
   <portrait_l entry="player" eye="sad" mouth="serious">
   <portrait_r entry="jade" eye="sad" mouth="neutral">
   <sjis>
-    ���߂�<three_dots><end_line>
+    ごめん<three_dots><end_line>
   </sjis>
   <ascii>
     Sorry<three_dots><end_line>
@@ -78,8 +78,8 @@
   <portrait_l entry="player" eye="sad" mouth="serious">
   <portrait_r entry="jade" eye="decided" mouth="tense">
   <sjis>
-    �{���ɉ����������񂾁H<end_line>
-    �I���ł悯��Η͂ɂȂ邺�H<end_line>
+    本当に何があったんだ？<end_line>
+    オレでよければ力になるぜ？<end_line>
   </sjis>
   <ascii>
     Seriously, did something happen?<end_line>
@@ -91,8 +91,8 @@
   <portrait_l entry="player" eye="sad" mouth="tense">
   <portrait_r entry="jade" eye="decided" mouth="tense">
   <sjis>
-    ���肪��<end_line>
-    �ł�<three_dots><end_line>
+    ありがと<end_line>
+    でも<three_dots><end_line>
   </sjis>
   <ascii>
     Thanks,<end_line>
@@ -104,8 +104,8 @@
   <portrait_l entry="player" eye="sad" mouth="tense">
   <portrait_r entry="jade" eye="sad" mouth="talk">
   <sjis>
-    ������<three_dots><end_line>
-    �_����<three_dots><end_line>
+    そうか<three_dots><end_line>
+    ダメか<three_dots><end_line>
   </sjis>
   <ascii>
     I see<three_dots><end_line>
@@ -117,7 +117,7 @@
   <portrait_l entry="player" eye="sad" mouth="serious">
   <portrait_r entry="jade" eye="sad" mouth="talk">
   <sjis>
-    ���߂�A�A�j�L<three_dots><end_line>
+    ごめん、アニキ<three_dots><end_line>
   </sjis>
   <ascii>
     Sorry, Brother<three_dots><end_line>
@@ -128,9 +128,9 @@
   <portrait_l entry="player" eye="sad" mouth="serious">
   <portrait_r entry="jade" eye="serious" mouth="tense">
   <sjis>
-    ���O������܂邱�Ƃ���˂���<end_line>
-    �C�ɂ����<end_line>
-    �ł��A�ЂƂ����񑩂��Ă���<end_line>
+    お前があやまることじゃねぇよ<end_line>
+    気にすんな<end_line>
+    でも、ひとつだけ約束してくれ<end_line>
   </sjis>
   <ascii>
     You don't need to apologize.<end_line>
@@ -143,8 +143,8 @@
   <portrait_l entry="player" eye="serious" mouth="serious">
   <portrait_r entry="jade" eye="serious" mouth="neutral">
   <sjis>
-    �K�v�ȏ�Ɋ�Ȃ����Ƃ�<end_line>
-    ���˂����܂Ȃ����Ă�<end_line>
+    必要以上に危ないことに<end_line>
+    首を突っ込まないってな<end_line>
   </sjis>
   <ascii>
     Don't stick your neck out<end_line>
@@ -156,7 +156,7 @@
   <portrait_l entry="player" eye="surprised" mouth="tense">
   <portrait_r entry="jade" eye="serious" mouth="neutral">
   <sjis>
-    ���H<end_line>
+    え？<end_line>
   </sjis>
   <ascii>
     Eh?<end_line>
@@ -167,9 +167,9 @@
   <portrait_l entry="player" eye="surprised" mouth="tense">
   <portrait_r entry="jade" eye="decided" mouth="neutral">
   <sjis>
-    �I���͂��̒��̎��x�c������ă���<end_line>
-    ��Ȃ����Ƃ�<end_line>
-    �I�������ɂ܂�����΂���<end_line>
+    オレはこの町の自警団をやってンだ<end_line>
+    危ないことは<end_line>
+    オレたちにまかせればいい<end_line>
   </sjis>
   <ascii>
     I'm part of the village militia.<end_line>
@@ -181,7 +181,7 @@
   <portrait_l entry="player" eye="sad" mouth="tense">
   <portrait_r entry="jade" eye="decided" mouth="neutral">
   <sjis>
-    �ł�<three_dots><end_line>
+    でも<three_dots><end_line>
   </sjis>
   <ascii>
     But<three_dots><end_line>
@@ -192,8 +192,8 @@
   <portrait_l entry="player" eye="sad" mouth="tense">
   <portrait_r entry="jade" eye="decided" mouth="tense">
   <sjis>
-    ���O�͂��̒��̐l�Ԃ���Ȃ�<end_line>
-    �����܂Ń��`������K�v�͂Ȃ���<end_line>
+    お前はこの町の人間じゃない<end_line>
+    そこまでムチャする必要はないんだ<end_line>
   </sjis>
   <ascii>
     You're not a resident here.<end_line>
@@ -205,9 +205,9 @@
   <portrait_l entry="player" eye="sad" mouth="tense">
   <portrait_r entry="jade" eye="sad" mouth="neutral">
   <sjis>
-    �����ł������O��<end_line>
-    �����Ƀ��`������񂾂����<end_line>
-    ����܂�S�z������Ȃ�<end_line>
+    ただでさえお前は<end_line>
+    すぐにムチャするんだからよ<end_line>
+    あんまり心配かけるなよ<end_line>
   </sjis>
   <ascii>
     Even in normal situations,<end_line>
@@ -220,7 +220,7 @@
   <portrait_l entry="player" eye="sad" mouth="serious">
   <portrait_r entry="jade" eye="sad" mouth="neutral">
   <sjis>
-    ���߂�<three_dots><end_line>
+    ごめん<three_dots><end_line>
   </sjis>
   <ascii>
     Sorry<three_dots><end_line>
@@ -231,8 +231,8 @@
   <portrait_l entry="player" eye="sad" mouth="serious">
   <portrait_r entry="jade" eye="surprised" mouth="stressed">
   <sjis>
-    ���A����<end_line>
-    �{���Ă�킯����Ȃ���<end_line>
+    あ、いや<end_line>
+    怒ってるわけじゃないぜ<end_line>
   </sjis>
   <ascii>
     Ah, no,<end_line>
@@ -244,8 +244,8 @@
   <portrait_l entry="player" eye="sad" mouth="neutral">
   <portrait_r entry="jade" eye="surprised" mouth="stressed">
   <sjis>
-    ����<end_line>
-    �킩���Ă����<end_line>
+    うん<end_line>
+    わかってるって<end_line>
   </sjis>
   <ascii>
     Yeah.<end_line>

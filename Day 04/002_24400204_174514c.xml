@@ -1,41 +1,41 @@
 <location>
 	<sjis>
-		�قق��ݒ��@�P�K<end_line>
+		ほほえみ亭　１階<end_line>
 	</sjis>
 </location>
 <location>
 	<sjis>
-		�قق��ݒ��@�P�K<end_line>
+		ほほえみ亭　１階<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="roche">
 	<sjis>
-		�C�����čs���Ă�����Ⴂ��<end_line>
+		気をつけて行ってらっしゃいね<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="thuss">
 	<sjis>
-		������낵�����݂̂܂�<end_line>
+		娘をよろしくたのみます<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		���������͉����̔閧<hearth><end_line>
-		��������֎~�I�I<end_line>
-		�@�@�@�@�@�@�@�@�@�@�@�e�B�G<end_line>
+		ここから先は乙女の秘密<hearth><end_line>
+		立ち入り禁止！！<end_line>
+		　　　　　　　　　　　ティエ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		�i�b�N��������΁A�����������񂾂�<end_line>
-		�Ȃ���������̂���<end_line>
-		�I���́A�m��Ȃ�����<end_line>
+		ナックルがあれば、岩も動かせるんだよ<end_line>
+		なぜ動かせるのかは<end_line>
+		オレは、知らないけど<end_line>
 	</sjis>
 </dialogue>

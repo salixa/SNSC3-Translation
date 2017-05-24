@@ -1,11 +1,11 @@
 <location>
   <sjis>
-    �v���X�o���̒�<end_line>
+    プロスバンの町<end_line>
   </sjis>
 </location>
 <location>
   <sjis>
-    �v���X�o���̒��@����<end_line>
+    プロスバンの町　西門<end_line>
   </sjis>
 </location>
 <dialogue>
@@ -13,7 +13,7 @@
   <portrait_l name="player">
   <male>
     <sjis>
-      �������ɗp�͂Ȃ���<three_dots><end_line>
+      こっちに用はないな<three_dots><end_line>
     </sjis>
     <ascii>
       Nothing to do here<three_dots><end_line>
@@ -21,7 +21,7 @@
   </male>
   <female>
     <sjis>
-      ���������s���Ɩ��q�ɂȂ邩��<three_dots><end_line>
+      あちこち行くと迷子になるかも<three_dots><end_line>
     </sjis>
     <ascii>
       I'll get lost if I keep<end_line>
@@ -33,36 +33,36 @@
   <info box="simple">
   <portrait_l name="gatekeeper">
   <sjis>
-    ���������͍s���Ȃ���������<end_line>
-    �A�J�o�l���ăR���C�͂��ꂪ����<end_line>
-    ���ԂȂ������<end_line>
+    ここから先は行かない方がいい<end_line>
+    アカバネってコワイはぐれがいて<end_line>
+    あぶないからね<end_line>
   </sjis>
 </dialogue>
 <dialogue>
   <info box="simple">
   <portrait_l name="child">
   <sjis>
-    �˂��A���傤���񂲂������悤��<end_line>
-    �{�N���L�~�����傤���񂵂�<end_line>
-    �L�~���͂���ɂȂ��<end_line>
+    ねぇ、しょうかんごっこしようよ<end_line>
+    ボクがキミをしょうかんして<end_line>
+    キミがはぐれになるの<end_line>
   </sjis>
 </dialogue>
 <dialogue>
   <info box="simple">
   <sjis>
-    �|�͏W���͂ƕ���S����؂ł���I<end_line>
-    ���������̖������ɂ����I�X�X���ł��I<end_line>
+    弓は集中力と平常心が大切ですわ！<end_line>
+    落ち着きの無い方にこそオススメです！<end_line>
   </sjis>
 </dialogue>
 <dialogue>
   <info box="simple">
   <sjis>
-    �������끫<end_line>
+    下を見ろ↓<end_line>
   </sjis>
 </dialogue>
 <dialogue>
   <info box="simple">
   <sjis>
-    ���Č����Č���̂�<end_line>
+    って言われて見るのか<end_line>
   </sjis>
 </dialogue>

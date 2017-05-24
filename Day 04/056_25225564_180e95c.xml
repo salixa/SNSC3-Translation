@@ -3,16 +3,16 @@
   <portrait_l entry="player" eye="sad" mouth="tense">
   <male>
     <sjis>
-      <three_dots>‚Á‚ÄA‚±‚ñ‚È‚Æ‚±‚ë‚É‚¢‚½‚Á‚Ä<end_line>
-      ‰½‚à‰ðŒˆ‚·‚é‚í‚¯‚È‚¢‚µ<end_line>
-      ‚à‚¤‹A‚ë‚Á‚©‚È<three_dots><end_line>
+      <three_dots>ã£ã¦ã€ã“ã‚“ãªã¨ã“ã‚ã«ã„ãŸã£ã¦<end_line>
+      ä½•ã‚‚è§£æ±ºã™ã‚‹ã‚ã‘ãªã„ã—<end_line>
+      ã‚‚ã†å¸°ã‚ã£ã‹ãª<three_dots><end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      <three_dots>‚Á‚ÄA‚±‚ñ‚È‚Æ‚±‚ë‚É‚¢‚½‚Á‚Ä<end_line>
-      ‰½‚à‰ðŒˆ‚·‚é‚í‚¯‚È‚¢‚Ë<end_line>
-      ‚à‚¤‹A‚ë‚Á‚©‚È<three_dots><end_line>
+      <three_dots>ã£ã¦ã€ã“ã‚“ãªã¨ã“ã‚ã«ã„ãŸã£ã¦<end_line>
+      ä½•ã‚‚è§£æ±ºã™ã‚‹ã‚ã‘ãªã„ã­<end_line>
+      ã‚‚ã†å¸°ã‚ã£ã‹ãª<three_dots><end_line>
     </sjis>
   </female>
   <ascii>
@@ -26,16 +26,16 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <male>
     <sjis>
-      ‚ñH<end_line>
-      ’N‚©—ˆ‚½H<end_line>
-      ‚Ü‚³‚©<three_dots><end_line>
+      ã‚“ï¼Ÿ<end_line>
+      èª°ã‹æ¥ãŸï¼Ÿ<end_line>
+      ã¾ã•ã‹<three_dots><end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ‚ ‚êH<end_line>
-      ’N‚©—ˆ‚½‚Ý‚½‚¢H<end_line>
-      ‚Ü‚³‚©<three_dots><end_line>
+      ã‚ã‚Œï¼Ÿ<end_line>
+      èª°ã‹æ¥ãŸã¿ãŸã„ï¼Ÿ<end_line>
+      ã¾ã•ã‹<three_dots><end_line>
     </sjis>
   </female>
   <ascii>
@@ -47,7 +47,7 @@
 <menu>
   <option>
     <sjis>
-      ƒ~ƒ…[ƒm<end_line>
+      ãƒŸãƒ¥ãƒ¼ãƒŽ<end_line>
     </sjis>
     <ascii>
       Murno<end_line>
@@ -63,7 +63,7 @@
   </option>
   <option>
     <sjis>
-      ƒ”ƒB[<end_line>
+      ãƒ´ã‚£ãƒ¼<end_line>
     </sjis>
     <ascii>
       V.E<end_line>
@@ -71,7 +71,7 @@
   </option>
   <option>
     <sjis>
-      ƒŒƒ~ƒB<end_line>
+      ãƒ¬ãƒŸã‚£<end_line>
     </sjis>
     <ascii>
       Lemmy<end_line>
@@ -79,7 +79,7 @@
   </option>
   <option>
     <sjis>
-      ƒWƒFƒCƒh<end_line>
+      ã‚¸ã‚§ã‚¤ãƒ‰<end_line>
     </sjis>
     <ascii>
       Jade<end_line>
@@ -87,7 +87,7 @@
   </option>
   <option>
     <sjis>
-      ƒeƒBƒG<end_line>
+      ãƒ†ã‚£ã‚¨<end_line>
     </sjis>
     <ascii>
       Tier<end_line>

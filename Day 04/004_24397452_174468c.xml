@@ -1,24 +1,24 @@
 <location>
 	<sjis>
-		ƒ}[ƒlƒCƒ‹hê<end_line>
+		ãƒžãƒ¼ãƒã‚¤ãƒ«å®¿å ´<end_line>
 	</sjis>
 </location>
 <location>
 	<sjis>
-		ƒ}[ƒlƒCƒ‹hê@‚Ù‚Ù‚¦‚Ý’à‘O<end_line>
+		ãƒžãƒ¼ãƒã‚¤ãƒ«å®¿å ´ã€€ã»ã»ãˆã¿äº­å‰<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		ƒvƒƒXƒoƒ“‚Ì’¬‚Ös‚­“¹‚Í<end_line>
-		‚±‚ÌŠK’i‚ð‚¨‚è‚½æ‚¾‚æ<end_line>
+		ãƒ—ãƒ­ã‚¹ãƒãƒ³ã®ç”ºã¸è¡Œãé“ã¯<end_line>
+		ã“ã®éšŽæ®µã‚’ãŠã‚ŠãŸå…ˆã ã‚ˆ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		ƒSƒƒSƒ<three_dots><end_line>
+		ã‚´ãƒ­ã‚´ãƒ­<three_dots><end_line>
 	</sjis>
 </dialogue>

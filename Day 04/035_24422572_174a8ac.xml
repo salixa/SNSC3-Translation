@@ -1,25 +1,25 @@
 <location>
 	<sjis>
-		�v���X�o���̒��@���퉮<end_line>
+		プロスバンの町　武器屋<end_line>
 	</sjis>
 </location>
 <location>
 	<sjis>
-		�v���X�o���̒��@���퉮<end_line>
+		プロスバンの町　武器屋<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		�}�e������舵���Ă��܂�<end_line>
-		�������b��ɍœK�ȃA�C�e����<end_line>
-		������舵���Ă���܂�<end_line>
+		マテルも取り扱っています<end_line>
+		もちろん鍛冶に最適なアイテムも<end_line>
+		多数取り扱っております<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="shop_clerk">
 	<sjis>
-		�ŋ߂͂͂���̂����ł����������Ă�<end_line>
+		最近ははぐれのせいでいそがしくてね<end_line>
 	</sjis>
 </dialogue>

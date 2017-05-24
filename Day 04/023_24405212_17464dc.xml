@@ -1,6 +1,6 @@
 <location>
 	<sjis>
-		�v���X�o���̒��@���X�ʂ�<end_line>
+		プロスバンの町　商店通り<end_line>
 	</sjis>
 </location>
 <dialogue>
@@ -8,8 +8,8 @@
 	<portrait_l name="player">
   <male>
     <sjis>
-      �A�j�L�����̔h����<end_line>
-      ����������Ȃ����āI<end_line>
+      アニキも金の派閥も<end_line>
+      こっちじゃないって！<end_line>
     </sjis>
     <ascii>
       Neither Brother nor the<end_line>
@@ -18,7 +18,7 @@
   </male>
   <female>
     <sjis>
-      �A�j�L��ǂ������Ȃ�����I<end_line>
+      アニキを追いかけなくちゃ！<end_line>
     </sjis>
     <ascii>
       I have to go after Bro!<end_line>
@@ -29,38 +29,38 @@
 	<info box="simple">
 	<portrait_l name="peddler's_daughter">
 	<sjis>
-		���̂���l�́A�����l�Ȃ�<end_line>
-		���͂Q�l�ŗ������Ēb��t��E�l��<end_line>
-		��𔄂��Ă���i�K�Ȃ񂾂���<end_line>
+		私のお母様は、旅商人なの<end_line>
+		今は２人で旅をして鍛冶師や職人に<end_line>
+		顔を売っている段階なんだって<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="peddler's_daughter">
 	<sjis>
-		����l�́A�����V�тɍs���Ă����<end_line>
-		�v���Ă�݂��������ǁA�����̂��߂�<end_line>
-		���������Ă����<end_line>
+		お母様は、私が遊びに行ってるって<end_line>
+		思ってるみたいだけど、将来のために<end_line>
+		商売をしているの<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="peddler's_daughter">
 	<sjis>
-		�Ƃ���ł��Ȃ��́A�b��t�݂���������<end_line>
-		�����̏��𕷂��Ă����Ȃ��H<end_line>
+		ところであなたは、鍛冶師みたいだけど<end_line>
+		強化の情報を聞いていかない？<end_line>
 	</sjis>
 </dialogue>
 <choice>
 	<info box="simple">
 	<option>
 		<sjis>
-			�����Ă݂�<end_line>
+			聞いてみる<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			���ɕ����Ȃ�<end_line>
+			特に聞かない<end_line>
 		</sjis>
 	</option>
 </choice>
@@ -68,37 +68,37 @@
 	<info box="simple">
 	<portrait_l name="peddler's_daughter">
 	<sjis>
-		�����Łu�j�ŃX�C�b�`�v���g����<end_line>
-		�K�E�Z�́u�c�t�q�A�^�b�N�v<end_line>
-		������ɕt��������<end_line>
+		強化で「破滅スイッチ」を使うと<end_line>
+		必殺技の「ＤＵＲアタック」<end_line>
+		が武器に付加されるの<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="peddler's_daughter">
 	<sjis>
-		�ł����āA����͂Ȃ��<end_line>
-		�u�j�ŃX�C�b�`�v��<end_line>
-		�W�O�O�o�[���Ŕ̔����Ȃ́`<end_line>
+		でもって、今回はなんと<end_line>
+		「破滅スイッチ」を<end_line>
+		８００バームで販売中なの～<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="peddler's_daughter">
 	<sjis>
-		�����Ă���܂��H<end_line>
+		買ってくれます？<end_line>
 	</sjis>
 </dialogue>
 <choice>
 	<info box="simple">
 	<option>
 		<sjis>
-			����<end_line>
+			買う<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			����Ȃ�<end_line>
+			買わない<end_line>
 		</sjis>
 	</option>
 </choice>
@@ -106,80 +106,80 @@
 	<info box="simple">
 	<portrait_l name="peddler's_daughter">
 	<sjis>
-		���肪�Ɓ`<end_line>
+		ありがと～<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="peddler's_daughter">
 	<sjis>
-		�������`���ꂶ��`<end_line>
-		��������Ȃ��́`<end_line>
-		���k�s��������`<end_line>
+		ええぇ～これじゃ～<end_line>
+		お金たりないの～<end_line>
+		商談不成立だよ～<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="peddler's_daughter">
 	<sjis>
-		���`�������������Ĕ����Ă���Ȃ��́`<end_line>
-		�P�`�`<end_line>
+		え～聞くだけ聞いて買ってくれないの～<end_line>
+		ケチ～<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="peddler's_daughter">
 	<sjis>
-		���`�����Ă���Ȃ��́`<end_line>
-		���������̂��q���񂾂Ǝv�����̂Ɂ`<end_line>
+		え～聞いてくれないの～<end_line>
+		せっかくのお客さんだと思ったのに～<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		���\���܂��Ă�����<end_line>
-		���낻��A����������<end_line>
-		�s���Ȃ���<three_dots><end_line>
+		結構溜まってきたな<end_line>
+		そろそろ、福引き屋に<end_line>
+		行かないと<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		����A�L�~�������b����ċ���񂾂�<end_line>
-		�Љ���<end_line>
-		�{�N�̏����b�A�~���[�^���E����<end_line>
+		おや、キミも召喚獣をつれて居るんだね<end_line>
+		紹介するよ<end_line>
+		ボクの召喚獣、ミョータロウだよ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		�@<end_line>
-		�@�@�@�ނ蒇�ԐV���@��P��<end_line>
+		　<end_line>
+		　　　釣り仲間新聞　第１号<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		�f�B�b�N�����̒ނ�l�̒r�ɂ�<end_line>
-		���ĂȂ��قǂ̂Ԃ�Ȗڂ�����<end_line>
-		������������炵����<end_line>
+		ディックル村の釣り人の池には<end_line>
+		かつてないほどのつぶらな目をした<end_line>
+		ワン魚がいるらしいぞ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		�u�������v�ł��Ȃ��̉^��<end_line>
-		�����Ă݂܂��񂩁H<end_line>
-		�������I�I�󂭂������I�I<end_line>
+		「福引き」であなたの運を<end_line>
+		試してみませんか？<end_line>
+		毎日抽選！空くじ無し！！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		�͂��ꂪ�o�����Ƃ�m�点��x��<end_line>
-		���������炷�݂₩�ɒ��̒��ɔ�<end_line>
-		�O�o���Ђ����܂��傤<end_line>
+		はぐれが出たことを知らせる警報が<end_line>
+		聞こえたらすみやかに町の中に避難し<end_line>
+		外出をひかえましょう<end_line>
 	</sjis>
 </dialogue>

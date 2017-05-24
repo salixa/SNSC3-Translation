@@ -2,8 +2,8 @@
   <info box="simple">
   <portrait_l name="unknown">
   <sjis>
-    ����Ȃ�<three_dots><end_line>
-    �����݂�<three_dots><end_line>
+    足りない<three_dots><end_line>
+    いたみが<three_dots><end_line>
   </sjis>
   <ascii>
     Not enough<three_dots><end_line>
@@ -15,14 +15,14 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <male>
     <sjis>
-      �Ȃ񂾁H<end_line>
-      ���̐�<three_dots><end_line>
+      なんだ？<end_line>
+      今の声<three_dots><end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �ȂɁH<end_line>
-      ���̐�<three_dots><end_line>
+      なに？<end_line>
+      今の声<three_dots><end_line>
     </sjis>
   </female>
   <ascii>
@@ -36,8 +36,8 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <portrait_r entry="partner" eye="sad" mouth="serious">
   <sjis>
-    �R�m�g�`�n<three_dots><end_line>
-    ��z�h�m�@�j�m���f�X<end_line>
+    コノ波形ハ<three_dots><end_line>
+    先ホドノ　男ノ声デス<end_line>
   </sjis>
   <ascii>
     This Waveform<three_dots><end_line>
@@ -51,8 +51,8 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <portrait_r entry="partner" eye="sad" mouth="serious">
   <sjis>
-    ���̃q�Q�ɂЂт���<three_dots><end_line>
-    ��قǂ̒j�̐������<end_line>
+    このヒゲにひびく声<three_dots><end_line>
+    先ほどの男の声じゃな<end_line>
   </sjis>
   <ascii>
     I can feel it with my whiskers<three_dots><end_line>
@@ -65,8 +65,8 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <portrait_r entry="partner" eye="sad" mouth="serious">
   <sjis>
-    �C���Ȑ���<three_dots><end_line>
-    �������̃j���Q������<end_line>
+    イヤな声だ<three_dots><end_line>
+    さっきのニンゲンだな<end_line>
   </sjis>
   <ascii>
     How unpleasant<three_dots><end_line>
@@ -79,8 +79,8 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <portrait_r entry="partner" eye="sad" mouth="serious">
   <sjis>
-    ����<three_dots>�A���̐�<three_dots><end_line>
-    �������̒j�̐l�ł���<end_line>
+    うぅ<three_dots>、あの声<three_dots><end_line>
+    さっきの男の人ですね<end_line>
   </sjis>
   <ascii>
     Uu<three_dots> that voice<three_dots><end_line>

@@ -1,24 +1,24 @@
 <location>
 	<sjis>
-		�v���X�o���̒��@�Z��X�K�i<end_line>
+		プロスバンの町　住宅街階段<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		�����������������Ă���݂�������<end_line>
-		�z�R�œ����Ă�j������<end_line>
-		�����b�ɒ��т𓐂��鎖����<end_line>
+		ここ数日落ち着いているみたいだが<end_line>
+		鉱山で働いてる男たちが<end_line>
+		召喚獣に昼飯を盗られる事件が<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		�p�����Ă���ĉ\��<end_line>
-		�������A���̏����b�𑀂��Ă���̂�<end_line>
-		�܂��q�������ĉ\��<end_line>
+		頻発してるって噂だ<end_line>
+		しかも、その召喚獣を操っているのは<end_line>
+		まだ子供だって噂だ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -30,32 +30,32 @@
 <dialogue>
 	<info box="simple">
 	<sjis>
-		�v���X�o���̒������̂͌N���I<end_line>
-		�v���X�o�����x�c�ł͐V���Ȓ��Ԃ�<end_line>
-		��W���Ă��܂�<end_line>
+		プロスバンの町を守るのは君だ！<end_line>
+		プロスバン自警団では新たな仲間を<end_line>
+		募集しています<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		�}�L����A���o�C�g��W��<end_line>
-		�ڍׂ̓}�[�l�C���h��<end_line>
-		�قق��ݒ����@�}�L���₶�܂�<end_line>
+		マキ割りアルバイト募集中<end_line>
+		詳細はマーネイル宿場<end_line>
+		ほほえみ亭横　マキおやじまで<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		�͂��ꏢ���b�ɒǂ���<end_line>
-		���q�ɂȂ�l�R�������Ă��܂�<end_line>
-		�����傳��͒��ӂ��Ă����Ă�������<end_line>
+		はぐれ召喚獣に追われて<end_line>
+		迷子になるネコが増えています<end_line>
+		飼い主さんは注意してあげてください<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		�����͍z�΂ƒb��̒�<end_line>
-		�b��E�l�Ȃ�q�̖]�ޕ����<end_line>
-		�b����I<end_line>
+		ここは鉱石と鍛冶の町<end_line>
+		鍛冶職人なら客の望む武器を<end_line>
+		鍛えよ！<end_line>
 	</sjis>
 </dialogue>

@@ -14,12 +14,12 @@
   <portrait_r entry="partner" eye="decided" mouth="serious">
   <male>
     <sjis>
-      �ǂ������񂾁H<end_line>
+      どうしたんだ？<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �ǂ������́H<end_line>
+      どうしたの？<end_line>
     </sjis>
   </female>
   <ascii>
@@ -32,8 +32,8 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="partner" eye="decided" mouth="tense">
   <sjis>
-    ���҃J�K�@���^�`�m�Ճ�<end_line>
-    �c�P�e�C�^���E�j�@���G�}�V�^<end_line>
+    何者カガ　私タチノ跡ヲ<end_line>
+    ツケテイタヨウニ　見エマシタ<end_line>
   </sjis>
   <ascii>
     It Appears As If Something<end_line>
@@ -46,9 +46,9 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="partner" eye="decided" mouth="tense">
   <sjis>
-    �N�������Ă��Ă���悤��<end_line>
-    �C�z���������̂���<three_dots><end_line>
-    �Ȃɂ��G�ȋC�z���������<three_dots><end_line>
+    誰かがついてきているような<end_line>
+    気配を感じたのじゃ<three_dots><end_line>
+    なにやら雑な気配じゃったが<three_dots><end_line>
   </sjis>
   <ascii>
     I felt something,<end_line>
@@ -62,9 +62,9 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="partner" eye="decided" mouth="tense">
   <sjis>
-    �����ɂ����ƌ����Ă����悤��<three_dots><end_line>
-    �C���ȋC����<end_line>
-    ���J���J����<three_dots><end_line>
+    何かにずっと見られていたような<three_dots><end_line>
+    イヤな気分だ<end_line>
+    ムカムカする<three_dots><end_line>
   </sjis>
   <ascii>
     Something's been watching us<three_dots><end_line>
@@ -78,9 +78,9 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="partner" eye="decided" mouth="tense">
   <sjis>
-    �N�����������̐Ղ����Ă����悤��<end_line>
-    �C��������ł���<three_dots><end_line>
-    ������ƃC���Ȋ����ł���<three_dots><end_line>
+    誰かが私たちの跡をつけていたような<end_line>
+    気がしたんですが<three_dots><end_line>
+    ちょっとイヤな感じですわ<three_dots><end_line>
   </sjis>
   <ascii>
     It feels as if someone<end_line>
@@ -93,8 +93,8 @@
   <portrait_l entry="player" eye="sad" mouth="serious">
   <portrait_r entry="partner" eye="decided" mouth="tense">
   <sjis>
-    ������đO�ɂ�<three_dots><end_line>
-    �܂��A�j�L�������肵��<end_line>
+    これって前にも<three_dots><end_line>
+    またアニキだったりして<end_line>
   </sjis>
   <ascii>
     Same as before<three_dots><end_line>
@@ -106,8 +106,8 @@
   <portrait_l entry="player" eye="sad" mouth="serious">
   <portrait_r entry="elieze" eye="serious" mouth="talk">
   <sjis>
-    ���H<end_line>
-    ���Ɂ[����񂪂����́H<end_line>
+    え？<end_line>
+    おにーちゃんがきたの？<end_line>
   </sjis>
   <ascii>
     Eh?<end_line>
@@ -119,9 +119,9 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="elieze" eye="serious" mouth="talk">
   <sjis>
-    �Ǝv�����񂾂���<three_dots><end_line>
-    ����Ȃ킯�Ȃ���<end_line>
-    �Ȃ񂾂낤<three_dots><end_line>
+    と思ったんだけど<three_dots><end_line>
+    そんなわけないか<end_line>
+    なんだろう<three_dots><end_line>
   </sjis>
   <ascii>
     So I thought, but<three_dots><end_line>
@@ -134,7 +134,7 @@
   <portrait_l entry="player" eye="serious" mouth="serious">
   <portrait_r entry="elieze" eye="serious" mouth="talk">
   <sjis>
-    �C�̂������Ƃ����񂾂���<end_line>
+    気のせいだといいんだけど<end_line>
   </sjis>
   <ascii>
     I hope it's just my imagination.<end_line>

@@ -3,9 +3,9 @@
 	<portrait_l entry="player" eye="sad" mouth="serious">
 	<portrait_r entry="vee" eye="decided" mouth="tense">
 	<sjis>
-		�A���^�����A�����������񂾂�<end_line>
-		�͂��ꂪ�o�����ɍs���Ă��񂾂��āH<end_line>
-		�܂����`������<end_line>
+		アンタたち、無事だったんだね<end_line>
+		はぐれが出た方に行ってたんだって？<end_line>
+		またムチャして<end_line>
 	</sjis>
   <ascii>
     Oh, I'm glad you're safe.<end_line>
@@ -18,9 +18,9 @@
 	<portrait_l entry="player" eye="sad" mouth="serious">
 	<portrait_r entry="jade" eye="decided" mouth="neutral">
 	<sjis>
-		�������I<end_line>
-		���̕ӂ�̂͂���̂��Ƃ̓I��������<end_line>
-		�C���Ă����΂����񂾂�<end_line>
+		そうだ！<end_line>
+		この辺りのはぐれのことはオレたちに<end_line>
+		任せておけばいいんだよ<end_line>
 	</sjis>
   <ascii>
     She's right!<end_line>
@@ -33,9 +33,9 @@
 	<portrait_l entry="player" eye="sad" mouth="serious">
 	<portrait_r entry="jade" eye="decided" mouth="tense">
 	<sjis>
-		���������܂��������Ȃ炵�Y���<end_line>
-		�h�W�ȃ��c������Ƃ͂�<end_line>
-		������̃��c�Ɍ����Ă��Ȃ���<end_line>
+		しっかしまさか鐘をならし忘れる<end_line>
+		ドジなヤツがいるとはな<end_line>
+		持ち場のヤツに言ってやらないと<end_line>
 	</sjis>
   <ascii>
     But really, who would've thought some<end_line>
@@ -48,8 +48,8 @@
 	<portrait_l entry="partner" eye="decided" mouth="tense">
 	<portrait_r entry="vee" eye="serious" mouth="neutral">
 	<sjis>
-		�e��<end_line>
-		�݂�[�̗l�n�@�߃b�e�C�}�X�J�H<end_line>
+		親方<end_line>
+		みゅーの様ハ　戻ッテイマスカ？<end_line>
 	</sjis>
   <ascii>
     Master,<end_line>
@@ -62,8 +62,8 @@
 	<portrait_l entry="partner" eye="decided" mouth="tense">
 	<portrait_r entry="vee" eye="serious" mouth="neutral">
 	<sjis>
-		�Ƃ����<end_line>
-		�~���[�m�͖߂��Ă��邩�́H<end_line>
+		ところで<end_line>
+		ミューノは戻っておるかの？<end_line>
 	</sjis>
   <ascii>
     By the way,<end_line>
@@ -76,7 +76,7 @@
 	<portrait_l entry="partner" eye="decided" mouth="tense">
 	<portrait_r entry="vee" eye="serious" mouth="neutral">
 	<sjis>
-		�~���[�m�͖߂��Ă��邩�H<end_line>
+		ミューノは戻っているか？<end_line>
 	</sjis>
   <ascii>
     Has Murno returned?<end_line>
@@ -88,8 +88,8 @@
 	<portrait_l entry="partner" eye="decided" mouth="tense">
 	<portrait_r entry="vee" eye="serious" mouth="neutral">
 	<sjis>
-		���݂܂���<end_line>
-		�~���[�m�l�͖߂��Ă��܂����H<end_line>
+		すみません<end_line>
+		ミューノ様は戻っていますか？<end_line>
 	</sjis>
   <ascii>
     Excuse me,<end_line>
@@ -101,9 +101,9 @@
 	<portrait_l entry="partner" eye="decided" mouth="tense">
 	<portrait_r entry="vee" eye="serious" mouth="tense">
 	<sjis>
-		���A����<end_line>
-		�߂��Ă��<end_line>
-		���ɂ���Ǝv������<three_dots><end_line>
+		あ、ああ<end_line>
+		戻ってるよ<end_line>
+		中にいると思うけど<three_dots><end_line>
 	</sjis>
   <ascii>
     Y-yeah,<end_line>
@@ -117,8 +117,8 @@
 	<portrait_l entry="partner" eye="decided" mouth="serious">
 	<portrait_r entry="vee" eye="serious" mouth="tense">
 	<sjis>
-		�f�n�A�b�K�A���m�f<end_line>
-		�s�L�}�X<end_line>
+		デハ、話ガアルノデ<end_line>
+		行キマス<end_line>
 	</sjis>
   <ascii>
     I Must Talk To Her.<end_line>
@@ -131,9 +131,9 @@
 	<portrait_l entry="partner" eye="decided" mouth="serious">
 	<portrait_r entry="vee" eye="serious" mouth="tense">
 	<sjis>
-		������<end_line>
-		�ł́A�����b�����Ƃ�����̂�<end_line>
-		���܂��<end_line>
+		そうか<end_line>
+		では、少し話すことがあるので<end_line>
+		すまんな<end_line>
 	</sjis>
   <ascii>
     I see<three_dots><end_line>
@@ -147,7 +147,7 @@
 	<portrait_l entry="partner" eye="decided" mouth="serious">
 	<portrait_r entry="vee" eye="serious" mouth="tense">
 	<sjis>
-		������<end_line>
+		そうか<end_line>
 	</sjis>
   <ascii>
     I see<three_dots><end_line>
@@ -159,9 +159,9 @@
 	<portrait_l entry="partner" eye="decided" mouth="serious">
 	<portrait_r entry="vee" eye="serious" mouth="tense">
 	<sjis>
-		�����ł���<end_line>
-		���Ⴀ�������b�����������Ƃ�<end_line>
-		����܂�����A���炵�܂���<end_line>
+		そうですか<end_line>
+		じゃあ少しお話ししたいことが<end_line>
+		ありますから、失礼しますわ<end_line>
 	</sjis>
   <ascii>
     Is that so<three_dots><end_line>
@@ -173,8 +173,8 @@
 	<info box="right">
 	<portrait_r entry="vee" eye="serious" mouth="serious">
 	<sjis>
-		�Ȃ񂩗l�q�����������Ȃ����H<end_line>
-		�Ȃ�̗p�Ȃ񂾂낤�ˁH<end_line>
+		なんか様子がおかしくないか？<end_line>
+		なんの用なんだろうね？<end_line>
 	</sjis>
   <ascii>
     Aren't you acting strange?<end_line>
@@ -186,9 +186,9 @@
 	<portrait_l entry="player" eye="sad" mouth="tense">
 	<portrait_r entry="vee" eye="serious" mouth="serious">
 	<sjis>
-		����<three_dots><end_line>
-		���́A<partner>��<end_line>
-		���������o��������<three_dots><end_line>
+		いや<three_dots><end_line>
+		その、<partner>が<end_line>
+		早く町を出たいって<three_dots><end_line>
 	</sjis>
   <ascii>
     Well, uh<three_dots><end_line>
@@ -201,8 +201,8 @@
 	<portrait_l entry="player" eye="sad" mouth="tense">
 	<portrait_r entry="vee" eye="surprised" mouth="stressed">
 	<sjis>
-		���A������Ƒ҂��Ȃ�<end_line>
-		�ˑR����<end_line>
+		ち、ちょっと待ちなよ<end_line>
+		突然だね<end_line>
 	</sjis>
   <ascii>
     W-wait, where's this<end_line>
@@ -214,8 +214,8 @@
 	<portrait_l entry="player" eye="sad" mouth="tense">
 	<portrait_r entry="vee" eye="sad" mouth="serious">
 	<sjis>
-		�������̓{�X�^�t�Ƃ̘b��<end_line>
-		�������܂����ĂȂ��񂾂���<end_line>
+		こっちはボスタフとの話に<end_line>
+		決着がまだついてないんだけど<end_line>
 	</sjis>
   <ascii>
     We still haven't finished<end_line>
@@ -238,8 +238,8 @@
 	<portrait_l entry="player" eye="sad" mouth="serious">
 	<portrait_r entry="vee" eye="decided" mouth="tense">
 	<sjis>
-		�ǂ������A<player_nickname><end_line>
-		��̂Ȃɂ��������񂾂��H<end_line>
+		どうした、<player_nickname><end_line>
+		一体なにがあったんだい？<end_line>
 	</sjis>
   <ascii>
     What's wrong, <player_nickname>?<end_line>
@@ -250,7 +250,7 @@
 	<portrait_l entry="player" eye="sad" mouth="tense">
 	<portrait_r entry="vee" eye="decided" mouth="tense">
 	<sjis>
-		�����<three_dots><end_line>
+		それは<three_dots><end_line>
 	</sjis>
   <ascii>
     That's<three_dots><end_line>
@@ -259,7 +259,7 @@
 <dialogue>
 	<info box="nobox">
 	<sjis>
-		�@���ǁA�e���ɂ͉����b���Ȃ�����<three_dots>�@<end_line>
+		　結局、親方には何も話せなかった<three_dots>　<end_line>
 	</sjis>
   <ascii>
     In the end, I couldn't<end_line>
@@ -270,16 +270,16 @@
 	<info box="nobox">
 	<male>
 		<sjis>
-			�@�@�@�b����킯�Ȃ�����Ȃ����@�@�@<end_line>
-			�@�@�@�~���[�m���͂��ꏢ���b���@�@�@<end_line>
-			���΂ꂳ���Ă��邩������Ȃ��Ȃ��<three_dots><end_line>
+			　　　話せるわけないじゃないか　　　<end_line>
+			　　　ミューノがはぐれ召喚獣を　　　<end_line>
+			あばれさせているかもしれないなんて<three_dots><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�@�@�@�b����킯�Ȃ�����Ȃ��@�@�@�@<end_line>
-			�@�@�@�~���[�m���͂��ꏢ���b���@�@�@<end_line>
-			���΂ꂳ���Ă��邩������Ȃ��Ȃ��<three_dots><end_line>
+			　　　話せるわけないじゃない　　　　<end_line>
+			　　　ミューノがはぐれ召喚獣を　　　<end_line>
+			あばれさせているかもしれないなんて<three_dots><end_line>
 		</sjis>
 	</female>
   <ascii>
@@ -291,8 +291,8 @@
 <dialogue>
 	<info box="nobox">
 	<sjis>
-		�@�@�~���[�m�̂����ŁA���u�e�����@�@<end_line>
-		�@�@���񂾂�������Ȃ��Ȃ��<three_dots><three_dots>�@�@<end_line>
+		　　ミューノのせいで、ロブ親方が　　<end_line>
+		　　死んだかもしれないなんて<three_dots><three_dots>　　<end_line>
 	</sjis>
   <ascii>
     And because of her,<end_line>
