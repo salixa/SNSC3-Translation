@@ -110,7 +110,7 @@
 	</sjis>
   <ascii>
     Uwah!?<end_line>
-  <a/screen>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -474,7 +474,7 @@
 	</sjis>
   <ascii>
     Stop playing around!<end_line>
-  </scaring>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">

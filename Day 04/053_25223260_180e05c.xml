@@ -43,7 +43,7 @@
   </female>
   <ascii>
     W-what!?<end_line>
-  </screen>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -76,7 +76,7 @@
   <ascii>
     Stop!<end_line>
     That isn't a Stray!<end_line>
-  </screen>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -470,6 +470,7 @@
     Oho<three_dots><end_line>
     Fiesty, aren't you?<end_line>
     This could be fun.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <partner name="killfith">

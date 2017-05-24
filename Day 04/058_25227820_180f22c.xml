@@ -39,7 +39,7 @@
   </sjis>
   <ascii>
     There you are.<end_line>
-  </ascii.
+  </ascii>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -301,7 +301,7 @@
   </sjis>
   <ascii>
     That's<three_dots><end_line>
-  </screen>
+  </ascii>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
