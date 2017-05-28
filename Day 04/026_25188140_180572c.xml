@@ -18,8 +18,8 @@
   </sjis>
   <ascii>
     That's right.<end_line>
-    This is where the Summoners who<end_line>
-    manage Prosban gather<three_dots><end_line>
+    This is where the Summoners<end_line>
+    who manage Prosban gather<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -235,8 +235,9 @@
     ヒミツにしてたみたいですから<end_line>
   </sjis>
   <ascii>
-    It seems he is trying to keep knowledge<end_line>
-    of Summoning techniques from outsiders.<end_line>
+    I believe he is trying to keep<end_line>
+		knowledge of Summoning techniques<end_line>
+		from spreading.<end_line>
   </ascii>
 </dialogue>
 <dialogue>

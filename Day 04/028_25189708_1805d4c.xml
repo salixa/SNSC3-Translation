@@ -18,9 +18,9 @@
     なんだか本当にいちばんエライ人に<end_line>
     会えそうね<end_line>
   </sjis>
-    Somehow it really feels like I'm about<end_line>
-    to meet a most distinguished individual.<end_line>
   <ascii>
+		I get the feeling I'm about<end_line>
+    to meet a very important person.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -31,7 +31,7 @@
     ありがとうございます<end_line>
   </sjis>
   <ascii>
-    Thank you very much.<end_line>
+    Thank you very much, Jade.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -86,8 +86,8 @@
   </sjis>
   <ascii>
     Fufufu<three_dots><end_line>
-    With this, maybe we'll be able<end_line>
-    to get a paycheck<three_dots><end_line>
+    With this, maybe we'll be <end_line>
+    able to get a paycheck<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -98,7 +98,7 @@
     その交渉は自分でたのむぜ<end_line>
   </sjis>
   <ascii>
-    Don't drag me into this.<end_line>
+    Just don't drag me into this.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -123,8 +123,8 @@
   </sjis>
   <ascii>
     Hello, I am Ianna Mortier.<end_line>
-    You are the ones who wish<end_line>
-    to meet Lord Velworen, yes?<end_line>
+    You who wish to meet<end_line>
+    Lord Velworen, yes?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -352,8 +352,8 @@
   </sjis>
   <ascii>
     Um<three_dots><end_line>
-    There's something I want to<end_line>
-    talk to you about.<end_line>
+    There's something I want<end_line>
+    to talk to you about.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -720,7 +720,7 @@
   </sjis>
   <ascii>
     Come with me.<end_line>
-    A shall teach you a little bit<end_line>
+    A shall teach you a little<end_line>
     about an adult's world.<end_line>
   </ascii>
 </dialogue>
