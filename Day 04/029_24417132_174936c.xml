@@ -10,6 +10,10 @@
 		オレはちょっと仕事があるけど<end_line>
 		ま、楽にしててくれや<end_line>
 	</sjis>
+  <ascii>
+    Well, I still have work to do.<end_line>
+    Take it easy.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -17,6 +21,9 @@
 	<sjis>
 		ん<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Mm<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">

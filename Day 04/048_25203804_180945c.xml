@@ -16,8 +16,8 @@
     ちょっと聞きたいんだけど<end_line>
   </sjis>
   <ascii>
-    So, there's<end_line>
-    something I'd like to ask you.<end_line>
+    So, there's something<end_line>
+    I'd like to ask you.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -181,7 +181,8 @@
   </female>
   <ascii>
     Those clothes<three_dots><end_line>
-    You must be from Bostaph's workshop<three_dots><end_line>
+    You must be from<end_line>
+    Bostaph's workshop<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -194,7 +195,8 @@
   </sjis>
   <ascii>
     That woman is a total pain.<end_line>
-    She's caused a lot of trouble for us.<end_line>
+    She's caused a lot<end_line>
+    of trouble for us.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -246,7 +248,8 @@
   </sjis>
   <ascii>
     Okay okay, calm down.<end_line>
-    Let's take our time and talk about it<three_dots><end_line>
+    Let's take our time<end_line>
+    and talk about it<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
