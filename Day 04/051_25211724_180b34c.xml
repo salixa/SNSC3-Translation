@@ -1,4 +1,4 @@
-<dialogue>#262
+<dialogue>
   <info box="simple">
   <portrait_l name="tier">
   <sjis>
@@ -28,8 +28,7 @@
   </female>
   <ascii>
     Oh, Tier.<end_line>
-    I'm surprised you knew<end_line>
-    about this place.<end_line>
+    How'd you know we were here?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -58,8 +57,7 @@
     わたしエリエ<end_line>
   </sjis>
   <ascii>
-    Hello,<end_line>
-    I'm Elieze.<end_line>
+    Hello, my name is Elieze.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -73,7 +71,7 @@
     お付き合いしているわ<end_line>
   </sjis>
   <ascii>
-    Hi. I'm Tier.<end_line>
+     I'm Tier.<end_line>
     I'm currently dating <player_nickname>,<end_line>
     with intention to marry.<end_line>
   </ascii>
@@ -116,8 +114,7 @@
     わたしエリエ<end_line>
   </sjis>
   <ascii>
-    Hello,<end_line>
-    I'm Elieze.<end_line>
+    Hello, I'm Elieze.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -158,9 +155,8 @@
     帰っちゃうなんて<three_dots>！<end_line>
   </sjis>
   <ascii>
-    You're cruel, you know!<end_line>
-    Leaving me behind<end_line>
-    and going out on your own<three_dots>!<end_line>
+    You're terrible, you know!<end_line>
+    Leaving me behind like that<three_dots>!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -174,7 +170,7 @@
   </sjis>
   <ascii>
     That Ianna lectured me<end_line>
-    so much, I didn't get<end_line>
+    so much, and I didn't get<end_line>
     a single Boam out of it<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -209,7 +205,7 @@
   </female>
   <ascii>
     Sorry I didn't say anything.<end_line>
-    But Bro told me to come<three_dots><end_line>
+    But Bro told me to go<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -221,7 +217,7 @@
     みゅーの様ハ　ドウナリマシタカ？<end_line>
   </sjis>
   <ascii>
-    What Happened With Lady Murno?<end_line>
+    How Is Lady Murno?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -235,7 +231,7 @@
   </sjis>
   <ascii>
     By the way,<end_line>
-    what happened with Murno?<end_line>
+    how is Murno doing?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -263,7 +259,7 @@
   </sjis>
   <ascii>
     Sorry to interrupt,<end_line>
-    but what happend with Lady Murno?<end_line>
+    but how Lady Murno doing?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -276,8 +272,8 @@
     ヴィーさんもまだみたい<end_line>
   </sjis>
   <ascii>
-    She's still talking to<end_line>
-    that Velworen guy.<end_line>
+    She's still talking<end_line>
+    to that Velworen guy.<end_line>
     V.E's not done either.<end_line>
   </ascii>
 </dialogue>
@@ -318,7 +314,7 @@
     送るって、<player_nickname>は？<end_line>
   </sjis>
   <ascii>
-    I could, but what about you?<end_line>
+    And what are you up to now?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -341,8 +337,8 @@
   </female>
   <ascii>
     There's something I'm worried about.<end_line>
-    There's a Stray blocking the<end_line>
-    way further in.<end_line>
+    There's a Stray blocking <end_line>
+    the way further in.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -355,9 +351,8 @@
     あぶないじゃないの！<end_line>
   </sjis>
   <ascii>
-    So it's dangerous for Elieze?<end_line>
-    Then you'll be in danger too,<end_line>
-    <player_nickname>!<end_line>
+    Then it'd be dangerous<end_line>
+    for you to stay too!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -394,7 +389,7 @@
   </sjis>
   <ascii>
     I swear upon this topknot,<end_line>
-    that I must go.<end_line>
+    I must go.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -487,8 +482,8 @@
     </sjis>
   </female>
   <ascii>
-    Elieze, it's dangerous here.<end_line>
-    Be careful.<end_line>
+    I'll see you later then.<end_line>
+    Be careful on the way out.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
