@@ -17,7 +17,6 @@
 		<player_nickname><three_dots><end_line>
 	</sjis>
   <ascii>
-    So you were here,<end_line>
     <player_nickname><three_dots><end_line>
   </ascii>
 </dialogue>
@@ -46,7 +45,7 @@
 	</sjis>
   <ascii>
     Lots of things happened today.<end_line>
-    Don't make me sorry so much<three_dots><end_line>
+    Don't make me worry so much<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -112,8 +111,8 @@
 	</sjis>
   <ascii>
     We still have to deal with Bostaph.<end_line>
-    That guy has no intention of listening<end_line>
-    to what I have to say<three_dots><end_line>
+    That guy has no intention of<end_line>
+    listening to what I have to say<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -134,7 +133,7 @@
 	</female>
   <ascii>
     He said that to me too.<end_line>
-    He won't stop hunting Strays<three_dots><end_line>
+    That he won't stop hunting Strays<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -185,7 +184,7 @@
 		はぐれが出たことを知ってたのか？<end_line>
 	</sjis>
   <ascii>
-    <three_dots> How could he<end_line>
+    <three_dots>How could he<end_line>
     have known about them?<end_line>
   </ascii>
 </dialogue>
@@ -198,8 +197,9 @@
 		アニキは知らなかったんだ<three_dots><end_line>
 	</sjis>
   <ascii>
-    Oh, come to think of it,<end_line>
-    Brother didn't know about it<three_dots><end_line>
+    Come to think of it<three_dots><end_line>
+    Brother didn't know<end_line>
+    about them either<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -213,7 +213,7 @@
 	</sjis>
   <ascii>
     <player_nickname><three_dots><end_line>
-    What in the world is going on?<end_line>
+    What happened with you today?<end_line>
     Do you have some part in this?<end_line>
   </ascii>
 </dialogue>

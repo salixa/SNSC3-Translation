@@ -1,4 +1,4 @@
-<dialogue>#166
+<dialogue>
   <info box="nobox">
   <portrait_l name="lemmy">
   <sjis>
@@ -39,8 +39,8 @@
   </female>
   <ascii>
     I don't really know either.<end_line>
-    I went for a walk and just kinda<end_line>
-    ended up here<three_dots><end_line>
+    I went for a walk and just<end_line>
+    kinda ended up here<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -54,8 +54,8 @@
   </sjis>
   <ascii>
     Just kinda?<end_line>
-    Wandering around like that<three_dots><end_line>
-    I won't help you if anything happens.<end_line>
+    I won't help you if you wander<end_line>
+    your way into trouble again.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -102,9 +102,9 @@
     一員だからね<end_line>
   </sjis>
   <ascii>
-    I was just on patrol.<end_line>
-    Our workshop is part of the<end_line>
-    Vigilantes too.<end_line>
+    I'm just on patrol.<end_line>
+    Our workshop is part<end_line>
+    of the militia too.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -128,7 +128,7 @@
   <ascii>
     I see<three_dots> Same as Brother.<end_line>
     Then, do you patrol<end_line>
-    Lute Cave too?<end_line>
+    around Lute Cave too?<end_line>
   </ascii>
 </dialogue>
 <dialogue>

@@ -57,9 +57,8 @@
     もしかしてお前も<three_dots><end_line>
   </sjis>
   <ascii>
-    You'd said Murno might<end_line>
-    suddenly leave, so I thought<end_line>
-    maybe you<three_dots><end_line>
+    You'd said Murno wanted to leave,<end_line>
+    so I thought maybe you would too<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -95,8 +94,7 @@
     でも<three_dots><end_line>
   </sjis>
   <ascii>
-    Thanks,<end_line>
-    but<three_dots><end_line>
+    Thanks, but<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -172,7 +170,7 @@
     オレたちにまかせればいい<end_line>
   </sjis>
   <ascii>
-    I'm part of the village militia.<end_line>
+    I'm part of the militia, you know.<end_line>
     Leave the dangerous stuff to us.<end_line>
   </ascii>
 </dialogue>

@@ -1,4 +1,4 @@
-<dialogue>#401
+<dialogue>
   <partner name="run-dor">
   <info box="nobox">
   <portrait_l name="partner">
@@ -93,8 +93,8 @@
     強化スル必要ガ　アリマス<end_line>
   </sjis>
   <ascii>
-    We Must Become Stronger<end_line>
-    In Order To Protect Lady Murno.<end_line>
+    We Must Keep A Close<end_line>
+    Watch Over Lady Murno.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -131,8 +131,8 @@
     マダコノ町デ　ヤルコトガアルヨウデス<end_line>
   </sjis>
   <ascii>
-    She Has Things She Must<end_line>
-    Do In This Town.<end_line>
+    She Has Things She<end_line>
+    Must Do In This Town.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -160,7 +160,7 @@
     just like everything else<three_dots><end_line>
   </ascii>
 </dialogue>
-<dialogue>#1
+<dialogue>
   <partner name="run-dor">
   <info box="right">
   <portrait_l entry="player" eye="sad" mouth="neutral">
@@ -221,7 +221,7 @@
   </sjis>
   <ascii>
     It's not like that<three_dots><end_line>
-    As Master put it, a Craftknight's <end_line>
+    As Master put it, a Craftknight's<end_line>
     word is stronger than steel.<end_line>
   </ascii>
 </dialogue>
@@ -237,8 +237,7 @@
     オレはミューノを守るよ<end_line>
   </sjis>
   <ascii>
-    As long as <partner><end_line>
-    is my partner,<end_line>
+    As long as you're my partner,<end_line>
     I will protect her.<end_line>
   </ascii>
 </dialogue>
@@ -271,8 +270,7 @@
     わたしはミューノを守るよ<end_line>
   </sjis>
   <ascii>
-    As long as <partner><end_line>
-    is my partner,<end_line>
+    As long as you're my partner,<end_line>
     I will protect her.<end_line>
   </ascii>
 </dialogue>
@@ -315,8 +313,8 @@
   </sjis>
   <ascii>
     As I Thought.<end_line>
-    In That Case, There Would Be Problems<end_line>
-    With Your Capability To Protect Her.<end_line>
+    There Would Be Problems With<end_line>
+    Your Capability To Protect Her.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -331,8 +329,8 @@
   </sjis>
   <ascii>
     At That Time,<end_line>
-    I Will Cease To Be<end_line>
-    Your Partner.<end_line>
+    I Will Cease To<end_line>
+    Be Your Partner.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -458,8 +456,8 @@
   </sjis>
   <ascii>
     What are you thinking?<end_line>
-    Bostaph's workshop is nearby.<end_line>
-    Selling oil in a place like this<three_dots><end_line>
+    Piddling around nearby<end_line>
+    Bostaph's workshop<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -480,7 +478,7 @@
     </sjis>
   </female>
   <ascii>
-    Oil?<end_line>
+    Piddling?<end_line>
     What's that mean<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -533,8 +531,9 @@
     やることが残ってるんだそうじゃ<three_dots><end_line>
   </sjis>
   <ascii>
-    That is<three_dots> it seems she<end_line>
-    still has business here<three_dots><end_line>
+    That is<three_dots><end_line>
+    it seems she still<end_line>
+    has business here<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -608,8 +607,8 @@
   </sjis>
   <ascii>
     What's that?<end_line>
-    So you're saying you won't<end_line>
-    be able to protect her!<end_line>
+    You lack the resolve to<end_line>
+    protect her, is that it!?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -625,7 +624,7 @@
   </sjis>
   <ascii>
     It's not like that<three_dots><end_line>
-    As Master put it, a Craftknight's <end_line>
+    As Master put it, a Craftknight's<end_line>
     word is stronger than steel.<end_line>
   </ascii>
 </dialogue>
@@ -641,8 +640,7 @@
     オレはミューノを守るよ<end_line>
   </sjis>
   <ascii>
-    As long as <partner><end_line>
-    is my partner,<end_line>
+    As long as you're my partner,<end_line>
     I will protect her.<end_line>
   </ascii>
 </dialogue>
@@ -659,7 +657,7 @@
   </sjis>
   <ascii>
     It's not like that<three_dots><end_line>
-    As Master put it, a Craftknight's <end_line>
+    As Master put it, a Craftknight's<end_line>
     word is stronger than steel.<end_line>
   </ascii>
 </dialogue>
@@ -675,8 +673,7 @@
     わたしはミューノを守るよ<end_line>
   </sjis>
   <ascii>
-    As long as <partner><end_line>
-    is my partner,<end_line>
+    As long as you're my partner,<end_line>
     I will protect her.<end_line>
   </ascii>
 </dialogue>
@@ -718,7 +715,7 @@
     やめるまでじゃ<end_line>
   </sjis>
   <ascii>
-    Well, I suppose not.<end_line>
+    Well, I suppose you wouldn't.<end_line>
     At that time, I will quit<end_line>
     being your partner.<end_line>
   </ascii>
@@ -880,7 +877,7 @@
     </sjis>
   </female>
   <ascii>
-    That's true, but<three_dots><end_line>
+    I was just wondering<three_dots><end_line>
     Why didn't Murno want to<end_line>
     run away if it's so dangerous?<end_line>
   </ascii>
@@ -967,8 +964,8 @@
   </sjis>
   <ascii>
     Hmph<three_dots><end_line>
-    It seems you have no will<end_line>
-    to protect Murno.<end_line>
+    It seems you have no<end_line>
+    will to protect Murno.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -984,7 +981,7 @@
   </sjis>
   <ascii>
     It's not like that<three_dots><end_line>
-    As Master put it, a Craftknight's <end_line>
+    As Master put it, a Craftknight's<end_line>
     word is stronger than steel.<end_line>
   </ascii>
 </dialogue>
@@ -1000,8 +997,7 @@
     オレはミューノを守るよ<end_line>
   </sjis>
   <ascii>
-    As long as <partner><end_line>
-    is my partner,<end_line>
+    As long as you're my partner,<end_line>
     I will protect her.<end_line>
   </ascii>
 </dialogue>
@@ -1018,7 +1014,7 @@
   </sjis>
   <ascii>
     It's not like that<three_dots><end_line>
-    As Master put it, a Craftknight's <end_line>
+    As Master put it, a Craftknight's<end_line>
     word is stronger than steel.<end_line>
   </ascii>
 </dialogue>
@@ -1034,8 +1030,7 @@
     わたしはミューノを守るよ<end_line>
   </sjis>
   <ascii>
-    As long as <partner><end_line>
-    is my partner,<end_line>
+    As long as you're my partner,<end_line>
     I will protect her.<end_line>
   </ascii>
 </dialogue>
@@ -1107,8 +1102,8 @@
     なくなるだろう？<end_line>
   </sjis>
   <ascii>
-    If I am not with you,<end_line>
-    you have no reason to protect her,<end_line>
+    Then you will have<end_line>
+    no reason to protect her,<end_line>
     isn't that right?<end_line>
   </ascii>
 </dialogue>
@@ -1252,8 +1247,9 @@
     やることが残ってるみたいで<three_dots><end_line>
   </sjis>
   <ascii>
-    That is<three_dots> it seems she still<end_line>
-    has some business in town<three_dots><end_line>
+    That is<three_dots><end_line>
+    it seems she still has<end_line>
+    some business here<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1338,7 +1334,7 @@
   </sjis>
   <ascii>
     It's not like that<three_dots><end_line>
-    As Master put it, a Craftknight's <end_line>
+    As Master put it, a Craftknight's<end_line>
     word is stronger than steel.<end_line>
   </ascii>
 </dialogue>
@@ -1353,8 +1349,7 @@
     オレはミューノを守るよ<end_line>
   </sjis>
   <ascii>
-    As long as <partner><end_line>
-    is my partner,<end_line>
+    As long as you're my partner,<end_line>
     I will protect her.<end_line>
   </ascii>
 </dialogue>
@@ -1370,7 +1365,7 @@
   </sjis>
   <ascii>
     It's not like that<three_dots><end_line>
-    As Master put it, a Craftknight's <end_line>
+    As Master put it, a Craftknight's<end_line>
     word is stronger than steel.<end_line>
   </ascii>
 </dialogue>
@@ -1385,8 +1380,7 @@
     わたしはミューノを守るよ<end_line>
   </sjis>
   <ascii>
-    As long as <partner><end_line>
-    is my partner,<end_line>
+    As long as you're my partner,<end_line>
     I will protect her.<end_line>
   </ascii>
 </dialogue>
@@ -1513,8 +1507,8 @@
     ヘッチャラですわ！<end_line>
   </sjis>
   <ascii>
-    If it is necessary to<end_line>
-    protect Murno,<end_line>
+    If it is necessary<end_line>
+    to protect Murno,<end_line>
     I won't think twice!<end_line>
   </ascii>
 </dialogue>
