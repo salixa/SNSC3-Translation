@@ -1,66 +1,66 @@
 <location>
 	<sjis>
-		�v���X�o���̒�<end_line>
+		プロスバンの町<end_line>
 	</sjis>
 </location>
 <location>
 	<sjis>
-		�v���X�o���̒��@�k��O�H�[�ʂ�<end_line>
+		プロスバンの町　北門前工房通り<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="zakk">
 	<sjis>
-		�~���[�m�Ȃ珤�X�ʂ�̕���<end_line>
-		�s������<end_line>
+		ミューノなら商店通りの方へ<end_line>
+		行ったよ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="gatekeeper">
 	<sjis>
-		�l�͂����̖�Ԃ����Ă��<end_line>
-		�����Ԃ牺���Ă�̂�<end_line>
-		���������������ɖ炷���炾��<end_line>
+		僕はここの門番をしてるんだ<end_line>
+		鐘をぶら下げてるのは<end_line>
+		事件があった時に鳴らすからだよ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="peddler's_daughter">
 	<sjis>
-		���̂���l�́A�����l�Ȃ�<end_line>
-		���͂Q�l�ŗ������Ēb��t��E�l��<end_line>
-		��𔄂��Ă���i�K�Ȃ񂾂���<end_line>
+		私のお母様は、旅商人なの<end_line>
+		今は２人で旅をして鍛冶師や職人に<end_line>
+		顔を売っている段階なんだって<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="peddler's_daughter">
 	<sjis>
-		�����͑傫�Ȃ��X�����\��Ȃ�<end_line>
-		������A����͎����撣���ĉ҂�����<end_line>
-		�������Ă��ƂȂ�<end_line>
+		将来は大きなお店をもつ予定なの<end_line>
+		だから、旅費は私が頑張って稼ぐしか<end_line>
+		無いってことなの<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="peddler's_daughter">
 	<sjis>
-		�Ƃ���ł��Ȃ��́A�b��t�݂���������<end_line>
-		�����̏��𕷂��Ă����Ȃ��H<end_line>
+		ところであなたは、鍛冶師みたいだけど<end_line>
+		強化の情報を聞いていかない？<end_line>
 	</sjis>
 </dialogue>
 <choice>
 	<info box="simple">
 	<option>
 		<sjis>
-			�����Ă݂�<end_line>
+			聞いてみる<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			���ɕ����Ȃ�<end_line>
+			特に聞かない<end_line>
 		</sjis>
 	</option>
 </choice>
@@ -68,37 +68,37 @@
 	<info box="simple">
 	<portrait_l name="peddler's_daughter">
 	<sjis>
-		�����ƂˁA�����Łu�`�����̓S���v��<end_line>
-		�g���ƁA������ʂ́u�ђʁv��<end_line>
-		����ɕt��������<end_line>
+		えっとね、強化で「伝説級の鉄串」を<end_line>
+		使うと、特殊効果の「貫通」が<end_line>
+		武器に付加されるの<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="peddler's_daughter">
 	<sjis>
-		�ł����āA����͂Ȃ��<end_line>
-		�u�`�����̓S���v���A�P�O�O�O�o�[����<end_line>
-		�̔����Ȃ́`<end_line>
+		でもって、今回はなんと<end_line>
+		「伝説級の鉄串」を、１０００バームで<end_line>
+		販売中なの～<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="peddler's_daughter">
 	<sjis>
-		�����Ă���܂��H<end_line>
+		買ってくれます？<end_line>
 	</sjis>
 </dialogue>
 <choice>
 	<info box="simple">
 	<option>
 		<sjis>
-			����<end_line>
+			買う<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			����Ȃ�<end_line>
+			買わない<end_line>
 		</sjis>
 	</option>
 </choice>
@@ -106,39 +106,39 @@
 	<info box="simple">
 	<portrait_l name="peddler's_daughter">
 	<sjis>
-		���肪�Ɓ`<end_line>
+		ありがと～<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="peddler's_daughter">
 	<sjis>
-		�������`���ꂶ��`<end_line>
-		��������Ȃ��́`<end_line>
-		���k�s��������`<end_line>
+		ええぇ～これじゃ～<end_line>
+		お金たりないの～<end_line>
+		商談不成立だよ～<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="peddler's_daughter">
 	<sjis>
-		���`�������������Ĕ����Ă���Ȃ��́`<end_line>
-		�P�`�`<end_line>
+		え～聞くだけ聞いて買ってくれないの～<end_line>
+		ケチ～<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="peddler's_daughter">
 	<sjis>
-		���`�����Ă���Ȃ��́`<end_line>
-		���������̂��q���񂾂Ǝv�����̂Ɂ`<end_line>
+		え～聞いてくれないの～<end_line>
+		せっかくのお客さんだと思ったのに～<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		�ȒP�Ɍ�����ق�<end_line>
-		�����͊Â��Ȃ��̂ł�<end_line>
-		�����̗͂Ŋ撣��܂��傤<end_line>
+		簡単に見つかるほど<end_line>
+		強化は甘くないのです<end_line>
+		自分の力で頑張りましょう<end_line>
 	</sjis>
 </dialogue>

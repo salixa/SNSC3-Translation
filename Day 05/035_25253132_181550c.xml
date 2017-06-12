@@ -1,7 +1,7 @@
 <bigtext>
   <info box="simple" effect="big">
   <sjis>
-    ‚®‚£‚¨‚¨‚¨<three_dots><end_line>
+    ãã…ãŠãŠãŠ<three_dots><end_line>
   </sjis>
   <ascii>
     Guooo<three_dots><end_line>
@@ -12,16 +12,16 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <male>
     <sjis>
-      ‚ ‚¢‚Â‚ç<three_dots><end_line>
-      ƒAƒjƒL‚½‚¿‚ªŒü‚©‚Á‚½<end_line>
-      ‚Í‚®‚ê‚Ì’‡ŠÔ‚©<three_dots>H<end_line>
+      ã‚ã„ã¤ã‚‰<three_dots><end_line>
+      ã‚¢ãƒ‹ã‚­ãŸã¡ãŒå‘ã‹ã£ãŸ<end_line>
+      ã¯ãã‚Œã®ä»²é–“ã‹<three_dots>ï¼Ÿ<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ‚ ‚ê‚Á‚Ä<three_dots><end_line>
-      ƒAƒjƒL‚½‚¿‚ª‘ÞŽ¡‚µ‚És‚Á‚½<end_line>
-      ‚Í‚®‚ê¢Š«b‚Ì’‡ŠÔ‚©‚È<three_dots>H<end_line>
+      ã‚ã‚Œã£ã¦<three_dots><end_line>
+      ã‚¢ãƒ‹ã‚­ãŸã¡ãŒé€€æ²»ã—ã«è¡Œã£ãŸ<end_line>
+      ã¯ãã‚Œå¬å–šç£ã®ä»²é–“ã‹ãª<three_dots>ï¼Ÿ<end_line>
     </sjis>
   </female>
   <ascii>
@@ -36,8 +36,8 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <portrait_r entry="partner" eye="decided" mouth="serious">
   <sjis>
-    ƒfƒn@‚Ý‚ã[‚Ì—lƒ‚<end_line>
-    ƒRƒm‹ßƒNƒj<three_dots><end_line>
+    ãƒ‡ãƒã€€ã¿ã‚…ãƒ¼ã®æ§˜ãƒ¢<end_line>
+    ã‚³ãƒŽè¿‘ã‚¯ãƒ‹<three_dots><end_line>
   </sjis>
   <ascii>
     Lady Murno Must Be<end_line>
@@ -50,8 +50,8 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <portrait_r entry="partner" eye="decided" mouth="serious">
   <sjis>
-    ‚È‚ç‚ÎAƒ~ƒ…[ƒm‚à<end_line>
-    ‚±‚Ì‹ß‚­‚É‚¨‚é‚Ì‚¶‚á‚È<three_dots><end_line>
+    ãªã‚‰ã°ã€ãƒŸãƒ¥ãƒ¼ãƒŽã‚‚<end_line>
+    ã“ã®è¿‘ãã«ãŠã‚‹ã®ã˜ã‚ƒãª<three_dots><end_line>
   </sjis>
   <ascii>
     That means Murno<end_line>
@@ -64,8 +64,8 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <portrait_r entry="partner" eye="decided" mouth="serious">
   <sjis>
-    <three_dots>‚Æ‚¢‚¤‚±‚Æ‚ÍA‚ ‚¢‚Â‚à<end_line>
-    ‚±‚Ì‹ß‚­‚É‚¢‚é‚ñ‚¾‚È<three_dots><end_line>
+    <three_dots>ã¨ã„ã†ã“ã¨ã¯ã€ã‚ã„ã¤ã‚‚<end_line>
+    ã“ã®è¿‘ãã«ã„ã‚‹ã‚“ã ãª<three_dots><end_line>
   </sjis>
   <ascii>
     <three_dots> Meaning,<end_line>
@@ -77,8 +77,8 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <portrait_r entry="partner" eye="decided" mouth="serious">
   <sjis>
-    ‚¾‚Á‚½‚çA‚±‚Ì‹ß‚­‚É<end_line>
-    ƒ~ƒ…[ƒm—l‚ª‚¢‚é‚ñ‚Å‚·‚Ë<three_dots><end_line>
+    ã ã£ãŸã‚‰ã€ã“ã®è¿‘ãã«<end_line>
+    ãƒŸãƒ¥ãƒ¼ãƒŽæ§˜ãŒã„ã‚‹ã‚“ã§ã™ã­<three_dots><end_line>
   </sjis>
   <ascii>
     In that case, Lady Murno<end_line>
@@ -91,14 +91,14 @@
   <portrait_r entry="partner" eye="decided" mouth="serious">
   <male>
     <sjis>
-      ‚¶‚á‚ <three_dots><end_line>
-      s‚­‚µ‚©‚È‚¢‚©I<end_line>
+      ã˜ã‚ƒã‚<three_dots><end_line>
+      è¡Œãã—ã‹ãªã„ã‹ï¼<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ‚¶‚á‚ <three_dots><end_line>
-      s‚­‚µ‚©‚È‚¢‚æ‚ËI<end_line>
+      ã˜ã‚ƒã‚<three_dots><end_line>
+      è¡Œãã—ã‹ãªã„ã‚ˆã­ï¼<end_line>
     </sjis>
   </female>
   <ascii>

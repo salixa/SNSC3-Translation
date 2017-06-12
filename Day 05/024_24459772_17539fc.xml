@@ -1,19 +1,19 @@
 <location>
   <sjis>
-    �v���X�o���̒�<end_line>
+    プロスバンの町<end_line>
   </sjis>
 </location>
 <location>
   <sjis>
-    �v���X�o���̒��@������<end_line>
+    プロスバンの町　南門公園<end_line>
   </sjis>
 </location>
 <dialogue>
   <info box="simple">
   <portrait_l name="player">
   <sjis>
-    �A�j�L�ɂ��̂܂ꂽ�ו���<end_line>
-    �Ƃǂ��Ȃ���<three_dots><end_line>
+    アニキにたのまれた荷物を<end_line>
+    とどけなきゃ<three_dots><end_line>
   </sjis>
   <ascii>
     I have to deliver these goods<three_dots><end_line>
@@ -23,7 +23,7 @@
   <info box="simple">
   <portrait_l name="player">
   <sjis>
-    �O�ɍs���K�v�͓��ɂȂ���<three_dots><end_line>
+    外に行く必要は特にないか<three_dots><end_line>
   </sjis>
   <ascii>
     I don't need to do<end_line>
@@ -34,19 +34,19 @@
   <info box="simple">
   <portrait_l name="gatekeeper">
   <sjis>
-    ���̑����݂������Ȃ�<three_dots><end_line>
+    あの像もみあきたなぁ<three_dots><end_line>
   </sjis>
 </dialogue>
 <dialogue>
   <info box="simple">
   <sjis>
-    �N���N��<end_line>
+    クンクン<end_line>
   </sjis>
 </dialogue>
 <dialogue>
   <info box="simple">
   <sjis>
-    �@�@�@�v���X�o���̒��̑n�ݎ�<end_line>
-    �@�@�@�E�҃v���X�o���̐Α�<end_line>
+    　　　プロスバンの町の創設者<end_line>
+    　　　勇者プロスバンの石像<end_line>
   </sjis>
 </dialogue>

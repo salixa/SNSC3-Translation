@@ -1,28 +1,28 @@
 <location>
 	<sjis>
-		ƒvƒƒXƒoƒ“‚Ì’¬@‰w<end_line>
+		ãƒ—ãƒ­ã‚¹ãƒãƒ³ã®ç”ºã€€é§…<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="child">
 	<sjis>
-		‚±‚Ì’¬‚Á‚ÄA‚²‚Ý‚²‚Ý‚µ‚Ä‚Ä<end_line>
-		‚¢‚â‚æ‚Ë<end_line>
+		ã“ã®ç”ºã£ã¦ã€ã”ã¿ã”ã¿ã—ã¦ã¦<end_line>
+		ã„ã‚„ã‚ˆã­<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="child">
 	<sjis>
-		‚Ç‚±‚©‚ÉA‚µ‚¸‚©‚È‚Æ‚±‚ë<end_line>
-		‚È‚¢‚©‚µ‚ç<end_line>
+		ã©ã“ã‹ã«ã€ã—ãšã‹ãªã¨ã“ã‚<end_line>
+		ãªã„ã‹ã—ã‚‰<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		“Í‚¯•¨‚Í‹}‚®‚¾‚¯‚ª”\‚¶‚á‚È‚¢<end_line>
-		Td‚³‚à‘åØ‚È‚ñ‚Å‚·<end_line>
+		å±Šã‘ç‰©ã¯æ€¥ãã ã‘ãŒèƒ½ã˜ã‚ƒãªã„<end_line>
+		æ…Žé‡ã•ã‚‚å¤§åˆ‡ãªã‚“ã§ã™<end_line>
 	</sjis>
 </dialogue>

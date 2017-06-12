@@ -1,22 +1,22 @@
 <location>
 	<sjis>
-		�v���X�o���̒��@���Ƃ`<end_line>
+		プロスバンの町　民家Ａ<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		�x�����H��������H<end_line>
-		���̐l�́A�E�`�̒U�߂��<end_line>
-		�ʖڂ��ۂ��ł���<end_line>
+		ベルヴォレンさん？<end_line>
+		あの人は、ウチの旦那より<end_line>
+		駄目っぽいでしょ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		�ӊO�ɂ��������ĂȂ���<end_line>
-		���͂������Ȃ̂��<end_line>
+		意外にお金持ってないし<end_line>
+		権力も微妙なのよね<end_line>
 	</sjis>
 </dialogue>

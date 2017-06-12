@@ -1,22 +1,22 @@
 <location>
 	<sjis>
-		�����̉Ɓ@�L��<end_line>
+		村長の家　広間<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="chief">
 	<sjis>
-		���O�⃔�B�[�˂�����<end_line>
-		����ɂ��Ă邩��<end_line>
-		�Ȃ񂾂��₵���񂾂�<end_line>
+		お前やヴィーねえさんが<end_line>
+		留守にしてるから<end_line>
+		なんだか寂しいんだよ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="child">
 	<sjis>
-		��������Ȃ���<end_line>
-		���ł��A���Ă��Ă����̂�<end_line>
+		おかえりなさい<end_line>
+		いつでも帰ってきていいのよ<end_line>
 	</sjis>
 </dialogue>

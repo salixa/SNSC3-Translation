@@ -24,6 +24,10 @@ QUOTE_OPEN = str.encode('<quote>')
 QUOTE_CLOSED = str.encode('<quote/>')
 MUSIC_NOTE_OPEN = str.encode('<music_note>')
 MUSIC_NOTE_CLOSED = str.encode('<music_note/>')
+OPTION_1_OPEN = str.encode('<option_1>')
+OPTION_1_CLOSED = str.encode('<option_1/>')
+OPTION_2_OPEN = str.encode('<option_2>')
+OPTION_2_CLOSED = str.encode('<option_2/>')
 
 
 NEWLINE = str.encode('\n')

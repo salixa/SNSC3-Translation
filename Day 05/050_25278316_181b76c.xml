@@ -3,16 +3,16 @@
   <portrait_l entry="player" eye="sad" mouth="tense">
   <male>
     <sjis>
-      �Ȃ�ŃI��������ȂƂ���<end_line>
-      �����߂��Ȃ���Ȃ�Ȃ��񂾂�<three_dots><end_line>
-      ��̂Ȃɂ��ǂ��Ȃ��Ă��<three_dots>�H<end_line>
+      なんでオレがこんなとこに<end_line>
+      閉じこめられなきゃならないんだよ<three_dots><end_line>
+      一体なにがどうなってるんだ<three_dots>？<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �Ȃ�ł킽��������ȂƂ���<end_line>
-      �����߂��Ȃ���Ȃ�Ȃ����P�H<end_line>
-      ��̂Ȃɂ��ǂ��Ȃ��Ă�̂�<three_dots><end_line>
+      なんでわたしがこんなとこに<end_line>
+      閉じこめられなきゃならないワケ？<end_line>
+      一体なにがどうなってるのよ<three_dots><end_line>
     </sjis>
   </female>
   <ascii>
@@ -35,8 +35,8 @@
   <info box="left">
   <portrait_l entry="player" eye="surprised" mouth="tense">
   <sjis>
-    ���H<end_line>
-    ���̐��A����������<three_dots><end_line>
+    え？<end_line>
+    今の声、もしかして<three_dots><end_line>
   </sjis>
   <ascii>
     Eh?<end_line>
@@ -46,7 +46,7 @@
 <menu>
   <option>
     <sjis>
-      �~���[�m<end_line>
+      ミューノ<end_line>
     </sjis>
     <ascii>
       Murno<end_line>

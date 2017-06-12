@@ -3,9 +3,9 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="lanna" eye="surprised" mouth="tense">
 	<sjis>
-		����A���Ȃ�������<three_dots><end_line>
-		��������<three_dots><end_line>
-		���̎q�����A�g���邩��<three_dots><end_line>
+		あら、あなたたちは<three_dots><end_line>
+		そうだわ<three_dots><end_line>
+		この子たち、使えるかも<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -13,8 +13,8 @@
 	<portrait_l entry="player" eye="serious" mouth="tense">
 	<portrait_r entry="lanna" eye="surprised" mouth="tense">
 	<sjis>
-		�͂��H<end_line>
-		�Ȃ�̂��Ƃł��H<end_line>
+		はい？<end_line>
+		なんのことです？<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -22,9 +22,9 @@
 	<portrait_l entry="player" eye="serious" mouth="tense">
 	<portrait_r entry="lanna" eye="serious" mouth="neutral">
 	<sjis>
-		���Ȃ��͒m��Ȃ���������Ȃ������<end_line>
-		���������̔h���́A���̕ӂ��т�<end_line>
-		�����p�Ɋւ���Ǘ����s���Ă��܂�<end_line>
+		あなたは知らないかもしれないけれど<end_line>
+		私たち金の派閥は、この辺り一帯の<end_line>
+		召喚術に関する管理を行っています<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -32,9 +32,9 @@
 	<portrait_l entry="player" eye="serious" mouth="tense">
 	<portrait_r entry="lanna" eye="decided" mouth="neutral">
 	<sjis>
-		�����p�����p������<end_line>
-		�l�X�Ɋ�Q��^���鏢���t��<end_line>
-		����������<three_dots><end_line>
+		召喚術を悪用したり<end_line>
+		人々に危害を与える召喚師を<end_line>
+		処罰したり<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -42,9 +42,9 @@
 	<portrait_l entry="player" eye="serious" mouth="tense">
 	<portrait_r entry="lanna" eye="decided" mouth="tense">
 	<sjis>
-		���̏����t���Ăяo����<end_line>
-		�͂���ƂȂ��������b�̑ގ���<end_line>
-		���邱�Ƃ�����܂�<end_line>
+		その召喚師が呼び出して<end_line>
+		はぐれとなった召喚獣の退治を<end_line>
+		することもあります<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -52,7 +52,7 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="lanna" eye="decided" mouth="tense">
 	<sjis>
-		�͂�<three_dots><end_line>
+		はあ<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -60,9 +60,9 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="lanna" eye="decided" mouth="neutral">
 	<sjis>
-		�b�ɂ��ƁA���Ȃ�������<end_line>
-		���Ȃ�E�f������������<end_line>
-		����܂���<end_line>
+		話によると、あなたたちは<end_line>
+		かなりウデが立つそうじゃ<end_line>
+		ありませんか<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -70,9 +70,9 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="lanna" eye="decided" mouth="talk">
 	<sjis>
-		���̃E�f����������<end_line>
-		�͂���ގ��̂��d����<end_line>
-		����C�͂���܂��񂩁H<end_line>
+		そのウデをいかして<end_line>
+		はぐれ退治のお仕事を<end_line>
+		する気はありませんか？<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -80,9 +80,9 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="lanna" eye="serious" mouth="neutral">
 	<sjis>
-		�����ގ����Ă�������������<end_line>
-		���Ȃ��̕���������ł���<end_line>
-		���΂炵���ޗ������������܂�<end_line>
+		見事退治していただけた時は<end_line>
+		あなたの武器を強化できる<end_line>
+		すばらしい材料をさしあげます<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -90,7 +90,7 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="lanna" eye="happy" mouth="talk">
 	<sjis>
-		���Ȃ��ɂ͂����ȏ�̉��l�ł��傤�H<end_line>
+		あなたにはお金以上の価値でしょう？<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -98,7 +98,7 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="lanna" eye="happy" mouth="talk">
 	<sjis>
-		�͂�<three_dots><end_line>
+		はあ<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -106,159 +106,159 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="lanna" eye="serious" mouth="tense">
 	<sjis>
-		�d�����󂯂�C�ɂȂ����̂Ȃ�<end_line>
-		�m�点�Ă�������<end_line>
+		仕事を受ける気になったのなら<end_line>
+		知らせてください<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="right">
 	<portrait_r name="ianna">
 	<sjis>
-		�͂���ގ��̌��Ȃ�A���߂�Ȃ���<end_line>
-		���A���Ȃ��ɂ܂킹��d����<end_line>
-		����܂���<end_line>
+		はぐれ退治の件なら、ごめんなさい<end_line>
+		今、あなたにまわせる仕事は<end_line>
+		ありません<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="right">
 	<portrait_r name="ianna">
 	<sjis>
-		�͂���ގ��̎d���Ȃ�<end_line>
-		���A�Љ�ł�����̂�����܂�<end_line>
-		����Ă݂܂����H<end_line>
+		はぐれ退治の仕事なら<end_line>
+		今、紹介できるものがあります<end_line>
+		やってみますか？<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="right">
 	<portrait_r name="ianna">
 	<sjis>
-		<option_2>�@<option_1>��<end_line>
+		<option_2>　<option_1>体<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="right">
 	<portrait_r name="ianna">
 	<sjis>
-		�t���[�h���A�Ŗڌ�����Ă����<end_line>
-		�ގ����Ă���邩�H<end_line>
+		フラード洞窟で目撃されているな<end_line>
+		退治してくれるか？<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="right">
 	<portrait_r name="ianna">
 	<sjis>
-		�X�����W�̌@��Ŗڌ�����Ă����<end_line>
-		�ގ����Ă���邩�H<end_line>
+		スレンジ採掘場で目撃されているな<end_line>
+		退治してくれるか？<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="right">
 	<portrait_r name="ianna">
 	<sjis>
-		�X�|�[�g���A�Ŗڌ�����Ă����<end_line>
-		�ގ����Ă���邩�H<end_line>
+		スポート洞窟で目撃されているな<end_line>
+		退治してくれるか？<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="right">
 	<portrait_r name="ianna">
 	<sjis>
-		�X�|�[�g���A�Ŗڌ�����Ă����<end_line>
-		�ގ����Ă���邩�H<end_line>
+		スポート洞窟で目撃されているな<end_line>
+		退治してくれるか？<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="right">
 	<portrait_r name="ianna">
 	<sjis>
-		�~�V���[�X�̔p�ЂŖڌ�����Ă����<end_line>
-		�ގ����Ă���邩�H<end_line>
+		ミシュースの廃墟で目撃されているな<end_line>
+		退治してくれるか？<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="right">
 	<portrait_r name="ianna">
 	<sjis>
-		�x���[�g�̐X�Ŋm�F����Ă��<end_line>
+		ベリートの森で確認されてるわ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="right">
 	<portrait_r name="ianna">
 	<sjis>
-		�x���[�g�̐X�Ŗ\��Ă�炵����<end_line>
+		ベリートの森で暴れてるらしいよ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="right">
 	<portrait_r name="ianna">
 	<sjis>
-		�X�����W�̌@��Ŋm�F����Ă��<end_line>
+		スレンジ採掘場で確認されてるわ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="right">
 	<portrait_r name="ianna">
 	<sjis>
-		�X�����W�̌@��Ŗ\��Ă�炵����<end_line>
+		スレンジ採掘場で暴れてるらしいよ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="right">
 	<portrait_r name="ianna">
 	<sjis>
-		�X�|�[�g���A�Ŋm�F����Ă��<end_line>
+		スポート洞窟で確認されてるわ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="right">
 	<portrait_r name="ianna">
 	<sjis>
-		�X�|�[�g���A�Ŗ\��Ă�炵����<end_line>
+		スポート洞窟で暴れてるらしいよ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="right">
 	<portrait_r name="ianna">
 	<sjis>
-		�X�|�[�g���A�Ŋm�F����Ă��<end_line>
+		スポート洞窟で確認されてるわ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="right">
 	<portrait_r name="ianna">
 	<sjis>
-		�X�|�[�g���A�Ŗ\��Ă�炵����<end_line>
+		スポート洞窟で暴れてるらしいよ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="right">
 	<portrait_r name="ianna">
 	<sjis>
-		�~�V���[�X�̔p�ЂŊm�F����Ă��<end_line>
+		ミシュースの廃墟で確認されてるわ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="right">
 	<portrait_r name="ianna">
 	<sjis>
-		�~�V���[�X�̔p�ЂŖ\��Ă�炵����<end_line>
+		ミシュースの廃墟で暴れてるらしいよ<end_line>
 	</sjis>
 </dialogue>
 <menu>
 	<title>
 		<sjis>
-			�d�����󂯂�<end_line>
+			仕事を受ける<end_line>
 		</sjis>
 	</title>
 	<option>
 		<sjis>
-			�͂�<end_line>
+			はい<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			������<end_line>
+			いいえ<end_line>
 		</sjis>
 	</option>
 </menu>
@@ -266,156 +266,156 @@
 	<info box="right">
 	<portrait_r name="ianna">
 	<sjis>
-		�t���[�h���A�Ŗڌ�����Ă����<end_line>
-		�ގ����Ă���邩�H<end_line>
+		フラード洞窟で目撃されているな<end_line>
+		退治してくれるか？<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="right">
 	<portrait_r name="ianna">
 	<sjis>
-		�X�����W�̌@��Ŗڌ�����Ă����<end_line>
-		�ގ����Ă���邩�H<end_line>
+		スレンジ採掘場で目撃されているな<end_line>
+		退治してくれるか？<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="right">
 	<portrait_r name="ianna">
 	<sjis>
-		�X�|�[�g���A�Ŗڌ�����Ă����<end_line>
-		�ގ����Ă���邩�H<end_line>
+		スポート洞窟で目撃されているな<end_line>
+		退治してくれるか？<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="right">
 	<portrait_r name="ianna">
 	<sjis>
-		�X�|�[�g���A�Ŗڌ�����Ă����<end_line>
-		�ގ����Ă���邩�H<end_line>
+		スポート洞窟で目撃されているな<end_line>
+		退治してくれるか？<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="right">
 	<portrait_r name="ianna">
 	<sjis>
-		�~�V���[�X�̔p�ЂŖڌ�����Ă����<end_line>
-		�ގ����Ă���邩�H<end_line>
+		ミシュースの廃墟で目撃されているな<end_line>
+		退治してくれるか？<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="right">
 	<portrait_r name="ianna">
 	<sjis>
-		�x���[�g�̐X�Ŋm�F����Ă��<end_line>
+		ベリートの森で確認されてるわ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="right">
 	<portrait_r name="ianna">
 	<sjis>
-		�x���[�g�̐X�Ŗ\��Ă�炵����<end_line>
+		ベリートの森で暴れてるらしいよ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="right">
 	<portrait_r name="ianna">
 	<sjis>
-		�X�����W�̌@��Ŋm�F����Ă��<end_line>
+		スレンジ採掘場で確認されてるわ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="right">
 	<portrait_r name="ianna">
 	<sjis>
-		�X�����W�̌@��Ŗ\��Ă�炵����<end_line>
+		スレンジ採掘場で暴れてるらしいよ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="right">
 	<portrait_r name="ianna">
 	<sjis>
-		�X�|�[�g���A�Ŋm�F����Ă��<end_line>
+		スポート洞窟で確認されてるわ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="right">
 	<portrait_r name="ianna">
 	<sjis>
-		�X�|�[�g���A�Ŗ\��Ă�炵����<end_line>
+		スポート洞窟で暴れてるらしいよ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="right">
 	<portrait_r name="ianna">
 	<sjis>
-		�X�|�[�g���A�Ŋm�F����Ă��<end_line>
+		スポート洞窟で確認されてるわ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="right">
 	<portrait_r name="ianna">
 	<sjis>
-		�X�|�[�g���A�Ŗ\��Ă�炵����<end_line>
+		スポート洞窟で暴れてるらしいよ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="right">
 	<portrait_r name="ianna">
 	<sjis>
-		�~�V���[�X�̔p�ЂŊm�F����Ă��<end_line>
+		ミシュースの廃墟で確認されてるわ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="right">
 	<portrait_r name="ianna">
 	<sjis>
-		�~�V���[�X�̔p�ЂŖ\��Ă�炵����<end_line>
+		ミシュースの廃墟で暴れてるらしいよ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="right">
 	<portrait_r name="ianna">
 	<sjis>
-		���Ȃ��ɂ́A�{���Ɋ��ӂ��Ă܂�<end_line>
+		あなたには、本当に感謝してます<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="right">
 	<portrait_r name="ianna">
 	<sjis>
-		�ǂ��d�����Ă�݂����ł���<end_line>
-		���̒��q�ł���΂��Ă�������<end_line>
+		良い仕事してるみたいですね<end_line>
+		その調子でがんばってください<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="right">
 	<portrait_r name="ianna">
 	<sjis>
-		�ǂ��d�����܂킵�ė~�����Ȃ�A<end_line>
-		�܂��͎��т�ςނ��Ƃ���؂ł�<end_line>
+		良い仕事をまわして欲しいなら、<end_line>
+		まずは実績を積むことが大切です<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="right">
 	<portrait_r name="ianna">
 	<sjis>
-		���������A���܂߂ɗ��Ē������<end_line>
-		�C�C���d�����񂹂�̂ł���<end_line>
+		もう少し、こまめに来て頂けると<end_line>
+		イイお仕事を回せるのですが<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="right">
 	<portrait_r name="ianna">
 	<sjis>
-		���Z�����悤�ł���<end_line>
-		�����Ȃ���Ȃ��Ă��C�C�ł���<end_line>
+		お忙しいようですね<end_line>
+		無理なさらなくてもイイですよ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="right">
 	<portrait_r name="ianna">
 	<sjis>
-		���Ȃ��ɂ́A�����̂��d���́A<end_line>
-		�����ĂȂ��̂�����<end_line>
+		あなたには、ここのお仕事は、<end_line>
+		向いてないのかしら<end_line>
 	</sjis>
 </dialogue>

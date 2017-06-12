@@ -1,76 +1,76 @@
 <location>
 	<sjis>
-		�v���X�o���̒��@�Z��X�K�i<end_line>
+		プロスバンの町　住宅街階段<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="child">
 	<sjis>
-		�˂��A�����΂��������悤��<end_line>
-		�{�N���΂��ɂ��Ȃ��Ł`����<end_line>
-		�܂킵���肷�邩��<end_line>
+		ねぇ、しゅらばごっこしようよ<end_line>
+		ボクがばかにしないで～って<end_line>
+		まわしげりするから<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="child">
 	<sjis>
-		�L�~�͂Ђ����炠��܂��<end_line>
+		キミはひたすらあやまるの<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		�Ȃ�Ƃ��Ȃ�Ȃ��H<end_line>
-		���̑O�Ȃ��<end_line>
-		�Ȃ���ꂽ�A����R��ꂽ��<end_line>
+		なんとかならない？<end_line>
+		この前なんて<end_line>
+		なぐられた、いや蹴られたよ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		�i�b�N�������̓t�F�C���g��<end_line>
-		�񂵏R�肾������<end_line>
+		ナックル装備はフェイントで<end_line>
+		回し蹴りだったよ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		�v���X�o���̒������̂͌N���I<end_line>
-		�v���X�o�����x�c�ł͐V���Ȓ��Ԃ�<end_line>
-		��W���Ă��܂�<end_line>
+		プロスバンの町を守るのは君だ！<end_line>
+		プロスバン自警団では新たな仲間を<end_line>
+		募集しています<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		�}�L����A���o�C�g��W��<end_line>
-		�ڍׂ̓}�[�l�C���h��<end_line>
-		�قق��ݒ����@�}�L���₶�܂�<end_line>
+		マキ割りアルバイト募集中<end_line>
+		詳細はマーネイル宿場<end_line>
+		ほほえみ亭横　マキおやじまで<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		�@<end_line>
-		�@�@�@�@�@�`�����Ă܂��`<end_line>
+		　<end_line>
+		　　　　　～困ってます～<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		���A�����ւ��ɂԂ������Ⴄ��ł�<end_line>
-		�Ԃ���Ȃ����@�A�Ȃ�������H<end_line>
+		私、すぐへいにぶつかっちゃうんです<end_line>
+		ぶつからない方法、ないかしら？<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		�����͍z�΂ƒb��̒�<end_line>
-		�b��E�l�Ȃ�q�̖]�ޕ����<end_line>
-		�b����I<end_line>
+		ここは鉱石と鍛冶の町<end_line>
+		鍛冶職人なら客の望む武器を<end_line>
+		鍛えよ！<end_line>
 	</sjis>
 </dialogue>

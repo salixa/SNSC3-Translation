@@ -1,15 +1,15 @@
 <location>
 	<sjis>
-		�}�[�l�C���h��@�w<end_line>
+		マーネイル宿場　駅<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		�؂̐؂芔�́A���ł��킹���<end_line>
-		������~�~�Y���o�Ă��Ă��肵��<end_line>
-		�т����肵���Ⴄ����<end_line>
+		木の切り株は、斧でこわせるわ<end_line>
+		中からミミズが出てきてたりして<end_line>
+		びっくりしちゃうけど<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -17,12 +17,12 @@
 	<portrait_l name="woman">
 	<male>
 		<sjis>
-			���H�@���������H<end_line>
+			え？　いただき？<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			���H�@�T�C�R�[�H<end_line>
+			え？　サイコー？<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -30,6 +30,6 @@
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		<three_dots>���Ȃ��ς���Ă���<end_line>
+		<three_dots>あなた変わってるわね<end_line>
 	</sjis>
 </dialogue>

@@ -2,13 +2,13 @@
   <info box="left">
   <portrait_l entry="player" eye="decided" mouth="serious">
   <sjis>
-    �i���̂Ƃ���~���[�m��<end_line>
-    �@�����o��C�͂Ȃ����Ƃ�<end_line>
-    �@�킩�������ǁj<end_line>
+    （今のところミューノに<end_line>
+    　町を出る気はないことは<end_line>
+    　わかったけど）<end_line>
   </sjis>
   <ascii>
     (I know Murno doesn't<end_line>
-     intend to leave town<end_line>
+     intend to skip town<end_line>
      just yet.)<end_line>
   </ascii>
 </dialogue>
@@ -17,14 +17,14 @@
   <info box="left">
   <portrait_l entry="player" eye="decided" mouth="tense">
   <sjis>
-    �i���ꂪ�ǂ����ĂȂ̂���<end_line>
-    �@�킩��Ȃ�<three_dots><end_line>
-    �@<partner>�������Ă���Ȃ����j<end_line>
+    （それがどうしてなのかは<end_line>
+    　わからない<three_dots><end_line>
+    　<partner>も教えてくれないし）<end_line>
   </sjis>
   <ascii>
-    (But I don't know<end_line>
-     why that is<three_dots>
-     And <partner> doesn't know either.)<end_line>
+    (But as for why that is<three_dots><end_line>
+     I have no idea<three_dots><end_line>
+     And neither does <partner><three_dots>)<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -32,8 +32,8 @@
   <info box="left">
   <portrait_l entry="player" eye="sad" mouth="tense">
   <sjis>
-    �͂�<three_dots><end_line>
-    �I���͂ǂ������炢����<three_dots><end_line>
+    はあ<three_dots><end_line>
+    オレはどうしたらいいんだ<three_dots><end_line>
   </sjis>
   <ascii>
     Sigh<three_dots><end_line>
@@ -45,14 +45,14 @@
   <info box="left">
   <portrait_l entry="player" eye="decided" mouth="tense">
   <sjis>
-    �i���ꂪ�ǂ����ĂȂ̂���<end_line>
-    �@�킩��Ȃ���<three_dots><end_line>
-    �@<partner>�������Ă���Ȃ��j<end_line>
+    （それがどうしてなのかは<end_line>
+    　わかんないし<three_dots><end_line>
+    　<partner>も教えてくれない）<end_line>
   </sjis>
   <ascii>
-    (But I don't know<end_line>
-     why that is<three_dots>
-     And <partner> doesn't know either.)<end_line>
+    (But as for why that is<three_dots><end_line>
+     I have no idea<three_dots><end_line>
+     And neither does <partner><three_dots>)<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -60,8 +60,8 @@
   <info box="left">
   <portrait_l entry="player" eye="sad" mouth="tense">
   <sjis>
-    �͂�<three_dots><end_line>
-    �킽���A�ǂ������炢����<three_dots><end_line>
+    はあ<three_dots><end_line>
+    わたし、どうしたらいいの<three_dots><end_line>
   </sjis>
   <ascii>
     Sigh<three_dots><end_line>
@@ -74,9 +74,9 @@
   <portrait_l entry="player" eye="sad" mouth="tense">
   <portrait_r entry="partner" eye="serious" mouth="serious">
   <sjis>
-    �R�m���j�@�C���J�M��<end_line>
-    �݂�[�̗l�K�@�G�j�@�����T����<end_line>
-    �\���n�@���C�}�}�f�X<end_line>
+    コノ町ニ　イルカギリ<end_line>
+    みゅーの様ガ　敵ニ　発見サレル<end_line>
+    可能性ハ　高イママデス<end_line>
   </sjis>
   <ascii>
     As Long As We Are Here,<end_line>
@@ -90,7 +90,7 @@
   <portrait_l entry="player" eye="sad" mouth="tense">
   <portrait_r entry="partner" eye="serious" mouth="neutral">
   <sjis>
-    �\���j�@�P�C�J�C�@�V�e�N�_�T�C<end_line>
+    十分ニ　ケイカイ　シテクダサイ<end_line>
   </sjis>
   <ascii>
     We Must Stay Vigilant.<end_line>
@@ -102,9 +102,9 @@
   <portrait_l entry="player" eye="sad" mouth="tense">
   <portrait_r entry="partner" eye="serious" mouth="serious">
   <sjis>
-    ���̒��ɂ��邩����<end_line>
-    �~���[�m�͓G�Ɍ�����L�P����<end_line>
-    �����̂���<end_line>
+    この町におるかぎり<end_line>
+    ミューノは敵に見つかるキケンが<end_line>
+    高いのじゃ<end_line>
   </sjis>
   <ascii>
     As long as we're here,<end_line>
@@ -118,7 +118,7 @@
   <portrait_l entry="player" eye="sad" mouth="tense">
   <portrait_r entry="partner" eye="decided" mouth="serious">
   <sjis>
-    �p�S���˂΂Ȃ�񂼁I<end_line>
+    用心せねばならんぞ！<end_line>
   </sjis>
   <ascii>
     We must be cautious!<end_line>
@@ -130,13 +130,13 @@
   <portrait_l entry="player" eye="sad" mouth="tense">
   <portrait_r entry="partner" eye="serious" mouth="serious">
   <sjis>
-    �������A�G�̃E�W���E�W������<end_line>
-    ���̒��Ɏc��ƌ����Ă���̂�<end_line>
-    ���܂ł������Ă������Ȃ񂾁H<end_line>
+    あいつが、敵のウジャウジャいる<end_line>
+    この町に残ると言っているのに<end_line>
+    いつまでそうしているつもりなんだ？<end_line>
   </sjis>
   <ascii>
-    That girl<three_dots> She's staying in<end_line>
-    a place crawling with enemies.<end_line>
+    That girl<three_dots><end_line>
+    This place is crawling with enemies.<end_line>
     How long can she to keep this up?<end_line>
   </ascii>
 </dialogue>
@@ -146,14 +146,14 @@
   <portrait_l entry="player" eye="sad" mouth="tense">
   <portrait_r entry="partner" eye="serious" mouth="serious">
   <sjis>
-    ���̒��ɂ��邩����<end_line>
-    ���~���[�m�l���G�Ɍ����邩<end_line>
-    �킩��܂����I<end_line>
+    この町にいるかぎり<end_line>
+    いつミューノ様が敵に見つかるか<end_line>
+    わかりませんわ！<end_line>
   </sjis>
   <ascii>
     As long as we are here,<end_line>
-    there is always the chance Murno<end_line>
-    could be discovered!<end_line>
+    there is always the chance<end_line>
+    Murno could be discovered!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -162,7 +162,7 @@
   <portrait_l entry="player" eye="sad" mouth="tense">
   <portrait_r entry="partner" eye="decided" mouth="serious">
   <sjis>
-    �\�����ӂ��Ȃ��ẮI<end_line>
+    十分注意しなくては！<end_line>
   </sjis>
   <ascii>
     We must be cautious!<end_line>
@@ -174,21 +174,20 @@
   <portrait_r entry="partner" eye="decided" mouth="serious">
   <male>
     <sjis>
-      ������<three_dots><end_line>
-      �����ōl���Ă��Ă�<end_line>
-      �������Ȃ���<three_dots><end_line>
+      そうか<three_dots><end_line>
+      ここで考えていても<end_line>
+      しかたないな<three_dots><end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ������<three_dots><end_line>
-      �����ł����ƍl���ĂĂ�<end_line>
-      �������Ȃ����<three_dots><end_line>
+      そっか<three_dots><end_line>
+      ここでずっと考えてても<end_line>
+      しかたないよね<three_dots><end_line>
     </sjis>
   </female>
   <ascii>
     Right<three_dots><end_line>
-    I can't just sit here<end_line>
-    and keep thinking about it<three_dots><end_line>
+    I can't just sit here all day<three_dots><end_line>
   </ascii>
 </dialogue>

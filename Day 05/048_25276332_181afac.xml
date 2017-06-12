@@ -3,8 +3,8 @@
   <info box="left">
   <portrait_l entry="player" eye="decided" mouth="serious">
   <sjis>
-    ������<three_dots><end_line>
-    ��̂ǂ��Ȃ񂾁H<end_line>
+    ここは<three_dots><end_line>
+    一体どこなんだ？<end_line>
   </sjis>
   <ascii>
     Where<three_dots><end_line>
@@ -16,8 +16,8 @@
   <info box="left">
   <portrait_l entry="player" eye="surprised" mouth="tense">
   <sjis>
-    <partner><three_dots>�I�H<end_line>
-    �~���[�m�I�H<end_line>
+    <partner><three_dots>！？<end_line>
+    ミューノ！？<end_line>
   </sjis>
   <ascii>
     <partner><three_dots>!?<end_line>
@@ -29,9 +29,9 @@
   <info box="left">
   <portrait_l entry="player" eye="surprised" mouth="stressed">
   <sjis>
-    ����H<end_line>
-    ���킪�Ȃ��H<end_line>
-    �ق��̂�<three_dots>�I�H<end_line>
+    あれ？<end_line>
+    武器がない？<end_line>
+    ほかのも<three_dots>！？<end_line>
   </sjis>
   <ascii>
     Huh?<end_line>
@@ -44,8 +44,8 @@
   <info box="left">
   <portrait_l entry="player" eye="decided" mouth="yell">
   <sjis>
-    �������I�H<end_line>
-    �n���}�[���Ȃ��I�H<end_line>
+    ああっ！？<end_line>
+    ハンマーもない！？<end_line>
   </sjis>
   <ascii>
     Crap!<end_line>
@@ -57,8 +57,8 @@
   <info box="left">
   <portrait_l entry="player" eye="decided" mouth="serious">
   <sjis>
-    ������<three_dots><end_line>
-    ��̂ǂ��H<end_line>
+    ここは<three_dots><end_line>
+    一体どこ？<end_line>
   </sjis>
   <ascii>
     Where<three_dots><end_line>
@@ -70,8 +70,8 @@
   <info box="left">
   <portrait_l entry="player" eye="surprised" mouth="tense">
   <sjis>
-    <partner><three_dots>�I�H<end_line>
-    �~���[�m�I�H<end_line>
+    <partner><three_dots>！？<end_line>
+    ミューノ！？<end_line>
   </sjis>
   <ascii>
     <partner><three_dots>!?<end_line>
@@ -83,9 +83,9 @@
   <info box="left">
   <portrait_l entry="player" eye="surprised" mouth="stressed">
   <sjis>
-    ����H<end_line>
-    ���킪�Ȃ��H<end_line>
-    �ق��̂�<three_dots>�I�H<end_line>
+    あれ？<end_line>
+    武器がない？<end_line>
+    ほかのも<three_dots>！？<end_line>
   </sjis>
   <ascii>
     Huh?<end_line>
@@ -98,8 +98,8 @@
   <info box="left">
   <portrait_l entry="player" eye="decided" mouth="yell">
   <sjis>
-    �������I�H<end_line>
-    �n���}�[���Ȃ��́I�H<end_line>
+    ああっ！？<end_line>
+    ハンマーもないの！？<end_line>
   </sjis>
   <ascii>
     What!?<end_line>

@@ -2,7 +2,7 @@
   <info box="left">
   <portrait_l entry="player" eye="decided" mouth="tense">
   <sjis>
-    ���A���̉�<three_dots><end_line>
+    あ、この音<three_dots><end_line>
   </sjis>
   <ascii>
     Ah, that sound<three_dots><end_line>
@@ -14,9 +14,9 @@
   <portrait_l entry="player" eye="decided" mouth="tense">
   <portrait_r entry="partner" eye="sad" mouth="serious">
   <sjis>
-    ���m�߃N�f�@���J�A�b�^�l�f�X<end_line>
-    �}�^�@���\�i�n�O�������b�K<end_line>
-    �o���V�^�m�f�V���E�J<three_dots><end_line>
+    町ノ近クデ　何カアッタ様デス<end_line>
+    マタ　凶暴ナハグレ召喚獣ガ<end_line>
+    出現シタノデショウカ<three_dots><end_line>
   </sjis>
   <ascii>
     Something Must Have<end_line>
@@ -30,9 +30,9 @@
   <portrait_l entry="player" eye="decided" mouth="tense">
   <portrait_r entry="partner" eye="sad" mouth="serious">
   <sjis>
-    �߂��ŉ����������m�点�����<end_line>
-    �܂����\�Ȃ͂��ꏢ���b�ł�<end_line>
-    �o���񂶂�낤��<three_dots><end_line>
+    近くで何かあった知らせじゃな<end_line>
+    また凶暴なはぐれ召喚獣でも<end_line>
+    出たんじゃろうか<three_dots><end_line>
   </sjis>
   <ascii>
     Something must have happened.<end_line>
@@ -46,9 +46,9 @@
   <portrait_l entry="player" eye="decided" mouth="tense">
   <portrait_r entry="partner" eye="sad" mouth="serious">
   <sjis>
-    ����<three_dots><end_line>
-    �߂��ŉ������������}����<three_dots><end_line>
-    �܂��^�`�̈����͂��ꂩ<three_dots>�H<end_line>
+    ちっ<three_dots><end_line>
+    近くで何かあった合図だな<three_dots><end_line>
+    またタチの悪いはぐれか<three_dots>？<end_line>
   </sjis>
   <ascii>
     Tch<three_dots><end_line>
@@ -62,9 +62,9 @@
   <portrait_l entry="player" eye="decided" mouth="tense">
   <portrait_r entry="partner" eye="sad" mouth="serious">
   <sjis>
-    ����<three_dots><end_line>
-    �߂��ŉ����������̂ł���<three_dots><end_line>
-    �܂��R���C�͂���ł��傤��<three_dots>�H<end_line>
+    うぅ<three_dots><end_line>
+    近くで何かあったのですわ<three_dots><end_line>
+    またコワイはぐれでしょうか<three_dots>？<end_line>
   </sjis>
   <ascii>
     Uu<three_dots><end_line>
@@ -78,12 +78,12 @@
   <portrait_r entry="partner" eye="sad" mouth="serious">
   <male>
     <sjis>
-      ���x�͓��̕���<three_dots><end_line>
+      今度は南門の方か<three_dots><end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ���x�͓��̕�<three_dots><end_line>
+      今度は南門の方<three_dots><end_line>
     </sjis>
   </female>
   <ascii>
@@ -95,7 +95,7 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <portrait_r entry="partner" eye="sad" mouth="serious">
   <sjis>
-    �͂��ꏢ���b<three_dots><end_line>
+    はぐれ召喚獣<three_dots><end_line>
   </sjis>
   <ascii>
     It must be a Stray<three_dots><end_line>
@@ -107,14 +107,14 @@
   <portrait_r entry="partner" eye="sad" mouth="serious">
   <male>
     <sjis>
-      ���������Ă܂����̘A����<end_line>
-      �o�Ă��邩������Ȃ���<three_dots><end_line>
+      もしかしてまたあの連中が<end_line>
+      出てくるかもしれないな<three_dots><end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ���������Ă܂����̐l������<end_line>
-      �o�Ă��邩������Ȃ���<three_dots><end_line>
+      もしかしてまたあの人たちが<end_line>
+      出てくるかもしれないね<three_dots><end_line>
     </sjis>
   </female>
   <ascii>
@@ -128,9 +128,9 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <portrait_r entry="partner" eye="decided" mouth="yell">
   <sjis>
-    �G�A�f�X�l<three_dots><end_line>
-    �\�m�\���n�@���C�g�v�����}�X<end_line>
-    �݂�[�̗l�m���j�@�߃��}�V���E�I<end_line>
+    敵、デスネ<three_dots><end_line>
+    ソノ可能性ハ　高イト思ワレマス<end_line>
+    みゅーの様ノ元ニ　戻リマショウ！<end_line>
   </sjis>
   <ascii>
     Our Enemies<three_dots><end_line>
@@ -144,9 +144,9 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <portrait_r entry="partner" eye="decided" mouth="yell">
   <sjis>
-    �G�A�̂��Ƃ����<three_dots><end_line>
-    ���ށA�~���[�m���S�z����<end_line>
-    �͂₭�߂邼�I<end_line>
+    敵、のことじゃな<three_dots><end_line>
+    うむ、ミューノが心配じゃ<end_line>
+    はやく戻るぞ！<end_line>
   </sjis>
   <ascii>
     Our enemies, yes<three_dots><end_line>
@@ -160,13 +160,13 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <portrait_r entry="partner" eye="decided" mouth="yell">
   <sjis>
-    �G��<three_dots><end_line>
-    �������ɃC���ȋC�z��<end_line>
-    �߂�Ȃ��Ă����̂��H<end_line>
+    敵か<three_dots><end_line>
+    たしかにイヤな気配だ<end_line>
+    戻らなくていいのか？<end_line>
   </sjis>
   <ascii>
-    Our enemies<three_dots><end_line>
-    Yeah, there's an unpleasant presence.<end_line>
+    Enemies<three_dots><end_line>
+    There's an unpleasant presence.<end_line>
     Shouldn't we head back?<end_line>
   </ascii>
 </dialogue>
@@ -176,9 +176,9 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <portrait_r entry="partner" eye="decided" mouth="yell">
   <sjis>
-    �āA�G�̂��Ƃł���<three_dots><end_line>
-    �~���[�m�l���S�z�ł��I<end_line>
-    �͂₭�߂�܂��傤�I<end_line>
+    て、敵のことですね<three_dots><end_line>
+    ミューノ様が心配です！<end_line>
+    はやく戻りましょう！<end_line>
   </sjis>
   <ascii>
     O-our enemies, yes<three_dots><end_line>
@@ -191,7 +191,7 @@
   <portrait_l entry="player" eye="decided" mouth="yell">
   <portrait_r entry="partner" eye="decided" mouth="yell">
   <sjis>
-    ���A����I<end_line>
+    あ、うん！<end_line>
   </sjis>
   <ascii>
     Ah, right!<end_line>
