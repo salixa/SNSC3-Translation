@@ -53,7 +53,7 @@
 		知りませんか？<end_line>
 	</sjis>
   <ascii>
-    Um<three_dots> Mr Veloren, right?<end_line>
+    Um<three_dots> Mr Velworen, right?<end_line>
     Do you know where<end_line>
     Murno is right now?<end_line>
   </ascii>
@@ -134,9 +134,8 @@
 		話し合いならもっと後に<three_dots><end_line>
 	</sjis>
   <ascii>
-    Ehh!? But<three_dots><end_line>
-    It's not time for our appointment yet?<end_line>
-    Our meeting is later<three_dots><end_line>
+    Ehh!? Well<three_dots><end_line>
+    Our meeting is at a later time<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -163,8 +162,8 @@
 	</sjis>
   <ascii>
     Eh?<end_line>
-    About going back to Mishus Village.<end_line>
-    You didn't hear about it?<end_line>
+    About returning to Mishus Village.<end_line>
+    She didn't tell you?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -177,7 +176,6 @@
 		ミューノが住んでたってこと？<end_line>
 	</sjis>
   <ascii>
-    Go back?<end_line>
     Mishus Village is where<end_line>
     Murno used to live, right?<end_line>
   </ascii>
@@ -193,8 +191,8 @@
 	</sjis>
   <ascii>
     That's right.<end_line>
-    She wanted to know how it was doing,<end_line>
-    so I wanted to help<three_dots><end_line>
+    She wanted to pay a visit,<end_line>
+    and I wanted to help<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -377,9 +375,9 @@
 		持ってたから、もしかしてって<three_dots><end_line>
 	</sjis>
   <ascii>
-    I mean, she had something that looked<end_line>
-    like the Demon Stone Bostaph was<end_line>
-    talking about, so I thought maybe<three_dots><end_line>
+    I mean, she had something that<end_line>
+    looked like the Demon Stone Bostaph<end_line>
+    was mentioned, so I thought<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -403,9 +401,9 @@
 		そいつで召喚獣を操ってるって話も<three_dots><end_line>
 	</sjis>
   <ascii>
-    Rumors say it can summon powerful Beasts<end_line>
-    and it contains lots of magical power<three_dots><end_line>
-    And it can control Summons<three_dots><end_line>
+    Rumors say its magic can<end_line>
+    summon incredibly powerful Beasts<three_dots><end_line>
+    And can control any Summon Beast<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -418,9 +416,8 @@
 		あの子には逆らわない方がいいかも<three_dots><end_line>
 	</sjis>
   <ascii>
-    If that's really true,<end_line>
-    it's quite frightening<three_dots><end_line>
-    It might be better not to defy her<three_dots><end_line>
+    If that's really true<three_dots><end_line>
+    It might be safer not to defy her<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -433,7 +430,7 @@
 		おとなしくできるって考えたのかも<three_dots><end_line>
 	</sjis>
   <ascii>
-    Ah, perhaps she's thinking <end_line>
+    Ah, perhaps she's thinking<end_line>
     she can use the Demon Stone<end_line>
     to sedate the Strays<three_dots><end_line>
   </ascii>
@@ -457,9 +454,7 @@
 		</sjis>
 	</female>
   <ascii>
-    Then that means she<end_line>
-    might have gone to<end_line>
-    confront the Strays!?<end_line>
+    Are you sure!?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -471,7 +466,7 @@
 		知らないよ<three_dots>！<end_line>
 	</sjis>
   <ascii>
-    W-well, I don't know for sure<three_dots>!<end_line>
+    W-well, it's a possibility<three_dots>!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -486,7 +481,7 @@
   <ascii>
     Okay <partner>!<end_line>
     Let's go check out<end_line>
-    the south gate!<end_line>
+    the southern gate!<end_line>
   </ascii>
 </dialogue>
 <dialogue>

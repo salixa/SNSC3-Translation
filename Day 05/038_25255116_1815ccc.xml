@@ -8,7 +8,7 @@
   <ascii>
     Everyone<three_dots>!<end_line>
     Hey, are you alright!?<end_line>
-  <?ascii>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -22,7 +22,7 @@
   <ascii>
     They should still be alive.<end_line>
     Because<three_dots><end_line>
-    The Immortal Jade was with them.<end_line>
+    The Invincible Jade was with them.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -35,8 +35,8 @@
     アンタも大丈夫かい？<end_line>
   </sjis>
   <ascii>
-    Though it seems there<end_line>
-    were quite a few Strays<three_dots><end_line>
+    Looks like there was<end_line>
+    quite a few Strays<three_dots><end_line>
     What about you? Any injuries?<end_line>
   </ascii>
 </dialogue>
@@ -118,8 +118,8 @@
     まったく何をやってるんだか<three_dots><end_line>
   </sjis>
   <ascii>
-    Jade said he saw her, but Murno and Tier<end_line>
-    were nowhere to be found<three_dots><end_line>
+    Jade said he saw them, but now<end_line>
+    they're were nowhere to be found<three_dots><end_line>
     This guy is useless<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -149,8 +149,7 @@
   </sjis>
   <ascii>
     No<three_dots> you're right<three_dots><end_line>
-    It's my fault for not<end_line>
-    looking carefully.<end_line>
+    I wasn't paying enough attention.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -163,9 +162,9 @@
     文句を言われる筋合いがありませんよ<end_line>
   </sjis>
   <ascii>
-    That's not true.<end_line>
-    You were distracted by many enemies.<end_line>
-    We aren't in a position to complain.<end_line>
+    It's not your fault.<end_line>
+    With so many Strays around,<end_line>
+    you had to focus on the fight.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -179,8 +178,7 @@
   </sjis>
   <ascii>
     If anyone is at fault,<end_line>
-    it's those two who lack<end_line>
-    any sense of urgency.<end_line>
+    it's those two idiotic girls.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -294,8 +292,8 @@
   </sjis>
   <ascii>
     Who do you think I am?<end_line>
-    I'm not called the Immortal Jade<end_line>
-    for nothing.<end_line>
+    I'm not called the<end_line>
+    Invincible Jade for nothing.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -307,7 +305,7 @@
   </sjis>
   <ascii>
     Bro,<end_line>
-    you're so cool<three_dots><end_line>
+    you're so cool<three_dots>!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -347,7 +345,7 @@
   </sjis>
   <ascii>
     B<three_dots>, Brother<three_dots><end_line>
-  <?ascii>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -359,9 +357,9 @@
     あ、そうか、金の派閥には<three_dots><end_line>
   </sjis>
   <ascii>
-    Sorry, Lemmy.<end_line>
     The rest is up to you<three_dots><end_line>
-    Ah, that's right, what about the Gold<three_dots><end_line>
+    Ah, that's right,<end_line>
+    and about the Gold Council<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -401,8 +399,8 @@
   </sjis>
   <ascii>
     Bostaph hired them<three_dots><end_line>
-    There's no way they'd lose to Strays.<end_line>
-    Maybe they went back on their own?<end_line>
+    They wouldn't lose to any Strays.<end_line>
+    Maybe they already went back?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -443,7 +441,7 @@
   </sjis>
   <ascii>
     A group of three<three_dots><end_line>
-    Coult it be those<three_dots><end_line>
+    Could it be<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -514,7 +512,6 @@
   </sjis>
   <ascii>
     Wait a second!<end_line>
-    You two<three><end_line>
     Just what are you hiding<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -599,7 +596,7 @@
   <ascii>
     <three_dots> I see.<end_line>
     Understood.<end_line>
-    When you get back,<end_line>
+    Then when you get back<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -647,8 +644,8 @@
     行くよ！<end_line>
   </sjis>
   <ascii>
-    <three_dots> Hey,<end_line>
-    I'm the one who calls the shots here.<end_line>
+    <three_dots>Hey, I'm the one<end_line>
+    who calls the shots here.<end_line>
     Okay, now go!<end_line>
   </ascii>
 </dialogue>

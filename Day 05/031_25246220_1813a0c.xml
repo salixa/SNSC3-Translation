@@ -1,4 +1,4 @@
-<dialogue>#221
+<dialogue>
   <info box="left">
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="vee" eye="serious" mouth="serious">
@@ -23,9 +23,8 @@
     それどころじゃなくなったよ<end_line>
   </sjis>
   <ascii>
-    Meeting?<end_line>
-    Oh, the Stray showed up<end_line>
-    so it didn't really go anywhere.<end_line>
+    Oh, a Stray showed up so we<end_line>
+    really didn't get anything done.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -38,7 +37,7 @@
     ミューノはいっしょじゃないのかい？<end_line>
   </sjis>
   <ascii>
-    More importantly, <player_nickname>,<end_line>
+    More importantly,<end_line>
     where have you been?<end_line>
     Is Murno with you?<end_line>
   </ascii>
@@ -136,7 +135,7 @@
     わかんない<end_line>
   </sjis>
   <ascii>
-    I don't know.<end_line>
+    I dunno.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -151,8 +150,8 @@
   </sjis>
   <ascii>
     Please Try To Remember.<end_line>
-    Did She Say Anything That<end_line>
-    Could Be A Clue?<end_line>
+    Did She Say Anything<end_line>
+    That Could Be A Clue?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -333,7 +332,7 @@
   <ascii>
     Jade is out there with the militia.<end_line>
     What about you guys,<end_line>
-    do you know anything about her?<end_line>
+    do you know anything?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -344,7 +343,7 @@
     なにかって<three_dots><end_line>
   </sjis>
   <ascii>
-    Anything<three_dots><end_line>
+    Well<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>

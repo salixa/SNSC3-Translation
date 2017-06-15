@@ -25,9 +25,7 @@
     </sjis>
   </female>
   <ascii>
-    Are those<three_dots><end_line>
-    Aren't there more Strays<end_line>
-    around here<three_dots>?<end_line>
+    That must be one of the Strays<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -40,8 +38,7 @@
     コノ近クニ<three_dots><end_line>
   </sjis>
   <ascii>
-    Lady Murno Must Be<end_line>
-    Nearby<three_dots><end_line>
+    Lady Murno Must Be Close<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -54,8 +51,7 @@
     この近くにおるのじゃな<three_dots><end_line>
   </sjis>
   <ascii>
-    That means Murno<end_line>
-    must be nearby as well<three_dots><end_line>
+    Murno must be close by<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -68,7 +64,6 @@
     この近くにいるんだな<three_dots><end_line>
   </sjis>
   <ascii>
-    <three_dots> Meaning,<end_line>
     Murno must also be nearby<three_dots><end_line>
 </dialogue>
 <dialogue>
