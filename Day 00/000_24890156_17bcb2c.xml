@@ -77,9 +77,9 @@
     本当に立派だったぞ<end_line>
   </sjis>
   <ascii>
-    You've done well, <end_line>
-    enduring my training so long.<end_line>
-    That's worthy of praise.<end_line>
+    You've done well to endure<end_line>
+    my training for so long.<end_line>
+    I'm impressed.<end_line>
   </ascii>	
 </dialogue>
 <dialogue>
@@ -240,10 +240,10 @@
     このアタシに勝ってみせな！<end_line>
   </sjis>
   <ascii>
-    Now then, fight me with<end_line>
-    that hammer of yours!<end_line>
-    Show me your strength!<end_line>
-  </ascii>	
+    Now then, show me the<end_line>
+    fruits of your labor!<end_line>
+    Take up your hammer, and fight me!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="right">
