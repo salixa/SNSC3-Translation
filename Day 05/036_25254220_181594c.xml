@@ -4,14 +4,14 @@
   <portrait_r entry="partner" eye="decided" mouth="neutral">
   <male>
     <sjis>
-      ‚â‚Á‚½I<end_line>
-      Ÿ‚Á‚½‚¼I<end_line>
+      ã‚„ã£ãŸï¼<end_line>
+      å‹ã£ãŸãžï¼<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ‚â‚Á‚½I<end_line>
-      Ÿ‚Á‚½‚æI<end_line>
+      ã‚„ã£ãŸï¼<end_line>
+      å‹ã£ãŸã‚ˆï¼<end_line>
     </sjis>
   </female>
   <ascii>
@@ -25,8 +25,8 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="partner" eye="decided" mouth="yell">
   <sjis>
-    ‘ƒN@‚Ý‚ã[‚Ì—lƒ’<end_line>
-    Œ©ƒcƒPoƒVƒ}ƒVƒ‡ƒE<end_line>
+    æ—©ã‚¯ã€€ã¿ã‚…ãƒ¼ã®æ§˜ãƒ²<end_line>
+    è¦‹ãƒ„ã‚±å‡ºã‚·ãƒžã‚·ãƒ§ã‚¦<end_line>
   </sjis>
   <ascii>
     Let Us Hurry<end_line>
@@ -39,9 +39,9 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="partner" eye="decided" mouth="yell">
   <sjis>
-    ‚æ‚µ<end_line>
-    ‚Í‚â‚­ƒ~ƒ…[ƒm‚ð<end_line>
-    Œ©‚Â‚¯‚Ë‚Î‚ÈI<end_line>
+    ã‚ˆã—<end_line>
+    ã¯ã‚„ããƒŸãƒ¥ãƒ¼ãƒŽã‚’<end_line>
+    è¦‹ã¤ã‘ã­ã°ãªï¼<end_line>
   </sjis>
   <ascii>
     Good.<end_line>
@@ -54,8 +54,8 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="partner" eye="decided" mouth="yell">
   <sjis>
-    ‚¿‚Á<three_dots><end_line>
-    ‚³‚Á‚³‚Æs‚­‚¼<end_line>
+    ã¡ã£<three_dots><end_line>
+    ã•ã£ã•ã¨è¡Œããž<end_line>
   </sjis>
   <ascii>
     Tch<three_dots><end_line>
@@ -68,9 +68,9 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="partner" eye="decided" mouth="yell">
   <sjis>
-    ‚³‚ I<end_line>
-    ‚Í‚â‚­ƒ~ƒ…[ƒm—l‚ð<end_line>
-    Œ©‚Â‚¯‚Ü‚µ‚å‚¤I<end_line>
+    ã•ã‚ï¼<end_line>
+    ã¯ã‚„ããƒŸãƒ¥ãƒ¼ãƒŽæ§˜ã‚’<end_line>
+    è¦‹ã¤ã‘ã¾ã—ã‚‡ã†ï¼<end_line>
   </sjis>
   <ascii>
     Now then!<end_line>
@@ -83,7 +83,7 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <portrait_r entry="partner" eye="decided" mouth="yell">
   <sjis>
-    ‚¤‚ñI<end_line>
+    ã†ã‚“ï¼<end_line>
   </sjis>
   <ascii>
     Okay!<end_line>

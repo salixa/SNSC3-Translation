@@ -80,7 +80,7 @@
   </sjis>
   <ascii>
     I don't know<three_dots><end_line>
-  <?ascii>
+  </ascii>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -95,7 +95,7 @@
   <ascii>
     You Don't Know!?<end_line>
     What Does That Mean?<end_line>
-    You Were With Her<three_dots><end_line>
+    Wasn't She With You<three_dots>!?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -111,7 +111,7 @@
   <ascii>
     You don't know!?<end_line>
     What is the meaning of this!<end_line>
-    You were with her<three_dots><end_line>
+    Wasn't she with you<three_dots>!?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -141,7 +141,6 @@
     あなたはミューノ様といっしょに<three_dots><end_line>
   </sjis>
   <ascii>
-    Wait a moment!<end_line>
     What do you mean, you don't know!?<end_line>
     You were with her<three_dots><end_line>
   </ascii>
@@ -155,8 +154,7 @@
     落ち着きな！<end_line>
   </sjis>
   <ascii>
-    Wait, <partner>,<end_line>
-    calm down!<end_line>
+    <partner>, calm down!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -182,9 +180,9 @@
     だから、わたしも手伝って<three_dots>！<end_line>
   </sjis>
   <ascii>
-    I told it was dangerous,<end_line>
+    I knew it was dangerous,<end_line>
     but Murno insisted<three_dots><end_line>
-    I said I'd help and<three_dots>!<end_line>
+    I wanted to help so<three_dots>!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -210,7 +208,7 @@
   <ascii>
     We were going to meet you all,<end_line>
     but Murno suddenly ran off.<end_line>
-    Three people were chasing her.<end_line>
+    Three people chased after her.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -239,8 +237,7 @@
   </sjis>
   <ascii>
     Yes<three_dots><end_line>
-    I was afraid and<end_line>
-    ran away but<three_dots><end_line>
+    I tried to run but<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -281,7 +278,7 @@
   </female>
   <ascii>
     Are you hurt<three_dots>!?<end_line>
-  <?ascii>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -293,9 +290,8 @@
     がんばったんだけど<three_dots><end_line>
   </sjis>
   <ascii>
-    We were being chased,<end_line>
-    and I thought,<end_line>
-    I have to do something, but<three_dots><end_line>
+    They kept chasing us<three_dots><end_line>
+    I didn't know what else to do<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -309,8 +305,8 @@
   </sjis>
   <ascii>
     I'm sorry<three_dots><end_line>
-    I'm fine,<end_line>
-    but Murno is<three_dots><end_line>
+    Don't worry about me<three_dots><end_line>
+    You have to save her<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -321,7 +317,7 @@
     あいつら<three_dots><end_line>
   </sjis>
   <ascii>
-    They<three_dots><end_line>
+    Those three<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -359,9 +355,8 @@
     なってるようだな<three_dots><end_line>
   </sjis>
   <ascii>
-    I'm not sure what's going on,<end_line>
-    but it looks like this<end_line>
-    is going to get dangrous<three_dots><end_line>
+    Looks like this is<end_line>
+    might be dangrous<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -386,8 +381,7 @@
     何だって！？<end_line>
   </sjis>
   <ascii>
-    Hey,<end_line>
-    why me!?<end_line>
+    Why me!?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -401,7 +395,7 @@
   </sjis>
   <ascii>
     We don't have a choice.<end_line>
-    We can't let her go alone<end_line>
+    We can't leave her alone<end_line>
     with those injuries<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -415,9 +409,8 @@
     町に戻した方が利口だろ？<end_line>
   </sjis>
   <ascii>
-    And you always get lost.<end_line>
-    It makes more sense to have<end_line>
-    you two go together, doesn't it?<end_line>
+    And you always get lost by yourself.<end_line>
+    You two are a perfect match, see?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -431,8 +424,8 @@
   </sjis>
   <ascii>
     Jade<three_dots><end_line>
-    Cut it out, or I'll shove<end_line>
-    this hammer down your throat.<end_line>
+    Keep it up and I'll shove<end_line>
+    this hammer down your throat!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -477,7 +470,7 @@
   <ascii>
     I'll be fine.<end_line>
     Because<three_dots><end_line>
-    I am the Immortal Jade.<end_line>
+    I am the Invincible Jade.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -530,8 +523,8 @@
   </sjis>
   <ascii>
     You're right, you were cool.<end_line>
-    Alright then, I'll return to town,<end_line>
-    but<three_dots><end_line>
+    Alright then, I'll return to town.<end_line>
+    In exchange<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -557,8 +550,7 @@
     みるんだからね！<end_line>
   </sjis>
   <ascii>
-    Make sure you take<end_line>
-    good care of them!<end_line>
+    Don't let them out of your sight!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -595,8 +587,7 @@
   </sjis>
   <ascii>
     Take care of the rest!<end_line>
-    You better<end_line>
-    find Murno!<end_line>
+    You better find Murno!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
