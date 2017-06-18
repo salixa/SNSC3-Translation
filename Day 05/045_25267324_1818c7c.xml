@@ -1,4 +1,4 @@
-<dialogue>#401
+<dialogue>
   <info box="right">
   <portrait_r entry="lemmy" eye="decided" mouth="serious">
   <sjis>
@@ -24,7 +24,7 @@
   <ascii>
     Just shut up already.<end_line>
     I won't take orders from you.<end_line>
-    If you wanna keep this up<three_dots><end_line>
+    But if you insist<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -94,7 +94,7 @@
   <ascii>
     Oh<three_dots><end_line>
     No<three_dots><end_line>
-    Stay away<three_dots><three_dots><end_line>
+    Stay away<three_dots><three_dots>!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -192,8 +192,7 @@
   </sjis>
   <ascii>
     God you're stubborn.<end_line>
-    You're just like that guy<three_dots><end_line>
-    Always pissing me off<three_dots><end_line>
+    You're just like him<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -204,7 +203,8 @@
     ロブってムカつく鍛冶師野郎に！<end_line>
   </sjis>
   <ascii>
-    Just like that bastard Rob!<end_line>
+		That bastard Rob<three_dots>!<end_line>
+    Always pissing me off!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -242,8 +242,8 @@
   </sjis>
   <ascii>
     I'll get my revenge on<end_line>
-    you in full some other time.<end_line>
-    You can play with this one for now.<end_line>
+    you in some other time.<end_line>
+		Here, I'll give you a playmate.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -255,7 +255,7 @@
     召喚<three_dots><three_dots><three_dots><end_line>
   </sjis>
   <ascii>
-    Under the name of Anise, I summon thee!<end_line>
+    Under the name of Anise!<end_line>
     In accordance with our covenant,<end_line>
     come to me! Summon<three_dots><three_dots><three_dots><end_line>
   </ascii>
@@ -288,7 +288,6 @@
     マグドラド<three_dots>！？<end_line>
   </sjis>
   <ascii>
-    This is<three_dots><end_line>
     Magdrad<three_dots>!?<end_line>
   </ascii>
 </dialogue>
@@ -315,7 +314,7 @@
   <ascii>
     What is that Summon Beast!?<end_line>
     Another Stray!?<end_line>
-    Lemmy!<end_line>#1
+    Lemmy!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -329,8 +328,7 @@
   </sjis>
   <ascii>
     No!<end_line>
-    That person<end_line>
-    summoned it<three_dots>!<end_line>
+    That person summoned it<three_dots>!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -343,9 +341,8 @@
     一体なにをするつもりだ？<end_line>
   </sjis>
   <ascii>
-    Summoned?<end_line>
+    You Summoned THAT?<end_line>
     What's going on here?<end_line>
-    What do you intend to do?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -374,7 +371,7 @@
   </sjis>
   <ascii>
     I'll get hurt?<end_line>
-    That's a funny joke<three_dots><end_line>
+		Hoho<three_dots><end_line>
     Wanna give it a try?<end_line>
   </ascii>
 </dialogue>
@@ -402,8 +399,9 @@
     おとなしくさせてくれ！<end_line>
   </sjis>
   <ascii>
-    Again, this has nothing to do with you!<end_line>
-    Pike, Gillan, take care of him!<end_line>
+    Again, this has nothing<end_line>
+		to do with you!<end_line>
+    Pike, Gillan, shut him up!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -477,7 +475,7 @@
     Forget my injuries, you should be<end_line>
     worried about the hair on your head.<end_line>
     Because<three_dots><end_line>
-  </asciic>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -502,7 +500,7 @@
   </sjis>
   <ascii>
     N-now you've done it.<end_line>
-    Don't think you're leaving here alive!<end_line>
+		You're not leaving here alive!<end_line>
     I'll crush you! Head first!<end_line>
   </ascii>
 </dialogue>
@@ -572,9 +570,9 @@
     さあ、どうするんだ！？<end_line>
   </sjis>
   <ascii>
-    You're a total weakling, forcing others<end_line>
+    Right now, you're forcing others<end_line>
     to throw their lives away for you<three_dots><end_line>
-    So, what are you going to do!?<end_line>
+		But you can still save them!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -631,9 +629,8 @@
     ないだろうな？<end_line>
   </sjis>
   <ascii>
-    You aren't telling me<end_line>
-    you're afraid of that<end_line>
-    monster, are you?<end_line>
+		You're scared of that thing,<end_line>
+		aren't you?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -690,9 +687,9 @@
     </sjis>
   </female>
   <ascii>
-    It's so huge<three_dots><end_line>
+    It's so big<three_dots><end_line>
     Of course I'm scared<three_dots><end_line>
-   </ascii>
+  </ascii>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -707,7 +704,7 @@
   <ascii>
     Look Carefully.<end_line>
     The Summoner Is Nearby.<end_line>
-    If We Can Get Close To Her<three_dots><end_line>
+    If We Can Get Close To Anise<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -753,7 +750,7 @@
   <ascii>
     Do you understand?<end_line>
     If we can approach the Summoner,<end_line>
-    the Beast cannot move freely.<end_line>
+    the Beast cannot attack freely.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -768,7 +765,7 @@
   </sjis>
   <ascii>
     Tch, fine then<three_dots><end_line>
-    I'll teach you how even<end_line>
+    I'll tell you a way even<end_line>
     an idiot like you can win.<end_line>
   </ascii>
 </dialogue>
@@ -784,8 +781,8 @@
   </sjis>
   <ascii>
     Go after the Summoner.<end_line>
-    The Summon Beast won't be able<end_line>
-    to attack as freely.<end_line>
+    The Summon Beast won't be <end_line>
+    able to attack freely.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -799,7 +796,7 @@
     しっかり周りを見れば、必ず<three_dots><end_line>
   </sjis>
   <ascii>
-    I-I see, I thought so<three_dots><end_line>
+    I-I see, that's only natural<three_dots><end_line>
     But you musn't be afraid.<end_line>
     Examine your surroundings, surely<three_dots><end_line>
   </ascii>
@@ -908,7 +905,7 @@
   </sjis>
   <ascii>
     Hmph.<end_line>
-    You better have an idea.<end_line>
+    You better have a plan.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -931,9 +928,9 @@
     あいつに近づけば<three_dots><end_line>
   </sjis>
   <ascii>
-    The Summon Beast looks strong,<end_line>
-    but if we can get close<three_dots><end_line>
-    Close to the Summoner<three_dots><end_line>
+    The Summon Beast may be strong,<end_line>
+    but if we can get<end_line>
+    close to the Summoner<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -994,6 +991,7 @@
   </sjis>
   <ascii>
     I see<three_dots>!<end_line>
+		That's brilliant!<end_line>
     Undersood.<end_line>
   </ascii>
 </dialogue>
@@ -1009,7 +1007,7 @@
   <ascii>
     No reply, huh<three_dots><end_line>
     Then all that's left is<end_line>
-    to get rid of them all.<end_line>
+    to get kill them all.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1107,6 +1105,7 @@
     後悔できないくらいにね！<end_line>
   </sjis>
   <ascii>
+		Hah!<end_line>
     I'll teach you what happens<end_line>
     when you attempt the impossible!<end_line>
   </ascii>
@@ -1120,7 +1119,7 @@
     やつらを焼き尽くせ！！！<end_line>
   </sjis>
   <ascii>
-    Get em! Magrad!!<end_line>
+    Magrad!! Go!<end_line>
     Burn them to ashes!!!<end_line>
   </ascii>
 </dialogue>
@@ -1186,7 +1185,7 @@
     好きにしろ<end_line>
   </sjis>
   <ascii>
-    Yep.<end_line>
+    Yeah.<end_line>
   </ascii>
 </dialogue>
 <dialogue>

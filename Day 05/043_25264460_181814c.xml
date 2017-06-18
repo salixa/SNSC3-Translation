@@ -121,7 +121,7 @@
     Oh dear.<end_line>
     You're that cute boy<end_line>
     from Bostaph's workshop<three_dots><end_line>
-  <?ascii>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -170,7 +170,7 @@
   </sjis>
   <ascii>
     Hey, that's not all there is to it!<end_line>
-    Because of that kid, the Strays<end_line>
+		It's her fault the Strays<end_line>
     are out of control!<end_line>
   </ascii>
 </dialogue>
@@ -184,8 +184,8 @@
     いい人なのよ！<end_line>
   </sjis>
   <ascii>
-    She's the one at fault.<end_line>
-    We, who tried to capture her,<end_line>
+    Therefore, we,<end_line>
+		who tried to stop her,<end_line>
     are the good guys!<end_line>
   </ascii>
 </dialogue>
@@ -308,7 +308,7 @@
     ジャマをさせるわけにはいかない<end_line>
   </sjis>
   <ascii>
-    Wait!<end_line>
+    Stop!<end_line>
     If what they said is true,<end_line>
     I can't let you interfere.<end_line>
   </ascii>
@@ -371,8 +371,8 @@
   </sjis>
   <ascii>
     I apologize,<end_line>
-    but we cannot afford to<end_line>
-    waste any time!<end_line>
+    but we cannot afford<end_line>
+    to waste any time!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -383,7 +383,8 @@
     あの話が本当かどうかは<end_line>
   </sjis>
   <ascii>
-    I still don't know,<end_line>
+		Whether or not what<end_line>
+		they're saying is true<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -395,21 +396,16 @@
       オレもわからない<end_line>
       だけど行かなきゃならないんだ<end_line>
     </sjis>
-    <ascii>
-      If what they're saying is true.<end_line>
-      But still, I have to go.<end_line>
-    </ascii>
   </male>
   <female>
     <sjis>
       わたしもわからない<end_line>
       だけど行かなきゃいけないの<end_line>
     </sjis>
-    <ascii>
-      If what they're saying is true.<end_line>
-      But still, I have to go.<end_line>
-    </ascii>
   </female>
+	<ascii>
+		I made a promise.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -507,7 +503,7 @@
   </sjis>
   <ascii>
     In that case,<end_line>
-    I'll come too.
+    I'll come with you.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -524,7 +520,7 @@
   <female>
     <sjis>
       え！？<end_line>
-      どうして<three_dots><end_line>
+      どうして<three_dots>?<end_line>
       あいつらを手伝うつもりなの！？<end_line>
     </sjis>
   </female>
@@ -559,11 +555,6 @@
       だろ？<end_line>
       わかったよ<end_line>
     </sjis>
-    <ascii>
-      That won't look good for Bostaph,<end_line>
-      right?<end_line>
-      I see.<end_line>
-    </ascii>
   </male>
   <female>
     <sjis>
@@ -571,12 +562,11 @@
       <three_dots>でしょ？<end_line>
       わかったわよ<end_line>
     </sjis>
-    <ascii>
-      That will stain Bostaph's reputation.<end_line>
-      <three_dots> Right?<end_line>
-      Understood.<end_line>
-    </ascii>
   </female>
+	<ascii>
+		That wouldn't look good<end_line>
+		for Bostaph<three_dots> Right?<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -588,8 +578,9 @@
     ジャマさせる気はないよ<end_line>
   </sjis>
   <ascii>
-    So I don't want his name to be<end_line>
-    involved with their kidnapping.<end_line>
+		Yeah.<end_line>
+		I won't allow them to<end_line>
+		damage his reputation.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -678,8 +669,8 @@
   </female>
   <ascii>
     Of course I do.<end_line>
-    She would never<end_line>
-    do something like that!<end_line>
+    She would never do<end_line>
+    something like that!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -690,7 +681,7 @@
     わからないから<end_line>
   </sjis>
   <ascii>
-    I don't know, but<end_line>
+    I don't know, but<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -761,7 +752,7 @@
     急ぐぞ！<end_line>
   </sjis>
   <ascii>
-    Don't drag your feet!<end_line>
+		Done chatting?<end_line>
     After them!<end_line>
   </ascii>
 </dialogue>
