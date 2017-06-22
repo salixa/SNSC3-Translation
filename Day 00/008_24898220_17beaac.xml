@@ -168,8 +168,8 @@
       調子にのりやがって<three_dots>！<end_line>
     </sjis>
     <ascii>
-      You bastards,<three_dots><end_line>
-      getting carried away<three_dots>!<end_line>
+      You bastards<three_dots><end_line>
+      Don't get carried away<three_dots>!<end_line>
     </ascii>
   </male>
   <female>
@@ -302,8 +302,8 @@
     ぶったおしたいだろ？<end_line>
   </sjis>
   <ascii>
-    They're friendly with that Stray<end_line>
-    that injured Master.<end_line>
+    They're friendly with that <end_line>
+    Stray that injured Master.<end_line>
     Don't you wanna beat ‘em up?<end_line>
   </ascii>
 </dialogue>
@@ -315,7 +315,7 @@
     はぐれの仲間、か<three_dots><end_line>
   </sjis>
   <ascii>
-    Friends with a Stray, huh<three_dots><end_line>
+    Is that so<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -328,9 +328,9 @@
     ぶったおしたい<three_dots><end_line>
   </sjis>
   <ascii>
-    It's true that a person like<end_line>
+    Certainly, a person like<end_line>
     that can't be forgiven.<end_line>
-    I would like to beat them up.<three_dots><end_line>
+    I would like to beat them up<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
