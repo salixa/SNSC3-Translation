@@ -467,7 +467,7 @@
   </sjis>
   <ascii>
     The Stone Contains Immense Power.<end_line>
-    Murno's Family Was To Keep It Hidden,<end_line>
+    Murno's Family Was To Conceal It,<end_line>
     So It Could Not Be Used For Evil.<end_line>
   </ascii>
 </dialogue>
@@ -1206,7 +1206,7 @@
   </sjis>
   <ascii>
     But maybe information leaked out.<end_line>
-    Anise suddenly appeared in the village,<end_line>
+    Anise appeared in the village,<end_line>
     and ran wild, demanding the Stone<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -1476,7 +1476,7 @@
     Hm<three_dots><end_line>
     As I thought, that wasn't<end_line>
     enough to take you down.<end_line>
-  </screen>
+  </ascii>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -1629,7 +1629,7 @@
   </sjis>
   <ascii>
     Tch<three_dots>!<end_line>
-    I didn't save you because I wanted to.<end_line>
+    Not like I wanted to do it.<end_line>
     Don't thank me.<end_line>
   </ascii>
 </dialogue>
@@ -1751,8 +1751,8 @@
   </sjis>
   <ascii>
     Tch<three_dots> I would if I could.<end_line>
-    These weird bracelets are<end_line>
-    preventing me from using my strength.<end_line>
+    These bracelets are preventing<end_line>
+    me from using my strength.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1948,7 +1948,7 @@
     いいからだまって聞け<end_line>
   </sjis>
   <ascii>
-    Just shut up and listen.
+    Just shut up and listen.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -2044,7 +2044,7 @@
   </sjis>
   <ascii>
     Somehow they found out about it.<end_line>
-    They showed up and went on a rampage,<end_line>
+    They showed up and caused a fuss,<end_line>
     all while demanding the Stone<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -2779,8 +2779,8 @@
   </sjis>
   <ascii>
     But someone must have found out.<end_line>
-    Anise suddenly appeared in the village,<end_line>
-    running amok and demanding the Stone<three_dots><end_line>
+    Anise appeared in the village,<end_line>
+    demanding we give her the Stone<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
