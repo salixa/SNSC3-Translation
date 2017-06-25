@@ -5,13 +5,13 @@
   <male>
     <sjis>
       <partner><end_line>
-      ���v���I�H<end_line>
+      大丈夫か！？<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
       <partner><end_line>
-      ���v�I�H<end_line>
+      大丈夫！？<end_line>
     </sjis>
   </female>
   <ascii>
@@ -25,9 +25,9 @@
   <portrait_l entry="player" eye="decided" mouth="yell">
   <portrait_r entry="partner" eye="decided" mouth="serious">
   <sjis>
-    ���A���}�Z��<end_line>
-    �V�J�V<three_dots><end_line>
-    ���䑕�u�K�c�P�����e�C�}�X<three_dots><end_line>
+    問題アリマセン<end_line>
+    シカシ<three_dots><end_line>
+    制御装置ガツケラレテイマス<three_dots><end_line>
   </sjis>
   <ascii>
     No Problem.<end_line>
@@ -41,9 +41,9 @@
   <portrait_l entry="player" eye="decided" mouth="yell">
   <portrait_r entry="partner" eye="decided" mouth="serious">
   <sjis>
-    ���R����<three_dots><end_line>
-    �������A�܂����̘r�ւ�<end_line>
-    �g�������Ƃ��<three_dots><end_line>
+    当然じゃ<three_dots><end_line>
+    しかし、またあの腕輪で<end_line>
+    身動きがとれん<three_dots><end_line>
   </sjis>
   <ascii>
     Of course<three_dots><end_line>
@@ -57,9 +57,9 @@
   <portrait_l entry="player" eye="decided" mouth="yell">
   <portrait_r entry="partner" eye="decided" mouth="serious">
   <sjis>
-    ������O��<three_dots><end_line>
-    �����A�܂����܂��܂����r�ւ�<end_line>
-    ����ꂽ����<three_dots><end_line>
+    当たり前だ<three_dots><end_line>
+    ただ、またいまいましい腕輪を<end_line>
+    つけられたがな<three_dots><end_line>
   </sjis>
   <ascii>
     Obviously<three_dots><end_line>
@@ -73,9 +73,9 @@
   <portrait_l entry="player" eye="decided" mouth="yell">
   <portrait_r entry="partner" eye="decided" mouth="serious">
   <sjis>
-    �͂�<three_dots><end_line>
-    �ł��A�܂����̘r�ւ�������<end_line>
-    ���܂��܂�����<three_dots><end_line>
+    はい<three_dots><end_line>
+    でも、またあの腕輪をつけられて<end_line>
+    しまいましたわ<three_dots><end_line>
   </sjis>
   <ascii>
     Yes<three_dots><end_line>
@@ -88,14 +88,14 @@
   <portrait_r entry="partner" eye="decided" mouth="serious">
   <male>
     <sjis>
-      �q�f�F���Ƃ��₪��<three_dots>�I<end_line>
-      �҂��Ă�I�@�����O���Ă�邩��I<end_line>
+      ヒデェことしやがる<three_dots>！<end_line>
+      待ってろ！　すぐ外してやるから！<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �Ȃ�ăq�h�C���Ƃ�<three_dots>�I<end_line>
-      �҂��ĂāI�@�����O���Ă����邩��I<end_line>
+      なんてヒドイことを<three_dots>！<end_line>
+      待ってて！　すぐ外してあげるから！<end_line>
     </sjis>
   </female>
   <ascii>
@@ -107,7 +107,7 @@
   <info box="left">
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <sjis>
-    �悵�I�@�O�ꂽ�I<end_line>
+    よし！　外れた！<end_line>
   </sjis>
   <ascii>
     Got it!<end_line>
@@ -119,8 +119,8 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="partner" eye="decided" mouth="tense">
   <sjis>
-    ��z�h�m�@�n�q�r�L<three_dots><end_line>
-    ���K�A�b�^�m�f�X�J�H<end_line>
+    先ホドノ　地ヒビキ<three_dots><end_line>
+    何ガアッタノデスカ？<end_line>
   </sjis>
   <ascii>
     That Quake<three_dots><end_line>
@@ -133,8 +133,8 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="partner" eye="decided" mouth="tense">
   <sjis>
-    ��قǂ̔���<three_dots><end_line>
-    ��̂Ȃɂ��������̂���H<end_line>
+    先ほどの爆音<three_dots><end_line>
+    一体なにがあったのじゃ？<end_line>
   </sjis>
   <ascii>
     That explosion just now<three_dots><end_line>
@@ -147,8 +147,8 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="partner" eye="decided" mouth="tense">
   <sjis>
-    �������O�Ńh�J�h�J����Ă���<end_line>
-    ��̂Ȃ�Ȃ񂾁H<end_line>
+    さっき外でドカドカやってたが<end_line>
+    一体なんなんだ？<end_line>
   </sjis>
   <ascii>
     What was that noise just now?<end_line>
@@ -160,8 +160,8 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="partner" eye="decided" mouth="tense">
   <sjis>
-    �������A�X�S�C�������܂�������<end_line>
-    �O�ŉ�����������ł����H<end_line>
+    さっき、スゴイ音がしましたけど<end_line>
+    外で何があったんですか？<end_line>
   </sjis>
   <ascii>
     I heard a loud noise just now,<end_line>
@@ -174,16 +174,16 @@
   <portrait_r entry="partner" eye="decided" mouth="tense">
   <male>
     <sjis>
-      ���~�B�������ɗ��Ă��ꂽ��<end_line>
-      �A�C�c�A�ЂƂ�ŃA�J�o�l��<three_dots>�I<end_line>
-      �Ƃɂ����o�邼�I<end_line>
+      レミィが助けに来てくれたんだ<end_line>
+      アイツ、ひとりでアカバネと<three_dots>！<end_line>
+      とにかく出るぞ！<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ���~�B�������ɗ��Ă��ꂽ��<end_line>
-      �����A�ЂƂ�ŃA�J�o�l��<three_dots>�I<end_line>
-      �Ƃɂ����o���I<end_line>
+      レミィが助けに来てくれたの<end_line>
+      あいつ、ひとりでアカバネと<three_dots>！<end_line>
+      とにかく出るよ！<end_line>
     </sjis>
   </female>
   <ascii>

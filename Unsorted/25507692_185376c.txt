@@ -2,18 +2,18 @@
 	<info box="simple">
 	<portrait_l name="elieze">
 	<sjis>
-		���₩���A�������傤�Ԃ��Ȃ�<end_line>
+		おやかた、だいじょうぶかなぁ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		���B�[����͐e���ɂ��Ă��<end_line>
+		ヴィーさんは親方についてるよ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		�U�b�N�Ȃ炢�Ȃ���<end_line>
+		ザックならいないぜ<end_line>
 	</sjis>
 </dialogue>

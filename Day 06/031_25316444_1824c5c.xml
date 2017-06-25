@@ -2,7 +2,7 @@
   <info box="left">
   <portrait_l entry="player" eye="surprised" mouth="yell">
   <sjis>#293
-    �e�B�G�I�H<end_line>
+    ティエ！？<end_line>
   </sjis>
   <ascii>
     Tier!?<end_line>
@@ -13,7 +13,7 @@
   <portrait_l entry="player" eye="surprised" mouth="yell">
   <portrait_r entry="tier" eye="sad" mouth="neutral">
   <sjis>
-    <player_nickname>�I<end_line>
+    <player_nickname>！<end_line>
   </sjis>
 </dialogue>
 <dialogue>
@@ -22,14 +22,14 @@
   <portrait_r entry="tier" eye="sad" mouth="neutral">
   <male>
     <sjis>
-      ���v���I�H<end_line>
-      �ǂ����āA����ȂƂ���ɁI�H<end_line>
+      大丈夫か！？<end_line>
+      どうして、こんなところに！？<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ���v�I�H<end_line>
-      �Ȃ�ŁA�����ɁI�H<end_line>
+      大丈夫！？<end_line>
+      なんで、ここに！？<end_line>
     </sjis>
   </female>
   <ascii>
@@ -43,9 +43,9 @@
   <portrait_l entry="partner" eye="decided" mouth="tense">
   <portrait_r entry="tier" eye="sad" mouth="neutral">
   <sjis>
-    ���񂳁[�j���@�����K�A���}�X<end_line>
-    �V�J�V�ޏ��K�@�R�R�j�^�h�����N<end_line>
-    �m���n<three_dots><end_line>
+    せんさーニモ　反応ガアリマス<end_line>
+    シカシ彼女ガ　ココニタドリ着ク<end_line>
+    確率ハ<three_dots><end_line>
   </sjis>
   <ascii>
     My Sensors Had Picked Something Up.<end_line>
@@ -59,8 +59,8 @@
   <portrait_l entry="partner" eye="decided" mouth="tense">
   <portrait_r entry="tier" eye="sad" mouth="neutral">
   <sjis>
-    �����܂łЂƂ�ł��ǂ����Ƃ�<end_line>
-    �l�����ʂ�<three_dots><end_line>
+    ここまでひとりでたどりつけるとは<end_line>
+    考えられぬが<three_dots><end_line>
   </sjis>
   <ascii>
     I can't believe you<end_line>
@@ -73,9 +73,9 @@
   <portrait_l entry="partner" eye="decided" mouth="tense">
   <portrait_r entry="tier" eye="sad" mouth="neutral">
   <sjis>
-    ����<three_dots><end_line>
-    �C���Ȕg���̂�����<end_line>
-    ���̋P���������Ȃ�<end_line>
+    ちっ<three_dots><end_line>
+    イヤな波動のせいで<end_line>
+    魂の輝きが見えない<end_line>
   </sjis>
   <ascii>
     Tch<three_dots><end_line>
@@ -89,9 +89,9 @@
   <portrait_l entry="partner" eye="decided" mouth="tense">
   <portrait_r entry="tier" eye="sad" mouth="neutral">
   <sjis>
-    �����ł���<end_line>
-    �����܂łЂƂ�ł��ǂ����Ȃ��<end_line>
-    �l�����܂����<end_line>
+    そうですわ<end_line>
+    ここまでひとりでたどりつけるなんて<end_line>
+    考えられませんわ<end_line>
   </sjis>
   <ascii>
     Tier<three_dots><end_line>
@@ -104,8 +104,8 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <portrait_r entry="tier" eye="sad" mouth="neutral">
   <sjis>
-    <three_dots>���āA����<end_line>
-    �O�ɂ��������Ƃ��������悤��<three_dots><end_line>
+    <three_dots>って、これ<end_line>
+    前にも同じことがあったような<three_dots><end_line>
   </sjis>
   <ascii>
     <three_dots> Hey,<end_line>
@@ -117,8 +117,8 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <portrait_r entry="tier" eye="sad" mouth="tense">
   <sjis>
-    ��������<three_dots>�����킽��<end_line>
-    ����ȂƂ���C��<three_dots>�I<end_line>
+    たすけて<three_dots>もうわたし<end_line>
+    こんなところイヤ<three_dots>！<end_line>
   </sjis>
   <ascii>
     Help me<three_dots><end_line>
@@ -131,12 +131,12 @@
   <portrait_r entry="tier" eye="sad" mouth="tense">
   <male>
     <sjis>
-      �P�K�A���Ă�̂��H<end_line>
+      ケガ、してるのか？<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �P�K�A���Ă�́H<end_line>
+      ケガ、してるの？<end_line>
     </sjis>
   </female>
   <ascii>
@@ -148,9 +148,9 @@
   <portrait_l entry="player" eye="decided" mouth="stressed">
   <portrait_r entry="tier" eye="sad" mouth="neutral">
   <sjis>
-    ���킢�͂��ꏢ���b�������ς���<end_line>
-    �����_�������Ďv��������<three_dots><end_line>
-    <player_nickname>�����Ă����Ȃ��<three_dots><end_line>
+    こわいはぐれ召喚獣がいっぱいで<end_line>
+    もうダメだって思ったけど<three_dots><end_line>
+    <player_nickname>が来てくれるなんて<three_dots><end_line>
   </sjis>
   <ascii>
     There were so many scary Strays,<end_line>
@@ -163,7 +163,7 @@
   <portrait_l entry="player" eye="decided" mouth="stressed">
   <portrait_r entry="tier" eye="serious" mouth="neutral">
   <sjis>
-    �����A�����߂�܂���H<end_line>
+    さあ、早く戻りましょ？<end_line>
   </sjis>
   <ascii>
     Okay, shall we go back then?<end_line>
@@ -175,14 +175,14 @@
   <portrait_r entry="tier" eye="serious" mouth="neutral">
   <male>
     <sjis>
-      ������Ƒ҂���<end_line>
-      �e�B�G�A�I��������<three_dots><end_line>
+      ちょっと待って<end_line>
+      ティエ、オレたちは<three_dots><end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ������Ƒ҂��Ă�<end_line>
-      �e�B�G�A�킽��������<three_dots><end_line>
+      ちょっと待ってよ<end_line>
+      ティエ、わたしたちは<three_dots><end_line>
     </sjis>
   </female>
   <ascii>
@@ -196,9 +196,9 @@
   <portrait_l entry="player" eye="sad" mouth="tense">
   <portrait_r entry="partner" eye="decided" mouth="serious">
   <sjis>
-    �\�E�f�X<end_line>
-    �݂�[�̗l�m�@���K�@�댯�f�X<end_line>
-    ���N�@�T�K�T�i�P���o<end_line>
+    ソウデス<end_line>
+    みゅーの様ノ　命ガ　危険デス<end_line>
+    早ク　サガサナケレバ<end_line>
   </sjis>
   <ascii>
     Yes.<end_line>
@@ -212,9 +212,9 @@
   <portrait_l entry="player" eye="sad" mouth="tense">
   <portrait_r entry="partner" eye="decided" mouth="serious">
   <sjis>
-    ���������<end_line>
-    �����~���[�m�������Ȃ����<end_line>
-    ��ςȂ��ƂɂȂ��Ă��܂�<three_dots><end_line>
+    そうじゃな<end_line>
+    早くミューノを見つけなければ<end_line>
+    大変なことになってしまう<three_dots><end_line>
   </sjis>
   <ascii>
     Right.<end_line>
@@ -228,8 +228,8 @@
   <portrait_l entry="player" eye="sad" mouth="tense">
   <portrait_r entry="partner" eye="decided" mouth="serious">
   <sjis>
-    �~���[�m�̂��Ƃ�<end_line>
-    �ǂ�������肾<end_line>
+    ミューノのことは<end_line>
+    どうするつもりだ<end_line>
   </sjis>
   <ascii>
     We need to do something<end_line>
@@ -242,9 +242,9 @@
   <portrait_l entry="player" eye="sad" mouth="tense">
   <portrait_r entry="partner" eye="decided" mouth="serious">
   <sjis>
-    �����ł���<end_line>
-    �~���[�m�l������Ă����킯�ɂ�<end_line>
-    �����܂����<end_line>
+    そうですよ<end_line>
+    ミューノ様を放っておくわけには<end_line>
+    いきませんわ<end_line>
   </sjis>
   <ascii>
     That's right.<end_line>
@@ -257,9 +257,9 @@
   <portrait_l entry="player" eye="sad" mouth="tense">
   <portrait_r entry="tier" eye="sad" mouth="serious">
   <sjis>
-    �����<three_dots>�I<end_line>
-    ������ɂ͐i�݂����Ȃ�<three_dots><end_line>
-    ���˂����A�߂�܂���I<end_line>
+    いやよ<three_dots>！<end_line>
+    もう先には進みたくない<three_dots><end_line>
+    おねがい、戻りましょ！<end_line>
   </sjis>
   <ascii>
     No<three_dots>!<end_line>
@@ -272,7 +272,7 @@
   <portrait_l entry="player" eye="decided" mouth="tense">
   <portrait_r entry="tier" eye="sad" mouth="serious">
   <sjis>
-    �ǂ����悤<three_dots>�H<end_line>
+    どうしよう<three_dots>？<end_line>
   </sjis>
   <ascii>
     What do I do<three_dots>?<end_line>
@@ -284,7 +284,7 @@
   <portrait_r entry="tier" eye="sad" mouth="serious">
   <option>
     <sjis>
-      �e�B�G����Ė߂낤�I<end_line>
+      ティエをつれて戻ろう！<end_line>
     </sjis>
     <ascii>
       Take Tier back to town!<end_line>
@@ -292,7 +292,7 @@
   </option>
   <option>
     <sjis>
-      �~���[�m����Ȃ�����i�܂Ȃ���I<end_line>
+      ミューノが危ないから進まなきゃ！<end_line>
     </sjis>
     <ascii>
       I can't, Murno's in danger!<end_line>
@@ -305,14 +305,14 @@
   <portrait_r entry="tier" eye="sad" mouth="serious">
   <male>
     <sjis>
-      �e�B�G�����̂܂܂ɂ��Ƃ�<end_line>
-      �킯�ɂ͂����Ȃ������<end_line>
+      ティエをこのままにしとく<end_line>
+      わけにはいかないからな<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �e�B�G�����̂܂܂ɂ��Ƃ�<end_line>
-      �킯�ɂ͂����Ȃ������<end_line>
+      ティエをこのままにしとく<end_line>
+      わけにはいかないからね<end_line>
     </sjis>
   </female>
   <ascii>
@@ -325,8 +325,8 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="tier" eye="happy" mouth="neutral">
   <sjis>
-    ���肪�Ƃ��A<player_nickname>�I<end_line>
-    ��D���I<end_line>
+    ありがとう、<player_nickname>！<end_line>
+    大好き！<end_line>
   </sjis>
   <ascii>
     Thank you, <player_nickname>!<end_line>
@@ -338,8 +338,8 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="tier" eye="decided" mouth="neutral">
   <sjis>
-    ���������<end_line>
-    �����֗��Ă̓_����<three_dots><end_line>
+    だからもう<end_line>
+    ここへ来てはダメよ<three_dots><end_line>
   </sjis>
   <ascii>
     This is why I told you<end_line>
@@ -351,8 +351,8 @@
   <portrait_l entry="player" eye="surprised" mouth="tense">
   <portrait_r entry="tier" eye="decided" mouth="neutral">
   <sjis>
-    ���H<end_line>
-    �ł�<three_dots><end_line>
+    え？<end_line>
+    でも<three_dots><end_line>
   </sjis>
   <ascii>
     Eh?<end_line>
@@ -363,16 +363,16 @@
   <info box="nobox">
   <male>
     <sjis>
-      ���߂�A�e�B�G<end_line>
-      ���̓~���[�m����ςȂ񂾁I<end_line>
-      �����s���Ȃ��ƁI<end_line>
+      ごめん、ティエ<end_line>
+      今はミューノが大変なんだ！<end_line>
+      早く行かないと！<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ���߂�ˁA�e�B�G<end_line>
-      ���̓~���[�m����ςȂ́I<end_line>
-      �����s���Ȃ��ƁI<end_line>
+      ごめんね、ティエ<end_line>
+      今はミューノが大変なの！<end_line>
+      早く行かないと！<end_line>
     </sjis>
   </female>
   <ascii>
@@ -385,9 +385,9 @@
   <info box="right">
   <portrait_r name="tier">
   <sjis>
-    ����<three_dots><end_line>
-    <player_nickname>�͂킽�����<end_line>
-    �~���[�m�̕����厖�Ȃ̂�<three_dots><end_line>
+    そう<three_dots><end_line>
+    <player_nickname>はわたしより<end_line>
+    ミューノの方が大事なのね<three_dots><end_line>
   </sjis>
   <ascii>
     I see<three_dots><end_line>
@@ -400,14 +400,14 @@
   <portrait_l name="player">
   <male>
     <sjis>
-      �Ȃ񂾂�A����<end_line>
-      ���͂�����������<three_dots><end_line>
+      なんだよ、それ<end_line>
+      今はそういうこと<three_dots><end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �Ȃɂ�A����<end_line>
-      ���͂�����������<three_dots><end_line>
+      なによ、それ<end_line>
+      今はそういうこと<three_dots><end_line>
     </sjis>
   </female>
   <ascii>
@@ -420,8 +420,8 @@
   <portrait_l entry="player" eye="decided" mouth="tense">
   <portrait_r entry="tier" eye="decided" mouth="yell">
   <sjis>
-    �����킯�Ȃ񂩕��������Ȃ����I<end_line>
-    ��΂�邳�Ȃ��񂾂���I<end_line>
+    いいわけなんか聞きたくないわよ！<end_line>
+    絶対ゆるさないんだから！<end_line>
   </sjis>
   <ascii>
     I don't wanna hear your excuses!<end_line>
@@ -434,16 +434,16 @@
   <portrait_r entry="tier" eye="decided" mouth="yell">
   <male>
     <sjis>
-      �����A�e�B�G<end_line>
-      ��������I<end_line>
-      ������Ƒ҂Ă��āI�H<end_line>
+      おい、ティエ<end_line>
+      おちつけよ！<end_line>
+      ちょっと待てって！？<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ������ƁA�e�B�G<end_line>
-      �������Ă�I<end_line>
-      �˂��A�҂��Ă��Ă΁I�H<end_line>
+      ちょっと、ティエ<end_line>
+      おちついてよ！<end_line>
+      ねぇ、待ってってば！？<end_line>
     </sjis>
   </female>
   <ascii>

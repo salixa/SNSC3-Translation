@@ -1,24 +1,24 @@
 <location>
 	<sjis>
-		���C�[�Y��<end_line>
+		ルイーズ村<end_line>
 	</sjis>
 </location>
 <location>
 	<sjis>
-		���C�[�Y���@��ՑO<end_line>
+		ルイーズ村　遺跡前<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="merchant">
 	<sjis>
-		�ǂ����Ɍi�C�̂����b�A<end_line>
-		�����ĂȂ����ȁ`<end_line>
+		どっかに景気のいい話、<end_line>
+		落ちてないかな～<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		�ӂ݂�`<end_line>
+		ふみゃ～<end_line>
 	</sjis>
 </dialogue>

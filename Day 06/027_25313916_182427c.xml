@@ -4,16 +4,16 @@
   <portrait_r entry="partner" eye="serious" mouth="serious">
   <male>
     <sjis>
-      ‚±‚±‚ªƒkƒV‚³‚Ü‚Á‚Äƒ„ƒc‚ª‚¢‚é<end_line>
-      ˆâÕ‚¾‚È<three_dots><end_line>
-      ‚Å‚Á‚©‚¢<three_dots><end_line>
+      ã“ã“ãŒãƒŒã‚·ã•ã¾ã£ã¦ãƒ¤ãƒ„ãŒã„ã‚‹<end_line>
+      éºè·¡ã ãª<three_dots><end_line>
+      ã§ã£ã‹ã„<three_dots><end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ‚±‚±‚ªƒkƒV‚³‚Ü‚Á‚Ä‚Ì‚ª‚¢‚é<end_line>
-      ˆâÕ‚Ë<three_dots><end_line>
-      ‚¨‚Á‚«‚¢<three_dots><end_line>
+      ã“ã“ãŒãƒŒã‚·ã•ã¾ã£ã¦ã®ãŒã„ã‚‹<end_line>
+      éºè·¡ã­<three_dots><end_line>
+      ãŠã£ãã„<three_dots><end_line>
     </sjis>
   </female>
   <ascii>
@@ -28,9 +28,9 @@
   <portrait_l entry="player" eye="surprised" mouth="tense">
   <portrait_r entry="partner" eye="decided" mouth="yell">
   <sjis>
-    ‚Ý‚ã[‚Ì—lƒn@’n‰ºƒjƒCƒ‹ƒmƒf<end_line>
-    ‰ºƒjƒAƒ‹@ƒgƒrƒ‰ƒ_ƒg@ŽvƒƒŒƒ}ƒX<end_line>
-    ‹}ƒMƒ}ƒVƒ‡ƒE<end_line>
+    ã¿ã‚…ãƒ¼ã®æ§˜ãƒã€€åœ°ä¸‹ãƒ‹ã‚¤ãƒ«ãƒŽãƒ‡<end_line>
+    ä¸‹ãƒ‹ã‚¢ãƒ«ã€€ãƒˆãƒ“ãƒ©ãƒ€ãƒˆã€€æ€ãƒ¯ãƒ¬ãƒžã‚¹<end_line>
+    æ€¥ã‚®ãƒžã‚·ãƒ§ã‚¦<end_line>
   </sjis>
   <ascii>
     Lady Murno Is Underground.<end_line>
@@ -44,9 +44,9 @@
   <portrait_l entry="player" eye="surprised" mouth="tense">
   <portrait_r entry="partner" eye="decided" mouth="yell">
   <sjis>
-    ƒ~ƒ…[ƒm‚Í’n‰º‚É‚¢‚é‚Ì‚¶‚á‚©‚ç<end_line>
-    ‰º‚Ìƒgƒrƒ‰‚¶‚á‚ë‚¤I<end_line>
-    ‹}‚®‚¼<end_line>
+    ãƒŸãƒ¥ãƒ¼ãƒŽã¯åœ°ä¸‹ã«ã„ã‚‹ã®ã˜ã‚ƒã‹ã‚‰<end_line>
+    ä¸‹ã®ãƒˆãƒ“ãƒ©ã˜ã‚ƒã‚ã†ï¼<end_line>
+    æ€¥ããž<end_line>
   </sjis>
   <ascii>
     Murno is being held underground.<end_line>
@@ -60,9 +60,9 @@
   <portrait_l entry="player" eye="surprised" mouth="tense">
   <portrait_r entry="partner" eye="decided" mouth="yell">
   <sjis>
-    ‚ ‚¢‚Â‚Íˆê”Ô‰º‚É<end_line>
-    ‚¢‚é‚ñ‚¾‚Á‚½‚È<end_line>
-    ‚¾‚Á‚½‚ç‰º‚Ìƒgƒrƒ‰‚©<three_dots><end_line>
+    ã‚ã„ã¤ã¯ä¸€ç•ªä¸‹ã«<end_line>
+    ã„ã‚‹ã‚“ã ã£ãŸãª<end_line>
+    ã ã£ãŸã‚‰ä¸‹ã®ãƒˆãƒ“ãƒ©ã‹<three_dots><end_line>
   </sjis>
   <ascii>
     Murno is being held underground.<end_line>
@@ -75,9 +75,9 @@
   <portrait_l entry="player" eye="surprised" mouth="tense">
   <portrait_r entry="partner" eye="decided" mouth="yell">
   <sjis>
-    ƒ~ƒ…[ƒm—l‚Íˆê”Ô‰º‚ÌŠK‚Å‚·‚©‚ç<end_line>
-    â‘Î‚É‰º‚Ìƒgƒrƒ‰‚Å‚·‚íI<end_line>
-    ‹}‚¬‚Ü‚µ‚å‚¤I<end_line>
+    ãƒŸãƒ¥ãƒ¼ãƒŽæ§˜ã¯ä¸€ç•ªä¸‹ã®éšŽã§ã™ã‹ã‚‰<end_line>
+    çµ¶å¯¾ã«ä¸‹ã®ãƒˆãƒ“ãƒ©ã§ã™ã‚ï¼<end_line>
+    æ€¥ãŽã¾ã—ã‚‡ã†ï¼<end_line>
   </sjis>
   <ascii>
     Lady Murno is being held underground!<end_line>

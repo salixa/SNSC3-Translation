@@ -2,7 +2,7 @@
   <info box="nobox">
   <portrait_l name="vee">
   <sjis>
-    ��A<player_nickname>�I<end_line>
+    よ、<player_nickname>！<end_line>
   </sjis>
   <ascii>
     Hey, <player_nickname>!<end_line>
@@ -13,9 +13,9 @@
   <portrait_l entry="player" eye="serious" mouth="neutral">
   <portrait_r entry="vee" eye="sad" mouth="serious">
   <sjis>
-    �����͂��܂Ȃ�������<end_line>
-    �r���{�[�������������܂����݂�����<end_line>
-    �����������W�F�C�h�̃��c��<three_dots><end_line>
+    今日はすまなかったね<end_line>
+    ビンボーくじ引かせちまったみたいで<end_line>
+    それもこれもジェイドのヤツが<three_dots><end_line>
   </sjis>
   <ascii>
     Sorry about today.<end_line>
@@ -28,8 +28,8 @@
   <portrait_l entry="player" eye="serious" mouth="neutral">
   <portrait_r entry="vee" eye="decided" mouth="tense">
   <sjis>
-    �A�C�c���X�����W�̌@��ɂ�<end_line>
-    ���Ȃ����Ă�������<three_dots><end_line>
+    アイツがスレンジ採掘場には<end_line>
+    いないっていうから<three_dots><end_line>
   </sjis>
   <ascii>
     He said they wouldn't go<end_line>
@@ -41,8 +41,8 @@
   <portrait_l entry="player" eye="sad" mouth="talk">
   <portrait_r entry="vee" eye="decided" mouth="tense">
   <sjis>
-    �܂��܂��e��<end_line>
-    ��������<three_dots><end_line>
+    まあまあ親方<end_line>
+    落ちついて<three_dots><end_line>
   </sjis>
   <ascii>
     Now, now, Master.<end_line>
@@ -54,9 +54,9 @@
   <portrait_l entry="player" eye="sad" mouth="talk">
   <portrait_r entry="vee" eye="decided" mouth="stressed">
   <sjis>
-    ����ɂ��̃A�j�X�Ƃ��������c��<three_dots><end_line>
-    �E�`��<player_nickname>���q�h�C�ڂ�<end_line>
-    ���킹�₪����<three_dots><end_line>
+    それにそのアニスとかいうヤツら<three_dots><end_line>
+    ウチの<player_nickname>をヒドイ目に<end_line>
+    あわせやがって<three_dots><end_line>
   </sjis>
   <ascii>
     And Anise and her people<three_dots><end_line>
@@ -69,7 +69,7 @@
   <portrait_l entry="player" eye="sad" mouth="talk">
   <portrait_r entry="vee" eye="decided" mouth="serious">
   <sjis>
-    ��΋����Ă��Ȃ������<three_dots><end_line>
+    絶対許してやんないからね<three_dots><end_line>
   </sjis>
   <ascii>
     I don't ever forgive them<three_dots><end_line>
@@ -80,7 +80,7 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="vee" eye="decided" mouth="serious">
   <sjis>
-    ���������͕̂��Q���Ă����񂶂�<three_dots><end_line>
+    そういうのは復讐っていうんじゃ<three_dots><end_line>
   </sjis>
   <ascii>
     Isn't that considered revenge<three_dots><end_line>
@@ -91,9 +91,9 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="vee" eye="decided" mouth="neutral">
   <sjis>
-    ����̓`�K�E��<end_line>
-    �ǂ��`�K�E���͂��̃A�^�V�ł�<end_line>
-    ��肭�����ł��Ȃ����ǂ�<end_line>
+    それはチガウぞ<end_line>
+    どうチガウかはこのアタシでも<end_line>
+    上手く説明できないけどね<end_line>
   </sjis>
   <ascii>
     It's different.<end_line>
@@ -106,7 +106,7 @@
   <portrait_l entry="player" eye="happy" mouth="serious">
   <portrait_r entry="vee" eye="decided" mouth="neutral">
   <sjis>
-    �_�������A����<three_dots><end_line>
+    ダメじゃん、それ<three_dots><end_line>
   </sjis>
   <ascii>
     That's not helpful at all<three_dots><end_line>
@@ -117,9 +117,9 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="vee" eye="serious" mouth="serious">
   <sjis>
-    ���������΁A����<three_dots><end_line>
-    ���u�e��������<three_dots>�A���ꂽ������<end_line>
-    �e���ЂƂ�łł����Ă����<end_line>
+    そういえば、あの<three_dots><end_line>
+    ロブ親方がその<three_dots>、やられた時って<end_line>
+    親方ひとりででかけてたよね<end_line>
   </sjis>
   <ascii>
     That reminds me, um<three_dots><end_line>
@@ -132,9 +132,9 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="vee" eye="serious" mouth="tense">
   <sjis>
-    �Ȃ񂾂�������<end_line>
-    �A���^�����Ċo���Ă邾��H<end_line>
-    �A�^�V�����͉Ƃɂ�������Ȃ���<end_line>
+    なんだい今さら<end_line>
+    アンタだって覚えてるだろ？<end_line>
+    アタシたちは家にいたじゃないか<end_line>
   </sjis>
   <ascii>
      Why are you asking now?<end_line>
@@ -147,9 +147,9 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <portrait_r entry="vee" eye="serious" mouth="serious">
   <sjis>
-    �v���X�o���̒��̎���ł��₵�����c��<end_line>
-    �E���E�����Ă���ăE���T��<end_line>
-    �C�ɂȂ邩����āA�ЂƂ��<three_dots><end_line>
+    プロスバンの町の周りであやしいヤツが<end_line>
+    ウロウロしてるってウワサが<end_line>
+    気になるからって、ひとりで<three_dots><end_line>
   </sjis>
   <ascii>
     I was worried about rumor of<end_line>
@@ -162,9 +162,9 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <portrait_r entry="vee" eye="sad" mouth="serious">
   <sjis>
-    ���̎������ɏo�Ă��{�X�^�t��<end_line>
-    ����ɏo���킵�āA�L�Y���炯�̑̂�<end_line>
-    ���u�̌`���������ċA���Ă�����<three_dots><end_line>
+    その時見回りに出てたボスタフが<end_line>
+    現場に出くわして、キズだらけの体で<end_line>
+    ロブの形見を持って帰ってきたんだ<three_dots><end_line>
   </sjis>
   <ascii>
     Bostaph, who had been on patrol,<end_line>
@@ -178,8 +178,8 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <portrait_r entry="vee" eye="sad" mouth="tense">
   <sjis>
-    �A�^�V��������<end_line>
-    �s�b�N����<three_dots><end_line>
+    アタシがあげた<end_line>
+    ピックだよ<three_dots><end_line>
   </sjis>
   <ascii>
     It was the guitar pick I gave him<three_dots><end_line>
@@ -190,9 +190,9 @@
   <portrait_l entry="player" eye="decided" mouth="tense">
   <portrait_r entry="vee" eye="sad" mouth="tense">
   <sjis>
-    ����ŁA����<three_dots><end_line>
-    ���H�C�W�����Đl�ɂ�<end_line>
-    ��������ƂȂ��񂾂�ˁH<end_line>
+    それで、あの<three_dots><end_line>
+    ヴォイジンって人には<end_line>
+    会ったことないんだよね？<end_line>
   </sjis>
   <ascii>
     And, um<three_dots><end_line>
@@ -205,9 +205,9 @@
   <portrait_l entry="player" eye="decided" mouth="tense">
   <portrait_r entry="vee" eye="serious" mouth="serious">
   <sjis>
-    ���H�C�W��<three_dots>�A���`���ƁA�ǂ�����<three_dots><end_line>
-    <three_dots>���āA���̊Ԃ̘b�������̂Ƃ�<end_line>
-    �A���^�������Ă����c����Ȃ���<end_line>
+    ヴォイジン<three_dots>、え～っと、どっかで<three_dots><end_line>
+    <three_dots>って、この間の話し合いのとき<end_line>
+    アンタが言ってたヤツじゃないか<end_line>
   </sjis>
   <ascii>
     Voijin<three_dots>, ummm, I feel like I've<three_dots><end_line>
@@ -220,9 +220,9 @@
   <portrait_l entry="player" eye="decided" mouth="tense">
   <portrait_r entry="vee" eye="decided" mouth="tense">
   <sjis>
-    �A�j�X�̐e���������j�Ȃ񂾂�H<end_line>
-    �Ȃ�ŃA�^�V������ȃ��c��<end_line>
-    ���Ȃ���Ȃ�Ȃ��񂾂�I�H<end_line>
+    アニスの親分だった男なんだろ？<end_line>
+    なんでアタシがそんなヤツと<end_line>
+    会わなきゃなんないんだよ！？<end_line>
   </sjis>
   <ascii>
     Anise's boss, right?<end_line>
@@ -236,14 +236,14 @@
   <portrait_r entry="vee" eye="decided" mouth="tense">
   <male>
     <sjis>
-      ������<three_dots>�A���������<three_dots><end_line>
-      �Ȃ炢����<three_dots><end_line>
+      そっか<three_dots>、そうだよね<three_dots><end_line>
+      ならいいんだ<three_dots><end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ������<three_dots>�A���������<three_dots><end_line>
-      �Ȃ炢����<three_dots><end_line>
+      そっか<three_dots>、そうだよね<three_dots><end_line>
+      ならいいの<three_dots><end_line>
     </sjis>
   </female>
   <ascii>
@@ -256,9 +256,9 @@
   <portrait_l entry="player" eye="sad" mouth="neutral">
   <portrait_r entry="vee" eye="serious" mouth="serious">
   <sjis>
-    �Ȃ񂾂��H<end_line>
-    ���̃��H�C�W�����ă��c��<end_line>
-    ���u���֌W����̂����H<end_line>
+    なんだい？<end_line>
+    そのヴォイジンってヤツと<end_line>
+    ロブが関係あるのかい？<end_line>
   </sjis>
   <ascii>
     What's up?<end_line>
@@ -271,8 +271,8 @@
   <portrait_l entry="player" eye="surprised" mouth="yell">
   <portrait_r entry="vee" eye="serious" mouth="serious">
   <sjis>
-    ������I<end_line>
-    �֌W�Ȃ񂩂Ȃ���I<end_line>
+    ううん！<end_line>
+    関係なんかないよ！<end_line>
   </sjis>
   <ascii>
     No!<end_line>
@@ -285,8 +285,8 @@
   <portrait_l entry="player" eye="surprised" mouth="yell">
   <portrait_r entry="vee" eye="sad" mouth="serious">
   <sjis>
-    �Ȃ񂾂��A����<three_dots>�H<end_line>
-    �܂������A�A���^��<three_dots><end_line>
+    なんだい、それ<three_dots>？<end_line>
+    まったく、アンタは<three_dots><end_line>
   </sjis>
   <ascii>
     What's with that<three_dots>?<end_line>

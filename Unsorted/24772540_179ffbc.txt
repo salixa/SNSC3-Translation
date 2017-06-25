@@ -1,5 +1,0 @@
-<location>
-	<sjis>
-		ƒƒuH–[@‚PŠK<end_line>
-	</sjis>
-</location>

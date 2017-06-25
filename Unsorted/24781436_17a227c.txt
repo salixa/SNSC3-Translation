@@ -1,10 +1,10 @@
 <location>
 	<sjis>
-		�قق��ݒ��@�H�[<end_line>
+		ほほえみ亭　工房<end_line>
 	</sjis>
 </location>
 <popup>
 	<sjis>
-		��ꂪ��ꂽ�I<end_line>
+		疲れが取れた！<end_line>
 	</sjis>
 </popup>

@@ -1,15 +1,15 @@
 <location>
   <sjis>
-    ���C�[�Y���@�S��<end_line>
+    ルイーズ村　牢屋<end_line>
   </sjis>
 </location>
 <dialogue>
   <info box="simple">
   <portrait_l name="jailer">
   <sjis>
-    �������񂶂�Ȃ��ł�<end_line>
-    �����ɔ����Ăт����Ă���ł�<end_line>
-    �z���g�ł���<end_line>
+    逃げたんじゃないです<end_line>
+    村中に避難を呼びかけてたんです<end_line>
+    ホントですよ<end_line>
   </sjis>
   <ascii>
     I wasn't running away.<end_line>

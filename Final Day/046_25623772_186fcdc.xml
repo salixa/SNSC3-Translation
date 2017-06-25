@@ -2,8 +2,8 @@
   <info box="left">
   <portrait_l entry="soldier" eye="serious" mouth="serious">
   <sjis>
-    �������I<end_line>
-    �ЂƂ܂��ނ����I<end_line>
+    くそっ！<end_line>
+    ひとまず退くぞ！<end_line>
   </sjis>
   <ascii>
     Damn!<end_line>
@@ -15,7 +15,7 @@
   <portrait_l entry="soldier" eye="serious" mouth="serious">
   <portrait_r entry="soldier" eye="serious" mouth="yell">
   <sjis>
-    �ЂƂ܂��ȁI<end_line>
+    ひとまずな！<end_line>
   </sjis>
   <ascii>
     Everyone, retreat!<end_line>
@@ -26,7 +26,7 @@
   <info box="right">
   <portrait_r entry="partner" eye="surprised" mouth="stressed">
   <sjis>
-    �݂�[�̗l�K�@�C�}�Z���I<end_line>
+    みゅーの様ガ　イマセン！<end_line>
   </sjis>
   <ascii>
     Lady Murno Is Not Here!<end_line>
@@ -37,7 +37,7 @@
   <info box="right">
   <portrait_r entry="partner" eye="surprised" mouth="stressed">
   <sjis>
-    �~���[�m�͂ǂ�����I<end_line>
+    ミューノはどこじゃ！<end_line>
   </sjis>
   <ascii>
     Where's Murno!?<end_line>
@@ -48,7 +48,7 @@
   <info box="right">
   <portrait_r entry="partner" eye="surprised" mouth="stressed">
   <sjis>
-    �~���[�m�͂ǂ��֍s�����I<end_line>
+    ミューノはどこへ行った！<end_line>
   </sjis>
   <ascii>
     Where'd Murno go!?<end_line>
@@ -59,7 +59,7 @@
   <info box="right">
   <portrait_r entry="partner" eye="surprised" mouth="stressed">
   <sjis>
-    �~���[�m�l�����܂����I<end_line>
+    ミューノ様がいませんわ！<end_line>
   </sjis>
   <ascii>
     Lady Murno isn't here!<end_line>
@@ -71,8 +71,8 @@
   <portrait_r entry="partner" eye="surprised" mouth="stressed">
   <male>
     <sjis>
-      ���������A�A�j�X�̃��c<three_dots>�I<end_line>
-      �ǂ������邺�I<end_line>
+      くっそぉ、アニスのヤツ<three_dots>！<end_line>
+      追いかけるぜ！<end_line>
     </sjis>
     <ascii>
       Dammit, Anise<three_dots>!<end_line>
@@ -81,8 +81,8 @@
   </male>
   <female>
     <sjis>
-      ��<three_dots>�A�A�j�X��<three_dots>�I<end_line>
-      �����ǂ������悤�I<end_line>
+      く<three_dots>、アニスね<three_dots>！<end_line>
+      早く追いかけよう！<end_line>
     </sjis>
     <ascii>
       Ku<three_dots> Anise<three_dots>!<end_line>

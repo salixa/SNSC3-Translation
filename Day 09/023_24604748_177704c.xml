@@ -1,20 +1,20 @@
 <location>
   <sjis>
-    ƒ}[ƒlƒCƒ‹hê<end_line>
+    ãƒžãƒ¼ãƒã‚¤ãƒ«å®¿å ´<end_line>
   </sjis>
 </location>
 <location>
   <sjis>
-    ƒ}[ƒlƒCƒ‹hê@‚Ù‚Ù‚¦‚Ý’à‘O<end_line>
+    ãƒžãƒ¼ãƒã‚¤ãƒ«å®¿å ´ã€€ã»ã»ãˆã¿äº­å‰<end_line>
   </sjis>
 </location>
 <dialogue>
   <info box="simple">
   <portrait_l name="woman">
   <sjis>
-    ‚ ‚½‚µŒ©‚½‚Ì‚æI<end_line>
-    ‹|–î‚Å“I‚ðŒ‚‚Á‚½‚ç<end_line>
-    “Ë‘RA—‚ÌŽq‚ª”ò‚Ño‚µ‚Ä‚«‚½‚ÌI<end_line>
+    ã‚ãŸã—è¦‹ãŸã®ã‚ˆï¼<end_line>
+    å¼“çŸ¢ã§çš„ã‚’æ’ƒã£ãŸã‚‰<end_line>
+    çªç„¶ã€å¥³ã®å­ãŒé£›ã³å‡ºã—ã¦ããŸã®ï¼<end_line>
   </sjis>
   <ascii>
     I saw it!<end_line>
@@ -26,7 +26,7 @@
   <info box="simple">
   <portrait_l name="woman">
   <sjis>
-    ‰½‚¾‚Á‚½‚Ì‚©‚µ‚çH<end_line>
+    ä½•ã ã£ãŸã®ã‹ã—ã‚‰ï¼Ÿ<end_line>
   </sjis>
   <ascii>
     I wonder why that is?<end_line>

@@ -2,16 +2,16 @@
 	<info box="nobox">
 	<male>
 		<sjis>
-			�@�@�@�@�@�@����Ȃ킯�Ł@�@�@�@�@�@<end_line>
-			�@�@�@�I�������͋��̔h���֍s���ā@�@<end_line>
-			�@�@�@�@�@�@�F�X���������@�@�@�@�@�@<end_line>
+			　　　　　　そんなわけで　　　　　　<end_line>
+			　　　オレたちは金の派閥へ行って　　<end_line>
+			　　　　　　色々説明した　　　　　　<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�@�@�@�@�@�@����Ȃ킯�Ł@�@�@�@�@�@<end_line>
-			�@�@�킽�������͋��̔h���֍s���ā@�@<end_line>
-			�@�@�@�@�@�@�F�X���������@�@�@�@�@�@<end_line>
+			　　　　　　そんなわけで　　　　　　<end_line>
+			　　わたしたちは金の派閥へ行って　　<end_line>
+			　　　　　　色々説明した　　　　　　<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -19,41 +19,41 @@
 	<info box="nobox">
 	<male>
 		<sjis>
-			�@�@���~�B���b���Ă��ꂽ�������Ł@�@<end_line>
-			�{�X�^�t�e�����A�j�X���������҂�����<end_line>
-			�@�@�@�@�M���Ă��ꂽ�݂������@�@�@�@<end_line>
+			　　レミィが話してくれたおかげで　　<end_line>
+			ボスタフ親方もアニスたちが悪者だって<end_line>
+			　　　　信じてくれたみたいだ　　　　<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�@�@���~�B���b���Ă��ꂽ�������Ł@�@<end_line>
-			�{�X�^�t�e�����A�j�X���������҂�����<end_line>
-			�@�@�@�@�@�M���Ă��ꂽ�݂����@�@�@�@<end_line>
+			　　レミィが話してくれたおかげで　　<end_line>
+			ボスタフ親方もアニスたちが悪者だって<end_line>
+			　　　　　信じてくれたみたい　　　　<end_line>
 		</sjis>
 	</female>
 </dialogue>
 <dialogue>
 	<info box="nobox">
 	<sjis>
-		�@����Ń~���[�m�̂�������������ā@<end_line>
-		�@�@�@�S���@���̖��΂���邽�߂Ɂ@�@<end_line>
-		�A�j�X������߂܂��邱�ƂɂȂ�����<end_line>
+		　これでミューノのうたがいも晴れて　<end_line>
+		　　　ゴヴァンの魔石を守るために　　<end_line>
+		アニスたちを捕まえることになったんだ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="nobox">
 	<male>
 		<sjis>
-			����ň�C�Ɍ����A�Ƃ��������񂾂���<end_line>
-			�@�@�I���ɂ́A�A�j�X�̂��̌��t���@�@<end_line>
-			�@�@�����������������Ă�����<three_dots>�@�@<end_line>
+			これで一気に決着、といきたいんだけど<end_line>
+			　　オレには、アニスのあの言葉が　　<end_line>
+			　　すごく引っかかっていたんだ<three_dots>　　<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			����ň�C�Ɍ����A�Ƃ��������񂾂���<end_line>
-			�킽���̃��l�ɂ́A�A�j�X�̂��̌��t��<end_line>
-			�@�@�@�����ƈ����������Ă���<three_dots>�@�@�@<end_line>
+			これで一気に決着、といきたいんだけど<end_line>
+			わたしのムネには、アニスのあの言葉が<end_line>
+			　　　ずっと引っかかっていた<three_dots>　　　<end_line>
 		</sjis>
 	</female>
 </dialogue>

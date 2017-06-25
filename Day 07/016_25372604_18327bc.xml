@@ -2,8 +2,8 @@
 	<info box="right">
 	<portrait_r entry="gallahan" eye="serious" mouth="neutral">
 	<sjis>
-		�����Ɏg���镐��͂ЂƂ�����<end_line>
-		�ǂꂩ�ЂƂ�I�Ԃ̂�<end_line>
+		勝負に使える武器はひとつだけだ<end_line>
+		どれかひとつを選ぶのだ<end_line>
 	</sjis>
   <ascii>
     You may only use one weapon in this<end_line>
@@ -14,7 +14,7 @@
 	<info box="right">
 	<portrait_r name="gallahan">
 	<sjis>
-		�����Ɏg������𑕔����Ă��Ȃ���<end_line>
+		勝負に使う武器を装備してきなさい<end_line>
 	</sjis>
   <ascii>
     Equip the weapon you plan on using.<end_line>
@@ -24,8 +24,8 @@
 	<info box="right">
 	<portrait_r name="gallahan">
 	<sjis>
-		�����̏�����<end_line>
-		�ƂƂ̂����悤����<end_line>
+		勝負の準備は<end_line>
+		ととのったようだな<end_line>
 	</sjis>
   <ascii>
     It seems you're prepared.<end_line>
@@ -35,7 +35,7 @@
 	<info box="right">
 	<portrait_r name="gallahan">
 	<sjis>
-		�����̏����͂ł������H<end_line>
+		勝負の準備はできたか？<end_line>
 	</sjis>
   <ascii>
     Are you prepared?<end_line>
@@ -46,7 +46,7 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<option>
 		<sjis>
-			�����̏����̓J���y�L�ł��I<end_line>
+			勝負の準備はカンペキです！<end_line>
 		</sjis>
     <ascii>
       I'm ready!<end_line>
@@ -54,7 +54,7 @@
 	</option>
 	<option>
 		<sjis>
-			���A������Ƒ҂��Ă�������<end_line>
+			あ、ちょっと待ってください<end_line>
 		</sjis>
     <ascii>
       Ah, wait just a minute.<end_line>
@@ -66,7 +66,7 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r name="gallahan">
 	<sjis>
-		�ł́A�͂��߂�Ƃ��悤<three_dots><end_line>
+		では、はじめるとしよう<three_dots><end_line>
 	</sjis>
   <ascii>
     Then, let us begin<three_dots><end_line>
@@ -88,9 +88,9 @@
 	<portrait_l entry="murno" eye="sad" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="neutral">
 	<sjis>
-		�\�m�\��J���@���f�X���g<end_line>
-		�݂�[�̗l�n�@���m�ρ[�Ƃȁ[�K<end_line>
-		���P���g�@�l�G�e�C���m�f�X�J�H<end_line>
+		ソノ表情カラ　判断スルト<end_line>
+		みゅーの様ハ　私ノぱーとなーガ<end_line>
+		負ケルト　考エテイルノデスカ？<end_line>
 	</sjis>
   <ascii>
     Examining Facial Expression.<end_line>
@@ -104,9 +104,9 @@
 	<portrait_l entry="murno" eye="sad" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="neutral">
 	<sjis>
-		���S����̂���A�~���[�m<end_line>
-		���̃}�Q�ɂ����Ă�����<end_line>
-		�����M���Ă���<three_dots><end_line>
+		安心するのじゃ、ミューノ<end_line>
+		このマゲにかけてもいい<end_line>
+		あやつを信じておれ<three_dots><end_line>
 	</sjis>
   <ascii>
     Be at ease, Murno. I would <end_line>
@@ -120,9 +120,9 @@
 	<portrait_l entry="murno" eye="sad" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="neutral">
 	<sjis>
-		��<three_dots><end_line>
-		����ȂɐS�z�����Ȋ�����Ă����<end_line>
-		�����܂ŕs���ɂȂ邩��������<three_dots><end_line>
+		ふ<three_dots><end_line>
+		そんなに心配そうな顔をしていると<end_line>
+		あいつまで不安になるかもしれんな<three_dots><end_line>
 	</sjis>
   <ascii>
     Fu<three_dots><end_line>
@@ -136,8 +136,8 @@
 	<portrait_l entry="murno" eye="sad" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="neutral">
 	<sjis>
-		���v�ł���A�~���[�m�l<end_line>
-		<player_nickname>����Ȃ�A��΂�<three_dots>�I<end_line>
+		大丈夫ですよ、ミューノ様<end_line>
+		<player_nickname>さんなら、絶対に<three_dots>！<end_line>
 	</sjis>
   <ascii>
     It'll be okay, Lady Murno.<end_line>
@@ -148,7 +148,7 @@
 	<portrait_l entry="murno" eye="surprised" mouth="tense">
 	<portrait_r entry="partner" eye="decided" mouth="neutral">
 	<sjis>
-		���A���߂�Ȃ����A<partner><three_dots><end_line>
+		あ、ごめんなさい、<partner><three_dots><end_line>
 	</sjis>
   <ascii>
     Ah, I'm sorry, <partner><three_dots><end_line>
@@ -159,8 +159,8 @@
 	<portrait_l entry="murno" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="neutral">
 	<sjis>
-		������<three_dots><end_line>
-		�����A<player_nickname>��M����<three_dots><end_line>
+		そうね<three_dots><end_line>
+		私も、<player_nickname>を信じる<three_dots><end_line>
 	</sjis>
   <ascii>
     You're right<three_dots><end_line>
@@ -181,8 +181,8 @@
 	<info box="right">
 	<portrait_r entry="gallahan" eye="serious" mouth="serious">
 	<sjis>
-		�悵<three_dots><end_line>
-		�ł�<three_dots><end_line>
+		よし<three_dots><end_line>
+		では<three_dots><end_line>
 	</sjis>
   <ascii>
     Alright<three_dots><end_line>
@@ -193,7 +193,7 @@
 	<info box="right" effect="big">
 	<portrait_r entry="gallahan" eye="decided" mouth="yell">
 	<sjis>
-		�����J�n�I<end_line>
+		試合開始！<end_line>
 	</sjis>
   <ascii>
     Begin!<end_line>
@@ -203,9 +203,9 @@
 	<info box="right">
 	<portrait_r name="gallahan">
 	<sjis>
-		�悵<three_dots><end_line>
-		�������ł�����<end_line>
-		�m�点�Ă���<end_line>
+		よし<three_dots><end_line>
+		準備ができたら<end_line>
+		知らせてくれ<end_line>
 	</sjis>
   <ascii>
     Alright<three_dots><end_line>

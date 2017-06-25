@@ -4,7 +4,7 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <portrait_r entry="partner" eye="surprised" mouth="neutral">
   <sjis>
-    lƒKƒCƒ}ƒX<end_line>
+    äººã‚¬ã‚¤ãƒžã‚¹<end_line>
   </sjis>
   <ascii>
     There Is Someone There.<end_line>
@@ -16,7 +16,7 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <portrait_r entry="partner" eye="surprised" mouth="neutral">
   <sjis>
-    l‚ª‚¨‚é‚È<end_line>
+    äººãŒãŠã‚‹ãª<end_line>
   </sjis>
   <ascii>
     There's someone there.<end_line>
@@ -28,8 +28,8 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <portrait_r entry="partner" eye="surprised" mouth="neutral">
   <sjis>
-    ‚¿‚Á<three_dots><end_line>
-    ƒjƒ“ƒQƒ“‚ª‚¢‚é‚¼<end_line>
+    ã¡ã£<three_dots><end_line>
+    ãƒ‹ãƒ³ã‚²ãƒ³ãŒã„ã‚‹ãž<end_line>
   </sjis>
   <ascii>
     Tch<three_dots><end_line>
@@ -42,7 +42,7 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <portrait_r entry="partner" eye="surprised" mouth="neutral">
   <sjis>
-    l‚ª‚¢‚Ü‚·‚í<end_line>
+    äººãŒã„ã¾ã™ã‚<end_line>
   </sjis>
   <ascii>
     There's someone there.<end_line>
@@ -54,16 +54,16 @@
   <portrait_r entry="partner" eye="surprised" mouth="neutral">
   <male>
     <sjis>
-      ‚±‚Á‚¿‚És‚­‚Æ<end_line>
-      Œ©‚Â‚©‚Á‚¿‚á‚¤‚©<three_dots><end_line>
-      ‹C‚ð‚Â‚¯‚È‚¢‚Æ<end_line>
+      ã“ã£ã¡ã«è¡Œãã¨<end_line>
+      è¦‹ã¤ã‹ã£ã¡ã‚ƒã†ã‹<three_dots><end_line>
+      æ°—ã‚’ã¤ã‘ãªã„ã¨<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ‚±‚Á‚¿‚És‚­‚Æ<end_line>
-      Œ©‚Â‚©‚Á‚¿‚á‚¤‚Ë<three_dots><end_line>
-      ‹C‚ð‚Â‚¯‚æ‚¤<end_line>
+      ã“ã£ã¡ã«è¡Œãã¨<end_line>
+      è¦‹ã¤ã‹ã£ã¡ã‚ƒã†ã­<three_dots><end_line>
+      æ°—ã‚’ã¤ã‘ã‚ˆã†<end_line>
     </sjis>
   </female>
   <ascii>

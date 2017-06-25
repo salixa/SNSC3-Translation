@@ -4,9 +4,9 @@
   <portrait_r entry="partner" eye="serious" mouth="tense">
   <male>
     <sjis>
-      ����������<end_line>
-      ���Ȃ��݂�������<three_dots><end_line>
-      �؂肿�Ⴈ������<end_line>
+      おっちゃんは<end_line>
+      いないみたいだな<three_dots><end_line>
+      借りちゃおっかな<end_line>
     </sjis>
     <ascii>
       Looks like Gramps isn't here<three_dots><end_line>
@@ -15,9 +15,9 @@
   </male>
   <female>
     <sjis>
-      �M�����n�������<end_line>
-      ���Ȃ��݂���<three_dots><end_line>
-      �؂肿�Ⴈ������<end_line>
+      ギャラハンさんは<end_line>
+      いないみたい<three_dots><end_line>
+      借りちゃおっかな<end_line>
     </sjis>
     <ascii>
       Looks like Gallhan isn't here<three_dots><end_line>
@@ -31,7 +31,7 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="partner" eye="surprised" mouth="tense">
   <sjis>
-    ���f�f�@�f�X�J�H<end_line>
+    無断デ　デスカ？<end_line>
   </sjis>
   <ascii>
     Without Permission?<end_line>
@@ -44,16 +44,16 @@
   <portrait_r entry="partner" eye="surprised" mouth="tense">
   <male>
     <sjis>
-      �d���Ȃ�����A���Ȃ��񂾂�<end_line>
-      ����Ƃ��̂����͂����Ƃ͂炤����<end_line>
-      ���������<end_line>
+      仕方ないだろ、いないんだし<end_line>
+      道具とかのお金はちゃんとはらうしさ<end_line>
+      いいじゃん<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �d���Ȃ��ł���A���Ȃ��񂾂�<end_line>
-      ����Ƃ��̂����͂����Ƃ͂炤��<end_line>
-      ���������<end_line>
+      仕方ないでしょ、いないんだし<end_line>
+      道具とかのお金はちゃんとはらうし<end_line>
+      いいじゃん<end_line>
     </sjis>
   </female>
   <ascii>
@@ -68,7 +68,7 @@
   <portrait_l entry="player" eye="serious" mouth="serious">
   <portrait_r entry="partner" eye="serious" mouth="neutral">
   <sjis>
-    ��펖�ԃf�X�l<end_line>
+    非常事態デスネ<end_line>
   </sjis>
   <ascii>
     It Is An Emergency, After All.<end_line>
@@ -80,7 +80,7 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="partner" eye="surprised" mouth="tense">
   <sjis>
-    ���f�Ŏ؂��ƌ����̂�<three_dots>�H<end_line>
+    無断で借りると言うのか<three_dots>？<end_line>
   </sjis>
   <ascii>
     You're going to borrow it<end_line>
@@ -94,16 +94,16 @@
   <portrait_r entry="partner" eye="surprised" mouth="tense">
   <male>
     <sjis>
-      �d���Ȃ�����A���Ȃ��񂾂�<end_line>
-      ����Ƃ��̂����͂����Ƃ͂炤����<end_line>
-      ���������<end_line>
+      仕方ないだろ、いないんだし<end_line>
+      道具とかのお金はちゃんとはらうしさ<end_line>
+      いいじゃん<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �d���Ȃ��ł���A���Ȃ��񂾂�<end_line>
-      ����Ƃ��̂����͂����Ƃ͂炤��<end_line>
-      ���������<end_line>
+      仕方ないでしょ、いないんだし<end_line>
+      道具とかのお金はちゃんとはらうし<end_line>
+      いいじゃん<end_line>
     </sjis>
   </female>
   <ascii>
@@ -118,8 +118,8 @@
   <portrait_l entry="player" eye="serious" mouth="serious">
   <portrait_r entry="partner" eye="decided" mouth="serious">
   <sjis>
-    ��������<three_dots><end_line>
-    �I���Ȃ��Ƃ͌����Ă�����<end_line>
+    たしかに<three_dots><end_line>
+    悠長なことは言っておられん<end_line>
   </sjis>
   <ascii>
     That is true, however<three_dots><end_line>
@@ -132,8 +132,8 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="partner" eye="surprised" mouth="tense">
   <sjis>
-    �ӂ�<end_line>
-    �ʂ��ނ��Ă��Ƃ�<end_line>
+    ふん<end_line>
+    ぬすむってことか<end_line>
   </sjis>
   <ascii>
     Hmph.<end_line>
@@ -147,16 +147,16 @@
   <portrait_r entry="partner" eye="surprised" mouth="tense">
   <male>
     <sjis>
-      ��������I<end_line>
-      �H�[���؂��񂾂�I<end_line>
-      ����Ƃ��͂����Ƃ������͂炤��<end_line>
+      ちがうよ！<end_line>
+      工房を借りるんだよ！<end_line>
+      道具とかはちゃんとお金をはらうよ<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ���������I<end_line>
-      �H�[���؂��́I<end_line>
-      ����Ƃ��͂����Ƃ������͂炤���<end_line>
+      ちがうわよ！<end_line>
+      工房を借りるの！<end_line>
+      道具とかはちゃんとお金をはらうわよ<end_line>
     </sjis>
   </female>
   <ascii>
@@ -171,8 +171,8 @@
   <portrait_l entry="player" eye="happy" mouth="stressed">
   <portrait_r entry="partner" eye="decided" mouth="serious">
   <sjis>
-    ����<end_line>
-    �܂��<end_line>
+    ちっ<end_line>
+    つまらん<end_line>
   </sjis>
   <ascii>
     Tch.<end_line>
@@ -185,7 +185,7 @@
   <portrait_l entry="player" eye="happy" mouth="stressed">
   <portrait_r entry="partner" eye="decided" mouth="serious">
   <sjis>
-    ���A���܂��Ăł����H<end_line>
+    だ、だまってですか？<end_line>
   </sjis>
   <ascii>
     W-without permission?<end_line>
@@ -198,16 +198,16 @@
   <portrait_r entry="partner" eye="decided" mouth="serious">
   <male>
     <sjis>
-      �d���Ȃ�����A���Ȃ��񂾂�<end_line>
-      ����Ƃ��̂����͂����Ƃ͂炤����<end_line>
-      ���v�����āA�{���Ȃ���<end_line>
+      仕方ないだろ、いないんだし<end_line>
+      道具とかのお金はちゃんとはらうしさ<end_line>
+      大丈夫だって、怒られないよ<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �d���Ȃ��ł���A���Ȃ��񂾂�<end_line>
-      ����Ƃ��̂����͂����Ƃ͂炤��<end_line>
-      ���v�����āA�{���Ȃ���<end_line>
+      仕方ないでしょ、いないんだし<end_line>
+      道具とかのお金はちゃんとはらうし<end_line>
+      大丈夫だって、怒られないよ<end_line>
     </sjis>
   </female>
   <ascii>
@@ -222,9 +222,9 @@
   <portrait_l entry="player" eye="serious" mouth="serious">
   <portrait_r entry="partner" eye="decided" mouth="neutral">
   <sjis>
-    ����ȁA�{����̂��R���C�񂶂�<end_line>
-    ����܂��񂩂�<end_line>
-    �����ł���A�؂�܂��傤�I<end_line>
+    そんな、怒られるのがコワイんじゃ<end_line>
+    ありませんから<end_line>
+    いいですわ、借りましょう！<end_line>
   </sjis>
   <ascii>
     N-no, that's not what I<three_dots><end_line>

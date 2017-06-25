@@ -1,5 +1,5 @@
 <location>
 	<sjis>
-		ƒ‹ƒC[ƒY‘º@˜S‚`<end_line>
+		ãƒ«ã‚¤ãƒ¼ã‚ºæ‘ã€€ç‰¢ï¼¡<end_line>
 	</sjis>
 </location>

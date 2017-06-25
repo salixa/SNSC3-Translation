@@ -2,49 +2,49 @@
 	<info box="right">
 	<portrait_r entry="vee" eye="surprised" mouth="tense">
 	<sjis>
-		‚ <three_dots><end_line>
+		ã‚<three_dots><end_line>
 	</sjis>
 </dialogue>
 <bigtext>
 	<info box="right" effect="big">
 	<portrait_r entry="vee" eye="decided" mouth="stressed">
 	<sjis>
-		<player_nickname>I<end_line>
+		<player_nickname>ï¼<end_line>
 	</sjis>
 </bigtext>
 <bigtext>
 	<info box="right" effect="big">
 	<portrait_r entry="vee" eye="decided" mouth="stressed">
 	<sjis>
-		<player_nickname>I<end_line>
+		<player_nickname>ï¼<end_line>
 	</sjis>
 </bigtext>
 <bigtext>
 	<info box="right" effect="big">
 	<portrait_r entry="vee" eye="decided" mouth="stressed">
 	<sjis>
-		<player_nickname>I<end_line>
+		<player_nickname>ï¼<end_line>
 	</sjis>
 </bigtext>
 <bigtext>
 	<info box="right" effect="big">
 	<portrait_r entry="vee" eye="decided" mouth="stressed">
 	<sjis>
-		<player_nickname>I<end_line>
+		<player_nickname>ï¼<end_line>
 	</sjis>
 </bigtext>
 <bigtext>
 	<info box="right" effect="big">
 	<portrait_r entry="vee" eye="decided" mouth="stressed">
 	<sjis>
-		<player_nickname>I<end_line>
+		<player_nickname>ï¼<end_line>
 	</sjis>
 </bigtext>
 <bigtext>
 	<info box="right" effect="big">
 	<portrait_r entry="vee" eye="decided" mouth="stressed">
 	<sjis>
-		<player_nickname>I<end_line>
+		<player_nickname>ï¼<end_line>
 	</sjis>
 </bigtext>
 <dialogue>
@@ -52,23 +52,23 @@
 	<portrait_l entry="player" eye="surprised" mouth="stressed">
 	<portrait_r entry="vee" eye="decided" mouth="stressed">
 	<sjis>
-		‚ Ae•ûI<end_line>
+		ã‚ã€è¦ªæ–¹ï¼<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="right">
 	<portrait_r entry="vee" eye="decided" mouth="yell">
 	<sjis>
-		ƒAƒ“ƒ^‚½‚¿<three_dots>I<end_line>
-		‰½‚â‚Á‚Ä‚½‚ñ‚¾A‚±‚Ì<three_dots>I<end_line>
+		ã‚¢ãƒ³ã‚¿ãŸã¡<three_dots>ï¼<end_line>
+		ä½•ã‚„ã£ã¦ãŸã‚“ã ã€ã“ã®<three_dots>ï¼<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="left">
 	<portrait_l entry="player" eye="happy" mouth="stressed">
 	<sjis>
-		‚ I<end_line>
-		‚²‚ß‚ñ‚È‚³‚¢‚²‚ß‚ñ‚È‚³‚¢I<end_line>
+		ã‚ï¼<end_line>
+		ã”ã‚ã‚“ãªã•ã„ã”ã‚ã‚“ãªã•ã„ï¼<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -76,9 +76,9 @@
 	<portrait_l entry="player" eye="surprised_blush" mouth="talk">
 	<portrait_r entry="vee" eye="happy" mouth="talk">
 	<sjis>
-		‚¦<three_dots>H<end_line>
-		‚ ‚Ì<three_dots>H<end_line>
-		e•û<three_dots>H<end_line>
+		ãˆ<three_dots>ï¼Ÿ<end_line>
+		ã‚ã®<three_dots>ï¼Ÿ<end_line>
+		è¦ªæ–¹<three_dots>ï¼Ÿ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -86,7 +86,7 @@
 	<portrait_l entry="player" eye="surprised_blush" mouth="talk">
 	<portrait_r entry="vee" eye="decided" mouth="talk">
 	<sjis>
-		S”z‚©‚¯‚â‚ª‚Á‚Ä<three_dots><end_line>
+		å¿ƒé…ã‹ã‘ã‚„ãŒã£ã¦<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -94,7 +94,7 @@
 	<portrait_l entry="player" eye="happy" mouth="stressed">
 	<portrait_r entry="vee" eye="decided" mouth="serious">
 	<sjis>
-		‚Á‚½[[III<end_line>
+		ã£ãŸãƒ¼ãƒ¼ï¼ï¼ï¼<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -102,8 +102,8 @@
 	<portrait_l entry="player" eye="happy" mouth="stressed">
 	<portrait_r entry="vee" eye="decided" mouth="yell">
 	<sjis>
-		<partner>I@ƒ~ƒ…[ƒmI<end_line>
-		ƒAƒ“ƒ^‚½‚¿‚àII<end_line>
+		<partner>ï¼ã€€ãƒŸãƒ¥ãƒ¼ãƒŽï¼<end_line>
+		ã‚¢ãƒ³ã‚¿ãŸã¡ã‚‚ï¼ï¼<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -111,23 +111,23 @@
 	<portrait_l entry="partner" eye="surprised" mouth="serious">
 	<portrait_r entry="murno" eye="surprised" mouth="serious">
 	<sjis>
-		<three_dots>ƒbI<end_line>
+		<three_dots>ãƒƒï¼<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_r name="vee">
 	<sjis>
-		‚Ó‚¤<three_dots><end_line>
+		ãµã†<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="right">
 	<portrait_r entry="vee" eye="sad_blush" mouth="neutral">
 	<sjis>
-		<three_dots>‚Á‚½‚­A¡‚Ü‚ÅƒhƒR‚ð<end_line>
-		‚Ù‚Á‚Â‚«•à‚¢‚Ä‚½‚ñ‚¾‚æ<three_dots>I<end_line>
-		‚Ý‚ñ‚È‚àS”z‚µ‚Ä‚³‚ª‚µ‚Ä‚ñ‚¾I<end_line>
+		<three_dots>ã£ãŸãã€ä»Šã¾ã§ãƒ‰ã‚³ã‚’<end_line>
+		ã»ã£ã¤ãæ­©ã„ã¦ãŸã‚“ã ã‚ˆ<three_dots>ï¼<end_line>
+		ã¿ã‚“ãªã‚‚å¿ƒé…ã—ã¦ã•ãŒã—ã¦ã‚“ã ï¼<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -135,14 +135,14 @@
 	<portrait_l entry="player" eye="surprised" mouth="tense">
 	<portrait_r entry="vee" eye="sad_blush" mouth="neutral">
 	<sjis>
-		‚Ý‚ñ‚È‚à<three_dots>H<end_line>
+		ã¿ã‚“ãªã‚‚<three_dots>ï¼Ÿ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="right">
 	<portrait_r entry="vee" eye="serious" mouth="yell">
 	<sjis>
-		‚¨[‚¢I<end_line>
-		<player_nickname>‚½‚¿A‚¢‚½‚æI<end_line>
+		ãŠãƒ¼ã„ï¼<end_line>
+		<player_nickname>ãŸã¡ã€ã„ãŸã‚ˆï¼<end_line>
 	</sjis>
 </dialogue>

@@ -1,19 +1,19 @@
 <dialogue>
 	<info box="special">
 	<sjis>
-		ƒEƒŠƒLƒŒƒ`ƒ…ƒE<three_dots><end_line>
+		ã‚¦ãƒªã‚­ãƒ¬ãƒãƒ¥ã‚¦<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="special">
 	<sjis>
-		‹ß“ú‰Ò“®—\’èI<end_line>
+		è¿‘æ—¥ç¨¼å‹•äºˆå®šï¼<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="special">
 	<sjis>
-		‚¨‚µ‚Ü‚¢ƒbI<end_line>
+		ãŠã—ã¾ã„ãƒƒï¼<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -21,12 +21,12 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			•Ÿˆø‚«Œ”‚ª‘«‚è‚È‚¢<three_dots><end_line>
+			ç¦å¼•ãåˆ¸ãŒè¶³ã‚Šãªã„<three_dots><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			•Ÿˆø‚«Œ”‚ª‘«‚è‚È‚¢‚æ‚§<three_dots><end_line>
+			ç¦å¼•ãåˆ¸ãŒè¶³ã‚Šãªã„ã‚ˆã‰<three_dots><end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -35,12 +35,12 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			•Ÿˆø‚«Œ”Ž‚Á‚Ä‚È‚¢<three_dots><end_line>
+			ç¦å¼•ãåˆ¸æŒã£ã¦ãªã„<three_dots><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			•Ÿˆø‚«Œ”‚ª‚È‚¢‚æ‚§<three_dots><end_line>
+			ç¦å¼•ãåˆ¸ãŒãªã„ã‚ˆã‰<three_dots><end_line>
 		</sjis>
 	</female>
 </dialogue>

@@ -3,8 +3,8 @@
 	<portrait_l entry="player" eye="sad" mouth="serious">
 	<portrait_r entry="elieze" eye="serious" mouth="tense">
 	<sjis>
-		�{�X�^�t���₩������<end_line>
-		���������Ă���̂���<three_dots><end_line>
+		ボスタフおやかたって<end_line>
+		いつかえってくるのかな<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -12,7 +12,7 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="elieze" eye="serious" mouth="talk">
 	<sjis>
-		���傤�̃G���G�̂������Ƃ�<end_line>
-		�����ڂ��̂������Â��Ȃ񂾂�<end_line>
+		きょうのエリエのおしごとは<end_line>
+		こうぼうのおかたづけなんだよ<end_line>
 	</sjis>
 </dialogue>

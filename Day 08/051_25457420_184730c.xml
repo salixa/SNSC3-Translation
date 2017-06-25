@@ -4,10 +4,10 @@
   <portrait_l entry="player" eye="serious" mouth="serious">
   <portrait_r entry="partner" eye="decided" mouth="yell">
   <sjis>
-    <three_dots>�I�H<end_line>
+    <three_dots>！？<end_line>
   </sjis>
   <ascii>
-    <three_dots>�I�H<end_line>
+    <three_dots>！？<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -17,14 +17,14 @@
   <portrait_r entry="partner" eye="decided" mouth="yell">
   <male>
     <sjis>
-      �ǂ������񂾁A<partner>�H<end_line>
-      �Ȃ񂩂������̂��H<end_line>
+      どうしたんだ、<partner>？<end_line>
+      なんかあったのか？<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �ǂ������́A<partner>�H<end_line>
-      �Ȃ񂩂������́H<end_line>
+      どうしたの、<partner>？<end_line>
+      なんかあったの？<end_line>
     </sjis>
   </female>
   <ascii>
@@ -38,8 +38,8 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="partner" eye="serious" mouth="neutral">
   <sjis>
-    ���񂳁[�j�@�����K�A�b�^�m�f�X�K<end_line>
-    �ړ��V�^���E�f�X<end_line>
+    せんさーニ　反応ガアッタノデスガ<end_line>
+    移動シタヨウデス<end_line>
   </sjis>
   <ascii>
     Sensors Detecting Movement.<end_line>
@@ -51,7 +51,7 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <portrait_r entry="partner" eye="serious" mouth="neutral">
   <sjis>
-    �����낤�H<end_line>
+    何だろう？<end_line>
   </sjis>
   <ascii>
     What is it?<end_line>
@@ -63,7 +63,7 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <portrait_r entry="partner" eye="serious" mouth="neutral">
   <sjis>
-    ���ӃV�e�N�_�T�C<end_line>
+    注意シテクダサイ<end_line>
   </sjis>
   <ascii>
     Please Be careful.<end_line>
@@ -75,7 +75,7 @@
   <portrait_l entry="player" eye="serious" mouth="serious">
   <portrait_r entry="partner" eye="decided" mouth="yell">
   <sjis>
-    �Ȃɂ�I�H<end_line>
+    なにやつ！？<end_line>
   </sjis>
   <ascii>
     Who is it!?<end_line>
@@ -88,14 +88,14 @@
   <portrait_r entry="partner" eye="decided" mouth="yell">
   <male>
     <sjis>
-      �ǂ������񂾁A<partner>�H<end_line>
-      �Ȃ񂩂������̂��H<end_line>
+      どうしたんだ、<partner>？<end_line>
+      なんかあったのか？<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �ǂ������́A<partner>�H<end_line>
-      �Ȃ񂩂������́H<end_line>
+      どうしたの、<partner>？<end_line>
+      なんかあったの？<end_line>
     </sjis>
   </female>
   <ascii>
@@ -109,9 +109,9 @@
   <portrait_l entry="player" eye="surprised" mouth="tense">
   <portrait_r entry="partner" eye="decided" mouth="tense">
   <sjis>
-    ����<three_dots><end_line>
-    �������ɉ��҂���<end_line>
-    �C�z�������񂶂Ⴊ��<three_dots><end_line>
+    うむ<three_dots><end_line>
+    たしかに何者かの<end_line>
+    気配がしたんじゃがの<three_dots><end_line>
   </sjis>
   <ascii>
     Yes<three_dots><end_line>
@@ -126,14 +126,14 @@
   <portrait_r entry="partner" eye="decided" mouth="tense">
   <male>
     <sjis>
-      �N�����Ȃ���<end_line>
-      �C�̂�������Ȃ����H<end_line>
+      誰もいないぞ<end_line>
+      気のせいじゃないか？<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �N�����Ȃ���<end_line>
-      �C�̂�������Ȃ��H<end_line>
+      誰もいないよ<end_line>
+      気のせいじゃない？<end_line>
     </sjis>
   </female>
   <ascii>
@@ -147,8 +147,8 @@
   <portrait_l entry="player" eye="serious" mouth="serious">
   <portrait_r entry="partner" eye="decided" mouth="serious">
   <sjis>
-    ����ȃn�Y�͂Ȃ���<end_line>
-    ���ʂ����C������̂���<end_line>
+    そんなハズはないぞ<end_line>
+    おぬしも気をつけるのじゃ<end_line>
   </sjis>
   <ascii>
     I do not think so.<end_line>
@@ -161,7 +161,7 @@
   <portrait_l entry="player" eye="serious" mouth="serious">
   <portrait_r entry="partner" eye="decided" mouth="yell">
   <sjis>
-    �������I�H<end_line>
+    そこか！？<end_line>
   </sjis>
   <ascii>
     There!?<end_line>
@@ -174,14 +174,14 @@
   <portrait_r entry="partner" eye="decided" mouth="yell">
   <male>
     <sjis>
-      �ǂ������񂾁A<partner>�H<end_line>
-      �Ȃ񂩂������̂��H<end_line>
+      どうしたんだ、<partner>？<end_line>
+      なんかあったのか？<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �ǂ������́A<partner>�H<end_line>
-      �Ȃ񂩂������́H<end_line>
+      どうしたの、<partner>？<end_line>
+      なんかあったの？<end_line>
     </sjis>
   </female>
   <ascii>
@@ -195,8 +195,8 @@
   <portrait_l entry="player" eye="surprised" mouth="tense">
   <portrait_r entry="partner" eye="decided" mouth="tense">
   <sjis>
-    ����<three_dots><end_line>
-    ������ꂽ<end_line>
+    ちっ<three_dots><end_line>
+    逃げられた<end_line>
   </sjis>
   <ascii>
     Tch<three_dots><end_line>
@@ -210,14 +210,14 @@
   <portrait_r entry="partner" eye="decided" mouth="tense">
   <male>
     <sjis>
-      �N�����Ȃ���<end_line>
-      �C�̂�������Ȃ����H<end_line>
+      誰もいないぞ<end_line>
+      気のせいじゃないか？<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �N�����Ȃ���<end_line>
-      �C�̂�������Ȃ��H<end_line>
+      誰もいないよ<end_line>
+      気のせいじゃない？<end_line>
     </sjis>
   </female>
   <ascii>
@@ -231,9 +231,9 @@
   <portrait_l entry="player" eye="serious" mouth="serious">
   <portrait_r entry="partner" eye="decided" mouth="serious">
   <sjis>
-    ����<end_line>
-    �j�u�C���<end_line>
-    �������炻���v���Ă���΂���<end_line>
+    ちっ<end_line>
+    ニブイやつめ<end_line>
+    だったらそう思っていればいい<end_line>
   </sjis>
   <ascii>
     Tch.<end_line>
@@ -247,7 +247,7 @@
   <portrait_l entry="player" eye="serious" mouth="serious">
   <portrait_r entry="partner" eye="decided" mouth="serious">
   <sjis>
-    �N�ł����I�H<end_line>
+    誰ですか！？<end_line>
   </sjis>
   <ascii>
     Who's there!?<end_line>
@@ -260,14 +260,14 @@
   <portrait_r entry="partner" eye="decided" mouth="serious">
   <male>
     <sjis>
-      �ǂ������񂾁A<partner>�H<end_line>
-      �Ȃ񂩂������̂��H<end_line>
+      どうしたんだ、<partner>？<end_line>
+      なんかあったのか？<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �ǂ������́A<partner>�H<end_line>
-      �Ȃ񂩂������́H<end_line>
+      どうしたの、<partner>？<end_line>
+      なんかあったの？<end_line>
     </sjis>
   </female>
   <ascii>
@@ -281,9 +281,9 @@
   <portrait_l entry="player" eye="surprised" mouth="tense">
   <portrait_r entry="partner" eye="serious" mouth="tense">
   <sjis>
-    ����<three_dots>�H<end_line>
-    �������ɉ��������悤��<end_line>
-    �C��������ł���<three_dots><end_line>
+    あら<three_dots>？<end_line>
+    たしかに何かいたような<end_line>
+    気がしたんですが<three_dots><end_line>
   </sjis>
   <ascii>
     Huh<three_dots>?<end_line>
@@ -297,14 +297,14 @@
   <portrait_r entry="partner" eye="serious" mouth="tense">
   <male>
     <sjis>
-      �N�����Ȃ���<end_line>
-      �C�̂�������Ȃ����H<end_line>
+      誰もいないぞ<end_line>
+      気のせいじゃないか？<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �N�����Ȃ���<end_line>
-      �C�̂�������Ȃ��H<end_line>
+      誰もいないよ<end_line>
+      気のせいじゃない？<end_line>
     </sjis>
   </female>
   <ascii>
@@ -318,9 +318,9 @@
   <portrait_l entry="player" eye="serious" mouth="serious">
   <portrait_r entry="partner" eye="decided" mouth="serious">
   <sjis>
-    ����Ȃ��Ƃ���܂����<end_line>
-    �������ɂ�����ł��I<end_line>
-    �C�����Ă���������<end_line>
+    そんなことありませんわ<end_line>
+    たしかにいたんです！<end_line>
+    気をつけてくださいね<end_line>
   </sjis>
   <ascii>
     That's not true,<end_line>

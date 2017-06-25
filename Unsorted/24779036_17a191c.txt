@@ -1,12 +1,12 @@
 <location>
 	<sjis>
-		ƒ}[ƒlƒCƒ‹hê@‰w<end_line>
+		ãƒžãƒ¼ãƒã‚¤ãƒ«å®¿å ´ã€€é§…<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		ŠO‚Í‰½‚¾‚©‘›‚ª‚µ‚¢‚Ý‚½‚¢‚¾‚Ë<end_line>
+		å¤–ã¯ä½•ã ã‹é¨’ãŒã—ã„ã¿ãŸã„ã ã­<end_line>
 	</sjis>
 </dialogue>

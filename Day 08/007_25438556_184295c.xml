@@ -3,7 +3,7 @@
   <portrait_l entry="player" eye="serious" mouth="serious">
   <portrait_r entry="bostaph" eye="decided" mouth="neutral">
   <sjis>
-    <three_dots>�Ƃ������ƂȂ�ł�����<end_line>
+    <three_dots>ということなんですけど<end_line>
   </sjis>
   <ascii>
     <three_dots>is where we're at right now.<end_line>
@@ -25,7 +25,7 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <portrait_r entry="bostaph" eye="decided" mouth="neutral">
   <sjis>
-    ��<three_dots><end_line>
+    う<three_dots><end_line>
   </sjis>
   <ascii>
     <three_dots><end_line>
@@ -35,9 +35,9 @@
   <info box="simple">
   <portrait_r name="velworen">
   <sjis>
-    �{���ɂ��̃S���@���̖��΂�<three_dots><end_line>
-    �ƂĂ��Ȃ��������͂�<end_line>
-    ��߂��Ă��邩������Ȃ��Ȃ��<three_dots><end_line>
+    本当にこのゴヴァンの魔石に<three_dots><end_line>
+    とてつもなくすごい力が<end_line>
+    秘められているかもしれないなんて<three_dots><end_line>
   </sjis>
   <ascii>
     To think that in this Demon Stone<three_dots><end_line>
@@ -49,9 +49,9 @@
   <info box="right">
   <portrait_r entry="velworen" eye="decided" mouth="serious">
   <sjis>
-    �܂������̃~�V���[�X����<end_line>
-    ����ȃX�S�C���m��<end_line>
-    ��������Ă����Ȃ��<three_dots>�I<end_line>
+    まさかあのミシュース村に<end_line>
+    こんなスゴイモノが<end_line>
+    かくされていたなんて<three_dots>！<end_line>
   </sjis>
   <ascii>
     And something like this was hidden<end_line>
@@ -63,8 +63,8 @@
   <portrait_l entry="jade" eye="serious" mouth="neutral">
   <portrait_r entry="velworen" eye="decided" mouth="serious">
   <sjis>
-    ���̔h���͂��̑��̂���<end_line>
-    �O����m���Ă���X���H<end_line>
+    金の派閥はその村のこと<end_line>
+    前から知ってたんスか？<end_line>
   </sjis>
   <ascii>
     Was the Gold Council aware<end_line>
@@ -76,9 +76,9 @@
   <portrait_l entry="jade" eye="serious" mouth="neutral">
   <portrait_r entry="lanna" eye="serious" mouth="serious">
   <sjis>
-    ���̒�������ꂽ���A���̕ӂ��<end_line>
-    �����Ԃ񒲍�����Ă��܂�����<end_line>
-    ���̎��Ɍ����Ă͂��܂�<end_line>
+    この町が造られた頃、この辺りは<end_line>
+    ずいぶん調査されていますから<end_line>
+    その時に見つけてはいます<end_line>
   </sjis>
   <ascii>
     When this town was founded,<end_line>
@@ -91,9 +91,9 @@
   <portrait_l entry="jade" eye="serious" mouth="neutral">
   <portrait_r entry="lanna" eye="serious" mouth="tense">
   <sjis>
-    �������A���܂艿�l�̂Ȃ�������<end_line>
-    �v���Ă����̂�<end_line>
-    �قƂ�ǌ𗬂͂���܂����<end_line>
+    しかし、あまり価値のない村だと<end_line>
+    思われていたので<end_line>
+    ほとんど交流はありませんね<end_line>
   </sjis>
   <ascii>
     However, it was believed to not<end_line>
@@ -106,8 +106,8 @@
   <portrait_l entry="murno" eye="serious" mouth="serious">
   <portrait_r entry="velworen" eye="serious" mouth="neutral">
   <sjis>
-    �l�͂��̒��ɔh�����ꂽ�Ƃ���<end_line>
-    �A�C�T�c�ɍs�����ꂽ��<end_line>
+    僕はこの町に派遣されたときに<end_line>
+    アイサツに行かされたんだ<end_line>
   </sjis>
   <ascii>
     I was dispatched to this town and<end_line>
@@ -119,9 +119,9 @@
   <portrait_l entry="murno" eye="serious" mouth="serious">
   <portrait_r entry="velworen" eye="serious" mouth="serious">
   <sjis>
-    ���̎��A�ʔ������Ȉ�Ղ�<end_line>
-    ���������<end_line>
-    ���x�������͂��񂾂񂾂���<end_line>
+    その時、面白そうな遺跡を<end_line>
+    見つけたんで<end_line>
+    何度か足をはこんだんだけど<end_line>
   </sjis>
   <ascii>
     When I did, I found some<end_line>
@@ -134,9 +134,9 @@
   <portrait_l entry="murno" eye="serious" mouth="serious">
   <portrait_r entry="velworen" eye="serious" mouth="tense">
   <sjis>
-    ���u���񂽂������񂶂����<end_line>
-    ���̂��킬�������Ă���<end_line>
-    ����Ă��炦�Ȃ��Ȃ��������<three_dots><end_line>
+    ロブさんたちが死んじゃった<end_line>
+    あのさわぎがあってから<end_line>
+    入れてもらえなくなっちゃって<three_dots><end_line>
   </sjis>
   <ascii>
     after the death of Mr. Rob,<end_line>
@@ -148,9 +148,9 @@
   <portrait_l entry="murno" eye="serious" mouth="serious">
   <portrait_r entry="lanna" eye="decided" mouth="serious">
   <sjis>
-    �Ƃɂ����A���̖��΂����Ȃ��̑���<end_line>
-    �߂��΂͂��ꏢ���b�͂��ƂȂ����Ȃ�<three_dots><end_line>
-    �ƌ����̂ł���<end_line>
+    とにかく、この魔石をあなたの村に<end_line>
+    戻せばはぐれ召喚獣はおとなしくなる<three_dots><end_line>
+    と言うのですね<end_line>
   </sjis>
   <ascii>
     If we were to return the Demon Stone<end_line>
@@ -164,8 +164,8 @@
   <portrait_l entry="jade" eye="decided" mouth="neutral">
   <portrait_r entry="lanna" eye="decided" mouth="serious">
   <sjis>
-    �ł��A�j�X�����̈ꖡ��<end_line>
-    ������_���Ă���ă��P��<end_line>
+    でもアニスたちの一味が<end_line>
+    そいつを狙ってるってワケだ<end_line>
   </sjis>
   <ascii>
     But Anise's gang is after it.<end_line>
@@ -176,9 +176,9 @@
   <portrait_l entry="velworen" eye="sad" mouth="serious">
   <portrait_r entry="bostaph" eye="serious" mouth="neutral">
   <sjis>
-    �܂����A���̐l������<end_line>
-    ����Ȉ����l�����������Ȃ��<three_dots><end_line>
-    �ǂ����܂����A�{�X�^�t����H<end_line>
+    まさか、あの人たちが<end_line>
+    そんな悪い人たちだったなんて<three_dots><end_line>
+    どうしますか、ボスタフさん？<end_line>
   </sjis>
   <ascii>
     Who would have thought they<end_line>
@@ -191,8 +191,8 @@
   <portrait_l entry="velworen" eye="sad" mouth="serious">
   <portrait_r entry="bostaph" eye="serious" mouth="tense">
   <sjis>
-    �ǂ�����A�ł���<three_dots>�H<end_line>
-    �ʂɂǂ������܂���<end_line>
+    どうする、ですか<three_dots>？<end_line>
+    別にどうもしません<end_line>
   </sjis>
   <ascii>
     What to do<three_dots>?<end_line>
@@ -204,7 +204,7 @@
   <portrait_l entry="vee" eye="decided" mouth="tense">
   <portrait_r entry="bostaph" eye="serious" mouth="tense">
   <sjis>
-    ������ƁA�A���^<three_dots>�I�H<end_line>
+    ちょっと、アンタ<three_dots>！？<end_line>
   </sjis>
   <ascii>
     Wait, you<three_dots>!?<end_line>
@@ -215,9 +215,9 @@
   <portrait_l entry="vee" eye="decided" mouth="tense">
   <portrait_r entry="bostaph" eye="decided" mouth="neutral">
   <sjis>
-    �ޏ������Ƃ͌_������킵�Ă����<end_line>
-    �m����؋����Ȃ��̂�<end_line>
-    �����������ƂȂǂ͂ł���<end_line>
+    彼女たちとは契約をかわしているんだ<end_line>
+    確たる証拠もないのに<end_line>
+    うたがうことなどはできん<end_line>
   </sjis>
   <ascii>
     We are under contract.<end_line>
@@ -230,9 +230,9 @@
   <portrait_l entry="vee" eye="decided" mouth="serious">
   <portrait_r entry="bostaph" eye="decided" mouth="neutral">
   <sjis>
-    �E�`�̑厖�Ȓ�q������<end_line>
-    ����o�����A���Ȃ񂾂�<end_line>
-    ����ȃ��c������΂����Ă���̂���<end_line>
+    ウチの大事な弟子たちに<end_line>
+    手を出した連中なんだよ<end_line>
+    そんなヤツらをかばい立てするのかい<end_line>
   </sjis>
   <ascii>
     They roughed up my<end_line>
@@ -246,8 +246,8 @@
   <portrait_l entry="vee" eye="decided" mouth="serious">
   <portrait_r entry="bostaph" eye="serious" mouth="tense">
   <sjis>
-    ���c�炪�͂��ꏢ���b��<end_line>
-    ������������̂ł���΁A��<end_line>
+    ヤツらがはぐれ召喚獣を<end_line>
+    たおし続けるのであれば、な<end_line>
   </sjis>
   <ascii>
     As long as they continue<end_line>
@@ -260,7 +260,7 @@
   <portrait_l entry="partner" eye="decided" mouth="serious">
   <portrait_r entry="bostaph" eye="serious" mouth="tense">
   <sjis>
-    �V�J�V�@�ޏ��^�`�n<three_dots><end_line>
+    シカシ　彼女タチハ<three_dots><end_line>
   </sjis>
   <ascii>
     But They<three_dots><end_line>
@@ -272,8 +272,8 @@
   <portrait_l entry="partner" eye="decided" mouth="serious">
   <portrait_r entry="bostaph" eye="serious" mouth="tense">
   <sjis>
-    �Ȃ񂶂�ƁI<end_line>
-    ������<three_dots><end_line>
+    なんじゃと！<end_line>
+    あやつらは<three_dots><end_line>
   </sjis>
   <ascii>
     How could you!<end_line>
@@ -286,8 +286,8 @@
   <portrait_l entry="partner" eye="decided" mouth="serious">
   <portrait_r entry="bostaph" eye="serious" mouth="tense">
   <sjis>
-    �Q�ڂ������Ƃ�������<end_line>
-    �A�C�c���<three_dots><end_line>
+    寝ぼけたことを言うな<end_line>
+    アイツらは<three_dots><end_line>
   </sjis>
   <ascii>
     Don't be ridiculous.<end_line>
@@ -300,8 +300,8 @@
   <portrait_l entry="partner" eye="decided" mouth="serious">
   <portrait_r entry="bostaph" eye="serious" mouth="tense">
   <sjis>
-    �ŁA�ł�<three_dots><end_line>
-    ���̐l�����́A�{����<three_dots><end_line>
+    で、でも<three_dots><end_line>
+    あの人たちは、本当に<three_dots><end_line>
   </sjis>
   <ascii>
     B-but<three_dots><end_line>
@@ -313,7 +313,7 @@
   <portrait_l entry="partner" eye="decided" mouth="serious">
   <portrait_r entry="bostaph" eye="decided" mouth="yell">
   <sjis>
-    ���܂�I<end_line>
+    だまれ！<end_line>
   </sjis>
   <ascii>
     Silence!<end_line>
@@ -324,8 +324,8 @@
   <portrait_l entry="partner" eye="surprised" mouth="serious">
   <portrait_r entry="bostaph" eye="decided" mouth="serious">
   <sjis>
-    �����b�̂�����<end_line>
-    �����͂��ނȁI<end_line>
+    召喚獣のくせに<end_line>
+    口をはさむな！<end_line>
   </sjis>
   <ascii>
     How dare a mere Summon Beast<end_line>
@@ -337,19 +337,19 @@
   <portrait_l entry="partner" eye="decided" mouth="serious">
   <portrait_r entry="bostaph" eye="decided" mouth="serious">
   <sjis>
-    <three_dots>�I<end_line>
+    <three_dots>！<end_line>
   </sjis>
   <ascii>
-    <three_dots>�I<end_line>
+    <three_dots>！<end_line>
   </ascii>
 </dialogue>
 <dialogue>
   <info box="right">
   <portrait_r entry="lanna" eye="serious" mouth="tense">
   <sjis>
-    ��������<end_line>
-    �{�X�^�t����̌������Ƃ�<end_line>
-    �����Ƃ��ł���<end_line>
+    たしかに<end_line>
+    ボスタフさんの言うことも<end_line>
+    もっともですね<end_line>
   </sjis>
   <ascii>
     What Bostaph says is correct.<end_line>
@@ -359,8 +359,8 @@
   <info box="right">
   <portrait_r entry="lanna" eye="decided" mouth="serious">
   <sjis>
-    �q�������̈ӌ�������<end_line>
-    ���߂��郏�P�ɂ͂����܂���<end_line>
+    子供たちの意見だけで<end_line>
+    決めつけるワケにはいきません<end_line>
   </sjis>
   <ascii>
     We cannot make a decision based<end_line>
@@ -372,7 +372,7 @@
   <portrait_l entry="player" eye="decided" mouth="tense">
   <portrait_r entry="lanna" eye="decided" mouth="serious">
   <sjis>
-    �����<three_dots>�I<end_line>
+    そんな<three_dots>！<end_line>
   </sjis>
   <ascii>
     But<three_dots>!<end_line>
@@ -383,9 +383,9 @@
   <portrait_l entry="player" eye="decided" mouth="tense">
   <portrait_r entry="lanna" eye="serious" mouth="serious">
   <sjis>
-    �\���󂠂�܂���<end_line>
-    ���������ޏ������̏���<end_line>
-    �W�߂Ă�������<end_line>
+    申し訳ありませんが<end_line>
+    もう少し彼女たちの情報を<end_line>
+    集めてください<end_line>
   </sjis>
   <ascii>
     I'm sorry, but I must ask you<end_line>
@@ -396,9 +396,9 @@
   <info box="right">
   <portrait_r entry="bostaph" eye="decided" mouth="serious">
   <sjis>
-    �������I����<end_line>
-    �_�񑊎�𗠐؂�悤�Ȃ��Ƃ�<end_line>
-    ���݂����Ƃ͂ł���<end_line>
+    悪いがオレは<end_line>
+    契約相手を裏切るようなことに<end_line>
+    手を貸すことはできん<end_line>
   </sjis>
   <ascii>
     I will not assist you in betraying<end_line>
@@ -409,7 +409,7 @@
   <info box="right">
   <portrait_r entry="bostaph" eye="decided" mouth="neutral">
   <sjis>
-    ���炷��<end_line>
+    失礼する<end_line>
   </sjis>
   <ascii>
     Excuse me.<end_line>
@@ -419,7 +419,7 @@
   <info box="right">
   <portrait_r entry="vee" eye="decided" mouth="tense">
   <sjis>
-    ������Ƒ҂���<three_dots>�I<end_line>
+    ちょっと待ちな<three_dots>！<end_line>
   </sjis>
   <ascii>
     Hold it<three_dots>!<end_line>
@@ -430,9 +430,9 @@
   <portrait_l entry="jade" eye="decided" mouth="neutral">
   <portrait_r entry="vee" eye="decided" mouth="tense">
   <sjis>
-    ��߂Ƃ��A�˂�����I<end_line>
-    �����������̃{�X�^�t����ɂ�<end_line>
-    �����ʂ��Ȃ�<end_line>
+    やめとけ、ねえさん！<end_line>
+    ああいう時のボスタフさんには<end_line>
+    何も通じない<end_line>
   </sjis>
   <ascii>
     Stop it, V.E!<end_line>
@@ -445,9 +445,9 @@
   <portrait_l entry="jade" eye="decided" mouth="neutral">
   <portrait_r entry="vee" eye="decided" mouth="serious">
   <sjis>
-    <three_dots>�����I<end_line>
-    �������ˁA����҂�ɓ����Ă�<end_line>
-    �ڗ�����������<three_dots><end_line>
+    <three_dots>くっ！<end_line>
+    そうだね、大っぴらに動いても<end_line>
+    目立つだけだしね<three_dots><end_line>
   </sjis>
   <ascii>
     <three_dots>tch!<end_line>
@@ -460,9 +460,9 @@
   <portrait_l entry="jade" eye="decided" mouth="talk">
   <portrait_r entry="vee" eye="decided" mouth="serious">
   <sjis>
-    ��������<end_line>
-    �܂��̓I������������<end_line>
-    �Ȃ�Ƃ����ׂĂ݂悤<end_line>
+    そうだぜ<end_line>
+    まずはオレたちだけで<end_line>
+    なんとか調べてみよう<end_line>
   </sjis>
   <ascii>
     Yeah.<end_line>
@@ -475,9 +475,9 @@
   <portrait_l entry="jade" eye="decided" mouth="talk">
   <portrait_r entry="lanna" eye="decided" mouth="neutral">
   <sjis>
-    ���Ȃ��͎��x�c�̎d����������Ă���<end_line>
-    �Y��Ȃ������ǂ��Ǝv���܂���<end_line>
-    �͂���̔�Q�������Ă��ł���<end_line>
+    あなたは自警団の仕事があるってこと<end_line>
+    忘れない方が良いと思いますよ<end_line>
+    はぐれの被害も増えてるんですし<end_line>
   </sjis>
   <ascii>
     You should not forget about<end_line>
@@ -492,9 +492,9 @@
   <portrait_l entry="jade" eye="decided" mouth="neutral">
   <portrait_r entry="lanna" eye="decided" mouth="neutral">
   <sjis>
-    �C�^�C�Ƃ�������܂���<end_line>
-    ���v���X��<end_line>
-    �킩���Ă܂�����<end_line>
+    イタイところをつきますね<end_line>
+    大丈夫っスよ<end_line>
+    わかってますから<end_line>
   </sjis>
   <ascii>
     You sure hit where it hurts.<end_line>
@@ -505,9 +505,9 @@
   <info box="left">
   <portrait_l entry="murno" eye="sad" mouth="tense">
   <sjis>
-    ����<three_dots><end_line>
-    ���������ł����H<end_line>
-    ���΂�<three_dots><end_line>
+    あの<three_dots><end_line>
+    もういいですか？<end_line>
+    魔石を<three_dots><end_line>
   </sjis>
   <ascii>
     Um<three_dots><end_line>
@@ -520,7 +520,7 @@
   <portrait_l entry="murno" eye="sad" mouth="tense">
   <portrait_r entry="velworen" eye="surprised" mouth="stressed">
   <sjis>
-    ���A���߂񂲂߂�<end_line>
+    あ、ごめんごめん<end_line>
   </sjis>
   <ascii>
     Ah, sorry, sorry.<end_line>
@@ -528,7 +528,7 @@
 </dialogue>
 <popup>
   <sjis>
-    �S���@���̖��΂��~���[�m�ɖ߂���<end_line>
+    ゴヴァンの魔石がミューノに戻った<end_line>
   </sjis>
   <ascii>
     Govan's Demon Stone was<end_line>
@@ -540,9 +540,9 @@
   <portrait_l entry="velworen" eye="serious" mouth="neutral">
   <portrait_r entry="lanna" eye="surprised" mouth="yell">
   <sjis>
-    ������ƁI<end_line>
-    �Ȃ�ŕԂ����Ⴄ��ł��I<end_line>
-    ������ł����������ׂ�����<three_dots><end_line>
+    ちょっと！<end_line>
+    なんで返しちゃうんです！<end_line>
+    こちらでもう少し調べた方が<three_dots><end_line>
   </sjis>
   <ascii>
     Wait!<end_line>
@@ -555,8 +555,8 @@
   <portrait_l entry="velworen" eye="sad" mouth="serious">
   <portrait_r entry="lanna" eye="surprised" mouth="yell">
   <sjis>
-    �ł��A����Ȃ̂������Ă�����<end_line>
-    �l����_��ꂿ�Ⴄ��<three_dots><end_line>
+    でも、こんなのを持っていたら<end_line>
+    僕らも狙われちゃうよ<three_dots><end_line>
   </sjis>
   <ascii>
     If we were to hold on to it,<end_line>
@@ -568,9 +568,9 @@
   <portrait_l entry="velworen" eye="sad" mouth="serious">
   <portrait_r entry="lanna" eye="sad" mouth="tense">
   <sjis>
-    ��<three_dots><end_line>
-    ���A�����ł���<three_dots><end_line>
-    ���������ł�<end_line>
+    あ<three_dots><end_line>
+    そ、そうですか<three_dots><end_line>
+    もういいです<end_line>
   </sjis>
   <ascii>
     Ah<three_dots><end_line>
@@ -583,9 +583,9 @@
   <portrait_l entry="murno" eye="decided" mouth="tense">
   <portrait_r entry="lanna" eye="decided" mouth="serious">
   <sjis>
-    �ł��A�����ł����~���[�m����<end_line>
-    �A�j�X���񂽂��̑f����<end_line>
-    �n�b�L���Ƃ���܂�<three_dots><end_line>
+    でも、いいですかミューノさん<end_line>
+    アニスさんたちの素性が<end_line>
+    ハッキリとするまで<three_dots><end_line>
   </sjis>
   <ascii>
     Are you sure this is okay, Murno?<end_line>
@@ -598,9 +598,9 @@
   <portrait_l entry="murno" eye="decided" mouth="tense">
   <portrait_r entry="lanna" eye="decided" mouth="tense">
   <sjis>
-    ���Ȃ����͂��ꏢ���b�𑀂��Ă�������<end_line>
-    ����Ȃ��Ƃ����^����<end_line>
-    ���S�ɐ��ꂽ���P�ł͂���܂���<end_line>
+    あなたがはぐれ召喚獣を操っていたかも<end_line>
+    しれないという疑いも<end_line>
+    完全に晴れたワケではありません<end_line>
   </sjis>
   <ascii>
     People will continue to believe<end_line>
@@ -624,9 +624,9 @@
   <portrait_l entry="murno" eye="sad" mouth="tense">
   <portrait_r entry="lanna" eye="decided" mouth="serious">
   <sjis>
-    �����̐����̂��Ƃ�����܂���<end_line>
-    ���Ȃ����S������l�Ȃ��Ƃ͂��܂���<end_line>
-    ���ꂮ������d���Ă�������<end_line>
+    今日の説明のこともありますし<end_line>
+    あなたを拘束する様なことはしませんが<end_line>
+    くれぐれも自重してください<end_line>
   </sjis>
   <ascii>
     And there's what happened today.<end_line>
@@ -639,9 +639,9 @@
   <portrait_l entry="murno" eye="sad" mouth="tense">
   <portrait_r entry="lanna" eye="decided" mouth="neutral">
   <sjis>
-    ���ꂩ��A����̌��Ɍ�����������<end_line>
-    �S���@���̖��΂͉��߂Ē��ׂ�����<end_line>
-    ���炢�܂�����A���̂����<three_dots><end_line>
+    それから、今回の件に決着がついたら<end_line>
+    ゴヴァンの魔石は改めて調べさせて<end_line>
+    もらいますから、そのつもりで<three_dots><end_line>
   </sjis>
   <ascii>
     And once this incident is over,<end_line>
@@ -655,7 +655,7 @@
   <portrait_l entry="murno" eye="sad" mouth="serious">
   <portrait_r entry="lanna" eye="decided" mouth="neutral">
   <sjis>
-    �͂�<three_dots><end_line>
+    はい<three_dots><end_line>
   </sjis>
   <ascii>
     Yes<three_dots><end_line>
@@ -666,7 +666,7 @@
   <portrait_l entry="murno" eye="sad" mouth="serious">
   <portrait_r entry="lanna" eye="serious" mouth="neutral">
   <sjis>
-    �ł́A�{���͂���܂łɂ��܂�<end_line>
+    では、本日はこれまでにします<end_line>
   </sjis>
   <ascii>
     Now then, let's stop here for today.<end_line>

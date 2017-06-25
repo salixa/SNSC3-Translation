@@ -2,8 +2,8 @@
 	<info box="right">
 	<portrait_r entry="vee" eye="decided" mouth="tense">
 	<sjis>
-		�������͂ǂ��������H<end_line>
-		�~���[�m�͂��������H<end_line>
+		そっちはどうだった？<end_line>
+		ミューノはいたかい？<end_line>
 	</sjis>
   <ascii>
     Find anything?<end_line>
@@ -14,9 +14,9 @@
 	<portrait_l entry="jade" eye="decided" mouth="tense">
 	<portrait_r entry="vee" eye="decided" mouth="tense">
 	<sjis>
-		����A�E�F���}����������Ȃ�<end_line>
-		����ύH�[�̒��ɂ�<end_line>
-		���Ȃ��݂�����<three_dots><end_line>
+		いや、ウェルマンさんもいない<end_line>
+		やっぱ工房の中には<end_line>
+		いないみたいだ<three_dots><end_line>
 	</sjis>
   <ascii>
     No, nothing at all.<end_line>
@@ -29,16 +29,16 @@
 	<portrait_r entry="player" eye="decided" mouth="tense">
 	<male>
 		<sjis>
-			<three_dots>���Ă��Ƃ�<end_line>
-			�ӂ���ŏo���������Ă��Ƃ��H<end_line>
-			�h�R�ցH<end_line>
+			<three_dots>ってことは<end_line>
+			ふたりで出かけたってことか？<end_line>
+			ドコへ？<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			<three_dots>���Ă��Ƃ�<end_line>
-			�ӂ���ŏo���������Ă��ƁH<end_line>
-			�h�R�ցH<end_line>
+			<three_dots>ってことは<end_line>
+			ふたりで出かけたってこと？<end_line>
+			ドコへ？<end_line>
 		</sjis>
 	</female>
   <ascii>
@@ -52,9 +52,9 @@
 	<portrait_l entry="tier" eye="serious" mouth="tense">
 	<portrait_r entry="player" eye="decided" mouth="tense">
 	<sjis>
-		����������<end_line>
-		��������Ƃӂ����<end_line>
-		�A�����񂶂�Ȃ��́H<end_line>
+		もしかして<end_line>
+		お父さんとふたりで<end_line>
+		帰ったんじゃないの？<end_line>
 	</sjis>
   <ascii>
     Could it be that Murno<end_line>
@@ -67,9 +67,9 @@
 	<portrait_l entry="tier" eye="serious" mouth="tense">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<sjis>
-		�\�m�\���n�@�L�����e��C�g<end_line>
-		�v�����}�X<end_line>
-		�����@�T�K�V�}�X<end_line>
+		ソノ可能性ハ　キワメテ低イト<end_line>
+		思ワレマス<end_line>
+		私モ　サガシマス<end_line>
 	</sjis>
   <ascii>
     The Possibility Of That<end_line>
@@ -83,9 +83,9 @@
 	<portrait_l entry="tier" eye="serious" mouth="tense">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<sjis>
-		���K�n�C�ɖق��ċA��Ȃ�<end_line>
-		����킯�Ȃ��ł͂Ȃ����I<end_line>
-		���K�n�C�����������I<end_line>
+		ワガハイに黙って帰るなど<end_line>
+		あるわけないではないか！<end_line>
+		ワガハイもさがすぞ！<end_line>
 	</sjis>
   <ascii>
     Murno would not do that<end_line>
@@ -99,9 +99,9 @@
 	<portrait_l entry="tier" eye="serious" mouth="tense">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<sjis>
-		�ӂ������<end_line>
-		�����炪�ق��ċA��Ȃ�<end_line>
-		����n�Y���Ȃ�<end_line>
+		ふざけるな<end_line>
+		あいつらが黙って帰るなど<end_line>
+		あるハズがない<end_line>
 	</sjis>
   <ascii>
     No way.<end_line>
@@ -115,9 +115,9 @@
 	<portrait_l entry="tier" eye="serious" mouth="tense">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<sjis>
-		���ɖق��Ă��Ȃ��<end_line>
-		��΂ɂ���܂����<end_line>
-		�����������Ă݂܂��I<end_line>
+		私に黙ってだなんて<end_line>
+		絶対にありませんわ<end_line>
+		私もさがしてみます！<end_line>
 	</sjis>
   <ascii>
     In that case, I'm sure she<end_line>
@@ -131,14 +131,14 @@
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
 		<sjis>
-			��������<end_line>
-			�����������̕ӂ���������Ă݂悤<end_line>
+			そうだな<end_line>
+			もう少しこの辺りもさがしてみよう<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			��������<end_line>
-			�����������̕ӂ���������Ă݂悤<end_line>
+			そうだね<end_line>
+			もう少しこの辺りもさがしてみよう<end_line>
 		</sjis>
 	</female>
   <ascii>
@@ -150,8 +150,8 @@
 	<info box="right">
 	<portrait_r entry="vee" eye="decided" mouth="neutral">
 	<sjis>
-		�񂶂�A�݂�ȂŎ蕪������<end_line>
-		�������Ƃ��邩��<end_line>
+		んじゃ、みんなで手分けして<end_line>
+		さがすとするかね<end_line>
 	</sjis>
   <ascii>
     Alright, then we'll split up.<end_line>

@@ -1,48 +1,48 @@
 <location>
 	<sjis>
-		�قق��ݒ��@�P�K<end_line>
+		ほほえみ亭　１階<end_line>
 	</sjis>
 </location>
 <location>
 	<sjis>
-		�قق��ݒ��@�P�K<end_line>
+		ほほえみ亭　１階<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="roche">
 	<sjis>
-		���ꂩ����e�B�G��<end_line>
-		�Ȃ��悭���Ă����Ă�<end_line>
+		これからもティエと<end_line>
+		なかよくしてあげてね<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		���������͉����̔閧<hearth><end_line>
-		��������֎~�I�I<end_line>
-		�@�@�@�@�@�@�@�@�@�@�@�e�B�G<end_line>
-	</sjis>
-</dialogue>
-<dialogue>
-	<info box="simple">
-	<portrait_l name="woman">
-	<sjis>
-		�n���}�[����<end_line>
-		���퉮�ɂ������ĂȂ��̂�<end_line>
+		ここから先は乙女の秘密<hearth><end_line>
+		立ち入り禁止！！<end_line>
+		　　　　　　　　　　　ティエ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		����D���̂������ł�<end_line>
-		����̓i�]�Ȃ̂�ˁ`<end_line>
+		ハンマーって<end_line>
+		武器屋にも売ってないのよ<end_line>
+	</sjis>
+</dialogue>
+<dialogue>
+	<info box="simple">
+	<portrait_l name="woman">
+	<sjis>
+		武器好きのあたしでも<end_line>
+		あれはナゾなのよね～<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		�S���S��<three_dots><end_line>
+		ゴロゴロ<three_dots><end_line>
 	</sjis>
 </dialogue>

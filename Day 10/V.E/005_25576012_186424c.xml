@@ -3,7 +3,7 @@
   <portrait_l entry="player" eye="surprised" mouth="stressed">
   <portrait_r entry="vee" eye="surprised" mouth="stressed">
   <sjis>
-    ��<three_dots><end_line>
+    あ<three_dots><end_line>
   </sjis>
   <ascii>
     Ah<three_dots><end_line>
@@ -15,16 +15,16 @@
   <portrait_r entry="vee" eye="surprised" mouth="stressed">
   <male>
     <sjis>
-      ����<three_dots><end_line>
-      ���߂�A�e��<three_dots><end_line>
-      �I���A�܂����킵�������<three_dots><end_line>
+      うわ<three_dots><end_line>
+      ごめん、親方<three_dots><end_line>
+      オレ、またこわしちゃって<three_dots><end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ����<three_dots><end_line>
-      ���߂�A�e��<three_dots><end_line>
-      �킽���A�܂����킵�������<three_dots><end_line>
+      うわ<three_dots><end_line>
+      ごめん、親方<three_dots><end_line>
+      わたし、またこわしちゃって<three_dots><end_line>
     </sjis>
   </female>
   <ascii>
@@ -49,9 +49,9 @@
   <portrait_l entry="player" eye="sad" mouth="stressed">
   <portrait_r entry="vee" eye="decided" mouth="serious">
   <sjis>
-    ��<three_dots>�I<end_line>
-    ����<three_dots><three_dots>�I�I<end_line>
-    ����<three_dots><three_dots><three_dots>�I�I�I<end_line>
+    う<three_dots>！<end_line>
+    あの<three_dots><three_dots>！！<end_line>
+    その<three_dots><three_dots><three_dots>！！！<end_line>
   </sjis>
   <ascii>
     Uu<three_dots>!<end_line>
@@ -64,7 +64,7 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="vee" eye="happy_blush" mouth="talk">
   <sjis>
-    �{���ɃE�f���グ����<end_line>
+    本当にウデを上げたね<end_line>
     <player_nickname><three_dots><end_line>
   </sjis>
   <ascii>
@@ -77,9 +77,9 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="vee" eye="decided" mouth="neutral">
   <sjis>
-    ���u�ƍ�������̕����g���Ă�<end_line>
-    �A�^�V������������<end_line>
-    �A���^�A�債�����񂾂�I<end_line>
+    ロブと作ったこの斧を使ってる<end_line>
+    アタシをたおしたんだ<end_line>
+    アンタ、大したもんだよ！<end_line>
   </sjis>
   <ascii>
     You defeated me, even though I'm<end_line>
@@ -93,16 +93,16 @@
   <portrait_r entry="vee" eye="serious" mouth="neutral">
   <male>
     <sjis>
-      �����<three_dots><end_line>
-      �I��<three_dots><end_line>
-      ��������<three_dots>�I<end_line>
+      やった<three_dots><end_line>
+      オレ<three_dots><end_line>
+      勝ったんだ<three_dots>！<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �����<three_dots><end_line>
-      �킽��<three_dots><end_line>
-      ��������<three_dots>�I<end_line>
+      やった<three_dots><end_line>
+      わたし<three_dots><end_line>
+      勝ったんだ<three_dots>！<end_line>
     </sjis>
   </female>
   <ascii>
@@ -116,7 +116,7 @@
   <portrait_l entry="player" eye="serious" mouth="neutral">
   <portrait_r entry="vee" eye="happy_blush" mouth="talk">
   <sjis>
-    �{���ɃE�f���グ����<end_line>
+    本当にウデを上げたね<end_line>
     <player_nickname><three_dots><end_line>
   </sjis>
   <ascii>
@@ -129,9 +129,9 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="vee" eye="decided" mouth="neutral">
   <sjis>
-    ���u�ƍ�������̕����g���Ă�<end_line>
-    �A�^�V������������<end_line>
-    �A���^�A�債�����񂾂�I<end_line>
+    ロブと作ったこの斧を使ってる<end_line>
+    アタシをたおしたんだ<end_line>
+    アンタ、大したもんだよ！<end_line>
   </sjis>
   <ascii>
     You defeated me, even though I'm<end_line>
@@ -144,9 +144,9 @@
   <portrait_l entry="player" eye="surprised" mouth="neutral">
   <portrait_r entry="vee" eye="decided" mouth="neutral">
   <sjis>
-    ��<three_dots><end_line>
-    �e��<three_dots><end_line>
-    ���肪�Ƃ��I<end_line>
+    あ<three_dots><end_line>
+    親方<three_dots><end_line>
+    ありがとう！<end_line>
   </sjis>
   <ascii>
     Ah<three_dots><end_line>
@@ -159,9 +159,9 @@
   <portrait_l entry="player" eye="surprised" mouth="neutral">
   <portrait_r entry="vee" eye="serious" mouth="neutral">
   <sjis>
-    ���ꂾ���̃E�f�������<end_line>
-    <partner>�����Ȃ��Ȃ��Ă�<end_line>
-    �Ƃ肠�����͑��v����<end_line>
+    これだけのウデがあるんだ<end_line>
+    <partner>がいなくなっても<end_line>
+    とりあえずは大丈夫だね<end_line>
   </sjis>
   <ascii>
     If you're this good<end_line>
@@ -174,8 +174,8 @@
   <portrait_l entry="player" eye="sad" mouth="serious">
   <portrait_r entry="vee" eye="serious" mouth="neutral">
   <sjis>
-    ������<three_dots><end_line>
-    <partner>��<three_dots><end_line>
+    そっか<three_dots><end_line>
+    <partner>は<three_dots><end_line>
   </sjis>
   <ascii>
     That's right<three_dots><end_line>
@@ -187,9 +187,9 @@
   <portrait_l entry="player" eye="sad" mouth="serious">
   <portrait_r entry="vee" eye="sad" mouth="neutral">
   <sjis>
-    ����Ȋ炷��񂶂�Ȃ���<end_line>
-    ���̎q���������Ă�����<end_line>
-    �A���^�Ɠ����C�����Ȃ񂾂���<end_line>
+    そんな顔するんじゃないよ<end_line>
+    あの子たちだってきっと<end_line>
+    アンタと同じ気持ちなんだしね<end_line>
   </sjis>
   <ascii>
     Don't make that face.<end_line>
@@ -202,9 +202,9 @@
   <portrait_l entry="player" eye="sad" mouth="serious">
   <portrait_r entry="vee" eye="decided" mouth="neutral">
   <sjis>
-    ����ɃA���^�ɂ�<end_line>
-    �A�^�V�����Ă�񂾂��炳<end_line>
-    �V���L���Ƃ��ȁI<end_line>
+    それにアンタにゃ<end_line>
+    アタシがついてるんだからさ<end_line>
+    シャキっとしな！<end_line>
   </sjis>
   <ascii>
     We have to be there for them.<end_line>
@@ -216,7 +216,7 @@
   <portrait_l entry="player" eye="surprised" mouth="tense">
   <portrait_r entry="vee" eye="decided" mouth="neutral">
   <sjis>
-    �e��<three_dots><end_line>
+    親方<three_dots><end_line>
   </sjis>
   <ascii>
     Master<three_dots><end_line>
@@ -227,7 +227,7 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="vee" eye="decided" mouth="neutral">
   <sjis>
-    �͂��I<end_line>
+    はい！<end_line>
   </sjis>
   <ascii>
     Yes!<end_line>
@@ -238,9 +238,9 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="vee" eye="happy" mouth="talk">
   <sjis>
-    �悵�A���̈ӋC����I<end_line>
-    ��������ăA���^���������Ă��<end_line>
-    �A�^�V������΂�Ȃ���˂�<end_line>
+    よし、その意気だよ！<end_line>
+    こうやってアンタも成長してるんだ<end_line>
+    アタシもがんばんなきゃねぇ<end_line>
   </sjis>
   <ascii>
     Yeah, that's the spirit!<end_line>
@@ -253,9 +253,9 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="vee" eye="decided" mouth="neutral">
   <sjis>
-    ���܂ł����u�Ƃ̎v���o�̕����<end_line>
-    �����݂��Ă���A�Q��ڐe���Ƃ���<end_line>
-    ���u�ɐ\���󂪗����Ȃ�����ˁI<end_line>
+    いつまでもロブとの思い出の武器に<end_line>
+    しがみついてちゃ、２代目親方として<end_line>
+    ロブに申し訳が立たないからね！<end_line>
   </sjis>
   <ascii>
     I can't keep clinging to Rob's weapons.<end_line>
@@ -268,7 +268,7 @@
   <portrait_l entry="player" eye="decided" mouth="tense">
   <portrait_r entry="vee" eye="decided" mouth="neutral">
   <sjis>
-    �Q���<three_dots><end_line>
+    ２代目<three_dots><end_line>
   </sjis>
   <ascii>
     Second master<three_dots><end_line>
@@ -279,9 +279,9 @@
   <portrait_l entry="player" eye="decided" mouth="tense">
   <portrait_r entry="vee" eye="decided" mouth="talk">
   <sjis>
-    �ڕW�̓A���^�Ƃӂ���Ő��ݏo����<end_line>
-    �ō��̒b��ƃ��b�L�����[����<end_line>
-    ���B���o�E�������V�r���������<end_line>
+    目標はアンタとふたりで生み出した<end_line>
+    最高の鍛冶とロッキンロールで<end_line>
+    リィンバウム中をシビレさせるんだ<end_line>
   </sjis>
   <ascii>
     Together, we can make all of Lindbaum<end_line>
@@ -294,9 +294,9 @@
   <portrait_l entry="player" eye="decided" mouth="tense">
   <portrait_r entry="vee" eye="decided" mouth="yell">
   <sjis>
-    ���E�����̎�ɂ��ޓ��܂�<end_line>
-    ���܂܂ňȏ�Ƀr�b�V�r�V��������<end_line>
-    �V�b�J�����Ă��Ȃ�I<end_line>
+    世界をこの手につかむ日まで<end_line>
+    いままで以上にビッシビシいくから<end_line>
+    シッカリついてきなよ！<end_line>
   </sjis>
   <ascii>
     Until I hold the world in these hands,<end_line>
@@ -309,7 +309,7 @@
   <portrait_l entry="player" eye="sad" mouth="stressed">
   <portrait_r entry="vee" eye="decided" mouth="yell">
   <sjis>
-    ���`�I<end_line>
+    え～！<end_line>
   </sjis>
   <ascii>
     Eh~~<end_line>
@@ -320,9 +320,9 @@
   <portrait_l entry="player" eye="sad" mouth="stressed">
   <portrait_r entry="vee" eye="decided" mouth="stressed">
   <sjis>
-    �Ȃ񂾂��I<end_line>
-    �C��������Ȃ��Ƃ��̃P�c<end_line>
-    �����Ƃ΂���I�@�����̂����I�H<end_line>
+    なんだい！<end_line>
+    気合い入れないとそのケツ<end_line>
+    けっとばすよ！　いいのかい！？<end_line>
   </sjis>
   <ascii>
     What is it!?<end_line>
@@ -335,7 +335,7 @@
   <portrait_l entry="player" eye="happy" mouth="yell">
   <portrait_r entry="vee" eye="decided" mouth="stressed">
   <sjis>
-    �C���`�@���I�I�I<end_line>
+    イヤ～ァっ！！！<end_line>
   </sjis>
   <ascii>
     Nooo~!!!<end_line>
@@ -346,8 +346,8 @@
   <portrait_l entry="player" eye="happy" mouth="yell">
   <portrait_r entry="vee" eye="happy_blush" mouth="talk">
   <sjis>
-    �悵���I<end_line>
-    �Ȃ��Ȃ����b�N�ȃV���E�g����I<end_line>
+    よしっ！<end_line>
+    なかなかロックなシャウトだよ！<end_line>
   </sjis>
   <ascii>
     Alright!<end_line>
@@ -359,8 +359,8 @@
   <portrait_l name="vee">
   <male>
     <sjis>
-      ����ł����A�^�V�̌�����<end_line>
-      �j���Ă��񂾁I<end_line>
+      それでこそアタシの見込んだ<end_line>
+      男ってもんだ！<end_line>
     </sjis>
     <ascii>
       That's what makes you the<end_line>
@@ -369,8 +369,8 @@
   </male>
   <female>
     <sjis>
-      ����ł����A�^�V�̌�����<end_line>
-      �����Ă��񂾁I<end_line>
+      それでこそアタシの見込んだ<end_line>
+      女ってもんだ！<end_line>
     </sjis>
     <ascii>
       That's what makes you the<end_line>

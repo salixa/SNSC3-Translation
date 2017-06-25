@@ -1,19 +1,19 @@
 <location>
   <sjis>
-    ���N�C�̐����<end_line>
+    レクイの水遺跡<end_line>
   </sjis>
 </location>
 <location>
   <sjis>
-    ���N�C�̐���Ձ@�G���A�P<end_line>
+    レクイの水遺跡　エリア１<end_line>
   </sjis>
 </location>
 <dialogue>
   <info box="special">
   <sjis>
-    ���ɂ���R��ނ̃X�C�b�`���n���}�[��<end_line>
-    ���邱�ƂŁA���ꂼ��̃X�C�b�`��<end_line>
-    �Ή������v���[�g����������o�����܂�<end_line>
+    床にある３種類のスイッチをハンマーで<end_line>
+    殴ることで、それぞれのスイッチに<end_line>
+    対応したプレートが水中から出現します<end_line>
   </sjis>
   <ascii>
     Activate a switch by hitting it<end_line>

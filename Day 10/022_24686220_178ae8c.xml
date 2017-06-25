@@ -1,21 +1,21 @@
 <location>
 	<sjis>
-		�v���X�o���̒��@���Ƃ`<end_line>
+		プロスバンの町　民家Ａ<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		���̑O�̐Â������ĂƂ��납�����<end_line>
+		嵐の前の静けさってところかしらね<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		�����낤��<three_dots><end_line>
-		�����N����悤�ȋC������<end_line>
-		�Ȃ�Ȃ���<end_line>
+		何だろうな<three_dots><end_line>
+		何か起きるような気がして<end_line>
+		ならないんだ<end_line>
 	</sjis>
 </dialogue>

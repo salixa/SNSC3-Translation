@@ -3,15 +3,15 @@
   <portrait_l entry="player" eye="serious" mouth="talk">
   <male>
     <sjis>
-      ‚¨‘OA–³Ž–‚¾‚Á‚½‚©<three_dots><end_line>
+      ãŠå‰ã€ç„¡äº‹ã ã£ãŸã‹<three_dots><end_line>
     </sjis>
     <ascii>
       You're okay<three_dots><end_line>
   </male>
   <female>
     <sjis>
-      ‚æ‚©‚Á‚½<end_line>
-      –³Ž–‚¾‚Á‚½‚Ì‚Ë<three_dots><end_line>
+      ã‚ˆã‹ã£ãŸ<end_line>
+      ç„¡äº‹ã ã£ãŸã®ã­<three_dots><end_line>
     </sjis>
     <ascii>
       Thank goodness.<end_line>
@@ -23,7 +23,7 @@
   <info box="left">
   <portrait_l entry="player" eye="serious" mouth="tense">
   <sjis>
-    ‚ ‚êAƒAƒJƒoƒl‚ÍH<end_line>
+    ã‚ã‚Œã€ã‚¢ã‚«ãƒãƒã¯ï¼Ÿ<end_line>
   </sjis>
   <ascii>
     Huh, where's Red Wing?<end_line>
@@ -34,8 +34,8 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="lemmy" eye="serious" mouth="tense">
   <sjis>
-    ‚½‚¨‚µ‚½<three_dots><end_line>
-    ‚ÆŽv‚¤<end_line>
+    ãŸãŠã—ãŸ<three_dots><end_line>
+    ã¨æ€ã†<end_line>
   </sjis>
   <ascii>
     I beat it<three_dots><end_line>
@@ -48,14 +48,14 @@
   <portrait_r entry="lemmy" eye="serious" mouth="tense">
   <male>
     <sjis>
-      ‚·‚°‚¥I<end_line>
-      ‚Ð‚Æ‚è‚Å‚©IH<end_line>
+      ã™ã’ã‡ï¼<end_line>
+      ã²ã¨ã‚Šã§ã‹ï¼ï¼Ÿ<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ‚·‚²‚¢I<end_line>
-      ‚Ð‚Æ‚è‚ÅIH<end_line>
+      ã™ã”ã„ï¼<end_line>
+      ã²ã¨ã‚Šã§ï¼ï¼Ÿ<end_line>
     </sjis>
   </female>
   <ascii>
@@ -68,8 +68,8 @@
   <portrait_l entry="player" eye="surprised" mouth="stressed">
   <portrait_r entry="lemmy" eye="surprised" mouth="stressed">
   <sjis>
-    ‚¦IH<end_line>
-    ‚ A‚ ‚ <three_dots><end_line>
+    ãˆï¼ï¼Ÿ<end_line>
+    ã‚ã€ã‚ã‚<three_dots><end_line>
   </sjis>
   <ascii>
     Eh!?<end_line>
@@ -81,7 +81,7 @@
   <info box="right">
   <portrait_r entry="partner" eye="surprised" mouth="yell">
   <sjis>
-    ãƒfƒXI<end_line>
+    ä¸Šãƒ‡ã‚¹ï¼<end_line>
   </sjis>
   <ascii>
     Above!<end_line>
@@ -92,7 +92,7 @@
   <info box="right">
   <portrait_r entry="partner" eye="surprised" mouth="yell">
   <sjis>
-    ã‚¶‚áI<end_line>
+    ä¸Šã˜ã‚ƒï¼<end_line>
   </sjis>
   <ascii>
     Above!<end_line>
@@ -103,7 +103,7 @@
   <info box="right">
   <portrait_r entry="partner" eye="surprised" mouth="yell">
   <sjis>
-    ã‚¾I<end_line>
+    ä¸Šã ï¼<end_line>
   </sjis>
   <ascii>
     Above!<end_line>
@@ -114,7 +114,7 @@
   <info box="right">
   <portrait_r entry="partner" eye="surprised" mouth="yell">
   <sjis>
-    ã‚Å‚·‚íI<end_line>
+    ä¸Šã§ã™ã‚ï¼<end_line>
   </sjis>
   <ascii>
     Above!<end_line>
@@ -124,7 +124,7 @@
   <info box="right">
   <portrait_r entry="lemmy" eye="decided" mouth="serious">
   <sjis>
-    ‚­‚£<three_dots><end_line>
+    ãã…<three_dots><end_line>
   </sjis>
   <ascii>
     Ku<three_dots><end_line>
@@ -136,14 +136,14 @@
   <portrait_r entry="lemmy" eye="decided" mouth="serious">
   <male>
     <sjis>
-      ‚¨‘O<three_dots>I<end_line>
-      ‘åä•v‚©IH<end_line>
+      ãŠå‰<three_dots>ï¼<end_line>
+      å¤§ä¸ˆå¤«ã‹ï¼ï¼Ÿ<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ‚¿‚å‚Á‚Æ<three_dots>I<end_line>
-      ‘åä•vIH<end_line>
+      ã¡ã‚‡ã£ã¨<three_dots>ï¼<end_line>
+      å¤§ä¸ˆå¤«ï¼ï¼Ÿ<end_line>
     </sjis>
   </female>
   <ascii>
@@ -154,7 +154,7 @@
 <bigtext>
   <info box="simple" effect="big">
   <sjis>
-    ƒLƒLƒL[[ƒbII<end_line>
+    ã‚­ã‚­ã‚­ãƒ¼ãƒ¼ãƒƒï¼ï¼<end_line>
   </sjis>
   <ascii>
     Kikikiii!!<end_line>
@@ -165,7 +165,7 @@
   <info box="right">
   <portrait_r entry="partner" eye="decided" mouth="yell">
   <sjis>
-    —ˆƒ}ƒXI<end_line>
+    æ¥ãƒžã‚¹ï¼<end_line>
   </sjis>
   <ascii>
     It's Coming!<end_line>
@@ -176,7 +176,7 @@
   <info box="right">
   <portrait_r entry="partner" eye="decided" mouth="yell">
   <sjis>
-    —ˆ‚é‚¼I<end_line>
+    æ¥ã‚‹ãžï¼<end_line>
   </sjis>
   <ascii>
     It's coming!<end_line>
@@ -187,7 +187,7 @@
   <info box="right">
   <portrait_r entry="partner" eye="decided" mouth="yell">
   <sjis>
-    —ˆ‚éI<end_line>
+    æ¥ã‚‹ï¼<end_line>
   </sjis>
   <ascii>
     It's coming!<end_line>
@@ -198,7 +198,7 @@
   <info box="right">
   <portrait_r entry="partner" eye="decided" mouth="yell">
   <sjis>
-    —ˆ‚Ü‚·‚íI<end_line>
+    æ¥ã¾ã™ã‚ï¼<end_line>
   </sjis>
   <ascii>
     It's coming!<end_line>

@@ -1,19 +1,19 @@
 <location>
   <sjis>
-    ���C�[�Y��<end_line>
+    ルイーズ村<end_line>
   </sjis>
 </location>
 <location>
   <sjis>
-    ���C�[�Y���@�S���O<end_line>
+    ルイーズ村　牢屋前<end_line>
   </sjis>
 </location>
 <dialogue>
   <info box="simple">
   <portrait_l name="gatekeeper">
   <sjis>
-    ���ł��V�тɗ��Ă�������<end_line>
-    ���Ɋ��}�͂ł��܂���<end_line>
+    いつでも遊びに来てください<end_line>
+    特に歓迎はできませんが<end_line>
   </sjis>
   <ascii>
     Please come over whenever you like.<end_line>
@@ -25,8 +25,8 @@
   <info box="simple">
   <portrait_l name="man">
   <sjis>
-    ���̑�����邽�߂ɂ�<end_line>
-    ���͂ȕ��킪�K�v���Ǝv����<end_line>
+    この村を守るためには<end_line>
+    強力な武器が必要だと思うんだ<end_line>
   </sjis>
   <ascii>
     In order to protect this village,<end_line>

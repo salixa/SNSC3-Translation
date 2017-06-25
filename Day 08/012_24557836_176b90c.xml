@@ -1,11 +1,11 @@
 <location>
   <sjis>
-    ƒvƒƒXƒoƒ“‚Ì’¬<end_line>
+    ãƒ—ãƒ­ã‚¹ãƒãƒ³ã®ç”º<end_line>
   </sjis>
 </location>
 <location>
   <sjis>
-    ƒvƒƒXƒoƒ“‚Ì’¬@“ì–åŒö‰€<end_line>
+    ãƒ—ãƒ­ã‚¹ãƒãƒ³ã®ç”ºã€€å—é–€å…¬åœ’<end_line>
   </sjis>
 </location>
 <dialogue>
@@ -13,16 +13,16 @@
   <portrait_l name="player">
   <male>
     <sjis>
-      ‚Ë‚ç‚í‚ê‚Ä‚éƒ~ƒ…[ƒm‚ð‚Â‚ê‚Ä<end_line>
-      ‚ ‚Ü‚èƒEƒƒEƒ‚µ‚È‚¢•û‚ª‚¢‚¢‚È<three_dots><end_line>
-      ‚Æ‚É‚©‚­H–[‚És‚±‚¤<end_line>
+      ã­ã‚‰ã‚ã‚Œã¦ã‚‹ãƒŸãƒ¥ãƒ¼ãƒŽã‚’ã¤ã‚Œã¦<end_line>
+      ã‚ã¾ã‚Šã‚¦ãƒ­ã‚¦ãƒ­ã—ãªã„æ–¹ãŒã„ã„ãª<three_dots><end_line>
+      ã¨ã«ã‹ãå·¥æˆ¿ã«è¡Œã“ã†<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ‚Ë‚ç‚í‚ê‚Ä‚éƒ~ƒ…[ƒm‚ð‚Â‚ê‚Ä<end_line>
-      ‚ ‚Ü‚èƒEƒƒEƒ‚µ‚È‚¢•û‚ª‚¢‚¢‚æ‚Ë<three_dots><end_line>
-      ‚Æ‚É‚©‚­H–[‚És‚±‚¤<end_line>
+      ã­ã‚‰ã‚ã‚Œã¦ã‚‹ãƒŸãƒ¥ãƒ¼ãƒŽã‚’ã¤ã‚Œã¦<end_line>
+      ã‚ã¾ã‚Šã‚¦ãƒ­ã‚¦ãƒ­ã—ãªã„æ–¹ãŒã„ã„ã‚ˆã­<three_dots><end_line>
+      ã¨ã«ã‹ãå·¥æˆ¿ã«è¡Œã“ã†<end_line>
     </sjis>
   </female>
   <ascii>
@@ -35,8 +35,8 @@
   <info box="simple">
   <portrait_l name="gatekeeper">
   <sjis>
-    ‚±‚Ì‚ ‚½‚è‚àÅ‹ß<end_line>
-    ƒuƒbƒ\ƒE‚É‚È‚Á‚Ä‚«‚½‚È‚Ÿ<three_dots><end_line>
+    ã“ã®ã‚ãŸã‚Šã‚‚æœ€è¿‘<end_line>
+    ãƒ–ãƒƒã‚½ã‚¦ã«ãªã£ã¦ããŸãªã<three_dots><end_line>
   </sjis>
   <ascii>
     Recently, this place<end_line>
@@ -47,9 +47,9 @@
   <info box="simple">
   <portrait_l name="man">
   <sjis>
-    ¢Š«b‚Í‚â‚Á‚Ï‚èUŒ‚dŽ‹‚¾‚æ‚È<end_line>
-    ‚½‚¾‚Ð‚½‚·‚çUŒ‚‚Ì‚½‚ß‚É¢Š«‚·‚é<end_line>
-    ‚±‚ê‚ÉŒÀ‚é‚Ë<end_line>
+    å¬å–šç£ã¯ã‚„ã£ã±ã‚Šæ”»æ’ƒé‡è¦–ã ã‚ˆãª<end_line>
+    ãŸã ã²ãŸã™ã‚‰æ”»æ’ƒã®ãŸã‚ã«å¬å–šã™ã‚‹<end_line>
+    ã“ã‚Œã«é™ã‚‹ã­<end_line>
   </sjis>
   <ascii>
     I think offensive strength is<end_line>
@@ -61,7 +61,7 @@
   <info box="simple">
   <portrait_l name="man">
   <sjis>
-    ƒIƒ}ƒG‚àA‚»‚¤Žv‚¤‚¾‚ë<end_line>
+    ã‚ªãƒžã‚¨ã‚‚ã€ãã†æ€ã†ã ã‚<end_line>
   </sjis>
   <ascii>
     Don't you agree?<end_line>
@@ -70,8 +70,8 @@
 <dialogue>
   <info box="simple">
   <sjis>
-    @@@ƒvƒƒXƒoƒ“‚Ì’¬‚Ì‘nÝŽÒ<end_line>
-    @@@—EŽÒƒvƒƒXƒoƒ“‚ÌÎ‘œ<end_line>
+    ã€€ã€€ã€€ãƒ—ãƒ­ã‚¹ãƒãƒ³ã®ç”ºã®å‰µè¨­è€…<end_line>
+    ã€€ã€€ã€€å‹‡è€…ãƒ—ãƒ­ã‚¹ãƒãƒ³ã®çŸ³åƒ<end_line>
   </sjis>
   <ascii>
        Founder of Prosban<end_line>

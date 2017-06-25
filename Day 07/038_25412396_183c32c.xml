@@ -3,8 +3,8 @@
   <portrait_l entry="player" eye="serious" mouth="talk">
   <portrait_r entry="lemmy" eye="serious" mouth="neutral">
   <sjis>
-    �݂��<three_dots>�I<end_line>
-    ���~�B�܂�<three_dots>�I�H<end_line>
+    みんな<three_dots>！<end_line>
+    レミィまで<three_dots>！？<end_line>
   </sjis>
   <ascii>
     Everyone<three_dots>!<end_line>
@@ -16,8 +16,8 @@
   <portrait_l entry="player" eye="serious" mouth="talk">
   <portrait_r entry="lemmy" eye="decided_blush" mouth="tense">
   <sjis>
-    �l�͕ʂɐS�z�Ȃ�Ă��ĂȂ�����<end_line>
-    �����A�U�b�N��<three_dots><end_line>
+    僕は別に心配なんてしてないから<end_line>
+    ただ、ザックに<three_dots><end_line>
   </sjis>
   <ascii>
     I wasn't worried or anything.<end_line>
@@ -29,7 +29,7 @@
   <portrait_l entry="jade" eye="serious" mouth="talk">
   <portrait_r entry="lemmy" eye="decided_blush" mouth="tense">
   <sjis>
-    �܁A�ׂ������Ƃ́A�����Ƃ��Ă�<end_line>
+    ま、細かいことは、おいといてよ<end_line>
   </sjis>
   <ascii>
     Well, never mind the details.<end_line>
@@ -40,7 +40,7 @@
   <portrait_l entry="jade" eye="serious" mouth="talk">
   <portrait_r entry="tier" eye="happy_blush" mouth="neutral">
   <sjis>
-    �{���ɁA�悩������I<end_line>
+    本当に、よかったわ！<end_line>
   </sjis>
   <ascii>
     This is really great!<end_line>
@@ -51,8 +51,8 @@
   <portrait_l entry="vee" eye="happy" mouth="neutral">
   <portrait_r entry="tier" eye="happy_blush" mouth="neutral">
   <sjis>
-    ���肪�Ƃ���<end_line>
-    �݂��<three_dots><end_line>
+    ありがとうよ<end_line>
+    みんな<three_dots><end_line>
   </sjis>
   <ascii>
     Everyone<three_dots><end_line>
@@ -63,8 +63,8 @@
   <info box="left">
   <portrait_l entry="player" eye="serious" mouth="talk">
   <sjis>
-    ����<three_dots><end_line>
-    �{���ɁA���肪�Ƃ�<end_line>
+    あの<three_dots><end_line>
+    本当に、ありがとう<end_line>
   </sjis>
   <ascii>
     Um<three_dots><end_line>
@@ -75,7 +75,7 @@
   <info box="right" effect="big">
   <portrait_r entry="vee" eye="decided" mouth="serious">
   <sjis>
-    �ŁA<end_line>
+    で、<end_line>
   </sjis>
   <ascii>
     So,<end_line>
@@ -86,7 +86,7 @@
   <portrait_l entry="player" eye="surprised" mouth="stressed">
   <portrait_r entry="vee" eye="decided" mouth="serious">
   <sjis>
-    �͂��I<end_line>
+    はい！<end_line>
   </sjis>
   <ascii>
     Yes!<end_line>
@@ -97,9 +97,9 @@
   <portrait_l entry="player" eye="surprised" mouth="stressed">
   <portrait_r entry="vee" eye="decided" mouth="neutral">
   <sjis>
-    �����̍ĉ�͂����܂ł���<end_line>
-    ���܂ŉ�������Ă����̂�<end_line>
-    �������Ă��炨����<end_line>
+    感動の再会はここまでだよ<end_line>
+    今まで何をやっていたのか<end_line>
+    説明してもらおうか<end_line>
   </sjis>
   <ascii>
     Our moving reunion ends here.<end_line>
@@ -112,7 +112,7 @@
   <portrait_l entry="player" eye="decided" mouth="tense">
   <portrait_r entry="vee" eye="happy" mouth="neutral">
   <sjis>
-    �W�b�N���Ƃ�<three_dots><end_line>
+    ジックリとね<three_dots><end_line>
   </sjis>
   <ascii>
     In complete detail<three_dots><end_line>
@@ -123,7 +123,7 @@
   <portrait_l entry="player" eye="sad" mouth="serious">
   <portrait_r entry="vee" eye="happy" mouth="neutral">
   <sjis>
-    �Ђ����`<three_dots><end_line>
+    ひええ～<three_dots><end_line>
   </sjis>
   <ascii>
     Hieeh~<three_dots><end_line>
@@ -133,8 +133,8 @@
   <info box="left">
   <portrait_l entry="player" eye="serious" mouth="neutral">
   <sjis>
-    <three_dots>�Ƃ܂�<end_line>
-    �����܂Ŗ߂��Ă������P�ł�<end_line>
+    <three_dots>とまあ<end_line>
+    ここまで戻ってきたワケです<end_line>
   </sjis>
   <ascii>
     <three_dots>and so we<end_line>
@@ -146,9 +146,9 @@
   <portrait_l entry="player" eye="serious" mouth="neutral">
   <portrait_r entry="vee" eye="serious" mouth="tense">
   <sjis>
-    �A���^�̐����̓A������������<end_line>
-    ���������̂��Ƃ͂킩������<end_line>
-    ���āA�ǂ����悤���˂�<end_line>
+    アンタの説明はアレだったけど<end_line>
+    だいたいのことはわかったよ<end_line>
+    さて、どうしようかねぇ<end_line>
   </sjis>
   <ascii>
     That wasn't quite what I was<end_line>
@@ -162,9 +162,9 @@
   <portrait_l entry="jade" eye="serious" mouth="neutral">
   <portrait_r entry="vee" eye="serious" mouth="tense">
   <sjis>
-    �S���@���̖��΂�߂��΂͂��ꏢ���b��<end_line>
-    �\��Ă���͎̂��܂邩�������<end_line>
-    ���������̘A�����˂���Ă�A��<three_dots><end_line>
+    ゴヴァンの魔石を戻せばはぐれ召喚獣が<end_line>
+    暴れているのは収まるかもしれんが<end_line>
+    そいつをあの連中がねらってる、と<three_dots><end_line>
   </sjis>
   <ascii>
     If we return Govan's Demon Stone,<end_line>
@@ -178,9 +178,9 @@
   <portrait_l entry="tier" eye="decided" mouth="yell">
   <portrait_r entry="vee" eye="serious" mouth="tense">
   <sjis>
-    �ǂ��������������ƂɎg�����肾��I<end_line>
-    �Ƃɂ������̐l������<end_line>
-    ���܂��Ȃ���I<end_line>
+    どうせ何か悪いことに使うつもりだわ！<end_line>
+    とにかくあの人たちを<end_line>
+    つかまえなきゃ！<end_line>
   </sjis>
   <ascii>
     They're only going to use it for<end_line>
@@ -193,16 +193,16 @@
   <portrait_r entry="lemmy" eye="serious" mouth="neutral">
   <male>
     <sjis>
-      ���������Ă݂Ȃ���<end_line>
-      ���̐l�����̌����Ă邱��<end_line>
-      �M���Ă��ł����H<end_line>
+      もしかしてみなさん<end_line>
+      この人たちの言ってること<end_line>
+      信じてるんですか？<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ���������Ă݂Ȃ���<end_line>
-      ���̐l�����̌����Ă邱��<end_line>
-      �M���Ă��ł����H<end_line>
+      もしかしてみなさん<end_line>
+      この人たちの言ってること<end_line>
+      信じてるんですか？<end_line>
     </sjis>
   </female>
   <ascii>
@@ -216,16 +216,16 @@
   <portrait_r entry="lemmy" eye="serious" mouth="neutral">
   <male>
     <sjis>
-      �Ȃ񂾂ƁH<end_line>
-      �I���������E�\���Ă����<end_line>
-      �����̂���I<end_line>
+      なんだと？<end_line>
+      オレたちがウソついてるって<end_line>
+      言うのかよ！<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �Ȃɂ�H<end_line>
-      �킽���������E�\���Ă����<end_line>
-      �����́I<end_line>
+      なによ？<end_line>
+      わたしたちがウソついてるって<end_line>
+      言うの！<end_line>
     </sjis>
   </female>
   <ascii>
@@ -238,9 +238,9 @@
   <portrait_l entry="player" eye="decided" mouth="yell">
   <portrait_r entry="lemmy" eye="decided" mouth="serious">
   <sjis>
-    ���̐l�����͂�����<end_line>
-    �{�X�^�t�e���ƌ_�񂵂�<end_line>
-    ���̂��߂ɂ͂���ގ������Ă����<end_line>
+    あの人たちはちゃんと<end_line>
+    ボスタフ親方と契約して<end_line>
+    町のためにはぐれ退治をしているんだ<end_line>
   </sjis>
   <ascii>
     Those people have an established<end_line>
@@ -253,9 +253,9 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <portrait_r entry="lemmy" eye="decided" mouth="tense">
   <sjis>
-    ���΂��������Ă����̂�����<end_line>
-    �͂��ꏢ���b�����ƂȂ���������<end_line>
-    ���߂����Č����Ă��ł���I�H<end_line>
+    魔石をさがしていたのだって<end_line>
+    はぐれ召喚獣をおとなしくさせる<end_line>
+    ためだって言ってたでしょ！？<end_line>
   </sjis>
   <ascii>
     They said they were looking for the<end_line>
@@ -268,9 +268,9 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <portrait_r entry="lemmy" eye="decided" mouth="serious">
   <sjis>
-    ������E�\�����Č����̂��H<end_line>
-    ���Ⴀ�A�{�X�^�t�e����<end_line>
-    �E�\�����Ă���Č����̂��I�H<end_line>
+    それをウソだって言うのか？<end_line>
+    じゃあ、ボスタフ親方が<end_line>
+    ウソをついてるって言うのか！？<end_line>
   </sjis>
   <ascii>
     You're saying they lied?<end_line>
@@ -284,7 +284,7 @@
   <portrait_l entry="partner" eye="decided" mouth="serious">
   <portrait_r entry="lemmy" eye="decided" mouth="serious">
   <sjis>
-    ����f�n�@�\�E�_�g�v�����}�X<end_line>
+    現状デハ　ソウダト思ワレマス<end_line>
   </sjis>
   <ascii>
     Considering The Situation,<end_line>
@@ -297,9 +297,9 @@
   <portrait_l entry="partner" eye="serious" mouth="neutral">
   <portrait_r entry="lemmy" eye="decided" mouth="serious">
   <sjis>
-    ���ɂ��^�`�g�@�C�b�V���j<end_line>
-    ���΃m�@�`�J����<end_line>
-    ��j�����^�C�m�J���V���}�Z��<end_line>
+    あにすタチト　イッショニ<end_line>
+    魔石ノ　チカラヲ<end_line>
+    手ニ入レタイノカモシレマセン<end_line>
   </sjis>
   <ascii>
     He May Be Cooperating With Anise<end_line>
@@ -313,8 +313,8 @@
   <portrait_l entry="partner" eye="decided" mouth="serious">
   <portrait_r entry="lemmy" eye="decided" mouth="serious">
   <sjis>
-    ���ʂ��ɂ͈�����<end_line>
-    �����������ƂɂȂ��<end_line>
+    おぬしには悪いが<end_line>
+    そういうことになるな<end_line>
   </sjis>
   <ascii>
     I apologize, but it's true.<end_line>
@@ -326,9 +326,9 @@
   <portrait_l entry="partner" eye="decided" mouth="tense">
   <portrait_r entry="lemmy" eye="decided" mouth="serious">
   <sjis>
-    ���̎҂����Ǝ�������<end_line>
-    ���΂̗͂���ɓ����<end_line>
-    ����Ȃ̂��������<three_dots><end_line>
+    あの者たちと手を結んで<end_line>
+    魔石の力を手に入れる<end_line>
+    つもりなのかもしれん<three_dots><end_line>
   </sjis>
   <ascii>
     It is possible he will work with<end_line>
@@ -342,7 +342,7 @@
   <portrait_l entry="partner" eye="decided" mouth="serious">
   <portrait_r entry="lemmy" eye="decided" mouth="serious">
   <sjis>
-    �����Ȃ�Ɍ��܂��Ă���<end_line>
+    そうなるに決まっている<end_line>
   </sjis>
   <ascii>
     That should be obvious.<end_line>
@@ -354,9 +354,9 @@
   <portrait_l entry="partner" eye="decided" mouth="tense">
   <portrait_r entry="lemmy" eye="decided" mouth="serious">
   <sjis>
-    ���c��Ƃ���<end_line>
-    ���΂̗͂����<end_line>
-    ��������Ȃ̂��낤�H<end_line>
+    ヤツらとつるんで<end_line>
+    魔石の力を手に<end_line>
+    入れるつもりなのだろう？<end_line>
   </sjis>
   <ascii>
     He intends to work together with <end_line>
@@ -370,8 +370,8 @@
   <portrait_l entry="partner" eye="decided" mouth="tense">
   <portrait_r entry="lemmy" eye="decided" mouth="serious">
   <sjis>
-    �U���l���ł�����<end_line>
-    �����炭�A�����ł���<end_line>
+    ザンネンですけど<end_line>
+    おそらく、そうですわ<end_line>
   </sjis>
   <ascii>
     It is regrettable,<end_line>
@@ -384,9 +384,9 @@
   <portrait_l entry="partner" eye="decided" mouth="tense">
   <portrait_r entry="lemmy" eye="decided" mouth="serious">
   <sjis>
-    ���������āA���̐l�����Ƃ��������<end_line>
-    ���΂̗͂����<end_line>
-    ��������Ȃ̂�������܂����H<end_line>
+    もしかして、あの人たちといっしょに<end_line>
+    魔石の力を手に<end_line>
+    入れるつもりなのかもしれませんわ？<end_line>
   </sjis>
   <ascii>
     You see, it is possible he is<end_line>
@@ -398,8 +398,8 @@
   <info box="right">
   <portrait_r entry="lemmy" eye="decided" mouth="yell">
   <sjis>
-    �{�X�^�t�e����<end_line>
-    �u�W���N����ȁI<end_line>
+    ボスタフ親方を<end_line>
+    ブジョクするな！<end_line>
   </sjis>
   <ascii>
     Don't insult Chief Bostaph!<end_line>
@@ -411,16 +411,16 @@
   <portrait_r entry="lemmy" eye="decided" mouth="yell">
   <male>
     <sjis>
-      �ł�<three_dots>�I<end_line>
-      �I�������͐��<end_line>
-      �E�\�Ȃ񂩂��ĂȂ��I<end_line>
+      でも<three_dots>！<end_line>
+      オレたちは絶対<end_line>
+      ウソなんかついてない！<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �ł�<three_dots>�I<end_line>
-      �킽�������͐��<end_line>
-      �E�\�Ȃ񂩂��ĂȂ����I<end_line>
+      でも<three_dots>！<end_line>
+      わたしたちは絶対<end_line>
+      ウソなんかついてないわよ！<end_line>
     </sjis>
   </female>
   <ascii>
@@ -432,8 +432,8 @@
   <info box="right">
   <portrait_r entry="jade" eye="decided" mouth="stressed">
   <sjis>
-    ��߂�I<end_line>
-    ���O�����A��������I<end_line>
+    やめろ！<end_line>
+    お前たち、落ちつけよ！<end_line>
   </sjis>
   <ascii>
     Stop!<end_line>
@@ -444,8 +444,8 @@
   <info box="right">
   <portrait_r entry="vee" eye="sad" mouth="serious">
   <sjis>
-    �A���^�������P���J��������<end_line>
-    �ǂ����悤���Ȃ�����H<end_line>
+    アンタたちがケンカしたって<end_line>
+    どうしようもないだろ？<end_line>
   </sjis>
   <ascii>
     Nothing good will come from<end_line>
@@ -457,9 +457,9 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <portrait_r entry="lemmy" eye="decided" mouth="yell">
   <sjis>
-    ���邳���I<end_line>
-    ���Ō����Ă�������Ȃ��Ȃ�<end_line>
-    �͂����Ŗق点�Ă��I<end_line>
+    うるさい！<end_line>
+    口で言っても分からないなら<end_line>
+    力ずくで黙らせてやる！<end_line>
   </sjis>
   <ascii>
     Shut up!<end_line>

@@ -1,55 +1,55 @@
 <location>
 	<sjis>
-		�~�V���[�X�̔p��<end_line>
+		ミシュースの廃墟<end_line>
 	</sjis>
 </location>
 <location>
 	<sjis>
-		�~�V���[�X�̔p�Ё@�L��<end_line>
+		ミシュースの廃墟　広場<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="player">
 	<sjis>
-		�݂�Ȃ̂Ƃ���ɖ߂�Ȃ�����I<end_line>
+		みんなのところに戻らなくちゃ！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="shop_clerk">
 	<sjis>
-		���������̕ӂŎd�����Ȃ���<end_line>
-		�����Ȃ��C�������񂾂�<end_line>
-		�����ɂȂ肻�����Ȃ��Ȃ�<three_dots><end_line>
+		何だかこの辺で仕事しなきゃ<end_line>
+		いけない気がしたんだが<end_line>
+		商売になりそうもないなぁ<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="shop_clerk">
 	<sjis>
-		�L�~���������Ă��H<end_line>
+		キミ何か買ってく？<end_line>
 	</sjis>
 </dialogue>
 <menu>
 	<option>
 		<sjis>
-			�����<end_line>
+			武器類<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			�����<end_line>
+			道具類<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			��߂�<end_line>
+			やめる<end_line>
 		</sjis>
 	</option>
 </menu>
 <location>
 	<sjis>
-		�~�V���[�X�̔p�Ё@�L��<end_line>
+		ミシュースの廃墟　広場<end_line>
 	</sjis>
 </location>

@@ -1,50 +1,50 @@
 <location>
 	<sjis>
-		�v���X�o���̒�<end_line>
+		プロスバンの町<end_line>
 	</sjis>
 </location>
 <location>
 	<sjis>
-		�v���X�o���̒��@������<end_line>
+		プロスバンの町　南門公園<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="gatekeeper">
 	<sjis>
-		����̖�Ԃ��P�K�����炵��<end_line>
-		���̎d������Ȃ��Ȃ�<three_dots><end_line>
+		西門の門番がケガしたらしい<end_line>
+		この仕事も危ないなぁ<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="child">
 	<sjis>
-		���̒����āA���݂��݂��Ă�<end_line>
-		������<end_line>
+		この町って、ごみごみしてて<end_line>
+		いやよね<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="child">
 	<sjis>
-		�ǂ����ɁA�������ȂƂ���<end_line>
-		�Ȃ�������<end_line>
+		どこかに、しずかなところ<end_line>
+		ないかしら<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		��`�ǂ����ď��ĂȂ��̂��ȁ`<end_line>
-		�������J�P�ɕ�����<end_line>
-		�����b�̎U���ł�<three_dots><end_line>
+		ん～どうして勝てないのかな～<end_line>
+		今日もカケに負けて<end_line>
+		召喚獣の散歩です<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		�@�@�@�v���X�o���̒��̑n�ݎ�<end_line>
-		�@�@�@�E�҃v���X�o���̐Α�<end_line>
+		　　　プロスバンの町の創設者<end_line>
+		　　　勇者プロスバンの石像<end_line>
 	</sjis>
 </dialogue>

@@ -1,19 +1,19 @@
 <location>
   <sjis>
-    ���C�[�Y��<end_line>
+    ルイーズ村<end_line>
   </sjis>
 </location>
 <location>
   <sjis>
-    ���C�[�Y���@��ՑO<end_line>
+    ルイーズ村　遺跡前<end_line>
   </sjis>
 </location>
 <dialogue>
   <info box="simple">
   <portrait_l name="man">
   <sjis>
-    ���̑�����邽�߂ɂ�<end_line>
-    ���͂ȕ��킪�K�v���Ǝv����<end_line>
+    この村を守るためには<end_line>
+    強力な武器が必要だと思うんだ<end_line>
   </sjis>
   <ascii>
     We need powerful weapons if<end_line>
@@ -24,9 +24,9 @@
   <info box="simple">
   <portrait_l name="peddler's_daughter">
   <sjis>
-    ���̂���l�́A�����l�Ȃ�<end_line>
-    ���͂Q�l�ŗ������Ēb��t��E�l��<end_line>
-    ��𔄂��Ă���i�K�Ȃ񂾂���<end_line>
+    私のお母様は、旅商人なの<end_line>
+    今は２人で旅をして鍛冶師や職人に<end_line>
+    顔を売っている段階なんだって<end_line>
   </sjis>
   <ascii>
     You know, my mom is a peddler.<end_line>
@@ -39,9 +39,9 @@
   <info box="simple">
   <portrait_l name="peddler's_daughter">
   <sjis>
-    ����l�́A�����V�тɍs���Ă����<end_line>
-    �v���Ă�݂��������ǁA�����̂��߂�<end_line>
-    ���������Ă����<end_line>
+    お母様は、私が遊びに行ってるって<end_line>
+    思ってるみたいだけど、将来のために<end_line>
+    商売をしているの<end_line>
   </sjis>
   <ascii>
     My mom, she thinks I'm out<end_line>
@@ -53,8 +53,8 @@
   <info box="simple">
   <portrait_l name="peddler's_daughter">
   <sjis>
-    �Ƃ���ł��Ȃ��́A�b��t�݂���������<end_line>
-    �����̏��𕷂��Ă����Ȃ��H<end_line>
+    ところであなたは、鍛冶師みたいだけど<end_line>
+    強化の情報を聞いていかない？<end_line>
   </sjis>
   <ascii>
     Hey, aren't you a Craftknight?<end_line>
@@ -66,7 +66,7 @@
   <info box="simple">
   <option>
     <sjis>
-      �����Ă݂�<end_line>
+      聞いてみる<end_line>
     </sjis>
     <ascii>
       Listen to her lecture<end_line>
@@ -74,7 +74,7 @@
   </option>
   <option>
     <sjis>
-      ���ɕ����Ȃ�<end_line>
+      特に聞かない<end_line>
     </sjis>
     <ascii>
       Not interested<end_line>
@@ -85,9 +85,9 @@
   <info box="simple">
   <portrait_l name="peddler's_daughter">
   <sjis>
-    �����ƂˁA�����Łu�C���������v��<end_line>
-    �u�B�l�̏؁v���g���ƁA�K�E�Z��<end_line>
-    �u�S�󌝁v������ɕt��������<end_line>
+    えっとね、強化で「気合い鉢巻」と<end_line>
+    「達人の証」を使うと、必殺技の<end_line>
+    「百烈拳」が武器に付加されるの<end_line>
   </sjis>
   <ascii>
     Um, let's see. If you use<end_line>
@@ -101,9 +101,9 @@
   <info box="simple">
   <portrait_l name="peddler's_daughter">
   <sjis>
-    �������A�i�b�N���^�C�v�Ɏg����<end_line>
-    �ꍇ�����u�S�󌝁v���o���邩��<end_line>
-    ���̕���^�C�v�ŉ����o���邩��<three_dots><end_line>
+    ただし、ナックルタイプに使った<end_line>
+    場合だけ「百烈拳」が出来るから<end_line>
+    他の武器タイプで何が出来るかは<three_dots><end_line>
   </sjis>
   <ascii>
     But this will only work with <end_line>
@@ -115,8 +115,8 @@
   <info box="simple">
   <portrait_l name="peddler's_daughter">
   <sjis>
-    �����Ă�����Ă����<end_line>
-    �������̂��݁`<end_line>
+    買ってもらってからの<end_line>
+    おったのしみ～<end_line>
   </sjis>
   <ascii>
     Buy the materials, and try it out~<end_line>
@@ -126,9 +126,9 @@
   <info box="simple">
   <portrait_l name="peddler's_daughter">
   <sjis>
-    �ł����āA����͂Ȃ��<end_line>
-    �u�C���������v�Ɓu�B�l�̏؁v��<end_line>
-    �P�Q�O�O�o�[���Ŕ̔����Ȃ́`<end_line>
+    でもって、今回はなんと<end_line>
+    「気合い鉢巻」と「達人の証」を<end_line>
+    １２００バームで販売中なの～<end_line>
   </sjis>
   <ascii>
     But hey, get this, right now<end_line>
@@ -140,7 +140,7 @@
   <info box="simple">
   <portrait_l name="peddler's_daughter">
   <sjis>
-    �����Ă���܂��H<end_line>
+    買ってくれます？<end_line>
   </sjis>
   <ascii>
     How about it?<end_line>
@@ -150,7 +150,7 @@
   <info box="simple">
   <option>
     <sjis>
-      ����<end_line>
+      買う<end_line>
     </sjis>
     <ascii>
       Buy
@@ -158,7 +158,7 @@
   </option>
   <option>
     <sjis>
-      ����Ȃ�<end_line>
+      買わない<end_line>
     </sjis>
     <ascii>
       Don't buy<end_line>
@@ -169,7 +169,7 @@
   <info box="simple">
   <portrait_l name="peddler's_daughter">
   <sjis>
-    ���肪�Ɓ`<end_line>
+    ありがと～<end_line>
   </sjis>
   <ascii>
     Thanks~<end_line>
@@ -179,9 +179,9 @@
   <info box="simple">
   <portrait_l name="peddler's_daughter">
   <sjis>
-    �������`���ꂶ��`<end_line>
-    ��������Ȃ��́`<end_line>
-    ���k�s��������`<end_line>
+    ええぇ～これじゃ～<end_line>
+    お金たりないの～<end_line>
+    商談不成立だよ～<end_line>
   </sjis>
   <ascii>
     Ehh~ What's this~<end_line>
@@ -193,8 +193,8 @@
   <info box="simple">
   <portrait_l name="peddler's_daughter">
   <sjis>
-    ���`�������������Ĕ����Ă���Ȃ��́`<end_line>
-    �P�`�`<end_line>
+    え～聞くだけ聞いて買ってくれないの～<end_line>
+    ケチ～<end_line>
   </sjis>
   <ascii>
     Eh~ You make me explain but<end_line>
@@ -206,8 +206,8 @@
   <info box="simple">
   <portrait_l name="peddler's_daughter">
   <sjis>
-    ���`�����Ă���Ȃ��́`<end_line>
-    ���������̂��q���񂾂Ǝv�����̂Ɂ`<end_line>
+    え～聞いてくれないの～<end_line>
+    せっかくのお客さんだと思ったのに～<end_line>
   </sjis>
   <ascii>
     Eh~ You don't want to listen?<end_line>
@@ -219,7 +219,7 @@
 <dialogue>
   <info box="simple">
   <sjis>
-    �݁[<end_line>
+    みー<end_line>
   </sjis>
   <ascii>
     Miiii<three_dots><end_line>

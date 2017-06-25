@@ -2,8 +2,8 @@
 	<info box="right">
 	<portrait_r entry="zakk" eye="serious" mouth="neutral">
 	<sjis>
-		����A<player_nickname>�H<end_line>
-		�ǂ������́H<end_line>
+		あれ、<player_nickname>？<end_line>
+		どうしたの？<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -12,16 +12,16 @@
 	<portrait_r entry="zakk" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
-			�U�b�N�I<end_line>
-			�����Ƃ���ɗ����I<end_line>
-			�����̓h�R���m��Ȃ����H<end_line>
+			ザック！<end_line>
+			いいところに来た！<end_line>
+			あいつはドコか知らないか？<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�U�b�N�I<end_line>
-			����������`�I<end_line>
-			�����̓h�R���m��Ȃ��H<end_line>
+			ザック！<end_line>
+			助かったよ～！<end_line>
+			あいつはドコか知らない？<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -30,8 +30,8 @@
 	<portrait_l entry="player" eye="serious" mouth="talk">
 	<portrait_r entry="zakk" eye="surprised" mouth="yell">
 	<sjis>
-		�����<three_dots>�I�H<end_line>
-		�������ă_������I�H<end_line>
+		ちょっ<three_dots>！？<end_line>
+		あいつってダレだよ！？<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -40,16 +40,16 @@
 	<portrait_r entry="zakk" eye="surprised" mouth="yell">
 	<male>
 		<sjis>
-			��������I�@���[��<three_dots><end_line>
-			�������I���ɂ����ł���<end_line>
-			�ڂ��̈����A�A�^�}�ɂ܂��Ă�<three_dots><end_line>
+			あいつだよ！　えーと<three_dots><end_line>
+			いっつもオレにからんでくる<end_line>
+			目つきの悪い、アタマにまいてる<three_dots><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			������I�@���[��<three_dots><end_line>
-			�������킽���ɂ����ł���<end_line>
-			�ڂ��̈����A�A�^�}�ɂ܂��Ă�<three_dots><end_line>
+			あいつよ！　えーと<three_dots><end_line>
+			いっつもわたしにからんでくる<end_line>
+			目つきの悪い、アタマにまいてる<three_dots><end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -58,8 +58,8 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="zakk" eye="serious" mouth="tense">
 	<sjis>
-		�����A�T�[�W����̂��ƁH<end_line>
-		�܂��Ȃɂ��������́H<end_line>
+		ああ、サージさんのこと？<end_line>
+		またなにかあったの？<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -68,16 +68,16 @@
 	<portrait_r entry="zakk" eye="serious" mouth="tense">
 	<male>
 		<sjis>
-			������ɂ������厖�Ȃ��̂�<end_line>
-			�����čs���ꂿ�܂�����<three_dots><end_line>
-			������<three_dots><end_line>
+			あいつらにすごく大事なものを<end_line>
+			持って行かれちまったんだ<three_dots><end_line>
+			だから<three_dots><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			������ɂ������厖�Ȃ��̂�<end_line>
-			�����čs���ꂿ������񂾂�<three_dots><end_line>
-			������<three_dots><end_line>
+			あいつらにすごく大事なものを<end_line>
+			持って行かれちゃったんだよ<three_dots><end_line>
+			だから<three_dots><end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -86,9 +86,9 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="zakk" eye="sad" mouth="yell">
 	<sjis>
-		�����Ă�������<three_dots><end_line>
-		����̓C�����点�ɂ�������<end_line>
-		������Ƃ�肷������<three_dots><end_line>
+		持ってったって<three_dots><end_line>
+		それはイヤがらせにしたって<end_line>
+		ちょっとやりすぎだよ<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -96,9 +96,9 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="zakk" eye="serious" mouth="serious">
 	<sjis>
-		<player_nickname>�����ɂ���Ă���<end_line>
-		���̐l�����A�H�[�ł��낢�댾����<end_line>
-		���Ȃ�L���Ă�����<three_dots><end_line>
+		<player_nickname>たちにやられてから<end_line>
+		あの人たち、工房でいろいろ言われて<end_line>
+		かなりキレてたけど<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -115,8 +115,8 @@
 	<portrait_l entry="partner" eye="decided" mouth="serious">
 	<portrait_r entry="zakk" eye="serious" mouth="serious">
 	<sjis>
-		�\���f<end_line>
-		�ރ��n�h�R�j�@�C���m�f�X�J�H<end_line>
+		ソレデ<end_line>
+		彼ラハドコニ　イルノデスカ？<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -125,9 +125,9 @@
 	<portrait_l entry="partner" eye="decided" mouth="serious">
 	<portrait_r entry="zakk" eye="serious" mouth="serious">
 	<sjis>
-		�����<end_line>
-		�����̓h�R��<end_line>
-		������Ă���̂���H<end_line>
+		それで<end_line>
+		きゃつらはドコに<end_line>
+		かくれておるのじゃ？<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -136,9 +136,9 @@
 	<portrait_l entry="partner" eye="decided" mouth="serious">
 	<portrait_r entry="zakk" eye="serious" mouth="serious">
 	<sjis>
-		�����<end_line>
-		���̃N�Y�ǂ���<end_line>
-		�h�R�ɂ�����Ă���H<end_line>
+		それで<end_line>
+		あのクズどもは<end_line>
+		ドコにかくれている？<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -147,9 +147,9 @@
 	<portrait_l entry="partner" eye="decided" mouth="serious">
 	<portrait_r entry="zakk" eye="serious" mouth="serious">
 	<sjis>
-		�����<end_line>
-		���̐l�����̓h�R��<end_line>
-		�����ł����H<end_line>
+		それで<end_line>
+		あの人たちはドコに<end_line>
+		いるんですか？<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -157,9 +157,9 @@
 	<portrait_l entry="partner" eye="decided" mouth="serious">
 	<portrait_r entry="zakk" eye="serious" mouth="tense">
 	<sjis>
-		���̐l�����Ȃ�悭<end_line>
-		�f�B�b�N���z���̉���<end_line>
-		���ނ���Ă邯��<three_dots><end_line>
+		あの人たちならよく<end_line>
+		ディックル鉱洞の奥で<end_line>
+		たむろってるけど<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -167,8 +167,8 @@
 	<portrait_l entry="partner" eye="decided" mouth="serious">
 	<portrait_r entry="zakk" eye="serious" mouth="neutral">
 	<sjis>
-		���ɂÂ��g�r���������Ă���<end_line>
-		����񂶂�Ȃ��̂���<end_line>
+		奥につづくトビラがあいてたら<end_line>
+		いるんじゃないのかな<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -177,14 +177,14 @@
 	<portrait_r entry="zakk" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
-			�f�B�b�N���z���̉��̃g�r������<end_line>
-			�Ƃ肠�����s���Ă݂��<end_line>
+			ディックル鉱洞の奥のトビラだな<end_line>
+			とりあえず行ってみるよ<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�f�B�b�N���z���̉��̃g�r����<end_line>
-			�Ƃ肠�����s���Ă݂��<end_line>
+			ディックル鉱洞の奥のトビラね<end_line>
+			とりあえず行ってみるよ<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -193,9 +193,9 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="zakk" eye="surprised" mouth="tense">
 	<sjis>
-		���I<end_line>
-		�ŋ߁A�������ɂ��͂��ꂪ�o������<end_line>
-		�C��������Č����Ă�<three_dots><end_line>
+		あ！<end_line>
+		最近、あそこにもはぐれが出たから<end_line>
+		気をつけろって言われてた<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -203,9 +203,9 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="zakk" eye="surprised" mouth="tense">
 	<sjis>
-		������<end_line>
-		���肪�ƁI<end_line>
-		�C�������<end_line>
+		そっか<end_line>
+		ありがと！<end_line>
+		気をつけるよ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -213,7 +213,7 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="zakk" eye="serious" mouth="talk">
 	<sjis>
-		�������Ă��Ƃ�<three_dots><end_line>
+		いいってことよ<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -221,8 +221,8 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="zakk" eye="surprised" mouth="yell">
 	<sjis>
-		<three_dots>����Ȃ������I<end_line>
-		�܂�����������<three_dots><end_line>
+		<three_dots>じゃなかった！<end_line>
+		またやっちゃった<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -230,6 +230,6 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="zakk" eye="happy" mouth="neutral">
 	<sjis>
-		���ǁA�܁A������<end_line>
+		けど、ま、いいか<end_line>
 	</sjis>
 </dialogue>

@@ -1,14 +1,14 @@
 <location>
   <sjis>
-    �����̉Ɓ@�L��<end_line>
+    村長の家　広間<end_line>
   </sjis>
 </location>
 <dialogue>
   <info box="simple">
   <portrait_l name="chief">
   <sjis>
-    ���Ȃ���Ȃ�񂱂Ƃ�����Ȃ�<end_line>
-    ���͂���ɑS�͂𒍂�<end_line>
+    やらなきゃならんことがあるなら<end_line>
+    今はそれに全力を注げ<end_line>
   </sjis>
   <ascii>
     If there is something <end_line>
@@ -20,9 +20,9 @@
   <info box="simple">
   <portrait_l name="man">
   <sjis>
-    ���`����<end_line>
-    ���́`���ꂾ<end_line>
-    �܁`�����������Ƃ�<end_line>
+    あ～何だ<end_line>
+    その～あれだ<end_line>
+    ま～そういうことだ<end_line>
   </sjis>
   <ascii>
     Ah~ well.<end_line>

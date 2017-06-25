@@ -2,9 +2,9 @@
   <info box="left">
   <portrait_l entry="player" eye="serious" mouth="serious">
   <sjis>
-    –‚Î‚ð–ß‚·‚Á‚ÄŒ¾‚Á‚Ä‚à<end_line>
-    ƒCƒAƒi‚³‚ñ‚ÍÚ‚µ‚­’²‚×‚½‚¢<end_line>
-    Š´‚¶‚¾‚Á‚½‚©‚ç‚È‚Ÿ<three_dots><end_line>
+    é­”çŸ³ã‚’æˆ»ã™ã£ã¦è¨€ã£ã¦ã‚‚<end_line>
+    ã‚¤ã‚¢ãƒŠã•ã‚“ã¯è©³ã—ãèª¿ã¹ãŸã„<end_line>
+    æ„Ÿã˜ã ã£ãŸã‹ã‚‰ãªã<three_dots><end_line>
   </sjis>
   <ascii>
     Even though we planned on returning<end_line>
@@ -16,9 +16,9 @@
   <info box="left">
   <portrait_l entry="player" eye="serious" mouth="tense">
   <sjis>
-    ƒEƒFƒ‹ƒ}ƒ“‚³‚ñ‚Ì‚±‚Æ‚à‚ ‚é‚µ<end_line>
-    ‚·‚®•Ô‚µ‚És‚­‚Á‚ÄƒƒP‚É‚Í<end_line>
-    ‚¢‚©‚È‚¢‚©‚à<three_dots><end_line>
+    ã‚¦ã‚§ãƒ«ãƒžãƒ³ã•ã‚“ã®ã“ã¨ã‚‚ã‚ã‚‹ã—<end_line>
+    ã™ãè¿”ã—ã«è¡Œãã£ã¦ãƒ¯ã‚±ã«ã¯<end_line>
+    ã„ã‹ãªã„ã‹ã‚‚<three_dots><end_line>
   </sjis>
   <ascii>
     There's also the thing with Velworen,<end_line>
@@ -31,9 +31,9 @@
   <info box="left">
   <portrait_l entry="player" eye="decided" mouth="tense">
   <sjis>
-    ‚Ü‚ Aƒ~ƒVƒ…[ƒX‘º‚Ü‚Å‚Í<end_line>
-    ‰“‚­‚ÄŒ‹\‚ ‚Ô‚È‚¢‚Ý‚½‚¢‚¾‚©‚ç<end_line>
-    ‚µ‚Á‚©‚è€”õ‚ð‚µ‚Æ‚­‚©‚ÈI<end_line>
+    ã¾ã‚ã€ãƒŸã‚·ãƒ¥ãƒ¼ã‚¹æ‘ã¾ã§ã¯<end_line>
+    é ãã¦çµæ§‹ã‚ã¶ãªã„ã¿ãŸã„ã ã‹ã‚‰<end_line>
+    ã—ã£ã‹ã‚Šæº–å‚™ã‚’ã—ã¨ãã‹ãªï¼<end_line>
   </sjis>
   <ascii>
     Well, the road to Mishus Village<end_line>
@@ -46,9 +46,9 @@
   <info box="left">
   <portrait_l entry="player" eye="decided" mouth="tense">
   <sjis>
-    ‚Ü‚ Aƒ~ƒVƒ…[ƒX‘º‚Ü‚Å‚Í<end_line>
-    ‰“‚­‚ÄŒ‹\‚ ‚Ô‚È‚¢‚Ý‚½‚¢‚¾‚©‚ç<end_line>
-    ‚µ‚Á‚©‚è€”õ‚ð‚µ‚Ä‚¨‚±‚¤‚©‚ÈI<end_line>
+    ã¾ã‚ã€ãƒŸã‚·ãƒ¥ãƒ¼ã‚¹æ‘ã¾ã§ã¯<end_line>
+    é ãã¦çµæ§‹ã‚ã¶ãªã„ã¿ãŸã„ã ã‹ã‚‰<end_line>
+    ã—ã£ã‹ã‚Šæº–å‚™ã‚’ã—ã¦ãŠã“ã†ã‹ãªï¼<end_line>
   </sjis>
   <ascii>
     Well, the road to Mishus Village<end_line>
@@ -60,8 +60,8 @@
   <info box="left">
   <portrait_l entry="player" eye="serious" mouth="tense">
   <sjis>
-    ‚ ‚êH<end_line>
-    ’N‚¾‚ë‚¤<three_dots>H<end_line>
+    ã‚ã‚Œï¼Ÿ<end_line>
+    èª°ã ã‚ã†<three_dots>ï¼Ÿ<end_line>
   </sjis>
   <ascii>
     Huh?<end_line>
@@ -71,7 +71,7 @@
 <menu>
   <option>
     <sjis>
-      ƒ~ƒ…[ƒm<end_line>
+      ãƒŸãƒ¥ãƒ¼ãƒŽ<end_line>
     </sjis>
     <ascii>
       Murno<end_line>
@@ -87,7 +87,7 @@
   </option>
   <option>
     <sjis>
-      ƒ”ƒB[<end_line>
+      ãƒ´ã‚£ãƒ¼<end_line>
     </sjis>
     <ascii>
       V.E<end_line>
@@ -95,7 +95,7 @@
   </option>
   <option>
     <sjis>
-      ƒŒƒ~ƒB<end_line>
+      ãƒ¬ãƒŸã‚£<end_line>
     </sjis>
     <ascii>
       Lemmy<end_line>
@@ -103,7 +103,7 @@
   </option>
   <option>
     <sjis>
-      ƒWƒFƒCƒh<end_line>
+      ã‚¸ã‚§ã‚¤ãƒ‰<end_line>
     </sjis>
     <ascii>
       Jade<end_line>
@@ -111,7 +111,7 @@
   </option>
   <option>
     <sjis>
-      ƒeƒBƒG<end_line>
+      ãƒ†ã‚£ã‚¨<end_line>
     </sjis>
     <ascii>
       Tier<end_line>

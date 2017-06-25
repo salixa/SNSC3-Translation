@@ -4,9 +4,9 @@
 	<portrait_l entry="player" eye="decided" mouth="stressed">
 	<portrait_r entry="partner" eye="decided" mouth="tense">
 	<sjis>
-		�~���[�m�������ꂽ�Ȃ��<three_dots><end_line>
-		�ǂ��ɘA��čs���ꂽ�̂�<end_line>
-		�肪����������Ȃ��ƁI<end_line>
+		ミューノがさらわれたなんて<three_dots><end_line>
+		どこに連れて行かれたのか<end_line>
+		手がかりを見つけないと！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -15,8 +15,8 @@
 	<portrait_l entry="player" eye="decided" mouth="stressed">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		�g�j�J�N�@���m����<end_line>
-		�N�}�i�N�@�T�K�V�}�V���E<end_line>
+		トニカク　町ノ中ヲ<end_line>
+		クマナク　サガシマショウ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -26,12 +26,12 @@
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
-			��������<three_dots><end_line>
+			そうだな<three_dots><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			��������<three_dots><end_line>
+			そうだね<three_dots><end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -41,8 +41,8 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		����������<end_line>
-		�U�b�N�Ȃ牽���m���Ă邩��<three_dots><end_line>
+		もしかして<end_line>
+		ザックなら何か知ってるかも<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -51,9 +51,9 @@
 	<portrait_l entry="player" eye="decided" mouth="stressed">
 	<portrait_r entry="partner" eye="decided" mouth="tense">
 	<sjis>
-		�~���[�m�������ꂽ�Ȃ��<three_dots><end_line>
-		�ǂ��ɘA��čs���ꂽ�̂�<end_line>
-		�肪����������Ȃ��ƁI<end_line>
+		ミューノがさらわれたなんて<three_dots><end_line>
+		どこに連れて行かれたのか<end_line>
+		手がかりを見つけないと！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -62,9 +62,9 @@
 	<portrait_l entry="player" eye="decided" mouth="stressed">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<sjis>
-		�Ƃɂ������̒���<end_line>
-		���܂Ȃ��������̂���I<end_line>
-		�l�Y�~�P�C�������łȂ����I<end_line>
+		とにかく町の中を<end_line>
+		くまなくさがすのじゃ！<end_line>
+		ネズミ１匹見逃すでないぞ！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -74,12 +74,12 @@
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
 		<sjis>
-			�킩�����I<end_line>
+			わかった！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			����<three_dots>�I<end_line>
+			うん<three_dots>！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -89,8 +89,8 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<sjis>
-		����������<end_line>
-		�U�b�N�Ȃ牽���m���Ă邩��<three_dots><end_line>
+		もしかして<end_line>
+		ザックなら何か知ってるかも<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -99,9 +99,9 @@
 	<portrait_l entry="player" eye="decided" mouth="stressed">
 	<portrait_r entry="partner" eye="decided" mouth="tense">
 	<sjis>
-		�~���[�m�������ꂽ�Ȃ��<three_dots><end_line>
-		�ǂ��ɘA��čs���ꂽ�̂�<end_line>
-		�肪����������Ȃ��ƁI<end_line>
+		ミューノがさらわれたなんて<three_dots><end_line>
+		どこに連れて行かれたのか<end_line>
+		手がかりを見つけないと！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -110,9 +110,9 @@
 	<portrait_l entry="player" eye="decided" mouth="stressed">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<sjis>
-		�Ƃɂ������̒���<end_line>
-		���܂Ȃ��������񂾁I<end_line>
-		�O�Y�O�Y����ȁI<end_line>
+		とにかく町の中を<end_line>
+		くまなくさがすんだ！<end_line>
+		グズグズするな！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -122,12 +122,12 @@
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
 		<sjis>
-			�킩�����I<end_line>
+			わかった！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			����<three_dots>�I<end_line>
+			うん<three_dots>！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -137,8 +137,8 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<sjis>
-		����������<end_line>
-		�U�b�N�Ȃ牽���m���Ă邩��<three_dots><end_line>
+		もしかして<end_line>
+		ザックなら何か知ってるかも<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -146,9 +146,9 @@
 	<info box="left">
 	<portrait_l name="player">
 	<sjis>
-		�~���[�m�������ꂽ�Ȃ��<three_dots><end_line>
-		�ǂ��ɘA��čs���ꂽ�̂�<end_line>
-		�肪����������Ȃ��ƁI<end_line>
+		ミューノがさらわれたなんて<three_dots><end_line>
+		どこに連れて行かれたのか<end_line>
+		手がかりを見つけないと！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -156,8 +156,8 @@
 	<info box="right">
 	<portrait_r name="partner">
 	<sjis>
-		�Ƃɂ������̒���<end_line>
-		�F�X�������Ă݂܂��傤�I<end_line>
+		とにかく町の中を<end_line>
+		色々さがしてみましょう！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -166,12 +166,12 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			��������<three_dots><end_line>
+			そうだな<three_dots><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			��������<three_dots><end_line>
+			そうだね<three_dots><end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -180,8 +180,8 @@
 	<info box="left">
 	<portrait_l name="player">
 	<sjis>
-		����������<end_line>
-		�U�b�N�Ȃ牽���m���Ă邩��<three_dots><end_line>
+		もしかして<end_line>
+		ザックなら何か知ってるかも<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -191,16 +191,16 @@
 	<portrait_r entry="partner" eye="decided" mouth="tense">
 	<male>
 		<sjis>
-			�A�j�X�����̓X�����W�̌@��̕���<end_line>
-			���������炵����<end_line>
-			�U�b�N���ǂ������Ă�݂���������<three_dots><end_line>
+			アニスたちはスレンジ採掘場の方へ<end_line>
+			向かったらしいぞ<end_line>
+			ザックが追いかけてるみたいだけど<three_dots><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�A�j�X�����̓X�����W�̌@��̕���<end_line>
-			���������炵����<end_line>
-			�U�b�N���ǂ������Ă�݂���������<three_dots><end_line>
+			アニスたちはスレンジ採掘場の方へ<end_line>
+			向かったらしいよ<end_line>
+			ザックが追いかけてるみたいだけど<three_dots><end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -210,9 +210,9 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		�ރK�@�����T���^�ꍇ<end_line>
-		���ɂ��^�`�j�@��Q�����G������<end_line>
-		�\���K�A���}�X<end_line>
+		彼ガ　発見サレタ場合<end_line>
+		あにすタチニ　危害ヲ加エラレル<end_line>
+		可能性ガアリマス<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -222,12 +222,12 @@
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
-			��������<three_dots><end_line>
+			そうだな<three_dots><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			��������<three_dots><end_line>
+			そうだね<three_dots><end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -237,7 +237,7 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		�}�����I<end_line>
+		急ごう！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -247,16 +247,16 @@
 	<portrait_r entry="partner" eye="decided" mouth="tense">
 	<male>
 		<sjis>
-			�A�j�X�����̓X�����W�̌@��̕���<end_line>
-			���������炵����<end_line>
-			�U�b�N���ǂ������Ă�݂���������<three_dots><end_line>
+			アニスたちはスレンジ採掘場の方へ<end_line>
+			向かったらしいぞ<end_line>
+			ザックが追いかけてるみたいだけど<three_dots><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�A�j�X�����̓X�����W�̌@��̕���<end_line>
-			���������炵����<end_line>
-			�U�b�N���ǂ������Ă�݂���������<three_dots><end_line>
+			アニスたちはスレンジ採掘場の方へ<end_line>
+			向かったらしいよ<end_line>
+			ザックが追いかけてるみたいだけど<three_dots><end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -266,9 +266,9 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<sjis>
-		�A�m�������߁A���`����������<end_line>
-		�A���Ɍ���������A��������邩<end_line>
-		�킩���<end_line>
+		アノこぞうめ、ムチャしおって<end_line>
+		連中に見つかったら、何をされるか<end_line>
+		わからんぞ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -278,12 +278,12 @@
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
 		<sjis>
-			��������<three_dots><end_line>
+			そうだな<three_dots><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			��������<three_dots><end_line>
+			そうだね<three_dots><end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -293,7 +293,7 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<sjis>
-		�}�����I<end_line>
+		急ごう！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -303,16 +303,16 @@
 	<portrait_r entry="partner" eye="decided" mouth="tense">
 	<male>
 		<sjis>
-			�A�j�X�����̓X�����W�̌@��̕���<end_line>
-			���������炵����<end_line>
-			�U�b�N���ǂ������Ă�݂���������<three_dots><end_line>
+			アニスたちはスレンジ採掘場の方へ<end_line>
+			向かったらしいぞ<end_line>
+			ザックが追いかけてるみたいだけど<three_dots><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�A�j�X�����̓X�����W�̌@��̕���<end_line>
-			���������炵����<end_line>
-			�U�b�N���ǂ������Ă�݂���������<three_dots><end_line>
+			アニスたちはスレンジ採掘場の方へ<end_line>
+			向かったらしいよ<end_line>
+			ザックが追いかけてるみたいだけど<three_dots><end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -322,9 +322,9 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<sjis>
-		���c�ЂƂ�ŘA���̐Ղ�����<end_line>
-		�����ł�����Ƃł��v���Ă���̂�<three_dots><end_line>
-		�S���A�g�̒����킫�܂��Ȃ��q����<end_line>
+		ヤツひとりで連中の跡をつけて<end_line>
+		無事でいられるとでも思っているのか<three_dots><end_line>
+		全く、身の程をわきまえない子供だ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -334,7 +334,7 @@
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<sjis>
 		<partner><three_dots><end_line>
-		�Ƃɂ����}�����I<end_line>
+		とにかく急ごう！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -343,16 +343,16 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			�A�j�X�����̓X�����W�̌@��̕���<end_line>
-			���������炵����<end_line>
-			�U�b�N���ǂ������Ă�݂���������<three_dots><end_line>
+			アニスたちはスレンジ採掘場の方へ<end_line>
+			向かったらしいぞ<end_line>
+			ザックが追いかけてるみたいだけど<three_dots><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�A�j�X�����̓X�����W�̌@��̕���<end_line>
-			���������炵����<end_line>
-			�U�b�N���ǂ������Ă�݂���������<three_dots><end_line>
+			アニスたちはスレンジ採掘場の方へ<end_line>
+			向かったらしいよ<end_line>
+			ザックが追いかけてるみたいだけど<three_dots><end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -361,9 +361,9 @@
 	<info box="right">
 	<portrait_r name="partner">
 	<sjis>
-		���̐l�����Ɍ���������<end_line>
-		��������邩�킩��܂����<end_line>
-		�����Ȃ炢����ł�����<three_dots><end_line>
+		あの人たちに見つかったら<end_line>
+		何をされるかわかりませんわ<end_line>
+		無事ならいいんですけど<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -372,12 +372,12 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			��������<three_dots><end_line>
+			そうだな<three_dots><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			��������<three_dots><end_line>
+			そうだね<three_dots><end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -386,7 +386,7 @@
 	<info box="left">
 	<portrait_l name="player">
 	<sjis>
-		�}�����I<end_line>
+		急ごう！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -396,16 +396,16 @@
 	<portrait_r entry="partner" eye="decided" mouth="tense">
 	<male>
 		<sjis>
-			�������[�A������<three_dots><end_line>
-			�U�b�N�ɂ܂ł���Ȃ��Ƃ�<three_dots><end_line>
-			��΂�邳�Ȃ���<three_dots>�I<end_line>
+			くっそー、あいつら<three_dots><end_line>
+			ザックにまであんなことを<three_dots><end_line>
+			絶対ゆるさないぜ<three_dots>！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			���̐l�����A�U�b�N�ɂ܂�<end_line>
-			�q�h�C���Ƃ���Ȃ��<three_dots><end_line>
-			��΂�邳�Ȃ�����<three_dots>�I<end_line>
+			あの人たち、ザックにまで<end_line>
+			ヒドイことするなんて<three_dots><end_line>
+			絶対ゆるさないから<three_dots>！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -415,9 +415,9 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		�A�i�^�K�{���m�n�@�����f�L�}�X�K<end_line>
-		���`���C�e�N�_�T�C<end_line>
-		��Ãj�s���V�i�C�g�@�댯�f�X<end_line>
+		アナタガ怒ルノハ　理解デキマスガ<end_line>
+		落チ着イテクダサイ<end_line>
+		冷静ニ行動シナイト　危険デス<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -427,16 +427,16 @@
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
-			��������<three_dots>�A�킩����<end_line>
-			������̓X�|�[�g���A�̉���<end_line>
-			�}�����I<end_line>
+			そうだな<three_dots>、わかった<end_line>
+			あいつらはスポート洞窟の奥だ<end_line>
+			急ごう！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			��������<three_dots>�A�킩����<end_line>
-			���̐l�����̓X�|�[�g���A�̉��݂���<end_line>
-			�}�����I<end_line>
+			そうだね<three_dots>、わかった<end_line>
+			あの人たちはスポート洞窟の奥みたい<end_line>
+			急ごう！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -447,16 +447,16 @@
 	<portrait_r entry="partner" eye="decided" mouth="tense">
 	<male>
 		<sjis>
-			�������[�A������<three_dots><end_line>
-			�U�b�N�ɂ܂ł���Ȃ��Ƃ�<three_dots><end_line>
-			��΂�邳�Ȃ���<three_dots>�I<end_line>
+			くっそー、あいつら<three_dots><end_line>
+			ザックにまであんなことを<three_dots><end_line>
+			絶対ゆるさないぜ<three_dots>！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			���̐l�����A�U�b�N�ɂ܂�<end_line>
-			�q�h�C���Ƃ���Ȃ��<three_dots><end_line>
-			��΂�邳�Ȃ�����<three_dots>�I<end_line>
+			あの人たち、ザックにまで<end_line>
+			ヒドイことするなんて<three_dots><end_line>
+			絶対ゆるさないから<three_dots>！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -466,9 +466,9 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<sjis>
-		���������̂���A<player_nickname><end_line>
-		����ȕ��ɁA���Ɍ�������Ă����<end_line>
-		���ʂ����P�K�����Ă��܂���<end_line>
+		落ち着くのじゃ、<player_nickname><end_line>
+		そんな風に、頭に血が上っておると<end_line>
+		おぬしもケガをしてしまうぞ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -478,16 +478,16 @@
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
 		<sjis>
-			��������<three_dots>�A�킩����<end_line>
-			������̓X�|�[�g���A�̉���<end_line>
-			�}�����I<end_line>
+			そうだな<three_dots>、わかった<end_line>
+			あいつらはスポート洞窟の奥だ<end_line>
+			急ごう！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			��������<three_dots>�A�킩����<end_line>
-			���̐l�����̓X�|�[�g���A�̉��݂���<end_line>
-			�}�����I<end_line>
+			そうだね<three_dots>、わかった<end_line>
+			あの人たちはスポート洞窟の奥みたい<end_line>
+			急ごう！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -498,16 +498,16 @@
 	<portrait_r entry="partner" eye="decided" mouth="tense">
 	<male>
 		<sjis>
-			�������[�A������<three_dots><end_line>
-			�U�b�N�ɂ܂ł���Ȃ��Ƃ�<three_dots><end_line>
-			��΂�邳�Ȃ���<three_dots>�I<end_line>
+			くっそー、あいつら<three_dots><end_line>
+			ザックにまであんなことを<three_dots><end_line>
+			絶対ゆるさないぜ<three_dots>！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			���̐l�����A�U�b�N�ɂ܂�<end_line>
-			�q�h�C���Ƃ���Ȃ��<three_dots><end_line>
-			��΂�邳�Ȃ�����<three_dots>�I<end_line>
+			あの人たち、ザックにまで<end_line>
+			ヒドイことするなんて<three_dots><end_line>
+			絶対ゆるさないから<three_dots>！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -517,9 +517,9 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<portrait_r entry="partner" eye="decided" mouth="talk">
 	<sjis>
-		�ӂ�<three_dots><end_line>
-		����ȂɔM���Ȃ��Ă���<end_line>
-		���c��Ƃ܂Ƃ��ɐ킦��̂��H<end_line>
+		ふん<three_dots><end_line>
+		そんなに熱くなっていて<end_line>
+		ヤツらとまともに戦えるのか？<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -529,16 +529,16 @@
 	<portrait_r entry="partner" eye="decided" mouth="talk">
 	<male>
 		<sjis>
-			������<three_dots>�A���肪�Ƃ�<partner><end_line>
-			������̓X�|�[�g���A�̉���<end_line>
-			�������čs�����I<end_line>
+			そうか<three_dots>、ありがとう<partner><end_line>
+			あいつらはスポート洞窟の奥だ<end_line>
+			落ちついて行くぜ！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			������<three_dots>�A���肪�Ƃ�<partner><end_line>
-			���̐l�����̓X�|�[�g���A�̉��݂���<end_line>
-			�������čs�����I<end_line>
+			そうか<three_dots>、ありがとう<partner><end_line>
+			あの人たちはスポート洞窟の奥みたい<end_line>
+			落ちついて行こう！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -548,16 +548,16 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			�������[�A������<three_dots><end_line>
-			�U�b�N�ɂ܂ł���Ȃ��Ƃ�<three_dots><end_line>
-			��΂�邳�Ȃ���<three_dots>�I<end_line>
+			くっそー、あいつら<three_dots><end_line>
+			ザックにまであんなことを<three_dots><end_line>
+			絶対ゆるさないぜ<three_dots>！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			���̐l�����A�U�b�N�ɂ܂�<end_line>
-			�q�h�C���Ƃ���Ȃ��<three_dots><end_line>
-			��΂�邳�Ȃ�����<three_dots>�I<end_line>
+			あの人たち、ザックにまで<end_line>
+			ヒドイことするなんて<three_dots><end_line>
+			絶対ゆるさないから<three_dots>！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -566,9 +566,9 @@
 	<info box="right">
 	<portrait_r name="partner">
 	<sjis>
-		���������Ă�������<end_line>
-		����ȕ��ɃJ�b�J���Ă��<end_line>
-		���Ȃ��܂ł���Ă��܂��܂���<end_line>
+		落ち着いてください<end_line>
+		そんな風にカッカしてると<end_line>
+		あなたまでやられてしまいますわ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -577,16 +577,16 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			��������<three_dots>�A�킩����<end_line>
-			������̓X�|�[�g���A�̉���<end_line>
-			�}�����I<end_line>
+			そうだな<three_dots>、わかった<end_line>
+			あいつらはスポート洞窟の奥だ<end_line>
+			急ごう！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			��������<three_dots>�A�킩����<end_line>
-			���̐l�����̓X�|�[�g���A�̉��݂���<end_line>
-			�}�����I<end_line>
+			そうだね<three_dots>、わかった<end_line>
+			あの人たちはスポート洞窟の奥みたい<end_line>
+			急ごう！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -596,9 +596,9 @@
 	<portrait_l entry="player" eye="surprised" mouth="stressed">
 	<portrait_r entry="partner" eye="serious" mouth="tense">
 	<sjis>
-		�p�C�N�Ɛe�����X�|�[�g���A��<end_line>
-		���֍s�����������<end_line>
-		�}���Œǂ������悤�I<end_line>
+		パイクと親方がスポート洞窟の<end_line>
+		奥へ行っちゃったよ<end_line>
+		急いで追いかけよう！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -607,9 +607,9 @@
 	<portrait_l entry="player" eye="surprised" mouth="stressed">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		���m�g�R���@�ރK�@�݂�[�̗l�m<end_line>
-		�s�����m���@�B��m��K�J���f�X<end_line>
-		�ӎ��K�A���E�`�j�@�ǃC�c�L�}�V���E<end_line>
+		今ノトコロ　彼ガ　みゅーの様ノ<end_line>
+		行方ヲ知ル　唯一ノ手ガカリデス<end_line>
+		意識ガアルウチニ　追イツキマショウ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -619,14 +619,14 @@
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
-			�e��<three_dots><end_line>
-			���̂ނ��烀�`������Ȃ��<three_dots><end_line>
+			親方<three_dots><end_line>
+			たのむからムチャするなよな<three_dots><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�e����<three_dots><end_line>
-			���̂ނ��烀�`�����Ȃ��ł��<three_dots><end_line>
+			親方ぁ<three_dots><end_line>
+			たのむからムチャしないでよね<three_dots><end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -636,9 +636,9 @@
 	<portrait_l entry="player" eye="surprised" mouth="stressed">
 	<portrait_r entry="partner" eye="serious" mouth="tense">
 	<sjis>
-		�p�C�N�Ɛe�����X�|�[�g���A��<end_line>
-		���֍s�����������<end_line>
-		�}���Œǂ������悤�I<end_line>
+		パイクと親方がスポート洞窟の<end_line>
+		奥へ行っちゃったよ<end_line>
+		急いで追いかけよう！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -647,9 +647,9 @@
 	<portrait_l entry="player" eye="surprised" mouth="stressed">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<sjis>
-		���₵�����A�~���[�m�̍s����m��<end_line>
-		�B��̎肪���肪�A���̒j����<end_line>
-		�����Ă邤���ɁA�ǂ�������<end_line>
+		くやしいが、ミューノの行方を知る<end_line>
+		唯一の手がかりが、あの男じゃ<end_line>
+		生きてるうちに、追いつこうぞ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -659,14 +659,14 @@
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
 		<sjis>
-			�e��<three_dots><end_line>
-			���̂ނ��烀�`������Ȃ��<three_dots><end_line>
+			親方<three_dots><end_line>
+			たのむからムチャするなよな<three_dots><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�e����<three_dots><end_line>
-			���̂ނ��烀�`�����Ȃ��ł��<three_dots><end_line>
+			親方ぁ<three_dots><end_line>
+			たのむからムチャしないでよね<three_dots><end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -676,9 +676,9 @@
 	<portrait_l entry="player" eye="surprised" mouth="stressed">
 	<portrait_r entry="partner" eye="serious" mouth="tense">
 	<sjis>
-		�p�C�N�Ɛe�����X�|�[�g���A��<end_line>
-		���֍s�����������<end_line>
-		�}���Œǂ������悤�I<end_line>
+		パイクと親方がスポート洞窟の<end_line>
+		奥へ行っちゃったよ<end_line>
+		急いで追いかけよう！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -687,9 +687,9 @@
 	<portrait_l entry="player" eye="surprised" mouth="stressed">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<sjis>
-		��������<three_dots><end_line>
-		���c�Ƀg�h���������͎̂���<end_line>
-		���̏��ł͂Ȃ�<end_line>
+		そうだな<three_dots><end_line>
+		ヤツにトドメをさすのは私だ<end_line>
+		あの女ではない<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -699,16 +699,16 @@
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
 		<sjis>
-			���̂ނ�<three_dots><end_line>
-			���̂Ƃ���~���[�m�̎肪�����<end_line>
-			���������Ȃ񂾂��炳<three_dots><end_line>
+			たのむよ<three_dots><end_line>
+			今のところミューノの手がかりは<end_line>
+			あいつだけなんだからさ<three_dots><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			���̂ނ�<three_dots><end_line>
-			���̂Ƃ���~���[�m�̎肪�����<end_line>
-			���������Ȃ񂾂�<three_dots><end_line>
+			たのむよ<three_dots><end_line>
+			今のところミューノの手がかりは<end_line>
+			あいつだけなんだよ<three_dots><end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -717,9 +717,9 @@
 	<info box="left">
 	<portrait_l name="player">
 	<sjis>
-		�p�C�N�Ɛe�����X�|�[�g���A��<end_line>
-		���֍s�����������<end_line>
-		�}���Œǂ������悤�I<end_line>
+		パイクと親方がスポート洞窟の<end_line>
+		奥へ行っちゃったよ<end_line>
+		急いで追いかけよう！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -727,9 +727,9 @@
 	<info box="right">
 	<portrait_r name="partner">
 	<sjis>
-		���̂Ƃ���~���[�m���܂�<end_line>
-		�B��̎肪���肪�A���̒j�ł������<end_line>
-		����������Ԃɒǂ����܂��傤�I<end_line>
+		今のところミューノさまの<end_line>
+		唯一の手がかりが、あの男ですからね<end_line>
+		口がきける間に追いつきましょう！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -738,14 +738,14 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			�e��<three_dots><end_line>
-			���̂ނ��烀�`������Ȃ��<three_dots><end_line>
+			親方<three_dots><end_line>
+			たのむからムチャするなよな<three_dots><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�e����<three_dots><end_line>
-			���̂ނ��烀�`�����Ȃ��ł��<three_dots><end_line>
+			親方ぁ<three_dots><end_line>
+			たのむからムチャしないでよね<three_dots><end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -756,16 +756,16 @@
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
 		<sjis>
-			�~���[�m�̓X�|�[�g���A�̉����I<end_line>
-			��ɍs�����e��������<end_line>
-			�ǂ������悤�I<end_line>
+			ミューノはスポート洞窟の奥だ！<end_line>
+			先に行った親方たちを<end_line>
+			追いかけよう！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�~���[�m�̓X�|�[�g���A�̉�����I<end_line>
-			��ɍs�����e��������<end_line>
-			�ǂ������悤�I<end_line>
+			ミューノはスポート洞窟の奥だよ！<end_line>
+			先に行った親方たちを<end_line>
+			追いかけよう！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -775,9 +775,9 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		���^�`�m�������@�݂�[�̗l�K<end_line>
-		�҃b�e�C���n�Y�f�X<end_line>
-		�}�M�}�V���E�I<end_line>
+		私タチノ到着ヲ　みゅーの様ガ<end_line>
+		待ッテイルハズデス<end_line>
+		急ギマショウ！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -787,9 +787,9 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		�������I<end_line>
-		�������S���Ƃ����܂���<end_line>
-		�~���[�m�����Ԃ��񂾁I<end_line>
+		よっしゃ！<end_line>
+		あいつらを全員とっつかまえて<end_line>
+		ミューノを取り返すんだ！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -799,7 +799,7 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		����ōŌ�ɂ��Ă�邺�I<end_line>
+		これで最後にしてやるぜ！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -809,9 +809,9 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		�悧���I<end_line>
-		�������S���߂܂���<end_line>
-		�~���[�m�����Ԃ����I<end_line>
+		よぉし！<end_line>
+		あいつらを全員捕まえて<end_line>
+		ミューノを取り返そう！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -821,7 +821,7 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		����ōŌ�ɂ��Ă݂���I<end_line>
+		これで最後にしてみせる！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -831,16 +831,16 @@
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
 		<sjis>
-			�~���[�m�̓X�|�[�g���A�̉����I<end_line>
-			��ɍs�����e��������<end_line>
-			�ǂ������悤�I<end_line>
+			ミューノはスポート洞窟の奥だ！<end_line>
+			先に行った親方たちを<end_line>
+			追いかけよう！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�~���[�m�̓X�|�[�g���A�̉�����I<end_line>
-			��ɍs�����e��������<end_line>
-			�ǂ������悤�I<end_line>
+			ミューノはスポート洞窟の奥だよ！<end_line>
+			先に行った親方たちを<end_line>
+			追いかけよう！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -850,9 +850,9 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="neutral">
 	<sjis>
-		�}���̂���I<end_line>
-		�����ƍ�����~���[�m��<end_line>
-		��炪����̂�S�҂��ɂ��Ă��邼<end_line>
+		急ぐのじゃ！<end_line>
+		きっと今ごろミューノは<end_line>
+		我らが来るのを心待ちにしておるぞ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -862,9 +862,9 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<portrait_r entry="partner" eye="decided" mouth="neutral">
 	<sjis>
-		�������I<end_line>
-		�������S���Ƃ����܂���<end_line>
-		�~���[�m�����Ԃ��񂾁I<end_line>
+		よっしゃ！<end_line>
+		あいつらを全員とっつかまえて<end_line>
+		ミューノを取り返すんだ！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -874,7 +874,7 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="decided" mouth="neutral">
 	<sjis>
-		����ōŌ�ɂ��Ă�邺�I<end_line>
+		これで最後にしてやるぜ！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -884,9 +884,9 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<portrait_r entry="partner" eye="decided" mouth="neutral">
 	<sjis>
-		�悧���I<end_line>
-		�������S���߂܂���<end_line>
-		�~���[�m�����Ԃ����I<end_line>
+		よぉし！<end_line>
+		あいつらを全員捕まえて<end_line>
+		ミューノを取り返そう！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -896,7 +896,7 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="decided" mouth="neutral">
 	<sjis>
-		����ōŌ�ɂ��Ă݂���I<end_line>
+		これで最後にしてみせる！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -906,16 +906,16 @@
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
 		<sjis>
-			�~���[�m�̓X�|�[�g���A�̉����I<end_line>
-			��ɍs�����e��������<end_line>
-			�ǂ������悤�I<end_line>
+			ミューノはスポート洞窟の奥だ！<end_line>
+			先に行った親方たちを<end_line>
+			追いかけよう！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�~���[�m�̓X�|�[�g���A�̉�����I<end_line>
-			��ɍs�����e��������<end_line>
-			�ǂ������悤�I<end_line>
+			ミューノはスポート洞窟の奥だよ！<end_line>
+			先に行った親方たちを<end_line>
+			追いかけよう！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -925,9 +925,9 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="talk">
 	<sjis>
-		�}�������������񂶂�Ȃ����H<end_line>
-		�L�T�}������̂����܂�ɂ���������<end_line>
-		�����날���A�{���Ă��邼<end_line>
+		急いだ方がいいんじゃないか？<end_line>
+		キサマが来るのがあまりにおそいから<end_line>
+		今ごろあいつ、怒っているぞ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -937,9 +937,9 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<portrait_r entry="partner" eye="decided" mouth="talk">
 	<sjis>
-		�������ȁA�}�����I<end_line>
-		�������S���Ƃ����܂���<end_line>
-		�~���[�m�����Ԃ��񂾁I<end_line>
+		そうだな、急ごう！<end_line>
+		あいつらを全員とっつかまえて<end_line>
+		ミューノを取り返すんだ！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -949,7 +949,7 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="decided" mouth="talk">
 	<sjis>
-		����ōŌ�ɂ��Ă�邺�I<end_line>
+		これで最後にしてやるぜ！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -959,9 +959,9 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<portrait_r entry="partner" eye="decided" mouth="talk">
 	<sjis>
-		�������ˁA�}�����I<end_line>
-		�������S���߂܂���<end_line>
-		�~���[�m�����Ԃ����I<end_line>
+		そうだね、急ごう！<end_line>
+		あいつらを全員捕まえて<end_line>
+		ミューノを取り返そう！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -971,7 +971,7 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="decided" mouth="talk">
 	<sjis>
-		����ōŌ�ɂ��Ă݂���I<end_line>
+		これで最後にしてみせる！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -980,16 +980,16 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			�~���[�m�̓X�|�[�g���A�̉����I<end_line>
-			��ɍs�����e��������<end_line>
-			�ǂ������悤�I<end_line>
+			ミューノはスポート洞窟の奥だ！<end_line>
+			先に行った親方たちを<end_line>
+			追いかけよう！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�~���[�m�̓X�|�[�g���A�̉�����I<end_line>
-			��ɍs�����e��������<end_line>
-			�ǂ������悤�I<end_line>
+			ミューノはスポート洞窟の奥だよ！<end_line>
+			先に行った親方たちを<end_line>
+			追いかけよう！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -998,9 +998,9 @@
 	<info box="right">
 	<portrait_r name="partner">
 	<sjis>
-		�}���܂��傤�I<end_line>
-		�����ƍ�����~���[�m�l��<end_line>
-		��������҂�����Ă��܂���I<end_line>
+		急ぎましょう！<end_line>
+		きっと今ごろミューノ様は<end_line>
+		私たちを待ちつかれていますわ！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -1009,9 +1009,9 @@
 	<info box="left">
 	<portrait_l name="player">
 	<sjis>
-		�������I<end_line>
-		�������S���Ƃ����܂���<end_line>
-		�~���[�m�����Ԃ��񂾁I<end_line>
+		よっしゃ！<end_line>
+		あいつらを全員とっつかまえて<end_line>
+		ミューノを取り返すんだ！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -1020,7 +1020,7 @@
 	<info box="left">
 	<portrait_l name="player">
 	<sjis>
-		����ōŌ�ɂ��Ă�邺�I<end_line>
+		これで最後にしてやるぜ！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -1029,9 +1029,9 @@
 	<info box="left">
 	<portrait_l name="player">
 	<sjis>
-		�悧���I<end_line>
-		�������S���߂܂���<end_line>
-		�~���[�m�����Ԃ����I<end_line>
+		よぉし！<end_line>
+		あいつらを全員捕まえて<end_line>
+		ミューノを取り返そう！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -1040,6 +1040,6 @@
 	<info box="left">
 	<portrait_l name="player">
 	<sjis>
-		����ōŌ�ɂ��Ă݂���I<end_line>
+		これで最後にしてみせる！<end_line>
 	</sjis>
 </dialogue>

@@ -1,13 +1,13 @@
 <location>
   <sjis>
-    ƒ{ƒXƒ^ƒtH–[@ƒfƒBƒbƒNƒ‹‘ºŽx•”<end_line>
+    ãƒœã‚¹ã‚¿ãƒ•å·¥æˆ¿ã€€ãƒ‡ã‚£ãƒƒã‚¯ãƒ«æ‘æ”¯éƒ¨<end_line>
   </sjis>
 </location>
 <dialogue>
   <info box="simple">
   <portrait_l name="man">
   <sjis>
-    ‰½‚¾‚æ<end_line>
+    ä½•ã ã‚ˆ<end_line>
   </sjis>
   <ascii>
     What is it? Leave me alone.<end_line>
@@ -17,9 +17,9 @@
   <info box="simple">
   <portrait_l name="woman">
   <sjis>
-    ƒAƒJƒoƒl‚Á‚Ä‚¢‚¤‹¥–\‚È¢Š«b‚Æ<end_line>
-    í‚¨‚¤‚Á‚Äl‚¢‚é‚ç‚µ‚¢‚¯‚Ç<end_line>
-    ‚»‚ñ‚È•|‚¢‚±‚Æ<end_line>
+    ã‚¢ã‚«ãƒãƒã£ã¦ã„ã†å‡¶æš´ãªå¬å–šç£ã¨<end_line>
+    æˆ¦ãŠã†ã£ã¦äººã„ã‚‹ã‚‰ã—ã„ã‘ã©<end_line>
+    ãã‚“ãªæ€–ã„ã“ã¨<end_line>
   </sjis>
   <ascii>
     I hear there's someone looking<end_line>
@@ -30,7 +30,7 @@
   <info box="simple">
   <portrait_l name="woman">
   <sjis>
-    ‚¢‚Á‚½‚¢‰½‚ª‚¨‚à‚µ‚ë‚¢‚Ì‚©‚µ‚ç<end_line>
+    ã„ã£ãŸã„ä½•ãŒãŠã‚‚ã—ã‚ã„ã®ã‹ã—ã‚‰<end_line>
   </sjis>
   <ascii>
     I wonder what is so interesting<end_line>

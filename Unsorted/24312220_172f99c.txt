@@ -1,6 +1,6 @@
 <location>
 	<sjis>
-		ロブ工房　１階<end_line>
+		繝ｭ繝門ｷ･謌ｿ縲�ｼ鷹嚴<end_line>
 	</sjis>
 </location>
 <dialogue>
@@ -8,12 +8,12 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			ミューノを起こしに行かないと<end_line>
+			繝溘Η繝ｼ繝弱ｒ襍ｷ縺薙＠縺ｫ陦後°縺ｪ縺�縺ｨ<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			ミューノを起こしに行かなきゃ<end_line>
+			繝溘Η繝ｼ繝弱ｒ襍ｷ縺薙＠縺ｫ陦後°縺ｪ縺阪ｃ<end_line>
 		</sjis>
 	</female>
 </dialogue>

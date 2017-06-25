@@ -1,40 +1,40 @@
 <location>
 	<sjis>
-		�v���X�o���̒�<end_line>
+		プロスバンの町<end_line>
 	</sjis>
 </location>
 <location>
 	<sjis>
-		�v���X�o���̒��@�z�Ƌ�<end_line>
+		プロスバンの町　鉱業区<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="special">
 	<sjis>
-		�@<end_line>
-		�@�@�@�@�@�@�@�{���x��<end_line>
+		　<end_line>
+		　　　　　　　本日休業<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="gatekeeper">
 	<sjis>
-		��l�����͊��S���Ȃ���<end_line>
+		一人歩きは感心しないな<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="child">
 	<sjis>
-		���`��<end_line>
-		�Ȃ񂩂������낢�V�ђm��Ȃ��H<end_line>
+		う～ん<end_line>
+		なんかおもしろい遊び知らない？<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		�I�΂ꂽ���q�l������<end_line>
-		�ō��̈ꎞ�������グ�܂�<end_line>
-		���������Ă݂܂��񂩁H<end_line>
+		選ばれたお客様だけに<end_line>
+		最高の一時を差し上げます<end_line>
+		福引きしてみませんか？<end_line>
 	</sjis>
 </dialogue>

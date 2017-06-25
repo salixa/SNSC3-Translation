@@ -3,9 +3,9 @@
 	<portrait_l entry="jade" eye="serious" mouth="talk">
 	<portrait_r entry="player" eye="serious" mouth="tense">
 	<sjis>
-		�����͂���J��������<end_line>
-		���O�͑�������ł����A���̔h������<end_line>
-		�Ăяo����邱�Ƃ͂Ȃ����낤��<end_line>
+		今日はご苦労だったな<end_line>
+		お前は多分これでもう、金の派閥から<end_line>
+		呼び出されることはないだろうよ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -13,9 +13,9 @@
 	<portrait_l entry="jade" eye="serious" mouth="talk">
 	<portrait_r entry="player" eye="serious" mouth="serious">
 	<sjis>
-		���Ǎ���]�v�Ȃ��Ƃ͘b���Ȃ��Ă���<end_line>
-		�ȊO�A�ǂ��Ȃ����񂾂�<end_line>
-		�悭�킩��Ȃ�������<end_line>
+		結局今後余計なことは話すなってこと<end_line>
+		以外、どうなったんだか<end_line>
+		よくわかんなかったよ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -23,9 +23,9 @@
 	<portrait_l entry="jade" eye="serious" mouth="neutral">
 	<portrait_r entry="player" eye="serious" mouth="serious">
 	<sjis>
-		�I��������<end_line>
-		���̐l�����ɂ͂��̐l�����Ȃ��<end_line>
-		��؂Ȃ��񂪂�����Ă��Ƃ��낤<end_line>
+		オレもだよ<end_line>
+		あの人たちにはあの人たちなりの<end_line>
+		大切なもんがあるってことだろう<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -33,9 +33,9 @@
 	<portrait_l entry="jade" eye="sad" mouth="neutral">
 	<portrait_r entry="player" eye="serious" mouth="serious">
 	<sjis>
-		������Ȃ������c�Ƃ��Ȃ�Ƃ��A��<end_line>
-		���O�Ƃ͊֌W�˂����Ƃ�<end_line>
-		�{���ɂ��܂Ȃ��Ǝv���Ă��<end_line>
+		くだらないメンツとかなんとか、な<end_line>
+		お前とは関係ねぇことだ<end_line>
+		本当にすまないと思ってるよ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -43,8 +43,8 @@
 	<portrait_l entry="jade" eye="sad" mouth="neutral">
 	<portrait_r entry="player" eye="surprised" mouth="tense">
 	<sjis>
-		�����<three_dots><end_line>
-		�ǂ����ăA�j�L��<three_dots><end_line>
+		そんな<three_dots><end_line>
+		どうしてアニキが<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -52,7 +52,7 @@
 	<portrait_l entry="jade" eye="decided" mouth="neutral">
 	<portrait_r entry="player" eye="surprised" mouth="tense">
 	<sjis>
-		���O�͂��̒���<three_dots>�A����<end_line>
+		お前はこの町を<three_dots>、いや<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -61,12 +61,12 @@
 	<portrait_r entry="player" eye="surprised" mouth="tense">
 	<male>
 		<sjis>
-			���̐��E���~�����j�ƌ����Ă�<end_line>
+			この世界を救った男と言っても<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			���̐��E���~�������ƌ����Ă�<end_line>
+			この世界を救った女と言っても<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -75,7 +75,7 @@
 	<portrait_l entry="jade" eye="decided" mouth="neutral">
 	<portrait_r entry="player" eye="surprised" mouth="tense">
 	<sjis>
-		�������낤<end_line>
+		いいだろう<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -83,9 +83,9 @@
 	<portrait_l entry="jade" eye="decided" mouth="serious">
 	<portrait_r entry="player" eye="surprised" mouth="serious">
 	<sjis>
-		����Ȃ̂ɁA���̘A���̑Ή�<three_dots><end_line>
-		���̒��ɏZ�ސl�ԂƂ���<end_line>
-		�{���ɂ��܂Ȃ��Ǝv���Ă���<end_line>
+		それなのに、あの連中の対応<three_dots><end_line>
+		この町に住む人間として<end_line>
+		本当にすまないと思っている<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -94,14 +94,14 @@
 	<portrait_r entry="player" eye="happy_blush" mouth="stressed">
 	<male>
 		<sjis>
-			����ȁA�A�j�L�A�傰����<three_dots><end_line>
-			�I�������E���~�������Ȃ��<end_line>
+			そんな、アニキ、大げさな<three_dots><end_line>
+			オレが世界を救っただなんて<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			����ȁA�A�j�L�A�傰����<three_dots><end_line>
-			�킽�������E���~�������Ȃ��<end_line>
+			そんな、アニキ、大げさな<three_dots><end_line>
+			わたしが世界を救っただなんて<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -110,9 +110,9 @@
 	<portrait_l entry="jade" eye="decided" mouth="talk">
 	<portrait_r entry="player" eye="happy_blush" mouth="stressed">
 	<sjis>
-		�ȂɌ����ă�����A<player_nickname><end_line>
-		���O�̓X�Q�F���Ƃ����Ƃ�����<end_line>
-		�����Ǝ��M��������<end_line>
+		なに言ってンだよ、<player_nickname><end_line>
+		お前はスゲェことをやりとげたんだ<end_line>
+		もっと自信を持ちな<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -120,8 +120,8 @@
 	<portrait_l entry="jade" eye="decided" mouth="talk">
 	<portrait_r entry="player" eye="neutral_blush" mouth="talk">
 	<sjis>
-		���ւ�<three_dots><end_line>
-		�������ȁ`<end_line>
+		えへへ<three_dots><end_line>
+		そっかな～<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -130,16 +130,16 @@
 	<portrait_r entry="player" eye="neutral_blush" mouth="talk">
 	<male>
 		<sjis>
-			�����A���O�͂��������j����<end_line>
-			���܂ł̓��u�̒�q<end_line>
-			���킢���핪�Ƃ��v���Ă�����<three_dots><end_line>
+			ああ、お前はたいした男だぜ<end_line>
+			今まではロブの弟子<end_line>
+			かわいい弟分とか思っていたが<three_dots><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�����A���O�͂�������������<end_line>
-			���܂ł̓��u�̒�q<end_line>
-			���킢�������Ƃ��v���Ă�����<three_dots><end_line>
+			ああ、お前はたいした女だぜ<end_line>
+			今まではロブの弟子<end_line>
+			かわいい妹分とか思っていたが<three_dots><end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -148,8 +148,8 @@
 	<portrait_l entry="jade" eye="serious" mouth="tense">
 	<portrait_r entry="player" eye="serious" mouth="neutral">
 	<sjis>
-		���ꂩ��̓I����<end_line>
-		������ς��Ȃ��Ƃ����˂���<three_dots><end_line>
+		これからはオレも<end_line>
+		見方を変えないといけねぇな<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -157,7 +157,7 @@
 	<portrait_l entry="jade" eye="serious" mouth="tense">
 	<portrait_r entry="player" eye="serious" mouth="tense">
 	<sjis>
-		�A�j�L<end_line>
+		アニキ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -166,16 +166,16 @@
 	<portrait_r entry="player" eye="serious" mouth="tense">
 	<male>
 		<sjis>
-			����������H<end_line>
-			���O�͂����핪����Ȃ����Ă�<end_line>
-			���O�͂������h�Ȓb��t��<three_dots><end_line>
+			言っただろ？<end_line>
+			お前はもう弟分じゃないってな<end_line>
+			お前はもう立派な鍛冶師だ<three_dots><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			����������H<end_line>
-			���O�͂�����������Ȃ����Ă�<end_line>
-			���O�͂������h�Ȓb��t��<three_dots><end_line>
+			言っただろ？<end_line>
+			お前はもう妹分じゃないってな<end_line>
+			お前はもう立派な鍛冶師だ<three_dots><end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -184,9 +184,9 @@
 	<portrait_l entry="jade" eye="decided" mouth="talk">
 	<portrait_r entry="player" eye="neutral_blush" mouth="tense">
 	<sjis>
-		��l�O�̒b��t����<end_line>
-		����������I���̂��Ƃ�<end_line>
-		�A�j�L�Ƃ͌ĂԂȁI<end_line>
+		一人前の鍛冶師だよ<end_line>
+		だからもうオレのことを<end_line>
+		アニキとは呼ぶな！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -195,16 +195,16 @@
 	<portrait_r entry="player" eye="surprised_blush" mouth="serious">
 	<male>
 		<sjis>
-			��<three_dots>�A�ł��A�����<three_dots><end_line>
-			�A�j�L���A�j�L����Ȃ��Ȃ�Ȃ��<three_dots><end_line>
-			�I��<three_dots><end_line>
+			え<three_dots>、でも、そんな<three_dots><end_line>
+			アニキがアニキじゃなくなるなんて<three_dots><end_line>
+			オレ<three_dots><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			��<three_dots>�A�ł��A�����<three_dots><end_line>
-			�A�j�L���A�j�L����Ȃ��Ȃ�Ȃ��<three_dots><end_line>
-			�킽��<three_dots><end_line>
+			え<three_dots>、でも、そんな<three_dots><end_line>
+			アニキがアニキじゃなくなるなんて<three_dots><end_line>
+			わたし<three_dots><end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -213,9 +213,9 @@
 	<portrait_l entry="jade" eye="decided_blush" mouth="neutral">
 	<portrait_r entry="player" eye="surprised_blush" mouth="serious">
 	<sjis>
-		�������A�I���͂���<end_line>
-		���O�̃A�j�L����˂�<three_dots><end_line>
-		���ꂩ��I���́A���O��<three_dots><end_line>
+		そうだ、オレはもう<end_line>
+		お前のアニキじゃねぇ<three_dots><end_line>
+		これからオレは、お前の<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -224,7 +224,7 @@
 	<portrait_l entry="jade" eye="decided_blush" mouth="neutral">
 	<portrait_r entry="player" eye="serious" mouth="tense">
 	<sjis>
-		�I����<three_dots>�H<end_line>
+		オレの<three_dots>？<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -233,7 +233,7 @@
 	<portrait_l entry="jade" eye="decided_blush" mouth="neutral">
 	<portrait_r entry="player" eye="neutral_blush" mouth="tense">
 	<sjis>
-		�킽����<three_dots>�H<end_line>
+		わたしの<three_dots>？<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -241,7 +241,7 @@
 	<portrait_l entry="jade" eye="decided" mouth="talk">
 	<portrait_r entry="player" eye="neutral_blush" mouth="tense">
 	<sjis>
-		�I���͂��O�́A���C�o�����I<end_line>
+		オレはお前の、ライバルだ！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -249,7 +249,7 @@
 	<portrait_l entry="jade" eye="decided" mouth="talk">
 	<portrait_r entry="player" eye="surprised" mouth="stressed">
 	<sjis>
-		�́H<end_line>
+		は？<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -258,12 +258,12 @@
 	<portrait_r entry="player" eye="surprised" mouth="stressed">
 	<male>
 		<sjis>
-			���E���~�����j�H�@�㓙���I<end_line>
+			世界を救った男？　上等だ！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			���E���~�������H�@�㓙���I<end_line>
+			世界を救った女？　上等だ！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -272,8 +272,8 @@
 	<portrait_l entry="jade" eye="decided" mouth="yell">
 	<portrait_r entry="player" eye="surprised" mouth="stressed">
 	<sjis>
-		�s���g�̃W�F�C�h�̑���ɂ�<end_line>
-		�ӂ��킵�����Ă��񂾂��I<end_line>
+		不死身のジェイドの相手には<end_line>
+		ふさわしいってもんだぜ！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -281,9 +281,9 @@
 	<portrait_l entry="jade" eye="decided" mouth="yell">
 	<portrait_r entry="player" eye="surprised" mouth="neutral">
 	<sjis>
-		��<three_dots><end_line>
-		�͂�<three_dots><end_line>
-		�͂͂�<three_dots><end_line>
+		は<three_dots><end_line>
+		はは<three_dots><end_line>
+		ははは<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -291,9 +291,9 @@
 	<portrait_l entry="jade" eye="decided" mouth="yell">
 	<portrait_r entry="player" eye="decided" mouth="talk">
 	<sjis>
-		�������I<end_line>
-		���C�o�����I<end_line>
-		��[�����I<end_line>
+		そっか！<end_line>
+		ライバルか！<end_line>
+		よーっし！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -301,7 +301,7 @@
 	<portrait_l entry="jade" eye="decided" mouth="talk">
 	<portrait_r entry="player" eye="decided" mouth="talk">
 	<sjis>
-		���A�R���Ă�����<end_line>
-		�������Ȃ�������I<end_line>
+		お、燃えてきたな<end_line>
+		そうこなくっちゃ！<end_line>
 	</sjis>
 </dialogue>

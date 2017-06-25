@@ -2,8 +2,8 @@
 	<info box="simple">
 	<portrait_r name="man">
 	<sjis>
-		�Ȃ񂾁I�H<end_line>
-		�͂���̒�q���Ȃ񂩗p���I�H<end_line>
+		なんだ！？<end_line>
+		はぐれの弟子がなんか用か！？<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -11,14 +11,14 @@
 	<portrait_l entry="player" eye="serious" mouth="tense">
 	<male>
 		<sjis>
-			����<three_dots><end_line>
-			�l���������Ă�񂾂���<three_dots><end_line>
+			あの<three_dots><end_line>
+			人をさがしてるんだけど<three_dots><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			����<three_dots><end_line>
-			�l���������Ă�񂾂���<three_dots><end_line>
+			あの<three_dots><end_line>
+			人をさがしてるんだけど<three_dots><end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -26,7 +26,7 @@
 	<info box="simple">
 	<portrait_r name="man">
 	<sjis>
-		�A��I<end_line>
+		帰れ！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -40,16 +40,16 @@
 	<info box="simple">
 	<portrait_r name="man">
 	<sjis>
-		�Ȃ񂾁H<end_line>
-		���̂��H<end_line>
+		なんだ？<end_line>
+		やるのか？<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="left">
 	<portrait_l entry="player" eye="surprised" mouth="stressed">
 	<sjis>
-		����<three_dots>�I<end_line>
-		��������Ȃ��āI<end_line>
+		そっ<three_dots>！<end_line>
+		そうじゃなくて！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -57,16 +57,16 @@
 	<portrait_l entry="player" eye="serious" mouth="stressed">
 	<male>
 		<sjis>
-			���A������ƁI<end_line>
-			���O<three_dots>�I<end_line>
-			���~�B<three_dots>�I<end_line>
+			あ、ちょっと！<end_line>
+			お前<three_dots>！<end_line>
+			レミィ<three_dots>！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			���A������ƁI<end_line>
-			����<three_dots>�I<end_line>
-			���~�B<three_dots>�I<end_line>
+			あ、ちょっと！<end_line>
+			あんた<three_dots>！<end_line>
+			レミィ<three_dots>！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -83,14 +83,14 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<male>
 		<sjis>
-			�Ȃ񂾂�I�H<end_line>
-			���V����ȁI<end_line>
+			なんだよ！？<end_line>
+			ムシすんな！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�Ȃɂ�I�H<end_line>
-			���V����Ȃ�āI<end_line>
+			なによ！？<end_line>
+			ムシするなんて！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -98,6 +98,6 @@
 	<info box="simple">
 	<portrait_r name="man">
 	<sjis>
-		��������o�Ă��I<end_line>
+		いいから出てけ！<end_line>
 	</sjis>
 </dialogue>

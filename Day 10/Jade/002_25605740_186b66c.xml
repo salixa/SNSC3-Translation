@@ -4,14 +4,14 @@
 <portrait_r entry="jade" eye="serious" mouth="neutral">
 <male>
   <sjis>
-    ���̕���Ȃ�<end_line>
-    �A�j�L�̃i�b�N����<three_dots><end_line>
+    この武器なら<end_line>
+    アニキのナックルに<three_dots><end_line>
   </sjis>
 </male>
 <female>
   <sjis>
-    ���̕���Ȃ�<end_line>
-    �A�j�L�̃i�b�N����<three_dots><end_line>
+    この武器なら<end_line>
+    アニキのナックルに<three_dots><end_line>
   </sjis>
 </female>
 <ascii>
@@ -23,9 +23,9 @@
 <portrait_l entry="player" eye="decided" mouth="serious">
 <portrait_r entry="jade" eye="serious" mouth="talk">
 <sjis>
-  �ւ�<three_dots><end_line>
-  ����ŃI���̃i�b�N����<end_line>
-  ������Ȃ̂��H<end_line>
+  へえ<three_dots><end_line>
+  これでオレのナックルに<end_line>
+  勝つつもりなのか？<end_line>
 </sjis>
 <ascii>
   Oh<three_dots><end_line>
@@ -49,8 +49,8 @@
 <portrait_l entry="player" eye="decided" mouth="neutral">
 <portrait_r entry="jade" eye="decided" mouth="talk">
 <sjis>
-  �ق�<three_dots><end_line>
-  ������<three_dots><end_line>
+  ほぉ<three_dots><end_line>
+  そうか<three_dots><end_line>
 </sjis>
 <ascii>
   Hoh<three_dots><end_line>
@@ -62,9 +62,9 @@
 <portrait_l entry="player" eye="decided" mouth="neutral">
 <portrait_r entry="jade" eye="special" mouth="yell">
 <sjis>
-  �悵<end_line>
-  ������͂Ȃ����I<end_line>
-  �������Ă����I<end_line>
+  よし<end_line>
+  手加減はなしだ！<end_line>
+  かかってこい！<end_line>
 </sjis>
 <ascii>
   Alright then.<end_line>

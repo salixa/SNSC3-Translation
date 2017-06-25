@@ -1,19 +1,19 @@
 <location>
   <sjis>
-    �v���X�o���̒�<end_line>
+    プロスバンの町<end_line>
   </sjis>
 </location>
 <location>
   <sjis>
-    �v���X�o���̒��@�k��O�H�[�ʂ�<end_line>
+    プロスバンの町　北門前工房通り<end_line>
   </sjis>
 </location>
 <dialogue>
   <info box="simple">
   <portrait_l name="gatekeeper">
   <sjis>
-    ����̖�Ԃ��P�K�����炵��<end_line>
-    �l���C�����Ȃ���<three_dots><end_line>
+    西門の門番がケガしたらしい<end_line>
+    僕も気をつけないと<three_dots><end_line>
   </sjis>
   <ascii>
     Seems like the gatekeeper at<end_line>
@@ -25,7 +25,7 @@
   <info box="simple">
   <portrait_l name="child">
   <sjis>
-    �˂��A���悢�悵���΂��������悤��<end_line>
+    ねぇ、いよいよしゅらばごっこしようよ<end_line>
   </sjis>
   <ascii>
     Hey, it's about time we do a drama.<end_line>
@@ -35,9 +35,9 @@
   <info box="simple">
   <portrait_l name="child">
   <sjis>
-    �{�N���~�N�_���n����������<end_line>
-    �L�~�͂ł�Ƃ��ł܂���<end_line>
-    ���Ă�����<end_line>
+    ボクがミクダリハンだすから<end_line>
+    キミはでるとこでましょ<end_line>
+    っていうの<end_line>
   </sjis>
   <ascii>
     I'll give you a divorce letter<end_line>
@@ -48,9 +48,9 @@
 <dialogue>
   <info box="simple">
   <sjis>
-    ����A����j��ɂ̓h�������L����<end_line>
-    ����j�󐄐i�ψ�����<end_line>
-    �������\���s���܂���<end_line>
+    昨日、武器破壊にはドリルが有効と<end_line>
+    武器破壊推進委員会からの<end_line>
+    公式発表が行われました<end_line>
   </sjis>
   <ascii>
     Yesterday, the committee for the<end_line>
@@ -61,9 +61,9 @@
 <dialogue>
   <info box="simple">
   <sjis>
-    ���̔��\�ɑ΂��A�A�N�X�𖳎�����Ƃ�<end_line>
-    �������ƈꕔ�̒b��E�l����R�c��<end_line>
-    �E�����Ă��܂�<end_line>
+    この発表に対し、アクスを無視するとは<end_line>
+    何事かと一部の鍛冶職人から抗議が<end_line>
+    殺到しています<end_line>
   </sjis>
   <ascii>
     In response, they receive a flood of<end_line>

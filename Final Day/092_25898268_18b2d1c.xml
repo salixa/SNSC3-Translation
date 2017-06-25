@@ -1,32 +1,32 @@
 <popup>
 	<sjis>
-		<partner>����ɕԂ����I<end_line>
+		<partner>が我に返った！<end_line>
 	</sjis>
 </popup>
 <popup>
 	<sjis>
-		�����̕ύX���\�ł�<end_line>
+		装備の変更が可能です<end_line>
 	</sjis>
 </popup>
 <menu>
 	<option>
 		<sjis>
-			�ύX����<end_line>
+			変更する<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			�ύX���Ȃ�<end_line>
+			変更しない<end_line>
 		</sjis>
 	</option>
 </menu>
 <location>
 	<sjis>
-		�S���@���̈��<end_line>
+		ゴヴァンの遺跡<end_line>
 	</sjis>
 </location>
 <location>
 	<sjis>
-		�S���@���̈�Ձ@�Ւd�̊�<end_line>
+		ゴヴァンの遺跡　祭壇の間<end_line>
 	</sjis>
 </location>

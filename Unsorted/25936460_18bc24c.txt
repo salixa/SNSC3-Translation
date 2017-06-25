@@ -1,10 +1,10 @@
 <location>
 	<sjis>
-		ƒSƒ”ƒ@ƒ“‚ÌˆâÕ<end_line>
+		ã‚´ãƒ´ã‚¡ãƒ³ã®éºè·¡<end_line>
 	</sjis>
 </location>
 <location>
 	<sjis>
-		ƒSƒ”ƒ@ƒ“‚ÌˆâÕ@ƒGƒŠƒA‚S<end_line>
+		ã‚´ãƒ´ã‚¡ãƒ³ã®éºè·¡ã€€ã‚¨ãƒªã‚¢ï¼”<end_line>
 	</sjis>
 </location>

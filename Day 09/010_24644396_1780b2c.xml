@@ -1,6 +1,6 @@
 <location>
 	<sjis>
-		���C�[�Y���@���Ƃ`<end_line>
+		ルイーズ村　民家Ａ<end_line>
 	</sjis>
 </location>
 ###ElderlyPeaceful
@@ -8,9 +8,9 @@
 	<info box="simple">
 	<portrait_l name="elderly">
 	<sjis>
-		�킵��N�ɂ����f��������<end_line>
-		�Â��ɕ�炵�Ă���̂�<end_line>
-		���̖��Ƃ�����<three_dots><end_line>
+		わしら誰にも迷惑かけずに<end_line>
+		静かに暮らしておるのに<end_line>
+		あの娘ときたら<three_dots><end_line>
 	</sjis>
   <ascii>
     We've been trying to<end_line>
@@ -22,8 +22,8 @@
 	<info box="simple">
 	<portrait_l name="elderly">
 	<sjis>
-		�܂��A���낵�����Ƃ�<end_line>
-		�N���Ȃ���΂悢�̂��Ⴊ<end_line>
+		また、恐ろしいことが<end_line>
+		起きなければよいのじゃが<end_line>
 	</sjis>
   <ascii>
     I hope nothing like that<end_line>

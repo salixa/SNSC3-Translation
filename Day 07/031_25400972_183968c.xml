@@ -3,8 +3,8 @@
   <portrait_l entry="player" eye="serious" mouth="neutral">
   <portrait_r entry="tram" eye="serious" mouth="neutral">
   <sjis>
-    ƒ‹ƒC[ƒY‘º‚ðo”­‚·‚é<end_line>
-    €”õ‚Í‚Å‚«‚Ü‚µ‚½‚©H<end_line>
+    ãƒ«ã‚¤ãƒ¼ã‚ºæ‘ã‚’å‡ºç™ºã™ã‚‹<end_line>
+    æº–å‚™ã¯ã§ãã¾ã—ãŸã‹ï¼Ÿ<end_line>
   </sjis>
   <ascii>
     Are you ready to<end_line>
@@ -16,7 +16,7 @@
   <portrait_r entry="tram" eye="serious" mouth="neutral">
   <option>
     <sjis>
-      €”õŠ®—¹‚Å‚·I<end_line>
+      æº–å‚™å®Œäº†ã§ã™ï¼<end_line>
     </sjis>
     <ascii>
       Ready!<end_line>
@@ -24,7 +24,7 @@
   </option>
   <option>
     <sjis>
-      ‚Ü‚¾–Y‚ê•¨‚ª‚ ‚é‚æ‚¤‚È‹C‚ª<three_dots><end_line>
+      ã¾ã å¿˜ã‚Œç‰©ãŒã‚ã‚‹ã‚ˆã†ãªæ°—ãŒ<three_dots><end_line>
     </sjis>
     <ascii>
       I feel like I'm<end_line>

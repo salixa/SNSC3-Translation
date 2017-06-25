@@ -1,20 +1,20 @@
 <location>
 	<sjis>
-		�v���X�o���̒��@���퉮<end_line>
+		プロスバンの町　武器屋<end_line>
 	</sjis>
 </location>
 <location>
 	<sjis>
-		�v���X�o���̒��@���퉮<end_line>
+		プロスバンの町　武器屋<end_line>
 	</sjis>
 </location>
 ###AlsoMaterials
 <dialogue>
 	<info box="simple">
 	<sjis>
-		�}�e������舵���Ă��܂�<end_line>
-		�������b��ɍœK�ȃA�C�e����<end_line>
-		������舵���Ă���܂�<end_line>
+		マテルも取り扱っています<end_line>
+		もちろん鍛冶に最適なアイテムも<end_line>
+		多数取り扱っております<end_line>
 	</sjis>
   <ascii>
     We stock matter as well.<end_line>

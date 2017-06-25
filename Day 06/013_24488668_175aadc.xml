@@ -1,11 +1,11 @@
 <location>
   <sjis>
-    ƒ‹ƒC[ƒY‘º@˜S‰®<end_line>
+    ãƒ«ã‚¤ãƒ¼ã‚ºæ‘ã€€ç‰¢å±‹<end_line>
   </sjis>
 </location>
 <popup>
   <sjis>
-    ‰×•¨‚ðŽæ‚è–ß‚µ‚½I<end_line>
+    è·ç‰©ã‚’å–ã‚Šæˆ»ã—ãŸï¼<end_line>
   </sjis>
   <ascii>
     Recovered your equipment!<end_line>
@@ -16,14 +16,14 @@
   <portrait_l name="player">
   <male>
     <sjis>
-      <partner>‚ð˜S‰®‚©‚ç<end_line>
-      o‚µ‚Ä‚â‚ç‚È‚­‚¿‚áI<end_line>
+      <partner>ã‚’ç‰¢å±‹ã‹ã‚‰<end_line>
+      å‡ºã—ã¦ã‚„ã‚‰ãªãã¡ã‚ƒï¼<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      <partner>‚ð˜S‰®‚©‚ç<end_line>
-      o‚µ‚Ä‚ ‚°‚È‚­‚¿‚áI<end_line>
+      <partner>ã‚’ç‰¢å±‹ã‹ã‚‰<end_line>
+      å‡ºã—ã¦ã‚ã’ãªãã¡ã‚ƒï¼<end_line>
     </sjis>
   </female>
   <ascii>
@@ -34,9 +34,9 @@
   <info box="simple">
   <portrait_l name="jailer">
   <sjis>
-    ‚®‚£<three_dots><end_line>
-    ‚Þ‚É‚á‚Þ‚É‚á<three_dots><end_line>
-    ‚®‚£<three_dots><end_line>
+    ãã…<three_dots><end_line>
+    ã‚€ã«ã‚ƒã‚€ã«ã‚ƒ<three_dots><end_line>
+    ãã…<three_dots><end_line>
   </sjis>
   <ascii>
     Zzz<three_dots><end_line>

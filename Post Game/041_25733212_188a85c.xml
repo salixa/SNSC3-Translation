@@ -3,8 +3,8 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="weido_1" eye="decided" mouth="serious">
   <sjis>
-    ‚­‚»‚¤I<end_line>
-    ¡“x‚Í•‰‚¯‚Ë‚¥‚¼I<end_line>
+    ããã†ï¼<end_line>
+    ä»Šåº¦ã¯è² ã‘ã­ã‡ãžï¼<end_line>
   </sjis>
   <ascii>
     Dammit!<end_line>
@@ -16,8 +16,8 @@
   <portrait_l entry="player" eye="sad" mouth="serious">
   <portrait_r entry="weido_1" eye="decided" mouth="talk">
   <sjis>
-    ‚Ç‚¤‚¾I<end_line>
-    ƒIƒŒ‚ÌCs‚Ì¬‰ÊI<end_line>
+    ã©ã†ã ï¼<end_line>
+    ã‚ªãƒ¬ã®ä¿®è¡Œã®æˆæžœï¼<end_line>
   </sjis>
   <ascii>
     How's that!<end_line>
@@ -29,9 +29,9 @@
   <portrait_l entry="player" eye="serious" mouth="neutral">
   <portrait_r entry="weido_1" eye="decided" mouth="neutral">
   <sjis>
-    ƒIƒŒ‚àCs‚µ‚Ä‹­‚­‚È‚Á‚Ä‚é‚ñ‚¾‚º<end_line>
-    ‚Ç‚¤‚¾H<end_line>
-    Ÿ•‰‚µ‚Ë‚¥‚©H<end_line>
+    ã‚ªãƒ¬ã‚‚ä¿®è¡Œã—ã¦å¼·ããªã£ã¦ã‚‹ã‚“ã ãœ<end_line>
+    ã©ã†ã ï¼Ÿ<end_line>
+    å‹è² ã—ã­ã‡ã‹ï¼Ÿ<end_line>
   </sjis>
   <ascii>
     I've trained and grown stronger too.<end_line>
@@ -45,7 +45,7 @@
   <portrait_r entry="weido_1" eye="decided" mouth="neutral">
   <option>
     <sjis>
-      Ÿ•‰‚·‚é<end_line>
+      å‹è² ã™ã‚‹<end_line>
     </sjis>
     <ascii>
       Fight<end_line>
@@ -53,7 +53,7 @@
   </option>
   <option>
     <sjis>
-      Ÿ•‰‚µ‚È‚¢<end_line>
+      å‹è² ã—ãªã„<end_line>
     </sjis>
     <ascii>
       Don't fight<end_line>
@@ -64,8 +64,8 @@
   <info box="right">
   <portrait_r name="serge">
   <sjis>
-    ‚»‚¤‚©<end_line>
-    ‚¶‚áA‚Ü‚½¡“x‚È<end_line>
+    ãã†ã‹<end_line>
+    ã˜ã‚ƒã€ã¾ãŸä»Šåº¦ãª<end_line>
   </sjis>
   <ascii>
     Is that so?<end_line>

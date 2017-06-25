@@ -1,44 +1,44 @@
 <location>
 	<sjis>
-		ƒvƒƒXƒoƒ“‚Ì’¬@“¹‹ï‰®<end_line>
+		ãƒ—ãƒ­ã‚¹ãƒãƒ³ã®ç”ºã€€é“å…·å±‹<end_line>
 	</sjis>
 </location>
 <location>
 	<sjis>
-		ƒvƒƒXƒoƒ“‚Ì’¬@“¹‹ï‰®<end_line>
+		ãƒ—ãƒ­ã‚¹ãƒãƒ³ã®ç”ºã€€é“å…·å±‹<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		—·æ‚ÅƒPƒK‚ð‚µ‚½ŒoŒ±‚Í‚ ‚è‚Ü‚¹‚ñ‚©H<end_line>
-		‚»‚ñ‚ÈŽž‚É‚Í‚eƒGƒCƒhA‰½‚Å‚à‚»‚ë‚¤<end_line>
-		•Ö—˜‚È“¹‹ï‰®<end_line>
+		æ—…å…ˆã§ã‚±ã‚¬ã‚’ã—ãŸçµŒé¨“ã¯ã‚ã‚Šã¾ã›ã‚“ã‹ï¼Ÿ<end_line>
+		ãã‚“ãªæ™‚ã«ã¯ï¼¦ã‚¨ã‚¤ãƒ‰ã€ä½•ã§ã‚‚ãã‚ã†<end_line>
+		ä¾¿åˆ©ãªé“å…·å±‹<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="peddler's_mother">
 	<sjis>
-		‚»‚¤‚»‚¤A‚±‚Ì’¬‚É‚Íƒxƒ“ƒ\ƒ“e•û‚Á‚Ä<end_line>
-		‚·‚²‚¢’b–èEl‚ª‚¢‚é‚ç‚µ‚¢‚Ë<end_line>
-		’b–è‚ÌƒEƒf‚Í‚¢‚¢‚ñ‚¾‚¯‚Ç<three_dots><end_line>
+		ãã†ãã†ã€ã“ã®ç”ºã«ã¯ãƒ™ãƒ³ã‚½ãƒ³è¦ªæ–¹ã£ã¦<end_line>
+		ã™ã”ã„é›å†¶è·äººãŒã„ã‚‹ã‚‰ã—ã„ã­<end_line>
+		é›å†¶ã®ã‚¦ãƒ‡ã¯ã„ã„ã‚“ã ã‘ã©<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="peddler's_mother">
 	<sjis>
-		˜b‚ð‚µ‚Ä‚­‚ê‚È‚©‚Á‚½‚Ì<end_line>
-		‚»‚ê‚Æ<three_dots>‚·‚Á‚²‚­”——Í‚ª‚ ‚Á‚Ä<end_line>
-		‚¿‚å‚Á‚Æˆá‚¤‚©‚È‚Á‚Ä‚Ë<end_line>
+		è©±ã‚’ã—ã¦ãã‚Œãªã‹ã£ãŸã®<end_line>
+		ãã‚Œã¨<three_dots>ã™ã£ã”ãè¿«åŠ›ãŒã‚ã£ã¦<end_line>
+		ã¡ã‚‡ã£ã¨é•ã†ã‹ãªã£ã¦ã­<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="peddler's_mother">
 	<sjis>
-		‚Ü‚½AU‚èo‚µ‚É‚à‚Ç‚Á‚Ä‚µ‚Ü‚Á‚½<end_line>
-		Š´‚¶‚Ë<end_line>
+		ã¾ãŸã€æŒ¯ã‚Šå‡ºã—ã«ã‚‚ã©ã£ã¦ã—ã¾ã£ãŸ<end_line>
+		æ„Ÿã˜ã­<end_line>
 	</sjis>
 </dialogue>

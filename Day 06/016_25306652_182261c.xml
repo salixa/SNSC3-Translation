@@ -2,8 +2,8 @@
   <info box="left">
   <portrait_l entry="player" eye="decided" mouth="yell">
   <sjis>#89
-    ‚²‚ß‚ñ‚È‚³‚¢<end_line>
-    ‚±‚í‚µ‚Ü‚·I<end_line>
+    ã”ã‚ã‚“ãªã•ã„<end_line>
+    ã“ã‚ã—ã¾ã™ï¼<end_line>
   </sjis>
   <ascii>
     Sorry for the wait,<end_line>
@@ -15,14 +15,14 @@
   <portrait_l entry="player" eye="serious" mouth="talk">
   <male>
     <sjis>
-      ‚æ‚µAŠJ‚¢‚½‚¼I<end_line>
-      <partner>I<end_line>
+      ã‚ˆã—ã€é–‹ã„ãŸãžï¼<end_line>
+      <partner>ï¼<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ‚æ‚µAŠJ‚¢‚½‚æI<end_line>
-      <partner>I<end_line>
+      ã‚ˆã—ã€é–‹ã„ãŸã‚ˆï¼<end_line>
+      <partner>ï¼<end_line>
     </sjis>
   </female>
   <ascii>
@@ -35,7 +35,7 @@
   <info box="simple">
   <portrait_r name="partner">
   <sjis>
-    —¹‰ðƒfƒX<end_line>
+    äº†è§£ãƒ‡ã‚¹<end_line>
   </sjis>
   <ascii>
     Roger.<end_line>
@@ -46,7 +46,7 @@
   <info box="simple">
   <portrait_r name="partner">
   <sjis>
-    •‚©‚Á‚½I<end_line>
+    åŠ©ã‹ã£ãŸï¼<end_line>
   </sjis>
   <ascii>
     I'm out!<end_line>
@@ -57,7 +57,7 @@
   <info box="simple">
   <portrait_r name="partner">
   <sjis>
-    ‚¨‚»‚¢‚¼<end_line>
+    ãŠãã„ãž<end_line>
   </sjis>
   <ascii>
     You took too long.<end_line>
@@ -68,7 +68,7 @@
   <info box="simple">
   <portrait_r name="partner">
   <sjis>
-    ‚Í‚¢I<end_line>
+    ã¯ã„ï¼<end_line>
   </sjis>
   <ascii>
     Yes!<end_line>
@@ -80,14 +80,14 @@
   <portrait_r entry="player" eye="decided" mouth="neutral">
   <male>
     <sjis>
-      ‘Ò‚Á‚Ä‚ëI<end_line>
-      ¡‚·‚®‚»‚Ì˜r—Ö‚ðŠO‚µ‚Ä‚â‚é‚æI<end_line>
+      å¾…ã£ã¦ã‚ï¼<end_line>
+      ä»Šã™ããã®è…•è¼ªã‚’å¤–ã—ã¦ã‚„ã‚‹ã‚ˆï¼<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ‘Ò‚Á‚Ä‚ÄI<end_line>
-      ¡‚·‚®‚»‚Ì˜r—Ö‚ðŠO‚µ‚Ä‚ ‚°‚éI<end_line>
+      å¾…ã£ã¦ã¦ï¼<end_line>
+      ä»Šã™ããã®è…•è¼ªã‚’å¤–ã—ã¦ã‚ã’ã‚‹ï¼<end_line>
     </sjis>
   </female>
   <ascii>
@@ -101,7 +101,7 @@
   <portrait_l entry="partner" eye="happy" mouth="neutral">
   <portrait_r entry="player" eye="decided" mouth="neutral">
   <sjis>
-    ƒAƒŠƒKƒgƒEƒSƒUƒCƒ}ƒX<end_line>
+    ã‚¢ãƒªã‚¬ãƒˆã‚¦ã‚´ã‚¶ã‚¤ãƒžã‚¹<end_line>
   </sjis>
   <ascii>
     Thank You Very Much.<end_line>
@@ -113,7 +113,7 @@
   <portrait_l entry="partner" eye="happy" mouth="neutral">
   <portrait_r entry="player" eye="decided" mouth="neutral">
   <sjis>
-    ‚·‚Ü‚ÊI<end_line>
+    ã™ã¾ã¬ï¼<end_line>
   </sjis>
   <ascii>
     Sorry, thanks!<end_line>
@@ -125,7 +125,7 @@
   <portrait_l entry="partner" eye="happy" mouth="neutral">
   <portrait_r entry="player" eye="decided" mouth="neutral">
   <sjis>
-    ‚³‚Á‚³‚Æ‚µ‚ëI<end_line>
+    ã•ã£ã•ã¨ã—ã‚ï¼<end_line>
   </sjis>
   <ascii>
     Just do it!<end_line>
@@ -137,7 +137,7 @@
   <portrait_l entry="partner" eye="happy" mouth="neutral">
   <portrait_r entry="player" eye="decided" mouth="neutral">
   <sjis>
-    ‚ ‚è‚ª‚Æ‚¤‚²‚´‚¢‚Ü‚·<end_line>
+    ã‚ã‚ŠãŒã¨ã†ã”ã–ã„ã¾ã™<end_line>
   </sjis>
   <ascii>
     Thank you very much.<end_line>
@@ -149,16 +149,16 @@
   <portrait_r entry="player" eye="decided" mouth="serious">
   <male>
     <sjis>
-      ‚æ[‚µA‘Ò‚Á‚Ä‚ë<three_dots><end_line>
-      ‚ ‚êH<end_line>
-      ‚±‚¤‚©‚È<three_dots>H<end_line>
+      ã‚ˆãƒ¼ã—ã€å¾…ã£ã¦ã‚<three_dots><end_line>
+      ã‚ã‚Œï¼Ÿ<end_line>
+      ã“ã†ã‹ãª<three_dots>ï¼Ÿ<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ‚æ‚§‚µA‘Ò‚Á‚Ä‚Ä‚Ë<three_dots><end_line>
-      ‚¦[‚ÆH<end_line>
-      ‚±‚ê‚©‚È<three_dots>H<end_line>
+      ã‚ˆã‰ã—ã€å¾…ã£ã¦ã¦ã­<three_dots><end_line>
+      ãˆãƒ¼ã¨ï¼Ÿ<end_line>
+      ã“ã‚Œã‹ãª<three_dots>ï¼Ÿ<end_line>
     </sjis>
   </female>
   <ascii>
@@ -183,9 +183,9 @@
   <portrait_l entry="partner" eye="decided" mouth="serious">
   <portrait_r entry="player" eye="sad" mouth="tense">
   <sjis>
-    ‚±‚±‚ð<three_dots>‚±‚¤‚µ‚Ä<three_dots><end_line>
-    ‚ ‚êH<end_line>
-    ‚±‚ê‚ª<three_dots>IH<end_line>
+    ã“ã“ã‚’<three_dots>ã“ã†ã—ã¦<three_dots><end_line>
+    ã‚ã‚Œï¼Ÿ<end_line>
+    ã“ã‚ŒãŒ<three_dots>ï¼ï¼Ÿ<end_line>
   </sjis>
   <ascii>
     Do this<three_dots> here<three_dots><end_line>
@@ -210,9 +210,9 @@
   <portrait_r entry="player" eye="happy" mouth="yell">
   <male>
     <sjis>
-      ‚ `I@‚à‚¤‚¢‚¢‚â<end_line>
-      ‚ß‚ñ‚Ç‚­‚³‚¢<end_line>
-      ‚±‚í‚·‚¼I<end_line>
+      ã‚ï½žï¼ã€€ã‚‚ã†ã„ã„ã‚„<end_line>
+      ã‚ã‚“ã©ãã•ã„<end_line>
+      ã“ã‚ã™ãžï¼<end_line>
     </sjis>
     <ascii>
       Argh! Forget it.<end_line>
@@ -223,8 +223,8 @@
   <female>
     <sjis>
       <three_dots><end_line>
-      ‚ß‚ñ‚Ç‚­‚³‚¢‚©‚ç<end_line>
-      ‚±‚í‚·‚í‚æI<end_line>
+      ã‚ã‚“ã©ãã•ã„ã‹ã‚‰<end_line>
+      ã“ã‚ã™ã‚ã‚ˆï¼<end_line>
     </sjis>
     <ascii>
       Forget it. This is annoying.<end_line>
@@ -238,7 +238,7 @@
   <portrait_l entry="partner" eye="surprised" mouth="yell">
   <portrait_r entry="player" eye="happy" mouth="yell">
   <sjis>
-    ‹Cƒ’ƒcƒPƒeƒNƒ_ƒT<three_dots><end_line>
+    æ°—ãƒ²ãƒ„ã‚±ãƒ†ã‚¯ãƒ€ã‚µ<three_dots><end_line>
   </sjis>
   <ascii>
     Be Careful<three_dots>!<end_line>
@@ -250,7 +250,7 @@
   <portrait_l entry="partner" eye="surprised" mouth="yell">
   <portrait_r entry="player" eye="happy" mouth="yell">
   <sjis>
-    ‚¨‚¢A‹C‚ð‚Â‚¯‚Ä<three_dots><end_line>
+    ãŠã„ã€æ°—ã‚’ã¤ã‘ã¦<three_dots><end_line>
   </sjis>
   <ascii>
     Hey, watch it<three_dots><end_line>
@@ -262,7 +262,7 @@
   <portrait_l entry="partner" eye="surprised" mouth="yell">
   <portrait_r entry="player" eye="happy" mouth="yell">
   <sjis>
-    ‚¨‚¢A‹C‚ð‚Â‚¯‚Ä<three_dots><end_line>
+    ãŠã„ã€æ°—ã‚’ã¤ã‘ã¦<three_dots><end_line>
   </sjis>
   <ascii>
     Hey, watch it<three_dots><end_line>
@@ -274,7 +274,7 @@
   <portrait_l entry="partner" eye="surprised" mouth="yell">
   <portrait_r entry="player" eye="happy" mouth="yell">
   <sjis>
-    ‹C‚ð‚Â‚¯‚Ä‚­‚¾‚³<three_dots><end_line>
+    æ°—ã‚’ã¤ã‘ã¦ãã ã•<three_dots><end_line>
   </sjis>
   <ascii>
     Please be carefu<three_dots>!<end_line>
@@ -285,7 +285,7 @@
   <portrait_l entry="partner" eye="surprised" mouth="yell">
   <portrait_r entry="player" eye="decided" mouth="serious">
   <sjis>
-    ‚¦‚¢I<end_line>
+    ãˆã„ï¼<end_line>
   </sjis>
   <ascii>
     Yaaah!<end_line>
@@ -296,7 +296,7 @@
   <portrait_l entry="partner" eye="surprised" mouth="tense">
   <portrait_r entry="player" eye="serious" mouth="neutral">
   <sjis>
-    ‚æ‚Á‚µA‚â‚Á‚½I<end_line>
+    ã‚ˆã£ã—ã€ã‚„ã£ãŸï¼<end_line>
   </sjis>
   <ascii>
     Okay!<end_line>
@@ -308,8 +308,8 @@
   <portrait_l entry="partner" eye="happy" mouth="yell">
   <portrait_r entry="player" eye="serious" mouth="neutral">
   <sjis>
-    ƒ‚ƒE­ƒV@ƒVƒ“ƒ`ƒ‡ƒEƒj<end_line>
-    ƒRƒƒVƒe—~ƒVƒJƒbƒ^ƒfƒX<end_line>
+    ãƒ¢ã‚¦å°‘ã‚·ã€€ã‚·ãƒ³ãƒãƒ§ã‚¦ãƒ‹<end_line>
+    ã‚³ãƒ¯ã‚·ãƒ†æ¬²ã‚·ã‚«ãƒƒã‚¿ãƒ‡ã‚¹<end_line>
   </sjis>
   <ascii>
     I Hoped You Would Have<end_line>
@@ -322,8 +322,8 @@
   <portrait_l entry="partner" eye="happy" mouth="yell">
   <portrait_r entry="player" eye="serious" mouth="neutral">
   <sjis>
-    ‚¨‚Ê‚µA‚±‚í‚·‚É‚µ‚Ä‚à<end_line>
-    ‚à‚¤­‚µƒVƒ“ƒ`ƒ‡ƒE‚É‚â‚ç‚ñ‚©I<end_line>
+    ãŠã¬ã—ã€ã“ã‚ã™ã«ã—ã¦ã‚‚<end_line>
+    ã‚‚ã†å°‘ã—ã‚·ãƒ³ãƒãƒ§ã‚¦ã«ã‚„ã‚‰ã‚“ã‹ï¼<end_line>
   </sjis>
   <ascii>
     Even if you're breaking something,<end_line>
@@ -336,8 +336,8 @@
   <portrait_l entry="partner" eye="happy" mouth="yell">
   <portrait_r entry="player" eye="serious" mouth="neutral">
   <sjis>
-    ƒLƒTƒ}A‚±‚í‚·‚É‚µ‚Ä‚à<end_line>
-    ‚à‚¤­‚µ‚â‚è•û‚ª‚ ‚é‚¾‚ë‚¤<end_line>
+    ã‚­ã‚µãƒžã€ã“ã‚ã™ã«ã—ã¦ã‚‚<end_line>
+    ã‚‚ã†å°‘ã—ã‚„ã‚Šæ–¹ãŒã‚ã‚‹ã ã‚ã†<end_line>
   </sjis>
   <ascii>
     Hey, couldn't you have been<end_line>
@@ -350,9 +350,9 @@
   <portrait_l entry="partner" eye="happy" mouth="yell">
   <portrait_r entry="player" eye="serious" mouth="neutral">
   <sjis>
-    ‚ ‚Ô‚È‚¢‚¶‚á‚È‚¢‚Å‚·‚©I<end_line>
-    ‚à‚¤­‚µƒVƒ“ƒ`ƒ‡ƒE‚É<end_line>
-    ‚â‚Á‚Ä‚Ù‚µ‚©‚Á‚½‚Å‚·‚íI<end_line>
+    ã‚ã¶ãªã„ã˜ã‚ƒãªã„ã§ã™ã‹ï¼<end_line>
+    ã‚‚ã†å°‘ã—ã‚·ãƒ³ãƒãƒ§ã‚¦ã«<end_line>
+    ã‚„ã£ã¦ã»ã—ã‹ã£ãŸã§ã™ã‚ï¼<end_line>
   </sjis>
   <ascii>
     You almost hit me!<end_line>
@@ -366,9 +366,9 @@
   <portrait_l entry="partner" eye="happy" mouth="yell">
   <portrait_r entry="player" eye="decided" mouth="neutral">
   <sjis>
-    ‚»‚ñ‚È‚±‚Æ‚æ‚èƒ~ƒ…[ƒm‚Í<end_line>
-    ‘º‚Í‚¸‚ê‚É‚ ‚éƒŒƒNƒC‚Ì…ˆâÕ‚Ì<end_line>
-    ˆê”Ô‰º‚ÌŠK‚É‚¢‚é‚ñ‚¾I<end_line>
+    ãã‚“ãªã“ã¨ã‚ˆã‚ŠãƒŸãƒ¥ãƒ¼ãƒŽã¯<end_line>
+    æ‘ã¯ãšã‚Œã«ã‚ã‚‹ãƒ¬ã‚¯ã‚¤ã®æ°´éºè·¡ã®<end_line>
+    ä¸€ç•ªä¸‹ã®éšŽã«ã„ã‚‹ã‚“ã ï¼<end_line>
   </sjis>
   <ascii>
     Come on,<end_line>
@@ -382,7 +382,7 @@
   <portrait_l entry="partner" eye="happy" mouth="yell">
   <portrait_r entry="player" eye="decided" mouth="yell">
   <sjis>
-    ‹}‚²‚¤I<end_line>
+    æ€¥ã”ã†ï¼<end_line>
   </sjis>
   <ascii>
     Let's hurry!<end_line>
@@ -394,9 +394,9 @@
   <portrait_l entry="partner" eye="happy" mouth="yell">
   <portrait_r entry="player" eye="decided" mouth="neutral">
   <sjis>
-    ‚»‚ñ‚È‚±‚Æ‚æ‚èƒ~ƒ…[ƒm‚Í<end_line>
-    ‘º‚Í‚¸‚ê‚É‚ ‚éƒŒƒNƒC‚Ì…ˆâÕ‚Ì<end_line>
-    ˆê”Ô‰º‚ÌŠK‚É‚¢‚é‚ñ‚¾‚Á‚ÄI<end_line>
+    ãã‚“ãªã“ã¨ã‚ˆã‚ŠãƒŸãƒ¥ãƒ¼ãƒŽã¯<end_line>
+    æ‘ã¯ãšã‚Œã«ã‚ã‚‹ãƒ¬ã‚¯ã‚¤ã®æ°´éºè·¡ã®<end_line>
+    ä¸€ç•ªä¸‹ã®éšŽã«ã„ã‚‹ã‚“ã ã£ã¦ï¼<end_line>
   </sjis>
   <ascii>
     Come on,<end_line>
@@ -410,7 +410,7 @@
   <portrait_l entry="partner" eye="happy" mouth="yell">
   <portrait_r entry="player" eye="decided" mouth="yell">
   <sjis>
-    ‹}‚¬‚Ü‚µ‚åI<end_line>
+    æ€¥ãŽã¾ã—ã‚‡ï¼<end_line>
   </sjis>
   <ascii>
     Let's hurry!<end_line>

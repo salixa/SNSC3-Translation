@@ -3,8 +3,8 @@
   <portrait_l entry="murno" eye="serious" mouth="serious">
   <portrait_r entry="player" eye="serious" mouth="tense">
   <sjis>
-    ‚Ç‚¤Aƒ~ƒ…[ƒmH<end_line>
-    ‚È‚ñ‚©‚í‚©‚Á‚½H<end_line>
+    ã©ã†ã€ãƒŸãƒ¥ãƒ¼ãƒŽï¼Ÿ<end_line>
+    ãªã‚“ã‹ã‚ã‹ã£ãŸï¼Ÿ<end_line>
   </sjis>
   <ascii>
     Well?<end_line>
@@ -16,9 +16,9 @@
   <portrait_l entry="murno" eye="serious" mouth="tense">
   <portrait_r entry="player" eye="serious" mouth="tense">
   <sjis>
-    ‚±‚Ì–‚»’Œ<three_dots><end_line>
-    ‚â‚Á‚Ï‚èŽ„‚Ì‘º‚É‚ ‚Á‚½‚Ì‚Æ<end_line>
-    “¯‚¶‚È‚Ì‚©‚µ‚ç<three_dots>H<end_line>
+    ã“ã®é­”æ™¶æŸ±<three_dots><end_line>
+    ã‚„ã£ã±ã‚Šç§ã®æ‘ã«ã‚ã£ãŸã®ã¨<end_line>
+    åŒã˜ãªã®ã‹ã—ã‚‰<three_dots>ï¼Ÿ<end_line>
   </sjis>
   <ascii>
     This Demon Crystal Pillar<three_dots><end_line>
@@ -32,9 +32,9 @@
   <portrait_l entry="murno" eye="serious" mouth="tense">
   <portrait_r entry="partner" eye="sad" mouth="serious">
   <sjis>
-    –‚»’ŒƒJƒ‰@”g“®ƒ’@ŒŸ’mƒVƒeƒCƒ}ƒX<end_line>
-    ‚²¦‚Ÿ‚ñƒm–‚Îƒm‰e‹¿ƒ’<end_line>
-    ŽóƒPƒeƒCƒ‹ƒˆƒEƒj@ŽvƒƒŒƒ}ƒX<end_line>
+    é­”æ™¶æŸ±ã‚«ãƒ©ã€€æ³¢å‹•ãƒ²ã€€æ¤œçŸ¥ã‚·ãƒ†ã‚¤ãƒžã‚¹<end_line>
+    ã”â€»ãã‚“ãƒŽé­”çŸ³ãƒŽå½±éŸ¿ãƒ²<end_line>
+    å—ã‚±ãƒ†ã‚¤ãƒ«ãƒ¨ã‚¦ãƒ‹ã€€æ€ãƒ¯ãƒ¬ãƒžã‚¹<end_line>
   </sjis>
   <ascii>
     I Detect A Signal Coming From The<end_line>
@@ -48,7 +48,7 @@
   <portrait_l entry="murno" eye="decided" mouth="tense">
   <portrait_r entry="partner" eye="sad" mouth="serious">
   <sjis>
-    –‚Î‚Ì<three_dots>H<end_line>
+    é­”çŸ³ã®<three_dots>ï¼Ÿ<end_line>
   </sjis>
   <ascii>
     The Demon Stone<three_dots>?<end_line>
@@ -59,9 +59,9 @@
   <portrait_l entry="murno" eye="decided" mouth="tense">
   <portrait_r entry="partner" eye="serious" mouth="neutral">
   <sjis>
-    Ž„ƒ^ƒ`ƒK@‘ºƒJƒ‰<end_line>
-    “¦ƒQƒeƒLƒ^Žžƒj@ŒŸ’mƒVƒ^”g“®ƒg<end_line>
-    “Ž—ƒVƒeƒCƒ}ƒX<end_line>
+    ç§ã‚¿ãƒã‚¬ã€€æ‘ã‚«ãƒ©<end_line>
+    é€ƒã‚²ãƒ†ã‚­ã‚¿æ™‚ãƒ‹ã€€æ¤œçŸ¥ã‚·ã‚¿æ³¢å‹•ãƒˆ<end_line>
+    é…·ä¼¼ã‚·ãƒ†ã‚¤ãƒžã‚¹<end_line>
   </sjis>
   <ascii>
     I Detected It When We Ran<end_line>
@@ -73,8 +73,8 @@
   <info box="right">
   <portrait_r entry="player" eye="decided" mouth="tense">
   <sjis>
-    ‚¦<three_dots>H<end_line>
-    ‚í‚©‚ñ‚È‚¢‚æ<end_line>
+    ãˆ<three_dots>ï¼Ÿ<end_line>
+    ã‚ã‹ã‚“ãªã„ã‚ˆ<end_line>
   </sjis>
   <ascii>
     Eh<three_dots>?<end_line>
@@ -87,12 +87,12 @@
   <portrait_r entry="player" eye="decided" mouth="tense">
   <male>
     <sjis>
-      ‚Ç‚¤‚¢‚¤‚±‚Æ‚¾‚æH<end_line>
+      ã©ã†ã„ã†ã“ã¨ã ã‚ˆï¼Ÿ<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ‚Ç‚¤‚¢‚¤‚±‚ÆH<end_line>
+      ã©ã†ã„ã†ã“ã¨ï¼Ÿ<end_line>
     </sjis>
   </female>
   <ascii>
@@ -104,7 +104,7 @@
   <info box="left">
   <portrait_l entry="murno" eye="decided" mouth="serious">
   <sjis>
-    –‚Î‚ÉA‰½‚©<three_dots><end_line>
+    é­”çŸ³ã«ã€ä½•ã‹<three_dots><end_line>
   </sjis>
   <ascii>
     The Demon Stone, Something Is<three_dots><end_line>
@@ -115,7 +115,7 @@
   <info box="simple" effect="big">
   <portrait_l name="magdrad">
   <sjis>
-    ƒOƒDƒ@ƒAƒAƒAII<end_line>
+    ã‚°ã‚¥ã‚¡ã‚¢ã‚¢ã‚¢ï¼ï¼<end_line>
   </sjis>
   <ascii>
     Guwaaaah!!<end_line>

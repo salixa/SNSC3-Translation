@@ -1,15 +1,15 @@
 <location>
 	<sjis>
-		ƒtƒ‰[ƒh“´ŒA<end_line>
+		ãƒ•ãƒ©ãƒ¼ãƒ‰æ´žçªŸ<end_line>
 	</sjis>
 </location>
 <location>
 	<sjis>
-		ƒtƒ‰[ƒh“´ŒA@ƒGƒŠƒA‚P<end_line>
+		ãƒ•ãƒ©ãƒ¼ãƒ‰æ´žçªŸã€€ã‚¨ãƒªã‚¢ï¼‘<end_line>
 	</sjis>
 </location>
 <popup>
 	<sjis>
-		Œ³‹C‚É‚È‚Á‚½I<end_line>
+		å…ƒæ°—ã«ãªã£ãŸï¼<end_line>
 	</sjis>
 </popup>

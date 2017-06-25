@@ -4,14 +4,14 @@
 	<portrait_l entry="player" eye="surprised" mouth="tense">
 	<male>
 		<sjis>
-			‚¤‚Á‚í`<three_dots><end_line>
-			ƒrƒbƒNƒŠ‚µ‚½‚Ÿ<three_dots><end_line>
+			ã†ã£ã‚ï½ž<three_dots><end_line>
+			ãƒ“ãƒƒã‚¯ãƒªã—ãŸã<three_dots><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			‚Ó‚í`<three_dots><end_line>
-			ƒrƒbƒNƒŠ‚µ‚½‚Ÿ<three_dots><end_line>
+			ãµã‚ï½ž<three_dots><end_line>
+			ãƒ“ãƒƒã‚¯ãƒªã—ãŸã<three_dots><end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -20,7 +20,7 @@
 	<info box="right">
 	<portrait_r name="partner">
 	<sjis>
-		–³Ž–ƒfƒXƒJH<end_line>
+		ç„¡äº‹ãƒ‡ã‚¹ã‚«ï¼Ÿ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -29,14 +29,14 @@
 	<portrait_l entry="player" eye="serious" mouth="yell">
 	<male>
 		<sjis>
-			‚ ‚ A‘åä•v<end_line>
-			‚·‚®‚à‚Ç‚é‚æ<end_line>
+			ã‚ã‚ã€å¤§ä¸ˆå¤«<end_line>
+			ã™ãã‚‚ã©ã‚‹ã‚ˆ<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			‚¤‚ñA‘åä•v<end_line>
-			‚·‚®‚à‚Ç‚é‚æ<end_line>
+			ã†ã‚“ã€å¤§ä¸ˆå¤«<end_line>
+			ã™ãã‚‚ã©ã‚‹ã‚ˆ<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -46,14 +46,14 @@
 	<portrait_l entry="player" eye="surprised" mouth="tense">
 	<male>
 		<sjis>
-			‚¤‚Á‚í`<three_dots><end_line>
-			ƒrƒbƒNƒŠ‚µ‚½‚Ÿ<three_dots><end_line>
+			ã†ã£ã‚ï½ž<three_dots><end_line>
+			ãƒ“ãƒƒã‚¯ãƒªã—ãŸã<three_dots><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			‚Ó‚í`<three_dots><end_line>
-			ƒrƒbƒNƒŠ‚µ‚½‚Ÿ<three_dots><end_line>
+			ãµã‚ï½ž<three_dots><end_line>
+			ãƒ“ãƒƒã‚¯ãƒªã—ãŸã<three_dots><end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -62,8 +62,8 @@
 	<info box="right">
 	<portrait_r name="partner">
 	<sjis>
-		‚¨‚Ê‚µ<end_line>
-		–³Ž–‚©H<end_line>
+		ãŠã¬ã—<end_line>
+		ç„¡äº‹ã‹ï¼Ÿ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -72,14 +72,14 @@
 	<portrait_l entry="player" eye="serious" mouth="yell">
 	<male>
 		<sjis>
-			‚ ‚ A‘åä•v<end_line>
-			‚·‚®‚à‚Ç‚é‚æ<end_line>
+			ã‚ã‚ã€å¤§ä¸ˆå¤«<end_line>
+			ã™ãã‚‚ã©ã‚‹ã‚ˆ<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			‚¤‚ñA‘åä•v<end_line>
-			‚·‚®‚à‚Ç‚é‚æ<end_line>
+			ã†ã‚“ã€å¤§ä¸ˆå¤«<end_line>
+			ã™ãã‚‚ã©ã‚‹ã‚ˆ<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -89,14 +89,14 @@
 	<portrait_l entry="player" eye="surprised" mouth="tense">
 	<male>
 		<sjis>
-			‚¤‚Á‚í`<three_dots><end_line>
-			ƒrƒbƒNƒŠ‚µ‚½‚Ÿ<three_dots><end_line>
+			ã†ã£ã‚ï½ž<three_dots><end_line>
+			ãƒ“ãƒƒã‚¯ãƒªã—ãŸã<three_dots><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			‚Ó‚í`<three_dots><end_line>
-			ƒrƒbƒNƒŠ‚µ‚½‚Ÿ<three_dots><end_line>
+			ãµã‚ï½ž<three_dots><end_line>
+			ãƒ“ãƒƒã‚¯ãƒªã—ãŸã<three_dots><end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -113,7 +113,7 @@
 	<info box="left">
 	<portrait_l entry="player" eye="surprised" mouth="serious">
 	<sjis>
-		‚¦H<end_line>
+		ãˆï¼Ÿ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -121,7 +121,7 @@
 	<info box="right">
 	<portrait_r name="partner">
 	<sjis>
-		‚ ‚Í‚Í‚Í‚Í<end_line>
+		ã‚ã¯ã¯ã¯ã¯<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -129,7 +129,7 @@
 	<info box="left">
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<sjis>
-		‚È<three_dots><end_line>
+		ãª<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -138,12 +138,12 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<male>
 		<sjis>
-			‚Ç‚¤‚¢‚¤‚±‚Æ‚¾‚æI<end_line>
+			ã©ã†ã„ã†ã“ã¨ã ã‚ˆï¼<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			‚Ç‚¤‚¢‚¤‚±‚ÆI<end_line>
+			ã©ã†ã„ã†ã“ã¨ï¼<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -153,14 +153,14 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<male>
 		<sjis>
-			‚¤‚Á‚í`<three_dots><end_line>
-			ƒrƒbƒNƒŠ‚µ‚½‚Ÿ<three_dots><end_line>
+			ã†ã£ã‚ï½ž<three_dots><end_line>
+			ãƒ“ãƒƒã‚¯ãƒªã—ãŸã<three_dots><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			‚Ó‚í`<three_dots><end_line>
-			ƒrƒbƒNƒŠ‚µ‚½‚Ÿ<three_dots><end_line>
+			ãµã‚ï½ž<three_dots><end_line>
+			ãƒ“ãƒƒã‚¯ãƒªã—ãŸã<three_dots><end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -169,7 +169,7 @@
 	<info box="right">
 	<portrait_r name="partner">
 	<sjis>
-		–³Ž–‚Å‚·‚©`H<end_line>
+		ç„¡äº‹ã§ã™ã‹ï½žï¼Ÿ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -178,14 +178,14 @@
 	<portrait_l entry="player" eye="serious" mouth="yell">
 	<male>
 		<sjis>
-			‚ ‚ A‘åä•v<end_line>
-			‚·‚®‚à‚Ç‚é‚æ<end_line>
+			ã‚ã‚ã€å¤§ä¸ˆå¤«<end_line>
+			ã™ãã‚‚ã©ã‚‹ã‚ˆ<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			‚¤‚ñA‘åä•v<end_line>
-			‚·‚®‚à‚Ç‚é‚æ<end_line>
+			ã†ã‚“ã€å¤§ä¸ˆå¤«<end_line>
+			ã™ãã‚‚ã©ã‚‹ã‚ˆ<end_line>
 		</sjis>
 	</female>
 </dialogue>

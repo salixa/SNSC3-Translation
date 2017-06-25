@@ -4,8 +4,8 @@
   <portrait_l entry="player" eye="serious" mouth="neutral">
   <portrait_r entry="partner" eye="serious" mouth="neutral">
   <sjis>
-    ��ԍD�L�i���탒�@�I�u�R�g�K<end_line>
-    �f�L�}�V�^�J�H<end_line>
+    一番好キナ武器ヲ　選ブコトガ<end_line>
+    デキマシタカ？<end_line>
   </sjis>
   <ascii>
     Have You Selected Your<end_line>
@@ -18,8 +18,8 @@
   <portrait_l entry="player" eye="serious" mouth="neutral">
   <portrait_r entry="partner" eye="serious" mouth="neutral">
   <sjis>
-    �ǂ�����<end_line>
-    �����̏����ł������H<end_line>
+    どうじゃ<end_line>
+    勝負の準備できたか？<end_line>
   </sjis>
   <ascii>
     Well?<end_line>
@@ -32,8 +32,8 @@
   <portrait_l entry="player" eye="serious" mouth="neutral">
   <portrait_r entry="partner" eye="serious" mouth="neutral">
   <sjis>
-    �ӂ�<three_dots><end_line>
-    �����̏����ł����̂��H<end_line>
+    ふん<three_dots><end_line>
+    勝負の準備できたのか？<end_line>
   </sjis>
   <ascii>
     Hm<three_dots><end_line>
@@ -46,8 +46,8 @@
   <portrait_l entry="player" eye="serious" mouth="neutral">
   <portrait_r entry="partner" eye="serious" mouth="neutral">
   <sjis>
-    �ǂ��ł���<end_line>
-    �����̏����͂ł��܂������H<end_line>
+    どうですか<end_line>
+    勝負の準備はできましたか？<end_line>
   </sjis>
   <ascii>
     How are you?<end_line>
@@ -61,7 +61,7 @@
   <male>
     <option>
       <sjis>
-        �ō��̕����I��ł�����<end_line>
+        最高の武器を選んできたぜ<end_line>
       </sjis>
       <ascii>
         I've picked my greatest weapon.<end_line>
@@ -71,7 +71,7 @@
   <female>
     <option>
       <sjis>
-        �ō��̕����I��ł�����<end_line>
+        最高の武器を選んできたよ<end_line>
       </sjis>
       <ascii>
         I've picked my greatest weapon.<end_line>
@@ -80,7 +80,7 @@
   </female>
   <option>
     <sjis>
-      ���������l��������<end_line>
+      もう少し考えさせて<end_line>
     </sjis>
     <ascii>
       Let me think about it.<end_line>
@@ -92,9 +92,9 @@
   <info box="right">
   <portrait_r name="partner">
   <sjis>
-    �I���_�@�g���C�}�V�^�K<end_line>
-    ��ԍD�L�i����n<end_line>
-    ��{�f�n�i�C�m�f�X�J�H<end_line>
+    選ンダ　ト言イマシタガ<end_line>
+    一番好キナ武器ハ<end_line>
+    一本デハナイノデスカ？<end_line>
   </sjis>
   <ascii>
     You Say Favorite, But Does That<end_line>
@@ -107,14 +107,14 @@
   <portrait_l name="player">
   <male>
     <sjis>
-      �܂��A��ԍD�������Ă����񂾂���<end_line>
-      ��{����Ȃ�<three_dots><end_line>
+      まあ、一番好きだっていうんだから<end_line>
+      一本だよなぁ<three_dots><end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �܂��A��ԍD�������Ă����񂾂���<end_line>
-      ��{�����<three_dots><end_line>
+      まあ、一番好きだっていうんだから<end_line>
+      一本だよね<three_dots><end_line>
     </sjis>
   </female>
   <ascii>
@@ -126,7 +126,7 @@
   <info box="left">
   <portrait_l name="player">
   <sjis>
-    ������Ƒ҂��Ă�<end_line>
+    ちょっと待ってて<end_line>
   </sjis>
   <ascii>
     Give me a minute.<end_line>
@@ -137,9 +137,9 @@
   <info box="right">
   <portrait_r name="partner">
   <sjis>
-    �������A���̑�����<three_dots>�H<end_line>
-    �ō��̕�����ЂƂ�<end_line>
-    �I�Ԃ̂ł͂Ȃ������̂��H<end_line>
+    しかし、その装備は<three_dots>？<end_line>
+    最高の武器をひとつ<end_line>
+    選ぶのではなかったのか？<end_line>
   </sjis>
   <ascii>
     But your equipment<three_dots>?<end_line>
@@ -152,9 +152,9 @@
   <info box="left">
   <portrait_l name="player">
   <sjis>
-    �����A������<end_line>
-    �ЂƂ�������<end_line>
-    ������Ƒ҂��Ă�<end_line>
+    ああ、そうだ<end_line>
+    ひとつだったんだ<end_line>
+    ちょっと待ってて<end_line>
   </sjis>
   <ascii>
     Ah, right.<end_line>
@@ -167,9 +167,9 @@
   <info box="right">
   <portrait_r name="partner">
   <sjis>
-    ��<three_dots><end_line>
-    �ō��̕�����ЂƂI�Ԃ�<end_line>
-    �����Ă���������<end_line>
+    ふ<three_dots><end_line>
+    最高の武器をひとつ選ぶと<end_line>
+    言っていたくせに<end_line>
   </sjis>
   <ascii>
     Fu<three_dots><end_line>
@@ -182,9 +182,9 @@
   <info box="left">
   <portrait_l name="player">
   <sjis>
-    �����A������<end_line>
-    �ЂƂ�������<end_line>
-    ������Ƒ҂��Ă�<end_line>
+    ああ、そうだ<end_line>
+    ひとつだったんだ<end_line>
+    ちょっと待ってて<end_line>
   </sjis>
   <ascii>
     Ah, right.<end_line>
@@ -197,9 +197,9 @@
   <info box="left">
   <portrait_l name="player">
   <sjis>
-    ����H<end_line>
-    �ō��̕�����ЂƂ�<end_line>
-    �I�Ԃ񂶂�Ȃ�������ł��H<end_line>
+    あら？<end_line>
+    最高の武器をひとつ<end_line>
+    選ぶんじゃなかったんです？<end_line>
   </sjis>
   <ascii>
     Oh?<end_line>
@@ -212,9 +212,9 @@
   <info box="left">
   <portrait_l name="player">
   <sjis>
-    �����A������<end_line>
-    �ЂƂ�������<end_line>
-    ������Ƒ҂��Ă�<end_line>
+    ああ、そうだ<end_line>
+    ひとつだったんだ<end_line>
+    ちょっと待ってて<end_line>
   </sjis>
   <ascii>
     Ah, right.<end_line>

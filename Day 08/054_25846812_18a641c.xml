@@ -1,18 +1,18 @@
 <location>
   <sjis>
-    ƒXƒŒƒ“ƒWÌŒ@ê<end_line>
+    ã‚¹ãƒ¬ãƒ³ã‚¸æŽ¡æŽ˜å ´<end_line>
   </sjis>
 </location>
 <location>
   <sjis>
-    ƒXƒŒƒ“ƒWÌŒ@ê@ƒAƒWƒgƒGƒŠƒA‚P<end_line>
+    ã‚¹ãƒ¬ãƒ³ã‚¸æŽ¡æŽ˜å ´ã€€ã‚¢ã‚¸ãƒˆã‚¨ãƒªã‚¢ï¼‘<end_line>
   </sjis>
 </location>
 <dialogue>
   <info box="simple">
   <portrait_l name="player">
   <sjis>
-    <partner>‚ð•‚¯‚È‚¢‚ÆI<end_line>
+    <partner>ã‚’åŠ©ã‘ãªã„ã¨ï¼<end_line>
   </sjis>
   <ascii>
     I have to save <partner>!<end_line>
@@ -23,12 +23,12 @@
   <portrait_l name="player">
   <male>
     <sjis>
-      ƒŒƒ~ƒB‚ð•‚¯‚És‚­‚¼I<end_line>
+      ãƒ¬ãƒŸã‚£ã‚’åŠ©ã‘ã«è¡Œããžï¼<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ƒŒƒ~ƒB‚ð•‚¯‚És‚­‚æI<end_line>
+      ãƒ¬ãƒŸã‚£ã‚’åŠ©ã‘ã«è¡Œãã‚ˆï¼<end_line>
     </sjis>
   </female>
   <ascii>
@@ -39,7 +39,7 @@
   <info box="simple">
   <portrait_l name="player">
   <sjis>
-    <partner>‚ð•‚¯‚È‚¢‚ÆI<end_line>
+    <partner>ã‚’åŠ©ã‘ãªã„ã¨ï¼<end_line>
   </sjis>
   <ascii>
     I have to save <partner>!<end_line>

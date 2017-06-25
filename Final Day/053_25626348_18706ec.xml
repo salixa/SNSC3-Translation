@@ -4,8 +4,8 @@
 	<portrait_r entry="partner" eye="sad" mouth="serious">
 	<sjis>
 		<three_dots><end_line>
-		�g���K�啪�@���N�i�b�e�L�}�V�^<three_dots><end_line>
-		�ی��ׂ郒�@�����ՃV�}�X<end_line>
+		波動ガ大分　強クナッテキマシタ<three_dots><end_line>
+		保護れべるヲ　あっぷシマス<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -13,8 +13,8 @@
 	<info box="right">
 	<portrait_r entry="partner" eye="sad" mouth="serious">
 	<sjis>
-		���΃������e�C�^��Ճj<end_line>
-		�߃d�C�^�J���f�V���E<end_line>
+		魔石ヲ収メテイタ遺跡ニ<end_line>
+		近ヅイタカラデショウ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -22,9 +22,9 @@
 	<info box="right">
 	<portrait_r entry="partner" eye="sad" mouth="serious">
 	<sjis>
-		�ނ�<three_dots><end_line>
-		�C���ȋC���啪�����Ȃ��Ă�����<three_dots><end_line>
-		�����A��������̂�<three_dots><end_line>
+		むぅ<three_dots><end_line>
+		イヤな気が大分強くなってきたな<three_dots><end_line>
+		少し、こたえるのぉ<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -32,8 +32,8 @@
 	<info box="right">
 	<portrait_r entry="partner" eye="sad" mouth="serious">
 	<sjis>
-		���΂����߂Ă�����Ղ�<end_line>
-		�߂Â��Ă������炶��낤��<three_dots><end_line>
+		魔石を収めていた遺跡に<end_line>
+		近づいてきたからじゃろうて<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -41,9 +41,9 @@
 	<info box="right">
 	<portrait_r entry="partner" eye="sad" mouth="serious">
 	<sjis>
-		������<three_dots><end_line>
-		�C���Ȋ������q�h�N�Ȃ��Ă���<three_dots><end_line>
-		�����Ƃ�����<three_dots><end_line>
+		ちぃっ<three_dots><end_line>
+		イヤな感じがヒドクなってきた<three_dots><end_line>
+		うっとうしい<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -51,8 +51,8 @@
 	<info box="right">
 	<portrait_r entry="partner" eye="sad" mouth="tense">
 	<sjis>
-		���΂����߂Ă�����Ղ�<end_line>
-		�߂Â��Ă������炩<three_dots><end_line>
+		魔石を収めていた遺跡に<end_line>
+		近づいてきたからか<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -60,9 +60,9 @@
 	<info box="right">
 	<portrait_r entry="partner" eye="sad" mouth="tense">
 	<sjis>
-		����<three_dots><end_line>
-		�C���Ȋ������q�h�N�Ȃ���<end_line>
-		���܂�����<three_dots><end_line>
+		うぅ<three_dots><end_line>
+		イヤな感じがヒドクなって<end_line>
+		きましたわ<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -70,8 +70,8 @@
 	<info box="right">
 	<portrait_r entry="partner" eye="sad" mouth="tense">
 	<sjis>
-		�����Ɩ��΂����߂Ă���<end_line>
-		��Ղɋ߂Â��Ă�������ł���<three_dots><end_line>
+		きっと魔石を収めていた<end_line>
+		遺跡に近づいてきたからですわ<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -80,12 +80,12 @@
 	<portrait_r entry="partner" eye="sad" mouth="tense">
 	<male>
 		<sjis>
-			���v���H�@<partner><three_dots><end_line>
+			大丈夫か？　<partner><three_dots><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			���v�H�@<partner><three_dots><end_line>
+			大丈夫？　<partner><three_dots><end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -94,14 +94,14 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<male>
 		<sjis>
-			�����̉Ƃ�<end_line>
-			�����x��ł������H<end_line>
+			そこの家で<end_line>
+			少し休んでいくか？<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�����̉Ƃ�<end_line>
-			�����x�������H<end_line>
+			そこの家で<end_line>
+			少し休もうか？<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -110,7 +110,7 @@
 	<info box="right">
 	<portrait_r entry="partner" eye="sad" mouth="neutral">
 	<sjis>
-		�}�J�Z�}�X<three_dots><end_line>
+		マカセマス<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -118,7 +118,7 @@
 	<info box="right">
 	<portrait_r entry="partner" eye="sad" mouth="neutral">
 	<sjis>
-		���ʂ��ɂ܂�����<end_line>
+		おぬしにまかせる<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -126,7 +126,7 @@
 	<info box="right">
 	<portrait_r entry="partner" eye="sad" mouth="neutral">
 	<sjis>
-		�D���ɂ���<end_line>
+		好きにしろ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -134,7 +134,7 @@
 	<info box="right">
 	<portrait_r entry="partner" eye="sad" mouth="neutral">
 	<sjis>
-		���肪�Ƃ��������܂�<end_line>
-		<player_nickname>����ɂ��܂������܂���<end_line>
+		ありがとうございます<end_line>
+		<player_nickname>さんにおまかせしますわ<end_line>
 	</sjis>
 </dialogue>

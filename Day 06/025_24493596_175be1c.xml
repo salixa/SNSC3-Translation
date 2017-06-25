@@ -1,27 +1,27 @@
 <location>
 	<sjis>
-		�M�����n���H�[�@�H�[<end_line>
+		ギャラハン工房　工房<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="gallahan">
 	<sjis>
-		�M���Ă��炢�����̂Ȃ�<end_line>
-		�������ȍs���͂���ׂ��ł�<end_line>
-		�Ȃ��Ǝv�����H<end_line>
+		信じてもらいたいのなら<end_line>
+		おかしな行動はするべきでは<end_line>
+		ないと思うぞ？<end_line>
 	</sjis>
 </dialogue>
 <popup>
 	<sjis>
-		��ꂪ��ꂽ�I<end_line>
+		疲れが取れた！<end_line>
 	</sjis>
 </popup>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="gallahan">
 	<sjis>
-		�ǂ������H<end_line>
-		���̏C�����炢�o���ē��R���낤�H<end_line>
+		どうした？<end_line>
+		剣の修理ぐらい出来て当然だろう？<end_line>
 	</sjis>
 </dialogue>

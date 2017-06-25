@@ -1,16 +1,16 @@
 <location>
 	<sjis>
-		ƒvƒƒXƒoƒ“‚Ì’¬<end_line>
+		ãƒ—ãƒ­ã‚¹ãƒãƒ³ã®ç”º<end_line>
 	</sjis>
 </location>
 <location>
 	<sjis>
-		ƒvƒƒXƒoƒ“‚Ì’¬@“ì–åŒö‰€<end_line>
+		ãƒ—ãƒ­ã‚¹ãƒãƒ³ã®ç”ºã€€å—é–€å…¬åœ’<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		‰½‚ç‚©‚ÌƒƒbƒZ[ƒW—\’è<end_line>
+		ä½•ã‚‰ã‹ã®ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸äºˆå®š<end_line>
 	</sjis>
 </dialogue>

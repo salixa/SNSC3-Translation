@@ -3,9 +3,9 @@
   <info box="left">
   <portrait_l entry="player" eye="serious" mouth="serious">
   <sjis>
-    ƒIƒŒ‚½‚¿‚ªƒ‹ƒC[ƒY‘º‚É‚¢‚éŠÔ<end_line>
-    ƒAƒjƒX‚Ì’‡ŠÔ‚Í’¬‚É‹ß‚Ã‚©‚È‚©‚Á‚½‚Á‚Ä<end_line>
-    e•û‚ªŒ¾‚Á‚Ä‚½‚¯‚Ç<end_line>
+    ã‚ªãƒ¬ãŸã¡ãŒãƒ«ã‚¤ãƒ¼ã‚ºæ‘ã«ã„ã‚‹é–“<end_line>
+    ã‚¢ãƒ‹ã‚¹ã®ä»²é–“ã¯ç”ºã«è¿‘ã¥ã‹ãªã‹ã£ãŸã£ã¦<end_line>
+    è¦ªæ–¹ãŒè¨€ã£ã¦ãŸã‘ã©<end_line>
   </sjis>
   <ascii>
     The Chief said Anise's gang<end_line>
@@ -18,7 +18,7 @@
   <info box="left">
   <portrait_l entry="player" eye="decided" mouth="tense">
   <sjis>
-    ‚ ‚¢‚Â‚çƒhƒR‚É‚©‚­‚ê‚Ä‚¢‚é‚ñ‚¾‚ë‚¤<three_dots><end_line>
+    ã‚ã„ã¤ã‚‰ãƒ‰ã‚³ã«ã‹ãã‚Œã¦ã„ã‚‹ã‚“ã ã‚ã†<three_dots><end_line>
   </sjis>
   <ascii>
     They must be hiding somewhere<three_dots><end_line>
@@ -29,9 +29,9 @@
   <info box="left">
   <portrait_l entry="player" eye="serious" mouth="serious">
   <sjis>
-    ‚í‚½‚µ‚½‚¿‚ªƒ‹ƒC[ƒY‘º‚É‚¢‚éŠÔ<end_line>
-    ƒAƒjƒX‚Ì’‡ŠÔ‚Í’¬‚É‹ß‚Ã‚©‚È‚©‚Á‚½‚Á‚Ä<end_line>
-    e•û‚ªŒ¾‚Á‚Ä‚½‚¯‚Ç<end_line>
+    ã‚ãŸã—ãŸã¡ãŒãƒ«ã‚¤ãƒ¼ã‚ºæ‘ã«ã„ã‚‹é–“<end_line>
+    ã‚¢ãƒ‹ã‚¹ã®ä»²é–“ã¯ç”ºã«è¿‘ã¥ã‹ãªã‹ã£ãŸã£ã¦<end_line>
+    è¦ªæ–¹ãŒè¨€ã£ã¦ãŸã‘ã©<end_line>
   </sjis>
   <ascii>
     The Chief said Anise's gang<end_line>
@@ -44,7 +44,7 @@
   <info box="left">
   <portrait_l entry="player" eye="decided" mouth="tense">
   <sjis>
-    ˆê‘ÌƒhƒR‚É‚©‚­‚ê‚Ä‚¢‚é‚ñ‚¾‚ë‚¤<three_dots><end_line>
+    ä¸€ä½“ãƒ‰ã‚³ã«ã‹ãã‚Œã¦ã„ã‚‹ã‚“ã ã‚ã†<three_dots><end_line>
   </sjis>
   <ascii>
     They must be hiding somewhere<three_dots><end_line>
@@ -54,9 +54,9 @@
   <info box="left">
   <portrait_l entry="player" eye="serious" mouth="serious">
   <sjis>
-    ‚ ‚êH<end_line>
-    ’N‚©—ˆ‚½‚Ý‚½‚¢‚¾<end_line>
-    ‚ ‚ê‚Í<three_dots><end_line>
+    ã‚ã‚Œï¼Ÿ<end_line>
+    èª°ã‹æ¥ãŸã¿ãŸã„ã <end_line>
+    ã‚ã‚Œã¯<three_dots><end_line>
   </sjis>
   <ascii>
     Huh?<end_line>
@@ -67,7 +67,7 @@
 <menu>
   <option>
     <sjis>
-      ƒ~ƒ…[ƒm<end_line>
+      ãƒŸãƒ¥ãƒ¼ãƒŽ<end_line>
     </sjis>
     <ascii>
       Murno<end_line>
@@ -83,7 +83,7 @@
   </option>
   <option>
     <sjis>
-      ƒ”ƒB[<end_line>
+      ãƒ´ã‚£ãƒ¼<end_line>
     </sjis>
     <ascii>
       V.E<end_line>
@@ -91,7 +91,7 @@
   </option>
   <option>
     <sjis>
-      ƒŒƒ~ƒB<end_line>
+      ãƒ¬ãƒŸã‚£<end_line>
     </sjis>
     <ascii>
       Lemmy<end_line>
@@ -99,7 +99,7 @@
   </option>
   <option>
     <sjis>
-      ƒWƒFƒCƒh<end_line>
+      ã‚¸ã‚§ã‚¤ãƒ‰<end_line>
     </sjis>
     <ascii>
       Jade<end_line>
@@ -107,7 +107,7 @@
   </option>
   <option>
     <sjis>
-      ƒeƒBƒG<end_line>
+      ãƒ†ã‚£ã‚¨<end_line>
     </sjis>
     <ascii>
       Tier<end_line>

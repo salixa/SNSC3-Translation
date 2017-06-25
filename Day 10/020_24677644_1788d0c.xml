@@ -1,33 +1,33 @@
 <location>
 	<sjis>
-		�v���X�o���̒�<end_line>
+		プロスバンの町<end_line>
 	</sjis>
 </location>
 <location>
 	<sjis>
-		�v���X�o���̒��@������<end_line>
+		プロスバンの町　南門公園<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="gatekeeper">
 	<sjis>
-		�͂�<three_dots><end_line>
-		�ӂ�<three_dots><end_line>
-		���`<three_dots><end_line>
+		はぁ<three_dots><end_line>
+		ふぅ<three_dots><end_line>
+		あ～<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		�����͎U���ɍœK�Ȃ�<end_line>
+		ここは散歩に最適なんだ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		�@�@�@�v���X�o���̒��̑n�ݎ�<end_line>
-		�@�@�@�E�҃v���X�o���̐Α�<end_line>
+		　　　プロスバンの町の創設者<end_line>
+		　　　勇者プロスバンの石像<end_line>
 	</sjis>
 </dialogue>

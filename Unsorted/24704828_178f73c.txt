@@ -3,8 +3,8 @@
 	<portrait_l entry="partner" eye="serious" mouth="neutral">
 	<portrait_r entry="player" eye="serious" mouth="neutral">
 	<sjis>
-		���̌�q�b��b�͂P�O�b�̂���<end_line>
-		��l��<player_name><end_line>
-		��q�b<partner><end_line>
+		この護衛獣会話は１０話のもの<end_line>
+		主人公<player_name><end_line>
+		護衛獣<partner><end_line>
 	</sjis>
 </dialogue>

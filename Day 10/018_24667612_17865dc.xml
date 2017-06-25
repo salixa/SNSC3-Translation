@@ -1,11 +1,11 @@
 <location>
 	<sjis>
-		�قق��ݒ��@�P�K<end_line>
+		ほほえみ亭　１階<end_line>
 	</sjis>
 </location>
 <location>
 	<sjis>
-		�قق��ݒ��@�P�K<end_line>
+		ほほえみ亭　１階<end_line>
 	</sjis>
 </location>
 <dialogue>
@@ -13,12 +13,12 @@
 	<portrait_l name="roche">
 	<male>
 		<sjis>
-			<player_nickname>����A���߂�Ȃ�����<end_line>
+			<player_nickname>くん、ごめんなさいね<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			<player_nickname>�����A���߂�Ȃ�����<end_line>
+			<player_nickname>ちゃん、ごめんなさいね<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -26,21 +26,21 @@
 	<info box="simple">
 	<portrait_l name="roche">
 	<sjis>
-		���̃R�A��x�����o�����炫���Ȃ���<end_line>
+		あのコ、一度言い出したらきかないの<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="roche">
 	<sjis>
-		�����̃R�A���f�����ĂȂ��H<end_line>
+		うちのコ、迷惑かけてない？<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		���������͉����̔閧<hearth><end_line>
-		��������֎~�I�I<end_line>
-		�@�@�@�@�@�@�@�@�@�@�@�e�B�G<end_line>
+		ここから先は乙女の秘密<hearth><end_line>
+		立ち入り禁止！！<end_line>
+		　　　　　　　　　　　ティエ<end_line>
 	</sjis>
 </dialogue>

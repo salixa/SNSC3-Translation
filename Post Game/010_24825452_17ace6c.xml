@@ -1,27 +1,27 @@
 <location>
 	<sjis>
-		ƒfƒBƒbƒNƒ‹‘º<end_line>
+		ãƒ‡ã‚£ãƒƒã‚¯ãƒ«æ‘<end_line>
 	</sjis>
 </location>
 <location>
 	<sjis>
-		ƒfƒBƒbƒNƒ‹‘º@Lê<end_line>
+		ãƒ‡ã‚£ãƒƒã‚¯ãƒ«æ‘ã€€åºƒå ´<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="merchant">
 	<sjis>
-		‚±‚±Å‹ß<end_line>
-		‚¿‚å‚Á‚Æ”„‚èã‚°—Ž‚¿‚Ä‚é‚í<end_line>
-		‚ÜA•½˜a‚ªˆê”Ô‚¾‚¯‚Ç<end_line>
+		ã“ã“æœ€è¿‘<end_line>
+		ã¡ã‚‡ã£ã¨å£²ã‚Šä¸Šã’è½ã¡ã¦ã‚‹ã‚<end_line>
+		ã¾ã€å¹³å’ŒãŒä¸€ç•ªã ã‘ã©<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="gatekeeper">
 	<sjis>
-		¡“ú‚àŒ³‹C‚ÉCs‚©‚¢<end_line>
-		‚ª‚ñ‚Î‚ê‚æ<end_line>
+		ä»Šæ—¥ã‚‚å…ƒæ°—ã«ä¿®è¡Œã‹ã„<end_line>
+		ãŒã‚“ã°ã‚Œã‚ˆ<end_line>
 	</sjis>
 </dialogue>

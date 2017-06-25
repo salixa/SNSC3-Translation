@@ -1,20 +1,20 @@
 <location>
   <sjis>
-    �}�[�l�C���h��<end_line>
+    マーネイル宿場<end_line>
   </sjis>
 </location>
 <location>
   <sjis>
-    �}�[�l�C���h��@�قق��ݒ��O<end_line>
+    マーネイル宿場　ほほえみ亭前<end_line>
   </sjis>
 </location>
 <dialogue>
   <info box="simple">
   <portrait_l name="woman">
   <sjis>
-    �����Ƃ���ɂ���؂̎���<end_line>
-    �X�s�A������Ύ����<end_line>
-    ��ƂɈ�{�~�������<end_line>
+    高いところにある木の実は<end_line>
+    スピアがあれば取れるわ<end_line>
+    一家に一本欲しいわね<end_line>
   </sjis>
   <ascii>
     Spears can cut down fruit<end_line>

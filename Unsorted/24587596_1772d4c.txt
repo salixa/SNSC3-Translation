@@ -5,16 +5,16 @@
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
-			�����͘b��������<end_line>
-			���̔h���ɍs���Ȃ���<end_line>
-			����΂邼�I<end_line>
+			今日は話し合いだ<end_line>
+			金の派閥に行かなきゃ<end_line>
+			がんばるぞ！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�����͘b����������<end_line>
-			���̔h���ɍs���Ȃ���<end_line>
-			����΂邼�I<end_line>
+			今日は話し合いだよ<end_line>
+			金の派閥に行かなきゃ<end_line>
+			がんばるぞ！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -34,14 +34,14 @@
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
-			<partner>�͂�����<end_line>
-			�Ȃ�Ȃ��݂�����<end_line>
+			<partner>はたよりに<end_line>
+			ならないみたいだ<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			<partner>�͂�����<end_line>
-			�Ȃ�Ȃ��݂���<end_line>
+			<partner>はたよりに<end_line>
+			ならないみたい<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -52,16 +52,16 @@
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
-			�����͘b��������<end_line>
-			���̔h���ɍs���Ȃ���<end_line>
-			����΂邼�I<end_line>
+			今日は話し合いだ<end_line>
+			金の派閥に行かなきゃ<end_line>
+			がんばるぞ！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�����͘b����������<end_line>
-			���̔h���ɍs���Ȃ���<end_line>
-			����΂邼�I<end_line>
+			今日は話し合いだよ<end_line>
+			金の派閥に行かなきゃ<end_line>
+			がんばるぞ！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -71,9 +71,9 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="decided" mouth="neutral">
 	<sjis>
-		���������<end_line>
-		��x�����Ĉ�x�������A�ƌ�����<end_line>
-		����̌������Ƃ�ǂ������Ă���<three_dots><end_line>
+		そうじゃの<end_line>
+		二度聞いて一度物言え、と言って<end_line>
+		相手の言うことを良く聞いてから<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -82,9 +82,9 @@
 	<portrait_l entry="player" eye="serious" mouth="talk">
 	<portrait_r entry="partner" eye="decided" mouth="neutral">
 	<sjis>
-		����ȂɐS�z���Ȃ��Ă�<end_line>
-		���v�����āI<end_line>
-		�Ȃ�Ƃ��Ȃ��<end_line>
+		そんなに心配しなくても<end_line>
+		大丈夫だって！<end_line>
+		なんとかなるよ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -93,8 +93,8 @@
 	<portrait_l entry="player" eye="serious" mouth="talk">
 	<portrait_r entry="partner" eye="happy" mouth="yell">
 	<sjis>
-		������܂�<end_line>
-		�l�̘b�𕷂��ƌ����Ă���I<end_line>
+		だからまず<end_line>
+		人の話を聞けと言っておる！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -104,16 +104,16 @@
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
-			�����͘b��������<end_line>
-			���̔h���ɍs���Ȃ���<end_line>
-			����΂邼�I<end_line>
+			今日は話し合いだ<end_line>
+			金の派閥に行かなきゃ<end_line>
+			がんばるぞ！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�����͘b����������<end_line>
-			���̔h���ɍs���Ȃ���<end_line>
-			����΂邼�I<end_line>
+			今日は話し合いだよ<end_line>
+			金の派閥に行かなきゃ<end_line>
+			がんばるぞ！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -123,8 +123,8 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="sad" mouth="neutral">
 	<sjis>
-		�L�T�}�͂��܂��Ă�������<end_line>
-		��肭�����Ǝv����<end_line>
+		キサマはだまっていた方が<end_line>
+		上手くいくと思うが<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -134,12 +134,12 @@
 	<portrait_r entry="partner" eye="sad" mouth="neutral">
 	<male>
 		<sjis>
-			�Ȃ񂾂�A����I<end_line>
+			なんだよ、それ！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�Ȃɂ�A����I<end_line>
+			なによ、それ！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -149,16 +149,16 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			�����͘b��������<end_line>
-			���̔h���ɍs���Ȃ���<end_line>
-			����΂邼�I<end_line>
+			今日は話し合いだ<end_line>
+			金の派閥に行かなきゃ<end_line>
+			がんばるぞ！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�����͘b����������<end_line>
-			���̔h���ɍs���Ȃ���<end_line>
-			����΂邼�I<end_line>
+			今日は話し合いだよ<end_line>
+			金の派閥に行かなきゃ<end_line>
+			がんばるぞ！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -167,9 +167,9 @@
 	<info box="right">
 	<portrait_r name="partner">
 	<sjis>
-		��������΂�܂���I<end_line>
-		�~���[�m�l�̃~�����N��<end_line>
-		�݂Ȃ���ɂ��`�����邽�߂ɁI<end_line>
+		私もがんばりますわ！<end_line>
+		ミューノ様のミリョクを<end_line>
+		みなさんにお伝えするために！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -178,12 +178,12 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			�Ȃ񂩃Y���ĂȂ����H<end_line>
+			なんかズレてないか？<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�Ȃ񂩃Y���ĂȂ��H<end_line>
+			なんかズレてない？<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -194,16 +194,16 @@
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
-			�����͘b��������<end_line>
-			���̔h���ɍs���Ȃ���<end_line>
-			����΂邼�I<end_line>
+			今日は話し合いだ<end_line>
+			金の派閥に行かなきゃ<end_line>
+			がんばるぞ！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�����͘b����������<end_line>
-			���̔h���ɍs���Ȃ���<end_line>
-			����΂邼�I<end_line>
+			今日は話し合いだよ<end_line>
+			金の派閥に行かなきゃ<end_line>
+			がんばるぞ！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -223,14 +223,14 @@
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
-			<partner>�͂�����<end_line>
-			�Ȃ�Ȃ��݂�����<end_line>
+			<partner>はたよりに<end_line>
+			ならないみたいだ<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			<partner>�͂�����<end_line>
-			�Ȃ�Ȃ��݂���<end_line>
+			<partner>はたよりに<end_line>
+			ならないみたい<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -241,16 +241,16 @@
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
-			�����͘b��������<end_line>
-			���̔h���ɍs���Ȃ���<end_line>
-			����΂邼�I<end_line>
+			今日は話し合いだ<end_line>
+			金の派閥に行かなきゃ<end_line>
+			がんばるぞ！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�����͘b����������<end_line>
-			���̔h���ɍs���Ȃ���<end_line>
-			����΂邼�I<end_line>
+			今日は話し合いだよ<end_line>
+			金の派閥に行かなきゃ<end_line>
+			がんばるぞ！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -260,9 +260,9 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="decided" mouth="neutral">
 	<sjis>
-		���������<end_line>
-		��x�����Ĉ�x�������A�ƌ�����<end_line>
-		����̌������Ƃ�ǂ������Ă���<three_dots><end_line>
+		そうじゃの<end_line>
+		二度聞いて一度物言え、と言って<end_line>
+		相手の言うことを良く聞いてから<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -271,9 +271,9 @@
 	<portrait_l entry="player" eye="serious" mouth="talk">
 	<portrait_r entry="partner" eye="decided" mouth="neutral">
 	<sjis>
-		����ȂɐS�z���Ȃ��Ă�<end_line>
-		���v�����āI<end_line>
-		�Ȃ�Ƃ��Ȃ��<end_line>
+		そんなに心配しなくても<end_line>
+		大丈夫だって！<end_line>
+		なんとかなるよ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -282,8 +282,8 @@
 	<portrait_l entry="player" eye="serious" mouth="talk">
 	<portrait_r entry="partner" eye="happy" mouth="yell">
 	<sjis>
-		������܂�<end_line>
-		�l�̘b�𕷂��ƌ����Ă���I<end_line>
+		だからまず<end_line>
+		人の話を聞けと言っておる！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -293,16 +293,16 @@
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
-			�����͘b��������<end_line>
-			���̔h���ɍs���Ȃ���<end_line>
-			����΂邼�I<end_line>
+			今日は話し合いだ<end_line>
+			金の派閥に行かなきゃ<end_line>
+			がんばるぞ！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�����͘b����������<end_line>
-			���̔h���ɍs���Ȃ���<end_line>
-			����΂邼�I<end_line>
+			今日は話し合いだよ<end_line>
+			金の派閥に行かなきゃ<end_line>
+			がんばるぞ！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -312,8 +312,8 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="sad" mouth="neutral">
 	<sjis>
-		�L�T�}�͂��܂��Ă�������<end_line>
-		��肭�����Ǝv����<end_line>
+		キサマはだまっていた方が<end_line>
+		上手くいくと思うが<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -323,12 +323,12 @@
 	<portrait_r entry="partner" eye="sad" mouth="neutral">
 	<male>
 		<sjis>
-			�Ȃ񂾂�A����I<end_line>
+			なんだよ、それ！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�Ȃɂ�A����I<end_line>
+			なによ、それ！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -338,16 +338,16 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			�����͘b��������<end_line>
-			���̔h���ɍs���Ȃ���<end_line>
-			����΂邼�I<end_line>
+			今日は話し合いだ<end_line>
+			金の派閥に行かなきゃ<end_line>
+			がんばるぞ！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�����͘b����������<end_line>
-			���̔h���ɍs���Ȃ���<end_line>
-			����΂邼�I<end_line>
+			今日は話し合いだよ<end_line>
+			金の派閥に行かなきゃ<end_line>
+			がんばるぞ！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -356,9 +356,9 @@
 	<info box="right">
 	<portrait_r name="partner">
 	<sjis>
-		��������΂�܂���I<end_line>
-		�~���[�m�l�̃~�����N��<end_line>
-		�݂Ȃ���ɂ��`�����邽�߂ɁI<end_line>
+		私もがんばりますわ！<end_line>
+		ミューノ様のミリョクを<end_line>
+		みなさんにお伝えするために！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -367,12 +367,12 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			�Ȃ񂩃Y���ĂȂ����H<end_line>
+			なんかズレてないか？<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�Ȃ񂩃Y���ĂȂ��H<end_line>
+			なんかズレてない？<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -380,8 +380,8 @@
 	<info box="left">
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<sjis>
-		�~���[�m���H�[�܂�<end_line>
-		�������著��͂��Ȃ���I<end_line>
+		ミューノを工房まで<end_line>
+		しっかり送り届けなきゃ！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -389,9 +389,9 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="murno" eye="sad" mouth="serious">
 	<sjis>
-		���߂�Ȃ���<end_line>
-		���̂����ł���Ȃ��ƂɂȂ��Ă�̂�<end_line>
-		���ɗ����Ȃ���<three_dots><end_line>
+		ごめんなさい<end_line>
+		私のせいでこんなことになってるのに<end_line>
+		役に立たなくて<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -400,16 +400,16 @@
 	<portrait_r entry="murno" eye="sad" mouth="serious">
 	<male>
 		<sjis>
-			�ȂɌ����Ă��<end_line>
-			�~���[�m�͖��΂����񂾂�H<end_line>
-			���h�ɖ��ɗ����Ă��I<end_line>
+			なに言ってるんだ<end_line>
+			ミューノは魔石を守るんだろ？<end_line>
+			立派に役に立ってるよ！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�ȂɌ����Ă��<end_line>
-			�~���[�m�͖��΂�����Ă邵<end_line>
-			���h�ɖ��ɗ����Ă���āI<end_line>
+			なに言ってるの<end_line>
+			ミューノは魔石を守ってるし<end_line>
+			立派に役に立ってるって！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -419,8 +419,8 @@
 	<portrait_l entry="partner" eye="decided" mouth="neutral">
 	<portrait_r entry="murno" eye="serious" mouth="tense">
 	<sjis>
-		�\�m�ʃ��f�X<end_line>
-		��ԏd�v�i�����g�@���G���f�V���E<end_line>
+		ソノ通リデス<end_line>
+		一番重要ナ役割ト　言エルデショウ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -429,9 +429,9 @@
 	<portrait_l entry="partner" eye="decided" mouth="neutral">
 	<portrait_r entry="murno" eye="serious" mouth="tense">
 	<sjis>
-		�������Ⴜ<end_line>
-		��ԏd�v�Ȗ�������<end_line>
-		���̂񂾂�<end_line>
+		そうじゃぞ<end_line>
+		一番重要な役割じゃ<end_line>
+		たのんだぞ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -440,8 +440,8 @@
 	<portrait_l entry="partner" eye="decided" mouth="neutral">
 	<portrait_r entry="murno" eye="serious" mouth="tense">
 	<sjis>
-		�ӔC�d�傾��<end_line>
-		������������΂邱�Ƃ�<end_line>
+		責任重大だな<end_line>
+		せいぜいがんばることだ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -450,9 +450,9 @@
 	<portrait_l entry="partner" eye="decided" mouth="neutral">
 	<portrait_r entry="murno" eye="serious" mouth="tense">
 	<sjis>
-		�����ł���I<end_line>
-		�~���[�m�l�̖�ڂ���ԏd�v�ł���I<end_line>
-		����΂��Ă��������ˁI<end_line>
+		そうですよ！<end_line>
+		ミューノ様の役目が一番重要ですわ！<end_line>
+		がんばってくださいね！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -460,7 +460,7 @@
 	<portrait_l entry="partner" eye="decided" mouth="neutral">
 	<portrait_r entry="murno" eye="happy" mouth="neutral">
 	<sjis>
-		���肪�Ƃ�<end_line>
+		ありがとう<end_line>
 		<player_nickname><end_line>
 		<partner><three_dots><end_line>
 	</sjis>

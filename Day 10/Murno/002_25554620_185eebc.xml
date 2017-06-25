@@ -3,9 +3,9 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="murno" eye="decided" mouth="neutral">
   <sjis>
-    ‚Ç‚¤A<player_nickname>H<end_line>
-    •Ší‚ð‚Ð‚Æ‚Â<end_line>
-    ‘I‚Ô‚±‚Æ‚ª‚Å‚«‚½H<end_line>
+    ã©ã†ã€<player_nickname>ï¼Ÿ<end_line>
+    æ­¦å™¨ã‚’ã²ã¨ã¤<end_line>
+    é¸ã¶ã“ã¨ãŒã§ããŸï¼Ÿ<end_line>
   </sjis>
   <ascii>
     Well, <player_nickname>?<end_line>
@@ -18,7 +18,7 @@
   <portrait_r entry="murno" eye="decided" mouth="neutral">
   <option>
     <sjis>
-      ‚¤‚ñAŒˆ‚ß‚½I<end_line>
+      ã†ã‚“ã€æ±ºã‚ãŸï¼<end_line>
     </sjis>
     <ascii>
       Yep, I've got one!<end_line>
@@ -26,7 +26,7 @@
   </option>
   <option>
     <sjis>
-      ‚à‚¤­‚µ‘Ò‚Á‚Ä<end_line>
+      ã‚‚ã†å°‘ã—å¾…ã£ã¦<end_line>
     </sjis>
     <ascii>
       Sorry, just a minute.<end_line>
@@ -37,8 +37,8 @@
   <info box="right">
   <portrait_r name="murno">
   <sjis>
-    •ŠíA‚Ð‚Æ‚Â‚¶‚á<end_line>
-    ‚È‚¢‚Ý‚½‚¢‚¾‚¯‚Ç<three_dots><end_line>
+    æ­¦å™¨ã€ã²ã¨ã¤ã˜ã‚ƒ<end_line>
+    ãªã„ã¿ãŸã„ã ã‘ã©<three_dots><end_line>
   </sjis>
   <ascii>
     It looks like you've<end_line>
@@ -49,8 +49,8 @@
   <info box="left">
   <portrait_l name="player">
   <sjis>
-    ‚ Aƒzƒ“ƒg‚¾<end_line>
-    ‚¿‚å‚Á‚Æ‘Ò‚Á‚Ä<end_line>
+    ã‚ã€ãƒ›ãƒ³ãƒˆã <end_line>
+    ã¡ã‚‡ã£ã¨å¾…ã£ã¦<end_line>
   </sjis>
   <ascii>
     Ah, you're right.<end_line>

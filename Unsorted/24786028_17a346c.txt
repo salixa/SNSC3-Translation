@@ -1,35 +1,35 @@
 <location>
 	<sjis>
-		�v���X�o���̒��@�w<end_line>
+		プロスバンの町　駅<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="child">
 	<sjis>
-		���̒����āA���݂��݂��Ă�<end_line>
-		������<end_line>
+		この町って、ごみごみしてて<end_line>
+		いやよね<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="child">
 	<sjis>
-		�ǂ����ɁA�������ȂƂ���<end_line>
-		�Ȃ�������<end_line>
+		どこかに、しずかなところ<end_line>
+		ないかしら<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		�@<end_line>
-		�@�@�@�@�@�@�`�T���Ȃ��Ł`<end_line>
+		　<end_line>
+		　　　　　　～探さないで～<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		�G���K����T���ė��ɏo�܂�<end_line>
-		�킽���̎��͒T���Ȃ���<end_line>
+		エンガワを探して旅に出ます<end_line>
+		わたしの事は探さないで<end_line>
 	</sjis>
 </dialogue>

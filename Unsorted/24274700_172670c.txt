@@ -1,12 +1,12 @@
 <menu>
 	<option>
 		<sjis>
-			�Ԑ��𐮂���I<end_line>
+			態勢を整える！<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			�키<end_line>
+			戦う<end_line>
 		</sjis>
 	</option>
 </menu>

@@ -3,9 +3,9 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="tier" eye="happy" mouth="neutral">
 	<sjis>
-		������<player_nickname>��<end_line>
-		�������ɂł��قق��ݒ���<end_line>
-		�ꑮ�b��t�ɂ��Ă������<end_line>
+		さすが<player_nickname>ね<end_line>
+		今すぐにでもほほえみ亭の<end_line>
+		専属鍛冶師にしてあげるわ<end_line>
 	</sjis>
   <ascii>
     As expected of <player_nickname>, huh.<end_line>
@@ -18,9 +18,9 @@
 	<portrait_l entry="player" eye="sad" mouth="serious">
 	<portrait_r entry="tier" eye="decided" mouth="neutral">
 	<sjis>
-		�킽���ɕ����Ă�l����<end_line>
-		�قق��ݒ��̐ꑮ�b��t�̓���<end_line>
-		�܂��܂��������<end_line>
+		わたしに負けてる様じゃ<end_line>
+		ほほえみ亭の専属鍛冶師の道は<end_line>
+		まだまだ遠いわよ<end_line>
 	</sjis>
   <ascii>
     Considering you lost to me,<end_line>
@@ -33,9 +33,9 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="tier" eye="happy_blush" mouth="neutral">
 	<sjis>
-		�������킽���̂��߂�<end_line>
-		�C�s������΂��Ă�̂�<end_line>
-		���ꂵ����<hearth><end_line>
+		今日もわたしのために<end_line>
+		修行をがんばってるのね<end_line>
+		うれしいわ<hearth><end_line>
 	</sjis>
   <ascii>
     I'm so happy to see you<end_line>
@@ -48,9 +48,9 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="tier" eye="decided" mouth="neutral">
 	<sjis>
-		�킽�����͂ɂȂ��Ȃ�<end_line>
-		���ł����邯��<three_dots><end_line>
-		�����̑���ł����Ă����悤���H<end_line>
+		わたしが力になれるなら<end_line>
+		何でもするけど<three_dots><end_line>
+		勝負の相手でもしてあげようか？<end_line>
 	</sjis>
   <ascii>
     If I can do anything<end_line>
@@ -63,9 +63,9 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="tier" eye="serious" mouth="neutral">
 	<sjis>
-		����������΂��Ă���<end_line>
-		�������B�[����ɂ�<player_nickname>��<end_line>
-		�Ƃ藧���������Ă��炢������<end_line>
+		今日もがんばってるわね<end_line>
+		早くヴィーさんにも<player_nickname>の<end_line>
+		独り立ちを許してもらいたいし<end_line>
 	</sjis>
   <ascii>
     You're working hard today too.<end_line>
@@ -78,9 +78,9 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="tier" eye="decided" mouth="neutral">
 	<sjis>
-		�C�s�̂���`���Ȃ�<end_line>
-		���ł�������<end_line>
-		�ǂ��H�@��������H<end_line>
+		修行のお手伝いなら<end_line>
+		いつでもするわよ<end_line>
+		どう？　勝負する？<end_line>
 	</sjis>
   <ascii>
     I'm willing to help you train<end_line>
@@ -94,7 +94,7 @@
 	<portrait_r entry="tier" eye="decided" mouth="neutral">
 	<option>
 		<sjis>
-			��������<end_line>
+			勝負する<end_line>
 		</sjis>
     <ascii>
       Fight<end_line>
@@ -102,7 +102,7 @@
 	</option>
 	<option>
 		<sjis>
-			�������Ȃ�<end_line>
+			勝負しない<end_line>
 		</sjis>
     <ascii>
       Don't fight<end_line>
@@ -113,7 +113,7 @@
 	<info box="right">
 	<portrait_r name="tier">
 	<sjis>
-		���A����<three_dots><end_line>
-		���Ⴀ�C�s����΂��ĂˁI<end_line>
+		あ、そう<three_dots><end_line>
+		じゃあ修行がんばってね！<end_line>
 	</sjis>
 </dialogue>

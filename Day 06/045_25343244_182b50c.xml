@@ -4,7 +4,7 @@
   <male>
     <option>
       <sjis>
-        �~���[�m���A���̂�<end_line>
+        ミューノを、たのむ<end_line>
       </sjis>
       <ascii>
         Take care of Murno for me.<end_line>
@@ -14,7 +14,7 @@
   <female>
     <option>
       <sjis>
-        �~���[�m���A���˂���<end_line>
+        ミューノを、おねがい<end_line>
       </sjis>
       <ascii>
         Take care of Murno for me.<end_line>
@@ -23,7 +23,7 @@
   </female>
   <option>
     <sjis>
-      ��Ώ��Ƃ�<end_line>
+      絶対勝とう<end_line>
     </sjis>
     <ascii>
       We'll win.<end_line>
@@ -47,14 +47,14 @@
   <portrait_l name="player">
   <male>
     <sjis>
-      �悵�A<partner>�I<end_line>
-      �J�N�S���߂āA�s�����I<end_line>
+      よし、<partner>！<end_line>
+      カクゴきめて、行くぞ！<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      <partner>�I<end_line>
-      �J�N�S���߂āA�s����I<end_line>
+      <partner>！<end_line>
+      カクゴきめて、行くよ！<end_line>
     </sjis>
   </female>
   <ascii>
@@ -67,9 +67,9 @@
   <info box="right">
   <portrait_r entry="player" eye="serious" mouth="neutral">
   <sjis>
-    ���݃m���[�ǃf�n�@�ς�[�s���f�X<end_line>
-    ���[�ǂ����񂶃m���@��<three_dots><end_line>
-    �ρ[�Ƃȁ[���@�烋�^���j<three_dots>�I<end_line>
+    現在ノもーどデハ　ぱわー不足デス<end_line>
+    もーどちぇんじノ方法ヲ<three_dots><end_line>
+    ぱーとなーヲ　守ルタメニ<three_dots>！<end_line>
   </sjis>
   <ascii>
     Current Mode's Power Is Insufficient.<end_line>
@@ -83,7 +83,7 @@
   <portrait_l entry="anise" eye="decided" mouth="yell">
   <portrait_r entry="tram" eye="decided" mouth="serious">
   <sjis>
-    �g�����A�����I<end_line>
+    トラム、早く！<end_line>
   </sjis>
   <ascii>
     Tram, hurry up!<end_line>
@@ -95,7 +95,7 @@
   <portrait_l entry="anise" eye="decided" mouth="yell">
   <portrait_r entry="tram" eye="decided" mouth="yell">
   <sjis>
-    �ق����󂯂�I<end_line>
+    裁きを受けよ！<end_line>
   </sjis>
   <ascii>
     Receive judgment!<end_line>
@@ -107,7 +107,7 @@
   <portrait_l entry="player" eye="decided" mouth="yell">
   <male>
     <sjis>
-      �����������I�I�I<end_line>
+      くっそおっ！！！<end_line>
     </sjis>
     <ascii>
       Dammit!!!<end_line>
@@ -115,7 +115,7 @@
   </male>
   <female>
     <sjis>
-      ���Ⴀ���I�I�I<end_line>
+      きゃあっ！！！<end_line>
     </sjis>
     <ascii>
       Kyaa!!!<end_line>
@@ -128,7 +128,7 @@
   <portrait_l entry="player" eye="decided" mouth="yell">
   <portrait_r entry="partner" eye="serious" mouth="neutral">
   <sjis>
-    �ρ[�Ƃȁ[�I<end_line>
+    ぱーとなー！<end_line>
   </sjis>
   <ascii>
     Partner!<end_line>
@@ -139,14 +139,14 @@
   <portrait_l entry="player" eye="surprised" mouth="tense">
   <male>
     <sjis>
-      <partner>�I<end_line>
-      ���O<three_dots>�I<end_line>
+      <partner>！<end_line>
+      お前<three_dots>！<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      <partner>�I<end_line>
-      ���Ȃ�<three_dots>�I<end_line>
+      <partner>！<end_line>
+      あなた<three_dots>！<end_line>
     </sjis>
   </female>
   <ascii>
@@ -158,8 +158,8 @@
   <info box="nobox">
   <portrait_l name="partner">
   <sjis>
-    ���[�ǂ����񂶊���<end_line>
-    �����Ăރn����j�쓮���f�X<end_line>
+    もーどちぇんじ完了<end_line>
+    しすてむハ正常ニ作動中デス<end_line>
   </sjis>
   <ascii>
     Mode Change Complete.<end_line>
@@ -171,14 +171,14 @@
   <portrait_l entry="player" eye="decided" mouth="talk">
   <male>
     <sjis>
-      <partner>�A���O<three_dots><end_line>
-      �J�b�R�C�C���I<end_line>
+      <partner>、お前<three_dots><end_line>
+      カッコイイぜ！<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      <partner>�A���Ȃ�<three_dots><end_line>
-      �J�b�R�C�C��I<end_line>
+      <partner>、あなた<three_dots><end_line>
+      カッコイイよ！<end_line>
     </sjis>
   </female>
   <ascii>
@@ -191,7 +191,7 @@
   <portrait_l entry="anise" eye="surprised" mouth="tense">
   <portrait_r entry="tram" eye="surprised" mouth="stressed">
   <sjis>
-    �ϐg�����I�H<end_line>
+    変身した！？<end_line>
   </sjis>
   <ascii>
     It transformed!?<end_line>
@@ -202,9 +202,9 @@
   <portrait_l entry="anise" eye="decided" mouth="yell">
   <portrait_r entry="tram" eye="surprised" mouth="stressed">
   <sjis>
-    �������肵��A�g�����I<end_line>
-    �ϐg��������ǂ����Ƃ����̂��I<end_line>
-    ������������I<end_line>
+    しっかりしろ、トラム！<end_line>
+    変身したからどうだというのだ！<end_line>
+    早くあいつらを！<end_line>
   </sjis>
   <ascii>
     Get it together, Tram!<end_line>
@@ -217,8 +217,8 @@
   <portrait_l entry="anise" eye="decided" mouth="yell">
   <portrait_r entry="tram" eye="decided" mouth="yell">
   <sjis>
-    ���A�����I<end_line>
-    �s���I�I�@�����S�I�I�I<end_line>
+    あ、ああ！<end_line>
+    行け！！　幻龍鬼！！！<end_line>
   </sjis>
   <ascii>
     Y-yeah!<end_line>
@@ -229,7 +229,7 @@
   <info box="nobox">
   <portrait_l name="partner">
   <sjis>
-    �S�̓f�@�}���V�}�X�I<end_line>
+    全力デ　迎撃シマス！<end_line>
   </sjis>
   <ascii>
     Moving To Intercept!<end_line>
@@ -241,7 +241,7 @@
   <portrait_r name="player">
   <sjis>
     <player_nickname><three_dots><end_line>
-    ���ʂ��A�܂���<three_dots><end_line>
+    おぬし、まさか<three_dots><end_line>
   </sjis>
   <ascii>
     <player_nickname><three_dots><end_line>
@@ -254,14 +254,14 @@
   <portrait_l name="player">
   <male>
     <sjis>
-      �悵�A<partner>�I<end_line>
-      �J�N�S���߂āA�s�����I<end_line>
+      よし、<partner>！<end_line>
+      カクゴきめて、行くぞ！<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      <partner>�I<end_line>
-      �J�N�S���߂āA�s����I<end_line>
+      <partner>！<end_line>
+      カクゴきめて、行くよ！<end_line>
     </sjis>
   </female>
   <ascii>
@@ -274,9 +274,9 @@
   <info box="right">
   <portrait_r entry="player" eye="sad" mouth="serious">
   <sjis>
-    ����������<three_dots>�I<end_line>
-    ���Ă͕S���R��<partner>�Ƃ���<end_line>
-    �������ꂽ�A���̃��K�n�C��<three_dots><end_line>
+    くちおしい<three_dots>！<end_line>
+    かつては百里山の<partner>として<end_line>
+    おそれられた、このワガハイが<three_dots><end_line>
   </sjis>
   <ascii>
     How mortifying<three_dots>!<end_line>
@@ -289,9 +289,9 @@
   <info box="right">
   <portrait_r entry="player" eye="decided" mouth="serious">
   <sjis>
-    ���ł̓p�[�g�i�[�ЂƂ�<end_line>
-    ��邱�Ƃ��ł���Ƃ�<three_dots><end_line>
-    �Ȃ񂽂邱�Ƃ���<three_dots>�I<end_line>
+    今ではパートナーひとり<end_line>
+    守ることができんとは<three_dots><end_line>
+    なんたることじゃ<three_dots>！<end_line>
   </sjis>
   <ascii>
     Now I can't even<end_line>
@@ -304,9 +304,9 @@
   <info box="right">
   <portrait_r entry="player" eye="decided" mouth="yell">
   <sjis>
-    �d�͂��߂��<three_dots><end_line>
-    �͂��~�����I<end_line>
-    <player_nickname>����邽�߂ɁI<end_line>
+    妖力が戻れば<three_dots><end_line>
+    力が欲しい！<end_line>
+    <player_nickname>を守るために！<end_line>
   </sjis>
   <ascii>
     If I had my power<three_dots><end_line>
@@ -320,7 +320,7 @@
   <portrait_l entry="anise" eye="decided" mouth="yell">
   <portrait_r entry="tram" eye="decided" mouth="serious">
   <sjis>
-    �g�����A�����I<end_line>
+    トラム、早く！<end_line>
   </sjis>
   <ascii>
     Tram, hurry up!<end_line>
@@ -332,7 +332,7 @@
   <portrait_l entry="anise" eye="decided" mouth="yell">
   <portrait_r entry="tram" eye="serious" mouth="neutral">
   <sjis>
-    �ق����󂯂�I<end_line>
+    裁きを受けよ！<end_line>
   </sjis>
   <ascii>
     Receive judgment!<end_line>
@@ -344,7 +344,7 @@
   <portrait_l entry="player" eye="decided" mouth="yell">
   <male>
     <sjis>
-      �����������I�I�I<end_line>
+      くっそおっ！！！<end_line>
     </sjis>
     <ascii>
       Dammit!!!<end_line>
@@ -352,7 +352,7 @@
   </male>
   <female>
     <sjis>
-      ���Ⴀ���I�I�I<end_line>
+      きゃあっ！！！<end_line>
     </sjis>
     <ascii>
       Kyaa!!!<end_line>
@@ -365,7 +365,7 @@
   <portrait_l entry="player" eye="decided" mouth="yell">
   <portrait_r entry="partner" eye="special" mouth="yell">
   <sjis>
-    <player_nickname>�I<end_line>
+    <player_nickname>！<end_line>
   </sjis>
   <ascii>
     <player_nickname>!<end_line>
@@ -376,14 +376,14 @@
   <portrait_l entry="player" eye="surprised" mouth="tense">
   <male>
     <sjis>
-      <partner>�I<end_line>
-      ���O<three_dots>�I<end_line>
+      <partner>！<end_line>
+      お前<three_dots>！<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      <partner>�I<end_line>
-      ���Ȃ�<three_dots>�I<end_line>
+      <partner>！<end_line>
+      あなた<three_dots>！<end_line>
     </sjis>
   </female>
   <ascii>
@@ -395,8 +395,8 @@
   <info box="nobox">
   <portrait_l name="partner">
   <sjis>
-    �͂��A�݂Ȃ���<three_dots>�I<end_line>
-    �������A���ꂪ<three_dots>�I<end_line>
+    力が、みなぎる<three_dots>！<end_line>
+    そうか、これが<three_dots>！<end_line>
   </sjis>
   <ascii>
     Power is flowing through me<three_dots>!<end_line>
@@ -408,14 +408,14 @@
   <portrait_l entry="player" eye="decided" mouth="talk">
   <male>
     <sjis>
-      <partner>�A���O<three_dots><end_line>
-      �J�b�R�C�C���I<end_line>
+      <partner>、お前<three_dots><end_line>
+      カッコイイぜ！<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      <partner>�A���Ȃ�<three_dots><end_line>
-      �J�b�R�C�C��I<end_line>
+      <partner>、あなた<three_dots><end_line>
+      カッコイイよ！<end_line>
     </sjis>
   </female>
   <ascii>
@@ -428,7 +428,7 @@
   <portrait_l entry="anise" eye="surprised" mouth="tense">
   <portrait_r entry="tram" eye="surprised" mouth="stressed">
   <sjis>
-    �ϐg�����I�H<end_line>
+    変身した！？<end_line>
   </sjis>
   <ascii>
     It transformed!?<end_line>
@@ -439,9 +439,9 @@
   <portrait_l entry="anise" eye="decided" mouth="yell">
   <portrait_r entry="tram" eye="surprised" mouth="stressed">
   <sjis>
-    �������肵��A�g�����I<end_line>
-    �ϐg��������ǂ����Ƃ����̂��I<end_line>
-    ������������I<end_line>
+    しっかりしろ、トラム！<end_line>
+    変身したからどうだというのだ！<end_line>
+    早くあいつらを！<end_line>
   </sjis>
   <ascii>
     Get it together, Tram!<end_line>
@@ -454,8 +454,8 @@
   <portrait_l entry="anise" eye="decided" mouth="yell">
   <portrait_r entry="tram" eye="decided" mouth="yell">
   <sjis>
-    ���A�����I<end_line>
-    �s���I�I�@�����S�I�I�I<end_line>
+    あ、ああ！<end_line>
+    行け！！　幻龍鬼！！！<end_line>
   </sjis>
   <ascii>
     Y-yeah!<end_line>
@@ -466,8 +466,8 @@
   <info box="nobox">
   <portrait_l name="partner">
   <sjis>
-    �J���^���ɂ͂����񂼁I<end_line>
-    �o�傷��̂���ȁI<end_line>
+    カンタンにはいかんぞ！<end_line>
+    覚悟するのじゃな！<end_line>
   </sjis>
   <ascii>
     Not so fast!<end_line>
@@ -480,7 +480,7 @@
   <portrait_r name="player">
   <sjis>
     <player_nickname><three_dots><end_line>
-    �L�T�}�A�܂���<three_dots><end_line>
+    キサマ、まさか<three_dots><end_line>
   </sjis>
   <ascii>
     <player_nickname><three_dots>
@@ -493,14 +493,14 @@
   <portrait_l name="player">
   <male>
     <sjis>
-      �悵�A<partner>�I<end_line>
-      �J�N�S���߂āA�s�����I<end_line>
+      よし、<partner>！<end_line>
+      カクゴきめて、行くぞ！<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      <partner>�I<end_line>
-      �J�N�S���߂āA�s����I<end_line>
+      <partner>！<end_line>
+      カクゴきめて、行くよ！<end_line>
     </sjis>
   </female>
   <ascii>
@@ -513,9 +513,9 @@
   <info box="right">
   <portrait_r entry="player" eye="decided" mouth="serious">
   <sjis>
-    ������<three_dots>�I<end_line>
-    ����Ȏq�������̎���<end_line>
-    ��낤�Ȃǂ�<three_dots>�I<end_line>
+    ちいっ<three_dots>！<end_line>
+    こんな子供がこの私を<end_line>
+    守ろうなどと<three_dots>！<end_line>
   </sjis>
   <ascii>
     Tch<three_dots>!<end_line>
@@ -528,9 +528,9 @@
   <info box="right">
   <portrait_r entry="player" eye="special" mouth="yell">
   <sjis>
-    �ӂ�����ȁI<end_line>
-    ���߂ė�͂��߂��<three_dots><end_line>
-    �͂��~�����I<end_line>
+    ふざけるな！<end_line>
+    せめて霊力が戻れば<three_dots><end_line>
+    力が欲しい！<end_line>
   </sjis>
   <ascii>
     This is ridiculous!<end_line>
@@ -544,7 +544,7 @@
   <portrait_l entry="anise" eye="decided" mouth="yell">
   <portrait_r entry="tram" eye="decided" mouth="serious">
   <sjis>
-    �g�����A�����I<end_line>
+    トラム、早く！<end_line>
   </sjis>
   <ascii>
     Tram, hurry up!<end_line>
@@ -556,7 +556,7 @@
   <portrait_l entry="anise" eye="decided" mouth="yell">
   <portrait_r entry="tram" eye="decided" mouth="yell">
   <sjis>
-    �ق����󂯂�I<end_line>
+    裁きを受けよ！<end_line>
   </sjis>
   <ascii>
     Receive judgment!<end_line>
@@ -568,7 +568,7 @@
   <portrait_l entry="player" eye="decided" mouth="yell">
   <male>
     <sjis>
-      �����������I�I�I<end_line>
+      くっそおっ！！！<end_line>
     </sjis>
     <ascii>
       Dammit!!!<end_line>
@@ -576,7 +576,7 @@
   </male>
   <female>
     <sjis>
-      ���Ⴀ���I�I�I<end_line>
+      きゃあっ！！！<end_line>
     </sjis>
     <ascii>
       Kyaa!!!<end_line>
@@ -589,7 +589,7 @@
   <portrait_l entry="player" eye="decided" mouth="yell">
   <portrait_r entry="partner" eye="special" mouth="yell">
   <sjis>
-    <player_nickname>�I<end_line>
+    <player_nickname>！<end_line>
   </sjis>
   <ascii>
     <player_nickname>!<end_line>
@@ -600,14 +600,14 @@
   <portrait_l entry="player" eye="surprised" mouth="tense">
   <male>
     <sjis>
-      <partner>�I<end_line>
-      ���O<three_dots>�I<end_line>
+      <partner>！<end_line>
+      お前<three_dots>！<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      <partner>�I<end_line>
-      ���Ȃ�<three_dots>�I<end_line>
+      <partner>！<end_line>
+      あなた<three_dots>！<end_line>
     </sjis>
   </female>
   <ascii>
@@ -619,9 +619,9 @@
   <info box="nobox">
   <portrait_l name="partner">
   <sjis>
-    ��͂�߂��ɂ̓L�T�}�̂��Ƃ�<three_dots><end_line>
-    ����<three_dots><end_line>
-    �����������Ƃ�<three_dots><end_line>
+    霊力を戻すにはキサマのことを<three_dots><end_line>
+    ちっ<three_dots><end_line>
+    そういうことか<three_dots><end_line>
   </sjis>
   <ascii>
     So to get my power back, I have to<three_dots><end_line>
@@ -634,14 +634,14 @@
   <portrait_l entry="player" eye="decided" mouth="talk">
   <male>
     <sjis>
-      <partner>�A���O<three_dots><end_line>
-      �J�b�R�C�C���I<end_line>
+      <partner>、お前<three_dots><end_line>
+      カッコイイぜ！<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      <partner>�A���Ȃ�<three_dots><end_line>
-      �J�b�R�C�C��I<end_line>
+      <partner>、あなた<three_dots><end_line>
+      カッコイイよ！<end_line>
     </sjis>
   </female>
   <ascii>
@@ -654,7 +654,7 @@
   <portrait_l entry="anise" eye="surprised" mouth="tense">
   <portrait_r entry="tram" eye="surprised" mouth="stressed">
   <sjis>
-    �ϐg�����I�H<end_line>
+    変身した！？<end_line>
   </sjis>
   <ascii>
     It transformed!?<end_line>
@@ -665,9 +665,9 @@
   <portrait_l entry="anise" eye="decided" mouth="yell">
   <portrait_r entry="tram" eye="surprised" mouth="stressed">
   <sjis>
-    �������肵��A�g�����I<end_line>
-    �ϐg��������ǂ����Ƃ����̂��I<end_line>
-    ������������I<end_line>
+    しっかりしろ、トラム！<end_line>
+    変身したからどうだというのだ！<end_line>
+    早くあいつらを！<end_line>
   </sjis>
   <ascii>
     Get it together, Tram!<end_line>
@@ -680,8 +680,8 @@
   <portrait_l entry="anise" eye="decided" mouth="yell">
   <portrait_r entry="tram" eye="decided" mouth="yell">
   <sjis>
-    ���A�����I<end_line>
-    �s���I<end_line>
+    あ、ああ！<end_line>
+    行け！<end_line>
   </sjis>
   <ascii>
     Y-yeah!<end_line>
@@ -692,7 +692,7 @@
   <info box="nobox">
   <portrait_l name="partner">
   <sjis>
-    �Ȃ߂��N�`���������ȁI<end_line>
+    なめたクチをたたくな！<end_line>
   </sjis>
   <ascii>
     Don't underestimate me!<end_line>
@@ -703,8 +703,8 @@
   <info box="nobox">
   <portrait_l name="partner">
   <sjis>
-    <player_nickname>�A����<three_dots><end_line>
-    ���Ȃ��A����������<three_dots><end_line>
+    <player_nickname>、さん<three_dots><end_line>
+    あなた、もしかして<three_dots><end_line>
   </sjis>
   <ascii>
     <player_nickname><three_dots><end_line>
@@ -717,14 +717,14 @@
   <portrait_l name="partner">
   <male>
     <sjis>
-      �悵�A<partner>�I<end_line>
-      �J�N�S���߂āA�s�����I<end_line>
+      よし、<partner>！<end_line>
+      カクゴきめて、行くぞ！<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      <partner>�I<end_line>
-      �J�N�S���߂āA�s����I<end_line>
+      <partner>！<end_line>
+      カクゴきめて、行くよ！<end_line>
     </sjis>
   </female>
   <ascii>
@@ -737,9 +737,9 @@
   <info box="right">
   <portrait_r entry="tram" eye="sad" mouth="tense">
   <sjis>
-    ����<three_dots>�A<player_nickname>����<three_dots><end_line>
-    ��������Đ킨���Ƃ��Ă���̂�<three_dots><end_line>
-    ���͈�̂Ȃɂ�����Ă����<three_dots>�I<end_line>
+    うぅ<three_dots>、<player_nickname>さんが<three_dots><end_line>
+    私を守って戦おうとしているのに<three_dots><end_line>
+    私は一体なにをやっているの<three_dots>！<end_line>
   </sjis>
   <ascii>
     Uu<three_dots> <player_nickname> is<three_dots><end_line>
@@ -752,9 +752,9 @@
   <info box="right">
   <portrait_r entry="tram" eye="decided" mouth="serious">
   <sjis>
-    ����ȂƂ���<end_line>
-    ���т��Ă��邾������<three_dots><end_line>
-    ��΂Ƀ_���ł���I<end_line>
+    こんなときに<end_line>
+    おびえているだけじゃ<three_dots><end_line>
+    絶対にダメですわ！<end_line>
   </sjis>
   <ascii>
     I'm just sitting here<end_line>
@@ -767,9 +767,9 @@
   <info box="right">
   <portrait_r entry="tram" eye="decided" mouth="yell">
   <sjis>
-    �E�C��<three_dots><end_line>
-    �͂��~�����I<end_line>
-    <player_nickname>�������邽�߂ɁI<end_line>
+    勇気が<three_dots><end_line>
+    力が欲しい！<end_line>
+    <player_nickname>さんを守るために！<end_line>
   </sjis>
   <ascii>
     Give me courage<three_dots><end_line>
@@ -783,7 +783,7 @@
   <portrait_l entry="anise" eye="decided" mouth="yell">
   <portrait_r entry="tram" eye="decided" mouth="serious">
   <sjis>
-    �g�����A�����I<end_line>
+    トラム、早く！<end_line>
   </sjis>
   <ascii>
     Tram, hurry up!<end_line>
@@ -795,7 +795,7 @@
   <portrait_l entry="anise" eye="decided" mouth="yell">
   <portrait_r entry="tram" eye="decided" mouth="yell">
   <sjis>
-    �ق����󂯂�I<end_line>
+    裁きを受けよ！<end_line>
   </sjis>
   <ascii>
     Receive judgment!<end_line>
@@ -807,7 +807,7 @@
   <portrait_l entry="player" eye="decided" mouth="yell">
   <male>
     <sjis>
-      �����������I�I�I<end_line>
+      くっそおっ！！！<end_line>
     </sjis>
     <ascii>
       Dammit!!!<end_line>
@@ -815,7 +815,7 @@
   </male>
   <female>
     <sjis>
-      ���Ⴀ���I�I�I<end_line>
+      きゃあっ！！！<end_line>
     </sjis>
     <ascii>
       Kyaa!!!<end_line>
@@ -828,7 +828,7 @@
   <portrait_l entry="player" eye="decided" mouth="yell">
   <portrait_r entry="partner" eye="decided" mouth="yell">
   <sjis>
-    <player_nickname>����I<end_line>
+    <player_nickname>さん！<end_line>
   </sjis>
   <ascii>
     <player_nickname>!<end_line>
@@ -839,14 +839,14 @@
   <portrait_l entry="player" eye="surprised" mouth="tense">
   <male>
     <sjis>
-      <partner>�I<end_line>
-      ���O<three_dots>�I<end_line>
+      <partner>！<end_line>
+      お前<three_dots>！<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      <partner>�I<end_line>
-      ���Ȃ�<three_dots>�I<end_line>
+      <partner>！<end_line>
+      あなた<three_dots>！<end_line>
     </sjis>
   </female>
   <ascii>
@@ -858,8 +858,8 @@
   <info box="nobox">
   <portrait_l name="partner">
   <sjis>
-    �ł��܂���<three_dots><end_line>
-    �ϐg�A�ł��܂�����<three_dots>�I<end_line>
+    できました<three_dots><end_line>
+    変身、できましたよ<three_dots>！<end_line>
   </sjis>
   <ascii>
     I did it<three_dots><end_line>
@@ -871,14 +871,14 @@
   <portrait_l entry="player" eye="decided" mouth="talk">
   <male>
     <sjis>
-      ����<three_dots><end_line>
-      �J�b�R�C�C���I<end_line>
+      ああ<three_dots><end_line>
+      カッコイイぜ！<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ����<three_dots><end_line>
-      �J�b�R�C�C��I<end_line>
+      うん<three_dots><end_line>
+      カッコイイよ！<end_line>
     </sjis>
   </female>
   <ascii>
@@ -891,7 +891,7 @@
   <portrait_l entry="anise" eye="surprised" mouth="tense">
   <portrait_r entry="tram" eye="surprised" mouth="stressed">
   <sjis>
-    �ϐg�����I�H<end_line>
+    変身した！？<end_line>
   </sjis>
   <ascii>
     It transformed!?<end_line>
@@ -902,9 +902,9 @@
   <portrait_l entry="anise" eye="decided" mouth="yell">
   <portrait_r entry="tram" eye="surprised" mouth="stressed">
   <sjis>
-    �������肵��A�g�����I<end_line>
-    �ϐg��������ǂ����Ƃ����̂��I<end_line>
-    ������������I<end_line>
+    しっかりしろ、トラム！<end_line>
+    変身したからどうだというのだ！<end_line>
+    早くあいつらを！<end_line>
   </sjis>
   <ascii>
     Get it together, Tram!<end_line>
@@ -917,8 +917,8 @@
   <portrait_l entry="anise" eye="decided" mouth="yell">
   <portrait_r entry="tram" eye="decided" mouth="yell">
   <sjis>
-    ���A�����I<end_line>
-    �s���I�I�@�����S�I�I�I<end_line>
+    あ、ああ！<end_line>
+    行け！！　幻龍鬼！！！<end_line>
   </sjis>
   <ascii>
     Y-yeah!<end_line>
@@ -929,7 +929,7 @@
   <info box="nobox">
   <portrait_l name="partner">
   <sjis>
-    ��΂ɕ����܂��񂩂�I<end_line>
+    絶対に負けませんから！<end_line>
   </sjis>
   <ascii>
     We will not lose!<end_line>

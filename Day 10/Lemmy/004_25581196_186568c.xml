@@ -3,7 +3,7 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="lemmy" eye="serious" mouth="neutral">
   <sjis>
-    �����̏����͂ł����H<end_line>
+    勝負の準備はできた？<end_line>
   </sjis>
   <ascii>
     Are you ready?<end_line>
@@ -16,7 +16,7 @@
   <male>
     <option>
       <sjis>
-        �o�b�`���ł��Ă邺<end_line>
+        バッチリできてるぜ<end_line>
       </sjis>
       <ascii>
         Let's do it!<end_line>
@@ -24,7 +24,7 @@
     </option>
     <option>
       <sjis>
-        ���������҂��Ă�<end_line>
+        もう少し待ってろ<end_line>
       </sjis>
       <ascii>
         Gimme a minute.<end_line>
@@ -34,7 +34,7 @@
   <female>
     <option>
       <sjis>
-        �o�b�`���ł��Ă��<end_line>
+        バッチリできてるよ<end_line>
       </sjis>
       <ascii>
         Let's do it!<end_line>
@@ -42,7 +42,7 @@
     </option>
     <option>
       <sjis>
-        ���������҂��Ă�<end_line>
+        もう少し待ってて<end_line>
       </sjis>
       <ascii>
         Gimme a minute.<end_line>

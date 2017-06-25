@@ -2,7 +2,7 @@
   <info box="nobox">
   <portrait_l name="lemmy">
   <sjis>
-    ����ς�N��<three_dots><end_line>
+    やっぱり君か<three_dots><end_line>
   </sjis>
   <ascii>
     I thought it was you<three_dots><end_line>
@@ -13,9 +13,9 @@
   <portrait_l entry="player" eye="serious" mouth="serious">
   <portrait_r entry="lemmy" eye="serious" mouth="tense">
   <sjis>
-    �ǂ������񂾂��H<end_line>
-    �܂���������ƒ��𔲂��o��<end_line>
-    ���肾�����H<end_line>
+    どうしたんだい？<end_line>
+    またこっそりと町を抜け出す<end_line>
+    つもりだった？<end_line>
   </sjis>
   <ascii>
     What's up?<end_line>
@@ -29,14 +29,14 @@
   <portrait_r entry="lemmy" eye="serious" mouth="tense">
   <male>
     <sjis>
-      �Ȃ񂾂�A����I<end_line>
-      �I���͂����A���̕ӂ�̌�����<three_dots><end_line>
+      なんだよ、それ！<end_line>
+      オレはただ、この辺りの見回りを<three_dots><end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �Ȃɂ�A����I<end_line>
-      �킽���͂����A���̕ӂ�̌�����<three_dots><end_line>
+      なによ、それ！<end_line>
+      わたしはただ、この辺りの見回りを<three_dots><end_line>
     </sjis>
   </female>
   <ascii>
@@ -49,8 +49,8 @@
   <portrait_l entry="player" eye="decided" mouth="yell">
   <portrait_r entry="lemmy" eye="serious" mouth="neutral">
   <sjis>
-    �����H<end_line>
-    �ǂ����āH<end_line>
+    見回り？<end_line>
+    どうして？<end_line>
   </sjis>
   <ascii>
     Patrolling?<end_line>
@@ -62,9 +62,9 @@
   <portrait_l entry="player" eye="serious" mouth="serious">
   <portrait_r entry="lemmy" eye="serious" mouth="neutral">
   <sjis>
-    ����́A�������ăA�j�X������<end_line>
-    �ǂ����Ń~���[�m���˂���Ă邩��<end_line>
-    ����Ȃ�����<three_dots><end_line>
+    それは、今だってアニスたちが<end_line>
+    どこかでミューノをねらってるかも<end_line>
+    しれないから<three_dots><end_line>
   </sjis>
   <ascii>
     I'm sure Anise and the others<end_line>
@@ -76,9 +76,9 @@
   <portrait_l entry="player" eye="serious" mouth="serious">
   <portrait_r entry="lemmy" eye="decided" mouth="serious">
   <sjis>
-    �ӂ�<three_dots><end_line>
-    �ǂ����Ă����̐l������<end_line>
-    ���҂ɂ������݂�������<end_line>
+    ふん<three_dots><end_line>
+    どうしてもあの人たちを<end_line>
+    悪者にしたいみたいだね<end_line>
   </sjis>
   <ascii>
     Hmm<three_dots><end_line>
@@ -92,16 +92,16 @@
   <portrait_r entry="lemmy" eye="decided" mouth="serious">
   <male>
     <sjis>
-      ���O�����܂��������<end_line>
-      ���Ԃ��Ǝv���Ă���̂��H<end_line>
-      �{�X�^�t���񂪂����������̂��I�H<end_line>
+      お前こそまだあいつらを<end_line>
+      仲間だと思っているのか？<end_line>
+      ボスタフさんがそう言ったのか！？<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ���񂽂����܂��������<end_line>
-      ���Ԃ��Ǝv���Ă���́H<end_line>
-      �{�X�^�t���񂪂�������������I�H<end_line>
+      あんたこそまだあいつらを<end_line>
+      仲間だと思っているの？<end_line>
+      ボスタフさんがそう言ったから！？<end_line>
     </sjis>
   </female>
   <ascii>
@@ -115,8 +115,8 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <portrait_r entry="lemmy" eye="serious" mouth="neutral">
   <sjis>
-    �����<three_dots><end_line>
-    �e���ɂ͂܂��A�b���Ă��Ȃ�<three_dots><end_line>
+    それは<three_dots><end_line>
+    親方にはまだ、話していない<three_dots><end_line>
   </sjis>
   <ascii>
     That's<three_dots><end_line>
@@ -128,14 +128,14 @@
   <portrait_r entry="lemmy" eye="serious" mouth="neutral">
   <male>
     <sjis>
-      �Ȃ񂾂�<three_dots><end_line>
-      �������͂���Ȃ�<three_dots><end_line>
+      なんだよ<three_dots><end_line>
+      さっきはあんなに<three_dots><end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �Ȃɂ�<three_dots><end_line>
-      �������͂���Ȃ�<three_dots><end_line>
+      なによ<three_dots><end_line>
+      さっきはあんなに<three_dots><end_line>
     </sjis>
   </female>
   <ascii>
@@ -148,9 +148,9 @@
   <portrait_l entry="player" eye="decided" mouth="tense">
   <portrait_r entry="lemmy" eye="decided" mouth="stressed">
   <sjis>
-    �e���͖Z�����񂾁I<end_line>
-    �]�v�ȐS�z�Ȃ��<end_line>
-    ����������񂩁I<end_line>
+    親方は忙しいんだ！<end_line>
+    余計な心配なんて<end_line>
+    かけられるもんか！<end_line>
   </sjis>
   <ascii>
     Master is busy!<end_line>
@@ -163,8 +163,8 @@
   <portrait_l entry="player" eye="sad" mouth="tense">
   <portrait_r entry="lemmy" eye="decided" mouth="stressed">
   <sjis>
-    <three_dots>���I<end_line>
-    ����ȓ{��Ȃ��Ă�<three_dots><end_line>
+    <three_dots>っ！<end_line>
+    そんな怒らなくても<three_dots><end_line>
   </sjis>
   <ascii>
     <three_dots>!<end_line>
@@ -176,9 +176,9 @@
   <portrait_l entry="player" eye="sad" mouth="tense">
   <portrait_r entry="lemmy" eye="serious" mouth="tense">
   <sjis>
-    �����A�݂�Ȃ��W�߂�<end_line>
-    �b�������������ˁH<end_line>
-    �����Ƃ��̎��Ƀn�b�L�������<end_line>
+    明日、みんなを集めて<end_line>
+    話し合いがあるよね？<end_line>
+    きっとその時にハッキリするよ<end_line>
   </sjis>
   <ascii>
     We're all having a meeting<end_line>
@@ -191,9 +191,9 @@
   <portrait_l entry="player" eye="sad" mouth="tense">
   <portrait_r entry="lemmy" eye="decided" mouth="serious">
   <sjis>
-    �{�X�^�t�e����<end_line>
-    �܂����������ƂȂ��<end_line>
-    ����͂��Ȃ�����<end_line>
+    ボスタフ親方が<end_line>
+    まちがったことなんて<end_line>
+    するはずないって<end_line>
   </sjis>
   <ascii>
     There's no way Master Bostaph<end_line>

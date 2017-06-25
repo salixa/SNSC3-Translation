@@ -1,42 +1,42 @@
 <location>
 	<sjis>
-		���u�H�[�@�H�[<end_line>
+		ロブ工房　工房<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="vee">
 	<sjis>
-		�h�R�ɂ����������I<end_line>
-		�C�s�ɏW�����ȁI<end_line>
+		ドコにいくンだい！<end_line>
+		修行に集中しな！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="player">
 	<sjis>
-		<partner>�����Ȃ���<end_line>
-		�^�^�����g���̂͂�߂悤����<end_line>
+		<partner>もいないし<end_line>
+		タタラを使うのはやめようかな<end_line>
 	</sjis>
 </dialogue>
 <popup>
 	<sjis>
-		��ꂪ��ꂽ�I<end_line>
+		疲れが取れた！<end_line>
 	</sjis>
 </popup>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="vee">
 	<sjis>
-		�A���^�����͌�����<end_line>
-		���Ȃ��Ⴂ���Ȃ��񂾂�I<end_line>
-		�����������ă�������I<end_line>
+		アンタたちは現実と<end_line>
+		戦わなきゃいけないんだよ！<end_line>
+		生活かかってンだから！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="vee">
 	<sjis>
-		�Q�l�Ń~���[�m���Ă�ł���<end_line>
+		２人でミューノを呼んできな<end_line>
 	</sjis>
 </dialogue>

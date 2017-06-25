@@ -2,7 +2,7 @@
   <info box="right">
   <portrait_r entry="jade" eye="serious" mouth="tense">
   <sjis>
-    ‚ <three_dots>IH<end_line>
+    ã‚<three_dots>ï¼ï¼Ÿ<end_line>
   </sjis>
   <ascii>
     Huh<three_dots>!?<end_line>
@@ -12,60 +12,60 @@
   <info box="right" effect="big">
   <portrait_r entry="jade" eye="surprised_blush" mouth="stressed">
   <sjis>
-    <player_nickname>IH<end_line>
+    <player_nickname>ï¼ï¼Ÿ<end_line>
   </sjis>
   <ascii>
-    <player_nickname>IH<end_line>
+    <player_nickname>ï¼ï¼Ÿ<end_line>
   </ascii>
 </bigtext>
 <bigtext>
   <info box="right" effect="big">
   <portrait_r entry="jade" eye="surprised_blush" mouth="stressed">
   <sjis>
-    <player_nickname>IH<end_line>
+    <player_nickname>ï¼ï¼Ÿ<end_line>
   </sjis>
   <ascii>
-    <player_nickname>IH<end_line>
+    <player_nickname>ï¼ï¼Ÿ<end_line>
   </ascii>
 </bigtext>
 <bigtext>
   <info box="right" effect="big">
   <portrait_r entry="jade" eye="surprised_blush" mouth="stressed">
   <sjis>
-    <player_nickname>IH<end_line>
+    <player_nickname>ï¼ï¼Ÿ<end_line>
   </sjis>
   <ascii>
-    <player_nickname>IH<end_line>
+    <player_nickname>ï¼ï¼Ÿ<end_line>
   </ascii>
 </bigtext>
 <bigtext>
   <info box="right" effect="big">
   <portrait_r entry="jade" eye="surprised_blush" mouth="stressed">
   <sjis>
-    <player_nickname>IH<end_line>
+    <player_nickname>ï¼ï¼Ÿ<end_line>
   </sjis>
   <ascii>
-    <player_nickname>IH<end_line>
+    <player_nickname>ï¼ï¼Ÿ<end_line>
   </ascii>
 </bigtext>
 <bigtext>
   <info box="right" effect="big">
   <portrait_r entry="jade" eye="surprised_blush" mouth="stressed">
   <sjis>
-    <player_nickname>IH<end_line>
+    <player_nickname>ï¼ï¼Ÿ<end_line>
   </sjis>
   <ascii>
-    <player_nickname>IH<end_line>
+    <player_nickname>ï¼ï¼Ÿ<end_line>
   </ascii>
 </bigtext>
 <bigtext>
   <info box="right" effect="big">
   <portrait_r entry="jade" eye="surprised_blush" mouth="stressed">
   <sjis>
-    <player_nickname>IH<end_line>
+    <player_nickname>ï¼ï¼Ÿ<end_line>
   </sjis>
   <ascii>
-    <player_nickname>IH<end_line>
+    <player_nickname>ï¼ï¼Ÿ<end_line>
   </ascii>
 </bigtext>
 <dialogue>
@@ -73,7 +73,7 @@
   <portrait_l entry="player" eye="surprised" mouth="talk">
   <portrait_r entry="jade" eye="surprised_blush" mouth="stressed">
   <sjis>
-    ‚ AƒAƒjƒLI<end_line>
+    ã‚ã€ã‚¢ãƒ‹ã‚­ï¼<end_line>
   </sjis>
   <ascii>
     Ah, Bro!<end_line>
@@ -84,8 +84,8 @@
   <portrait_l entry="player" eye="surprised" mouth="talk">
   <portrait_r entry="jade" eye="sad" mouth="tense">
   <sjis>
-    ‚¨<three_dots><end_line>
-    ‚¨‘O‚½‚¿<three_dots><end_line>
+    ãŠ<three_dots><end_line>
+    ãŠå‰ãŸã¡<three_dots><end_line>
   </sjis>
   <ascii>
     Y<three_dots><end_line>
@@ -97,9 +97,9 @@
   <portrait_l entry="player" eye="sad" mouth="tense">
   <portrait_r entry="jade" eye="decided" mouth="serious">
   <sjis>
-    S”z‚©‚¯‚â‚ª‚Á‚Ä‚æ<three_dots><end_line>
-    ”[“¾‚Å‚«‚éŒ¾‚¢–ó‚Í‚¿‚á`‚ñ‚Æ<end_line>
-    —pˆÓ‚µ‚Ä‚ ‚é‚ñ‚¾‚ë‚¤‚ÈH<end_line>
+    å¿ƒé…ã‹ã‘ã‚„ãŒã£ã¦ã‚ˆ<three_dots><end_line>
+    ç´å¾—ã§ãã‚‹è¨€ã„è¨³ã¯ã¡ã‚ƒï½žã‚“ã¨<end_line>
+    ç”¨æ„ã—ã¦ã‚ã‚‹ã‚“ã ã‚ã†ãªï¼Ÿ<end_line>
   </sjis>
   <ascii>
     We were worried about you<three_dots><end_line>
@@ -112,7 +112,7 @@
   <portrait_l entry="player" eye="sad" mouth="tense">
   <portrait_r entry="jade" eye="special" mouth="talk">
   <sjis>
-    ‚ H<end_line>
+    ã‚ï¼Ÿ<end_line>
   </sjis>
   <ascii>
     Ah?<end_line>
@@ -123,9 +123,9 @@
   <portrait_l entry="player" eye="surprised" mouth="yell">
   <portrait_r entry="jade" eye="special" mouth="talk">
   <sjis>
-    ‚¢‚â<three_dots>A‚ ‚Ì<three_dots><end_line>
-    ‚â<three_dots>‚ÁIH<end_line>
-    ƒ„‚ç‚ê‚éIH<end_line>
+    ã„ã‚„<three_dots>ã€ã‚ã®<three_dots><end_line>
+    ã‚„<three_dots>ã£ï¼ï¼Ÿ<end_line>
+    ãƒ¤ã‚‰ã‚Œã‚‹ï¼ï¼Ÿ<end_line>
   </sjis>
   <ascii>
     No<three_dots>, umm<three_dots><end_line>
@@ -138,9 +138,9 @@
   <portrait_l entry="player" eye="surprised" mouth="serious">
   <portrait_r entry="jade" eye="happy_blush" mouth="neutral">
   <sjis>
-    ‚ ‚Æ‚Å‚½`‚Á‚Õ‚è‚Æ<end_line>
-    •·‚©‚¹‚Ä‚à‚ç‚¤‚©‚ç‚È<end_line>
-    ƒJƒNƒS‚µ‚Æ‚¯‚æ<end_line>
+    ã‚ã¨ã§ãŸï½žã£ã·ã‚Šã¨<end_line>
+    èžã‹ã›ã¦ã‚‚ã‚‰ã†ã‹ã‚‰ãª<end_line>
+    ã‚«ã‚¯ã‚´ã—ã¨ã‘ã‚ˆ<end_line>
   </sjis>
   <ascii>
     You're going to be telling me<end_line>
@@ -153,9 +153,9 @@
   <portrait_l entry="player" eye="surprised" mouth="tense">
   <portrait_r entry="jade" eye="happy_blush" mouth="neutral">
   <sjis>
-    ‚¦<three_dots>H<end_line>
-    ‚ ‚Ì<three_dots>H<end_line>
-    ƒAƒjƒL<three_dots>H<end_line>
+    ãˆ<three_dots>ï¼Ÿ<end_line>
+    ã‚ã®<three_dots>ï¼Ÿ<end_line>
+    ã‚¢ãƒ‹ã‚­<three_dots>ï¼Ÿ<end_line>
   </sjis>
   <ascii>
     Eh<three_dots>?<end_line>
@@ -167,8 +167,8 @@
   <info box="right">
   <portrait_r entry="jade" eye="serious" mouth="talk">
   <sjis>
-    ƒ~ƒ…[ƒmA<partner><three_dots><end_line>
-    ‚¨‘O‚½‚¿‚à‚¾‚¼<end_line>
+    ãƒŸãƒ¥ãƒ¼ãƒŽã€<partner><three_dots><end_line>
+    ãŠå‰ãŸã¡ã‚‚ã ãž<end_line>
   </sjis>
   <ascii>
     Murno, <partner><three_dots><end_line>
@@ -190,8 +190,8 @@
   <info box="simple">
   <portrait_r name="jade">
   <sjis>
-    ‚Ü‚Á‚½‚­<three_dots><end_line>
-    S”z‚©‚¯‚â‚ª‚Á‚Ä<three_dots><end_line>
+    ã¾ã£ãŸã<three_dots><end_line>
+    å¿ƒé…ã‹ã‘ã‚„ãŒã£ã¦<three_dots><end_line>
   </sjis>
   <ascii>
     Seriously<three_dots><end_line>
@@ -202,8 +202,8 @@
   <info box="right">
   <portrait_r entry="jade" eye="sad_blush" mouth="talk">
   <sjis>
-    ‚Æ‚É‚©‚­‚Ý‚ñ‚È‚ð<end_line>
-    ˆÀS‚³‚¹‚Ä‚â‚ç‚È‚­‚¿‚á‚È<end_line>
+    ã¨ã«ã‹ãã¿ã‚“ãªã‚’<end_line>
+    å®‰å¿ƒã•ã›ã¦ã‚„ã‚‰ãªãã¡ã‚ƒãª<end_line>
   </sjis>
   <ascii>
     Well, for now, we need to let<end_line>
@@ -215,7 +215,7 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="jade" eye="sad_blush" mouth="talk">
   <sjis>
-    ‚Ý‚ñ‚È‚à<three_dots>H<end_line>
+    ã¿ã‚“ãªã‚‚<three_dots>ï¼Ÿ<end_line>
   </sjis>
   <ascii>
     Everyone<three_dots>?<end_line>
@@ -225,8 +225,8 @@
   <info box="right">
   <portrait_r entry="jade" eye="serious" mouth="yell">
   <sjis>
-    ‚¨[‚¢I<end_line>
-    <player_nickname>‚½‚¿A‚¢‚½‚¼I<end_line>
+    ãŠãƒ¼ã„ï¼<end_line>
+    <player_nickname>ãŸã¡ã€ã„ãŸãžï¼<end_line>
   </sjis>
   <ascii>
     Heey!<end_line>

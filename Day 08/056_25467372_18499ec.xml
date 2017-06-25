@@ -3,9 +3,9 @@
   <portrait_l entry="guilan" eye="decided" mouth="yell">
   <portrait_r entry="lemmy" eye="decided" mouth="serious">
   <sjis>
-    ƒ{ƒEƒ„<three_dots><end_line>
-    ‚Ç‚¤‚â‚Á‚Ä‚±‚±‚Ü‚ÅH<end_line>
-    Œ©’£‚è‚Ì˜A’†‚Í‚Ç‚¤‚µ‚½‚ÌIH<end_line>
+    ãƒœã‚¦ãƒ¤<three_dots><end_line>
+    ã©ã†ã‚„ã£ã¦ã“ã“ã¾ã§ï¼Ÿ<end_line>
+    è¦‹å¼µã‚Šã®é€£ä¸­ã¯ã©ã†ã—ãŸã®ï¼ï¼Ÿ<end_line>
   </sjis>
   <ascii>
     Boy<three_dots><end_line>
@@ -18,8 +18,8 @@
   <portrait_l entry="guilan" eye="decided" mouth="yell">
   <portrait_r entry="lemmy" eye="decided" mouth="neutral">
   <sjis>
-    Œ©’£‚è‚È‚çA‚à‚Á‚ÆŽg‚¦‚élŠÔ‚ð<end_line>
-    ‚¨‚­‚±‚Æ‚Å‚·‚Ë<end_line>
+    è¦‹å¼µã‚Šãªã‚‰ã€ã‚‚ã£ã¨ä½¿ãˆã‚‹äººé–“ã‚’<end_line>
+    ãŠãã“ã¨ã§ã™ã­<end_line>
   </sjis>
   <ascii>
     You should find people who<end_line>
@@ -31,8 +31,8 @@
   <portrait_l entry="guilan" eye="decided" mouth="yell">
   <portrait_r entry="lemmy" eye="decided" mouth="neutral">
   <sjis>
-    ‚ ‚ñ‚Èl‚½‚¿‚ÉŒ©‚Â‚©‚é‚Ì‚Í<end_line>
-    ‚»‚±‚Ìl‚­‚ç‚¢‚Ì‚à‚Ì‚Å‚·‚æ<end_line>
+    ã‚ã‚“ãªäººãŸã¡ã«è¦‹ã¤ã‹ã‚‹ã®ã¯<end_line>
+    ãã“ã®äººãã‚‰ã„ã®ã‚‚ã®ã§ã™ã‚ˆ<end_line>
   </sjis>
   <ascii>
     Only idiots like these guys<end_line>
@@ -44,9 +44,9 @@
   <portrait_l entry="guilan" eye="decided" mouth="serious">
   <portrait_r entry="lemmy" eye="decided" mouth="tense">
   <sjis>
-    ‚»‚ñ‚È‚±‚Æ‚æ‚èA‚ ‚È‚½‚½‚¿<end_line>
-    ƒ{ƒXƒ^ƒte•û‚ð<end_line>
-    ƒ_ƒ}‚µ‚Ä‚¢‚½‚ñ‚Å‚·‚Ë<three_dots>I<end_line>
+    ãã‚“ãªã“ã¨ã‚ˆã‚Šã€ã‚ãªãŸãŸã¡<end_line>
+    ãƒœã‚¹ã‚¿ãƒ•è¦ªæ–¹ã‚’<end_line>
+    ãƒ€ãƒžã—ã¦ã„ãŸã‚“ã§ã™ã­<three_dots>ï¼<end_line>
   </sjis>
   <ascii>
     More importantly, you people<end_line>
@@ -59,7 +59,7 @@
   <portrait_l entry="guilan" eye="decided" mouth="serious">
   <portrait_r entry="lemmy" eye="decided" mouth="serious">
   <sjis>
-    ‹–‚¹‚È‚¢<three_dots><end_line>
+    è¨±ã›ãªã„<three_dots><end_line>
   </sjis>
   <ascii>
     I won't forgive you<three_dots><end_line>
@@ -70,9 +70,9 @@
   <portrait_l entry="anise" eye="special" mouth="talk">
   <portrait_r entry="lemmy" eye="decided" mouth="serious">
   <sjis>
-    ƒ_ƒ}‚µ‚Ä‚¢‚½A‚¾‚ÆH<end_line>
-    ‚Í‚Á<three_dots><end_line>
-    ‰½‚ðŒ¾‚Á‚Ä‚éAƒAƒCƒc‚Í<three_dots><end_line>
+    ãƒ€ãƒžã—ã¦ã„ãŸã€ã ã¨ï¼Ÿ<end_line>
+    ã¯ã£<three_dots><end_line>
+    ä½•ã‚’è¨€ã£ã¦ã‚‹ã€ã‚¢ã‚¤ãƒ„ã¯<three_dots><end_line>
   </sjis>
   <ascii>
     We've been deceiving him?<end_line>
@@ -84,8 +84,8 @@
   <info box="right">
   <portrait_r entry="lemmy" eye="decided" mouth="neutral">
   <sjis>
-    ‚Ü‚Á‚½‚­<end_line>
-    ‚È‚ñ‚ÄƒUƒ}‚¾<end_line>
+    ã¾ã£ãŸã<end_line>
+    ãªã‚“ã¦ã‚¶ãƒžã <end_line>
   </sjis>
   <ascii>
     Seriously,<end_line>
@@ -98,14 +98,14 @@
   <portrait_r entry="lemmy" eye="decided" mouth="neutral">
   <male>
     <sjis>
-      ‚¨‘O<three_dots>H<end_line>
-      ‚Ç‚¤‚µ‚Ä<three_dots><end_line>
+      ãŠå‰<three_dots>ï¼Ÿ<end_line>
+      ã©ã†ã—ã¦<three_dots><end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ‚ ‚ñ‚½<three_dots>H<end_line>
-      ‚Ç‚¤‚µ‚Ä<three_dots><end_line>
+      ã‚ã‚“ãŸ<three_dots>ï¼Ÿ<end_line>
+      ã©ã†ã—ã¦<three_dots><end_line>
     </sjis>
   </female>
   <ascii>
@@ -117,8 +117,8 @@
   <info box="right">
   <portrait_r entry="pike" eye="surprised" mouth="stressed">
   <sjis>
-    ‚¨‚¢I<end_line>
-    ‰½‚ª‹N‚±‚Á‚Ä‚éIH<end_line>
+    ãŠã„ï¼<end_line>
+    ä½•ãŒèµ·ã“ã£ã¦ã‚‹ï¼ï¼Ÿ<end_line>
   </sjis>
   <ascii>
     Hey!<end_line>
@@ -129,8 +129,8 @@
   <info box="left">
   <portrait_l entry="guilan" eye="decided" mouth="yell">
   <sjis>
-    Œ©‚ÄI<end_line>
-    Œ‹ŠE‚ª‚±‚í‚ê‚¿‚á‚Á‚½‚í‚æIH<end_line>
+    è¦‹ã¦ï¼<end_line>
+    çµç•ŒãŒã“ã‚ã‚Œã¡ã‚ƒã£ãŸã‚ã‚ˆï¼ï¼Ÿ<end_line>
   </sjis>
   <ascii>
     Look!<end_line>
@@ -142,8 +142,8 @@
   <portrait_l entry="guilan" eye="decided" mouth="yell">
   <portrait_r entry="anise" eye="surprised" mouth="stressed">
   <sjis>
-    ‚Ü‚¸‚¢<three_dots>I<end_line>
-    ‚±‚ê‚Å‚ÍAƒAƒJƒoƒl‚ªI<end_line>
+    ã¾ãšã„<three_dots>ï¼<end_line>
+    ã“ã‚Œã§ã¯ã€ã‚¢ã‚«ãƒãƒãŒï¼<end_line>
   </sjis>
   <ascii>
     Shit<three_dots>!<end_line>
@@ -155,8 +155,8 @@
   <portrait_l entry="guilan" eye="decided" mouth="yell">
   <portrait_r entry="pike" eye="decided" mouth="serious">
   <sjis>
-    ‚¿‚¢‚Á<end_line>
-    ‘Þ‚­‚µ‚©‚È‚¢‚©<end_line>
+    ã¡ã„ã£<end_line>
+    é€€ãã—ã‹ãªã„ã‹<end_line>
   </sjis>
   <ascii>
     Tch!<end_line>
@@ -168,8 +168,8 @@
   <portrait_l entry="guilan" eye="decided" mouth="talk">
   <portrait_r entry="pike" eye="decided" mouth="serious">
   <sjis>
-    “–‘R‚æI<end_line>
-    ‚¶‚áA‚¨æ‚ÉI<end_line>
+    å½“ç„¶ã‚ˆï¼<end_line>
+    ã˜ã‚ƒã€ãŠå…ˆã«ï¼<end_line>
   </sjis>
   <ascii>
     Obviously!<end_line>
@@ -180,7 +180,7 @@
   <info box="left">
   <portrait_l entry="anise" eye="surprised" mouth="yell">
   <sjis>
-    ‚¨‚¢A‚¨‘O‚½‚¿<three_dots>I<end_line>
+    ãŠã„ã€ãŠå‰ãŸã¡<three_dots>ï¼<end_line>
   </sjis>
   <ascii>
     Hey, wait<three_dots>!<end_line>
@@ -189,7 +189,7 @@
 <dialogue>
   <info box="simple">
   <sjis>
-    ƒLƒLƒLƒLƒL<three_dots><end_line>
+    ã‚­ã‚­ã‚­ã‚­ã‚­<three_dots><end_line>
   </sjis>
   <ascii>
     Kikikiki<three_dots><end_line>
@@ -199,8 +199,8 @@
   <info box="left">
   <portrait_l entry="anise" eye="decided" mouth="serious">
   <sjis>
-    ‚­‚»‚Á<three_dots><end_line>
-    Žd•û‚È‚¢<end_line>
+    ããã£<three_dots><end_line>
+    ä»•æ–¹ãªã„<end_line>
   </sjis>
   <ascii>
     Damn it<three_dots><end_line>
@@ -211,9 +211,9 @@
   <info box="right">
   <portrait_r entry="lemmy" eye="decided" mouth="serious">
   <sjis>
-    ƒEƒƒT‚Ì‚Í‚®‚ê¢Š«b‚©<three_dots><end_line>
-    Žd•û‚È‚¢<end_line>
-    ‚Æ‚É‚©‚­‚±‚±‚©‚ço‚È‚¢‚Æ<end_line>
+    ã‚¦ãƒ¯ã‚µã®ã¯ãã‚Œå¬å–šç£ã‹<three_dots><end_line>
+    ä»•æ–¹ãªã„<end_line>
+    ã¨ã«ã‹ãã“ã“ã‹ã‚‰å‡ºãªã„ã¨<end_line>
   </sjis>
   <ascii>
     The rumored Stray<three_dots><end_line>
@@ -224,7 +224,7 @@
   <info box="right">
   <portrait_r entry="lemmy" eye="decided" mouth="yell">
   <sjis>
-    ‚³‚ I@‘‚­I<end_line>
+    ã•ã‚ï¼ã€€æ—©ãï¼<end_line>
   </sjis>
   <ascii>
     Come! Hurry!<end_line>
@@ -236,16 +236,16 @@
   <portrait_r entry="lemmy" eye="decided" mouth="yell">
   <male>
     <sjis>
-      ‚ ‚è‚ª‚Æ‚¤AƒŒƒ~ƒB<three_dots><end_line>
-      ‚Å‚àAƒIƒŒAƒnƒ“ƒ}[‚ð<three_dots><end_line>
-      ‚ ‚»‚±‚É<three_dots>AƒIƒŒ‚Ì•Ší‚à<three_dots><end_line>
+      ã‚ã‚ŠãŒã¨ã†ã€ãƒ¬ãƒŸã‚£<three_dots><end_line>
+      ã§ã‚‚ã€ã‚ªãƒ¬ã€ãƒãƒ³ãƒžãƒ¼ã‚’<three_dots><end_line>
+      ã‚ãã“ã«<three_dots>ã€ã‚ªãƒ¬ã®æ­¦å™¨ã‚‚<three_dots><end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ‚ ‚è‚ª‚Æ‚¤AƒŒƒ~ƒB<three_dots><end_line>
-      ‚Å‚àA‚í‚½‚µAƒnƒ“ƒ}[‚ð<three_dots><end_line>
-      ‚ ‚»‚±‚É<three_dots>A‚í‚½‚µ‚Ì•Ší‚à<three_dots><end_line>
+      ã‚ã‚ŠãŒã¨ã†ã€ãƒ¬ãƒŸã‚£<three_dots><end_line>
+      ã§ã‚‚ã€ã‚ãŸã—ã€ãƒãƒ³ãƒžãƒ¼ã‚’<three_dots><end_line>
+      ã‚ãã“ã«<three_dots>ã€ã‚ãŸã—ã®æ­¦å™¨ã‚‚<three_dots><end_line>
     </sjis>
   </female>
   <ascii>
@@ -260,7 +260,7 @@
   <portrait_l entry="player" eye="sad" mouth="serious">
   <portrait_r entry="lemmy" eye="surprised" mouth="tense">
   <sjis>
-    ƒnƒ“ƒ}[H<end_line>
+    ãƒãƒ³ãƒžãƒ¼ï¼Ÿ<end_line>
   </sjis>
   <ascii>
     Hammer?<end_line>
@@ -270,8 +270,8 @@
   <info box="right">
   <portrait_r entry="lemmy" eye="decided" mouth="tense">
   <sjis>
-    ‚ ‚ê‚©<three_dots><end_line>
-    ‚í‚©‚Á‚½‚æ<three_dots><end_line>
+    ã‚ã‚Œã‹<three_dots><end_line>
+    ã‚ã‹ã£ãŸã‚ˆ<three_dots><end_line>
   </sjis>
   <ascii>
     That, huh<three_dots><end_line>
@@ -280,7 +280,7 @@
 </dialogue>
 <popup>
   <sjis>
-    Ž‚¿•¨‚ðŽæ‚è–ß‚µ‚½I<end_line>
+    æŒã¡ç‰©ã‚’å–ã‚Šæˆ»ã—ãŸï¼<end_line>
   </sjis>
   <ascii>
     Got your stuff back!<end_line>
@@ -291,8 +291,8 @@
   <portrait_l entry="player" eye="sad" mouth="serious">
   <portrait_r entry="lemmy" eye="decided" mouth="serious">
   <sjis>
-    ‚±‚ê‚Å‚¢‚¢H<end_line>
-    ‚³‚ As‚­‚æI<end_line>
+    ã“ã‚Œã§ã„ã„ï¼Ÿ<end_line>
+    ã•ã‚ã€è¡Œãã‚ˆï¼<end_line>
   </sjis>
   <ascii>
     Is this it?<end_line>
@@ -305,14 +305,14 @@
   <portrait_r entry="lemmy" eye="decided" mouth="serious">
   <male>
     <sjis>
-      ƒ_ƒ‚¾<three_dots>I<end_line>
-      <partner>‚ª<three_dots><end_line>
+      ãƒ€ãƒ¡ã <three_dots>ï¼<end_line>
+      <partner>ãŒ<three_dots><end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ƒ_ƒ<three_dots>I<end_line>
-      <partner>‚ª<three_dots><end_line>
+      ãƒ€ãƒ¡<three_dots>ï¼<end_line>
+      <partner>ãŒ<three_dots><end_line>
     </sjis>
   </female>
   <ascii>
@@ -325,9 +325,9 @@
   <portrait_l entry="player" eye="decided" mouth="tense">
   <portrait_r entry="lemmy" eye="decided" mouth="yell">
   <sjis>
-    ‚±‚ñ‚ÈŽž‚É‰½‚ð<three_dots>IH<end_line>
-    ‘‚­‚±‚±‚©‚ço‚È‚¢‚Æ<end_line>
-    ƒAƒJƒoƒl‚ª<three_dots>I<end_line>
+    ã“ã‚“ãªæ™‚ã«ä½•ã‚’<three_dots>ï¼ï¼Ÿ<end_line>
+    æ—©ãã“ã“ã‹ã‚‰å‡ºãªã„ã¨<end_line>
+    ã‚¢ã‚«ãƒãƒãŒ<three_dots>ï¼<end_line>
   </sjis>
   <ascii>
     Why now<three_dots>!?<end_line>
@@ -341,14 +341,14 @@
   <portrait_r entry="lemmy" eye="decided" mouth="yell">
   <male>
     <sjis>
-      <partner>‚ð‚¨‚¢‚Ä<end_line>
-      “¦‚°‚é‚È‚ñ‚Ä‚Å‚«‚é‚à‚ñ‚©I<end_line>
+      <partner>ã‚’ãŠã„ã¦<end_line>
+      é€ƒã’ã‚‹ãªã‚“ã¦ã§ãã‚‹ã‚‚ã‚“ã‹ï¼<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      <partner>‚ð‚¨‚¢‚Ä<end_line>
-      “¦‚°‚é‚È‚ñ‚Ä‚Å‚«‚È‚¢‚æI<end_line>
+      <partner>ã‚’ãŠã„ã¦<end_line>
+      é€ƒã’ã‚‹ãªã‚“ã¦ã§ããªã„ã‚ˆï¼<end_line>
     </sjis>
   </female>
   <ascii>
@@ -360,9 +360,9 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <portrait_r entry="lemmy" eye="decided" mouth="serious">
   <sjis>
-    ‚Ü‚Á‚½‚­<three_dots>I<end_line>
-    ‚¶‚á‚ ŸŽè‚É‚·‚ê‚Î‚¢‚¢<end_line>
-    ƒAƒCƒc‚Í–l‚ª‚È‚ñ‚Æ‚©‚·‚é‚æ<end_line>
+    ã¾ã£ãŸã<three_dots>ï¼<end_line>
+    ã˜ã‚ƒã‚å‹æ‰‹ã«ã™ã‚Œã°ã„ã„<end_line>
+    ã‚¢ã‚¤ãƒ„ã¯åƒ•ãŒãªã‚“ã¨ã‹ã™ã‚‹ã‚ˆ<end_line>
   </sjis>
   <ascii>
     Unbelievable<three_dots>!<end_line>
@@ -376,14 +376,14 @@
   <portrait_r entry="lemmy" eye="decided" mouth="serious">
   <male>
     <sjis>
-      ‚È‚ÁIH<end_line>
-      ‚¨‘O<three_dots><end_line>
+      ãªã£ï¼ï¼Ÿ<end_line>
+      ãŠå‰<three_dots><end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ‚È‚ÁIH<end_line>
-      ‚ ‚ñ‚½<three_dots><end_line>
+      ãªã£ï¼ï¼Ÿ<end_line>
+      ã‚ã‚“ãŸ<three_dots><end_line>
     </sjis>
   </female>
   <ascii>
@@ -396,9 +396,9 @@
   <portrait_l entry="player" eye="decided" mouth="yell">
   <male>
     <sjis>
-      ƒŒƒ~ƒBI<end_line>
+      ãƒ¬ãƒŸã‚£ï¼<end_line>
       <three_dots><end_line>
-      ‚­‚»‚ÁI@<partner>I<end_line>
+      ããã£ï¼ã€€<partner>ï¼<end_line>
     </sjis>
     <ascii>
       Lemmy!<end_line>
@@ -408,9 +408,9 @@
   </male>
   <female>
     <sjis>
-      ƒŒƒ~ƒBI<end_line>
-      ‚»‚ñ‚È<three_dots><end_line>
-      <partner>I<end_line>
+      ãƒ¬ãƒŸã‚£ï¼<end_line>
+      ãã‚“ãª<three_dots><end_line>
+      <partner>ï¼<end_line>
     </sjis>
     <ascii>
       Lemmy!<end_line>

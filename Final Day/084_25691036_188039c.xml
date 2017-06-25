@@ -2,7 +2,7 @@
   <info box="left">
   <portrait_l entry="player" eye="decided" mouth="tense">
   <sjis>
-    �~�܂����I�H<end_line>
+    止まった！？<end_line>
   </sjis>
   <ascii>
     Did it stop!?<end_line>
@@ -14,7 +14,7 @@
   <portrait_l entry="player" eye="decided" mouth="tense">
   <portrait_r entry="partner" eye="surprised" mouth="neutral">
   <sjis>
-    �g���K�@��N�i�b�e�C�}�X<end_line>
+    波動ガ　弱クナッテイマス<end_line>
   </sjis>
   <ascii>
     The Waves Have Become Weaker.<end_line>
@@ -26,7 +26,7 @@
   <portrait_l entry="player" eye="decided" mouth="tense">
   <portrait_r entry="partner" eye="surprised" mouth="neutral">
   <sjis>
-    �׋C����܂��Ă������I<end_line>
+    邪気が弱まってきたぞ！<end_line>
   </sjis>
   <ascii>
     The ill will has gotten weaker!<end_line>
@@ -38,7 +38,7 @@
   <portrait_l entry="player" eye="decided" mouth="tense">
   <portrait_r entry="partner" eye="surprised" mouth="neutral">
   <sjis>
-    �C���ȃt���C�L�������܂��Ă���<end_line>
+    イヤなフンイキがおさまってきた<end_line>
   </sjis>
   <ascii>
     The unpeasant atmosphere's lessened.<end_line>
@@ -50,8 +50,8 @@
   <portrait_l entry="player" eye="decided" mouth="tense">
   <portrait_r entry="partner" eye="surprised" mouth="neutral">
   <sjis>
-    �C���Ȋ����������܂��Ă��܂�����<end_line>
-    ��΂ɑ听���ł��I<end_line>
+    イヤな感じがおさまってきましたわ<end_line>
+    絶対に大成功です！<end_line>
   </sjis>
   <ascii>
     The unpeasant feeling has lessened.<end_line>
@@ -62,9 +62,9 @@
   <info box="left">
   <portrait_l entry="lemmy" eye="serious" mouth="tense">
   <sjis>
-    ��<three_dots>�H<end_line>
-    ���x�͋C��H<end_line>
-    �P�K�͂����ĂȂ����肾����<end_line>
+    え<three_dots>？<end_line>
+    今度は気絶？<end_line>
+    ケガはさせてないつもりだけど<end_line>
   </sjis>
   <ascii>
     Eh<three_dots><end_line>
@@ -75,8 +75,8 @@
   <info box="right">
   <portrait_r entry="anise" eye="sad" mouth="tense">
   <sjis>
-    ����<three_dots><end_line>
-    �Ȃ�Ă��Ƃ�<three_dots><end_line>
+    ああ<three_dots><end_line>
+    なんてことを<three_dots><end_line>
   </sjis>
   <ascii>
     Ah<three_dots><end_line>
@@ -87,8 +87,8 @@
   <info box="left">
   <portrait_l entry="bostaph" eye="sad" mouth="tense">
   <sjis>
-    ��Ղ�<three_dots><end_line>
-    �I���̗͂�<three_dots><end_line>
+    遺跡が<three_dots><end_line>
+    オレの力が<three_dots><end_line>
   </sjis>
   <ascii>
     The ruins<three_dots><end_line>
@@ -99,8 +99,8 @@
   <info box="left">
   <portrait_l entry="player" eye="sad" mouth="yell">
   <sjis>
-    �~���[�m�I<end_line>
-    �~���[�m���I�I<end_line>
+    ミューノ！<end_line>
+    ミューノっ！！<end_line>
   </sjis>
   <ascii>
     Murno!<end_line>
@@ -113,7 +113,7 @@
   <info box="right">
   <portrait_r name="murno">
   <sjis>
-    ��<three_dots>�A<player_nickname><three_dots><end_line>
+    あ<three_dots>、<player_nickname><three_dots><end_line>
     <partner><three_dots><end_line>
   </sjis>
   <ascii>
@@ -125,9 +125,9 @@
   <info box="left">
   <portrait_l name="player">
   <sjis>
-    �悩����<three_dots><end_line>
-    �~���[�m<three_dots><end_line>
-    �悩����<three_dots><end_line>
+    よかった<three_dots><end_line>
+    ミューノ<three_dots><end_line>
+    よかった<three_dots><end_line>
   </sjis>
   <ascii>
     Thank goodness<three_dots><end_line>
@@ -139,9 +139,9 @@
   <info box="right">
   <portrait_r name="murno">
   <sjis>
-    ��<three_dots>�A<player_nickname><three_dots><end_line>
-    ���߂�Ȃ���<three_dots><end_line>
-    �킽���̂�����<three_dots><end_line>
+    あ<three_dots>、<player_nickname><three_dots><end_line>
+    ごめんなさい<three_dots><end_line>
+    わたしのせいで<three_dots><end_line>
   </sjis>
   <ascii>
     Ah<three_dots> <player_nickname><three_dots><end_line>
@@ -154,16 +154,16 @@
   <portrait_l name="player">
   <male>
     <sjis>
-      ����܂�̂̓I���̕���<three_dots><end_line>
-      �������Ȃ��������<three_dots><end_line>
-      �{���ɁA���߂�<three_dots><end_line>
+      あやまるのはオレの方だ<three_dots><end_line>
+      おそくなっちゃって<three_dots><end_line>
+      本当に、ごめん<three_dots><end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ����܂�̂͂킽���̕�����<three_dots><end_line>
-      �������Ȃ��������<three_dots><end_line>
-      �{���ɁA���߂��<three_dots><end_line>
+      あやまるのはわたしの方だよ<three_dots><end_line>
+      おそくなっちゃって<three_dots><end_line>
+      本当に、ごめんね<three_dots><end_line>
     </sjis>
   </female>
   <ascii>
@@ -176,7 +176,7 @@
   <info box="right">
   <portrait_r name="murno">
   <sjis>
-    �����<three_dots><end_line>
+    そんな<three_dots><end_line>
   </sjis>
   <ascii>
     No<three_dots><end_line>
@@ -187,9 +187,9 @@
   <info box="left">
   <portrait_l entry="partner" eye="decided" mouth="neutral">
   <sjis>
-    �݂�[�̗l<end_line>
-    �R�E�C�E�ꍇ�@�K�؃i���t�n<end_line>
-    �S�����i�T�C�@�f�n�i�N<three_dots><end_line>
+    みゅーの様<end_line>
+    コウイウ場合　適切ナ言葉ハ<end_line>
+    ゴメンナサイ　デハナク<three_dots><end_line>
   </sjis>
   <ascii>
     Lady Murno,<end_line>
@@ -202,8 +202,8 @@
   <info box="left">
   <portrait_l entry="partner" eye="decided" mouth="neutral">
   <sjis>
-    �~���[�m<end_line>
-    ���������Ƃ��ɂ̓S�����ł͂Ȃ�<three_dots><end_line>
+    ミューノ<end_line>
+    こういうときにはゴメンではなく<three_dots><end_line>
   </sjis>
   <ascii>
     Murno, in times like these,<end_line>
@@ -215,9 +215,9 @@
   <info box="left">
   <portrait_l entry="partner" eye="decided" mouth="neutral">
   <sjis>
-    �~���[�m<end_line>
-    ���������Ƃ��ɂ���܂���<end_line>
-    �ǂ�����<end_line>
+    ミューノ<end_line>
+    こういうときにあやまって<end_line>
+    どうする<end_line>
   </sjis>
   <ascii>
     Murno, what will you gain<end_line>
@@ -229,9 +229,9 @@
   <info box="left">
   <portrait_l entry="partner" eye="decided" mouth="neutral">
   <sjis>
-    �~���[�m�l<end_line>
-    ���������Ƃ��ɂ͂���܂�񂶂�<end_line>
-    �Ȃ��ł���<end_line>
+    ミューノ様<end_line>
+    こういうときにはあやまるんじゃ<end_line>
+    ないですわ<end_line>
   </sjis>
   <ascii>
     Lady Murno, this is not the<end_line>
@@ -244,7 +244,7 @@
   <portrait_l entry="partner" eye="decided" mouth="neutral">
   <portrait_r name="murno">
   <sjis>
-    ������<three_dots><end_line>
+    そうね<three_dots><end_line>
   </sjis>
   <ascii>
     You're right<three_dots><end_line>
@@ -256,7 +256,7 @@
   <portrait_r name="murno">
   <sjis>
     <player_nickname><end_line>
-    ���肪�Ƃ�<end_line>
+    ありがとう<end_line>
   </sjis>
   <ascii>
     <player_nickname>.<end_line>
@@ -267,7 +267,7 @@
   <info box="left">
   <portrait_l entry="player" eye="neutral_blush" mouth="neutral">
   <sjis>
-    �~���[�m<three_dots><end_line>
+    ミューノ<three_dots><end_line>
   </sjis>
   <ascii>
     Murno<three_dots><end_line>
@@ -278,7 +278,7 @@
   <info box="left">
   <portrait_l entry="partner" eye="serious" mouth="neutral">
   <sjis>
-    ���S�j��~�V�^�@���E�f�X�l<end_line>
+    完全ニ停止シタ　ヨウデスネ<end_line>
   </sjis>
   <ascii>
     It Appears To Have Stopped.<end_line>
@@ -289,7 +289,7 @@
   <info box="left">
   <portrait_l entry="partner" eye="serious" mouth="neutral">
   <sjis>
-    ���S�Ɏ~�܂����悤�����<end_line>
+    完全に止まったようじゃの<end_line>
   </sjis>
   <ascii>
     Seems like it's completely stopped.<end_line>
@@ -300,7 +300,7 @@
   <info box="left">
   <portrait_l entry="partner" eye="serious" mouth="neutral">
   <sjis>
-    ���S�Ɏ~�܂����悤��<end_line>
+    完全に止まったようだ<end_line>
   </sjis>
   <ascii>
     Seems like it's completely stopped.<end_line>
@@ -311,7 +311,7 @@
   <info box="left">
   <portrait_l entry="partner" eye="serious" mouth="neutral">
   <sjis>
-    ���S�Ɏ~�܂����݂����ł���<end_line>
+    完全に止まったみたいですわ<end_line>
   </sjis>
   <ascii>
     It seems like it has finally stopped.<end_line>
@@ -321,8 +321,8 @@
   <info box="right">
   <portrait_r entry="anise" eye="sad" mouth="yell">
   <sjis>
-    �����<three_dots><end_line>
-    �~�܂�ȁI<end_line>
+    そんな<three_dots><end_line>
+    止まるな！<end_line>
   </sjis>
   <ascii>
     No<three_dots><end_line>
@@ -333,7 +333,7 @@
   <info box="left">
   <portrait_l entry="bostaph" eye="special" mouth="yell">
   <sjis>
-    ��<three_dots>�������I<end_line>
+    く<three_dots>そうっ！<end_line>
   </sjis>
   <ascii>
     Damn<three_dots> it!<end_line>
@@ -343,7 +343,7 @@
   <info box="left">
   <portrait_l entry="tier" eye="surprised" mouth="yell">
   <sjis>
-    �҂��Ȃ����I<end_line>
+    待ちなさい！<end_line>
   </sjis>
   <ascii>
     Stop right there!<end_line>
@@ -353,7 +353,7 @@
   <info box="left">
   <portrait_l entry="vee" eye="surprised" mouth="stressed">
   <sjis>
-    �҂��Ȃ��I<end_line>
+    待ちなっ！<end_line>
   </sjis>
   <ascii>
     Stop!<end_line>
@@ -363,7 +363,7 @@
   <info box="left">
   <portrait_l entry="jade" eye="surprised" mouth="stressed">
   <sjis>
-    �҂Ă��I<end_line>
+    待てっ！<end_line>
   </sjis>
   <ascii>
     Wait!<end_line>
@@ -373,8 +373,8 @@
   <info box="right">
   <portrait_r entry="lemmy" eye="surprised" mouth="yell">
   <sjis>
-    ���I<end_line>
-    �e���I<end_line>
+    あ！<end_line>
+    親方！<end_line>
   </sjis>
   <ascii>
     Ah!<end_line>
@@ -386,12 +386,12 @@
   <portrait_r entry="player" eye="surprised" mouth="yell">
   <male>
     <sjis>
-      �Ȃɂ���񂾁I<end_line>
+      なにするんだ！<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �Ȃɂ���́I<end_line>
+      なにするの！<end_line>
     </sjis>
   </female>
   <ascii>
@@ -402,7 +402,7 @@
   <info box="left">
   <portrait_l entry="anise" eye="special" mouth="yell">
   <sjis>
-    ���������I�I�I<end_line>
+    動けぇっ！！！<end_line>
   </sjis>
   <ascii>
     Move!!!<end_line>
@@ -412,7 +412,7 @@
   <info box="right">
   <portrait_r entry="murno" eye="surprised" mouth="yell">
   <sjis>
-    ���Ⴀ���I<end_line>
+    きゃあっ！<end_line>
   </sjis>
   <ascii>
     Kyaa!<end_line>
@@ -423,8 +423,8 @@
   <portrait_l entry="player" eye="surprised" mouth="yell">
   <male>
     <sjis>
-      �~���[�m���I<end_line>
-      ���킟<three_dots>���I<end_line>
+      ミューノっ！<end_line>
+      うわぁ<three_dots>っ！<end_line>
     </sjis>
     <ascii>
       Murno!<end_line>
@@ -433,8 +433,8 @@
   </male>
   <female>
     <sjis>
-      �~���[�m���I<end_line>
-      ���Ⴀ<three_dots>���I<end_line>
+      ミューノっ！<end_line>
+      きゃあ<three_dots>っ！<end_line>
     </sjis>
     <ascii>
       Murno!<end_line>

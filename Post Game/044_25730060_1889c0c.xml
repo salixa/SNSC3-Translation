@@ -3,8 +3,8 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="jade" eye="happy" mouth="talk">
   <sjis>
-    ‹­‚­‚È‚Á‚½‚È<three_dots><end_line>
-    ‚³‚·‚ªƒIƒŒ‚Ìƒ‰ƒCƒoƒ‹‚¾‚ºI<end_line>
+    å¼·ããªã£ãŸãª<three_dots><end_line>
+    ã•ã™ãŒã‚ªãƒ¬ã®ãƒ©ã‚¤ãƒãƒ«ã ãœï¼<end_line>
   </sjis>
   <ascii>
     You've gotten stronger<three_dots><end_line>
@@ -16,8 +16,8 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="jade" eye="decided" mouth="talk">
   <sjis>
-    ‹­‚­‚È‚Á‚½‚È<three_dots><end_line>
-    ‚³‚·‚ªƒƒu‚Ì’íŽq‚¾‚º<end_line>
+    å¼·ããªã£ãŸãª<three_dots><end_line>
+    ã•ã™ãŒãƒ­ãƒ–ã®å¼Ÿå­ã ãœ<end_line>
   </sjis>
   ascii>
     You've gotten stronger<three_dots><end_line>
@@ -29,9 +29,9 @@
   <portrait_l entry="player" eye="sad" mouth="serious">
   <portrait_r entry="jade" eye="decided" mouth="yell">
   <sjis>
-    ‚»‚ñ‚ÈƒEƒf‚Å‚ÍƒIƒŒ‚Í‚½‚¨‚¹‚È‚¢‚º<end_line>
-    ‚È‚º‚È‚çƒIƒŒ‚Í<three_dots><end_line>
-    •sŽ€g‚ÌƒWƒFƒCƒh‚¾‚©‚ç‚¾I<end_line>
+    ãã‚“ãªã‚¦ãƒ‡ã§ã¯ã‚ªãƒ¬ã¯ãŸãŠã›ãªã„ãœ<end_line>
+    ãªãœãªã‚‰ã‚ªãƒ¬ã¯<three_dots><end_line>
+    ä¸æ­»èº«ã®ã‚¸ã‚§ã‚¤ãƒ‰ã ã‹ã‚‰ã ï¼<end_line>
   </sjis>
   <ascii>
     You can't defeat me with those skills.<end_line>
@@ -44,9 +44,9 @@
   <portrait_l entry="player" eye="serious" mouth="neutral">
   <portrait_r entry="jade" eye="serious" mouth="neutral">
   <sjis>
-    ‚¨‘O‚ªƒIƒŒ‚É‰ï‚¢‚É‚­‚é——R‚Í<end_line>
-    ‚½‚¾ˆê‚ÂAŸ•‰‚¾‚ÈH<end_line>
-    ‚È‚º‚È‚ç<three_dots><end_line>
+    ãŠå‰ãŒã‚ªãƒ¬ã«ä¼šã„ã«ãã‚‹ç†ç”±ã¯<end_line>
+    ãŸã ä¸€ã¤ã€å‹è² ã ãªï¼Ÿ<end_line>
+    ãªãœãªã‚‰<three_dots><end_line>
   </sjis>
   <ascii>
     There's only one reason you'd come<end_line>
@@ -59,8 +59,8 @@
   <portrait_l entry="player" eye="serious" mouth="neutral">
   <portrait_r entry="jade" eye="decided" mouth="talk">
   <sjis>
-    ƒIƒŒ‚ª‚¨‘O‚É‚Æ‚Á‚Ä<end_line>
-    h–½‚Ìƒ‰ƒCƒoƒ‹‚¾‚©‚ç‚¾I<end_line>
+    ã‚ªãƒ¬ãŒãŠå‰ã«ã¨ã£ã¦<end_line>
+    å®¿å‘½ã®ãƒ©ã‚¤ãƒãƒ«ã ã‹ã‚‰ã ï¼<end_line>
   </sjis>
   <ascii>
     I am your fated rival!<end_line>
@@ -71,9 +71,9 @@
   <portrait_l entry="player" eye="serious" mouth="neutral">
   <portrait_r entry="jade" eye="serious" mouth="talk">
   <sjis>
-    CsA‚ª‚ñ‚Î‚Á‚Ä‚é‚Ý‚½‚¢‚¾‚È<end_line>
-    ‚¢‚¢•Ší‚ª‚Å‚«‚½‚È‚ç‚¢‚Â‚Å‚à<end_line>
-    ‘ŠŽè‚É‚È‚é‚º<end_line>
+    ä¿®è¡Œã€ãŒã‚“ã°ã£ã¦ã‚‹ã¿ãŸã„ã ãª<end_line>
+    ã„ã„æ­¦å™¨ãŒã§ããŸãªã‚‰ã„ã¤ã§ã‚‚<end_line>
+    ç›¸æ‰‹ã«ãªã‚‹ãœ<end_line>
   </sjis>
   <ascii>
     You've been training hard.<end_line>
@@ -87,7 +87,7 @@
   <portrait_r entry="jade" eye="serious" mouth="talk">
   <option>
     <sjis>
-      Ÿ•‰‚·‚é<end_line>
+      å‹è² ã™ã‚‹<end_line>
     </sjis>
     <ascii>
       Fight<end_line>
@@ -95,7 +95,7 @@
   </option>
   <option>
     <sjis>
-      Ÿ•‰‚µ‚È‚¢<end_line>
+      å‹è² ã—ãªã„<end_line>
     </sjis>
     <ascii>
       Don't fight<end_line>
@@ -106,8 +106,8 @@
   <info box="right">
   <portrait_r name="jade">
   <sjis>
-    ‚»‚Á‚©<end_line>
-    ‚¶‚á‚ A‹C‚¡‚Â‚¯‚Ä‚È<end_line>
+    ãã£ã‹<end_line>
+    ã˜ã‚ƒã‚ã€æ°—ãƒã¤ã‘ã¦ãª<end_line>
   </sjis>
   <ascii>
     I see.<end_line>

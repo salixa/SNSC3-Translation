@@ -4,14 +4,14 @@
   <portrait_r entry="player" eye="surprised" mouth="yell">
   <male>
     <sjis>
-      �U�b�N�I�H<end_line>
-      ���O�A�ǂ������񂾁I�H<end_line>
+      ザック！？<end_line>
+      お前、どうしたんだ！？<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �U�b�N�I�H<end_line>
-      ���Ȃ��A�ǂ������́I�H<end_line>
+      ザック！？<end_line>
+      あなた、どうしたの！？<end_line>
     </sjis>
   </female>
   <ascii>
@@ -24,9 +24,9 @@
   <portrait_l entry="zakk" eye="sad" mouth="serious">
   <portrait_r entry="player" eye="surprised" mouth="yell">
   <sjis>
-    ���߂�A<player_nickname><three_dots><end_line>
-    �~���[�m<three_dots><end_line>
-    ��Ă����ꂿ�����<three_dots><end_line>
+    ごめん、<player_nickname><three_dots><end_line>
+    ミューノ<three_dots><end_line>
+    つれていかれちゃった<three_dots><end_line>
   </sjis>
   <ascii>
     Sorry, <player_nickname><three_dots><end_line>
@@ -39,8 +39,8 @@
   <portrait_l entry="zakk" eye="sad" mouth="tense">
   <portrait_r entry="player" eye="decided" mouth="serious">
   <sjis>
-    ���Ƃ��A���Ă����񂾂���<end_line>
-    �������������<three_dots><end_line>
+    あとを、つけていたんだけど<end_line>
+    見つかっちゃって<three_dots><end_line>
   </sjis>
   <ascii>
     I tried to follow them,<end_line>
@@ -53,7 +53,7 @@
   <portrait_l entry="zakk" eye="sad" mouth="tense">
   <portrait_r entry="partner" eye="decided" mouth="serious">
   <sjis>
-    �U��<three_dots>�@�T���^�m�f�X�l<three_dots><end_line>
+    攻撃<three_dots>　サレタノデスネ<three_dots><end_line>
   </sjis>
   <ascii>
     He Was<three_dots> Attacked<three_dots><end_line>
@@ -65,7 +65,7 @@
   <portrait_l entry="zakk" eye="sad" mouth="tense">
   <portrait_r entry="partner" eye="decided" mouth="serious">
   <sjis>
-    ���ꂽ�̂����<three_dots><end_line>
+    やられたのじゃな<three_dots><end_line>
   </sjis>
   <ascii>
     They beat him<three_dots><end_line>
@@ -77,7 +77,7 @@
   <portrait_l entry="zakk" eye="sad" mouth="tense">
   <portrait_r entry="partner" eye="decided" mouth="serious">
   <sjis>
-    ���ꂽ�̂�<three_dots><end_line>
+    やられたのか<three_dots><end_line>
   </sjis>
   <ascii>
     They beat him<three_dots><end_line>
@@ -89,7 +89,7 @@
   <portrait_l entry="zakk" eye="sad" mouth="tense">
   <portrait_r entry="partner" eye="decided" mouth="serious">
   <sjis>
-    ����Ă��܂�����ł���<three_dots><end_line>
+    やられてしまったんですね<three_dots><end_line>
   </sjis>
   <ascii>
     They beat him up<three_dots><end_line>
@@ -100,8 +100,8 @@
   <portrait_l entry="tier" eye="sad" mouth="serious">
   <portrait_r entry="partner" eye="decided" mouth="serious">
   <sjis>
-    ������<three_dots><end_line>
-    �q����������Ď�����Ȃ��<three_dots><end_line>
+    あいつら<three_dots><end_line>
+    子供だからって手加減なんて<three_dots><end_line>
   </sjis>
   <ascii>
     Those guys<three_dots><end_line>
@@ -115,8 +115,8 @@
   <portrait_l entry="tier" eye="sad" mouth="serious">
   <portrait_r entry="player" eye="decided" mouth="tense">
   <sjis>
-    �i�e�B�G�̂��<end_line>
-    �@�ӂ邦�Ă�<three_dots>�H�j<end_line>
+    （ティエのやつ<end_line>
+    　ふるえてる<three_dots>？）<end_line>
   </sjis>
   <ascii>
     (Tier, she's<three_dots><end_line>
@@ -129,9 +129,9 @@
   <portrait_l entry="zakk" eye="sad" mouth="tense">
   <portrait_r entry="player" eye="decided" mouth="serious">
   <sjis>
-    �U�b�N<three_dots><end_line>
-    ���̓~���[�m�����<end_line>
-    ���̐�ɍs�����񂾂�<end_line>
+    ザック<three_dots><end_line>
+    やつらはミューノをつれて<end_line>
+    この先に行ったんだな<end_line>
   </sjis>
   <ascii>
     Zakk<three_dots><end_line>
@@ -144,8 +144,8 @@
   <portrait_l entry="tier" eye="sad" mouth="serious">
   <portrait_r entry="player" eye="decided" mouth="tense">
   <sjis>
-    �i�e�B�G<three_dots><end_line>
-    �@�ӂ邦�Ă�<three_dots>�H�j<end_line>
+    （ティエ<three_dots><end_line>
+    　ふるえてる<three_dots>？）<end_line>
   </sjis>
   <ascii>
     (Tier, she's<three_dots><end_line>
@@ -158,9 +158,9 @@
   <portrait_l entry="zakk" eye="sad" mouth="tense">
   <portrait_r entry="player" eye="decided" mouth="serious">
   <sjis>
-    �U�b�N<three_dots><end_line>
-    ������̓~���[�m�����<end_line>
-    ���̐�ɍs�����񂾂��<end_line>
+    ザック<three_dots><end_line>
+    あいつらはミューノをつれて<end_line>
+    この先に行ったんだよね<end_line>
   </sjis>
   <ascii>
     Zakk<three_dots><end_line>
@@ -172,9 +172,9 @@
   <portrait_l entry="zakk" eye="sad" mouth="serious">
   <portrait_r entry="player" eye="decided" mouth="serious">
   <sjis>
-    ����<three_dots><end_line>
-    ���̃g�r���̉�����<three_dots><end_line>
-    �X�|�[�g���A�ɂȂ����Ă��<three_dots><end_line>
+    うん<three_dots><end_line>
+    そのトビラの奥だよ<three_dots><end_line>
+    スポート洞窟につながってるんだ<three_dots><end_line>
   </sjis>
   <ascii>
     Yeah<three_dots><end_line>
@@ -188,16 +188,16 @@
   <portrait_r entry="player" eye="decided" mouth="tense">
   <male>
     <sjis>
-      �킩����<three_dots><end_line>
-      ���Ⴀ�e�B�G�̓U�b�N�����<end_line>
-      ���ɂ�����<end_line>
+      わかった<three_dots><end_line>
+      じゃあティエはザックをつれて<end_line>
+      町にかえれ<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �킩����<three_dots><end_line>
-      ���Ⴀ�e�B�G�̓U�b�N�����<end_line>
-      ���ɖ߂��Ă�<end_line>
+      わかった<three_dots><end_line>
+      じゃあティエはザックをつれて<end_line>
+      町に戻ってて<end_line>
     </sjis>
   </female>
   <ascii>
@@ -211,7 +211,7 @@
   <portrait_l entry="tier" eye="surprised" mouth="tense">
   <portrait_r entry="player" eye="decided" mouth="tense">
   <sjis>
-    �ł�<three_dots>�I<end_line>
+    でも<three_dots>！<end_line>
   </sjis>
   <ascii>
     But<three_dots>!<end_line>
@@ -223,16 +223,16 @@
   <portrait_r entry="player" eye="decided" mouth="neutral">
   <male>
     <sjis>
-      ���Ƃ̓I�������ɂ܂�����I<end_line>
-      ������e�B�G�A���O��<end_line>
-      �U�b�N�����̂ށA��<end_line>
+      あとはオレたちにまかせろ！<end_line>
+      だからティエ、お前は<end_line>
+      ザックをたのむ、な<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ���Ƃ͂킽�������ɂ܂����āI<end_line>
-      ������e�B�G�A���Ȃ���<end_line>
-      �U�b�N�����˂����A��<end_line>
+      あとはわたしたちにまかせて！<end_line>
+      だからティエ、あなたは<end_line>
+      ザックをおねがい、ね<end_line>
     </sjis>
   </female>
   <ascii>
@@ -246,8 +246,8 @@
   <portrait_r entry="player" eye="decided" mouth="neutral">
   <sjis>
     <three_dots><end_line>
-    �킩����<end_line>
-    �C�����Ă�<end_line>
+    わかった<end_line>
+    気をつけてね<end_line>
   </sjis>
   <ascii>
     <three_dots><end_line>
@@ -261,12 +261,12 @@
   <portrait_r entry="player" eye="decided" mouth="talk">
   <male>
     <sjis>
-      �����I<end_line>
+      おう！<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ����I<end_line>
+      うん！<end_line>
     </sjis>
   </female>
   <ascii>

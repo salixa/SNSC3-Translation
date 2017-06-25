@@ -3,8 +3,8 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="tram" eye="happy" mouth="talk">
   <sjis>
-    �����Ȃ�܂�����<end_line>
-    �܂��������Ă�������<end_line>
+    強くなりましたね<end_line>
+    また勝負してください<end_line>
   </sjis>
   <ascii>
     You've gotten stronger.<end_line>
@@ -16,9 +16,9 @@
   <portrait_l entry="player" eye="sad" mouth="serious">
   <portrait_r entry="tram" eye="serious" mouth="neutral">
   <sjis>
-    �܂��܂��ł���<end_line>
-    �����ƏC�s���Ă���<end_line>
-    �������܂��傤<end_line>
+    まだまだですね<end_line>
+    もっと修行してから<end_line>
+    勝負しましょう<end_line>
   </sjis>
   <ascii>
     You still have a ways to go.<end_line>
@@ -31,8 +31,8 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="tram" eye="serious" mouth="tense">
   <sjis>
-    �����S������Ȃ��Ƃ�����Ȃ��<end_line>
-    ��ςȂ��ƂɂȂ��Ă����l�ł���<three_dots><end_line>
+    幻龍鬼があんなことをするなんて<end_line>
+    大変なことになっていた様ですね<three_dots><end_line>
   </sjis>
   <ascii>
     That Phantom Dragon's actions seems to<end_line>
@@ -44,7 +44,7 @@
   <portrait_l entry="player" eye="serious" mouth="serious">
   <portrait_r entry="tram" eye="serious" mouth="tense">
   <sjis>
-    �����Ȃ񂾁A����<three_dots><end_line>
+    そうなんだ、実は<three_dots><end_line>
   </sjis>
   <ascii>
     That's right, actually<three_dots><end_line>
@@ -55,7 +55,7 @@
   <portrait_l entry="player" eye="serious" mouth="serious">
   <portrait_r entry="tram" eye="serious" mouth="serious">
   <sjis>
-    ����Ȃ��Ƃ�<three_dots><end_line>
+    そんなことが<three_dots><end_line>
   </sjis>
   <ascii>
     About that<three_dots><end_line>
@@ -66,9 +66,9 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="tram" eye="serious" mouth="neutral">
   <sjis>
-    �ł��܂����͂ǂ�����<end_line>
-    �A�j�X�������Ă���悤��<end_line>
-    �C�����܂���<three_dots><end_line>
+    でもまだ私はどこかで<end_line>
+    アニスが生きているような<end_line>
+    気がしますよ<three_dots><end_line>
   </sjis>
   <ascii>
     I have a feeling that somewhere<end_line>
@@ -81,9 +81,9 @@
   <portrait_l entry="player" eye="serious" mouth="neutral">
   <portrait_r entry="tram" eye="serious" mouth="neutral">
   <sjis>
-    �ǂ���炠�Ȃ��͂����Ԃ�<end_line>
-    �����Ȃ����݂����ł���<three_dots><end_line>
-    �܂����Ə������܂��񂩁H<end_line>
+    どうやらあなたはずいぶん<end_line>
+    強くなったみたいですね<three_dots><end_line>
+    また私と勝負しませんか？<end_line>
   </sjis>
   <ascii>
     Seems like you've grown<end_line>
@@ -97,7 +97,7 @@
   <portrait_r entry="tram" eye="serious" mouth="neutral">
   <option>
 		<sjis>
-			��������<end_line>
+			勝負する<end_line>
 		</sjis>
     <ascii>
       Fight<end_line>
@@ -105,7 +105,7 @@
 	</option>
 	<option>
 		<sjis>
-			�������Ȃ�<end_line>
+			勝負しない<end_line>
 		</sjis>
     <ascii>
       Don't fight<end_line>
@@ -116,8 +116,8 @@
   <info box="right">
   <portrait_r name="tram">
   <sjis>
-    �����ł���<end_line>
-    ���ł������肵�܂���<end_line>
+    そうですか<end_line>
+    いつでもお相手しますよ<end_line>
   </sjis>
   <ascii>
     Is that so?<end_line>

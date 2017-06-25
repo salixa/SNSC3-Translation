@@ -1,19 +1,19 @@
 <location>
 	<sjis>
-		���C�[�Y��<end_line>
+		ルイーズ村<end_line>
 	</sjis>
 </location>
 <location>
 	<sjis>
-		���C�[�Y���@��ՑO<end_line>
+		ルイーズ村　遺跡前<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="child">
 	<sjis>
-		�Ȃ񂩁A��������<end_line>
-		�M�����n�����񂪂悭�΂���<end_line>
-		�Ȃɂ��ǂ����Ƃ������̂���<end_line>
+		なんか、さいきん<end_line>
+		ギャラハンさんがよく笑うんだ<end_line>
+		なにか良いことあったのかな<end_line>
 	</sjis>
 </dialogue>

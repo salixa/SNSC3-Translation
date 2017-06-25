@@ -5,16 +5,16 @@
   <portrait_r entry="partner" eye="serious" mouth="serious">
   <male>
     <sjis>
-      ���̕����<three_dots><end_line>
-      ���O�ɃI���̍���<end_line>
-      �`���Ă�邺�I<end_line>
+      この武器で<three_dots><end_line>
+      お前にオレの魂を<end_line>
+      伝えてやるぜ！<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ���̕����<three_dots><end_line>
-      ���Ȃ��ɂ킽���̍���<end_line>
-      �`���Ă�����I<end_line>
+      この武器で<three_dots><end_line>
+      あなたにわたしの魂を<end_line>
+      伝えてあげる！<end_line>
     </sjis>
   </female>
   <ascii>
@@ -28,7 +28,7 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="partner" eye="surprised" mouth="neutral">
   <sjis>
-    �f�n�A�{�C�m�����f�X�I<end_line>
+    デハ、本気ノ勝負デス！<end_line>
   </sjis>
   <ascii>
     Now Then, A Serious Match!<end_line>
@@ -41,13 +41,13 @@
   <portrait_r entry="partner" eye="serious" mouth="serious">
   <male>
     <sjis>
-      ���O�̖{�C�A�����Ă��炤��<end_line>
+      お前の本気、見せてもらうぜ<end_line>
       <partner><three_dots><end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ���Ȃ��̖{�C�A�����Ă��炤��<end_line>
+      あなたの本気、見せてもらうわ<end_line>
       <partner><three_dots><end_line>
     </sjis>
   </female>
@@ -62,8 +62,8 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="partner" eye="decided" mouth="neutral">
   <sjis>
-    ����<three_dots><end_line>
-    ���݂����Ȃ����Ⴜ�I<end_line>
+    うむ<three_dots><end_line>
+    恨みっこなしじゃぞ！<end_line>
   </sjis>
   <ascii>
     Mm<three_dots><end_line>
@@ -77,13 +77,13 @@
   <portrait_r entry="partner" eye="serious" mouth="serious">
   <male>
     <sjis>
-      ������͂���Ȃ���<end_line>
+      手加減はいらないぜ<end_line>
       <partner><three_dots><end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ������͂���Ȃ����<end_line>
+      手加減はいらないわよ<end_line>
       <partner><three_dots><end_line>
     </sjis>
   </female>
@@ -98,9 +98,9 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="partner" eye="decided" mouth="talk">
   <sjis>
-    ��<three_dots><end_line>
-    ��������炸��������<end_line>
-    �B�҂̗l����<three_dots><end_line>
+    ふ<three_dots><end_line>
+    あいかわらず口だけは<end_line>
+    達者の様だが<three_dots><end_line>
   </sjis>
   <ascii>
     Fu<three_dots><end_line>
@@ -115,14 +115,14 @@
   <portrait_r entry="partner" eye="decided" mouth="talk">
   <male>
     <sjis>
-      ���̕���Ȃ炨�O��<end_line>
-      ��������Ă��Ȃ�����H<end_line>
+      この武器ならお前も<end_line>
+      手加減してられないだろ？<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ���̕���Ȃ炠�Ȃ���<end_line>
-      ��������Ă��Ȃ��ł���H<end_line>
+      この武器ならあなたも<end_line>
+      手加減してられないでしょ？<end_line>
     </sjis>
   </female>
   <ascii>
@@ -136,8 +136,8 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="partner" eye="decided" mouth="neutral">
   <sjis>
-    �����ł���<three_dots><end_line>
-    ���Ⴀ�A�����{�C��<three_dots><end_line>
+    そうですね<three_dots><end_line>
+    じゃあ、私も本気で<three_dots><end_line>
   </sjis>
   <ascii>
     That's true<three_dots><end_line>
@@ -149,7 +149,7 @@
   <info box="nobox" effect="big">
   <portrait_l name="partner">
   <sjis>
-    �C�L�}�X�I�I<end_line>
+    イキマス！！<end_line>
   </sjis>
   <ascii>
     Here I Come!!<end_line>
@@ -160,7 +160,7 @@
   <info box="nobox" effect="big">
   <portrait_l name="partner">
   <sjis>
-    �J�N�S������I�I<end_line>
+    カクゴせいよ！！<end_line>
   </sjis>
   <ascii>
     Prepare yourself!!<end_line>
@@ -171,8 +171,8 @@
   <info box="nobox">
   <portrait_l name="partner">
   <sjis>
-    �����A���̌��t<end_line>
-    �����Ɍ���ɕς��Ă�낤<three_dots><end_line>
+    だが、その言葉<end_line>
+    すぐに後悔に変えてやろう<three_dots><end_line>
   </sjis>
   <ascii>
     I'll soon make you<end_line>
@@ -183,7 +183,7 @@
   <partner name="rufeel">
   <info box="nobox" effect="big">
   <sjis>
-    �����܂���I�I�I<end_line>
+    いきますよ！！！<end_line>
   </sjis>
   <ascii>
     Here I come!!!<end_line>

@@ -1,15 +1,15 @@
 <location>
 	<sjis>
-		ƒvƒƒXƒoƒ“‚Ì’¬@‰w<end_line>
+		ãƒ—ãƒ­ã‚¹ãƒãƒ³ã®ç”ºã€€é§…<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="child">
 	<sjis>
-		‚Ë‚¥ƒAƒJƒoƒl‚²‚Á‚±‚µ‚æ‚¤‚æ<end_line>
-		ƒ{ƒN‚ªƒAƒJƒoƒl‚ð‚½‚¢‚¶‚·‚é‚©‚ç<end_line>
-		ƒLƒ~‚ª‚½‚¨‚³‚ê‚éƒAƒJƒoƒl<end_line>
+		ã­ã‡ã‚¢ã‚«ãƒãƒã”ã£ã“ã—ã‚ˆã†ã‚ˆ<end_line>
+		ãƒœã‚¯ãŒã‚¢ã‚«ãƒãƒã‚’ãŸã„ã˜ã™ã‚‹ã‹ã‚‰<end_line>
+		ã‚­ãƒŸãŒãŸãŠã•ã‚Œã‚‹ã‚¢ã‚«ãƒãƒ<end_line>
 	</sjis>
   <ascii>
     Hey, let's play pretend!<end_line>
@@ -21,8 +21,8 @@
 <dialogue>
 	<info box="simple">
 	<sjis>
-		@<end_line>
-		@@•Ÿˆø‚«Œ”‚Ì‚²—˜—p‚ÍŒv‰æ“I‚ÉI<end_line>
+		ã€€<end_line>
+		ã€€ã€€ç¦å¼•ãåˆ¸ã®ã”åˆ©ç”¨ã¯è¨ˆç”»çš„ã«ï¼<end_line>
 	</sjis>
   <ascii>
     <end_line>

@@ -4,12 +4,12 @@
 	<portrait_r entry="thus" eye="serious" mouth="talk">
 	<male>
 		<sjis>
-			<player_nickname>‚­‚ñ‚ÌƒJƒcƒ„ƒN<end_line>
+			<player_nickname>ãã‚“ã®ã‚«ãƒ„ãƒ¤ã‚¯<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			<player_nickname>‚¿‚á‚ñ‚ÌƒJƒcƒ„ƒN<end_line>
+			<player_nickname>ã¡ã‚ƒã‚“ã®ã‚«ãƒ„ãƒ¤ã‚¯<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -18,8 +18,8 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="thus" eye="serious" mouth="talk">
 	<sjis>
-		ƒeƒBƒG‚©‚ç•·‚¢‚½‚æ<end_line>
-		–{“–‚ÉƒXƒSƒC’b–èŽt‚¾AŒN‚ÍI<end_line>
+		ãƒ†ã‚£ã‚¨ã‹ã‚‰èžã„ãŸã‚ˆ<end_line>
+		æœ¬å½“ã«ã‚¹ã‚´ã‚¤é›å†¶å¸«ã ã€å›ã¯ï¼<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -27,7 +27,7 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="thus" eye="happy" mouth="neutral">
 	<sjis>
-		Ž„‚àŒN‚ª‚±‚Ìh‚ðŽè“`‚Á‚Ä‚­‚ê‚é‚Æ<end_line>
-		–{“–‚É‚¤‚ê‚µ‚¢‚æ<end_line>
+		ç§ã‚‚å›ãŒã“ã®å®¿ã‚’æ‰‹ä¼ã£ã¦ãã‚Œã‚‹ã¨<end_line>
+		æœ¬å½“ã«ã†ã‚Œã—ã„ã‚ˆ<end_line>
 	</sjis>
 </dialogue>

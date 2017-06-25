@@ -4,8 +4,8 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<sjis>
-		�~���[�m�������b�̃G�T�ɂȂ�<end_line>
-		��������񂩁I<end_line>
+		ミューノを召喚獣のエサになんか<end_line>
+		させるもんか！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -15,12 +15,12 @@
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
 		<sjis>
-			�}�����A<partner>�I<end_line>
+			急ぐぞ、<partner>！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�}����A<partner>�I<end_line>
+			急ぐよ、<partner>！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -30,9 +30,9 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		���n�Y���m�@�ꂭ���m����Ճg�C�E<end_line>
-		�n���{�a�K�@�ړI�n�f�X<end_line>
-		�����T���i�C���E�@���ӃV�e�N�_�T�C<end_line>
+		村ハズレノ　れくいノ水遺跡トイウ<end_line>
+		地下宮殿ガ　目的地デス<end_line>
+		発見サレナイヨウ　注意シテクダサイ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -41,7 +41,7 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		�킩���Ă���āI<end_line>
+		わかってるって！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -51,16 +51,16 @@
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
-			�ł��A�������S�z����<three_dots><end_line>
-			���������̍H�[���g�����<end_line>
-			�����񂾂���<three_dots><end_line>
+			でも、装備が心配だな<three_dots><end_line>
+			おっちゃんの工房が使えると<end_line>
+			いいんだけど<three_dots><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�ł��A�������S�z����<three_dots><end_line>
-			��������̍H�[���g�����<end_line>
-			�����񂾂���<three_dots><end_line>
+			でも、装備が心配だね<three_dots><end_line>
+			おじさんの工房が使えると<end_line>
+			いいんだけど<three_dots><end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -70,8 +70,8 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<sjis>
-		�~���[�m�������b�̃G�T�ɂȂ�<end_line>
-		��������񂩁I<end_line>
+		ミューノを召喚獣のエサになんか<end_line>
+		させるもんか！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -81,12 +81,12 @@
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
 		<sjis>
-			�}�����A<partner>�I<end_line>
+			急ぐぞ、<partner>！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�}����A<partner>�I<end_line>
+			急ぐよ、<partner>！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -96,9 +96,9 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="tense">
 	<sjis>
-		���͂���̃��N�C�̐���ՂƂ���<end_line>
-		�n���{�a�Ƀ~���[�m�͂���悤���Ⴜ<end_line>
-		�����o���܂ŕ߂܂��Ă͂Ȃ��<end_line>
+		村はずれのレクイの水遺跡という<end_line>
+		地下宮殿にミューノはいるようじゃぞ<end_line>
+		助け出すまで捕まってはならんぞ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -107,7 +107,7 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="decided" mouth="tense">
 	<sjis>
-		�킩���Ă���āI<end_line>
+		わかってるって！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -117,16 +117,16 @@
 	<portrait_r entry="partner" eye="decided" mouth="tense">
 	<male>
 		<sjis>
-			�ł��A�������S�z����<three_dots><end_line>
-			���������̍H�[���g�����<end_line>
-			�����񂾂���<three_dots><end_line>
+			でも、装備が心配だな<three_dots><end_line>
+			おっちゃんの工房が使えると<end_line>
+			いいんだけど<three_dots><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�ł��A�������S�z����<three_dots><end_line>
-			��������̍H�[���g�����<end_line>
-			�����񂾂���<three_dots><end_line>
+			でも、装備が心配だね<three_dots><end_line>
+			おじさんの工房が使えると<end_line>
+			いいんだけど<three_dots><end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -136,8 +136,8 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<sjis>
-		�~���[�m�������b�̃G�T�ɂȂ�<end_line>
-		��������񂩁I<end_line>
+		ミューノを召喚獣のエサになんか<end_line>
+		させるもんか！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -147,12 +147,12 @@
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
 		<sjis>
-			�}�����A<partner>�I<end_line>
+			急ぐぞ、<partner>！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�}����A<partner>�I<end_line>
+			急ぐよ、<partner>！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -162,9 +162,9 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="neutral">
 	<sjis>
-		���͂���̃��N�C�̐���ՂƂ���<end_line>
-		�n���{�a�Ƀ~���[�m�͂���悤�悤����<end_line>
-		�߂܂炸�ɂ����܂ł��ǂ���邩�H<end_line>
+		村はずれのレクイの水遺跡という<end_line>
+		地下宮殿にミューノはいるようようだが<end_line>
+		捕まらずにそこまでたどりつけるか？<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -174,12 +174,12 @@
 	<portrait_r entry="partner" eye="decided" mouth="neutral">
 	<male>
 		<sjis>
-			�܂����Ƃ����āI<end_line>
+			まかせとけって！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�܂����Ƃ��Ă�I<end_line>
+			まかせといてよ！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -190,16 +190,16 @@
 	<portrait_r entry="partner" eye="decided" mouth="neutral">
 	<male>
 		<sjis>
-			�ł��A�������S�z����<three_dots><end_line>
-			���������̍H�[���g�����<end_line>
-			�����񂾂���<three_dots><end_line>
+			でも、装備が心配だな<three_dots><end_line>
+			おっちゃんの工房が使えると<end_line>
+			いいんだけど<three_dots><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�ł��A�������S�z����<three_dots><end_line>
-			��������̍H�[���g�����<end_line>
-			�����񂾂���<three_dots><end_line>
+			でも、装備が心配だね<three_dots><end_line>
+			おじさんの工房が使えると<end_line>
+			いいんだけど<three_dots><end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -208,8 +208,8 @@
 	<info box="left">
 	<portrait_l name="player">
 	<sjis>
-		�~���[�m�������b�̃G�T�ɂȂ�<end_line>
-		��������񂩁I<end_line>
+		ミューノを召喚獣のエサになんか<end_line>
+		させるもんか！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -218,12 +218,12 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			�}�����A<partner>�I<end_line>
+			急ぐぞ、<partner>！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�}����A<partner>�I<end_line>
+			急ぐよ、<partner>！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -232,9 +232,9 @@
 	<info box="right">
 	<portrait_r name="partner">
 	<sjis>
-		���͂���̃��N�C�̐���ՂƂ���<end_line>
-		�n���{�a�Ƀ~���[�m�l�͂��邻���ł�<end_line>
-		���l�Ɍ�����Ȃ��悤�ɍs���܂���<end_line>
+		村はずれのレクイの水遺跡という<end_line>
+		地下宮殿にミューノ様はいるそうです<end_line>
+		村人に見つからないように行きますよ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -242,7 +242,7 @@
 	<info box="left">
 	<portrait_l name="player">
 	<sjis>
-		�킩���Ă���āI<end_line>
+		わかってるって！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -251,16 +251,16 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			�ł��A�������S�z����<three_dots><end_line>
-			���������̍H�[���g�����<end_line>
-			�����񂾂���<three_dots><end_line>
+			でも、装備が心配だな<three_dots><end_line>
+			おっちゃんの工房が使えると<end_line>
+			いいんだけど<three_dots><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�ł��A�������S�z����<three_dots><end_line>
-			��������̍H�[���g�����<end_line>
-			�����񂾂���<three_dots><end_line>
+			でも、装備が心配だね<three_dots><end_line>
+			おじさんの工房が使えると<end_line>
+			いいんだけど<three_dots><end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -271,14 +271,14 @@
 	<portrait_r entry="partner" eye="decided" mouth="neutral">
 	<male>
 		<sjis>
-			���������̍H�[���g����������<end_line>
-			�S�͂Ń~���[�m�������ɍs�����I<end_line>
+			おっちゃんの工房も使えそうだし<end_line>
+			全力でミューノを助けに行くぞ！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			��������̍H�[���g����������<end_line>
-			�S�͂Ń~���[�m�������ɍs�����I<end_line>
+			おじさんの工房も使えそうだし<end_line>
+			全力でミューノを助けに行こう！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -288,9 +288,9 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		���n�Y���m�@�ꂭ���m����Ճg�C�E<end_line>
-		�n���{�a�K�@�ړI�n�f�X<end_line>
-		�����T���i�C���E�@���ӃV�e�N�_�T�C<end_line>
+		村ハズレノ　れくいノ水遺跡トイウ<end_line>
+		地下宮殿ガ　目的地デス<end_line>
+		発見サレナイヨウ　注意シテクダサイ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -300,16 +300,16 @@
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
-			�킩���Ă�I<end_line>
-			�~���[�m�������b�̃G�T�ɂȂ�<end_line>
-			��������񂩁I<end_line>
+			わかってる！<end_line>
+			ミューノを召喚獣のエサになんか<end_line>
+			させるもんか！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�킩���Ă���āI<end_line>
-			�~���[�m�������b�̃G�T�ɂȂ�<end_line>
-			�����Ȃ�����I<end_line>
+			わかってるって！<end_line>
+			ミューノを召喚獣のエサになんか<end_line>
+			させないから！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -320,14 +320,14 @@
 	<portrait_r entry="partner" eye="decided" mouth="neutral">
 	<male>
 		<sjis>
-			���������̍H�[���g����������<end_line>
-			�S�͂Ń~���[�m�������ɍs�����I<end_line>
+			おっちゃんの工房も使えそうだし<end_line>
+			全力でミューノを助けに行くぞ！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			��������̍H�[���g����������<end_line>
-			�S�͂Ń~���[�m�������ɍs�����I<end_line>
+			おじさんの工房も使えそうだし<end_line>
+			全力でミューノを助けに行こう！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -337,9 +337,9 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<sjis>
-		���͂���̃��N�C�̐���ՂƂ���<end_line>
-		�n���{�a�Ƀ~���[�m�͂���悤���Ⴜ<end_line>
-		�����o���܂ŕ߂܂��Ă͂Ȃ��<end_line>
+		村はずれのレクイの水遺跡という<end_line>
+		地下宮殿にミューノはいるようじゃぞ<end_line>
+		助け出すまで捕まってはならんぞ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -349,16 +349,16 @@
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
 		<sjis>
-			�킩���Ă�I<end_line>
-			�~���[�m�������b�̃G�T�ɂȂ�<end_line>
-			��������񂩁I<end_line>
+			わかってる！<end_line>
+			ミューノを召喚獣のエサになんか<end_line>
+			させるもんか！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�킩���Ă���āI<end_line>
-			�~���[�m�������b�̃G�T�ɂȂ�<end_line>
-			�����Ȃ�����I<end_line>
+			わかってるって！<end_line>
+			ミューノを召喚獣のエサになんか<end_line>
+			させないから！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -369,14 +369,14 @@
 	<portrait_r entry="partner" eye="decided" mouth="neutral">
 	<male>
 		<sjis>
-			���������̍H�[���g����������<end_line>
-			�S�͂Ń~���[�m�������ɍs�����I<end_line>
+			おっちゃんの工房も使えそうだし<end_line>
+			全力でミューノを助けに行くぞ！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			��������̍H�[���g����������<end_line>
-			�S�͂Ń~���[�m�������ɍs�����I<end_line>
+			おじさんの工房も使えそうだし<end_line>
+			全力でミューノを助けに行こう！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -386,9 +386,9 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="decided" mouth="talk">
 	<sjis>
-		���͂���̃��N�C�̐���ՂƂ���<end_line>
-		�n���{�a�Ƀ~���[�m�͂���悤�悤����<end_line>
-		�߂܂炸�ɂ����܂ł��ǂ���邩�H<end_line>
+		村はずれのレクイの水遺跡という<end_line>
+		地下宮殿にミューノはいるようようだが<end_line>
+		捕まらずにそこまでたどりつけるか？<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -398,16 +398,16 @@
 	<portrait_r entry="partner" eye="decided" mouth="talk">
 	<male>
 		<sjis>
-			�܂����Ƃ����āI<end_line>
-			�~���[�m�������b�̃G�T�ɂȂ�<end_line>
-			��������񂩁I<end_line>
+			まかせとけって！<end_line>
+			ミューノを召喚獣のエサになんか<end_line>
+			させるもんか！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�܂����Ƃ��Ă�I<end_line>
-			�~���[�m�������b�̃G�T�ɂȂ�<end_line>
-			�����Ȃ�����I<end_line>
+			まかせといてよ！<end_line>
+			ミューノを召喚獣のエサになんか<end_line>
+			させないから！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -417,14 +417,14 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			���������̍H�[���g����������<end_line>
-			�S�͂Ń~���[�m�������ɍs�����I<end_line>
+			おっちゃんの工房も使えそうだし<end_line>
+			全力でミューノを助けに行くぞ！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			��������̍H�[���g����������<end_line>
-			�S�͂Ń~���[�m�������ɍs�����I<end_line>
+			おじさんの工房も使えそうだし<end_line>
+			全力でミューノを助けに行こう！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -433,9 +433,9 @@
 	<info box="right">
 	<portrait_r name="partner">
 	<sjis>
-		���͂���̃��N�C�̐���ՂƂ���<end_line>
-		�n���{�a�Ƀ~���[�m�l�͂��邻���ł�<end_line>
-		���l�Ɍ�����Ȃ��悤�ɍs���܂���<end_line>
+		村はずれのレクイの水遺跡という<end_line>
+		地下宮殿にミューノ様はいるそうです<end_line>
+		村人に見つからないように行きますよ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -444,16 +444,16 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			�킩���Ă�I<end_line>
-			�~���[�m�������b�̃G�T�ɂȂ�<end_line>
-			��������񂩁I<end_line>
+			わかってる！<end_line>
+			ミューノを召喚獣のエサになんか<end_line>
+			させるもんか！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�킩���Ă���āI<end_line>
-			�~���[�m�������b�̃G�T�ɂȂ�<end_line>
-			�����Ȃ�����I<end_line>
+			わかってるって！<end_line>
+			ミューノを召喚獣のエサになんか<end_line>
+			させないから！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -464,16 +464,16 @@
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
 		<sjis>
-			���N�C�̐���Ղ̈�ԉ��ɂ���<end_line>
-			�k�V���ă��c����<end_line>
-			�~���[�m�������o���񂾁I<end_line>
+			レクイの水遺跡の一番下にいる<end_line>
+			ヌシってヤツから<end_line>
+			ミューノを助け出すんだ！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			���N�C�̐���Ղ̈�ԉ��ɂ���<end_line>
-			�k�V���܂��ď����b����<end_line>
-			�~���[�m�������o���Ȃ�������I<end_line>
+			レクイの水遺跡の一番下にいる<end_line>
+			ヌシさまって召喚獣から<end_line>
+			ミューノを助け出さなくっちゃ！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -483,9 +483,9 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		��Փ��f�n�@�J�X�J�i���˂邬�[�K<end_line>
-		���m�T���e�C�}�X<end_line>
-		�\���@�C���c�P�e�N�_�T�C<end_line>
+		遺跡内デハ　カスカナえねるぎーガ<end_line>
+		検知サレテイマス<end_line>
+		十分　気ヲツケテクダサイ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -494,8 +494,8 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		�悭�킩��Ȃ�����<end_line>
-		�Ƃɂ����C�������I<end_line>
+		よくわからないけど<end_line>
+		とにかく気をつけるよ！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -505,16 +505,16 @@
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
 		<sjis>
-			���N�C�̐���Ղ̈�ԉ��ɂ���<end_line>
-			�k�V���ă��c����<end_line>
-			�~���[�m�������o���񂾁I<end_line>
+			レクイの水遺跡の一番下にいる<end_line>
+			ヌシってヤツから<end_line>
+			ミューノを助け出すんだ！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			���N�C�̐���Ղ̈�ԉ��ɂ���<end_line>
-			�k�V���܂��ď����b����<end_line>
-			�~���[�m�������o���Ȃ�������I<end_line>
+			レクイの水遺跡の一番下にいる<end_line>
+			ヌシさまって召喚獣から<end_line>
+			ミューノを助け出さなくっちゃ！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -524,9 +524,9 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<sjis>
-		��Ղ̒��ɂ̓C���ȋC��<end_line>
-		�[�����Ă���<three_dots><end_line>
-		�C������̂��Ⴜ�I<end_line>
+		遺跡の中にはイヤな気が<end_line>
+		充満しておる<three_dots><end_line>
+		気をつけるのじゃぞ！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -535,9 +535,9 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<sjis>
-		�C�Ƃ������Ă�����<end_line>
-		�悭�킩��Ȃ�����<three_dots><end_line>
-		�Ƃɂ����C�������I<end_line>
+		気とか言われても正直<end_line>
+		よくわからないけど<three_dots><end_line>
+		とにかく気をつけるよ！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -547,16 +547,16 @@
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
 		<sjis>
-			���N�C�̐���Ղ̈�ԉ��ɂ���<end_line>
-			�k�V���ă��c����<end_line>
-			�~���[�m�������o���񂾁I<end_line>
+			レクイの水遺跡の一番下にいる<end_line>
+			ヌシってヤツから<end_line>
+			ミューノを助け出すんだ！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			���N�C�̐���Ղ̈�ԉ��ɂ���<end_line>
-			�k�V���܂��ď����b����<end_line>
-			�~���[�m�������o���Ȃ�������I<end_line>
+			レクイの水遺跡の一番下にいる<end_line>
+			ヌシさまって召喚獣から<end_line>
+			ミューノを助け出さなくっちゃ！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -566,8 +566,8 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<sjis>
-		��Փ��̂������Ȕg��<three_dots><end_line>
-		�C���Ȋ�����<end_line>
+		遺跡内のかすかな波動<three_dots><end_line>
+		イヤな感じだ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -576,8 +576,8 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<sjis>
-		���ɂ��܂��ăL�Q���������Ȃ�<three_dots><end_line>
-		�Ƃɂ����C�����悤<end_line>
+		いつにもましてキゲンが悪いなぁ<three_dots><end_line>
+		とにかく気をつけよう<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -586,16 +586,16 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			���N�C�̐���Ղ̈�ԉ��ɂ���<end_line>
-			�k�V���ă��c����<end_line>
-			�~���[�m�������o���񂾁I<end_line>
+			レクイの水遺跡の一番下にいる<end_line>
+			ヌシってヤツから<end_line>
+			ミューノを助け出すんだ！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			���N�C�̐���Ղ̈�ԉ��ɂ���<end_line>
-			�k�V���܂��ď����b����<end_line>
-			�~���[�m�������o���Ȃ�������I<end_line>
+			レクイの水遺跡の一番下にいる<end_line>
+			ヌシさまって召喚獣から<end_line>
+			ミューノを助け出さなくっちゃ！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -604,9 +604,9 @@
 	<info box="right">
 	<portrait_r name="partner">
 	<sjis>
-		��Փ��̊���<three_dots><end_line>
-		�C���ȗ\�������܂���<three_dots><end_line>
-		�C�����Ă���������<end_line>
+		遺跡内の感じ<three_dots><end_line>
+		イヤな予感がしますわ<three_dots><end_line>
+		気をつけてくださいね<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -614,8 +614,8 @@
 	<info box="left">
 	<portrait_l name="player">
 	<sjis>
-		���������\����<end_line>
-		������Ȃ��Ƃ�������<three_dots><end_line>
+		そういう予感は<end_line>
+		当たらないといいけど<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -625,16 +625,16 @@
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
 		<sjis>
-			���N�C�̐���Ղ̈�ԉ��ɂ���<end_line>
-			�k�V���ă��c����<end_line>
-			�~���[�m�������o���񂾁I<end_line>
+			レクイの水遺跡の一番下にいる<end_line>
+			ヌシってヤツから<end_line>
+			ミューノを助け出すんだ！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			���N�C�̐���Ղ̈�ԉ��ɂ���<end_line>
-			�k�V���܂��ď����b����<end_line>
-			�~���[�m�������o���Ȃ�������I<end_line>
+			レクイの水遺跡の一番下にいる<end_line>
+			ヌシさまって召喚獣から<end_line>
+			ミューノを助け出さなくっちゃ！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -644,9 +644,9 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		��z�h�m�@�Ă����T���m�l�i�@���ۃK<end_line>
-		�}�^�����X���J���V���}�Z��<end_line>
-		�\���@�C���c�P�e�N�_�T�C<end_line>
+		先ホドノ　てぃえサンノ様ナ　現象ガ<end_line>
+		マタ発生スルカモシレマセン<end_line>
+		十分　気ヲツケテクダサイ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -656,16 +656,16 @@
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
-			�ǂ�ȃV�J�P���킩��Ȃ��񂾂���<end_line>
-			�ǂ��C�����Ă�����<end_line>
-			�킩��Ȃ����ǂ�<end_line>
+			どんなシカケかわかんないんだから<end_line>
+			どう気をつけていいか<end_line>
+			わかんないけどな<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�ǂ�ȃV�J�P���킩��Ȃ��񂾂���<end_line>
-			�ǂ��C�����Ă�����<end_line>
-			�킩��Ȃ����ǂ�<end_line>
+			どんなシカケかわかんないんだから<end_line>
+			どう気をつけていいか<end_line>
+			わかんないけどね<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -676,16 +676,16 @@
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
 		<sjis>
-			���N�C�̐���Ղ̈�ԉ��ɂ���<end_line>
-			�k�V���ă��c����<end_line>
-			�~���[�m�������o���񂾁I<end_line>
+			レクイの水遺跡の一番下にいる<end_line>
+			ヌシってヤツから<end_line>
+			ミューノを助け出すんだ！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			���N�C�̐���Ղ̈�ԉ��ɂ���<end_line>
-			�k�V���܂��ď����b����<end_line>
-			�~���[�m�������o���Ȃ�������I<end_line>
+			レクイの水遺跡の一番下にいる<end_line>
+			ヌシさまって召喚獣から<end_line>
+			ミューノを助け出さなくっちゃ！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -695,9 +695,9 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<sjis>
-		��قǂ̃e�B�G�̗l�Ȃ��Ƃ�<end_line>
-		�܂��N�����������<end_line>
-		�\���C������̂��Ⴜ<end_line>
+		先ほどのティエの様なことが<end_line>
+		また起きるやもしれん<end_line>
+		十分気をつけるのじゃぞ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -707,14 +707,14 @@
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
 		<sjis>
-			�u�l����Ȃ��v�Ƃ������Ă�<end_line>
-			�ǂ��C������΂����񂾂�<three_dots><end_line>
+			「人じゃない」とか言われても<end_line>
+			どう気をつければいいんだよ<three_dots><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�u�l����Ȃ��v�Ƃ�������<end_line>
-			�ǂ��C������΂����̂�<three_dots><end_line>
+			「人じゃない」とか言われて<end_line>
+			どう気をつければいいのよ<three_dots><end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -724,9 +724,9 @@
 	<portrait_l entry="player" eye="sad" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="neutral">
 	<sjis>
-		�s�K�v�ɃR������Ȃ����Ƃ���<end_line>
-		�H��̐��̌�����A�͂����<end_line>
-		�����<end_line>
+		不必要にコワがらないことじゃ<end_line>
+		幽霊の正体見たり、枯れ尾花<end_line>
+		じゃよ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -736,16 +736,16 @@
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
 		<sjis>
-			���N�C�̐���Ղ̈�ԉ��ɂ���<end_line>
-			�k�V���ă��c����<end_line>
-			�~���[�m�������o���񂾁I<end_line>
+			レクイの水遺跡の一番下にいる<end_line>
+			ヌシってヤツから<end_line>
+			ミューノを助け出すんだ！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			���N�C�̐���Ղ̈�ԉ��ɂ���<end_line>
-			�k�V���܂��ď����b����<end_line>
-			�~���[�m�������o���Ȃ�������I<end_line>
+			レクイの水遺跡の一番下にいる<end_line>
+			ヌシさまって召喚獣から<end_line>
+			ミューノを助け出さなくっちゃ！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -755,8 +755,8 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="tense">
 	<sjis>
-		�������̃e�B�G�̗l�ȃ��c��<end_line>
-		�܂��o�邩��������<three_dots><end_line>
+		さっきのティエの様なヤツが<end_line>
+		また出るかもしれんな<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -766,14 +766,14 @@
 	<portrait_r entry="partner" eye="decided" mouth="tense">
 	<male>
 		<sjis>
-			�u�l����Ȃ��v�Ƃ������Ă�<end_line>
-			�ǂ�����Ⴂ���񂾂�<three_dots><end_line>
+			「人じゃない」とか言われても<end_line>
+			どうすりゃいいんだよ<three_dots><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�u�l����Ȃ��v�Ƃ������Ă�<end_line>
-			�ǂ�����΂����̂�<three_dots><end_line>
+			「人じゃない」とか言われても<end_line>
+			どうすればいいのよ<three_dots><end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -783,8 +783,8 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="partner" eye="decided" mouth="talk">
 	<sjis>
-		�ǂ����������Ȃ�<end_line>
-		����������<end_line>
+		どうもこうもない<end_line>
+		消すだけだ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -793,16 +793,16 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			���N�C�̐���Ղ̈�ԉ��ɂ���<end_line>
-			�k�V���ă��c����<end_line>
-			�~���[�m�������o���񂾁I<end_line>
+			レクイの水遺跡の一番下にいる<end_line>
+			ヌシってヤツから<end_line>
+			ミューノを助け出すんだ！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			���N�C�̐���Ղ̈�ԉ��ɂ���<end_line>
-			�k�V���܂��ď����b����<end_line>
-			�~���[�m�������o���Ȃ�������I<end_line>
+			レクイの水遺跡の一番下にいる<end_line>
+			ヌシさまって召喚獣から<end_line>
+			ミューノを助け出さなくっちゃ！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -811,9 +811,9 @@
 	<info box="right">
 	<portrait_r name="partner">
 	<sjis>
-		�܂��������̃e�B�G����݂����̂�<end_line>
-		�o�邩������܂����<three_dots><end_line>
-		�C�����Ȃ���<three_dots><end_line>
+		またさっきのティエさんみたいのが<end_line>
+		出るかもしれませんね<three_dots><end_line>
+		気をつけないと<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -822,16 +822,16 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			�Ȃ񂾂��悭�킩��Ȃ�����<end_line>
-			�Ȃ�Ƃ��Ȃ���������v����<end_line>
-			�E�C�����čs�������I<end_line>
+			なんだかよくわからないけど<end_line>
+			なんとかなったから大丈夫だよ<end_line>
+			勇気だして行こうぜ！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�Ȃ񂾂��悭�킩��Ȃ�����<end_line>
-			�Ȃ�Ƃ��Ȃ���������v����<end_line>
-			�E�C�����čs�����I<end_line>
+			なんだかよくわからないけど<end_line>
+			なんとかなったから大丈夫だよ<end_line>
+			勇気だして行こう！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -840,8 +840,8 @@
 	<info box="right">
 	<portrait_r name="partner">
 	<sjis>
-		����ȁA���v�ł���I<end_line>
-		�R�����Ȃ�ĂȂ��ł�����I<end_line>
+		そんな、大丈夫ですわ！<end_line>
+		コワくなんてないですから！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -850,8 +850,8 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="partner" eye="sad" mouth="tense">
 	<sjis>
-		�ǂ����Ă���ȂƂ����<end_line>
-		�e���̐���<three_dots>�H<end_line>
+		どうしてこんなところで<end_line>
+		親方の声が<three_dots>？<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -860,9 +860,9 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		���M���n�@�s���f�X<three_dots><end_line>
-		���񂳁[�j�@�J�X�J�i�����K<end_line>
-		�����V�e�C�}�X<end_line>
+		発信源ハ　不明デス<three_dots><end_line>
+		せんさーニ　カスカナ乱レガ<end_line>
+		発生シテイマス<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -872,14 +872,14 @@
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
-			�Ƃɂ���<three_dots><end_line>
-			�������߂ɍs���Ă݂邩<end_line>
+			とにかく<three_dots><end_line>
+			たしかめに行ってみるか<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�Ƃɂ���<three_dots><end_line>
-			�������߂ɍs���Ă݂悤<end_line>
+			とにかく<three_dots><end_line>
+			たしかめに行ってみよう<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -889,8 +889,8 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="partner" eye="sad" mouth="tense">
 	<sjis>
-		�ǂ����Ă���ȂƂ����<end_line>
-		�e���̐���<three_dots>�H<end_line>
+		どうしてこんなところで<end_line>
+		親方の声が<three_dots>？<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -899,7 +899,7 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="partner" eye="decided" mouth="neutral">
 	<sjis>
-		�������߂Ă݂邩�́H<end_line>
+		たしかめてみるかの？<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -908,8 +908,8 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="partner" eye="sad" mouth="tense">
 	<sjis>
-		�ǂ����Ă���ȂƂ����<end_line>
-		�e���̐���<three_dots>�H<end_line>
+		どうしてこんなところで<end_line>
+		親方の声が<three_dots>？<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -918,7 +918,7 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<sjis>
-		���̊����A�܂�<three_dots><end_line>
+		この感じ、また<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -927,7 +927,7 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<sjis>
-		�Ƃɂ����s���Ă݂悤<end_line>
+		とにかく行ってみよう<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -935,8 +935,8 @@
 	<info box="left">
 	<portrait_l name="player">
 	<sjis>
-		�ǂ����Ă���ȂƂ����<end_line>
-		�e���̐���<three_dots>�H<end_line>
+		どうしてこんなところで<end_line>
+		親方の声が<three_dots>？<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -944,7 +944,7 @@
 	<info box="right">
 	<portrait_r name="partner">
 	<sjis>
-		�ǂǂǂǂǂ����Ăł��傤���H<end_line>
+		どどどどどうしてでしょうか？<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -953,14 +953,14 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			����𕷂��Ă�񂾂��ǂ�<end_line>
-			�Ƃ肠�����A�s���Ă݂悤<end_line>
+			それを聞いてるんだけどな<end_line>
+			とりあえず、行ってみよう<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			����𕷂��Ă�񂾂��ǂ�<end_line>
-			�Ƃ肠�����A�s���Ă݂悤<end_line>
+			それを聞いてるんだけどね<end_line>
+			とりあえず、行ってみよう<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -971,16 +971,16 @@
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
 		<sjis>
-			���N�C�̐���Ղ̈�ԉ��ɂ���<end_line>
-			�k�V���ă��c����<end_line>
-			�~���[�m�������o���񂾁I<end_line>
+			レクイの水遺跡の一番下にいる<end_line>
+			ヌシってヤツから<end_line>
+			ミューノを助け出すんだ！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			���N�C�̐���Ղ̈�ԉ��ɂ���<end_line>
-			�k�V���܂��ď����b����<end_line>
-			�~���[�m�������o���Ȃ�������I<end_line>
+			レクイの水遺跡の一番下にいる<end_line>
+			ヌシさまって召喚獣から<end_line>
+			ミューノを助け出さなくっちゃ！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -990,9 +990,9 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		�Ă����T���A���ɂ��T���A�e���m�R�g�n<end_line>
-		��Փ��f���m�T���e�C���@���˂邬�[�K<end_line>
-		�֌W�V�e�C���g�@�v�����}�X�K<three_dots><end_line>
+		てぃえサン、あにきサン、親方ノコトハ<end_line>
+		遺跡内デ検知サレテイル　えねるぎーガ<end_line>
+		関係シテイルト　思ワレマスガ<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -1001,8 +1001,8 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		�܂��������邩������Ȃ�<three_dots><end_line>
-		���ǁA�i�܂Ȃ�����I<end_line>
+		まだ何かあるかもしれない<three_dots><end_line>
+		けど、進まなくちゃ！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -1012,16 +1012,16 @@
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
 		<sjis>
-			���N�C�̐���Ղ̈�ԉ��ɂ���<end_line>
-			�k�V���ă��c����<end_line>
-			�~���[�m�������o���񂾁I<end_line>
+			レクイの水遺跡の一番下にいる<end_line>
+			ヌシってヤツから<end_line>
+			ミューノを助け出すんだ！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			���N�C�̐���Ղ̈�ԉ��ɂ���<end_line>
-			�k�V���܂��ď����b����<end_line>
-			�~���[�m�������o���Ȃ�������I<end_line>
+			レクイの水遺跡の一番下にいる<end_line>
+			ヌシさまって召喚獣から<end_line>
+			ミューノを助け出さなくっちゃ！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -1031,9 +1031,9 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="tense">
 	<sjis>
-		�e�B�G�ɑ����A�A�j�L�Ɛe���Ƃ�<three_dots><end_line>
-		��Փ��̃C���ȋC�Ɗ֌W���邱�Ƃ�<end_line>
-		����������Ǝv���̂��Ⴊ<three_dots><end_line>
+		ティエに続き、アニキと親方とは<three_dots><end_line>
+		遺跡内のイヤな気と関係あることは<end_line>
+		たしかじゃと思うのじゃが<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -1043,14 +1043,14 @@
 	<portrait_r entry="partner" eye="decided" mouth="tense">
 	<male>
 		<sjis>
-			�܂��A�������邩������Ȃ���<three_dots><end_line>
-			�ł��A�i�܂Ȃ�����I<end_line>
+			まだ、何かあるかもしれないな<three_dots><end_line>
+			でも、進まなくちゃ！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�܂��A�������邩������Ȃ���<three_dots><end_line>
-			�ł��A�i�܂Ȃ�����I<end_line>
+			まだ、何かあるかもしれないね<three_dots><end_line>
+			でも、進まなくちゃ！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -1061,16 +1061,16 @@
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
 		<sjis>
-			���N�C�̐���Ղ̈�ԉ��ɂ���<end_line>
-			�k�V���ă��c����<end_line>
-			�~���[�m�������o���񂾁I<end_line>
+			レクイの水遺跡の一番下にいる<end_line>
+			ヌシってヤツから<end_line>
+			ミューノを助け出すんだ！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			���N�C�̐���Ղ̈�ԉ��ɂ���<end_line>
-			�k�V���܂��ď����b����<end_line>
-			�~���[�m�������o���Ȃ�������I<end_line>
+			レクイの水遺跡の一番下にいる<end_line>
+			ヌシさまって召喚獣から<end_line>
+			ミューノを助け出さなくっちゃ！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -1080,9 +1080,9 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="talk">
 	<sjis>
-		��<three_dots><end_line>
-		�����܂ł���Ǝ��͂ǂ����o�Ă��邩<end_line>
-		�y���݂���<end_line>
+		ふ<three_dots><end_line>
+		ここまでくると次はどいつが出てくるか<end_line>
+		楽しみだな<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -1092,12 +1092,12 @@
 	<portrait_r entry="partner" eye="decided" mouth="talk">
 	<male>
 		<sjis>
-			�セ���ȃ��c���Ƃ�������<end_line>
+			弱そうなヤツだといいけど<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�セ���Ȑl���Ƃ�������<end_line>
+			弱そうな人だといいけど<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -1107,16 +1107,16 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			���N�C�̐���Ղ̈�ԉ��ɂ���<end_line>
-			�k�V���ă��c����<end_line>
-			�~���[�m�������o���񂾁I<end_line>
+			レクイの水遺跡の一番下にいる<end_line>
+			ヌシってヤツから<end_line>
+			ミューノを助け出すんだ！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			���N�C�̐���Ղ̈�ԉ��ɂ���<end_line>
-			�k�V���܂��ď����b����<end_line>
-			�~���[�m�������o���Ȃ�������I<end_line>
+			レクイの水遺跡の一番下にいる<end_line>
+			ヌシさまって召喚獣から<end_line>
+			ミューノを助け出さなくっちゃ！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -1125,9 +1125,9 @@
 	<info box="right">
 	<portrait_r name="partner">
 	<sjis>
-		�����N����������<end_line>
-		�r�b�N�����܂����I<end_line>
-		�}���܂��傤�I<end_line>
+		もう誰が来たって<end_line>
+		ビックリしませんわ！<end_line>
+		急ぎましょう！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -1136,14 +1136,14 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			�������ȁI<end_line>
-			�ǂ�Ƃ������Ă񂾁I<end_line>
+			そうだな！<end_line>
+			どんとこいってんだ！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�������ˁI<end_line>
-			�ǂ�Ƃ������Ċ����I<end_line>
+			そうだね！<end_line>
+			どんとこいって感じ！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -1154,14 +1154,14 @@
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
 		<sjis>
-			�����j�Z���m�͂������񂾁I<end_line>
-			�{���̃~���[�m��<three_dots><end_line>
+			もうニセモノはたくさんだ！<end_line>
+			本物のミューノは<three_dots><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�����j�Z���m�͂�������I<end_line>
-			�{���̃~���[�m��<three_dots><end_line>
+			もうニセモノはたくさん！<end_line>
+			本物のミューノは<three_dots><end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -1171,9 +1171,9 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		�ꂭ���m����Ճm�@��ԉ��f�X�I<end_line>
-		�}�K�i�C�g�@�݂�[�̗l�K<end_line>
-		�����b�m�@�G�T�j<three_dots>�I<end_line>
+		れくいノ水遺跡ノ　一番下デス！<end_line>
+		急ガナイト　みゅーの様ガ<end_line>
+		召喚獣ノ　エサニ<three_dots>！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -1182,8 +1182,8 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		����Ȃ��Ɛ�΂�<end_line>
-		��������񂩁I<end_line>
+		そんなこと絶対に<end_line>
+		させるもんか！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -1193,14 +1193,14 @@
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
 		<sjis>
-			�����j�Z���m�͂������񂾁I<end_line>
-			�{���̃~���[�m��<three_dots><end_line>
+			もうニセモノはたくさんだ！<end_line>
+			本物のミューノは<three_dots><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�����j�Z���m�͂�������I<end_line>
-			�{���̃~���[�m��<three_dots><end_line>
+			もうニセモノはたくさん！<end_line>
+			本物のミューノは<three_dots><end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -1210,9 +1210,9 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="yell">
 	<sjis>
-		���N�C�̐���Ղ̈�ԉ��̊K����I<end_line>
-		��������ƃ~���[�m���k�V�ƌĂ΂��<end_line>
-		�����b�̃G�T��<three_dots>�I<end_line>
+		レクイの水遺跡の一番下の階じゃ！<end_line>
+		早くせんとミューノがヌシと呼ばれる<end_line>
+		召喚獣のエサに<three_dots>！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -1221,8 +1221,8 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<portrait_r entry="partner" eye="decided" mouth="yell">
 	<sjis>
-		����Ȃ��Ɛ�΂�<end_line>
-		��������񂩁I<end_line>
+		そんなこと絶対に<end_line>
+		させるもんか！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -1232,14 +1232,14 @@
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
 		<sjis>
-			�����j�Z���m�͂������񂾁I<end_line>
-			�{���̃~���[�m��<three_dots><end_line>
+			もうニセモノはたくさんだ！<end_line>
+			本物のミューノは<three_dots><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�����j�Z���m�͂�������I<end_line>
-			�{���̃~���[�m��<three_dots><end_line>
+			もうニセモノはたくさん！<end_line>
+			本物のミューノは<three_dots><end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -1249,9 +1249,9 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="special" mouth="yell">
 	<sjis>
-		���N�C�̐���Ղ̈�ԉ��̊K���I<end_line>
-		�������Ȃ��ƃk�V�Ƃ�����<end_line>
-		�����b�̃G�T�ɂ���Ă��܂����I<end_line>
+		レクイの水遺跡の一番下の階だ！<end_line>
+		早くしないとヌシとかいう<end_line>
+		召喚獣のエサにされてしまうぞ！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -1260,8 +1260,8 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<portrait_r entry="partner" eye="special" mouth="yell">
 	<sjis>
-		����Ȃ��Ɛ�΂�<end_line>
-		��������񂩁I<end_line>
+		そんなこと絶対に<end_line>
+		させるもんか！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -1270,14 +1270,14 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			�����j�Z���m�͂������񂾁I<end_line>
-			�{���̃~���[�m��<three_dots><end_line>
+			もうニセモノはたくさんだ！<end_line>
+			本物のミューノは<three_dots><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�����j�Z���m�͂�������I<end_line>
-			�{���̃~���[�m��<three_dots><end_line>
+			もうニセモノはたくさん！<end_line>
+			本物のミューノは<three_dots><end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -1286,9 +1286,9 @@
 	<info box="right">
 	<portrait_r name="partner">
 	<sjis>
-		���N�C�̐���Ղ̈�ԉ��̊K�ł���I<end_line>
-		�������Ȃ��ƃk�V���܂Ƃ��������b��<end_line>
-		�G�T�ɂ���Ă��܂��܂���I<end_line>
+		レクイの水遺跡の一番下の階ですわ！<end_line>
+		早くしないとヌシさまという召喚獣の<end_line>
+		エサにされてしまいますわ！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -1296,7 +1296,7 @@
 	<info box="left">
 	<portrait_l name="player">
 	<sjis>
-		����Ȃ��Ɛ�΂�<end_line>
-		��������񂩁I<end_line>
+		そんなこと絶対に<end_line>
+		させるもんか！<end_line>
 	</sjis>
 </dialogue>

@@ -3,7 +3,7 @@
   <portrait_l entry="player" eye="surprised" mouth="tense">
   <portrait_r entry="partner" eye="surprised" mouth="tense">
   <sjis>
-    ‚±‚Ì‰¹‚Í<three_dots>I<end_line>
+    ã“ã®éŸ³ã¯<three_dots>ï¼<end_line>
   </sjis>
   <ascii>
     That sound<three_dots>!<end_line>
@@ -15,9 +15,9 @@
   <portrait_l entry="player" eye="surprised" mouth="tense">
   <portrait_r entry="partner" eye="decided" mouth="serious">
   <sjis>
-    ‰½ƒJŽ–ŒƒK”­¶ƒVƒ^@‡}ƒfƒX<end_line>
-    ƒ}ƒ^@ƒnƒOƒŒ¢Š«bƒKoƒ^<end_line>
-    ‰Â”\«ƒKƒAƒŠƒ}ƒX<end_line>
+    ä½•ã‚«äº‹ä»¶ã‚¬ç™ºç”Ÿã‚·ã‚¿ã€€åˆå›³ãƒ‡ã‚¹<end_line>
+    ãƒžã‚¿ã€€ãƒã‚°ãƒ¬å¬å–šç£ã‚¬å‡ºã‚¿<end_line>
+    å¯èƒ½æ€§ã‚¬ã‚¢ãƒªãƒžã‚¹<end_line>
   </sjis>
   <ascii>
     It Is A Sign Something Has Happened.<end_line>
@@ -31,9 +31,9 @@
   <portrait_l entry="player" eye="surprised" mouth="tense">
   <portrait_r entry="partner" eye="decided" mouth="serious">
   <sjis>
-    ‰½‚©‚ ‚Á‚½‚Ì‚¶‚á‚È<three_dots><end_line>
-    ‚Ü‚½‹ß‚­‚É‚Í‚®‚ê¢Š«b‚Å‚à<end_line>
-    o‚½‚Ì‚©‚Ì‚¨<three_dots>H<end_line>
+    ä½•ã‹ã‚ã£ãŸã®ã˜ã‚ƒãª<three_dots><end_line>
+    ã¾ãŸè¿‘ãã«ã¯ãã‚Œå¬å–šç£ã§ã‚‚<end_line>
+    å‡ºãŸã®ã‹ã®ãŠ<three_dots>ï¼Ÿ<end_line>
   </sjis>
   <ascii>
     It seems something has happened<three_dots><end_line>
@@ -46,9 +46,9 @@
   <portrait_l entry="player" eye="surprised" mouth="tense">
   <portrait_r entry="partner" eye="decided" mouth="serious">
   <sjis>
-    ‰½‚©‚ ‚Á‚½—l‚¾‚È<three_dots><end_line>
-    ‚Ü‚½‹ß‚­‚É‚Í‚®‚ê¢Š«b‚Å‚à<end_line>
-    o‚½‚ñ‚¶‚á‚È‚¢‚Ì‚©H<end_line>
+    ä½•ã‹ã‚ã£ãŸæ§˜ã ãª<three_dots><end_line>
+    ã¾ãŸè¿‘ãã«ã¯ãã‚Œå¬å–šç£ã§ã‚‚<end_line>
+    å‡ºãŸã‚“ã˜ã‚ƒãªã„ã®ã‹ï¼Ÿ<end_line>
   </sjis>
   <ascii>
     Wonder what that was<three_dots><end_line>
@@ -61,9 +61,9 @@
   <portrait_l entry="player" eye="surprised" mouth="tense">
   <portrait_r entry="partner" eye="decided" mouth="serious">
   <sjis>
-    ‰½‚©‚ ‚Á‚½‚Ý‚½‚¢‚Å‚·‚í<end_line>
-    ‚Ü‚½‹ß‚­‚É‚Í‚®‚ê¢Š«b‚ªo‚½‚æ‚¤‚È<end_line>
-    ‹C‚ª‚µ‚Ü‚·‚íI<end_line>
+    ä½•ã‹ã‚ã£ãŸã¿ãŸã„ã§ã™ã‚<end_line>
+    ã¾ãŸè¿‘ãã«ã¯ãã‚Œå¬å–šç£ãŒå‡ºãŸã‚ˆã†ãª<end_line>
+    æ°—ãŒã—ã¾ã™ã‚ï¼<end_line>
   </sjis>
   <ascii>
     It seems something is happening.<end_line>
@@ -77,14 +77,14 @@
   <portrait_r entry="partner" eye="decided" mouth="serious">
   <male>
     <sjis>
-      ‚Ü‚Á‚½‚­I<end_line>
-      ‚±‚ñ‚ÈŽž‚ÉI<end_line>
+      ã¾ã£ãŸãï¼<end_line>
+      ã“ã‚“ãªæ™‚ã«ï¼<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ‚à‚¤I<end_line>
-      ‚±‚ñ‚ÈŽž‚ÉI<end_line>
+      ã‚‚ã†ï¼<end_line>
+      ã“ã‚“ãªæ™‚ã«ï¼<end_line>
     </sjis>
   </female>
   <ascii>

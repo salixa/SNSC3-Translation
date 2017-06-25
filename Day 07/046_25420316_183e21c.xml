@@ -2,7 +2,7 @@
 	<info box="nobox">
 	<portrait_l name="murno">
 	<sjis>
-		�����ɂ����̂�<three_dots><end_line>
+		ここにいたのね<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -10,8 +10,8 @@
 	<portrait_l entry="player" eye="serious" mouth="tense">
 	<portrait_r entry="murno" eye="serious" mouth="neutral">
 	<sjis>
-		�ǂ������́H<end_line>
-		�l������<three_dots>�H<end_line>
+		どうしたの？<end_line>
+		考えごと<three_dots>？<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -20,16 +20,16 @@
 	<portrait_r entry="murno" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
-			����<three_dots><end_line>
-			�I�����������Ȃ��Ƃ��Ďv���񂾂���<end_line>
-			�ǂ����Ă����̂��킩��Ȃ���<end_line>
+			うん<three_dots><end_line>
+			オレも何かしないとって思うんだけど<end_line>
+			どうしていいのかわからなくて<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			����<three_dots><end_line>
-			�킽�����������Ȃ��Ƃ��Ďv���񂾂���<end_line>
-			�ǂ����Ă����̂��킩��Ȃ���<end_line>
+			うん<three_dots><end_line>
+			わたしも何かしないとって思うんだけど<end_line>
+			どうしていいのかわからなくて<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -38,8 +38,8 @@
 	<portrait_l entry="player" eye="sad" mouth="neutral">
 	<portrait_r entry="murno" eye="serious" mouth="tense">
 	<sjis>
-		���B�[����������Ă�����Ȃ�<end_line>
-		�����͂������x�߂���<end_line>
+		ヴィーさんも言ってたじゃない<end_line>
+		今日はゆっくり休めって<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -48,16 +48,16 @@
 	<portrait_r entry="murno" eye="serious" mouth="tense">
 	<male>
 		<sjis>
-			�������Ƀ��C�[�Y���ł�<end_line>
-			�F�X����������Ȃ�<three_dots><end_line>
-			�����S�܂ŏ���������<end_line>
+			たしかにルイーズ村では<end_line>
+			色々あったもんなぁ<three_dots><end_line>
+			幻龍鬼まで召喚したし<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�������Ƀ��C�[�Y���ł�<end_line>
-			�F�X�����������<end_line>
-			�����S�܂ŏ���������<end_line>
+			たしかにルイーズ村では<end_line>
+			色々あったもんね<end_line>
+			幻龍鬼まで召喚したし<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -66,9 +66,9 @@
 	<portrait_l entry="player" eye="serious" mouth="serious">
 	<portrait_r entry="murno" eye="happy" mouth="neutral">
 	<sjis>
-		�{���ɑ�J�c���N��������<end_line>
-		���������A���Ă����񂾂�<end_line>
-		�{���ɍ����͂�����肵����H<end_line>
+		本当に大カツヤクだったわ<end_line>
+		せっかく帰ってきたんだし<end_line>
+		本当に今日はゆっくりしたら？<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -76,9 +76,9 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="murno" eye="serious" mouth="neutral">
 	<sjis>
-		������<three_dots><end_line>
-		�܂����A�C�c�炪����Ă��邩<end_line>
-		�킩��Ȃ���<three_dots><end_line>
+		だけど<three_dots><end_line>
+		またいつアイツらがやってくるか<end_line>
+		わからないし<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -86,8 +86,8 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="murno" eye="sad" mouth="tense">
 	<sjis>
-		���߂�Ȃ���<end_line>
-		���̂��߂�<three_dots><end_line>
+		ごめんなさい<end_line>
+		私のために<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -96,9 +96,9 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="murno" eye="sad" mouth="tense">
 	<sjis>
-		�~���[�m�̓I���Ȃ񂩂��<end_line>
-		�����Ƒ�ςȖڂɂ����Ă��Ă��<end_line>
-		������A����Ȃ��ƋC�ɂ����<end_line>
+		ミューノはオレなんかより<end_line>
+		ずっと大変な目にあってきてるんだ<end_line>
+		だから、そんなこと気にするな<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -107,9 +107,9 @@
 	<portrait_l entry="player" eye="decided" mouth="talk">
 	<portrait_r entry="murno" eye="sad" mouth="tense">
 	<sjis>
-		�~���[�m�������������Ȃ��Ă�<end_line>
-		�����悤�ɂȂ��Ȃ炳<end_line>
-		�I���A����΂邩��I<end_line>
+		ミューノがもう逃げ回らなくても<end_line>
+		いいようになるんならさ<end_line>
+		オレ、がんばるから！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -118,9 +118,9 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="murno" eye="sad" mouth="tense">
 	<sjis>
-		�~���[�m�͂킽���Ȃ񂩂��<end_line>
-		�����Ƒ�ςȖڂɂ����Ă��Ă�̂�<end_line>
-		������A����Ȃ��ƋC�ɂ��Ȃ���<end_line>
+		ミューノはわたしなんかより<end_line>
+		ずっと大変な目にあってきてるのよ<end_line>
+		だから、そんなこと気にしないで<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -129,9 +129,9 @@
 	<portrait_l entry="player" eye="decided" mouth="talk">
 	<portrait_r entry="murno" eye="sad" mouth="tense">
 	<sjis>
-		�~���[�m�������������Ȃ��Ă�<end_line>
-		�����悤�ɂȂ�̂Ȃ�<end_line>
-		�킽���A����΂邩��I<end_line>
+		ミューノがもう逃げ回らなくても<end_line>
+		いいようになるのなら<end_line>
+		わたし、がんばるから！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -148,16 +148,16 @@
 	<portrait_r entry="murno" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
-			�����A�����Ƃ݂�Ȃɐ��������<end_line>
-			�����̂̓A�C�c�炾����<end_line>
-			�݂�Ȃ킩���Ă���邳�I<end_line>
+			明日、ちゃんとみんなに説明すれば<end_line>
+			悪いのはアイツらだって<end_line>
+			みんなわかってくれるさ！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�����A�����Ƃ݂�Ȃɐ��������<end_line>
-			�����̂̓A�C�c�炾����<end_line>
-			�݂�Ȃ킩���Ă�����I<end_line>
+			明日、ちゃんとみんなに説明すれば<end_line>
+			悪いのはアイツらだって<end_line>
+			みんなわかってくれるよ！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -166,9 +166,9 @@
 	<portrait_l entry="player" eye="happy" mouth="neutral">
 	<portrait_r entry="murno" eye="sad" mouth="serious">
 	<sjis>
-		�ł��A<player_nickname>�Ȃ�܂�����<end_line>
-		���̌������Ȃ��<end_line>
-		�݂�ȕ����Ă���邩����<three_dots><end_line>
+		でも、<player_nickname>ならまだしも<end_line>
+		私の言う事なんて<end_line>
+		みんな聞いてくれるかしら<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -177,16 +177,16 @@
 	<portrait_r entry="murno" eye="sad" mouth="serious">
 	<male>
 		<sjis>
-			�ȂɌ����Ă�񂾂�<end_line>
-			�~���[�m�̌������ƂȂ�݂�ȕ�����<end_line>
-			�����āA�~���[�m������<end_line>
+			なに言ってるんだよ<end_line>
+			ミューノの言うことならみんな聞くさ<end_line>
+			だって、ミューノだもん<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�ȂɌ����Ă��<end_line>
-			�~���[�m�̌������ƂȂ�݂�ȕ�����<end_line>
-			�����āA�~���[�m������<end_line>
+			なに言ってるの<end_line>
+			ミューノの言うことならみんな聞くよ<end_line>
+			だって、ミューノだもん<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -195,8 +195,8 @@
 	<portrait_l entry="player" eye="decided" mouth="talk">
 	<portrait_r entry="murno" eye="happy_blush" mouth="neutral">
 	<sjis>
-		�ӂ�<three_dots><end_line>
-		�悭�킩��Ȃ�����<end_line>
-		���肪��<end_line>
+		ふふ<three_dots><end_line>
+		よくわからないけど<end_line>
+		ありがと<end_line>
 	</sjis>
 </dialogue>

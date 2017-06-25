@@ -1,7 +1,7 @@
 <dialogue>
   <info box="nobox">
   <sjis>
-    �@�@�����A<partner>�Ɠ��������ŕ�炷�@�@�@<end_line>
+    　　正直、<partner>と同じ部屋で暮らす　　　<end_line>
   </sjis>
   <ascii>
     Honestly, I didn't expect to<end_line>
@@ -10,7 +10,7 @@
 <dialogue>
   <info box="nobox">
   <sjis>
-    �@�����A<partner>�Ɠ��������ŕ�炷�@�@�@<end_line>
+    　正直、<partner>と同じ部屋で暮らす　　　<end_line>
   </sjis>
   <ascii>
     Honestly, I didn't expect to<end_line>
@@ -19,7 +19,7 @@
 <dialogue>
   <info box="nobox">
   <sjis>
-    �@�����A<partner>�Ɠ��������ŕ�炷�@<end_line>
+    　正直、<partner>と同じ部屋で暮らす　<end_line>
   </sjis>
   <ascii>
     Honestly, I didn't expect to<end_line>
@@ -28,7 +28,7 @@
 <dialogue>
   <info box="nobox">
   <sjis>
-    �@�����A<partner>�Ɠ��������ŕ�炷�@<end_line>
+    　正直、<partner>と同じ部屋で暮らす　<end_line>
   </sjis>
   <ascii>
     Honestly, I didn't expect to<end_line>
@@ -37,7 +37,7 @@
 <dialogue>
   <info box="nobox">
   <sjis>
-    �����A<partner>�Ɠ��������ŕ�炷<end_line>
+    正直、<partner>と同じ部屋で暮らす<end_line>
   </sjis>
   <ascii>
     Honestly, I didn't expect to<end_line>
@@ -46,7 +46,7 @@
 <dialogue>
   <info box="nobox">
   <sjis>
-    �����A<partner>�Ɠ��������ŕ�炷<end_line>
+    正直、<partner>と同じ部屋で暮らす<end_line>
   </sjis>
   <ascii>
     Honestly, I didn't expect to<end_line>
@@ -55,8 +55,8 @@
 <dialogue>
   <info box="nobox">
   <sjis>
-    �@���ƂɂȂ����̂͂��ǂ낢�����ǁ@�@<end_line>
-    �@�p�[�g�i�[���ł������Ƃ͂��ꂵ���@<end_line>
+    　ことになったのはおどろいたけど　　<end_line>
+    　パートナーができたことはうれしい　<end_line>
   </sjis>
   <ascii>
     live together with <partner>,<end_line>
@@ -66,9 +66,9 @@
 <dialogue>
   <info box="nobox">
   <sjis>
-    �@�@�ł��A�~���[�m�����͂ǂ����ā@�@<end_line>
-    �@�@�@�@���̑��ɂ����񂾂낤<three_dots>�@�@�@<end_line>
-    �@�@�@�@�@�@�@������<three_dots>�@�@�@�@�@�@�@<end_line>
+    　　でも、ミューノたちはどうして　　<end_line>
+    　　　　この村にきたんだろう<three_dots>　　　<end_line>
+    　　　　　　　そして<three_dots>　　　　　　　<end_line>
   </sjis>
   <ascii>
     But I really wonder why Murno<end_line>
@@ -80,14 +80,14 @@
   <info box="nobox">
   <male>
     <sjis>
-      �@�@�@���ꂩ��ǂ��֍s������@�@�@<end_line>
-      �@�@�@�@�������񂾂낤��<three_dots>�@�@�@�@�@<end_line>
+      　　　これからどこへ行くつもり　　　<end_line>
+      　　　　だったんだろうか<three_dots>　　　　　<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �@�@�@���ꂩ��ǂ��֍s������@�@�@<end_line>
-      �@�@�@�@�@�������񂾂낤<three_dots>�@�@�@�@�@<end_line>
+      　　　これからどこへ行くつもり　　　<end_line>
+      　　　　　だったんだろう<three_dots>　　　　　<end_line>
     </sjis>
   </female>
   <ascii>
@@ -99,14 +99,14 @@
   <info box="nobox">
   <male>
     <sjis>
-      �@�@��̂������ǂ����͂���Ȃ����@�@<end_line>
-      �@�@���ꂩ��~���[�m�̔M�����������@<end_line>
+      　　薬のせいかどうかはしらないが　　<end_line>
+      　　あれからミューノの熱も下がった　<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �@��̂������ǂ����͂���Ȃ����ǁ@�@<end_line>
-      �@���ꂩ��~���[�m�̔M�����������@�@<end_line>
+      　薬のせいかどうかはしらないけど　　<end_line>
+      　あれからミューノの熱も下がった　　<end_line>
     </sjis>
   </female>
   <ascii>
@@ -118,9 +118,9 @@
 <dialogue>
   <info box="nobox">
   <sjis>
-    �����������~���[�m�̐Q������Ă���@<end_line>
-    �@�@�@�悩�����Ȃ��Ďv�������ǁ@�@�@<end_line>
-    �@�@�@������ƐS�z�ɂ��Ȃ���<three_dots>�@�@�@<end_line>
+    落ち着いたミューノの寝顔を見てたら　<end_line>
+    　　　よかったなって思ったけど　　　<end_line>
+    　　　ちょっと心配にもなった<three_dots>　　　<end_line>
   </sjis>
   <ascii>
     Watching Murno sleep peacefully,<end_line>
@@ -131,9 +131,9 @@
 <dialogue>
   <info box="nobox">
   <sjis>
-    �@����́A�~���[�m�������ɗ���܂Ł@<end_line>
-    �@�@�@�ǂ�Ȗڂɂ����Ă���̂��@�@�@<end_line>
-    �@�z�����ł��Ȃ��������炾�Ǝv��<three_dots>�@<end_line>
+    　それは、ミューノがここに来るまで　<end_line>
+    　　　どんな目にあっているのか　　　<end_line>
+    　想像もできなかったからだと思う<three_dots>　<end_line>
   </sjis>
   <ascii>
     I can't even imagine what<end_line>
@@ -144,8 +144,8 @@
 <dialogue>
   <info box="nobox">
   <sjis>
-    �@�@�����̎����̏��������Ȃ���@�@�@<end_line>
-    �@�@�@�����̂��Ƃ��l���Ă����@�@�@�@<end_line>
+    　　明日の試験の準備をしながら　　　<end_line>
+    　　　今日のことを考えていた　　　　<end_line>
   </sjis>
   <ascii>
     While preparing for tomorrow's exam,<end_line>
@@ -155,8 +155,8 @@
 <dialogue>
   <info box="nobox">
   <sjis>
-    �@�@�S���@���̖��΂������Ă���Ɓ@�@<end_line>
-    �@�@�@�@�@�@�s�K�ɂȂ�<three_dots>�@�@�@�@�@�@<end_line>
+    　　ゴヴァンの魔石を持っていると　　<end_line>
+    　　　　　　不幸になる<three_dots>　　　　　　<end_line>
   </sjis>
   <ascii>
     Those who posess Govan's Demon Stone<end_line>
@@ -166,9 +166,9 @@
 <dialogue>
   <info box="nobox">
   <sjis>
-    �@�@�@�����~���[�m�͌��������ǁ@�@�@<end_line>
-    �@�@�A�����Ĉ�̂Ȃ�Ȃ񂾂낤<three_dots>�H�@<end_line>
-    �@���������ă~���[�m���s�K�Ȗڂ�<three_dots>�H<end_line>
+    　　　そうミューノは言ったけど　　　<end_line>
+    　　アレって一体なんなんだろう<three_dots>？　<end_line>
+    　もしかしてミューノも不幸な目に<three_dots>？<end_line>
   </sjis>
   <ascii>
     That's what Murno said. <end_line>
@@ -179,9 +179,9 @@
 <dialogue>
   <info box="nobox">
   <sjis>
-    �@�@�~���[�m�̓G���Č����Ă����@�@<end_line>
-    �@�@�@�@�@�@�j�̐l�����́@�@�@�@�@�@<end_line>
-    �@�@�@�@��̉��҂Ȃ񂾂낤<three_dots>�@�@�@�@<end_line>
+    　　ミューノの敵って言われていた　　<end_line>
+    　　　　　　男の人たちは　　　　　　<end_line>
+    　　　　一体何者なんだろう<three_dots>　　　　<end_line>
   </sjis>
   <ascii>
     I'm really curious Murno's<end_line>
@@ -191,8 +191,8 @@
 <dialogue>
   <info box="nobox">
   <sjis>
-    �@�@�@�@����Ȃ��Ƃ��l����Ɓ@�@�@�@<end_line>
-    �@�@���ꂩ�炪�����s���ɂȂ��Ă���@<end_line>
+    　　　　そんなことを考えると　　　　<end_line>
+    　　これからが少し不安になってくる　<end_line>
   </sjis>
   <ascii>
     Thinking about things like that<end_line>
@@ -203,16 +203,16 @@
   <info box="nobox">
   <male>
     <sjis>
-      �@�@�@�����ǁA���A��Ԃ̖��́@�@�@<end_line>
-      �@�@�e�B�G�̂��Ƃ��ǂ����邩�H�@�@�@<end_line>
-      �@<three_dots>���Ă����̂��A�J�b�R�����C�Ȃ�<three_dots><end_line>
+      　　　だけど、今、一番の問題は　　　<end_line>
+      　　ティエのことをどうするか？　　　<end_line>
+      　<three_dots>っていうのが、カッコワルイなぁ<three_dots><end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �@�@�@�����ǁA���A��Ԃ̖��́@�@�@<end_line>
-      �@�@�e�B�G�̂��Ƃ��ǂ����悤�H�@�@�@<end_line>
-      �@<three_dots>���Ă����̂��A�J�b�R�����C�Ȃ�<three_dots><end_line>
+      　　　だけど、今、一番の問題は　　　<end_line>
+      　　ティエのことをどうしよう？　　　<end_line>
+      　<three_dots>っていうのが、カッコワルイなぁ<three_dots><end_line>
     </sjis>
   </female>
   <ascii>
@@ -224,22 +224,13 @@
 <dialogue>
   <info box="nobox">
   <sjis>
-    �@�@�@�@�~���[�m��<partner>�̊ԂŁ@�@�@�@�@<end_line>
+    　　　　ミューノと<partner>の間で　　　　　<end_line>
   </sjis>
 </dialogue>
 <dialogue>
   <info box="nobox">
   <sjis>
-    �@�@�@�~���[�m��<partner>�̊ԂŁ@�@�@�@�@<end_line>
-  </sjis>
-  <ascii>
-    Whatever Murno and <partner> discussed<end_line>
-  </ascii>
-</dialogue>
-<dialogue>
-  <info box="nobox">
-  <sjis>
-    �@�@�@�~���[�m��<partner>�̊ԂŁ@�@�@�@<end_line>
+    　　　ミューノと<partner>の間で　　　　　<end_line>
   </sjis>
   <ascii>
     Whatever Murno and <partner> discussed<end_line>
@@ -248,7 +239,7 @@
 <dialogue>
   <info box="nobox">
   <sjis>
-    �@�@�~���[�m��<partner>�̊ԂŁ@�@�@�@<end_line>
+    　　　ミューノと<partner>の間で　　　　<end_line>
   </sjis>
   <ascii>
     Whatever Murno and <partner> discussed<end_line>
@@ -257,7 +248,7 @@
 <dialogue>
   <info box="nobox">
   <sjis>
-    �@�@�~���[�m��<partner>�̊ԂŁ@�@�@<end_line>
+    　　ミューノと<partner>の間で　　　　<end_line>
   </sjis>
   <ascii>
     Whatever Murno and <partner> discussed<end_line>
@@ -266,7 +257,16 @@
 <dialogue>
   <info box="nobox">
   <sjis>
-    �@�@�~���[�m��<partner>�̊ԂŁ@�@<end_line>
+    　　ミューノと<partner>の間で　　　<end_line>
+  </sjis>
+  <ascii>
+    Whatever Murno and <partner> discussed<end_line>
+  </ascii>
+</dialogue>
+<dialogue>
+  <info box="nobox">
+  <sjis>
+    　　ミューノと<partner>の間で　　<end_line>
   </sjis>
   <ascii>
     Whatever Murno and <partner> discussed<end_line>
@@ -276,8 +276,8 @@
   <player gender="male">
   <info box="nobox">
   <sjis>
-    �@�ǂ�Șb���������̂��͒m��Ȃ�����<end_line>
-    �@�@�~���[�m�͒��Ɏc�����炵��<three_dots><end_line>
+    　どんな話があったのかは知らないけど<end_line>
+    　　ミューノは町に残るつもりらしい<three_dots><end_line>
   </sjis>
   <ascii>
     is none of my business, but for now<end_line>
@@ -289,8 +289,8 @@
   <player gender="male">
   <info box="nobox">
   <sjis>
-    �@�@�@���ꂪ�킩�������I���́@�@�@�@<end_line>
-    �@��̂ǂ�Ȋ�����Ă��񂾂낤<three_dots>�@�@<end_line>
+    　　　それがわかった時オレは　　　　<end_line>
+    　一体どんな顔をしてたんだろう<three_dots>　　<end_line>
   </sjis>
   <ascii>
     I wonder what my face<end_line>
@@ -301,8 +301,8 @@
   <player gender="female">
   <info box="nobox">
   <sjis>
-    �@�ǂ�Șb���������̂��͒m��Ȃ�����<end_line>
-    �@�@�@�~���[�m�͒��Ɏc��݂���<three_dots>�@�@<end_line>
+    　どんな話があったのかは知らないけど<end_line>
+    　　　ミューノは町に残るみたい<three_dots>　　<end_line>
   </sjis>
   <ascii>
     is none of my business, but for now<end_line>
@@ -314,8 +314,8 @@
   <player gender="female">
   <info box="nobox">
   <sjis>
-    �@�@�@���ꂪ�킩�������킽���́@�@�@<end_line>
-    �@�@��̂ǂ�Ȋ�����Ă��񂾂낤<three_dots>�@<end_line>
+    　　　それがわかった時わたしは　　　<end_line>
+    　　一体どんな顔をしてたんだろう<three_dots>　<end_line>
   </sjis>
   <ascii>
     I wonder what my face<end_line>
@@ -325,9 +325,9 @@
 <dialogue>
   <info box="nobox">
   <sjis>
-    �@���΂炭���Đe���������A���Ă��ā@<end_line>
-    �@�@�����A���̔h���ɂ݂�Ȃ��W�߂ā@<end_line>
-    �@�@�b���������ƂɂȂ����ƌ���ꂽ�@<end_line>
+    　しばらくして親方たちが帰ってきて　<end_line>
+    　　明日、金の派閥にみんなを集めて　<end_line>
+    　　話し合うことになったと言われた　<end_line>
   </sjis>
   <ascii>
     The Chief said that tomorrow,<end_line>
@@ -338,9 +338,9 @@
 <dialogue>
   <info box="nobox">
   <sjis>
-    �@�@�@�@�d���Ȃ��Ƃ͎v�����ǁ@�@�@�@<end_line>
-    �@�@�����A�j�X������߂܂��Ȃ��Ɓ@�@<end_line>
-    �@�@�@�@�@�@�����Ȃ��̂�<three_dots>�@�@�@�@�@<end_line>
+    　　　　仕方ないとは思うけど　　　　<end_line>
+    　　早くアニスたちを捕まえないと　　<end_line>
+    　　　　　　いけないのに<three_dots>　　　　　<end_line>
   </sjis>
   <ascii>
     There's no avoiding it<three_dots><end_line>

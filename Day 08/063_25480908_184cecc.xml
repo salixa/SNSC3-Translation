@@ -2,7 +2,7 @@
   <info box="left">
   <portrait_l entry="player" eye="sad" mouth="tense">
   <sjis>
-    ƒƒue•û‚ªlŽE‚µA‚©<three_dots><end_line>
+    ãƒ­ãƒ–è¦ªæ–¹ãŒäººæ®ºã—ã€ã‹<three_dots><end_line>
   </sjis>
   <ascii>
     Master Rob, a murderer<three_dots><end_line>
@@ -13,14 +13,14 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <male>
     <sjis>
-      ‚»‚ñ‚È‚í‚¯A‚ ‚é‚à‚ñ‚©<three_dots><end_line>
-      â‘Î‚É<three_dots><end_line>
+      ãã‚“ãªã‚ã‘ã€ã‚ã‚‹ã‚‚ã‚“ã‹<three_dots><end_line>
+      çµ¶å¯¾ã«<three_dots><end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ‚»‚ñ‚È‚±‚ÆA‚ ‚é‚í‚¯‚È‚¢‚æ<three_dots><end_line>
-      â‘Î‚É<three_dots><end_line>
+      ãã‚“ãªã“ã¨ã€ã‚ã‚‹ã‚ã‘ãªã„ã‚ˆ<three_dots><end_line>
+      çµ¶å¯¾ã«<three_dots><end_line>
     </sjis>
   </female>
   <ascii>
@@ -32,8 +32,8 @@
   <info box="left">
   <portrait_l entry="player" eye="serious" mouth="tense">
   <sjis>
-    ’N‚©—ˆ‚½‚Ý‚½‚¢‚¾<end_line>
-    ‚à‚µ‚©‚µ‚Ä<three_dots><end_line>
+    èª°ã‹æ¥ãŸã¿ãŸã„ã <end_line>
+    ã‚‚ã—ã‹ã—ã¦<three_dots><end_line>
   </sjis>
   <ascii>
     Someone's here.<end_line>
@@ -43,7 +43,7 @@
 <menu>
   <option>
     <sjis>
-      ƒ~ƒ…[ƒm<end_line>
+      ãƒŸãƒ¥ãƒ¼ãƒŽ<end_line>
     </sjis>
     <ascii>
       Murno<end_line>
@@ -59,7 +59,7 @@
   </option>
   <option>
     <sjis>
-      ƒ”ƒB[<end_line>
+      ãƒ´ã‚£ãƒ¼<end_line>
     </sjis>
     <ascii>
       V.E<end_line>
@@ -67,7 +67,7 @@
   </option>
   <option>
     <sjis>
-      ƒŒƒ~ƒB<end_line>
+      ãƒ¬ãƒŸã‚£<end_line>
     </sjis>
     <ascii>
       Lemmy<end_line>
@@ -75,7 +75,7 @@
   </option>
   <option>
     <sjis>
-      ƒWƒFƒCƒh<end_line>
+      ã‚¸ã‚§ã‚¤ãƒ‰<end_line>
     </sjis>
     <ascii>
       Jade<end_line>
@@ -83,7 +83,7 @@
   </option>
   <option>
     <sjis>
-      ƒeƒBƒG<end_line>
+      ãƒ†ã‚£ã‚¨<end_line>
     </sjis>
     <ascii>
       Tier<end_line>

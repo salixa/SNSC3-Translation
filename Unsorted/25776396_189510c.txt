@@ -1,10 +1,10 @@
 <location>
 	<sjis>
-		�s���r�b�N�̐X<end_line>
+		ピュビックの森<end_line>
 	</sjis>
 </location>
 <location>
 	<sjis>
-		�s���r�b�N�̐X�@�G���A�S<end_line>
+		ピュビックの森　エリア４<end_line>
 	</sjis>
 </location>

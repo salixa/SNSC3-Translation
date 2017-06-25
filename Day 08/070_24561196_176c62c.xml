@@ -1,7 +1,7 @@
 <dialogue>
   <info box="nobox">
   <sjis>
-    @@@@@ƒƒue•û‚Ì‚±‚Æ‚Í@@@@@<end_line>
+    ã€€ã€€ã€€ã€€ã€€ãƒ­ãƒ–è¦ªæ–¹ã®ã“ã¨ã¯ã€€ã€€ã€€ã€€ã€€<end_line>
   </sjis>
   <ascii>
           I couldn't say anything about<end_line>
@@ -10,7 +10,7 @@
 <dialogue>
   <info box="nobox">
   <sjis>
-    @@@<partner>‚É‚àŒ¾‚¦‚È‚©‚Á‚½‚È<three_dots>@@@@<end_line>
+    ã€€ã€€ã€€<partner>ã«ã‚‚è¨€ãˆãªã‹ã£ãŸãª<three_dots>ã€€ã€€ã€€ã€€<end_line>
   </sjis>
   <ascii>
               Rob to <partner><three_dots><end_line>
@@ -19,7 +19,7 @@
 <dialogue>
   <info box="nobox">
   <sjis>
-    @@<partner>‚É‚àŒ¾‚¦‚È‚©‚Á‚½‚È<three_dots>@@@@<end_line>
+    ã€€ã€€<partner>ã«ã‚‚è¨€ãˆãªã‹ã£ãŸãª<three_dots>ã€€ã€€ã€€ã€€<end_line>
   </sjis>
   <ascii>
               Rob to <partner><three_dots><end_line>
@@ -28,7 +28,7 @@
 <dialogue>
   <info box="nobox">
   <sjis>
-    @@<partner>‚É‚àŒ¾‚¦‚È‚©‚Á‚½‚È<three_dots>@@@<end_line>
+    ã€€ã€€<partner>ã«ã‚‚è¨€ãˆãªã‹ã£ãŸãª<three_dots>ã€€ã€€ã€€<end_line>
   </sjis>
   <ascii>
               Rob to <partner><three_dots><end_line>
@@ -37,7 +37,7 @@
 <dialogue>
   <info box="nobox">
   <sjis>
-    @@<partner>‚É‚àŒ¾‚¦‚È‚©‚Á‚½‚È<three_dots>@@<end_line>
+    ã€€ã€€<partner>ã«ã‚‚è¨€ãˆãªã‹ã£ãŸãª<three_dots>ã€€ã€€<end_line>
   </sjis>
   <ascii>
               Rob to <partner><three_dots><end_line>
@@ -46,7 +46,7 @@
 <dialogue>
   <info box="nobox">
   <sjis>
-    @<partner>‚É‚àŒ¾‚¦‚È‚©‚Á‚½‚È<three_dots>@@<end_line>
+    ã€€<partner>ã«ã‚‚è¨€ãˆãªã‹ã£ãŸãª<three_dots>ã€€ã€€<end_line>
   </sjis>
   <ascii>
               Rob to <partner><three_dots><end_line>
@@ -55,7 +55,7 @@
 <dialogue>
   <info box="nobox">
   <sjis>
-    @<partner>‚É‚àŒ¾‚¦‚È‚©‚Á‚½‚È<three_dots>@<end_line>
+    ã€€<partner>ã«ã‚‚è¨€ãˆãªã‹ã£ãŸãª<three_dots>ã€€<end_line>
   </sjis>
   <ascii>
               Rob to <partner><three_dots><end_line>
@@ -64,9 +64,9 @@
 <dialogue>
   <info box="nobox">
   <sjis>
-    @‚»‚¤‚¾AŠÖŒW‚È‚ñ‚©‚ ‚é‚í‚¯‚È‚¢@@<end_line>
-    @@ƒƒue•û‚ªƒ”ƒHƒCƒWƒ“‚Á‚Äl‚ð@@<end_line>
-    @@@@@ŽE‚µ‚½‚È‚ñ‚Ä<three_dots>@@@@@@<end_line>
+    ã€€ãã†ã ã€é–¢ä¿‚ãªã‚“ã‹ã‚ã‚‹ã‚ã‘ãªã„ã€€ã€€<end_line>
+    ã€€ã€€ãƒ­ãƒ–è¦ªæ–¹ãŒãƒ´ã‚©ã‚¤ã‚¸ãƒ³ã£ã¦äººã‚’ã€€ã€€<end_line>
+    ã€€ã€€ã€€ã€€ã€€æ®ºã—ãŸãªã‚“ã¦<three_dots>ã€€ã€€ã€€ã€€ã€€ã€€<end_line>
   </sjis>
   <ascii>
     Right, there's no way they're connected.<end_line>
@@ -76,13 +76,13 @@
 <dialogue>
   <info box="nobox">
   <sjis>
-    @<end_line>
-    @@ƒAƒjƒX‚ÌƒEƒ\‚ÉŒˆ‚Ü‚Á‚Ä‚é<three_dots>I@@<end_line>
-    @<end_line>
+    ã€€<end_line>
+    ã€€ã€€ã‚¢ãƒ‹ã‚¹ã®ã‚¦ã‚½ã«æ±ºã¾ã£ã¦ã‚‹<three_dots>ï¼ã€€ã€€<end_line>
+    ã€€<end_line>
   </sjis>
   <ascii>
-    @<end_line>
-    @     Anise must be lying<three_dots>I@@<end_line>
-    @<end_line>
+    ã€€<end_line>
+    ã€€     Anise must be lying<three_dots>ï¼ã€€ã€€<end_line>
+    ã€€<end_line>
   </ascii>
 </dialogue>

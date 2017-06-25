@@ -1,5 +1,5 @@
 <location>
 	<sjis>
-		ボスタフ工房　本部<end_line>
+		繝懊せ繧ｿ繝募ｷ･謌ｿ縲譛ｬ驛ｨ<end_line>
 	</sjis>
 </location>

@@ -1,31 +1,31 @@
 <location>
 	<sjis>
-		ƒ‹ƒC[ƒY‘º@–¯‰Æ‚`<end_line>
+		ãƒ«ã‚¤ãƒ¼ã‚ºæ‘ã€€æ°‘å®¶ï¼¡<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="elderly">
 	<sjis>
-		ƒMƒƒƒ‰ƒnƒ“‚©<three_dots><end_line>
-		ƒAƒŒ‚àh‚¢‚¾‚ë‚¤‚É<end_line>
-		‚æ‚­‚â‚Á‚Ä‚¨‚é‚Ì‚£<end_line>
+		ã‚®ãƒ£ãƒ©ãƒãƒ³ã‹<three_dots><end_line>
+		ã‚¢ãƒ¬ã‚‚è¾›ã„ã ã‚ã†ã«<end_line>
+		ã‚ˆãã‚„ã£ã¦ãŠã‚‹ã®ã…<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="elderly">
 	<sjis>
-		‚í‚µ‚ç’N‚É‚à–À˜f‚©‚¯‚¸‚É<end_line>
-		Ã‚©‚É•é‚ç‚µ‚Ä‚¨‚é‚Ì‚É<end_line>
-		‚ ‚Ì“úA‘½‚­‚ÌŽÒ‚ª‰Æ‘°‚ðŽ¸‚Á‚½<end_line>
+		ã‚ã—ã‚‰èª°ã«ã‚‚è¿·æƒ‘ã‹ã‘ãšã«<end_line>
+		é™ã‹ã«æš®ã‚‰ã—ã¦ãŠã‚‹ã®ã«<end_line>
+		ã‚ã®æ—¥ã€å¤šãã®è€…ãŒå®¶æ—ã‚’å¤±ã£ãŸ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="elderly">
 	<sjis>
-		ƒgƒ‰ƒ€‚Ì—¼e‚à‚»‚¤‚¶‚á<end_line>
-		Žá‚¢‚Ì‚É‚µ‚Á‚©‚è‚µ‚Ä‚¨‚é<end_line>
+		ãƒˆãƒ©ãƒ ã®ä¸¡è¦ªã‚‚ãã†ã˜ã‚ƒ<end_line>
+		è‹¥ã„ã®ã«ã—ã£ã‹ã‚Šã—ã¦ãŠã‚‹<end_line>
 	</sjis>
 </dialogue>

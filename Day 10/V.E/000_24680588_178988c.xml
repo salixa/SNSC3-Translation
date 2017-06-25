@@ -1,11 +1,11 @@
 <location>
   <sjis>
-    �x���\���H�[�@�H�[<end_line>
+    ベンソン工房　工房<end_line>
   </sjis>
 </location>
 <popup>
   <sjis>
-    ��ꂪ��ꂽ�I<end_line>
+    疲れが取れた！<end_line>
   </sjis>
   <ascii>
     You feel refreshed!<end_line>
@@ -15,8 +15,8 @@
   <info box="simple">
   <portrait_l name="vee">
   <sjis>
-    �A�^�V�̕�<end_line>
-    �����ƏC�����Ă������<end_line>
+    アタシの斧<end_line>
+    ちゃんと修理しておくれよ<end_line>
   </sjis>
   <ascii>
     Make sure you<end_line>

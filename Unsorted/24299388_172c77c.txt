@@ -1,28 +1,28 @@
 <location>
 	<sjis>
-		�����̉Ɓ@���<end_line>
+		村長の家　道具屋<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="shop_clerk">
 	<sjis>
-		���͏��i�̐������Ȃ�<end_line>
+		今は商品の整理中なんだ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="shop_clerk">
 	<sjis>
-		�������ǂ܂����Ƃŗ��Ă����<end_line>
+		悪いけどまたあとで来てくれよ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="child">
 	<sjis>
-		���̊O�ɂ́A�͂��ꂪ<end_line>
-		�����ς����邩��<end_line>
-		�o���Ⴂ���Ȃ��񂾂�<end_line>
+		村の外には、はぐれが<end_line>
+		いっぱいいるから<end_line>
+		出ちゃいけないんだよ<end_line>
 	</sjis>
 </dialogue>

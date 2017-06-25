@@ -3,9 +3,9 @@
   <portrait_l entry="player" eye="serious" mouth="neutral">
   <portrait_r entry="jade" eye="serious" mouth="tense">
   <sjis>
-    �����A<player_nickname><end_line>
-    �D���ȕ�����ЂƂ�<end_line>
-    �I�Ԃ��Ƃ͂ł����̂��H<end_line>
+    おう、<player_nickname><end_line>
+    好きな武器をひとつ<end_line>
+    選ぶことはできたのか？<end_line>
   </sjis>
   <ascii>
     Hey, <player_nickname>.<end_line>
@@ -18,7 +18,7 @@
   <portrait_r entry="jade" eye="serious" mouth="tense">
   <option>
     <sjis>
-      �����ƑI��ł�����<end_line>
+      ちゃんと選んできたよ<end_line>
     </sjis>
     <ascii>
       I've got one in mind.<end_line>
@@ -26,7 +26,7 @@
   </option>
   <option>
     <sjis>
-      ���ꂪ�܂����܂��ĂȂ���<three_dots><end_line>
+      それがまだ決まってなくて<three_dots><end_line>
     </sjis>
     <ascii>
       I'm still not sure<three_dots><end_line>
@@ -37,9 +37,9 @@
   <info box="right">
   <portrait_r name="jade">
   <sjis>
-    �D���ȕ�����ЂƂI�ׂ���<end_line>
-    �����Ă�񂾂��H<end_line>
-    �������肵���<three_dots><end_line>
+    好きな武器をひとつ選べって<end_line>
+    言ってるんだぜ？<end_line>
+    しっかりしろよ<three_dots><end_line>
   </sjis>
   <ascii>
     It's only one weapon, okay?<end_line>

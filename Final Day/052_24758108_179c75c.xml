@@ -1,18 +1,18 @@
 <location>
 	<sjis>
-		�~�V���[�X�̔p��<end_line>
+		ミシュースの廃墟<end_line>
 	</sjis>
 </location>
 <location>
 	<sjis>
-		�~�V���[�X�̔p�Ё@�L��<end_line>
+		ミシュースの廃墟　広場<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="tier">
 	<sjis>
-		<player_nickname>�̂͂����傤����<three_dots><end_line>
+		<player_nickname>のはくじょうもの<three_dots><end_line>
 	</sjis>
   <ascii>
     <player_nickname> is so insensitive<three_dots><end_line>
@@ -22,7 +22,7 @@
 	<info box="simple">
 	<portrait_l name="velworen">
 	<sjis>
-		�������ɋA�肽��<three_dots><end_line>
+		早く町に帰りたい<three_dots><end_line>
 	</sjis>
   <ascii>
     I wanna go home<three_dots><end_line>

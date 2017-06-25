@@ -1,49 +1,49 @@
 <dialogue>
 	<info box="simple">
 	<sjis>
-		���݈ړ��\�Ȑڑ��悪<end_line>
-		���݂��Ȃ��̂Ŏg�p�ł��܂���<end_line>
+		現在移動可能な接続先が<end_line>
+		存在しないので使用できません<end_line>
 	</sjis>
 </dialogue>
 <menu>
 	<title>
 		<sjis>
-			�ǂ��ɂ����܂����H<end_line>
+			どこにいきますか？<end_line>
 		</sjis>
 	</title>
 	<option>
 		<sjis>
-			�f�B�b�N����<end_line>
+			ディックル村<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			�}�[�l�C���h��<end_line>
+			マーネイル宿場<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			�v���X�o���̒�<end_line>
+			プロスバンの町<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			���C�[�Y��<end_line>
+			ルイーズ村<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			�~�V���[�X�̔p��<end_line>
+			ミシュースの廃墟<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			�]���̊�<end_line>
+			転送の間<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			��߂�<end_line>
+			やめる<end_line>
 		</sjis>
 	</option>
 </menu>

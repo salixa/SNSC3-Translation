@@ -1,9 +1,9 @@
 <dialogue>
   <info box="simple">
   <sjis>
-    �ꏊ�G���[<end_line>
-    �o�n�r�Q�s�d�l�o��<end_line>
-    �Z�b�g����ĂȂ�<end_line>
+    場所エラー<end_line>
+    ＰＯＳ＿ＴＥＭＰが<end_line>
+    セットされてない<end_line>
   </sjis>
   <ascii>
     Location error<end_line>
@@ -15,8 +15,8 @@
   <info box="simple">
   <portrait_l name="wanted man">
   <sjis>
-    ���݁A<end_line>
-    <weapon_type>�A�����ĂȂ��H<end_line>
+    きみ、<end_line>
+    <weapon_type>、持ってない？<end_line>
   </sjis>
   <ascii>
     Hey, <end_line>
@@ -27,8 +27,8 @@
   <info box="simple">
   <portrait_l name="wanted man">
   <sjis>
-    �{�N�́A<weapon_type>��<end_line>
-    ��D���łˁA<end_line>
+    ボクは、<weapon_type>が<end_line>
+    大好物でね、<end_line>
   </sjis>
   <ascii>
     You know, <weapon_type><end_line>
@@ -38,9 +38,9 @@
   <info box="simple">
   <portrait_l name="wanted man">
   <sjis>
-    ���̐���<end_line>
-    �S�Ă�<weapon_type>��<end_line>
-    �Ɛ肵�����񂾂�<end_line>
+    この世の<end_line>
+    全ての<weapon_type>を<end_line>
+    独占したいんだよ<end_line>
   </sjis>
   <ascii>
     I want to own every<end_line>
@@ -51,9 +51,9 @@
   <info box="simple">
   <portrait_l name="wanted man">
   <sjis>
-    ���݂̎����Ă���<end_line>
-    <weapon_type>�A�S������<end_line>
-    �����Ă���<end_line>
+    きみの持っている<end_line>
+    <weapon_type>、全部買う<end_line>
+    売ってくれ<end_line>
   </sjis>
   <ascii>
     I'll buy any <weapon_type>s<end_line>
@@ -65,8 +65,8 @@
   <info box="simple">
   <portrait_l name="wanted man">
   <sjis>
-    ���݁A<end_line>
-    <weapon_type>�����ĂȂ��H<end_line>
+    きみ、<end_line>
+    <weapon_type>持ってない？<end_line>
   </sjis>
   <ascii>
     Hey,<end_line>
@@ -77,8 +77,8 @@
   <info box="simple">
   <portrait_l name="wanted man">
   <sjis>
-    �A���́A�����ܕ���<end_line>
-    �h���̂ɍœK�Ȃ�<end_line>
+    アレは、すきま風を<end_line>
+    防ぐのに最適なんだ<end_line>
   </sjis>
   <ascii>
     They're great for stopping<end_line>
@@ -89,9 +89,9 @@
   <info box="simple">
   <portrait_l name="wanted man">
   <sjis>
-    �l�̖��͂ˁA<end_line>
-    �����P�l�ō�����Ƃ�<end_line>
-    �Z�ނ��Ƃ������񂾂�<end_line>
+    僕の夢はね、<end_line>
+    自分１人で作った家に<end_line>
+    住むことだったんだよ<end_line>
   </sjis>
   <ascii>
     You know, my dream is to live<end_line>
@@ -102,9 +102,9 @@
   <info box="simple">
   <portrait_l name="wanted man">
   <sjis>
-    ��ʂ�A�o�����񂾂���<end_line>
-    �������������ɂ����܂�������<end_line>
-    �Ƒ����J���J����<end_line>
+    一通り、出来たんだけど<end_line>
+    あっちこっちにすきまがあって<end_line>
+    家族もカンカンさ<end_line>
   </sjis>
   <ascii>
     I've built one before, but there<end_line>
@@ -116,17 +116,17 @@
   <info box="simple">
   <portrait_l name="wanted man">
   <sjis>
-    ���݂̎����Ă���<end_line>
-    <weapon_type>�A�S������<end_line>
-    �����Ă���<end_line>
+    きみの持っている<end_line>
+    <weapon_type>、全部買う<end_line>
+    売ってくれ<end_line>
   </sjis>
 </dialogue>
 <dialogue>
   <info box="simple">
   <portrait_l name="wanted man">
   <sjis>
-    ���݁A<end_line>
-    <weapon_type>�A�����ĂȂ��H<end_line>
+    きみ、<end_line>
+    <weapon_type>、持ってない？<end_line>
   </sjis>
   <ascii>
     Hey,<end_line>
@@ -137,9 +137,9 @@
   <info box="simple">
   <portrait_l name="wanted man">
   <sjis>
-    <weapon_type>���āA<end_line>
-    ���̎�G��A���܂�Ȃ����<end_line>
-    �n�@�n�@�����<end_line>
+    <weapon_type>って、<end_line>
+    あの手触り、たまらないよね<end_line>
+    ハァハァだよね<end_line>
   </sjis>
   <ascii>
     <weapon_type> you know,<end_line>
@@ -150,9 +150,9 @@
   <info box="simple">
   <portrait_l name="wanted man">
   <sjis>
-    ���݂̎����Ă���<end_line>
-    <weapon_type>�A�n�@�n�@<end_line>
-    �����Ă���<end_line>
+    きみの持っている<end_line>
+    <weapon_type>、ハァハァ<end_line>
+    売ってくれ<end_line>
   </sjis>
   <ascii>
     I'll buy any <weapon_type>s<end_line>
@@ -164,8 +164,8 @@
   <info box="simple">
   <portrait_l name="wanted man">
   <sjis>
-    ���݁A<end_line>
-    <weapon_type>�A�����ĂȂ��H<end_line>
+    きみ、<end_line>
+    <weapon_type>、持ってない？<end_line>
   </sjis>
   <ascii>
     Hey,<end_line>
@@ -176,8 +176,8 @@
   <info box="simple">
   <portrait_l name="wanted man">
   <sjis>
-    �ŋ߁A�ꕔ�̃}�j�A�̊Ԃł́A<end_line>
-    �ǂ��l�ŁA�����񂾂��<three_dots><end_line>
+    最近、一部のマニアの間では、<end_line>
+    良い値で、売れるんだよね<three_dots><end_line>
   </sjis>
   <ascii>
     They've gotten popular with some<end_line>
@@ -187,8 +187,8 @@
   <info box="simple">
   <portrait_l name="wanted man">
   <sjis>
-    ���A���[�g�����ĂȂ��f�l����<end_line>
-    ����������v���̃{�N�ɔC���Ă�<end_line>
+    あ、ルート持ってない素人じゃ<end_line>
+    無理だからプロのボクに任せてね<end_line>
   </sjis>
   <ascii>
     Ah, it's impossible for an amateur<end_line>
@@ -200,9 +200,9 @@
   <info box="simple">
   <portrait_l name="wanted man">
   <sjis>
-    ���݂̎����Ă���<end_line>
-    <weapon_type>�A�S������<end_line>
-    �����Ă���<end_line>
+    きみの持っている<end_line>
+    <weapon_type>、全部買う<end_line>
+    売ってくれ<end_line>
   </sjis>
   <ascii>
     I'll buy every <weapon_type><end_line>
@@ -213,9 +213,9 @@
 <dialogue>
   <info box="simple">
   <sjis>
-    �ꏊ�G���[<end_line>
-    �o�n�r�Q�s�d�l�o��<end_line>
-    �Z�b�g����ĂȂ�<end_line>
+    場所エラー<end_line>
+    ＰＯＳ＿ＴＥＭＰが<end_line>
+    セットされてない<end_line>
   </sjis>
   <ascii>
     Location error<end_line>

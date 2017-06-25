@@ -1,34 +1,34 @@
 <location>
 	<sjis>
-		�v���X�o���̒�<end_line>
+		プロスバンの町<end_line>
 	</sjis>
 </location>
 <location>
 	<sjis>
-		�v���X�o���̒��@�k��O�H�[�ʂ�<end_line>
+		プロスバンの町　北門前工房通り<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="gatekeeper">
 	<sjis>
-		��H�@�����͂ЂƂ肩���H<end_line>
+		ん？　今日はひとりかい？<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		�Ȃ񂩍ŋ߂̃f�[�g��<end_line>
-		���݂��ɑS�͂łԂ��荇���̂�<end_line>
-		���s�炵��<end_line>
+		なんか最近のデートは<end_line>
+		お互いに全力でぶつかり合うのが<end_line>
+		流行らしい<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		�G�Ɍ������ꂿ�Ⴂ���Ȃ�<end_line>
-		�w��U���͂ƂĂ��L�P���ł�<end_line>
-		�@�@�@�@�@�@�@�@�@�w�������<end_line>
+		敵に後ろを取られちゃいけない<end_line>
+		背後攻撃はとてもキケンです<end_line>
+		　　　　　　　　　背後を守る会<end_line>
 	</sjis>
 </dialogue>

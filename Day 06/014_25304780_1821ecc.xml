@@ -3,12 +3,12 @@
   <portrait_l entry="player" eye="surprised" mouth="stressed">
   <male>
     <sjis>
-      ������A�Ȃ񂾁H<end_line>
+      うわっ、なんだ？<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ������A�Ȃɂ�H<end_line>
+      うわっ、なによ？<end_line>
     </sjis>
   </female>
   <ascii>
@@ -19,7 +19,7 @@
   <info box="simple">
   <portrait_r name="jailer">
   <sjis>
-    <three_dots>����<end_line>
+    <three_dots>ぐぅ<end_line>
   </sjis>
   <ascii>
     <three_dots>Zzz<end_line>
@@ -30,14 +30,14 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <male>
     <sjis>
-      �˂Ă�<three_dots>�H<end_line>
-      <three_dots>�񂾂�ȁH<end_line>
+      ねてる<three_dots>？<end_line>
+      <three_dots>んだよな？<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �˂Ă�<three_dots>�H<end_line>
-      <three_dots>�񂾂�ˁH<end_line>
+      ねてる<three_dots>？<end_line>
+      <three_dots>んだよね？<end_line>
     </sjis>
   </female>
   <ascii>
@@ -49,7 +49,7 @@
   <info box="simple">
   <portrait_r name="jailer">
   <sjis>
-    ����<three_dots><end_line>
+    ぐぅ<three_dots><end_line>
   </sjis>
   <ascii>
     Zzz<three_dots><end_line>
@@ -60,14 +60,14 @@
   <portrait_r entry="player" eye="decided" mouth="yell">
   <male>
     <sjis>
-      �Ƃɂ����A�}���Ȃ�������<end_line>
-      <partner>�A������Ă�I�H<end_line>
+      とにかく、急がなくっちゃ<end_line>
+      <partner>、何やってる！？<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �Ƃɂ����A�}���Ȃ�������<end_line>
-      <partner>�A�����Ă�́I�H<end_line>
+      とにかく、急がなくっちゃ<end_line>
+      <partner>、何してるの！？<end_line>
     </sjis>
   </female>
   <ascii>
@@ -80,9 +80,9 @@
   <info box="simple">
   <portrait_l name="partner">
   <sjis>
-    ���n�@�o�����}�Z��<end_line>
-    �R�`���m�@�J�M�n�@�}�_<end_line>
-    �J�C�e�C�i�C�m�f�X<end_line>
+    私ハ　出ラレマセン<end_line>
+    コチラノ　カギハ　マダ<end_line>
+    開イテイナイノデス<end_line>
   </sjis>
   <ascii>
     I Cannot Get Out.<end_line>
@@ -94,8 +94,8 @@
   <info box="simple">
   <portrait_l name="partner">
   <sjis>
-    ������̃J�M�͊J���ĂȂ��̂���I<end_line>
-    �O�ւ͏o����<end_line>
+    こちらのカギは開いてないのじゃ！<end_line>
+    外へは出られぬ<end_line>
   </sjis>
   <ascii>
     The door won't open!<end_line>
@@ -107,8 +107,8 @@
   <info box="simple">
   <portrait_l name="partner">
   <sjis>
-    �������̃J�M�͊J���ĂȂ��I<end_line>
-    �Ȃ�Ƃ�����I<end_line>
+    こっちのカギは開いてない！<end_line>
+    なんとかしろ！<end_line>
   </sjis>
   <ascii>
     The door won't open!<end_line>
@@ -120,9 +120,9 @@
   <info box="simple">
   <portrait_l name="partner">
   <sjis>
-    ����Ȃ��ƌ����Ă�<end_line>
-    �������̃J�M�͊J���Ă��܂����I<end_line>
-    �Ȃ�Ƃ����Ă��������I<end_line>
+    そんなこと言われても<end_line>
+    こっちのカギは開いていませんわ！<end_line>
+    なんとかしてください！<end_line>
   </sjis>
   <ascii>
     I know,<end_line>
@@ -135,14 +135,14 @@
   <portrait_r entry="player" eye="decided" mouth="serious">
   <male>
     <sjis>
-      �������A�҂��Ă�I<end_line>
-      �I�����J���Ă��I<end_line>
+      そっか、待ってろ！<end_line>
+      オレが開けてやる！<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �������A�҂��ĂāI<end_line>
-      �킽�����J���邩��I<end_line>
+      そっか、待ってて！<end_line>
+      わたしが開けるから！<end_line>
     </sjis>
   </female>
   <ascii>

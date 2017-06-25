@@ -1,19 +1,19 @@
 <location>
   <sjis>
-    ���C�[�Y��<end_line>
+    ルイーズ村<end_line>
   </sjis>
 </location>
 <location>
   <sjis>
-    ���C�[�Y���@��ՑO<end_line>
+    ルイーズ村　遺跡前<end_line>
   </sjis>
 </location>
 <dialogue>
   <info box="simple">
   <portrait_l name="player">
   <sjis>
-    ���͂Ƃɂ���<end_line>
-    �A�j�X��A��Ă��Ȃ��ƁI<end_line>
+    今はとにかく<end_line>
+    アニスを連れてこないと！<end_line>
   </sjis>
   <ascii>
     For now, we have to find Anise!<end_line>
@@ -23,8 +23,8 @@
   <info box="simple">
   <portrait_l name="player">
   <sjis>
-    ���͂Ƃɂ���<end_line>
-    �A�j�X��A��Ă��Ȃ��ƁI<end_line>
+    今はとにかく<end_line>
+    アニスを連れてこないと！<end_line>
   </sjis>
   <ascii>
     For now, we have to find Anise!<end_line>

@@ -2,9 +2,9 @@
   <info box="left">
   <portrait_l entry="player" eye="decided" mouth="yell">
   <sjis>
-    ‚Ü‚Á‚½‚­I<end_line>
-    “Ë‘R‚©‚©‚Á‚Ä‚­‚é‚È‚ñ‚Ä<end_line>
-    ˆê‘Ì‚Ç‚¤‚¢‚¤‚Â‚à‚è<three_dots><end_line>
+    ã¾ã£ãŸãï¼<end_line>
+    çªç„¶ã‹ã‹ã£ã¦ãã‚‹ãªã‚“ã¦<end_line>
+    ä¸€ä½“ã©ã†ã„ã†ã¤ã‚‚ã‚Š<three_dots><end_line>
   </sjis>
   <ascii>
     Geez!<end_line>
@@ -15,9 +15,9 @@
   <info box="left">
   <portrait_l entry="player" eye="surprised" mouth="stressed">
   <sjis>
-    ‚¦IH<end_line>
-    ‚±‚ê<three_dots><end_line>
-    ‚Ç‚¤‚¢‚¤‚±‚ÆIH<end_line>
+    ãˆï¼ï¼Ÿ<end_line>
+    ã“ã‚Œ<three_dots><end_line>
+    ã©ã†ã„ã†ã“ã¨ï¼ï¼Ÿ<end_line>
   </sjis>
   <ascii>
     Eh!?<end_line>
@@ -31,9 +31,9 @@
   <portrait_l entry="player" eye="surprised" mouth="stressed">
   <portrait_r entry="partner" eye="surprised" mouth="stressed">
   <sjis>
-    Œ»Ý@‚Ä‚¡‚¦ƒTƒ“ƒm‘¶Ýƒ’<end_line>
-    ƒJƒNƒjƒ“ƒfƒLƒ}ƒZƒ“<end_line>
-    ”Þ—ƒn@ÁƒGƒ}ƒVƒ^<end_line>
+    ç¾åœ¨ã€€ã¦ãƒãˆã‚µãƒ³ãƒŽå­˜åœ¨ãƒ²<end_line>
+    ã‚«ã‚¯ãƒ‹ãƒ³ãƒ‡ã‚­ãƒžã‚»ãƒ³<end_line>
+    å½¼å¥³ãƒã€€æ¶ˆã‚¨ãƒžã‚·ã‚¿<end_line>
   </sjis>
   <ascii>
     Presently, I Cannot Confirm<end_line>
@@ -47,7 +47,7 @@
   <portrait_l entry="player" eye="decided" mouth="tense">
   <portrait_r entry="partner" eye="surprised" mouth="stressed">
   <sjis>
-    Á‚¦‚½‚Á‚Ä<three_dots><end_line>
+    æ¶ˆãˆãŸã£ã¦<three_dots><end_line>
   </sjis>
   <ascii>
     Disappeared<three_dots>?<end_line>
@@ -60,12 +60,12 @@
   <portrait_r entry="partner" eye="surprised" mouth="stressed">
   <male>
     <sjis>
-      ‚Ç‚¤‚¢‚¤‚±‚Æ‚¾‚æH<end_line>
+      ã©ã†ã„ã†ã“ã¨ã ã‚ˆï¼Ÿ<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ‚Ç‚¤‚¢‚¤‚±‚ÆH<end_line>
+      ã©ã†ã„ã†ã“ã¨ï¼Ÿ<end_line>
     </sjis>
   </female>
   <ascii>
@@ -78,8 +78,8 @@
   <portrait_l entry="player" eye="decided" mouth="tense">
   <portrait_r entry="partner" eye="serious" mouth="neutral">
   <sjis>
-    ƒRƒmêƒJƒ‰@ƒCƒiƒNƒiƒbƒ^<end_line>
-    ƒgƒCƒEƒRƒgƒfƒX<end_line>
+    ã‚³ãƒŽå ´ã‚«ãƒ©ã€€ã‚¤ãƒŠã‚¯ãƒŠãƒƒã‚¿<end_line>
+    ãƒˆã‚¤ã‚¦ã‚³ãƒˆãƒ‡ã‚¹<end_line>
   </sjis>
   <ascii>
     Disappear.<end_line>
@@ -92,7 +92,7 @@
   <portrait_l entry="player" eye="happy" mouth="yell">
   <portrait_r entry="partner" eye="serious" mouth="neutral">
   <sjis>
-    ‚¶‚á‚È‚­‚ÄI<end_line>
+    ã˜ã‚ƒãªãã¦ï¼<end_line>
   </sjis>
   <ascii>
     That's not what I meant!<end_line>
@@ -105,12 +105,12 @@
   <portrait_r entry="partner" eye="serious" mouth="neutral">
   <male>
     <sjis>
-      ‚Ç‚¤‚â‚Á‚ÄÁ‚¦‚½‚ñ‚¾‚æH<end_line>
+      ã©ã†ã‚„ã£ã¦æ¶ˆãˆãŸã‚“ã ã‚ˆï¼Ÿ<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ‚Ç‚¤‚â‚Á‚ÄÁ‚¦‚½‚ÌH<end_line>
+      ã©ã†ã‚„ã£ã¦æ¶ˆãˆãŸã®ï¼Ÿ<end_line>
     </sjis>
   </female>
   <ascii>
@@ -123,7 +123,7 @@
   <portrait_l entry="player" eye="happy" mouth="yell">
   <portrait_r entry="partner" eye="serious" mouth="neutral">
   <sjis>
-    •s–¾ƒfƒX<end_line>
+    ä¸æ˜Žãƒ‡ã‚¹<end_line>
   </sjis>
   <ascii>
     Unknown.<end_line>
@@ -135,8 +135,8 @@
   <portrait_l entry="player" eye="happy" mouth="yell">
   <portrait_r entry="partner" eye="serious" mouth="neutral">
   <sjis>
-    ƒ\ƒŒƒˆƒŠƒ‚@‹}ƒMƒ}ƒVƒ‡ƒE<end_line>
-    ‚Ý‚ã[‚Ì—lƒK@S”zƒfƒX<end_line>
+    ã‚½ãƒ¬ãƒ¨ãƒªãƒ¢ã€€æ€¥ã‚®ãƒžã‚·ãƒ§ã‚¦<end_line>
+    ã¿ã‚…ãƒ¼ã®æ§˜ã‚¬ã€€å¿ƒé…ãƒ‡ã‚¹<end_line>
   </sjis>
   <ascii>
     I Am Concerned About Lady Murno.<end_line>
@@ -149,9 +149,9 @@
   <portrait_l entry="player" eye="surprised" mouth="stressed">
   <portrait_r entry="partner" eye="surprised" mouth="stressed">
   <sjis>
-    Á‚¦‚½<three_dots><end_line>
-    ‚·‚Å‚É‚ ‚Ì–º‚Ì‹C”z‚Í<end_line>
-    ‚Ç‚±‚É‚à‚È‚¢‚Ì<three_dots><end_line>
+    æ¶ˆãˆãŸ<three_dots><end_line>
+    ã™ã§ã«ã‚ã®å¨˜ã®æ°—é…ã¯<end_line>
+    ã©ã“ã«ã‚‚ãªã„ã®<three_dots><end_line>
   </sjis>
   <ascii>
     She's gone<three_dots><end_line>
@@ -166,14 +166,14 @@
   <portrait_r entry="partner" eye="surprised" mouth="stressed">
   <male>
     <sjis>
-      <three_dots>‚Á‚ÄA‚È‚ñ‚¾‚æ‚»‚êIH<end_line>
-      l‚ªÁ‚¦‚é‚í‚¯‚È‚¢‚¾‚ëH<end_line>
+      <three_dots>ã£ã¦ã€ãªã‚“ã ã‚ˆãã‚Œï¼ï¼Ÿ<end_line>
+      äººãŒæ¶ˆãˆã‚‹ã‚ã‘ãªã„ã ã‚ï¼Ÿ<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      <three_dots>‚Á‚ÄA‚È‚É‚æ‚»‚êIH<end_line>
-      l‚ªÁ‚¦‚é‚í‚¯‚È‚¢‚Å‚µ‚åH<end_line>
+      <three_dots>ã£ã¦ã€ãªã«ã‚ˆãã‚Œï¼ï¼Ÿ<end_line>
+      äººãŒæ¶ˆãˆã‚‹ã‚ã‘ãªã„ã§ã—ã‚‡ï¼Ÿ<end_line>
     </sjis>
   </female>
   <ascii>
@@ -187,9 +187,9 @@
   <portrait_l entry="player" eye="decided" mouth="tense">
   <portrait_r entry="partner" eye="decided" mouth="tense">
   <sjis>
-    ‚»‚¤‚¶‚á‚Ì<end_line>
-    Á‚¦‚é‚í‚¯‚Í‚È‚¢<end_line>
-    l‚È‚ç‚ÎA‚Ì<end_line>
+    ãã†ã˜ã‚ƒã®<end_line>
+    æ¶ˆãˆã‚‹ã‚ã‘ã¯ãªã„<end_line>
+    äººãªã‚‰ã°ã€ã®<end_line>
   </sjis>
   <ascii>
     That's right.<end_line>
@@ -204,16 +204,16 @@
   <portrait_r entry="partner" eye="decided" mouth="tense">
   <male>
     <sjis>
-      ‚È‚ñ‚¾‚æA‚à‚µ‚©‚µ‚Ä<three_dots><end_line>
-      ‚³‚Á‚«‚ÌƒeƒBƒG‚Í<end_line>
-      l‚¶‚á‚È‚¢‚Á‚Ä<three_dots><end_line>
+      ãªã‚“ã ã‚ˆã€ã‚‚ã—ã‹ã—ã¦<three_dots><end_line>
+      ã•ã£ãã®ãƒ†ã‚£ã‚¨ã¯<end_line>
+      äººã˜ã‚ƒãªã„ã£ã¦<three_dots><end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ‚È‚É‚æA‚¶‚á‚ A‚à‚µ‚©‚µ‚Ä<three_dots><end_line>
-      ‚³‚Á‚«‚ÌƒeƒBƒG‚Í<end_line>
-      l‚¶‚á‚È‚¢‚Á‚Ä<three_dots><end_line>
+      ãªã«ã‚ˆã€ã˜ã‚ƒã‚ã€ã‚‚ã—ã‹ã—ã¦<three_dots><end_line>
+      ã•ã£ãã®ãƒ†ã‚£ã‚¨ã¯<end_line>
+      äººã˜ã‚ƒãªã„ã£ã¦<three_dots><end_line>
     </sjis>
   </female>
   <ascii>
@@ -228,7 +228,7 @@
   <portrait_l entry="player" eye="surprised" mouth="stressed">
   <portrait_r entry="partner" eye="decided" mouth="tense">
   <sjis>
-    ‚¤‚»‚ÁIH<end_line>
+    ã†ãã£ï¼ï¼Ÿ<end_line>
   </sjis>
   <ascii>
     No way!<end_line>
@@ -240,9 +240,9 @@
   <portrait_l entry="player" eye="surprised" mouth="stressed">
   <portrait_r entry="partner" eye="decided" mouth="yell">
   <sjis>
-    ¡‚ÍƒƒKƒnƒC‚É‚à‚í‚©‚ç‚ñ‚Ì<end_line>
-    ‚Æ‚É‚©‚­¡‚Íæ‚Öi‚Þ‚¼<end_line>
-    ƒ~ƒ…[ƒm‚ªS”z‚¶‚á<end_line>
+    ä»Šã¯ãƒ¯ã‚¬ãƒã‚¤ã«ã‚‚ã‚ã‹ã‚‰ã‚“ã®<end_line>
+    ã¨ã«ã‹ãä»Šã¯å…ˆã¸é€²ã‚€ãž<end_line>
+    ãƒŸãƒ¥ãƒ¼ãƒŽãŒå¿ƒé…ã˜ã‚ƒ<end_line>
   </sjis>
   <ascii>
     I don't understand either.<end_line>
@@ -256,8 +256,8 @@
   <portrait_l entry="player" eye="surprised" mouth="stressed">
   <portrait_r entry="partner" eye="surprised" mouth="stressed">
   <sjis>
-    Á‚¦‚½<end_line>
-    ‚ ‚Æ‚©‚½‚à‚È‚­<end_line>
+    æ¶ˆãˆãŸ<end_line>
+    ã‚ã¨ã‹ãŸã‚‚ãªã<end_line>
   </sjis>
   <ascii>
     She's gone.<end_line>
@@ -271,14 +271,14 @@
   <portrait_r entry="partner" eye="surprised" mouth="stressed">
   <male>
     <sjis>
-      <three_dots>‚Á‚ÄA‚È‚ñ‚¾‚æ‚»‚êIH<end_line>
-      l‚ªÁ‚¦‚é‚í‚¯‚È‚¢‚¾‚ëH<end_line>
+      <three_dots>ã£ã¦ã€ãªã‚“ã ã‚ˆãã‚Œï¼ï¼Ÿ<end_line>
+      äººãŒæ¶ˆãˆã‚‹ã‚ã‘ãªã„ã ã‚ï¼Ÿ<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      <three_dots>‚Á‚ÄA‚È‚É‚æ‚»‚êIH<end_line>
-      l‚ªÁ‚¦‚é‚í‚¯‚È‚¢‚Å‚µ‚åH<end_line>
+      <three_dots>ã£ã¦ã€ãªã«ã‚ˆãã‚Œï¼ï¼Ÿ<end_line>
+      äººãŒæ¶ˆãˆã‚‹ã‚ã‘ãªã„ã§ã—ã‚‡ï¼Ÿ<end_line>
     </sjis>
   </female>
   <ascii>
@@ -292,8 +292,8 @@
   <portrait_l entry="player" eye="decided" mouth="tense">
   <portrait_r entry="partner" eye="special" mouth="talk">
   <sjis>
-    ‚»‚¤‚¾<end_line>
-    l‚È‚ç‚ÎAÁ‚¦‚È‚¢<end_line>
+    ãã†ã <end_line>
+    äººãªã‚‰ã°ã€æ¶ˆãˆãªã„<end_line>
   </sjis>
   <ascii>
     You're right.<end_line>
@@ -307,16 +307,16 @@
   <portrait_r entry="partner" eye="special" mouth="talk">
   <male>
     <sjis>
-      ‚È‚ñ‚¾‚æA‚à‚µ‚©‚µ‚Ä<three_dots><end_line>
-      ‚³‚Á‚«‚ÌƒeƒBƒG‚Í<end_line>
-      l‚¶‚á‚È‚¢‚Á‚Ä<three_dots><end_line>
+      ãªã‚“ã ã‚ˆã€ã‚‚ã—ã‹ã—ã¦<three_dots><end_line>
+      ã•ã£ãã®ãƒ†ã‚£ã‚¨ã¯<end_line>
+      äººã˜ã‚ƒãªã„ã£ã¦<three_dots><end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ‚È‚É‚æA‚¶‚á‚ A‚à‚µ‚©‚µ‚Ä<three_dots><end_line>
-      ‚³‚Á‚«‚ÌƒeƒBƒG‚Í<end_line>
-      l‚¶‚á‚È‚¢‚Á‚Ä<three_dots><end_line>
+      ãªã«ã‚ˆã€ã˜ã‚ƒã‚ã€ã‚‚ã—ã‹ã—ã¦<three_dots><end_line>
+      ã•ã£ãã®ãƒ†ã‚£ã‚¨ã¯<end_line>
+      äººã˜ã‚ƒãªã„ã£ã¦<three_dots><end_line>
     </sjis>
   </female>
   <ascii>
@@ -331,7 +331,7 @@
   <portrait_l entry="player" eye="surprised" mouth="stressed">
   <portrait_r entry="partner" eye="special" mouth="talk">
   <sjis>
-    ‚¤‚»‚ÁIH<end_line>
+    ã†ãã£ï¼ï¼Ÿ<end_line>
   </sjis>
   <ascii>
     No way!<end_line>
@@ -343,9 +343,9 @@
   <portrait_l entry="player" eye="surprised" mouth="stressed">
   <portrait_r entry="partner" eye="decided" mouth="tense">
   <sjis>
-    ¡‚Í‚»‚ñ‚È‚±‚Æl‚¦‚Ä‚¢‚éê‡‚©<end_line>
-    ƒ~ƒ…[ƒm‚ð‚³‚ª‚·•û‚ª<end_line>
-    d—v‚¾‚ë‚¤<end_line>
+    ä»Šã¯ãã‚“ãªã“ã¨è€ƒãˆã¦ã„ã‚‹å ´åˆã‹<end_line>
+    ãƒŸãƒ¥ãƒ¼ãƒŽã‚’ã•ãŒã™æ–¹ãŒ<end_line>
+    é‡è¦ã ã‚ã†<end_line>
   </sjis>
   <ascii>
     Now isn't the time.<end_line>
@@ -358,8 +358,8 @@
   <portrait_l entry="player" eye="surprised" mouth="stressed">
   <portrait_r entry="partner" eye="decided" mouth="tense">
   <sjis>
-    ‚«‚ÁAÁ‚¦‚¿‚á‚¢‚Ü‚µ‚½‚íIH<end_line>
-    ‚Ç‚¤‚¢‚¤‚±‚Æ‚Å‚·‚ÌIH<end_line>
+    ãã£ã€æ¶ˆãˆã¡ã‚ƒã„ã¾ã—ãŸã‚ï¼ï¼Ÿ<end_line>
+    ã©ã†ã„ã†ã“ã¨ã§ã™ã®ï¼ï¼Ÿ<end_line>
   </sjis>
   <ascii>
     S-she disappeared!?<end_line>
@@ -373,14 +373,14 @@
   <portrait_r entry="partner" eye="decided" mouth="tense">
   <male>
     <sjis>
-      ƒIƒŒ‚ª•·‚¢‚Ä‚é‚ñ‚¾‚Á‚ÄI<end_line>
-      –‚–@‚Æ‚©‚¶‚á‚È‚¢‚Ì‚©‚æH<end_line>
+      ã‚ªãƒ¬ãŒèžã„ã¦ã‚‹ã‚“ã ã£ã¦ï¼<end_line>
+      é­”æ³•ã¨ã‹ã˜ã‚ƒãªã„ã®ã‹ã‚ˆï¼Ÿ<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ‚í‚½‚µ‚ª•·‚¢‚Ä‚é‚ñ‚¾‚¯‚Ç<three_dots><end_line>
-      –‚–@‚Æ‚©‚¶‚á‚È‚¢‚ÌH<end_line>
+      ã‚ãŸã—ãŒèžã„ã¦ã‚‹ã‚“ã ã‘ã©<three_dots><end_line>
+      é­”æ³•ã¨ã‹ã˜ã‚ƒãªã„ã®ï¼Ÿ<end_line>
     </sjis>
   </female>
   <ascii>
@@ -394,9 +394,9 @@
   <portrait_l entry="player" eye="happy" mouth="stressed">
   <portrait_r entry="partner" eye="decided" mouth="yell">
   <sjis>
-    –‚–@IH<end_line>
-    ‚«A‚«‚Á‚Æ‚»‚¤‚Å‚·‚íI<end_line>
-    ƒIƒoƒP‚Æ‚©‚¶‚á‚È‚¢‚Å‚·‚íI<end_line>
+    é­”æ³•ï¼ï¼Ÿ<end_line>
+    ãã€ãã£ã¨ãã†ã§ã™ã‚ï¼<end_line>
+    ã‚ªãƒã‚±ã¨ã‹ã˜ã‚ƒãªã„ã§ã™ã‚ï¼<end_line>
   </sjis>
   <ascii>
     Magic!?<end_line>
@@ -411,14 +411,14 @@
   <portrait_r entry="partner" eye="decided" mouth="yell">
   <male>
     <sjis>
-      ‚¾‚Æ‚¢‚¢‚¯‚Ç‚È<three_dots><end_line>
-      ‚à‚µ‚©‚µ‚Ä<three_dots><end_line>
+      ã ã¨ã„ã„ã‘ã©ãª<three_dots><end_line>
+      ã‚‚ã—ã‹ã—ã¦<three_dots><end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ‚¾‚Æ‚¢‚¢‚¯‚Ç<three_dots><end_line>
-      ‚à‚µ‚©‚·‚é‚Æ<three_dots><end_line>
+      ã ã¨ã„ã„ã‘ã©<three_dots><end_line>
+      ã‚‚ã—ã‹ã™ã‚‹ã¨<three_dots><end_line>
     </sjis>
   </female>
   <ascii>
@@ -432,8 +432,8 @@
   <portrait_l entry="player" eye="decided" mouth="tense">
   <portrait_r entry="partner" eye="happy" mouth="yell">
   <sjis>
-    ‚±‚±‚±AƒRƒ‚ª‚ç‚¹‚æ‚¤‚Æ‚µ‚Ä‚à<end_line>
-    ‚»‚¤‚Í‚¢‚«‚Ü‚¹‚ñ‚æI<end_line>
+    ã“ã“ã“ã€ã‚³ãƒ¯ãŒã‚‰ã›ã‚ˆã†ã¨ã—ã¦ã‚‚<end_line>
+    ãã†ã¯ã„ãã¾ã›ã‚“ã‚ˆï¼<end_line>
   </sjis>
   <ascii>
     E-e-e-even if you try to scare me,<end_line>
@@ -446,8 +446,8 @@
   <portrait_l entry="player" eye="decided" mouth="tense">
   <portrait_r entry="partner" eye="decided" mouth="serious">
   <sjis>
-    ‚»‚ê‚æ‚è¡‚Íƒ~ƒ…[ƒm—l‚Å‚·<end_line>
-    ‘‚­‚³‚ª‚³‚È‚¢‚Æ<end_line>
+    ãã‚Œã‚ˆã‚Šä»Šã¯ãƒŸãƒ¥ãƒ¼ãƒŽæ§˜ã§ã™<end_line>
+    æ—©ãã•ãŒã•ãªã„ã¨<end_line>
   </sjis>
   <ascii>
     Anyway, Lady Murno is more important.<end_line>
@@ -460,12 +460,12 @@
   <portrait_r entry="partner" eye="decided" mouth="serious">
   <male>
     <sjis>
-      ‚»A‚»‚¤‚¾‚Á‚½I<end_line>
+      ãã€ãã†ã ã£ãŸï¼<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ‚»A‚»‚¤‚¾‚ËI<end_line>
+      ãã€ãã†ã ã­ï¼<end_line>
     </sjis>
   </female>
   <ascii>
@@ -477,7 +477,7 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="partner" eye="decided" mouth="serious">
   <sjis>
-    ‹}‚²‚¤I<end_line>
+    æ€¥ã”ã†ï¼<end_line>
   </sjis>
   <ascii>
     Let's go!<end_line>

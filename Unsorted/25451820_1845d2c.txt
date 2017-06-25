@@ -4,7 +4,7 @@
 	<portrait_l entry="player" eye="serious" mouth="tense">
 	<portrait_r entry="partner" eye="surprised" mouth="serious">
 	<sjis>
-		ƒAƒŒƒnI<end_line>
+		ã‚¢ãƒ¬ãƒï¼<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -13,7 +13,7 @@
 	<portrait_l entry="player" eye="serious" mouth="tense">
 	<portrait_r entry="partner" eye="surprised" mouth="serious">
 	<sjis>
-		‚ ‚â‚ÂI<end_line>
+		ã‚ã‚„ã¤ï¼<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -22,7 +22,7 @@
 	<portrait_l entry="player" eye="serious" mouth="tense">
 	<portrait_r entry="partner" eye="surprised" mouth="serious">
 	<sjis>
-		‚ ‚¢‚ÂI<end_line>
+		ã‚ã„ã¤ï¼<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -31,7 +31,7 @@
 	<portrait_l entry="player" eye="serious" mouth="tense">
 	<portrait_r entry="partner" eye="surprised" mouth="serious">
 	<sjis>
-		‚ ‚ê‚ÍI<end_line>
+		ã‚ã‚Œã¯ï¼<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -40,12 +40,12 @@
 	<portrait_r entry="partner" eye="surprised" mouth="serious">
 	<male>
 		<sjis>
-			‚³‚Á‚«‚Ìƒ„ƒc‚¾I<end_line>
+			ã•ã£ãã®ãƒ¤ãƒ„ã ï¼<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			‚³‚Á‚«‚Ì¢Š«bI<end_line>
+			ã•ã£ãã®å¬å–šç£ï¼<end_line>
 		</sjis>
 	</female>
 </dialogue>

@@ -1,14 +1,14 @@
 <location>
 	<sjis>
-		�f�B�b�N�����@�w<end_line>
+		ディックル村　駅<end_line>
 	</sjis>
 </location>
 ###SummonRail
 <dialogue>
 	<info box="simple">
 	<sjis>
-		�����b�g���b�R�ɏ�Ԃ̍ۂɂ�<end_line>
-		�����ɏ\�������Ӊ�����<end_line>
+		召喚獣トロッコに乗車の際には<end_line>
+		足下に十分ご注意下さい<end_line>
 	</sjis>
   <ascii>
     Please watch your feet when<end_line>
@@ -20,9 +20,9 @@
 	<info box="simple">
 	<portrait_l name="elderly">
 	<sjis>
-		�ߍ��̎Ⴂ���c�͂Ȃ��Ƃ��<end_line>
-		���`�`�Ȃ��Ƃ��<end_line>
-		�ƌ�������Ȃ��Ƃ��<end_line>
+		近頃の若いヤツはなっとらん<end_line>
+		あ～～なっとらん<end_line>
+		と言ったらなっとらん<end_line>
 	</sjis>
   <ascii>
     Youngsters these days are no good.<end_line>

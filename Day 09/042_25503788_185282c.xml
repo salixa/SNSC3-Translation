@@ -3,7 +3,7 @@
   <portrait_l entry="vee" eye="decided" mouth="stressed">
   <portrait_r entry="player" eye="decided" mouth="yell">
   <sjis>
-    e•ûI<end_line>
+    è¦ªæ–¹ï¼<end_line>
   </sjis>
   <ascii>
     Master!<end_line>
@@ -14,9 +14,9 @@
   <portrait_l entry="vee" eye="decided" mouth="yell">
   <portrait_r entry="player" eye="decided" mouth="yell">
   <sjis>
-    <player_nickname>I<end_line>
-    ‹C‚ð‚Â‚¯‚È<end_line>
-    ‚±‚Ì¢Š«b‚Í<three_dots><end_line>
+    <player_nickname>ï¼<end_line>
+    æ°—ã‚’ã¤ã‘ãª<end_line>
+    ã“ã®å¬å–šç£ã¯<three_dots><end_line>
   </sjis>
   <ascii>
     <player_nickname>!<end_line>
@@ -29,7 +29,7 @@
   <info box="right">
   <portrait_r entry="partner" eye="decided" mouth="yell">
   <sjis>
-    —ˆƒ}ƒXI<end_line>
+    æ¥ãƒžã‚¹ï¼<end_line>
   </sjis>
   <ascii>
     It Is Coming!<end_line>
@@ -40,7 +40,7 @@
   <info box="right">
   <portrait_r entry="partner" eye="decided" mouth="yell">
   <sjis>
-    ‚­‚é‚¼I<end_line>
+    ãã‚‹ãžï¼<end_line>
   </sjis>
   <ascii>
     It's coming!<end_line>
@@ -51,7 +51,7 @@
   <info box="right">
   <portrait_r entry="partner" eye="decided" mouth="yell">
   <sjis>
-    ‚«‚½I<end_line>
+    ããŸï¼<end_line>
   </sjis>
   <ascii>
     It's here!<end_line>
@@ -62,7 +62,7 @@
   <info box="right">
   <portrait_r entry="partner" eye="decided" mouth="yell">
   <sjis>
-    ‚±A‚±‚Á‚¿‚É‚«‚Ü‚µ‚½‚íI<end_line>
+    ã“ã€ã“ã£ã¡ã«ãã¾ã—ãŸã‚ï¼<end_line>
   </sjis>
   <ascii>
     I-it's heading this way!<end_line>
@@ -73,12 +73,12 @@
   <portrait_r entry="player" eye="decided" mouth="yell">
   <male>
     <sjis>
-      s‚­‚¼I<end_line>
+      è¡Œããžï¼<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      s‚­‚æI<end_line>
+      è¡Œãã‚ˆï¼<end_line>
     </sjis>
   </female>
   <ascii>

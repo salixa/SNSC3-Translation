@@ -3,8 +3,8 @@
   <info box="right">
   <portrait_r entry="partner" eye="sad" mouth="serious">
   <sjis>
-    ƒRƒm•”‰®ƒn@”g“®ƒK<end_line>
-    ‹­ƒNƒiƒbƒeƒCƒ}ƒX<end_line>
+    ã‚³ãƒŽéƒ¨å±‹ãƒã€€æ³¢å‹•ã‚¬<end_line>
+    å¼·ã‚¯ãƒŠãƒƒãƒ†ã‚¤ãƒžã‚¹<end_line>
   </sjis>
   <ascii>
     The Signal Has Become Stronger.<end_line>
@@ -15,8 +15,8 @@
   <info box="right">
   <portrait_r entry="partner" eye="sad" mouth="serious">
   <sjis>
-    ‚Þ‚Þ<three_dots><end_line>
-    ƒCƒ„‚È‹C‚ª‘‚µ‚½‚Ì‚§<three_dots><end_line>
+    ã‚€ã‚€<three_dots><end_line>
+    ã‚¤ãƒ¤ãªæ°—ãŒå¢—ã—ãŸã®ã‰<three_dots><end_line>
   </sjis>
   <ascii>
     Mmm<three_dots><end_line>
@@ -28,9 +28,9 @@
   <info box="right">
   <portrait_r entry="partner" eye="sad" mouth="serious">
   <sjis>
-    ‚¿‚Á<three_dots><end_line>
-    ‚±‚Ì•”‰®A‚¢‚Ü‚Ü‚Å‚æ‚è<end_line>
-    ƒCƒ„‚ÈŠ´‚¶‚ª‹­‚¢<end_line>
+    ã¡ã£<three_dots><end_line>
+    ã“ã®éƒ¨å±‹ã€ã„ã¾ã¾ã§ã‚ˆã‚Š<end_line>
+    ã‚¤ãƒ¤ãªæ„Ÿã˜ãŒå¼·ã„<end_line>
   </sjis>
   <ascii>
     Tch<three_dots><end_line>
@@ -42,9 +42,9 @@
   <info box="right">
   <portrait_r entry="partner" eye="sad" mouth="serious">
   <sjis>
-    ‚¤‚¤<three_dots><end_line>
-    ‚È‚ñ‚¾‚©‚±‚Ì•”‰®<end_line>
-    ƒCƒ„‚ÈŠ´‚¶‚ª‚µ‚Ü‚·‚í<three_dots><end_line>
+    ã†ã†<three_dots><end_line>
+    ãªã‚“ã ã‹ã“ã®éƒ¨å±‹<end_line>
+    ã‚¤ãƒ¤ãªæ„Ÿã˜ãŒã—ã¾ã™ã‚<three_dots><end_line>
   </sjis>
   <ascii>
     Uu<three_dots><end_line>
@@ -55,8 +55,8 @@
   <info box="right">
   <portrait_r entry="player" eye="decided" mouth="tense">
   <sjis>
-    ‚ ‚ê<three_dots><end_line>
-    ƒ~ƒ…[ƒm‚ª‚³‚ª‚µ‚Ä‚½<end_line>
+    ã‚ã‚Œ<three_dots><end_line>
+    ãƒŸãƒ¥ãƒ¼ãƒŽãŒã•ãŒã—ã¦ãŸ<end_line>
   </sjis>
   <ascii>
     Huh<three_dots><end_line>
@@ -67,7 +67,7 @@
   <info box="simple">
   <portrait_l name="magdrad">
   <sjis>
-    ƒOƒ‹ƒ‹<three_dots><end_line>
+    ã‚°ãƒ«ãƒ«<three_dots><end_line>
   </sjis>
   <ascii>
     Grr<three_dots><end_line>
@@ -78,14 +78,14 @@
   <portrait_r entry="player" eye="decided" mouth="serious">
   <male>
     <sjis>
-      ƒ}ƒOƒhƒ‰ƒh‚¾<three_dots><end_line>
-      ‚â‚Á‚ÏAƒXƒQƒF‚È<three_dots><end_line>
+      ãƒžã‚°ãƒ‰ãƒ©ãƒ‰ã <three_dots><end_line>
+      ã‚„ã£ã±ã€ã‚¹ã‚²ã‚§ãª<three_dots><end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ƒ}ƒOƒhƒ‰ƒh‚¾‚æ‚Ë<three_dots><end_line>
-      ‚â‚Á‚Ï‚èAƒXƒSƒC<three_dots><end_line>
+      ãƒžã‚°ãƒ‰ãƒ©ãƒ‰ã ã‚ˆã­<three_dots><end_line>
+      ã‚„ã£ã±ã‚Šã€ã‚¹ã‚´ã‚¤<three_dots><end_line>
     </sjis>
   </female>
   <ascii>
@@ -98,8 +98,8 @@
   <info box="right">
   <portrait_r entry="partner" eye="surprised" mouth="yell">
   <sjis>
-    ƒLƒPƒ“ƒfƒXI@‚Ý‚ã[‚Ì—lI<end_line>
-    ‰ºƒKƒbƒeƒNƒ_ƒTƒC<end_line>
+    ã‚­ã‚±ãƒ³ãƒ‡ã‚¹ï¼ã€€ã¿ã‚…ãƒ¼ã®æ§˜ï¼<end_line>
+    ä¸‹ã‚¬ãƒƒãƒ†ã‚¯ãƒ€ã‚µã‚¤<end_line>
   </sjis>
   <ascii>
     Danger! Lady Murno!<end_line>
@@ -111,8 +111,8 @@
   <info box="right">
   <portrait_r entry="partner" eye="surprised" mouth="yell">
   <sjis>
-    ‰º‚ª‚é‚ñ‚¶‚áAƒ~ƒ…[ƒmI<end_line>
-    ƒLƒPƒ“‚¶‚á‚¼I<end_line>
+    ä¸‹ãŒã‚‹ã‚“ã˜ã‚ƒã€ãƒŸãƒ¥ãƒ¼ãƒŽï¼<end_line>
+    ã‚­ã‚±ãƒ³ã˜ã‚ƒãžï¼<end_line>
   </sjis>
   <ascii>
     Get back, Murno!<end_line>
@@ -124,8 +124,8 @@
   <info box="right">
   <portrait_r entry="partner" eye="surprised" mouth="yell">
   <sjis>
-    ‚¨‘O<three_dots>I<end_line>
-    ‰½‚â‚Á‚Ä‚éA‰º‚ª‚ê<three_dots>I<end_line>
+    ãŠå‰<three_dots>ï¼<end_line>
+    ä½•ã‚„ã£ã¦ã‚‹ã€ä¸‹ãŒã‚Œ<three_dots>ï¼<end_line>
   </sjis>
   <ascii>
     You<three_dots>!<end_line>
@@ -137,8 +137,8 @@
   <info box="right">
   <portrait_r entry="partner" eye="surprised" mouth="yell">
   <sjis>
-    ‚ ‚Ô‚È‚¢I@ƒ~ƒ…[ƒm—lI<end_line>
-    “¦‚°‚Ä‚­‚¾‚³‚¢I<end_line>
+    ã‚ã¶ãªã„ï¼ã€€ãƒŸãƒ¥ãƒ¼ãƒŽæ§˜ï¼<end_line>
+    é€ƒã’ã¦ãã ã•ã„ï¼<end_line>
   </sjis>
   <ascii>
     Oh no! Lady Murno!<end_line>
@@ -149,9 +149,9 @@
   <info box="left">
   <portrait_l entry="murno" eye="serious" mouth="talk">
   <sjis>
-    ‘åä•v‚æ<end_line>
-    ‚¿‚å‚Á‚ÆƒRƒƒC‚¯‚Ç<end_line>
-    ‚±‚ÌŽqA‚¨‚Æ‚È‚µ‚¢‚Á‚Ä<three_dots><end_line>
+    å¤§ä¸ˆå¤«ã‚ˆ<end_line>
+    ã¡ã‚‡ã£ã¨ã‚³ãƒ¯ã‚¤ã‘ã©<end_line>
+    ã“ã®å­ã€ãŠã¨ãªã—ã„ã£ã¦<three_dots><end_line>
   </sjis>
   <ascii>
     It's okay.<end_line>
@@ -164,7 +164,7 @@
   <portrait_l entry="murno" eye="serious" mouth="talk">
   <portrait_r entry="player" eye="decided" mouth="tense">
   <sjis>
-    ƒzƒ“ƒg‚É<three_dots>H<end_line>
+    ãƒ›ãƒ³ãƒˆã«<three_dots>ï¼Ÿ<end_line>
   </sjis>
   <ascii>
     Really<three_dots>?<end_line>
@@ -175,9 +175,9 @@
   <portrait_l entry="tram" eye="serious" mouth="neutral">
   <portrait_r entry="player" eye="decided" mouth="tense">
   <sjis>
-    –{“–‚Å‚·‚æ<end_line>
-    ¢Š«Žå‚ª–½—ß‚µ‚È‚¢ŒÀ‚è<end_line>
-    –\‚êo‚·‚±‚Æ‚Í‚ ‚è‚Ü‚¹‚ñ<end_line>
+    æœ¬å½“ã§ã™ã‚ˆ<end_line>
+    å¬å–šä¸»ãŒå‘½ä»¤ã—ãªã„é™ã‚Š<end_line>
+    æš´ã‚Œå‡ºã™ã“ã¨ã¯ã‚ã‚Šã¾ã›ã‚“<end_line>
   </sjis>
   <ascii>
     Yes.<end_line>
@@ -190,7 +190,7 @@
   <portrait_l entry="tram" eye="decided" mouth="talk">
   <portrait_r entry="player" eye="decided" mouth="tense">
   <sjis>
-    ‚à‚µ‚©‚µ‚ÄA•|‚¢‚ñ‚Å‚·‚©H<end_line>
+    ã‚‚ã—ã‹ã—ã¦ã€æ€–ã„ã‚“ã§ã™ã‹ï¼Ÿ<end_line>
   </sjis>
   <ascii>
     Are you afraid?<end_line>
@@ -202,14 +202,14 @@
   <portrait_r entry="player" eye="decided" mouth="yell">
   <male>
     <sjis>
-      ‚È‚ñ‚¾‚ÆIH<end_line>
-      ‚»‚ñ‚ÈƒƒP‚ ‚é‚©I<end_line>
+      ãªã‚“ã ã¨ï¼ï¼Ÿ<end_line>
+      ãã‚“ãªãƒ¯ã‚±ã‚ã‚‹ã‹ï¼<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ‚È‚É‚æIH<end_line>
-      ‚»‚ñ‚È‚±‚Æ‚È‚¢‚í‚æI<end_line>
+      ãªã«ã‚ˆï¼ï¼Ÿ<end_line>
+      ãã‚“ãªã“ã¨ãªã„ã‚ã‚ˆï¼<end_line>
     </sjis>
   </female>
   <ascii>
@@ -223,8 +223,8 @@
   <portrait_l entry="player" eye="decided" mouth="tense">
   <portrait_r entry="partner" eye="surprised" mouth="tense">
   <sjis>
-    ƒfƒn@Ž„ƒ^ƒ`ƒ‚@‚Ý‚ã[‚Ì—lƒm<end_line>
-    ƒIŽè“`ƒCƒ’@ƒVƒ}ƒVƒ‡ƒE<end_line>
+    ãƒ‡ãƒã€€ç§ã‚¿ãƒãƒ¢ã€€ã¿ã‚…ãƒ¼ã®æ§˜ãƒŽ<end_line>
+    ã‚ªæ‰‹ä¼ã‚¤ãƒ²ã€€ã‚·ãƒžã‚·ãƒ§ã‚¦<end_line>
   </sjis>
   <ascii>
     Let Us Assist Lady Murno As Well.<end_line>
@@ -236,8 +236,8 @@
   <portrait_l entry="player" eye="decided" mouth="tense">
   <portrait_r entry="partner" eye="surprised" mouth="tense">
   <sjis>
-    ‚Å‚Í‘‚­<end_line>
-    ƒ~ƒ…[ƒm‚ðŽè“`‚¢‚És‚©‚ñ‚©<end_line>
+    ã§ã¯æ—©ã<end_line>
+    ãƒŸãƒ¥ãƒ¼ãƒŽã‚’æ‰‹ä¼ã„ã«è¡Œã‹ã‚“ã‹<end_line>
   </sjis>
   <ascii>
     Let's hurry and lend her a hand.<end_line>
@@ -249,8 +249,8 @@
   <portrait_l entry="player" eye="decided" mouth="tense">
   <portrait_r entry="partner" eye="surprised" mouth="tense">
   <sjis>
-    ‚¶‚á‚ ƒTƒbƒT‚Æ<end_line>
-    ‚ ‚¢‚Â‚ÌŽè“`‚¢‚És‚¯<end_line>
+    ã˜ã‚ƒã‚ã‚µãƒƒã‚µã¨<end_line>
+    ã‚ã„ã¤ã®æ‰‹ä¼ã„ã«è¡Œã‘<end_line>
   </sjis>
   <ascii>
     Then hurry up and go help her.<end_line>
@@ -262,8 +262,8 @@
   <portrait_l entry="player" eye="decided" mouth="tense">
   <portrait_r entry="partner" eye="surprised" mouth="tense">
   <sjis>
-    ‚»A‚»‚¤‚Å‚·‚æI<end_line>
-    ƒRƒ‚­‚È‚ñ‚ÄA‚ ‚è‚Ü‚¹‚ñ‚íI<end_line>
+    ãã€ãã†ã§ã™ã‚ˆï¼<end_line>
+    ã‚³ãƒ¯ããªã‚“ã¦ã€ã‚ã‚Šã¾ã›ã‚“ã‚ï¼<end_line>
   </sjis>
   <ascii>
     Th-that's right!<end_line>
@@ -276,8 +276,8 @@
   <portrait_l entry="player" eye="decided" mouth="tense">
   <portrait_r entry="partner" eye="decided" mouth="serious">
   <sjis>
-    ‚³‚ Aƒ~ƒ…[ƒm—l‚Ì<end_line>
-    ‚¨Žè“`‚¢‚ð‚µ‚Ü‚µ‚å‚¤<end_line>
+    ã•ã‚ã€ãƒŸãƒ¥ãƒ¼ãƒŽæ§˜ã®<end_line>
+    ãŠæ‰‹ä¼ã„ã‚’ã—ã¾ã—ã‚‡ã†<end_line>
   </sjis>
   <ascii> 
     Come, let us aid Lady Murno.<end_line>

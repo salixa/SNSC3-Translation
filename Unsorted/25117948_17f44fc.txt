@@ -3,7 +3,7 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="tier" eye="serious" mouth="neutral">
 	<sjis>
-		‚±‚ê‚Å‘«‚è‚éH<end_line>
+		ã“ã‚Œã§è¶³ã‚Šã‚‹ï¼Ÿ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -11,7 +11,7 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="tier" eye="neutral_blush" mouth="talk">
 	<sjis>
-		‚Ü‚¢‚Ç`I<end_line>
+		ã¾ã„ã©ï½žï¼<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -19,8 +19,8 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="tier" eye="happy_blush" mouth="neutral">
 	<sjis>
-		–{“ú‘‚­‚à‚QŒ–Ú<end_line>
-		¡“ú‚Í‚¢‚¢“ú‚¾‚í`<end_line>
+		æœ¬æ—¥æ—©ãã‚‚ï¼’ä»¶ç›®<end_line>
+		ä»Šæ—¥ã¯ã„ã„æ—¥ã ã‚ï½ž<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -28,7 +28,7 @@
 	<portrait_l entry="player" eye="serious" mouth="tense">
 	<portrait_r entry="tier" eye="happy_blush" mouth="neutral">
 	<sjis>
-		‚QŒ–Ú‚Á‚ÄH<end_line>
+		ï¼’ä»¶ç›®ã£ã¦ï¼Ÿ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -36,9 +36,9 @@
 	<portrait_l entry="player" eye="serious" mouth="tense">
 	<portrait_r entry="tier" eye="happy" mouth="tense">
 	<sjis>
-		‚¢‚¦‚¢‚¦`<end_line>
-		‚±‚¿‚ç‚Ì˜b‚Å‚·‚©‚ç`<end_line>
-		‚¨‹C‚Ã‚©‚¢‚È‚­`<end_line>
+		ã„ãˆã„ãˆï½ž<end_line>
+		ã“ã¡ã‚‰ã®è©±ã§ã™ã‹ã‚‰ï½ž<end_line>
+		ãŠæ°—ã¥ã‹ã„ãªãï½ž<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -54,9 +54,9 @@
 	<portrait_l entry="vee" eye="serious" mouth="serious">
 	<portrait_r entry="tier" eye="serious" mouth="neutral">
 	<sjis>
-		‚Å‚Í‚í‚½‚µ‚É‚Â‚¢‚Ä‚«‚Ä‚­‚¾‚³‚¢<end_line>
-		‚±‚±‚ç•ÓA‚Í‚®‚ê‚à‘½‚¢‚©‚ç<end_line>
-		‹C‚ð‚Â‚¯‚Ä‚­‚¾‚³‚¢‚Ë`<end_line>
+		ã§ã¯ã‚ãŸã—ã«ã¤ã„ã¦ãã¦ãã ã•ã„<end_line>
+		ã“ã“ã‚‰è¾ºã€ã¯ãã‚Œã‚‚å¤šã„ã‹ã‚‰<end_line>
+		æ°—ã‚’ã¤ã‘ã¦ãã ã•ã„ã­ï½ž<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -64,7 +64,7 @@
 	<portrait_l entry="vee" eye="serious" mouth="serious">
 	<portrait_r entry="tier" eye="serious" mouth="neutral">
 	<sjis>
-		‚±‚ê‚Å‘«‚è‚éH<end_line>
+		ã“ã‚Œã§è¶³ã‚Šã‚‹ï¼Ÿ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -72,7 +72,7 @@
 	<portrait_l entry="vee" eye="serious" mouth="serious">
 	<portrait_r entry="tier" eye="decided" mouth="tense">
 	<sjis>
-		‚Ü‚¾‘«‚è‚È‚¢‚í<three_dots><end_line>
+		ã¾ã è¶³ã‚Šãªã„ã‚<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -80,7 +80,7 @@
 	<portrait_l entry="vee" eye="sad" mouth="tense">
 	<portrait_r entry="tier" eye="decided" mouth="tense">
 	<sjis>
-		‚¤‚¤<three_dots><end_line>
+		ã†ã†<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -88,7 +88,7 @@
 	<portrait_l entry="vee" eye="sad" mouth="tense">
 	<portrait_r entry="tier" eye="serious" mouth="neutral">
 	<sjis>
-		‚±‚±‚Å‘Ò‚Á‚Ä‚é‚©‚ç<end_line>
-		‚¨‹à‚Å‚«‚½‚ç—ˆ‚Ä‚Ë<end_line>
+		ã“ã“ã§å¾…ã£ã¦ã‚‹ã‹ã‚‰<end_line>
+		ãŠé‡‘ã§ããŸã‚‰æ¥ã¦ã­<end_line>
 	</sjis>
 </dialogue>

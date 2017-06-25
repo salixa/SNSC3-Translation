@@ -1,19 +1,19 @@
 <location>
 	<sjis>
-		���u�H�[�@�P�K<end_line>
+		ロブ工房　１階<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="vee">
 	<sjis>
-		���͂����Ƃ��Ă����Ă���<end_line>
+		今はそっとしておいてやりな<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="vee">
 	<sjis>
-		���͂����Ƃ��Ă����Ă���<end_line>
+		今はそっとしておいてやりな<end_line>
 	</sjis>
 </dialogue>

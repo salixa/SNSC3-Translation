@@ -1,29 +1,29 @@
 <location>
 	<sjis>
-		‹à‚Ì”h”´@ƒGƒ“ƒgƒ‰ƒ“ƒX<end_line>
+		é‡‘ã®æ´¾é–¥ã€€ã‚¨ãƒ³ãƒˆãƒ©ãƒ³ã‚¹<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="reception">
 	<sjis>
-		‚Í‚®‚ê‚à‚¨‚Æ‚È‚µ‚­‚È‚Á‚½‚ñ‚Å<end_line>
-		“Á‚ÉŽdŽ–‚Í–³‚¢‚æ<end_line>
+		ã¯ãã‚Œã‚‚ãŠã¨ãªã—ããªã£ãŸã‚“ã§<end_line>
+		ç‰¹ã«ä»•äº‹ã¯ç„¡ã„ã‚ˆ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		ƒxƒ‹ƒ”ƒHƒŒƒ“‚³‚ñ<end_line>
-		‚Ç‚±‚És‚Á‚¿‚á‚Á‚½‚ñ‚Å‚µ‚å‚¤<end_line>
+		ãƒ™ãƒ«ãƒ´ã‚©ãƒ¬ãƒ³ã•ã‚“<end_line>
+		ã©ã“ã«è¡Œã£ã¡ã‚ƒã£ãŸã‚“ã§ã—ã‚‡ã†<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		ƒCƒAƒi‚³‚ñ‚É•·‚¢‚Ä‚à<end_line>
-		‚Í‚®‚ç‚©‚³‚ê‚é‚¾‚¯‚Å‚·‚µ<end_line>
+		ã‚¤ã‚¢ãƒŠã•ã‚“ã«èžã„ã¦ã‚‚<end_line>
+		ã¯ãã‚‰ã‹ã•ã‚Œã‚‹ã ã‘ã§ã™ã—<end_line>
 	</sjis>
 </dialogue>

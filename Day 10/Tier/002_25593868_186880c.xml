@@ -3,8 +3,8 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="tier" eye="serious" mouth="neutral">
   <sjis>
-    �ǂ�<player_nickname>�H<end_line>
-    �����̏����͂ł����́H<end_line>
+    どう<player_nickname>？<end_line>
+    勝負の準備はできたの？<end_line>
   </sjis>
   <ascii>
     Well, <player_nickname>?<end_line>
@@ -18,7 +18,7 @@
   <male>
     <option>
       <sjis>
-        ���ł������ł��邺<end_line>
+        いつでも勝負できるぜ<end_line>
       </sjis>
       <ascii>
         Ready when you are.<end_line>
@@ -28,7 +28,7 @@
   <female>
     <option>
       <sjis>
-        ���ł������ł����<end_line>
+        いつでも勝負できるよ<end_line>
       </sjis>
       <ascii>
         Ready when you are.<end_line>
@@ -37,7 +37,7 @@
   </female>
   <option>
     <sjis>
-      ���������҂���<end_line>
+      もう少し待って<end_line>
     </sjis>
     <ascii>
       Just a second.<end_line>
@@ -49,7 +49,7 @@
   <portrait_l entry="player" eye="serious" mouth="serious">
   <portrait_r entry="tier" eye="decided" mouth="neutral">
   <sjis>
-    ���������Ȃ�����I<end_line>
+    かくごしなさいよ！<end_line>
   </sjis>
   <ascii>
     Prepare yourself!<end_line>
@@ -61,12 +61,12 @@
   <portrait_r entry="thus" eye="sad" mouth="serious">
   <male>
     <sjis>
-      <player_nickname>����<three_dots>�I<end_line>
+      <player_nickname>くん<three_dots>！<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      <player_nickname>�����<three_dots>�I<end_line>
+      <player_nickname>ちゃん<three_dots>！<end_line>
     </sjis>
   </female>
   <ascii>
@@ -79,16 +79,16 @@
   <portrait_r entry="thus" eye="sad" mouth="serious">
   <male>
     <sjis>
-      ������<three_dots><end_line>
-      ���̏����A�e�B�G�̗��e�̂��߂ɂ�<end_line>
-      ��΂ɕ�����킯�ɂ͂����Ȃ��I<end_line>
+      そうだ<three_dots><end_line>
+      この勝負、ティエの両親のためにも<end_line>
+      絶対に負けるわけにはいかない！<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ������<three_dots><end_line>
-      ���̏����A�e�B�G�̗��e�̂��߂ɂ�<end_line>
-      ��΂ɕ�����킯�ɂ͂����Ȃ��I<end_line>
+      そうよ<three_dots><end_line>
+      この勝負、ティエの両親のためにも<end_line>
+      絶対に負けるわけにはいかない！<end_line>
     </sjis>
   </female>
   <ascii>

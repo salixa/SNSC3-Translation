@@ -3,16 +3,16 @@
   <portrait_r entry="player" eye="surprised" mouth="yell">
   <male>
     <sjis>
-      �ǂ������񂾂�<end_line>
-      <partner>�I<end_line>
-      ���v���H<end_line>
+      どうしたんだよ<end_line>
+      <partner>！<end_line>
+      大丈夫か？<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �ǂ������̂�<end_line>
-      <partner>�I<end_line>
-      ���v�H<end_line>
+      どうしたのよ<end_line>
+      <partner>！<end_line>
+      大丈夫？<end_line>
     </sjis>
   </female>
   <ascii>
@@ -26,9 +26,9 @@
   <portrait_l entry="partner" eye="sad" mouth="serious">
   <portrait_r entry="player" eye="surprised" mouth="yell">
   <sjis>
-    �R�m���J���@���̓i���˂邬�[��<end_line>
-    ���m�V�e�C�}�X<three_dots><end_line>
-    �C���c�P�e���T�C<end_line>
+    コノ奥カラ　強力ナえねるぎーヲ<end_line>
+    検知シテイマス<three_dots><end_line>
+    気ヲツケテ下サイ<end_line>
   </sjis>
   <ascii>
     I Detect A Strong Energy<end_line>
@@ -42,9 +42,9 @@
   <portrait_l entry="partner" eye="sad" mouth="serious">
   <portrait_r entry="player" eye="surprised" mouth="yell">
   <sjis>
-    �Ȃ񂶂�A���̋C�̗ʂ�<three_dots><end_line>
-    ���̉��ɂ͉������邼<end_line>
-    �C������̂��Ⴜ<three_dots><end_line>
+    なんじゃ、この気の量は<three_dots><end_line>
+    この奥には何かあるぞ<end_line>
+    気をつけるのじゃぞ<three_dots><end_line>
   </sjis>
   <ascii>
     What is this mass of feelings<three_dots><end_line>
@@ -58,9 +58,9 @@
   <portrait_l entry="partner" eye="sad" mouth="serious">
   <portrait_r entry="player" eye="surprised" mouth="yell">
   <sjis>
-    �Ȃ�ăC���ȃt���C�L��<three_dots><end_line>
-    ���̉��ɂ͉������邼<end_line>
-    �o�債�Ă���<three_dots><end_line>
+    なんてイヤなフンイキだ<three_dots><end_line>
+    この奥には何かあるぞ<end_line>
+    覚悟しておけ<three_dots><end_line>
   </sjis>
   <ascii>
     This disgusting feeling again<three_dots><end_line>
@@ -74,9 +74,9 @@
   <portrait_l entry="partner" eye="sad" mouth="serious">
   <portrait_r entry="player" eye="surprised" mouth="yell">
   <sjis>
-    ����<three_dots>�A���̊���<three_dots><end_line>
-    ���̉��ɂ͐�Ή�������܂���<end_line>
-    �C�����Ă�������<end_line>
+    うぅ<three_dots>、この感じ<three_dots><end_line>
+    この奥には絶対何かありますわ<end_line>
+    気をつけてください<end_line>
   </sjis>
   <ascii>
     Uu<three_dots> this feeling<three_dots><end_line>
@@ -90,14 +90,14 @@
   <portrait_r entry="player" eye="decided" mouth="serious">
   <male>
     <sjis>
-      ���A����<three_dots><end_line>
-      �킩�����I<end_line>
+      お、おう<three_dots><end_line>
+      わかった！<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ���A����<three_dots><end_line>
-      �킩�����I<end_line>
+      う、うん<three_dots><end_line>
+      わかった！<end_line>
     </sjis>
   </female>
   <ascii>

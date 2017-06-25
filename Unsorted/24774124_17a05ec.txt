@@ -1,31 +1,31 @@
 <location>
 	<sjis>
-		�{�X�^�t�H�[�@�f�B�b�N�����x��<end_line>
+		ボスタフ工房　ディックル村支部<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		���`<end_line>
-		�����ǂ��Ԃ��C�������˂�<three_dots><end_line>
+		あ～<end_line>
+		もう追い返す気もおきねぇ<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		�ߍ��A���ł�������<end_line>
-		�^�ʖڂ����Ȑl�������̂�<end_line>
-		�Ȃ�āA�悭��������<end_line>
+		近頃、何でも物騒だ<end_line>
+		真面目そうな人だったのに<end_line>
+		なんて、よく言うけど<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		�܂�A���̒��݂��<end_line>
-		���ԂȂ����Ă��傤���Ȃ�<end_line>
-		���Ď�����<end_line>
+		つまり、世の中みんな<end_line>
+		あぶなくってしょうがない<end_line>
+		って事だろ<end_line>
 	</sjis>
 </dialogue>

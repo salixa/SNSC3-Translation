@@ -1,11 +1,11 @@
 <location>
   <sjis>
-    �f�B�b�N����<end_line>
+    ディックル村<end_line>
   </sjis>
 </location>
 <location>
   <sjis>
-    �f�B�b�N�����@�Z��n<end_line>
+    ディックル村　住宅地<end_line>
   </sjis>
 </location>
 ###Azuki
@@ -13,7 +13,7 @@
   <info box="simple">
   <portrait_l name="elderly">
   <sjis>
-    �����͑̂ɂ�������<end_line>
+    小豆は体にええぞぉ<end_line>
   </sjis>
   <ascii>
     Red beans are good for the body.<end_line>
@@ -24,9 +24,9 @@
   <info box="simple">
   <portrait_l name="child">
   <sjis>
-    �䂤��������񂵂�<end_line>
-    �Ȃ�̂͂ނ���������������<end_line>
-    �������ɂȂ낤����<end_line>
+    ゆうしゃもけんしも<end_line>
+    なるのはむずかしそうだから<end_line>
+    かじしになろうかな<end_line>
   </sjis>
   <ascii>
     Becoming a hero or a swordsman<end_line>
@@ -38,9 +38,9 @@
   <info box="simple">
   <portrait_l name="man">
   <sjis>
-    �A�J�o�l��ގ����悤����<end_line>
-    �����Ă�z�炪����炵����<end_line>
-    ����ȋ��\�ȃ��c�Ɛ키�Ȃ��<end_line>
+    アカバネを退治しようって<end_line>
+    言ってる奴らがいるらしいが<end_line>
+    あんな凶暴なヤツと戦うなんて<end_line>
   </sjis>
   <ascii>
     I heard there was someone<end_line>
@@ -52,7 +52,7 @@
   <info box="simple">
   <portrait_l name="man">
   <sjis>
-    ���ԂȂ����Ă��傤���Ȃ���<end_line>
+    あぶなくってしょうがないて<end_line>
   </sjis>
   <ascii>
     is way too dangerous for<end_line>

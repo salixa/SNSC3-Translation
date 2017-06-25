@@ -1,11 +1,11 @@
 <location>
   <sjis>
-    ƒ‹ƒC[ƒY‘º<end_line>
+    ãƒ«ã‚¤ãƒ¼ã‚ºæ‘<end_line>
   </sjis>
 </location>
 <location>
   <sjis>
-    ƒ‹ƒC[ƒY‘º@ˆâÕ‘O<end_line>
+    ãƒ«ã‚¤ãƒ¼ã‚ºæ‘ã€€éºè·¡å‰<end_line>
   </sjis>
 </location>
 <dialogue>
@@ -13,14 +13,14 @@
   <portrait_l name="player">
   <male>
     <sjis>
-      ƒ~ƒ…[ƒm‚Í’n‰º‚É‚¢‚é‚ç‚µ‚¢‚©‚ç<end_line>
-      ‚«‚Á‚Æ‰º‚Ìƒgƒrƒ‰‚¾I<end_line>
+      ãƒŸãƒ¥ãƒ¼ãƒŽã¯åœ°ä¸‹ã«ã„ã‚‹ã‚‰ã—ã„ã‹ã‚‰<end_line>
+      ãã£ã¨ä¸‹ã®ãƒˆãƒ“ãƒ©ã ï¼<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ƒ~ƒ…[ƒm‚Í’n‰º‚É‚¢‚é‚ç‚µ‚¢‚©‚ç<end_line>
-      ‚«‚Á‚Æ‰º‚Ìƒgƒrƒ‰‚¾‚æI<end_line>
+      ãƒŸãƒ¥ãƒ¼ãƒŽã¯åœ°ä¸‹ã«ã„ã‚‹ã‚‰ã—ã„ã‹ã‚‰<end_line>
+      ãã£ã¨ä¸‹ã®ãƒˆãƒ“ãƒ©ã ã‚ˆï¼<end_line>
     </sjis>
   </female>
   <ascii>

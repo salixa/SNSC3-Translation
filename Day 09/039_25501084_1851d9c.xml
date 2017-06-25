@@ -2,8 +2,8 @@
   <info box="left">
   <portrait_l entry="player" eye="surprised" mouth="tense">
   <sjis>
-    ����H<end_line>
-    �ǂ������́H<end_line>
+    あれ？<end_line>
+    どうしたの？<end_line>
   </sjis>
   <ascii>
     Huh?<end_line>
@@ -15,8 +15,8 @@
   <portrait_l entry="player" eye="surprised" mouth="tense">
   <portrait_r entry="tier" eye="decided" mouth="serious">
   <sjis>
-    ���[���I<end_line>
-    �������ɁI<end_line>
+    しーっ！<end_line>
+    しずかに！<end_line>
   </sjis>
   <ascii>
     Shh!<end_line>
@@ -28,7 +28,7 @@
   <portrait_l entry="player" eye="surprised" mouth="tense">
   <portrait_r entry="vee" eye="decided" mouth="serious">
   <sjis>
-    �A���^������������āI<end_line>
+    アンタたちもかくれて！<end_line>
   </sjis>
   <ascii>
     Hey, hide!<end_line>
@@ -39,7 +39,7 @@
   <info box="left">
   <portrait_l entry="partner" eye="decided" mouth="serious">
   <sjis>
-    �A���n<three_dots><end_line>
+    アレハ<three_dots><end_line>
   </sjis>
   <ascii>
     That Is<three_dots><end_line>
@@ -50,7 +50,7 @@
   <info box="left">
   <portrait_l entry="partner" eye="decided" mouth="serious">
   <sjis>
-    �����<three_dots><end_line>
+    あやつ<three_dots><end_line>
   </sjis>
   <ascii>
     That's<three_dots><end_line>
@@ -61,7 +61,7 @@
   <info box="left">
   <portrait_l entry="partner" eye="decided" mouth="serious">
   <sjis>
-    ���c��<three_dots><end_line>
+    ヤツは<three_dots><end_line>
   </sjis>
   <ascii>
     That's<three_dots><end_line>
@@ -72,7 +72,7 @@
   <info box="left">
   <portrait_l entry="partner" eye="decided" mouth="serious">
   <sjis>
-    ���̐l<three_dots><end_line>
+    あの人<three_dots><end_line>
   </sjis>
   <ascii>
     That person<three_dots><end_line>
@@ -82,8 +82,8 @@
   <info box="left">
   <portrait_l entry="player" eye="decided" mouth="tense">
   <sjis>
-    �������͒n�k�̌��<end_line>
-    ��������֎~�ɂȂ��Ă�����<three_dots><end_line>
+    あそこは地震の後は<end_line>
+    立ち入り禁止になってたって<three_dots><end_line>
   </sjis>
   <ascii>
     Since the earthquake,<end_line>
@@ -94,9 +94,9 @@
   <info box="left">
   <portrait_l entry="tier" eye="decided" mouth="yell">
   <sjis>
-    ���A���ɓ�����<end_line>
-    �����ƒ��Ԃ̂Ƃ���֍s���̂�<end_line>
-    ���Ƃ����āA�S���߂܂����Ⴈ���I<end_line>
+    あ、中に入った<end_line>
+    きっと仲間のところへ行くのよ<end_line>
+    あとをつけて、全員捕まえちゃおう！<end_line>
   </sjis>
   <ascii>
     Ah, he went in!<end_line>
@@ -109,9 +109,9 @@
   <portrait_l entry="tier" eye="decided" mouth="yell">
   <portrait_r entry="vee" eye="decided" mouth="serious">
   <sjis>
-    ���̃A�C�f�B�A�ɂ͑�^���Ȃ񂾂�<end_line>
-    �����ˁA�e�B�G<end_line>
-    �A���^�͂����Ō���������̂�<end_line>
+    そのアイディアには大賛成なんだが<end_line>
+    悪いね、ティエ<end_line>
+    アンタはここで見張りをたのむ<end_line>
   </sjis>
   <ascii>
     I like that idea,<end_line>
@@ -124,8 +124,8 @@
   <portrait_l entry="tier" eye="surprised" mouth="stressed">
   <portrait_r entry="vee" eye="decided" mouth="serious">
   <sjis>
-    ���`���I�H<end_line>
-    �����<three_dots><end_line>
+    え～っ！？<end_line>
+    そんな<three_dots><end_line>
   </sjis>
   <ascii>
     Eh~!?<end_line>
@@ -137,9 +137,9 @@
   <portrait_l entry="tier" eye="surprised" mouth="stressed">
   <portrait_r entry="vee" eye="decided" mouth="tense">
   <sjis>
-    ���c��̒��Ԃ����邩������Ȃ���<end_line>
-    ���̂ނ�<end_line>
-    �A���^����ԓK�C�Ȃ�<end_line>
+    ヤツらの仲間が来るかもしれないし<end_line>
+    たのむよ<end_line>
+    アンタが一番適任なんだ<end_line>
   </sjis>
   <ascii>
     Their comrades might show up.<end_line>
@@ -152,7 +152,7 @@
   <portrait_l entry="tier" eye="decided" mouth="tense">
   <portrait_r entry="vee" eye="decided" mouth="tense">
   <sjis>
-    �킽�������<three_dots><end_line>
+    わたしが一番<three_dots><end_line>
   </sjis>
   <ascii>
     Most qualified<three_dots><end_line>
@@ -162,8 +162,8 @@
   <info box="left">
   <portrait_l entry="tier" eye="special" mouth="neutral">
   <sjis>
-    ���������āA�������<three_dots><end_line>
-    ���Ă�<three_dots>�H<end_line>
+    もしかして、これって<three_dots><end_line>
+    きてる<three_dots>？<end_line>
   </sjis>
   <ascii>
     Maybe this is<three_dots><end_line>
@@ -175,9 +175,9 @@
   <portrait_l entry="tier" eye="special" mouth="neutral">
   <portrait_r entry="vee" eye="decided" mouth="serious">
   <sjis>
-    �������𕥂��Ƃ�<end_line>
-    �W���E�_���ł������񂶂�Ȃ���<end_line>
-    ��C��ǂ݂�<end_line>
+    見張り代を払えとか<end_line>
+    ジョウダンでも言うんじゃないよ<end_line>
+    空気を読みな<end_line>
   </sjis>
   <ascii>
     Don't joke around about<end_line>
@@ -190,9 +190,9 @@
   <portrait_l entry="tier" eye="surprised" mouth="talk">
   <portrait_r entry="vee" eye="decided" mouth="serious">
   <sjis>
-    ���A�����킯�Ȃ�����Ȃ��ł���<end_line>
-    ����Ȃ��ƁI<end_line>
-    �킽�����Â��݂Ȃ��ł��������I<end_line>
+    い、言うわけないじゃないですか<end_line>
+    そんなこと！<end_line>
+    わたしを甘くみないでください！<end_line>
   </sjis>
   <ascii>
     I-I wasn't going to!<end_line>
@@ -204,9 +204,9 @@
   <portrait_l entry="tier" eye="decided" mouth="neutral">
   <portrait_r entry="vee" eye="decided" mouth="serious">
   <sjis>
-    ������܂���I<end_line>
-    �����点�Ă��炢�܂���I<end_line>
-    �������^�_�ŁI<end_line>
+    見張りますよ！<end_line>
+    見張らせてもらいますよ！<end_line>
+    もちろんタダで！<end_line>
   </sjis>
   <ascii>
     I'll do it!<end_line>
@@ -219,9 +219,9 @@
   <portrait_l entry="tier" eye="decided" mouth="neutral">
   <portrait_r entry="vee" eye="decided" mouth="neutral">
   <sjis>
-    ���肪�Ƃ��A�e�B�G<end_line>
-    ����A�s����<end_line>
-    �ӂ���Ƃ�<end_line>
+    ありがとう、ティエ<end_line>
+    じゃ、行くよ<end_line>
+    ふたりとも<end_line>
   </sjis>
   <ascii>
     Thanks, Tier.<end_line>
@@ -234,7 +234,7 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="vee" eye="decided" mouth="neutral">
   <sjis>
-    �͂��I<end_line>
+    はい！<end_line>
   </sjis>
   <ascii>
     Yes!<end_line>

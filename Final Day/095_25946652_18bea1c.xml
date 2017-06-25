@@ -3,9 +3,9 @@
   <portrait_l entry="player" eye="serious" mouth="neutral">
   <portrait_r entry="vee" eye="serious" mouth="neutral">
   <sjis>
-    ���Ⴀ�A�A�^�V�����͂��낻��<end_line>
-    ���ɖ߂�Ƃ��邩<end_line>
-    �ˁA<player_nickname><end_line>
+    じゃあ、アタシたちはそろそろ<end_line>
+    町に戻るとするか<end_line>
+    ね、<player_nickname><end_line>
   </sjis>
   <ascii>
     Now then, how about we<end_line>
@@ -18,9 +18,9 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="jade" eye="serious" mouth="neutral">
   <sjis>
-    �������ȁA���̂��킬�̌ゾ<end_line>
-    ��ςȂ��ƂɂȂ��Ă���n�Y��<end_line>
-    �I���������Ǝd�����Ȃ��Ƃ�<end_line>
+    そうだな、あのさわぎの後だ<end_line>
+    大変なことになっているハズだ<end_line>
+    オレもちゃんと仕事しないとな<end_line>
   </sjis>
   <ascii>
     Right, we still need to clean up the<end_line>
@@ -33,9 +33,9 @@
   <portrait_l entry="tier" eye="serious" mouth="neutral">
   <portrait_r entry="jade" eye="serious" mouth="neutral">
   <sjis>
-    ��邱�Ƃ����ς��ő�ς����˂�<end_line>
-    �ł�<three_dots>���������Ƃ�����<end_line>
-    ����΂�Ȃ�������ˁI<end_line>
+    やることいっぱいで大変そうねぇ<end_line>
+    でも<three_dots>こういうときこそ<end_line>
+    がんばらなくっちゃね！<end_line>
   </sjis>
   <ascii>
     There's much we have to do.<end_line>
@@ -48,8 +48,8 @@
   <portrait_l entry="murno" eye="sad" mouth="tense">
   <portrait_r entry="jade" eye="serious" mouth="neutral">
   <sjis>
-    ����<three_dots><end_line>
-    ���݂܂���<three_dots><end_line>
+    あの<three_dots><end_line>
+    すみません<three_dots><end_line>
   </sjis>
   <ascii>
     Um<three_dots><end_line>
@@ -61,9 +61,9 @@
   <portrait_l entry="player" eye="decided" mouth="tense">
   <portrait_r entry="murno" eye="sad" mouth="tense">
   <sjis>
-    �~���[�m������܂邱�ƂȂ���<end_line>
-    �����̂�<three_dots><end_line>
-    ��<three_dots><end_line>
+    ミューノがあやまることないよ<end_line>
+    悪いのは<three_dots><end_line>
+    あ<three_dots><end_line>
   </sjis>
   <ascii>
     You don't have to apologize, Murno.<end_line>
@@ -76,9 +76,9 @@
   <portrait_l entry="player" eye="sad" mouth="serious">
   <portrait_r entry="lemmy" eye="serious" mouth="neutral">
   <sjis>
-    ����ȂɋC�ɂ��Ȃ��Ă�����<end_line>
-    ��̂��Ƃ͍H�[�݂̂�Ȃ�<end_line>
-    �l���邩��<end_line>
+    そんなに気にしなくていいよ<end_line>
+    後のことは工房のみんなで<end_line>
+    考えるから<end_line>
   </sjis>
   <ascii>
     Don't worry about it so much.<end_line>
@@ -91,9 +91,9 @@
   <portrait_l entry="lemmy" eye="serious" mouth="neutral">
   <portrait_r entry="jade" eye="serious" mouth="tense">
   <sjis>
-    �{�X�^�t�����x�����H���������<end_line>
-    ���Ƃ����邩��A���̔h���������Ă�<end_line>
-    �b�������ɂȂ�Ƃ͎v����<three_dots><end_line>
+    ボスタフさんやベルヴォレンさんの<end_line>
+    こともあるから、金の派閥を交えての<end_line>
+    話し合いになるとは思うが<three_dots><end_line>
   </sjis>
   <ascii>
     There's also that business with Bostaph<end_line>
@@ -105,9 +105,9 @@
   <portrait_l entry="lemmy" eye="serious" mouth="talk">
   <portrait_r entry="jade" eye="serious" mouth="tense">
   <sjis>
-    �킩���Ă܂�<end_line>
-    �ꂳ��ɂ�������<end_line>
-    �͂��炢�Ă��炢�܂���<end_line>
+    わかってます<end_line>
+    母さんにもちゃんと<end_line>
+    はたらいてもらいますよ<end_line>
   </sjis>
   <ascii>
     I know.<end_line>
@@ -120,8 +120,8 @@
   <portrait_l entry="lemmy" eye="serious" mouth="talk">
   <portrait_r entry="vee" eye="serious" mouth="talk">
   <sjis>
-    �A���^<three_dots><end_line>
-    �Ȃ񂾂������Ȃ�����<end_line>
+    アンタ<three_dots><end_line>
+    なんだか強くなったね<end_line>
   </sjis>
   <ascii>
     You<three_dots><end_line>
@@ -133,8 +133,8 @@
   <portrait_l entry="lemmy" eye="decided" mouth="talk">
   <portrait_r entry="vee" eye="serious" mouth="talk">
   <sjis>
-    �����<three_dots><end_line>
-    �l�������Ă����܂��񂩂�<end_line>
+    それは<three_dots><end_line>
+    僕も負けていられませんから<end_line>
   </sjis>
   <ascii>
     Well<three_dots><end_line>
@@ -147,14 +147,14 @@
   <portrait_r entry="lemmy" eye="decided" mouth="talk">
   <male>
     <sjis>
-      ��<three_dots>�H<end_line>
-      �Ȃ񂾂�H<end_line>
+      え<three_dots>？<end_line>
+      なんだよ？<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ��<three_dots>�H<end_line>
-      �Ȃɂ�H<end_line>
+      え<three_dots>？<end_line>
+      なによ？<end_line>
     </sjis>
   </female>
   <ascii>
@@ -167,9 +167,9 @@
   <portrait_l entry="wellman" eye="serious" mouth="neutral">
   <portrait_r entry="jade" eye="serious" mouth="neutral">
   <sjis>
-    ���̍����������܂�����<end_line>
-    ���炽�߂ăE�F���}������ɂ�<end_line>
-    �o�����Ă��炢�܂�����<end_line>
+    町の混乱がおさまったら<end_line>
+    あらためてウェルマンさんにも<end_line>
+    出向いてもらいますから<end_line>
   </sjis>
   <ascii>
     Once the chaos has calmed down,<end_line>
@@ -181,8 +181,8 @@
   <portrait_l entry="wellman" eye="serious" mouth="tense">
   <portrait_r entry="jade" eye="serious" mouth="neutral">
   <sjis>
-    �킩��܂���<end_line>
-    ���̂Ƃ���<three_dots><end_line>
+    わかりました<end_line>
+    そのときは<three_dots><end_line>
   </sjis>
   <ascii>
     Understood.<end_line>
@@ -194,8 +194,8 @@
   <portrait_l entry="murno" eye="decided" mouth="serious">
   <portrait_r entry="jade" eye="serious" mouth="neutral">
   <sjis>
-    ���̂Ƃ���<end_line>
-    �����s���܂�<end_line>
+    そのときは<end_line>
+    私も行きます<end_line>
   </sjis>
   <ascii>
     When the time comes,<end_line>
@@ -206,7 +206,7 @@
   <info box="left">
   <portrait_l entry="player" eye="serious" mouth="tense">
   <sjis>
-    �~���[�m<three_dots><end_line>
+    ミューノ<three_dots><end_line>
   </sjis>
   <ascii>
     Murno<three_dots><end_line>
@@ -217,8 +217,8 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="murno" eye="decided" mouth="serious">
   <sjis>
-    �����A�����ƐӔC��<end_line>
-    �Ƃ�Ȃ��Ƃ����Ȃ�����<three_dots><end_line>
+    私も、ちゃんと責任を<end_line>
+    とらないといけないから<three_dots><end_line>
   </sjis>
   <ascii>
     I must take<end_line>
@@ -231,7 +231,7 @@
   <portrait_l entry="partner" eye="decided" mouth="neutral">
   <portrait_r entry="murno" eye="decided" mouth="serious">
   <sjis>
-    �\�m�g�L�n�@�����@�I���V�}�X<end_line>
+    ソノトキハ　私モ　オ供シマス<end_line>
   </sjis>
   <ascii>
     At That Time, I Will Be There.<end_line>
@@ -243,8 +243,8 @@
   <portrait_l entry="partner" eye="decided" mouth="neutral">
   <portrait_r entry="murno" eye="decided" mouth="serious">
   <sjis>
-    ���S����<end_line>
-    ���̎��̓��K�n�C����������<end_line>
+    安心せい<end_line>
+    その時はワガハイもつきあうぞ<end_line>
   </sjis>
   <ascii>
     Don't worry.<end_line>
@@ -257,8 +257,8 @@
   <portrait_l entry="partner" eye="decided" mouth="neutral">
   <portrait_r entry="murno" eye="decided" mouth="serious">
   <sjis>
-    ����<three_dots><end_line>
-    �ł͎����s���Ȃ���΂Ȃ�Ȃ���<end_line>
+    ちっ<three_dots><end_line>
+    では私も行かなければならないな<end_line>
   </sjis>
   <ascii>
     Tch<three_dots><end_line>
@@ -271,8 +271,8 @@
   <portrait_l entry="partner" eye="decided" mouth="neutral">
   <portrait_r entry="murno" eye="decided" mouth="serious">
   <sjis>
-    ���v�ł���<end_line>
-    ���̂Ƃ��͎������Ă��܂���I<end_line>
+    大丈夫ですよ<end_line>
+    そのときは私がついていますわ！<end_line>
   </sjis>
   <ascii>
     It will be okay.<end_line>
@@ -284,8 +284,8 @@
   <portrait_l entry="partner" eye="decided" mouth="neutral">
   <portrait_r entry="murno" eye="happy" mouth="neutral">
   <sjis>
-    ���肪�Ƃ��A<partner><end_line>
-    ���̋C���������ŏ\������<end_line>
+    ありがとう、<partner><end_line>
+    その気持ちだけで十分だわ<end_line>
   </sjis>
   <ascii>
     Thank you, <partner>.<end_line>
@@ -297,8 +297,8 @@
   <portrait_l entry="tier" eye="decided" mouth="neutral">
   <portrait_r entry="murno" eye="happy" mouth="neutral">
   <sjis>
-    ����΂��ĂˁA�~���[�m�I<end_line>
-    �킽���A�������񂵂Ă邩��I<end_line>
+    がんばってね、ミューノ！<end_line>
+    わたし、おうえんしてるから！<end_line>
   </sjis>
   <ascii>
     Good luck, Murno!<end_line>
@@ -310,7 +310,7 @@
   <portrait_l entry="tier" eye="decided" mouth="neutral">
   <portrait_r entry="murno" eye="serious" mouth="talk">
   <sjis>
-    ���肪�Ƃ��A�e�B�G�����<end_line>
+    ありがとう、ティエちゃん<end_line>
   </sjis>
   <ascii>
     Thanks, Tier.<end_line>
@@ -321,9 +321,9 @@
   <portrait_l entry="murno" eye="serious" mouth="neutral">
   <portrait_r entry="wellman" eye="sad" mouth="neutral">
   <sjis>
-    �~���[�m�͖{����<end_line>
-    ���Ă����Ȃ��Ă������̂����H<end_line>
-    �����͂������񂾂��ł����v����<end_line>
+    ミューノは本当に<end_line>
+    ついていかなくてもいいのかい？<end_line>
+    ここはお父さんだけでも大丈夫だぞ<end_line>
   </sjis>
   <ascii>
     Murno, are you sure<end_line>
@@ -336,9 +336,9 @@
   <portrait_l entry="murno" eye="decided" mouth="neutral">
   <portrait_r entry="wellman" eye="sad" mouth="neutral">
   <sjis>
-    ����I<end_line>
-    �����͎��̌̋�������<end_line>
-    ���̂܂ܕ����Ă͂����Ȃ���<end_line>
+    うん！<end_line>
+    ここは私の故郷だもの<end_line>
+    このまま放ってはおけないわ<end_line>
   </sjis>
   <ascii>
     Yes!<end_line>
@@ -351,9 +351,9 @@
   <portrait_l entry="murno" eye="sad" mouth="talk">
   <portrait_r entry="wellman" eye="sad" mouth="neutral">
   <sjis>
-    �����<three_dots><end_line>
-    �N���߂��Ă���l�����邩��<end_line>
-    ����Ȃ���<end_line>
+    それに<three_dots><end_line>
+    誰か戻ってくる人がいるかも<end_line>
+    しれないし<end_line>
   </sjis>
   <ascii>
     And<three_dots><end_line>
@@ -366,7 +366,7 @@
   <portrait_l entry="murno" eye="sad" mouth="talk">
   <portrait_r entry="wellman" eye="serious" mouth="neutral">
   <sjis>
-    ������<three_dots><end_line>
+    そうか<three_dots><end_line>
   </sjis>
   <ascii>
     I see<three_dots><end_line>
@@ -377,9 +377,9 @@
   <portrait_l entry="murno" eye="sad" mouth="talk">
   <portrait_r entry="vee" eye="serious" mouth="talk">
   <sjis>
-    �G���������Ȃ��ł��ł��V�тɂ��Ȃ�<end_line>
-    ���ł��傩�񂰂��������<end_line>
-    <player_nickname>����낱�Ԃ�<end_line>
+    エンリョしないでいつでも遊びにきなよ<end_line>
+    いつでも大かんげいだからね<end_line>
+    <player_nickname>もよろこぶし<end_line>
   </sjis>
   <ascii>
     Feel free to visit whenever you like.<end_line>
@@ -392,7 +392,7 @@
   <portrait_l entry="player" eye="sad_blush" mouth="talk">
   <portrait_r entry="vee" eye="serious" mouth="talk">
   <sjis>
-    ����ȁA�e����<end_line>
+    そんな、親方ぁ<end_line>
   </sjis>
   <ascii>
     Hey, Master!<end_line>
@@ -403,7 +403,7 @@
   <portrait_l entry="player" eye="sad_blush" mouth="talk">
   <portrait_r entry="murno" eye="happy_blush" mouth="neutral">
   <sjis>
-    ���ӂ�<three_dots><end_line>
+    うふふ<three_dots><end_line>
   </sjis>
   <ascii>
     Ufufu<three_dots><end_line>
@@ -414,8 +414,8 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="murno" eye="happy_blush" mouth="neutral">
   <sjis>
-    ����<three_dots><end_line>
-    ���Ⴀ�A<partner>��<three_dots><end_line>
+    あの<three_dots><end_line>
+    じゃあ、<partner>は<three_dots><end_line>
   </sjis>
   <ascii>
     Um<three_dots><end_line>
@@ -428,7 +428,7 @@
   <portrait_l entry="partner" eye="serious" mouth="neutral">
   <portrait_r entry="murno" eye="happy_blush" mouth="neutral">
   <sjis>
-    �\���n�@���R<three_dots><end_line>
+    ソレハ　当然<three_dots><end_line>
   </sjis>
   <ascii>
     Of Course, I<three_dots><end_line>
@@ -440,7 +440,7 @@
   <portrait_l entry="partner" eye="serious" mouth="neutral">
   <portrait_r entry="murno" eye="happy_blush" mouth="neutral">
   <sjis>
-    ����́@���R<three_dots><end_line>
+    それは　当然<three_dots><end_line>
   </sjis>
   <ascii>
     Of course, I<three_dots><end_line>
@@ -452,8 +452,8 @@
   <portrait_l entry="partner" eye="serious" mouth="neutral">
   <portrait_r entry="murno" eye="happy_blush" mouth="neutral">
   <sjis>
-    ����Ȃ���<end_line>
-    ���܂��Ă��邾�낤<three_dots><end_line>
+    そんなもの<end_line>
+    決まっているだろう<three_dots><end_line>
   </sjis>
   <ascii>
     It should<end_line>
@@ -466,7 +466,7 @@
   <portrait_l entry="partner" eye="serious" mouth="neutral">
   <portrait_r entry="murno" eye="happy_blush" mouth="neutral">
   <sjis>
-    ����́@���R<three_dots><end_line>
+    それは　当然<three_dots><end_line>
   </sjis>
   <ascii>
     Of course, I<three_dots><end_line>
@@ -477,8 +477,8 @@
   <portrait_l entry="partner" eye="serious" mouth="neutral">
   <portrait_r entry="murno" eye="serious" mouth="neutral">
   <sjis>
-    ���R�A<player_nickname>�Ƃ��������<end_line>
-    �s������<end_line>
+    当然、<player_nickname>といっしょに<end_line>
+    行くわよね<end_line>
   </sjis>
   <ascii>
     You should go with <player_nickname>.<end_line>
@@ -490,7 +490,7 @@
   <portrait_l entry="partner" eye="surprised" mouth="stressed">
   <portrait_r entry="murno" eye="serious" mouth="neutral">
   <sjis>
-    �i<three_dots>�b�I<end_line>
+    ナ<three_dots>ッ！<end_line>
   </sjis>
   <ascii>
     Wha<three_dots>!<end_line>
@@ -502,7 +502,7 @@
   <portrait_l entry="partner" eye="surprised" mouth="stressed">
   <portrait_r entry="murno" eye="serious" mouth="neutral">
   <sjis>
-    ��<three_dots>���I<end_line>
+    な<three_dots>っ！<end_line>
   </sjis>
   <ascii>
     Wha<three_dots>!<end_line>
@@ -514,7 +514,7 @@
   <portrait_l entry="partner" eye="surprised" mouth="stressed">
   <portrait_r entry="murno" eye="serious" mouth="neutral">
   <sjis>
-    ��<three_dots>���I<end_line>
+    な<three_dots>っ！<end_line>
   </sjis>
   <ascii>
     Wha<three_dots>!<end_line>
@@ -526,7 +526,7 @@
   <portrait_l entry="partner" eye="surprised" mouth="stressed">
   <portrait_r entry="murno" eye="serious" mouth="neutral">
   <sjis>
-    ��<three_dots>���I<end_line>
+    な<three_dots>っ！<end_line>
   </sjis>
   <ascii>
     Wha<three_dots>!<end_line>
@@ -537,9 +537,9 @@
   <portrait_l entry="partner" eye="surprised" mouth="stressed">
   <portrait_r entry="murno" eye="decided" mouth="talk">
   <sjis>
-    �����Ă��Ȃ��͂܂�<end_line>
-    ���B�[����̗��Ă�����グ�ڕW��<end_line>
-    �B�����Ă��Ȃ�����Ȃ�<three_dots><end_line>
+    だってあなたはまだ<end_line>
+    ヴィーさんの立てた売り上げ目標を<end_line>
+    達成していないじゃない<three_dots><end_line>
   </sjis>
   <ascii>
     I mean, you haven't<end_line>
@@ -553,8 +553,8 @@
   <portrait_l entry="partner" eye="decided" mouth="tense">
   <portrait_r entry="murno" eye="decided" mouth="talk">
   <sjis>
-    �����Q�ڕW�@�f�X�J<three_dots>�H<end_line>
-    ������<three_dots><end_line>
+    売り上ゲ目標　デスカ<three_dots>？<end_line>
+    検索中<three_dots><end_line>
     <three_dots><end_line>
   </sjis>
   <ascii>
@@ -569,9 +569,9 @@
   <portrait_l entry="partner" eye="decided" mouth="tense">
   <portrait_r entry="murno" eye="decided" mouth="talk">
   <sjis>
-    ����グ�ڕW<three_dots>�H<end_line>
-    �͂�<three_dots>�A�Ȃ�̂��Ƃ����������<three_dots><end_line>
-    ���`��<three_dots><end_line>
+    売り上げ目標<three_dots>？<end_line>
+    はて<three_dots>、なんのことじゃったかな<three_dots><end_line>
+    う～む<three_dots><end_line>
   </sjis>
   <ascii>
     Sales quota<three_dots>?<end_line>
@@ -585,9 +585,9 @@
   <portrait_l entry="partner" eye="decided" mouth="tense">
   <portrait_r entry="murno" eye="decided" mouth="talk">
   <sjis>
-    ����グ�ڕW<three_dots>�H<end_line>
-    �Ȃ�̂��Ƃ�<end_line>
-    ����Ȃ��́A����<three_dots><end_line>
+    売り上げ目標<three_dots>？<end_line>
+    なんのことだ<end_line>
+    そんなもの、私は<three_dots><end_line>
   </sjis>
   <ascii>
     Sales quota?<three_dots>?<end_line>
@@ -601,9 +601,9 @@
   <portrait_l entry="partner" eye="decided" mouth="tense">
   <portrait_r entry="murno" eye="decided" mouth="talk">
   <sjis>
-    ����グ�ڕW<three_dots>�H<end_line>
-    �Ȃ�̂��Ƃł�������<three_dots><end_line>
-    ���`����<three_dots><end_line>
+    売り上げ目標<three_dots>？<end_line>
+    なんのことでしたっけ<three_dots><end_line>
+    え～っと<three_dots><end_line>
   </sjis>
   <ascii>
     Sales quota<three_dots>?<end_line>
@@ -617,7 +617,7 @@
   <portrait_l entry="partner" eye="surprised" mouth="yell">
   <portrait_r entry="murno" eye="happy" mouth="neutral">
   <sjis>
-    �P�O�O���΁[�ށI<end_line>
+    １００万ばーむ！<end_line>
   </sjis>
   <ascii>
     One Million Boam!<end_line>
@@ -629,7 +629,7 @@
   <portrait_l entry="partner" eye="surprised" mouth="yell">
   <portrait_r entry="murno" eye="happy" mouth="neutral">
   <sjis>
-    �P�O�O���o�[���I<end_line>
+    １００万バーム！<end_line>
   </sjis>
   <ascii>
     One million Boam!<end_line>
@@ -641,7 +641,7 @@
   <portrait_l entry="partner" eye="surprised" mouth="yell">
   <portrait_r entry="murno" eye="happy" mouth="neutral">
   <sjis>
-    �P�O�O���o�[���I<end_line>
+    １００万バーム！<end_line>
   </sjis>
   <ascii>
     One million Boam!<end_line>
@@ -653,7 +653,7 @@
   <portrait_l entry="partner" eye="surprised" mouth="yell">
   <portrait_r entry="murno" eye="happy" mouth="neutral">
   <sjis>
-    �P�O�O���o�[���I<end_line>
+    １００万バーム！<end_line>
   </sjis>
   <ascii>
     One million Boam!<end_line>
@@ -664,7 +664,7 @@
   <portrait_l entry="partner" eye="surprised" mouth="yell">
   <portrait_r entry="murno" eye="serious" mouth="talk">
   <sjis>
-    ���̂Ƃ���I<end_line>
+    そのとおり！<end_line>
   </sjis>
   <ascii>
     That's it!<end_line>
@@ -675,9 +675,9 @@
   <portrait_l entry="partner" eye="surprised" mouth="yell">
   <portrait_r entry="vee" eye="decided" mouth="neutral">
   <sjis>
-    �������ˁI<end_line>
-    �b��t�̖񑩂͍|��肩�����񂾂�<end_line>
-    �L�b�`���͂��炢�Ă��炨������<end_line>
+    そうだね！<end_line>
+    鍛冶師の約束は鋼よりかたいんだよ<end_line>
+    キッチリはたらいてもらおうかね<end_line>
   </sjis>
   <ascii>
     Exactly! A Craftknight's<end_line>
@@ -691,7 +691,7 @@
   <portrait_l entry="partner" eye="sad" mouth="serious">
   <portrait_r entry="vee" eye="decided" mouth="neutral">
   <sjis>
-    �\���i<three_dots><end_line>
+    ソンナ<three_dots><end_line>
   </sjis>
   <ascii>
     No<three_dots><end_line>
@@ -703,7 +703,7 @@
   <portrait_l entry="partner" eye="sad" mouth="serious">
   <portrait_r entry="vee" eye="decided" mouth="neutral">
   <sjis>
-    �Ȃ񂶂��<three_dots><end_line>
+    なんじゃと<three_dots><end_line>
   </sjis>
   <ascii>
     No<three_dots><end_line>
@@ -715,7 +715,7 @@
   <portrait_l entry="partner" eye="sad" mouth="serious">
   <portrait_r entry="vee" eye="decided" mouth="neutral">
   <sjis>
-    �Ȃ񂾂�<three_dots><end_line>
+    なんだと<three_dots><end_line>
   </sjis>
   <ascii>
     No<three_dots><end_line>
@@ -727,7 +727,7 @@
   <portrait_l entry="partner" eye="sad" mouth="serious">
   <portrait_r entry="vee" eye="decided" mouth="neutral">
   <sjis>
-    �����<three_dots><end_line>
+    そんな<three_dots><end_line>
   </sjis>
   <ascii>
     No<three_dots><end_line>
@@ -739,14 +739,14 @@
   <portrait_r entry="murno" eye="serious" mouth="neutral">
   <male>
     <sjis>
-      �~���[�m<three_dots><end_line>
-      �{���ɂ���ł����̂��H<end_line>
+      ミューノ<three_dots><end_line>
+      本当にそれでいいのか？<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �~���[�m<three_dots><end_line>
-      �{���ɂ���ł����́H<end_line>
+      ミューノ<three_dots><end_line>
+      本当にそれでいいの？<end_line>
     </sjis>
   </female>
   <ascii>
@@ -759,9 +759,9 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="murno" eye="happy" mouth="talk">
   <sjis>
-    ��������I�@���B�[����<end_line>
-    �[������܂�<partner>��<end_line>
-    <player_nickname>�̃p�[�g�i�[������<end_line>
+    もちろんよ！　ヴィーさんが<end_line>
+    納得するまで<partner>は<end_line>
+    <player_nickname>のパートナーだもの<end_line>
   </sjis>
   <ascii>
     Of course! Until Miss V.E says<end_line>
@@ -775,15 +775,15 @@
   <portrait_r entry="murno" eye="happy" mouth="talk">
   <male>
     <sjis>
-      ������<three_dots><end_line>
-      ����A���ꂩ�����낵�����̂ނ�<end_line>
+      そっか<three_dots><end_line>
+      じゃ、これからもよろしくたのむぜ<end_line>
       <partner><end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ������<three_dots><end_line>
-      ���Ⴀ�A���ꂩ�����낵����<end_line>
+      そっか<three_dots><end_line>
+      じゃあ、これからもよろしくね<end_line>
       <partner><end_line>
     </sjis>
   </female>
@@ -799,7 +799,7 @@
   <portrait_l entry="player" eye="serious" mouth="neutral">
   <portrait_r entry="partner" eye="sad" mouth="tense">
   <sjis>
-    ���A�����f�X<three_dots><end_line>
+    リ、了解デス<three_dots><end_line>
   </sjis>
   <ascii>
     R-roger<three_dots><end_line>
@@ -811,7 +811,7 @@
   <portrait_l entry="player" eye="serious" mouth="neutral">
   <portrait_r entry="partner" eye="sad" mouth="tense">
   <sjis>
-    �ށA�ނ�<three_dots><end_line>
+    む、むう<three_dots><end_line>
   </sjis>
   <ascii>
     Mmm<three_dots><end_line>
@@ -823,8 +823,8 @@
   <portrait_l entry="player" eye="serious" mouth="neutral">
   <portrait_r entry="partner" eye="sad" mouth="tense">
   <sjis>
-    <three_dots>����<end_line>
-    �d���Ȃ�<three_dots><end_line>
+    <three_dots>ちっ<end_line>
+    仕方ない<three_dots><end_line>
   </sjis>
   <ascii>
     <three_dots>Tch.<end_line>
@@ -837,7 +837,7 @@
   <portrait_l entry="player" eye="serious" mouth="neutral">
   <portrait_r entry="partner" eye="sad" mouth="tense">
   <sjis>
-    �́A�͂��ł���<three_dots><end_line>
+    は、はいですわ<three_dots><end_line>
   </sjis>
   <ascii>
     Y-yes, of course<three_dots><end_line>
@@ -848,8 +848,8 @@
   <portrait_l entry="player" eye="serious" mouth="neutral">
   <portrait_r entry="jade" eye="happy" mouth="talk">
   <sjis>
-    �悩�����ȁA<player_nickname><end_line>
-    ���~�B�Ƃ̌������܂��Ȃ񂾂�H<end_line>
+    よかったな、<player_nickname><end_line>
+    レミィとの決着もまだなんだろ？<end_line>
   </sjis>
   <ascii>
     Isn't that great, <player_nickname>?<end_line>
@@ -862,7 +862,7 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="jade" eye="happy" mouth="talk">
   <sjis>
-    �����H<end_line>
+    決着？<end_line>
   </sjis>
   <ascii>
     What things?<end_line>
@@ -873,9 +873,9 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="jade" eye="surprised" mouth="tense">
   <sjis>
-    ����H<end_line>
-    ���O<end_line>
-    ���~�B�̏����b�������Ƃ���������<end_line>
+    あれ？<end_line>
+    お前<end_line>
+    レミィの召喚獣見たことあったっけ<end_line>
   </sjis>
   <ascii>
     Huh?<end_line>
@@ -888,7 +888,7 @@
   <portrait_l entry="lemmy" eye="surprised" mouth="stressed">
   <portrait_r entry="jade" eye="surprised" mouth="tense">
   <sjis>
-    �W�F�C�h����I�H<end_line>
+    ジェイドさん！？<end_line>
   </sjis>
   <ascii>
     Jade!?<end_line>
@@ -900,14 +900,14 @@
   <portrait_r entry="lemmy" eye="sad" mouth="neutral">
   <male>
     <sjis>
-      ���A���O<end_line>
-      �����b����́H<end_line>
+      え、お前<end_line>
+      召喚獣いるの？<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ���A����<end_line>
-      �����b����́H<end_line>
+      え、あんた<end_line>
+      召喚獣いるの？<end_line>
     </sjis>
   </female>
   <ascii>
@@ -920,7 +920,7 @@
   <portrait_l entry="player" eye="surprised" mouth="tense">
   <portrait_r entry="lemmy" eye="sad" mouth="tense">
   <sjis>
-    �����<three_dots><end_line>
+    それは<three_dots><end_line>
   </sjis>
   <ascii>
     Well<three_dots><end_line>
@@ -931,9 +931,9 @@
   <portrait_l entry="player" eye="surprised" mouth="tense">
   <portrait_r entry="jade" eye="decided" mouth="neutral">
   <sjis>
-    �{�X�^�t����̂��Ƃ�������<end_line>
-    �������N���͌��ĂȂ����ǂ�<end_line>
-    ����������<end_line>
+    ボスタフさんのこともあって<end_line>
+    ここ何年かは見てないけどな<end_line>
+    相当強いぜ<end_line>
   </sjis>
   <ascii>
     There was that thing with Bostaph,<end_line>
@@ -947,14 +947,14 @@
   <portrait_r entry="jade" eye="decided" mouth="neutral">
   <male>
     <sjis>
-      �ւ�<three_dots><end_line>
-      �ǂ����A<partner>�H<end_line>
+      へえ<three_dots><end_line>
+      どうだ、<partner>？<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �ւ�<three_dots><end_line>
-      �ǂ��A<partner>�H<end_line>
+      へえ<three_dots><end_line>
+      どう、<partner>？<end_line>
     </sjis>
   </female>
   <ascii>
@@ -968,8 +968,8 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="partner" eye="decided" mouth="neutral">
   <sjis>
-    �^�V�J�j�@�����V�e�~�^�C<end_line>
-    �f�X�l<end_line>
+    タシカニ　勝負シテミタイ<end_line>
+    デスネ<end_line>
   </sjis>
   <ascii>
     I Do Wish To Have<end_line>
@@ -982,7 +982,7 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="partner" eye="decided" mouth="neutral">
   <sjis>
-    ����͋C�ɂȂ�̂�<three_dots><end_line>
+    それは気になるのう<three_dots><end_line>
   </sjis>
   <ascii>
     Intriguing<three_dots><end_line>
@@ -994,8 +994,8 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="partner" eye="decided" mouth="neutral">
   <sjis>
-    �ӂ�<three_dots>�ǂ����ɂ���<end_line>
-    ���������Ă��<end_line>
+    ふん<three_dots>どっちにしろ<end_line>
+    私が消してやる<end_line>
   </sjis>
   <ascii>
     Hmph<three_dots> Strong or not,<end_line>
@@ -1008,8 +1008,8 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="partner" eye="decided" mouth="neutral">
   <sjis>
-    �������ɏ������Ă݂���<end_line>
-    �ł���<end_line>
+    たしかに勝負してみたい<end_line>
+    ですね<end_line>
   </sjis>
   <ascii>
     Yes, I would like to have<end_line>
@@ -1022,14 +1022,14 @@
   <portrait_r entry="partner" eye="decided" mouth="neutral">
   <male>
     <sjis>
-      ������<end_line>
-      ����A���܂肾��<end_line>
+      そっか<end_line>
+      じゃ、決まりだな<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ������<end_line>
-      ����A���܂��<end_line>
+      そっか<end_line>
+      じゃ、決まりね<end_line>
     </sjis>
   </female>
   <ascii>
@@ -1042,7 +1042,7 @@
   <portrait_l entry="player" eye="decided" mouth="talk">
   <portrait_r entry="lemmy" eye="happy" mouth="neutral">
   <sjis>
-    ����Ɍ��߂�ȁ`<end_line>
+    勝手に決めるな～<end_line>
   </sjis>
   <ascii>
     Where's my say in all this?<end_line>
@@ -1052,9 +1052,9 @@
   <info box="right">
   <portrait_r entry="vee" eye="serious" mouth="neutral">
   <sjis>
-    �͂��͂��A�����܂�<end_line>
-    ���낻��o�����Ȃ���<end_line>
-    �������ꂿ�Ⴄ��I<end_line>
+    はいはい、そこまで<end_line>
+    そろそろ出発しないと<end_line>
+    日がくれちゃうよ！<end_line>
   </sjis>
   <ascii>
     Okay, okay, that's enough.<end_line>
@@ -1067,9 +1067,9 @@
   <portrait_l entry="wellman" eye="sad" mouth="neutral">
   <portrait_r entry="vee" eye="serious" mouth="neutral">
   <sjis>
-    �݂Ȃ���ɂ�<end_line>
-    �{���ɂ����b�ɂȂ�܂���<end_line>
-    ���肪�Ƃ��������܂�<end_line>
+    みなさんには<end_line>
+    本当にお世話になりました<end_line>
+    ありがとうございます<end_line>
   </sjis>
   <ascii>
     I am truly in your debt.<end_line>
@@ -1081,8 +1081,8 @@
   <portrait_l entry="murno" eye="surprised" mouth="stressed">
   <portrait_r entry="vee" eye="serious" mouth="neutral">
   <sjis>
-    ���I<end_line>
-    ���B�[����A���̕�<three_dots>�I<end_line>
+    あ！<end_line>
+    ヴィーさん、この服<three_dots>！<end_line>
   </sjis>
   <ascii>
     Ah!<end_line>
@@ -1094,9 +1094,9 @@
   <portrait_l entry="murno" eye="surprised" mouth="stressed">
   <portrait_r entry="vee" eye="happy" mouth="neutral">
   <sjis>
-    ������A�A���^�ɂ�����<end_line>
-    �^���X�̂��₵�ɂ��Ă������<end_line>
-    ���u����낱�Ԃ�<three_dots><end_line>
+    いいよ、アンタにあげる<end_line>
+    タンスのこやしにしておくより<end_line>
+    ロブもよろこぶよ<three_dots><end_line>
   </sjis>
   <ascii>
     It's okay, I'm giving them to you.<end_line>
@@ -1109,8 +1109,8 @@
   <portrait_l entry="murno" eye="sad" mouth="talk">
   <portrait_r entry="vee" eye="happy" mouth="neutral">
   <sjis>
-    ���B�[����<three_dots><end_line>
-    �厖�ɂ��܂�<three_dots><end_line>
+    ヴィーさん<three_dots><end_line>
+    大事にします<three_dots><end_line>
   </sjis>
   <ascii>
     Miss V.E<three_dots><end_line>
@@ -1122,9 +1122,9 @@
   <portrait_l entry="murno" eye="serious" mouth="tense">
   <portrait_r entry="jade" eye="serious" mouth="talk">
   <sjis>
-    ���Ⴀ�܂��A�߂�������<end_line>
-    �Ăтɗ��邩��<end_line>
-    ���C�łȁI<end_line>
+    じゃあまた、近いうちに<end_line>
+    呼びに来るから<end_line>
+    元気でな！<end_line>
   </sjis>
   <ascii>
     Alright then, we'll come again<end_line>
@@ -1137,9 +1137,9 @@
   <portrait_l entry="murno" eye="decided" mouth="neutral">
   <portrait_r entry="jade" eye="serious" mouth="talk">
   <sjis>
-    �͂��I<end_line>
-    �W�F�C�h��������x�c�̂��d��<end_line>
-    ����΂��Ă���������<end_line>
+    はい！<end_line>
+    ジェイドさんも自警団のお仕事<end_line>
+    がんばってくださいね<end_line>
   </sjis>
   <ascii>
     Yes!<end_line>
@@ -1152,9 +1152,9 @@
   <portrait_l entry="murno" eye="serious" mouth="neutral">
   <portrait_r entry="tier" eye="serious" mouth="neutral">
   <sjis>
-    ���Ⴀ�ˁA�~���[�m�I<end_line>
-    �قق��ݒ��ɂ������тɂ��Ă�<end_line>
-    �P�[�L���������Ⴄ����I<end_line>
+    じゃあね、ミューノ！<end_line>
+    ほほえみ亭にもあそびにきてね<end_line>
+    ケーキおごっちゃうから！<end_line>
   </sjis>
   <ascii>
     Bye, Murno!<end_line>
@@ -1167,7 +1167,7 @@
   <portrait_l entry="murno" eye="serious" mouth="neutral">
   <portrait_r entry="tier" eye="special" mouth="talk">
   <sjis>
-    �ЂƂ��������ǁI<end_line>
+    ひとつだけだけど！<end_line>
   </sjis>
   <ascii>
     But just one!<end_line>
@@ -1178,9 +1178,9 @@
   <portrait_l entry="murno" eye="happy" mouth="neutral">
   <portrait_r entry="tier" eye="serious" mouth="talk">
   <sjis>
-    ���肪�Ƃ��I<end_line>
-    ���Ȃ炸�s����I<end_line>
-    �e�B�G���������d������΂��āI<end_line>
+    ありがとう！<end_line>
+    かならず行くわ！<end_line>
+    ティエちゃんもお仕事がんばって！<end_line>
   </sjis>
   <ascii>
     Thanks!<end_line>
@@ -1193,8 +1193,8 @@
   <portrait_l entry="player" eye="sad" mouth="neutral">
   <portrait_r entry="murno" eye="serious" mouth="neutral">
   <sjis>
-    ����<three_dots><end_line>
-    �~���[�m<three_dots><end_line>
+    あの<three_dots><end_line>
+    ミューノ<three_dots><end_line>
   </sjis>
   <ascii>
     Um<three_dots><end_line>
@@ -1216,9 +1216,9 @@
   <info box="right">
   <portrait_r entry="vee" eye="happy" mouth="tense">
   <sjis>
-    ���[����<three_dots><end_line>
-    ��s���Ă�����<end_line>
-    �����ł����ˁH<end_line>
+    えーっと<three_dots><end_line>
+    先行ってた方が<end_line>
+    いいですかね？<end_line>
   </sjis>
   <ascii>
     Uhh<three_dots><end_line>
@@ -1231,7 +1231,7 @@
   <portrait_l entry="player" eye="surprised_blush" mouth="stressed">
   <portrait_r entry="vee" eye="happy" mouth="tense">
   <sjis>
-    �e���I<end_line>
+    親方！<end_line>
   </sjis>
   <ascii>
     Master!<end_line>
@@ -1243,8 +1243,8 @@
   <portrait_l entry="partner" eye="sad" mouth="tense">
   <portrait_r entry="murno" eye="serious" mouth="neutral">
   <sjis>
-    �݂�[�̗l<end_line>
-    �f�n�A�V�o���N�I�ʃ��f�X<end_line>
+    みゅーの様<end_line>
+    デハ、シバラクオ別レデス<end_line>
   </sjis>
   <ascii>
     Lady Murno,<end_line>
@@ -1257,9 +1257,9 @@
   <portrait_l entry="partner" eye="sad" mouth="tense">
   <portrait_r entry="murno" eye="serious" mouth="neutral">
   <sjis>
-    �~���[�m<end_line>
-    ���΂炭�͂Ȃ�邱�ƂɂȂ邪<end_line>
-    �B�҂ł�<three_dots><end_line>
+    ミューノ<end_line>
+    しばらくはなれることになるが<end_line>
+    達者での<three_dots><end_line>
   </sjis>
   <ascii>
     Murno.<end_line>
@@ -1273,9 +1273,9 @@
   <portrait_l entry="partner" eye="sad" mouth="tense">
   <portrait_r entry="murno" eye="serious" mouth="neutral">
   <sjis>
-    ���΂炭����݂邱�Ƃ�<end_line>
-    �ł��Ȃ���������<three_dots><end_line>
-    ���`���͂���Ȃ�A�~���[�m<end_line>
+    しばらく顔をみることは<end_line>
+    できなさそうだが<three_dots><end_line>
+    ムチャはするなよ、ミューノ<end_line>
   </sjis>
   <ascii>
     I won't be able to see you<end_line><end_line>
@@ -1289,9 +1289,9 @@
   <portrait_l entry="partner" eye="sad" mouth="tense">
   <portrait_r entry="murno" eye="serious" mouth="neutral">
   <sjis>
-    �����A�~���[�m�l<three_dots><end_line>
-    ���΂炭���ʂ�ł����<three_dots><end_line>
-    �ǂ����A�����C��<three_dots><end_line>
+    うぅ、ミューノ様<three_dots><end_line>
+    しばらくお別れですわね<three_dots><end_line>
+    どうか、お元気で<three_dots><end_line>
   </sjis>
   <ascii>
     Uu, Lady Murno<three><end_line>
@@ -1304,9 +1304,9 @@
   <portrait_l entry="partner" eye="sad" mouth="tense">
   <portrait_r entry="murno" eye="decided" mouth="talk">
   <sjis>
-    ����<end_line>
-    <partner>�����b��t�̃p�[�g�i�[<end_line>
-    ����΂��ĂˁI<end_line>
+    うん<end_line>
+    <partner>こそ鍛冶師のパートナー<end_line>
+    がんばってね！<end_line>
   </sjis>
   <ascii>
     Yes.<end_line>
@@ -1320,7 +1320,7 @@
   <portrait_r entry="murno" eye="serious" mouth="neutral">
   <sjis>
     <player_nickname><three_dots><end_line>
-    <partner>����낵����<end_line>
+    <partner>をよろしくね<end_line>
   </sjis>
   <ascii>
     <player_nickname><three_dots><end_line>
@@ -1333,16 +1333,16 @@
   <portrait_r entry="murno" eye="serious" mouth="neutral">
   <male>
     <sjis>
-      �킩�����I<end_line>
-      �~���[�m<three_dots><end_line>
-      �K���܂�������I<end_line>
+      わかった！<end_line>
+      ミューノ<three_dots><end_line>
+      必ずまた会おうぜ！<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ����<end_line>
-      �~���[�m<three_dots><end_line>
-      �K���܂�����ˁI<end_line>
+      うん<end_line>
+      ミューノ<three_dots><end_line>
+      必ずまた会おうね！<end_line>
     </sjis>
   </female>
   <ascii>
@@ -1356,8 +1356,8 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="murno" eye="happy_blush" mouth="talk">
   <sjis>
-    ����I�@�񑩂ˁI<end_line>
-    ���Ⴀ<three_dots><end_line>
+    うん！　約束ね！<end_line>
+    じゃあ<three_dots><end_line>
   </sjis>
   <ascii>
     Yes! We will!<end_line>
@@ -1369,8 +1369,8 @@
   <portrait_l entry="player" eye="happy_blush" mouth="talk">
   <portrait_r entry="murno" eye="happy_blush" mouth="talk">
   <sjis>
-    ����I<end_line>
-    �܂��I<end_line>
+    うん！<end_line>
+    また！<end_line>
   </sjis>
   <ascii>
     Right!<end_line>

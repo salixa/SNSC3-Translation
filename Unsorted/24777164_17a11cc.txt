@@ -1,32 +1,32 @@
 <location>
 	<sjis>
-		ƒ}[ƒlƒCƒ‹hê@‚Ù‚Ù‚¦‚Ý’à‘O<end_line>
+		ãƒžãƒ¼ãƒã‚¤ãƒ«å®¿å ´ã€€ã»ã»ãˆã¿äº­å‰<end_line>
 	</sjis>
 </location>
 <location>
 	<sjis>
-		h‰®‚Ì‘º@ƒƒCƒ“<end_line>
+		å®¿å±‹ã®æ‘ã€€ãƒ¡ã‚¤ãƒ³<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		‘‚ÍŒ•‚ÅŠ ‚ê‚é‚í<end_line>
-		’m‚Á‚Ä‚½H<end_line>
+		è‰ã¯å‰£ã§åˆˆã‚Œã‚‹ã‚<end_line>
+		çŸ¥ã£ã¦ãŸï¼Ÿ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		‚¦HíŽ¯H<end_line>
-		ð“ú‹C‚Ã‚¢‚½‚ ‚½‚µ‚Á‚Ä‰½H<end_line>
+		ãˆï¼Ÿå¸¸è­˜ï¼Ÿ<end_line>
+		æ˜¨æ—¥æ°—ã¥ã„ãŸã‚ãŸã—ã£ã¦ä½•ï¼Ÿ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		ƒSƒƒSƒ<three_dots><end_line>
+		ã‚´ãƒ­ã‚´ãƒ­<three_dots><end_line>
 	</sjis>
 </dialogue>

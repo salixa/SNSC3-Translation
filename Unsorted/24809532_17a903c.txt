@@ -1,19 +1,19 @@
 <location>
 	<sjis>
-		ƒ‹ƒC[ƒY‘º<end_line>
+		ãƒ«ã‚¤ãƒ¼ã‚ºæ‘<end_line>
 	</sjis>
 </location>
 <location>
 	<sjis>
-		ƒ‹ƒC[ƒY‘º@˜S‰®‘O<end_line>
+		ãƒ«ã‚¤ãƒ¼ã‚ºæ‘ã€€ç‰¢å±‹å‰<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		‚±‚ñ‚ÈƒJƒr‚­‚³‚¢‘º‚ðo‚Ä<end_line>
-		‘å‚«‚È’¬‚És‚«‚½‚¢‚í<end_line>
-		‚ ‚ `‚Å‚à‘º‚Ì|‚ª<three_dots><end_line>
+		ã“ã‚“ãªã‚«ãƒ“ãã•ã„æ‘ã‚’å‡ºã¦<end_line>
+		å¤§ããªç”ºã«è¡ŒããŸã„ã‚<end_line>
+		ã‚ã‚ï½žã§ã‚‚æ‘ã®æŽŸãŒ<three_dots><end_line>
 	</sjis>
 </dialogue>

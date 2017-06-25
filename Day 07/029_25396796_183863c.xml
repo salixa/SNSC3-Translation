@@ -2,7 +2,7 @@
   <info box="left">
   <portrait_l entry="player" eye="decided" mouth="tense">
   <sjis>
-    ���ƂȂ����Ȃ�������<three_dots><end_line>
+    おとなしくなったけど<three_dots><end_line>
   </sjis>
   <ascii>
     It's calmed down now<three_dots><end_line>
@@ -12,8 +12,8 @@
   <info box="left">
   <portrait_l entry="player" eye="surprised" mouth="stressed">
   <sjis>
-    ���I�H<end_line>
-    ������<three_dots>�I�H<end_line>
+    え！？<end_line>
+    消えた<three_dots>！？<end_line>
   </sjis>
   <ascii>
     Eh!?<end_line>
@@ -26,7 +26,7 @@
   <portrait_l entry="player" eye="surprised" mouth="stressed">
   <portrait_r entry="partner" eye="decided" mouth="tense">
   <sjis>
-    ���҃T���^�@���E�f�X�l<end_line>
+    送還サレタ　ヨウデスネ<end_line>
   </sjis>
   <ascii>
     It Seems To Have Been Dismissed.<end_line>
@@ -38,8 +38,8 @@
   <portrait_l entry="player" eye="surprised" mouth="stressed">
   <portrait_r entry="partner" eye="decided" mouth="tense">
   <sjis>
-    �ǂ����<end_line>
-    ���҂��ꂽ�悤�����<end_line>
+    どうやら<end_line>
+    送還されたようじゃの<end_line>
   </sjis>
   <ascii>
     It seems like<end_line>
@@ -52,8 +52,8 @@
   <portrait_l entry="player" eye="surprised" mouth="stressed">
   <portrait_r entry="partner" eye="decided" mouth="tense">
   <sjis>
-    ����<three_dots><end_line>
-    ���҂����Ƃ�<three_dots><end_line>
+    ちっ<three_dots><end_line>
+    送還されるとは<three_dots><end_line>
   </sjis>
   <ascii>
     Tch<three_dots><end_line>
@@ -66,8 +66,8 @@
   <portrait_l entry="player" eye="surprised" mouth="stressed">
   <portrait_r entry="partner" eye="decided" mouth="tense">
   <sjis>
-    �ǂ����<three_dots><end_line>
-    ���҂��ꂽ�݂����ł���<end_line>
+    どうやら<three_dots><end_line>
+    送還されたみたいですわ<end_line>
   </sjis>
   <ascii>
     It seems<three_dots><end_line>
@@ -79,8 +79,8 @@
   <portrait_l entry="player" eye="decided" mouth="tense">
   <portrait_r entry="partner" eye="decided" mouth="tense">
   <sjis>
-    ����<three_dots><end_line>
-    <three_dots>���Ăǂ�����<three_dots>�H<end_line>
+    送還<three_dots><end_line>
+    <three_dots>ってどういう<three_dots>？<end_line>
   </sjis>
   <ascii>
     Dismissed<three_dots><end_line>
@@ -91,8 +91,8 @@
   <info box="left">
   <portrait_l entry="player" eye="decided" mouth="yell">
   <sjis>
-    ���I�@�A�j�X�����Ȃ��I�H<end_line>
-    ���̊Ԃ�<three_dots>�I�H<end_line>
+    あ！　アニスがいない！？<end_line>
+    いつの間に<three_dots>！？<end_line>
   </sjis>
   <ascii>
     Ah! Anise is gone!?<end_line>
@@ -104,9 +104,9 @@
   <portrait_l entry="player" eye="decided" mouth="yell">
   <portrait_r entry="tram" eye="decided" mouth="serious">
   <sjis>
-    �����ɏ悶�āA���̊Ԃɂ�<end_line>
-    �����΂����߂��Ă���<end_line>
-    �݂����ł���<three_dots><end_line>
+    混乱に乗じて、いつの間にか<end_line>
+    召喚石を取り戻していた<end_line>
+    みたいですね<three_dots><end_line>
   </sjis>
   <ascii>
     Looks like she took back her<end_line>
@@ -119,14 +119,14 @@
   <portrait_r entry="tram" eye="decided" mouth="serious">
   <male>
     <sjis>
-      �����A�����o�����̂��I�H<end_line>
-      �ǂ������Ȃ��ƁI<end_line>
+      あいつ、逃げ出したのか！？<end_line>
+      追いかけないと！<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �����A�����o�����́I�H<end_line>
-      �ǂ������Ȃ���I<end_line>
+      あいつ、逃げ出したの！？<end_line>
+      追いかけなきゃ！<end_line>
     </sjis>
   </female>
   <ascii>
@@ -140,9 +140,9 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <portrait_r entry="partner" eye="decided" mouth="serious">
   <sjis>
-    �ޏ��K���Q�^�ꍇ<end_line>
-    ���΃��@��j�������^��<end_line>
-    ���ԃ��c���e�@�߃��\���K<three_dots><end_line>
+    彼女ガ逃ゲタ場合<end_line>
+    魔石ヲ　手ニ入レルタメ<end_line>
+    仲間ヲツレテ　戻ル可能性ガ<three_dots><end_line>
   </sjis>
   <ascii>
     Now That She Has Escaped,<end_line>
@@ -157,9 +157,9 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <portrait_r entry="partner" eye="decided" mouth="serious">
   <sjis>
-    ���̂܂ܓ������Ă��܂���<end_line>
-    ���΂���ɓ���邽��<end_line>
-    ���Ԃ���Ă��邩������ʂ�<end_line>
+    このまま逃がしてしまうと<end_line>
+    魔石を手に入れるため<end_line>
+    仲間をつれてくるかもしれぬぞ<end_line>
   </sjis>
   <ascii>
     Now that she escaped,<end_line>
@@ -173,9 +173,9 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <portrait_r entry="partner" eye="decided" mouth="serious">
   <sjis>
-    �����̂��Ƃ�<three_dots><end_line>
-    ���Ԃ���Ė߂��Ă���񂶂�Ȃ���<end_line>
-    ���΂���ɓ���邽�߂�<end_line>
+    あいつのことだ<three_dots><end_line>
+    仲間をつれて戻ってくるんじゃないか<end_line>
+    魔石を手に入れるために<end_line>
   </sjis>
   <ascii>
     That woman<three_dots><end_line>
@@ -189,9 +189,9 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <portrait_r entry="partner" eye="decided" mouth="serious">
   <sjis>
-    ���Ԃ���Ė߂��Ă��邩��<end_line>
-    ����܂����<end_line>
-    ���΂���ɓ���邽�߂�<end_line>
+    仲間をつれて戻ってくるかも<end_line>
+    しれませんわ<end_line>
+    魔石を手に入れるために<end_line>
   </sjis>
   <ascii>
     She may return with her<end_line>
@@ -203,7 +203,7 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <portrait_r entry="tram" eye="serious" mouth="tense">
   <sjis>
-    ����͂Ȃ��Ǝv���܂�<three_dots><end_line>
+    それはないと思います<three_dots><end_line>
   </sjis>
   <ascii>
     I don't think that will happen<three_dots><end_line>
@@ -214,7 +214,7 @@
   <portrait_l entry="player" eye="decided" mouth="tense">
   <portrait_r entry="tram" eye="serious" mouth="tense">
   <sjis>
-    �Ȃ�ŁI�H<end_line>
+    なんで！？<end_line>
   </sjis>
   <ascii>
     Why!?<end_line>
@@ -225,9 +225,9 @@
   <portrait_l entry="player" eye="decided" mouth="tense">
   <portrait_r entry="tram" eye="decided" mouth="serious">
   <sjis>
-    �ӂ����т��̘A����<end_line>
-    ���̑��ɏ������ꂽ�牽���N���邩<end_line>
-    �ޏ����悭�m���Ă��܂�����<three_dots><end_line>
+    ふたたびあの連中を<end_line>
+    この村に招き入れたら何が起こるか<end_line>
+    彼女もよく知っていますから<three_dots><end_line>
   </sjis>
   <ascii>
     She knows very well what will<end_line>
@@ -240,9 +240,9 @@
   <portrait_l entry="player" eye="decided" mouth="tense">
   <portrait_r entry="tram" eye="sad" mouth="tense">
   <sjis>
-    �A�j�X�͂��̑���<end_line>
-    ����ł��邩������Ȃ���<end_line>
-    �����Ă��Ȃ��킯�ł��Ȃ��n�Y�ł�<three_dots><end_line>
+    アニスはこの村を<end_line>
+    憎んでいるかもしれないが<end_line>
+    愛していないわけでもないハズです<three_dots><end_line>
   </sjis>
   <ascii>
     Anise appears to hate this village,<end_line>
@@ -265,7 +265,7 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <portrait_r entry="tram" eye="serious" mouth="yell">
   <sjis>
-    �Ƃɂ����A�������܂��傤�I<end_line>
+    とにかく、さがしましょう！<end_line>
   </sjis>
   <ascii>
     Anyway, let's look for them!<end_line.

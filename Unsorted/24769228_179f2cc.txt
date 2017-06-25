@@ -1,18 +1,18 @@
 <location>
 	<sjis>
-		ƒfƒBƒbƒNƒ‹‘º<end_line>
+		ãƒ‡ã‚£ãƒƒã‚¯ãƒ«æ‘<end_line>
 	</sjis>
 </location>
 <location>
 	<sjis>
-		ƒfƒBƒbƒNƒ‹‘º@z“´“ü‚èŒû<end_line>
+		ãƒ‡ã‚£ãƒƒã‚¯ãƒ«æ‘ã€€é‰±æ´žå…¥ã‚Šå£<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="elderly">
 	<sjis>
-		¬“¤‚Í‘Ì‚É`<end_line>
+		å°è±†ã¯ä½“ã«ï½ž<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -26,7 +26,7 @@
 	<info box="simple">
 	<portrait_l name="elderly">
 	<sjis>
-		‚Í‚ÄH<end_line>
-		‰½‚¶‚á‚Á‚½‚©‚ÌH<end_line>
+		ã¯ã¦ï¼Ÿ<end_line>
+		ä½•ã˜ã‚ƒã£ãŸã‹ã®ï¼Ÿ<end_line>
 	</sjis>
 </dialogue>

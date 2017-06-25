@@ -1,11 +1,11 @@
 <location>
   <sjis>
-    �S���@���̈��<end_line>
+    ゴヴァンの遺跡<end_line>
   </sjis>
 </location>
 <location>
   <sjis>
-    �S���@���̈�Ձ@���͑����̊�<end_line>
+    ゴヴァンの遺跡　魔力増幅の間<end_line>
   </sjis>
 </location>
 <dialogue>
@@ -13,12 +13,12 @@
   <portrait_l name="player">
   <male>
     <sjis>
-      ����������͏�ɖ߂�Ȃ��݂�����<end_line>
+      こっちからは上に戻れないみたいだ<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ����������͏�ɖ߂�Ȃ��݂���<end_line>
+      こっちからは上に戻れないみたい<end_line>
     </sjis>
   </female>
   <ascii>

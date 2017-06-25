@@ -1,31 +1,31 @@
 <location>
 	<sjis>
-		ƒfƒBƒbƒNƒ‹‘º@’Þ‚èl‚Ì’r<end_line>
+		ãƒ‡ã‚£ãƒƒã‚¯ãƒ«æ‘ã€€é‡£ã‚Šäººã®æ± <end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		•Ší‚ðŽæ‚è‚É—ˆ‚½‚Ì‚©H<end_line>
+		æ­¦å™¨ã‚’å–ã‚Šã«æ¥ãŸã®ã‹ï¼Ÿ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		•Ší‚ð—a‚¯‚É—ˆ‚½‚Ì‚©H<end_line>
+		æ­¦å™¨ã‚’é ã‘ã«æ¥ãŸã®ã‹ï¼Ÿ<end_line>
 	</sjis>
 </dialogue>
 <menu>
 	<option>
 		<sjis>
-			‚Í‚¢<end_line>
+			ã¯ã„<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			‚¢‚¢‚¦<end_line>
+			ã„ã„ãˆ<end_line>
 		</sjis>
 	</option>
 </menu>
@@ -33,12 +33,12 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		—a‚¯‚ç‚ê‚»‚¤‚È•Ší‚ª–³‚¢‚¼<end_line>
+		é ã‘ã‚‰ã‚Œãã†ãªæ­¦å™¨ãŒç„¡ã„ãž<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		ƒSƒƒSƒ<three_dots><end_line>
+		ã‚´ãƒ­ã‚´ãƒ­<three_dots><end_line>
 	</sjis>
 </dialogue>

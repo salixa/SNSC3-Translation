@@ -4,7 +4,7 @@
   <portrait_r entry="lemmy" eye="decided" mouth="neutral">
   <male>
     <sjis>
-      ‚³‚ÄA‚Í‚¶‚ß‚æ‚¤‚º<end_line>
+      ã•ã¦ã€ã¯ã˜ã‚ã‚ˆã†ãœ<end_line>
     </sjis>
     <ascii>
       Alright, let's start.<end_line>
@@ -12,7 +12,7 @@
   </male>
   <female>
     <sjis>
-      ‚³‚ A‚Í‚¶‚ß‚Ü‚µ‚å‚¤H<end_line>
+      ã•ã‚ã€ã¯ã˜ã‚ã¾ã—ã‚‡ã†ï¼Ÿ<end_line>
     </sjis>
     <ascii>
       Then, shall we start?<end_line>
@@ -24,9 +24,9 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="lemmy" eye="decided" mouth="serious">
   <sjis>
-    ‚³‚Á‚«‚àŒ¾‚Á‚½‚¯‚Ç<end_line>
-    –l‚Í¡Aƒ€ƒVƒƒƒNƒVƒƒ‚µ‚Ä‚é‚©‚ç<end_line>
-    Žè‰ÁŒ¸‚Å‚«‚é‚©‚Ç‚¤‚©AŽ©M‚È‚¢‚ñ‚¾<end_line>
+    ã•ã£ãã‚‚è¨€ã£ãŸã‘ã©<end_line>
+    åƒ•ã¯ä»Šã€ãƒ ã‚·ãƒ£ã‚¯ã‚·ãƒ£ã—ã¦ã‚‹ã‹ã‚‰<end_line>
+    æ‰‹åŠ æ¸›ã§ãã‚‹ã‹ã©ã†ã‹ã€è‡ªä¿¡ãªã„ã‚“ã <end_line>
   </sjis>
   <ascii>
     I said this earlier, but I'll say<end_line>
@@ -39,9 +39,9 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="lemmy" eye="decided" mouth="neutral">
   <sjis>
-    ‚¾‚©‚çŒN‚ÍA–l‚Ì‚±‚Æ‚æ‚è‚à<end_line>
-    Ž©•ª‚ÌS”z‚ð‚µ‚Ä‚¢‚½•û‚ª<end_line>
-    ‚¢‚¢‚ÆŽv‚¤‚æ<end_line>
+    ã ã‹ã‚‰å›ã¯ã€åƒ•ã®ã“ã¨ã‚ˆã‚Šã‚‚<end_line>
+    è‡ªåˆ†ã®å¿ƒé…ã‚’ã—ã¦ã„ãŸæ–¹ãŒ<end_line>
+    ã„ã„ã¨æ€ã†ã‚ˆ<end_line>
   </sjis>
   <ascii>
     So, stop worrying about me,<end_line>
@@ -55,14 +55,14 @@
   <portrait_r entry="lemmy" eye="decided" mouth="neutral">
   <male>
     <sjis>
-      ‚È‚ñ‚¾‚Æ<three_dots><end_line>
-      s‚­‚¼I<end_line>
+      ãªã‚“ã ã¨<three_dots><end_line>
+      è¡Œããžï¼<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ‚È‚ñ‚Å‚·‚Á‚Ä<three_dots><end_line>
-      s‚Á‚­‚¼[I<end_line>
+      ãªã‚“ã§ã™ã£ã¦<three_dots><end_line>
+      è¡Œã£ããžãƒ¼ï¼<end_line>
     </sjis>
   </female>
   <ascii>

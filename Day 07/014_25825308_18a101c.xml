@@ -1,19 +1,19 @@
 <location>
 	<sjis>
-		�O�}�O�̉����<end_line>
+		グマグの炎遺跡<end_line>
 	</sjis>
 </location>
 <location>
 	<sjis>
-		�O�}�O�̉���Ձ@�G���A�T<end_line>
+		グマグの炎遺跡　エリア５<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="tram">
 	<sjis>
-		���ɏ��܂�<end_line>
-		�����͒ʂ��܂����<end_line>
+		私に勝つまで<end_line>
+		そこは通しませんよ<end_line>
 	</sjis>
   <ascii>
     Until you beat me, you<end_line>
@@ -24,7 +24,7 @@
 	<info box="simple">
 	<portrait_l name="murno">
 	<sjis>
-		�C�����ĂˁA<player_nickname><three_dots><end_line>
+		気をつけてね、<player_nickname><three_dots><end_line>
 	</sjis>
   <ascii>
     Be careful, <player_nickname><three_dots><end_line>
@@ -34,9 +34,9 @@
 	<info box="simple">
 	<portrait_l name="tram">
 	<sjis>
-		�ǂ�ȕ�����g����<end_line>
-		���ɒ���ł�����肩�m��܂���<end_line>
-		�܂��A����΂��Ă���������<end_line>
+		どんな武器を使って<end_line>
+		私に挑んでくるつもりか知りませんが<end_line>
+		まあ、がんばってくださいね<end_line>
 	</sjis>
   <ascii>
     I don't know what kind of weapon<end_line>

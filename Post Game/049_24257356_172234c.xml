@@ -2,46 +2,46 @@
 	<info box="simple">
 	<portrait_l name="fisherman">
 	<sjis>
-		��{�͊ƁI<end_line>
-		�b�͂��ꂩ�炾<end_line>
+		基本は竿！<end_line>
+		話はそれからだ<end_line>
 	</sjis>
 </dialogue>
 <menu>
 	<title>
 		<sjis>
-			�ǂ�����̂��ˁH<end_line>
+			どうするのかね？<end_line>
 		</sjis>
 	</title>
 	<option>
 		<sjis>
-			�ނ�<end_line>
+			釣り<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			�i�i����<end_line>
+			景品交換<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			��߂�<end_line>
+			やめる<end_line>
 		</sjis>
 	</option>
 </menu>
 <menu>
 	<title>
 		<sjis>
-			�ǂ�����̂��ˁH<end_line>
+			どうするのかね？<end_line>
 		</sjis>
 	</title>
 	<option>
 		<sjis>
-			�i�i����<end_line>
+			景品交換<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			��߂�<end_line>
+			やめる<end_line>
 		</sjis>
 	</option>
 </menu>

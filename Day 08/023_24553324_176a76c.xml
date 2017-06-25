@@ -1,14 +1,14 @@
 <location>
   <sjis>
-    �v���X�o���̒��@�w<end_line>
+    プロスバンの町　駅<end_line>
   </sjis>
 </location>
 <dialogue>
   <info box="simple">
   <portrait_l name="man">
   <sjis>
-    �˂��L�~�͂ǂ��������Č�����<end_line>
-    �U���n�H�񕜌n�H<end_line>
+    ねぇキミはどっちかって言うと<end_line>
+    攻撃系？回復系？<end_line>
   </sjis>
   <ascii>
     Hey, if you had to choose between<end_line>
@@ -20,9 +20,9 @@
   <info box="simple">
   <portrait_l name="man">
   <sjis>
-    ��H<end_line>
-    �����A�����b���ĂԐ헪�Ƃ���<end_line>
-    ��ɂǂ����D�悵�Ă邩���Ęb<end_line>
+    ん？<end_line>
+    ああ、召喚獣を呼ぶ戦略として<end_line>
+    主にどちらを優先してるかって話<end_line>
   </sjis>
   <ascii>
     Hm?<end_line>
@@ -34,8 +34,8 @@
   <info box="simple">
   <portrait_l name="man">
   <sjis>
-    �{�N�̏ꍇ�́A���₵�n����<end_line>
-    �����A���₳����~���[�^���E<end_line>
+    ボクの場合は、いやし系だね<end_line>
+    ああ、いやされるよミョータロウ<end_line>
   </sjis>
   <ascii>
     In my case, it'd pick Heal-type.<end_line>
@@ -45,8 +45,8 @@
 <dialogue>
   <info box="simple">
   <sjis>
-    �@<end_line>
-    �@�@���������̂����p�͌v��I�ɁI<end_line>
+    　<end_line>
+    　　福引き券のご利用は計画的に！<end_line>
   </sjis>
   <ascii>
     <end_line>

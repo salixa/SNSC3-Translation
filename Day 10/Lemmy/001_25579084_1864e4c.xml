@@ -3,14 +3,14 @@
   <portrait_r entry="player" eye="serious" mouth="tense">
   <male>
     <sjis>
-      ����<three_dots>�H<end_line>
-      ������Ă񂾁H<end_line>
+      あれ<three_dots>？<end_line>
+      何やってんだ？<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ����<three_dots>�H<end_line>
-      ������Ă񂾂�H<end_line>
+      あれ<three_dots>？<end_line>
+      何やってんだろ？<end_line>
     </sjis>
   </female>
   <ascii>
@@ -23,8 +23,8 @@
   <portrait_l entry="lemmy" eye="decided" mouth="neutral">
   <portrait_r entry="lanna" eye="decided" mouth="serious">
   <sjis>
-    ������ˁA���~�B<end_line>
-    ��߂Ă����̂�<end_line>
+    いいわね、レミィ<end_line>
+    やめておくのよ<end_line>
   </sjis>
   <ascii>
     Okay, Lemmy?<end_line>
@@ -46,7 +46,7 @@
   <info box="left">
   <portrait_l entry="lemmy" eye="decided" mouth="tense">
   <sjis>
-    �ȂɌ��Ă�́H<end_line>
+    なに見てるの？<end_line>
   </sjis>
   <ascii>
     What are you looking at?<end_line>
@@ -58,9 +58,9 @@
   <portrait_l entry="lemmy" eye="decided" mouth="neutral">
   <portrait_r entry="player" eye="sad" mouth="serious">
   <sjis>
-    ���A���∫��<end_line>
-    �ł������A���O<end_line>
-    ����ȂɐS�z����Ă񂾂��炳<three_dots><end_line>
+    あ、いや悪い<end_line>
+    でもさあ、お前<end_line>
+    あんなに心配されてんだからさ<three_dots><end_line>
   </sjis>
   <ascii>
     Ah, no, nothing.<end_line>
@@ -73,8 +73,8 @@
   <portrait_l entry="lemmy" eye="decided" mouth="neutral">
   <portrait_r entry="player" eye="sad" mouth="tense">
   <sjis>
-    �~���[�m�̑��ɍs����<end_line>
-    �~�߂Ƃ������������񂶂�Ȃ��́H<end_line>
+    ミューノの村に行くの<end_line>
+    止めといた方がいいんじゃないの？<end_line>
   </sjis>
   <ascii>
     Maybe it would be better if you<end_line>
@@ -87,9 +87,9 @@
   <portrait_l entry="lemmy" eye="decided" mouth="neutral">
   <portrait_r entry="player" eye="sad" mouth="serious">
   <sjis>
-    ���A���߂�<three_dots><end_line>
-    �ł������A���ꂳ�񂠂�Ȃ�<end_line>
-    �S�z���Ă�񂾂��炳<three_dots><end_line>
+    ご、ごめん<three_dots><end_line>
+    でもさあ、お母さんあんなに<end_line>
+    心配してるんだからさ<three_dots><end_line>
   </sjis>
   <ascii>
     S-sorry<three_dots><end_line>
@@ -103,8 +103,8 @@
   <portrait_l entry="lemmy" eye="decided" mouth="neutral">
   <portrait_r entry="player" eye="sad" mouth="tense">
   <sjis>
-    �~���[�m�̑��ɍs����<end_line>
-    �~�߂Ƃ������������񂶂�Ȃ��H<end_line>
+    ミューノの村に行くの<end_line>
+    止めといた方がいいんじゃない？<end_line>
   </sjis>
   <ascii>
     Maybe it would be better if you<end_line>
@@ -116,9 +116,9 @@
   <portrait_l entry="lemmy" eye="decided" mouth="serious">
   <portrait_r entry="player" eye="sad" mouth="tense">
   <sjis>
-    ������������͂�����<end_line>
-    �ꂳ��͊֌W�Ȃ�����<end_line>
-    �l�͐�΂ɍs��<end_line>
+    昨日も言ったはずだよ<end_line>
+    母さんは関係ないって<end_line>
+    僕は絶対に行く<end_line>
   </sjis>
   <ascii>
     I believe I told you yesterday.<end_line>
@@ -131,9 +131,9 @@
   <portrait_l entry="lemmy" eye="decided" mouth="stressed">
   <portrait_r entry="player" eye="serious" mouth="tense">
   <sjis>
-    ����ɂ��̐l�͖l���ǂꂾ���b���Ă邩<end_line>
-    �S�R�m������Ȃ���<three_dots><end_line>
-    ����Ŗl�̉���S�z������Ă����́H<end_line>
+    それにあの人は僕がどれだけ鍛えてるか<end_line>
+    全然知りもしないんだ<three_dots><end_line>
+    それで僕の何を心配するっていうの？<end_line>
   </sjis>
   <ascii>
     She doesn't know just how<end_line>
@@ -146,16 +146,16 @@
   <portrait_r entry="player" eye="serious" mouth="serious">
   <male>
     <sjis>
-      �q�������ԂȂ��Ƃ��ɍs���񂾂���<end_line>
-      ���ʁA�S�z���邾��H<end_line>
-      ��e�����H<end_line>
+      子供があぶないとこに行くんだから<end_line>
+      普通、心配するだろ？<end_line>
+      母親だぜ？<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �q�������ԂȂ��Ƃ��ɍs���񂾂���<end_line>
-      ���ʁA�S�z����ł���H<end_line>
-      ��e����H<end_line>
+      子供があぶないとこに行くんだから<end_line>
+      普通、心配するでしょ？<end_line>
+      母親だよ？<end_line>
     </sjis>
   </female>
   <ascii>
@@ -169,9 +169,9 @@
   <portrait_l entry="lemmy" eye="decided" mouth="talk">
   <portrait_r entry="player" eye="serious" mouth="serious">
   <sjis>
-    �l���s�������Ȃ��Ǝv���l�ȏꏊ�Ȃ�<end_line>
-    �N�����c���Ă����������񂶂�Ȃ��́H<end_line>
-    �����b�����Ȃ��Ɖ����ł��Ȃ�������<end_line>
+    僕が行ったら危ないと思う様な場所なら<end_line>
+    君こそ残ってた方がいいんじゃないの？<end_line>
+    召喚獣がいないと何もできないくせに<end_line>
   </sjis>
   <ascii>
     If that place is too dangerous for me,<end_line>
@@ -186,16 +186,16 @@
   <portrait_r entry="player" eye="decided" mouth="yell">
   <male>
     <sjis>
-      �Ȃ񂾂ƁI<end_line>
-      <partner>�����Ȃ�������<end_line>
-      �I����<three_dots>�I<end_line>
+      なんだと！<end_line>
+      <partner>がいなくたって<end_line>
+      オレは<three_dots>！<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �Ȃɂ�A����I<end_line>
-      <partner>�����Ȃ�������<end_line>
-      �킽����<three_dots>�I<end_line>
+      なによ、それ！<end_line>
+      <partner>がいなくたって<end_line>
+      わたしは<three_dots>！<end_line>
     </sjis>
   </female>
   <ascii>
@@ -209,9 +209,9 @@
   <portrait_l entry="lemmy" eye="decided" mouth="neutral">
   <portrait_r entry="player" eye="decided" mouth="yell">
   <sjis>
-    �}�O�h���h���������Ē��q�ɂ̂��Ă�<end_line>
-    �݂���������<end_line>
-    ����������b���������炾��<end_line>
+    マグドラドをたおして調子にのってる<end_line>
+    みたいだけど<end_line>
+    あれも召喚獣がいたからだよ<end_line>
   </sjis>
   <ascii>
     You've gotten arrogant after beating<end_line>
@@ -224,8 +224,8 @@
   <portrait_l entry="lemmy" eye="decided" mouth="talk">
   <portrait_r entry="player" eye="decided" mouth="serious">
   <sjis>
-    ���������Ėl�Ƃ̏�����<end_line>
-    �����̗͂ŏ������Ǝv���Ă�H<end_line>
+    もしかして僕との勝負も<end_line>
+    自分の力で勝ったと思ってる？<end_line>
   </sjis>
   <ascii>
     Do you really think you could<end_line>
@@ -238,16 +238,16 @@
   <portrait_r entry="player" eye="decided" mouth="yell">
   <male>
     <sjis>
-      ���q�ɂ̂��Ă�̂͂ǂ�������I<end_line>
-      �I���ЂƂ肾���Ă��O���炢<end_line>
-      �������邳�I<end_line>
+      調子にのってるのはどっちだよ！<end_line>
+      オレひとりだってお前くらい<end_line>
+      たおせるさ！<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ���q�ɂ̂��Ă�̂͂ǂ�����I<end_line>
-      �킽���ЂƂ肾���Ă��񂽂��炢<end_line>
-      �������Ă݂����I<end_line>
+      調子にのってるのはどっちよ！<end_line>
+      わたしひとりだってあんたくらい<end_line>
+      たおしてみせるわ！<end_line>
     </sjis>
   </female>
   <ascii>
@@ -261,9 +261,9 @@
   <portrait_l entry="lemmy" eye="decided" mouth="tense">
   <portrait_r entry="player" eye="decided" mouth="yell">
   <sjis>
-    �����͂�����������̏����b��<end_line>
-    ���Ȃ��݂�������<end_line>
-    �������Ȃ����������񂶂�Ȃ��́H<end_line>
+    今日はいつもいっしょの召喚獣が<end_line>
+    いないみたいだし<end_line>
+    ムリしない方がいいんじゃないの？<end_line>
   </sjis>
   <ascii>
     Looks like you're alone today,<end_line>
@@ -277,16 +277,16 @@
   <portrait_r entry="player" eye="decided" mouth="serious">
   <male>
     <sjis>
-      ���邳���I<end_line>
-      ��x���O�Ƃ͂P�΂P��<end_line>
-      �������Ă݂��������񂾁I<end_line>
+      うるさい！<end_line>
+      一度お前とは１対１で<end_line>
+      勝負してみたかったんだ！<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ���邳���I<end_line>
-      ��x���񂽂Ƃ͂P�΂P��<end_line>
-      �������Ă݂��������̂�I<end_line>
+      うるさい！<end_line>
+      一度あんたとは１対１で<end_line>
+      勝負してみたかったのよ！<end_line>
     </sjis>
   </female>
   <ascii>
@@ -300,9 +300,9 @@
   <portrait_l entry="lemmy" eye="decided" mouth="talk">
   <portrait_r entry="player" eye="decided" mouth="serious">
   <sjis>
-    ������<three_dots>�A������<end_line>
-    �l�����V���N�V�����Ă���<end_line>
-    �����C���炵�ɂȂ肻����<end_line>
+    勝負か<three_dots>、いいね<end_line>
+    僕もムシャクシャしてたし<end_line>
+    いい気晴らしになりそうだ<end_line>
   </sjis>
   <ascii>
     A match, huh<three_dots> Sounds good.<end_line>
@@ -316,8 +316,8 @@
   <portrait_r entry="player" eye="decided" mouth="neutral">
   <male>
     <sjis>
-      �������I<end_line>
-      ���Ⴀ���܂肾�ȁI<end_line>
+      よっしゃ！<end_line>
+      じゃあ決まりだな！<end_line>
     </sjis>
     <ascii>
       Alright!<end_line>
@@ -326,8 +326,8 @@
   </male>
   <female>
     <sjis>
-      ���Ⴀ���܂�ˁI<end_line>
-      ������Ă��A�������񂾂���I<end_line>
+      じゃあ決まりね！<end_line>
+      後悔しても、おそいんだから！<end_line>
     </sjis>
     <ascii>
       Then it's decided!<end_line>
@@ -340,9 +340,9 @@
   <portrait_l entry="lemmy" eye="decided" mouth="tense">
   <portrait_r entry="player" eye="decided" mouth="neutral">
   <sjis>
-    �����ɏ������Ă���������<end_line>
-    �N�ɂ͐F�X���������肻��������<end_line>
-    �k��̑O�ő҂��Ă��<end_line>
+    すぐに勝負してもいいけど<end_line>
+    君には色々準備がいりそうだから<end_line>
+    北門の前で待ってるよ<end_line>
   </sjis>
   <ascii>
     I'm ready anytime, but it seems<end_line>
@@ -355,7 +355,7 @@
   <portrait_l entry="lemmy" eye="decided" mouth="neutral">
   <portrait_r entry="player" eye="decided" mouth="neutral">
   <sjis>
-    �������ł����狳����<end_line>
+    準備ができたら教えて<end_line>
   </sjis>
   <ascii>
     Tell me when you're ready.<end_line>
@@ -367,16 +367,16 @@
   <portrait_r entry="player" eye="decided" mouth="serious">
   <male>
     <sjis>
-      �k��̑O����<end_line>
-      �킩����<end_line>
-      �҂��Ă��I<end_line>
+      北門の前だな<end_line>
+      わかった<end_line>
+      待ってろよ！<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �k��̑O��<end_line>
-      �킩������<end_line>
-      �҂��ĂȂ�����I<end_line>
+      北門の前ね<end_line>
+      わかったわ<end_line>
+      待ってなさいよ！<end_line>
     </sjis>
   </female>
   <ascii>

@@ -1,13 +1,13 @@
 <location>
 	<sjis>
-		ƒ‹ƒC[ƒY‘º@‘º’·‚Ì‰Æ<end_line>
+		ãƒ«ã‚¤ãƒ¼ã‚ºæ‘ã€€æ‘é•·ã®å®¶<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="tram">
 	<sjis>
-		ˆâÕ‚Ì¢Š«b‚ª‚³‚í‚¬‚¾‚µ‚Ä‚¢‚Ü‚·<end_line>
-		‰½‚©‚ª‹N‚«‚é‘O‚Ô‚ê‚©‚à<three_dots><end_line>
+		éºè·¡ã®å¬å–šç£ãŒã•ã‚ãŽã ã—ã¦ã„ã¾ã™<end_line>
+		ä½•ã‹ãŒèµ·ãã‚‹å‰ã¶ã‚Œã‹ã‚‚<three_dots><end_line>
 	</sjis>
 </dialogue>

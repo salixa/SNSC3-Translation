@@ -1,36 +1,36 @@
 <location>
 	<sjis>
-		�����̉Ɓ@�L��<end_line>
+		村長の家　広間<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="vee">
 	<sjis>
-		�A�^�V�̌����Ȑݒ��<end_line>
-		�����������ԈႢ�i�V���ˁI<end_line>
+		アタシの見事な設定に<end_line>
+		村長も号泣間違いナシだね！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="vee">
 	<sjis>
-		�Ƃ���ŏC�s�͂ǂ������񂾂��H<end_line>
+		ところで修行はどうしたんだい？<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="murno">
 	<sjis>
-		�������񂪂����l�����ł悩����<three_dots><end_line>
+		村長さんがいい人そうでよかった<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="chief">
 	<sjis>
-		<partner>�Ƃ����A���̎q�Ƃ���<end_line>
-		���B�[�˂�����Ƃ����ɂ��₩��<end_line>
-		�Ȃ�������<end_line>
+		<partner>といい、この子といい<end_line>
+		ヴィーねえさんとこもにぎやかに<end_line>
+		なったもんだ<end_line>
 	</sjis>
 </dialogue>

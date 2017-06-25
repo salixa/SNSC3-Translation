@@ -1,15 +1,15 @@
 <popup>
 	<sjis>
-		ƒlƒR‚ª“¦‚°o‚µ‚½I<end_line>
+		ãƒã‚³ãŒé€ƒã’å‡ºã—ãŸï¼<end_line>
 	</sjis>
 </popup>
 <popup>
 	<sjis>
-		‹êî‚ÌŽèŽ†‚ª“Í‚¢‚½I<end_line>
+		è‹¦æƒ…ã®æ‰‹ç´™ãŒå±Šã„ãŸï¼<end_line>
 	</sjis>
 </popup>
 <popup>
 	<sjis>
-		ƒWƒFƒCƒh‚©‚ç‹êî‚ª‚«‚½I<end_line>
+		ã‚¸ã‚§ã‚¤ãƒ‰ã‹ã‚‰è‹¦æƒ…ãŒããŸï¼<end_line>
 	</sjis>
 </popup>

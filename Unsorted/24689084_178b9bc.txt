@@ -1,20 +1,20 @@
 <location>
 	<sjis>
-		ƒvƒƒXƒoƒ“‚Ì’¬@•Ÿˆø‚«‰®<end_line>
+		ãƒ—ãƒ­ã‚¹ãƒãƒ³ã®ç”ºã€€ç¦å¼•ãå±‹<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="player">
 	<sjis>
-		‚±‚ê‚ÍÜ•i‚¶‚á‚È‚¢‚Ì‚©‚ÈH<end_line>
+		ã“ã‚Œã¯è³žå“ã˜ã‚ƒãªã„ã®ã‹ãªï¼Ÿ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		“–“X‚ð‚²—˜—p‚Ì‚¨‹q—l‚Ö<end_line>
-		•ŸˆøŒ”‚P–‡‚É‚Â‚«‚P‰ñ‚Ì•Ÿˆø‚ª<end_line>
-		‚²—˜—p’¸‚¯‚Ü‚·<end_line>
+		å½“åº—ã‚’ã”åˆ©ç”¨ã®ãŠå®¢æ§˜ã¸<end_line>
+		ç¦å¼•åˆ¸ï¼‘æžšã«ã¤ãï¼‘å›žã®ç¦å¼•ãŒ<end_line>
+		ã”åˆ©ç”¨é ‚ã‘ã¾ã™<end_line>
 	</sjis>
 </dialogue>

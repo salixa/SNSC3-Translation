@@ -1,66 +1,66 @@
 <location>
 	<sjis>
-		�v���X�o���̒��@���X�ʂ�<end_line>
+		プロスバンの町　商店通り<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		�~�~�Y���ނ�G�T�Ȃ��<end_line>
-		�N�����߂��񂾁H<end_line>
-		�����ƕʂ̎g���݂�������͂��Ȃ�<end_line>
+		ミミズが釣りエサなんて<end_line>
+		誰が決めたんだ？<end_line>
+		もっと別の使いみちもあるはずなんだ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		�����ƐH�ׂ����c������<three_dots><end_line>
-		<three_dots>����񂶂�Ȃ�����<end_line>
-		<three_dots>����ς��Ȃ����Ȃ�<end_line>
+		きっと食べたヤツもいる<three_dots><end_line>
+		<three_dots>いるんじゃないかな<end_line>
+		<three_dots>やっぱいないかなぁ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		�ɂ�[��<end_line>
+		にゃーん<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		�ŋ߁A�Ƃ�ł��Ȃ��傫�ȏ����b��<end_line>
-		�ڌ���񂪕񍐂���Ă��܂�<end_line>
+		最近、とんでもなく大きな召喚獣の<end_line>
+		目撃情報が報告されています<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		�K��<three_dots>�Ƃ��A�{��<three_dots>�Ƃ�����<end_line>
-		�����b�������ł�<end_line>
+		ガン<three_dots>とか、ボル<three_dots>とかいう<end_line>
+		召喚獣だそうです<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		�u�������v�ł��Ȃ��̉^��<end_line>
-		�����Ă݂܂��񂩁H<end_line>
-		�������I�I�󂭂������I�I<end_line>
+		「福引き」であなたの運を<end_line>
+		試してみませんか？<end_line>
+		毎日抽選！空くじ無し！！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		�������������������Ă�<end_line>
-		�C�̎����悤�łȂ�Ƃ��Ȃ�����<end_line>
-		�������<end_line>
+		何か困った事があっても<end_line>
+		気の持ちようでなんとかなったり<end_line>
+		するもんだ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		�u�C�����I�v���ăG�����l��<end_line>
-		�����Ă��悤�ȋC�����邵<end_line>
+		「気合だ！」ってエラい人も<end_line>
+		言ってたような気もするし<end_line>
 	</sjis>
 </dialogue>

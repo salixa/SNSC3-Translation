@@ -1,25 +1,25 @@
 <dialogue>
 	<info box="special">
 	<sjis>
-		‚¯‚¢‚±‚­I<end_line>
-		‚±‚Ì‚Ü‚Üƒ_ƒ“ƒWƒ‡ƒ“‚Öo‚é‚Æ<end_line>
-		ƒ|[ƒ^ƒ‹‚ªƒŠƒZƒbƒg‚³‚ê‚Ü‚·<end_line>
+		ã‘ã„ã“ãï¼<end_line>
+		ã“ã®ã¾ã¾ãƒ€ãƒ³ã‚¸ãƒ§ãƒ³ã¸å‡ºã‚‹ã¨<end_line>
+		ãƒãƒ¼ã‚¿ãƒ«ãŒãƒªã‚»ãƒƒãƒˆã•ã‚Œã¾ã™<end_line>
 	</sjis>
 </dialogue>
 <menu>
 	<title>
 		<sjis>
-			‚æ‚ë‚µ‚¢‚Å‚·‚©H<end_line>
+			ã‚ˆã‚ã—ã„ã§ã™ã‹ï¼Ÿ<end_line>
 		</sjis>
 	</title>
 	<option>
 		<sjis>
-			‚Í‚¢<end_line>
+			ã¯ã„<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			‚¢‚¢‚¦<end_line>
+			ã„ã„ãˆ<end_line>
 		</sjis>
 	</option>
 </menu>

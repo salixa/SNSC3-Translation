@@ -1,22 +1,22 @@
 <location>
 	<sjis>
-		ƒXƒ|[ƒg“´ŒA<end_line>
+		ã‚¹ãƒãƒ¼ãƒˆæ´žçªŸ<end_line>
 	</sjis>
 </location>
 <location>
 	<sjis>
-		ƒXƒ|[ƒg“´ŒA@ƒGƒŠƒA‚S<end_line>
+		ã‚¹ãƒãƒ¼ãƒˆæ´žçªŸã€€ã‚¨ãƒªã‚¢ï¼”<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="stray_cat">
 	<sjis>
-		‚É‚áH<end_line>
+		ã«ã‚ƒï¼Ÿ<end_line>
 	</sjis>
 </dialogue>
 <popup>
 	<sjis>
-		–À‚¢ƒlƒR‚ð•ÛŒì‚µ‚½I<end_line>
+		è¿·ã„ãƒã‚³ã‚’ä¿è­·ã—ãŸï¼<end_line>
 	</sjis>
 </popup>

@@ -1,17 +1,17 @@
 <dialogue>
 	<info box="nobox">
 	<sjis>
-		�@�@�@�@�@�@�@���̂Ƃ��@�@�@�@�@�@�@<end_line>
-		�@�������Ƀ~���[�m�͏΂����񂾂��ǁ@<end_line>
-		�@�Ȃ��������т������Ɍ������񂾁@�@<end_line>
+		　　　　　　　そのとき　　　　　　　<end_line>
+		　たしかにミューノは笑ったんだけど　<end_line>
+		　なぜだかさびしそうに見えたんだ　　<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
 	<info box="nobox">
 	<sjis>
-		�@�@�@�@�@�Ȃ�ƂȂ������ǁ@�@�@�@�@<end_line>
-		�@�@�@�@�@���A<partner>��<end_line>
-		�@�@��낱��ł���悤�Ɍ������񂾁@<end_line>
+		　　　　　なんとなくだけど　　　　　<end_line>
+		　　　　　今、<partner>が<end_line>
+		　　よろこんでいるように見えたんだ　<end_line>
 	</sjis>
 </dialogue>

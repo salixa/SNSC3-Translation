@@ -1,20 +1,20 @@
 <location>
 	<sjis>
-		ƒMƒƒƒ‰ƒnƒ“H–[@“¹‹ï‰®<end_line>
+		ã‚®ãƒ£ãƒ©ãƒãƒ³å·¥æˆ¿ã€€é“å…·å±‹<end_line>
 	</sjis>
 </location>
 <location>
 	<sjis>
-		ƒMƒƒƒ‰ƒnƒ“H–[@“¹‹ï‰®<end_line>
+		ã‚®ãƒ£ãƒ©ãƒãƒ³å·¥æˆ¿ã€€é“å…·å±‹<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="gallahan">
 	<sjis>
-		‚¢‚¢’b–èŽt‚É‚È‚è‚½‚¢‚Ì‚È‚ç<end_line>
-		–À‚¢‚Í‹Ö•¨‚¾‚¼<end_line>
-		M‚¶‚éS‚ª“¹‚ðØ‚èŠJ‚­‚Ì‚¾<end_line>
+		ã„ã„é›å†¶å¸«ã«ãªã‚ŠãŸã„ã®ãªã‚‰<end_line>
+		è¿·ã„ã¯ç¦ç‰©ã ãž<end_line>
+		ä¿¡ã˜ã‚‹å¿ƒãŒé“ã‚’åˆ‡ã‚Šé–‹ãã®ã <end_line>
 	</sjis>
   <ascii>
     If you want to become a great<end_line>
@@ -26,9 +26,9 @@
 <dialogue>
 	<info box="simple">
 	<sjis>
-		ƒMƒƒƒ‰ƒnƒ“H–[‚©‚ç‚Ì‚¨’m‚ç‚¹<end_line>
-		ƒJƒEƒ“ƒ^[‚É“Xˆõ‚ª‚¢‚È‚¢‚Æ‚«‚É‚Í<end_line>
-		ŸŽè‚É”ƒ‚¢•¨‚µ‚Ä‚­‚¾‚³‚¢<end_line>
+		ã‚®ãƒ£ãƒ©ãƒãƒ³å·¥æˆ¿ã‹ã‚‰ã®ãŠçŸ¥ã‚‰ã›<end_line>
+		ã‚«ã‚¦ãƒ³ã‚¿ãƒ¼ã«åº—å“¡ãŒã„ãªã„ã¨ãã«ã¯<end_line>
+		å‹æ‰‹ã«è²·ã„ç‰©ã—ã¦ãã ã•ã„<end_line>
 	</sjis>
   <ascii>
     A message from Gallahan's Workshop.<end_line>
@@ -41,9 +41,9 @@
 	<info box="simple">
 	<portrait_l name="peddler's_mother">
 	<sjis>
-		Ž„‚Í‚ËA‚·‚²‚¢’b–èŽt‚ð‘{‚µ‚Ä‚¢‚é‚Ì<end_line>
-		‚»‚ñ‚È’b–èŽt‚Æˆê‚É¤”„‚ªo—ˆ‚½‚ç<end_line>
-		‚·‚²‚­–×‚©‚Á‚Ä<three_dots><end_line>
+		ç§ã¯ã­ã€ã™ã”ã„é›å†¶å¸«ã‚’æœã—ã¦ã„ã‚‹ã®<end_line>
+		ãã‚“ãªé›å†¶å¸«ã¨ä¸€ç·’ã«å•†å£²ãŒå‡ºæ¥ãŸã‚‰<end_line>
+		ã™ã”ãå„²ã‹ã£ã¦<three_dots><end_line>
 	</sjis>
   <ascii>
     You know, I'm searching for an<end_line>
@@ -56,8 +56,8 @@
 	<info box="simple">
 	<portrait_l name="peddler's_mother">
 	<sjis>
-		–º‚É‚àˆÀS‚µ‚Ä¶Šˆ‚ª‚³‚¹‚Ä<end_line>
-		‚ ‚°‚ç‚ê‚é‚ÆŽv‚¤‚Ì<end_line>
+		å¨˜ã«ã‚‚å®‰å¿ƒã—ã¦ç”Ÿæ´»ãŒã•ã›ã¦<end_line>
+		ã‚ã’ã‚‰ã‚Œã‚‹ã¨æ€ã†ã®<end_line>
 	</sjis>
   <ascii>
     I could even let my daughter<end_line>
@@ -68,7 +68,7 @@
 	<info box="simple">
 	<portrait_l name="peddler's_mother">
 	<sjis>
-		‚Ç‚±‚©‚ÉA‚·‚²‚¢’b–èŽt‚Í‚¢‚È‚¢‚©‚È`<end_line>
+		ã©ã“ã‹ã«ã€ã™ã”ã„é›å†¶å¸«ã¯ã„ãªã„ã‹ãªï½ž<end_line>
 	</sjis>
   <ascii>
     Aren't there any amazing<end_line>
@@ -79,8 +79,8 @@
 	<info box="simple">
 	<portrait_l name="merchant">
 	<sjis>
-		‚Ç‚Á‚©‚ÉŒi‹C‚Ì‚¢‚¢˜bA<end_line>
-		—Ž‚¿‚Ä‚È‚¢‚©‚È`<end_line>
+		ã©ã£ã‹ã«æ™¯æ°—ã®ã„ã„è©±ã€<end_line>
+		è½ã¡ã¦ãªã„ã‹ãªï½ž<end_line>
 	</sjis>
   <ascii>
     Won't you please have<end_line>

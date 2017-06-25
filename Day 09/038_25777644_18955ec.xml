@@ -1,18 +1,18 @@
 <location>
   <sjis>
-    ƒŠƒ…[ƒgŠâŒA<end_line>
+    ãƒªãƒ¥ãƒ¼ãƒˆå²©çªŸ<end_line>
   </sjis>
 </location>
 <location>
   <sjis>
-    ƒŠƒ…[ƒgŠâŒA@ƒGƒŠƒA‚P<end_line>
+    ãƒªãƒ¥ãƒ¼ãƒˆå²©çªŸã€€ã‚¨ãƒªã‚¢ï¼‘<end_line>
   </sjis>
 </location>
 <dialogue>
   <info box="simple">
   <portrait_l name="player">
   <sjis>
-    ƒJƒM‚ª‚©‚¯‚ç‚ê‚Ä‚é<three_dots><end_line>
+    ã‚«ã‚®ãŒã‹ã‘ã‚‰ã‚Œã¦ã‚‹<three_dots><end_line>
   </sjis>
   <ascii>
     It's locked<three_dots><end_line>
@@ -22,8 +22,8 @@
   <info box="simple">
   <portrait_l name="tier">
   <sjis>
-    ‚±‚±‚Íƒoƒbƒ`ƒŠŒ©’£‚Á‚Ä‚é‚©‚ç<end_line>
-    <player_nickname>‚½‚¿‚à‚ª‚ñ‚Î‚Á‚Ä‚Ë<end_line>
+    ã“ã“ã¯ãƒãƒƒãƒãƒªè¦‹å¼µã£ã¦ã‚‹ã‹ã‚‰<end_line>
+    <player_nickname>ãŸã¡ã‚‚ãŒã‚“ã°ã£ã¦ã­<end_line>
   </sjis>
   <ascii>
     I'll stand watch.<end_line>

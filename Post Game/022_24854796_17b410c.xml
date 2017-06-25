@@ -1,49 +1,49 @@
 <location>
 	<sjis>
-		ƒvƒƒXƒoƒ“‚Ì’¬<end_line>
+		ãƒ—ãƒ­ã‚¹ãƒãƒ³ã®ç”º<end_line>
 	</sjis>
 </location>
 <location>
 	<sjis>
-		ƒvƒƒXƒoƒ“‚Ì’¬@“ì–åŒö‰€<end_line>
+		ãƒ—ãƒ­ã‚¹ãƒãƒ³ã®ç”ºã€€å—é–€å…¬åœ’<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="gatekeeper">
 	<sjis>
-		‚¢‚â`<end_line>
-		‚â‚Á‚Ï‚è•½˜a‚ªˆê”Ô‚¾‚Ë<end_line>
+		ã„ã‚„ï½ž<end_line>
+		ã‚„ã£ã±ã‚Šå¹³å’ŒãŒä¸€ç•ªã ã­<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		’b–èŽtŒ©K‚¢‚ÌŽq‹Ÿ‚ª<end_line>
-		¢ŠE‚ð‹~‚Á‚½‚Á‚Ä‰\‚¾<end_line>
+		é›å†¶å¸«è¦‹ç¿’ã„ã®å­ä¾›ãŒ<end_line>
+		ä¸–ç•Œã‚’æ•‘ã£ãŸã£ã¦å™‚ã <end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		‚³‚·‚ª‚É‚»‚ñ‚È‰\‚Í<end_line>
-		M‚¶‚ç‚ê‚È‚¢‚æ‚È<end_line>
+		ã•ã™ãŒã«ãã‚“ãªå™‚ã¯<end_line>
+		ä¿¡ã˜ã‚‰ã‚Œãªã„ã‚ˆãª<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		‚¿‚­‚µ‚å‚¤AƒCƒJƒTƒ}‚Î‚ê‚¿‚Ü‚Á‚½‚æ<end_line>
-		Î‚¢‚½‚¯‚ê‚ÎÎ‚¦‚æ<end_line>
+		ã¡ãã—ã‚‡ã†ã€ã‚¤ã‚«ã‚µãƒžã°ã‚Œã¡ã¾ã£ãŸã‚ˆ<end_line>
+		ç¬‘ã„ãŸã‘ã‚Œã°ç¬‘ãˆã‚ˆ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		@@@ƒvƒƒXƒoƒ“‚Ì’¬‚Ì‘nÝŽÒ<end_line>
-		@@@—EŽÒƒvƒƒXƒoƒ“‚ÌÎ‘œ<end_line>
+		ã€€ã€€ã€€ãƒ—ãƒ­ã‚¹ãƒãƒ³ã®ç”ºã®å‰µè¨­è€…<end_line>
+		ã€€ã€€ã€€å‹‡è€…ãƒ—ãƒ­ã‚¹ãƒãƒ³ã®çŸ³åƒ<end_line>
 	</sjis>
 </dialogue>

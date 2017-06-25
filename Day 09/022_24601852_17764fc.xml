@@ -1,13 +1,13 @@
 <location>
   <sjis>
-    �{�X�^�t�H�[�@�f�B�b�N�����x��<end_line>
+    ボスタフ工房　ディックル村支部<end_line>
   </sjis>
 </location>
 <dialogue>
   <info box="simple">
   <portrait_l name="man">
   <sjis>
-    ���`<end_line>
+    あ～<end_line>
   </sjis>
   <ascii>
     Ahh~<end_line>
@@ -27,9 +27,9 @@
   <info box="simple">
   <portrait_l name="man">
   <sjis>
-    �͂��I�H<end_line>
-    �ׂ��A�ʂɃT�{���Ă��킯����<end_line>
-    �ˁ[����ȁI<end_line>
+    はっ！？<end_line>
+    べっ、別にサボってたわけじゃ<end_line>
+    ねーからな！<end_line>
   </sjis>
   <ascii>
     Huh!?<end_line>

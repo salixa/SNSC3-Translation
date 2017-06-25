@@ -1,9 +1,9 @@
 <dialogue>
   <info box="nobox">
   <sjis>
-    �@�@�@�~�V���[�X���ŋN�������Ƃ́@�@<end_line>
-    �@�@�@���̔h���̃G���C�l�����Ɓ@�@�@<end_line>
-    �@�@�@�������܂Řb���Ă������ǁ@�@�@<end_line>
+    　　　ミシュース村で起きたことは　　<end_line>
+    　　　金の派閥のエライ人たちと　　　<end_line>
+    　　　さっきまで話していたけど　　　<end_line>
   </sjis>
   <ascii>
     We spoke with the Gold Council<end_line>
@@ -15,9 +15,9 @@
   <player gender="male">
   <info box="nobox">
   <sjis>
-    �@�x�����H��������̃����O���@���Ɓ@<end_line>
-    �@�@�Ƃ����Ƃ��낪�A����̃R�g���@�@<end_line>
-    �@�@�傰���ɂ͂������Ȃ��݂������@�@<end_line>
+    　ベルヴォレンさんのリングヴァル家　<end_line>
+    　　というところが、今回のコトを　　<end_line>
+    　　大げさにはしたくないみたいだ　　<end_line>
   </sjis>
   <ascii>
     Velworen's family, the Ringvalds, <end_line>
@@ -29,9 +29,9 @@
   <player gender="male">
   <info box="nobox">
   <sjis>
-    �@�@�������ŁA�~���[�m�����̂��Ƃ��@<end_line>
-    �@�@�@�@�Ȃ񂾂��E�������̂܂܁@�@�@<end_line>
-    �@�@�@�@�@�ق����炩���������@�@�@�@<end_line>
+    　　おかげで、ミューノたちのことも　<end_line>
+    　　　　なんだかウヤムヤのまま　　　<end_line>
+    　　　　　ほったらかしだった　　　　<end_line>
   </sjis>
   <ascii>
     Thanks to that, they put the <end_line>
@@ -43,9 +43,9 @@
   <player gender="male">
   <info box="nobox">
   <sjis>
-    �@�@�@�@�@���̔h���̐l�����́@�@�@�@<end_line>
-    �@�@�@�~�V���[�X�������x�����ׂɁ@�@<end_line>
-    �@�@�@�@�s���Ă����݂��������ǁ@�@�@<end_line>
+    　　　　　金の派閥の人たちは　　　　<end_line>
+    　　　ミシュース村を何度も調べに　　<end_line>
+    　　　　行っていたみたいだけど　　　<end_line>
   </sjis>
   <ascii>
     The folks at the Gold Council<end_line>
@@ -57,9 +57,9 @@
   <player gender="male">
   <info box="nobox">
   <sjis>
-    �@�@�@�@���΂������Ȃ��Ȃ��ā@�@�@�@<end_line>
-    �@��Ղ������Ȃ��Ȃ��Ă��܂����̂Ł@<end_line>
-    �@�@�@�����ǂ��ł������݂������@�@�@<end_line>
+    　　　　魔石も剣もなくなって　　　　<end_line>
+    　遺跡も動かなくなってしまったので　<end_line>
+    　　　もうどうでもいいみたいだ　　　<end_line>
   </sjis>
   <ascii>
     The Demon Stone and the sword were<end_line>
@@ -71,9 +71,9 @@
   <player gender="female">
   <info box="nobox">
   <sjis>
-    �@�x�����H��������̃����O���@���Ɓ@<end_line>
-    �@�@�Ƃ����Ƃ��낪�A����̃R�g���@�@<end_line>
-    �@�@�傰���ɂ͂������Ȃ��݂����@�@�@<end_line>
+    　ベルヴォレンさんのリングヴァル家　<end_line>
+    　　というところが、今回のコトを　　<end_line>
+    　　大げさにはしたくないみたい　　　<end_line>
   </sjis>
   <ascii>
     Velworen's family, the Ringvalds, <end_line>
@@ -85,9 +85,9 @@
   <player gender="female">
   <info box="nobox">
   <sjis>
-    �@�������ŁA�~���[�m�����̂��Ƃ��@�@<end_line>
-    �@�@�@�Ȃ񂾂��E�������̂܂܁@�@�@�@<end_line>
-    �@�@�ق����炩�����ۂ������������@�@<end_line>
+    　おかげで、ミューノたちのことも　　<end_line>
+    　　　なんだかウヤムヤのまま　　　　<end_line>
+    　　ほったらかしっぽい感じだった　　<end_line>
   </sjis>
   <ascii>
     Thanks to that, they put the <end_line>
@@ -99,9 +99,9 @@
   <player gender="female">
   <info box="nobox">
   <sjis>
-    �@�@�@�@���̔h���̐l�����́@�@�@�@�@<end_line>
-    �@�@�~�V���[�X�������x�����ׂɁ@�@�@<end_line>
-    �@�@�@�s���Ă����݂��������ǁ@�@�@�@<end_line>
+    　　　　金の派閥の人たちは　　　　　<end_line>
+    　　ミシュース村を何度も調べに　　　<end_line>
+    　　　行っていたみたいだけど　　　　<end_line>
   </sjis>
   <ascii>
     The folks at the Gold Council<end_line>
@@ -113,9 +113,9 @@
   <player gender="female">
   <info box="nobox">
   <sjis>
-    �@�@�@�@���΂������Ȃ��Ȃ��ā@�@�@�@<end_line>
-    �@��Ղ������Ȃ��Ȃ��Ă��܂����̂Ł@<end_line>
-    �@�@�@�@�����ǂ��ł������݂����@�@�@<end_line>
+    　　　　魔石も剣もなくなって　　　　<end_line>
+    　遺跡も動かなくなってしまったので　<end_line>
+    　　　　もうどうでもいいみたい　　　<end_line>
   </sjis>
   <ascii>
     The Demon Stone and the sword were<end_line>
@@ -126,9 +126,9 @@
 <dialogue>
   <info box="nobox">
   <sjis>
-    �@�@�@�@�܂��A�~���[�m�������@�@�@�@<end_line>
-    �@�@�@�@�������Ă��点�邩��@�@�@<end_line>
-    �@�@�@�@�@�@����ł������ǁ@�@�@�@�@<end_line>
+    　　　　まあ、ミューノたちが　　　　<end_line>
+    　　　　落ちついてくらせるから　　　<end_line>
+    　　　　　　それでいいけど　　　　　<end_line>
   </sjis>
   <ascii>
         Well, this way Murno<end_line>
@@ -139,9 +139,9 @@
 <dialogue>
   <info box="nobox">
   <sjis>
-    �@�@�@�@�@�@����ȃ��P�Ł@�@�@�@�@�@<end_line>
-    �@�@�S���@���̖��΂��߂���`�����@�@<end_line>
-    �@�@����ł����܂��݂���������<three_dots>�@�@<end_line>
+    　　　　　　そんなワケで　　　　　　<end_line>
+    　　ゴヴァンの魔石をめぐる冒険も　　<end_line>
+    　　これでおしまいみたいだった<three_dots>　　<end_line>
   </sjis>
   <ascii>
     And so,<end_line>

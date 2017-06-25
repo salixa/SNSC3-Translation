@@ -1,595 +1,595 @@
 <menu>
 	<option>
 		<sjis>
-			–{•Ò<end_line>
+			æœ¬ç·¨<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			Ž©—Rs“®<end_line>
+			è‡ªç”±è¡Œå‹•<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			ƒTƒEƒ“ƒhƒeƒXƒg<end_line>
+			ã‚µã‚¦ãƒ³ãƒ‰ãƒ†ã‚¹ãƒˆ<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			‚¨‚Ü‚¯<end_line>
+			ãŠã¾ã‘<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			’ÊM<end_line>
-		</sjis>
-	</option>
-</menu>
-<menu>
-	<option>
-		<sjis>
-			‚O˜b<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			‚P˜b<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			‚Q˜b<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			‚R˜b<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			‚S˜b<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			ŽŸ‚Ö<end_line>
+			é€šä¿¡<end_line>
 		</sjis>
 	</option>
 </menu>
 <menu>
 	<option>
 		<sjis>
-			‚T˜b<end_line>
+			ï¼è©±<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			‚U˜b<end_line>
+			ï¼‘è©±<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			‚V˜b<end_line>
+			ï¼’è©±<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			‚W˜b<end_line>
+			ï¼“è©±<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			‚X˜b<end_line>
+			ï¼”è©±<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			ŽŸ‚Ö<end_line>
-		</sjis>
-	</option>
-</menu>
-<menu>
-	<option>
-		<sjis>
-			‚P‚O˜b<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			‚P‚P˜b<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			‚P‚Q˜b<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			ƒGƒ“ƒfƒBƒ“ƒO<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			‚d‚w<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			–ß‚é<end_line>
+			æ¬¡ã¸<end_line>
 		</sjis>
 	</option>
 </menu>
 <menu>
 	<option>
 		<sjis>
-			‚d‚O‚P<end_line>
+			ï¼•è©±<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			‚d‚O‚Q<end_line>
+			ï¼–è©±<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			‚d‚O‚R<end_line>
+			ï¼—è©±<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			‚d‚O‚S<end_line>
+			ï¼˜è©±<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			‚d‚O‚T<end_line>
+			ï¼™è©±<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			ŽŸ‚Ö<end_line>
-		</sjis>
-	</option>
-</menu>
-<menu>
-	<option>
-		<sjis>
-			‚d‚O‚U<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			‚d‚O‚V<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			‚d‚O‚W<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			‚d‚O‚X<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			‚d‚P‚O<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			ŽŸ‚Ö<end_line>
+			æ¬¡ã¸<end_line>
 		</sjis>
 	</option>
 </menu>
 <menu>
 	<option>
 		<sjis>
-			‚d‚P‚P<end_line>
+			ï¼‘ï¼è©±<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			‚d‚P‚Q<end_line>
+			ï¼‘ï¼‘è©±<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			‚d‚P‚R<end_line>
+			ï¼‘ï¼’è©±<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			‚d‚P‚S<end_line>
+			ã‚¨ãƒ³ãƒ‡ã‚£ãƒ³ã‚°<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			‚d‚P‚T<end_line>
+			ï¼¥ï¼¸<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			ŽŸ‚Ö<end_line>
-		</sjis>
-	</option>
-</menu>
-<menu>
-	<option>
-		<sjis>
-			‚d‚P‚U<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			‚d‚P‚V<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			‚d‚P‚W<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			‚d‚P‚X<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			‚d‚Q‚O<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			ŽŸ‚Ö<end_line>
+			æˆ»ã‚‹<end_line>
 		</sjis>
 	</option>
 </menu>
 <menu>
 	<option>
 		<sjis>
-			‚d‚Q‚P<end_line>
+			ï¼¥ï¼ï¼‘<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			–ß‚é<end_line>
-		</sjis>
-	</option>
-</menu>
-<menu>
-	<option>
-		<sjis>
-			‚d‚O‚O<end_line>
+			ï¼¥ï¼ï¼’<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			‚d‚O‚P<end_line>
+			ï¼¥ï¼ï¼“<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			‚d‚O‚Q<end_line>
+			ï¼¥ï¼ï¼”<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			‚d‚O‚R<end_line>
+			ï¼¥ï¼ï¼•<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			‚d‚O‚S<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			ŽŸ‚Ö<end_line>
+			æ¬¡ã¸<end_line>
 		</sjis>
 	</option>
 </menu>
 <menu>
 	<option>
 		<sjis>
-			‚d‚O‚T<end_line>
+			ï¼¥ï¼ï¼–<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			‚d‚O‚U<end_line>
+			ï¼¥ï¼ï¼—<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			‚d‚O‚V<end_line>
+			ï¼¥ï¼ï¼˜<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			‚d‚O‚W<end_line>
+			ï¼¥ï¼ï¼™<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			‚d‚O‚X<end_line>
+			ï¼¥ï¼‘ï¼<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			ŽŸ‚Ö<end_line>
-		</sjis>
-	</option>
-</menu>
-<menu>
-	<option>
-		<sjis>
-			‚d‚P‚O<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			‚d‚P‚P<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			‚d‚P‚Q<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			‚d‚P‚R<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			‚d‚P‚S<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			ŽŸ‚Ö<end_line>
+			æ¬¡ã¸<end_line>
 		</sjis>
 	</option>
 </menu>
 <menu>
 	<option>
 		<sjis>
-			‚d‚P‚T<end_line>
+			ï¼¥ï¼‘ï¼‘<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			‚d‚P‚U<end_line>
+			ï¼¥ï¼‘ï¼’<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			‚d‚P‚V<end_line>
+			ï¼¥ï¼‘ï¼“<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			‚d‚P‚W<end_line>
+			ï¼¥ï¼‘ï¼”<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			‚d‚P‚X<end_line>
+			ï¼¥ï¼‘ï¼•<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			ŽŸ‚Ö<end_line>
-		</sjis>
-	</option>
-</menu>
-<menu>
-	<option>
-		<sjis>
-			‚d‚Q‚O<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			‚d‚Q‚P<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			‚d‚Q‚Q<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			‚d‚Q‚R<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			‚d‚Q‚S<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			ŽŸ‚Ö<end_line>
+			æ¬¡ã¸<end_line>
 		</sjis>
 	</option>
 </menu>
 <menu>
 	<option>
 		<sjis>
-			‚d‚Q‚T<end_line>
+			ï¼¥ï¼‘ï¼–<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			‚d‚Q‚U<end_line>
+			ï¼¥ï¼‘ï¼—<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			‚d‚Q‚V<end_line>
+			ï¼¥ï¼‘ï¼˜<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			‚d‚Q‚W<end_line>
+			ï¼¥ï¼‘ï¼™<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			‚d‚Q‚X<end_line>
+			ï¼¥ï¼’ï¼<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			ŽŸ‚Ö<end_line>
-		</sjis>
-	</option>
-</menu>
-<menu>
-	<option>
-		<sjis>
-			‚d‚R‚O<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			–ß‚é<end_line>
+			æ¬¡ã¸<end_line>
 		</sjis>
 	</option>
 </menu>
 <menu>
 	<option>
 		<sjis>
-			ƒ~ƒ…[ƒm<end_line>
+			ï¼¥ï¼’ï¼‘<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			Œì‰qb<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			ƒ”ƒB[<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			ƒŒƒ~ƒB<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			ƒWƒFƒCƒh<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			ƒeƒBƒG<end_line>
+			æˆ»ã‚‹<end_line>
 		</sjis>
 	</option>
 </menu>
 <menu>
 	<option>
 		<sjis>
-			ƒ~ƒ…[ƒm<end_line>
+			ï¼¥ï¼ï¼<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			Œì‰qb<end_line>
+			ï¼¥ï¼ï¼‘<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			ƒ”ƒB[<end_line>
+			ï¼¥ï¼ï¼’<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			ƒŒƒ~ƒB<end_line>
+			ï¼¥ï¼ï¼“<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			ƒWƒFƒCƒh<end_line>
+			ï¼¥ï¼ï¼”<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			ƒeƒBƒG<end_line>
-		</sjis>
-	</option>
-</menu>
-<menu>
-	<option>
-		<sjis>
-			ƒ~ƒ…[ƒm<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			Œì‰qb<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			ƒ”ƒB[<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			ƒŒƒ~ƒB<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			ƒWƒFƒCƒh<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			ƒeƒBƒG<end_line>
+			æ¬¡ã¸<end_line>
 		</sjis>
 	</option>
 </menu>
 <menu>
 	<option>
 		<sjis>
-			ƒ~ƒ…[ƒm<end_line>
+			ï¼¥ï¼ï¼•<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			Œì‰qb<end_line>
+			ï¼¥ï¼ï¼–<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			ƒ”ƒB[<end_line>
+			ï¼¥ï¼ï¼—<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			ƒŒƒ~ƒB<end_line>
+			ï¼¥ï¼ï¼˜<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			ƒWƒFƒCƒh<end_line>
+			ï¼¥ï¼ï¼™<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			ƒeƒBƒG<end_line>
+			æ¬¡ã¸<end_line>
+		</sjis>
+	</option>
+</menu>
+<menu>
+	<option>
+		<sjis>
+			ï¼¥ï¼‘ï¼<end_line>
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			ï¼¥ï¼‘ï¼‘<end_line>
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			ï¼¥ï¼‘ï¼’<end_line>
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			ï¼¥ï¼‘ï¼“<end_line>
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			ï¼¥ï¼‘ï¼”<end_line>
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			æ¬¡ã¸<end_line>
+		</sjis>
+	</option>
+</menu>
+<menu>
+	<option>
+		<sjis>
+			ï¼¥ï¼‘ï¼•<end_line>
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			ï¼¥ï¼‘ï¼–<end_line>
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			ï¼¥ï¼‘ï¼—<end_line>
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			ï¼¥ï¼‘ï¼˜<end_line>
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			ï¼¥ï¼‘ï¼™<end_line>
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			æ¬¡ã¸<end_line>
+		</sjis>
+	</option>
+</menu>
+<menu>
+	<option>
+		<sjis>
+			ï¼¥ï¼’ï¼<end_line>
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			ï¼¥ï¼’ï¼‘<end_line>
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			ï¼¥ï¼’ï¼’<end_line>
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			ï¼¥ï¼’ï¼“<end_line>
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			ï¼¥ï¼’ï¼”<end_line>
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			æ¬¡ã¸<end_line>
+		</sjis>
+	</option>
+</menu>
+<menu>
+	<option>
+		<sjis>
+			ï¼¥ï¼’ï¼•<end_line>
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			ï¼¥ï¼’ï¼–<end_line>
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			ï¼¥ï¼’ï¼—<end_line>
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			ï¼¥ï¼’ï¼˜<end_line>
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			ï¼¥ï¼’ï¼™<end_line>
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			æ¬¡ã¸<end_line>
+		</sjis>
+	</option>
+</menu>
+<menu>
+	<option>
+		<sjis>
+			ï¼¥ï¼“ï¼<end_line>
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			æˆ»ã‚‹<end_line>
+		</sjis>
+	</option>
+</menu>
+<menu>
+	<option>
+		<sjis>
+			ãƒŸãƒ¥ãƒ¼ãƒŽ<end_line>
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			è­·è¡›ç£<end_line>
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			ãƒ´ã‚£ãƒ¼<end_line>
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			ãƒ¬ãƒŸã‚£<end_line>
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			ã‚¸ã‚§ã‚¤ãƒ‰<end_line>
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			ãƒ†ã‚£ã‚¨<end_line>
+		</sjis>
+	</option>
+</menu>
+<menu>
+	<option>
+		<sjis>
+			ãƒŸãƒ¥ãƒ¼ãƒŽ<end_line>
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			è­·è¡›ç£<end_line>
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			ãƒ´ã‚£ãƒ¼<end_line>
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			ãƒ¬ãƒŸã‚£<end_line>
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			ã‚¸ã‚§ã‚¤ãƒ‰<end_line>
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			ãƒ†ã‚£ã‚¨<end_line>
+		</sjis>
+	</option>
+</menu>
+<menu>
+	<option>
+		<sjis>
+			ãƒŸãƒ¥ãƒ¼ãƒŽ<end_line>
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			è­·è¡›ç£<end_line>
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			ãƒ´ã‚£ãƒ¼<end_line>
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			ãƒ¬ãƒŸã‚£<end_line>
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			ã‚¸ã‚§ã‚¤ãƒ‰<end_line>
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			ãƒ†ã‚£ã‚¨<end_line>
+		</sjis>
+	</option>
+</menu>
+<menu>
+	<option>
+		<sjis>
+			ãƒŸãƒ¥ãƒ¼ãƒŽ<end_line>
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			è­·è¡›ç£<end_line>
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			ãƒ´ã‚£ãƒ¼<end_line>
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			ãƒ¬ãƒŸã‚£<end_line>
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			ã‚¸ã‚§ã‚¤ãƒ‰<end_line>
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			ãƒ†ã‚£ã‚¨<end_line>
 		</sjis>
 	</option>
 </menu>

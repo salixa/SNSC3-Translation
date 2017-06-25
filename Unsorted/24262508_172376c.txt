@@ -2,22 +2,22 @@
 	<info box="simple">
 	<portrait_l name="unknown">
 	<sjis>
-		�����̂��Ȃ��I<end_line>
+		そこのあなた！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="player">
 	<sjis>
-		���[��<three_dots><end_line>
-		�ǂ��炳�܁H<end_line>
+		えーと<three_dots><end_line>
+		どちらさま？<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="unknown">
 	<sjis>
-		�킽�����͋|�������Ă�܂Ȃ�<end_line>
+		わたくしは弓を愛してやまない<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -25,12 +25,12 @@
 	<portrait_l name="unknown">
 	<male>
 		<sjis>
-			�ʂ肷����̂��̂ł�<end_line>
+			通りすがりのものです<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�ʂ肷����̂��̂ł���I<end_line>
+			通りすがりのものですわ！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -38,7 +38,7 @@
 	<info box="simple">
 	<portrait_l name="unknown">
 	<sjis>
-		�l�͂킽������<end_line>
+		人はわたくしを<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -46,12 +46,12 @@
 	<portrait_l name="unknown">
 	<male>
 		<sjis>
-			�|�����ƌĂт܂�<end_line>
+			弓乙女と呼びます<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�|�����ƌĂт܂���I<end_line>
+			弓乙女と呼びますわ！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -59,7 +59,7 @@
 	<info box="simple">
 	<portrait_l name="archer_girl">
 	<sjis>
-		����΂��Ȃ���<end_line>
+		見ればあなたも<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -67,12 +67,12 @@
 	<portrait_l name="archer_girl">
 	<male>
 		<sjis>
-			�|�����p���Ă��邲�l�q<end_line>
+			弓を愛用しているご様子<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�|�����p�̂悤��<end_line>
+			弓を愛用のようね<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -81,20 +81,20 @@
 	<portrait_l name="archer_girl">
 	<male>
 		<sjis>
-			����Ȃ��Ȃ��ɂ͂��J����<end_line>
-			����������������܂���<end_line>
+			そんなあなたにはご褒美に<end_line>
+			こちらをさしあげますわ<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			����Ȃ��Ȃ��ɂ�<end_line>
-			������Ƃ点�܂���I<end_line>
+			そんなあなたには<end_line>
+			これをとらせますわ！<end_line>
 		</sjis>
 	</female>
 </dialogue>
 <popup>
 	<sjis>
-		<weapon_type>����������I<end_line>
+		<weapon_type>をもらった！<end_line>
 	</sjis>
 </popup>
 <dialogue>
@@ -102,12 +102,12 @@
 	<portrait_l name="archer_girl">
 	<male>
 		<sjis>
-			���ꂩ������i�Ȃ����܂�<end_line>
+			これからも精進なさいませ<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			���ꂩ������i���邪��낵���Ă�I<end_line>
+			これからも精進するがよろしくてよ！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -116,27 +116,27 @@
 	<portrait_l name="archer_girl">
 	<male>
 		<sjis>
-			���݂��Ƃł���I<end_line>
-			����͂��ق��тł�<end_line>
+			おみごとですわ！<end_line>
+			これはごほうびです<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			��낵���Ă�I<end_line>
-			�ق��т��Ƃ点�܂���I<end_line>
+			よろしくてよ！<end_line>
+			ほうびをとらせますわ！<end_line>
 		</sjis>
 	</female>
 </dialogue>
 <popup>
 	<sjis>
-		<weapon_type>����������I<end_line>
+		<weapon_type>をもらった！<end_line>
 	</sjis>
 </popup>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="archer_girl">
 	<sjis>
-		�܂�<hearth><end_line>
+		まあ<hearth><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -144,12 +144,12 @@
 	<portrait_l name="archer_girl">
 	<male>
 		<sjis>
-			�S�Ă̓I���˔����ꂽ�悤�ł���<end_line>
+			全ての的を射抜かれたようですね<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�S�Ă̓I���˔����܂����̂�<end_line>
+			全ての的を射抜きましたのね<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -164,9 +164,9 @@
 	<info box="simple">
 	<portrait_l name="archer_girl">
 	<sjis>
-		���Ȃ������Ȃ��̂��ׂ���<end_line>
-		�S�Ă��I�����܂�����<end_line>
-		�킽�����͂��҂����Ă���܂���<end_line>
+		あなたがあなたのやるべき事<end_line>
+		全てを終えられました時<end_line>
+		わたくしはお待ちしておりますわ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -174,12 +174,12 @@
 	<portrait_l name="archer_girl">
 	<male>
 		<sjis>
-			���ꂩ������i�Ȃ����܂�<end_line>
+			これからも精進なさいませ<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			���ꂩ������i���邪��낵���Ă�I<end_line>
+			これからも精進するがよろしくてよ！<end_line>
 		</sjis>
 	</female>
 </dialogue>

@@ -1,15 +1,15 @@
 <location>
   <sjis>
-    ƒ‹ƒC[ƒY‘º@‘º’·‚Ì‰Æ<end_line>
+    ãƒ«ã‚¤ãƒ¼ã‚ºæ‘ã€€æ‘é•·ã®å®¶<end_line>
   </sjis>
 </location>
 <dialogue>
   <info box="simple">
   <portrait_l name="tram">
   <sjis>
-    Œ¶—´‹S‚Ì‹C‚ª—§‚Á‚Ä‚¢‚é‚Ý‚½‚¢‚Å‚·<three_dots><end_line>
-    ˆ«‚¢‚±‚Æ‚ª‹N‚«‚È‚¯‚ê‚Î<end_line>
-    ‚¢‚¢‚Ì‚Å‚·‚ª<three_dots><end_line>
+    å¹»é¾é¬¼ã®æ°—ãŒç«‹ã£ã¦ã„ã‚‹ã¿ãŸã„ã§ã™<three_dots><end_line>
+    æ‚ªã„ã“ã¨ãŒèµ·ããªã‘ã‚Œã°<end_line>
+    ã„ã„ã®ã§ã™ãŒ<three_dots><end_line>
   </sjis>
   <ascii>
     Seems like the Phantom Dragon<end_line>

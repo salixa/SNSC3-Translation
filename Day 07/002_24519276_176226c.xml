@@ -1,20 +1,20 @@
 <location>
   <sjis>
-    ƒMƒƒƒ‰ƒnƒ“H–[@“¹‹ï‰®<end_line>
+    ã‚®ãƒ£ãƒ©ãƒãƒ³å·¥æˆ¿ã€€é“å…·å±‹<end_line>
   </sjis>
 </location>
 <location>
   <sjis>
-    ƒMƒƒƒ‰ƒnƒ“H–[@“¹‹ï‰®<end_line>
+    ã‚®ãƒ£ãƒ©ãƒãƒ³å·¥æˆ¿ã€€é“å…·å±‹<end_line>
   </sjis>
 </location>
 <dialogue>
   <info box="simple">
   <portrait_l name="gallahan">
   <sjis>
-    –‚»’Œ‚Ì‚ ‚éÕ’d‚Ü‚Å‚Í<end_line>
-    ‹­—Í‚È¢Š«b‚ª‚½‚­‚³‚ñ‚¢‚é‚©‚ç<end_line>
-    ‹C‚ð‚Â‚¯‚é‚ñ‚¾‚È<end_line>
+    é­”æ™¶æŸ±ã®ã‚ã‚‹ç¥­å£‡ã¾ã§ã¯<end_line>
+    å¼·åŠ›ãªå¬å–šç£ãŒãŸãã•ã‚“ã„ã‚‹ã‹ã‚‰<end_line>
+    æ°—ã‚’ã¤ã‘ã‚‹ã‚“ã ãª<end_line>
   </sjis>
   <ascii>
     There are many strong summon beasts<end_line>
@@ -25,9 +25,9 @@
 <dialogue>
   <info box="simple">
   <sjis>
-    ƒMƒƒƒ‰ƒnƒ“H–[‚©‚ç‚Ì‚¨’m‚ç‚¹<end_line>
-    ƒJƒEƒ“ƒ^[‚É“Xˆõ‚ª‚¢‚È‚¢‚Æ‚«‚É‚Í<end_line>
-    ŸŽè‚É”ƒ‚¢•¨‚µ‚Ä‚­‚¾‚³‚¢<end_line>
+    ã‚®ãƒ£ãƒ©ãƒãƒ³å·¥æˆ¿ã‹ã‚‰ã®ãŠçŸ¥ã‚‰ã›<end_line>
+    ã‚«ã‚¦ãƒ³ã‚¿ãƒ¼ã«åº—å“¡ãŒã„ãªã„ã¨ãã«ã¯<end_line>
+    å‹æ‰‹ã«è²·ã„ç‰©ã—ã¦ãã ã•ã„<end_line>
   </sjis>
   <ascii>
     Notice From Gallahan's Workshop<end_line>

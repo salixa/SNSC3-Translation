@@ -2,7 +2,7 @@
   <info box="left">
   <portrait_l entry="player" eye="decided" mouth="talk">
   <sjis>
-    ������I<end_line>
+    やった！<end_line>
   </sjis>
   <ascii>
     Alright!<end_line>
@@ -13,7 +13,7 @@
   <info box="left">
   <portrait_l entry="partner" eye="surprised" mouth="talk">
   <sjis>
-    ���V�߃V�^�I�H<end_line>
+    押シ戻シタ！？<end_line>
   </sjis>
   <ascii>
     Have We Pushed It Back!?<end_line>
@@ -24,7 +24,7 @@
   <info box="left">
   <portrait_l entry="partner" eye="surprised" mouth="talk">
   <sjis>
-    �����߂����I�H<end_line>
+    押し戻した！？<end_line>
   </sjis>
   <ascii>
     We pushed it back!?<end_line>
@@ -35,7 +35,7 @@
   <info box="left">
   <portrait_l entry="partner" eye="surprised" mouth="talk">
   <sjis>
-    �����߂����I�H<end_line>
+    押し戻した！？<end_line>
   </sjis>
   <ascii>
     We pushed it back!?<end_line>
@@ -46,7 +46,7 @@
   <info box="left">
   <portrait_l entry="partner" eye="surprised" mouth="talk">
   <sjis>
-    �����߂����I�H<end_line>
+    押し戻した！？<end_line>
   </sjis>
   <ascii>
     We pushed it back!?<end_line>
@@ -56,9 +56,9 @@
   <info box="right">
   <portrait_r entry="velworen" eye="special" mouth="tense">
   <sjis>
-    ���₾<three_dots><end_line>
-    �ځA�l��<three_dots><three_dots><end_line>
-    �`�J���A��<three_dots><three_dots><three_dots><end_line>
+    いやだ<three_dots><end_line>
+    ぼ、僕も<three_dots><three_dots><end_line>
+    チカラ、を<three_dots><three_dots><three_dots><end_line>
   </sjis>
   <ascii>
     No<three_dots><end_line>
@@ -72,12 +72,12 @@
   <portrait_r entry="velworen" eye="special" mouth="tense">
   <male>
     <sjis>
-      ������߂�I<end_line>
+      もうやめろ！<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ������߂āI<end_line>
+      もうやめて！<end_line>
     </sjis>
   </female>
   <ascii>
@@ -88,7 +88,7 @@
   <info box="right" effect="big">
   <portrait_r entry="velworen" eye="special" mouth="yell">
   <sjis>
-    ���킟����<three_dots>���I<end_line>
+    うわぁああ<three_dots>っ！<end_line>
   </sjis>
   <ascii>
     Uwaa<three_dots>!<end_line>
@@ -99,12 +99,12 @@
   <portrait_l entry="player" eye="surprised" mouth="yell">
   <male>
     <sjis>
-      �Ȃ񂾁I�H<end_line>
+      なんだ！？<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �Ȃɂ�A����I�H<end_line>
+      なによ、これ！？<end_line>
     </sjis>
   </female>
   <ascii>
@@ -117,9 +117,9 @@
   <portrait_l entry="player" eye="surprised" mouth="yell">
   <portrait_r entry="partner" eye="surprised" mouth="yell">
   <sjis>
-    ���J���@���˂邬�[�K�I<end_line>
-    �ރm���̃K<three_dots><end_line>
-    ���j�@�惊���}���e�C�}�X<three_dots>�I<end_line>
+    剣カラ　えねるぎーガ！<end_line>
+    彼ノ肉体ガ<three_dots><end_line>
+    剣ニ　取リ込マレテイマス<three_dots>！<end_line>
   </sjis>
   <ascii>
     The Sword's Energy!<end_line>
@@ -133,9 +133,9 @@
   <portrait_l entry="player" eye="surprised" mouth="yell">
   <portrait_r entry="partner" eye="surprised" mouth="yell">
   <sjis>
-    �Ȃ񂶂�A���̂����܂����׋C��<three_dots><end_line>
-    ���߂���A��̑̂�<three_dots><end_line>
-    ��荞�܂�邼<three_dots>�I<end_line>
+    なんじゃ、このすさまじい邪気は<three_dots><end_line>
+    だめじゃ、やつの体が<three_dots><end_line>
+    取り込まれるぞ<three_dots>！<end_line>
   </sjis>
   <ascii>
     What is this dreadful ill will<three_dots><end_line>
@@ -149,9 +149,9 @@
   <portrait_l entry="player" eye="surprised" mouth="yell">
   <portrait_r entry="partner" eye="surprised" mouth="yell">
   <sjis>
-    �Ȃ�<three_dots>�@���̂����܂����׋C��<three_dots><end_line>
-    �����̑̂�<three_dots><end_line>
-    ��荞�܂�邼<three_dots>�I<end_line>
+    なんだ<three_dots>　このすさまじい邪気は<three_dots><end_line>
+    あいつの体が<three_dots><end_line>
+    取り込まれるぞ<three_dots>！<end_line>
   </sjis>
   <ascii>
     What<three_dots> this awful ill will<three_dots><end_line>
@@ -165,9 +165,9 @@
   <portrait_l entry="player" eye="surprised" mouth="yell">
   <portrait_r entry="partner" eye="surprised" mouth="yell">
   <sjis>
-    �Ȃ�ł�<three_dots>�@���̂�������<three_dots><end_line>
-    ���̐l�̑̂�<three_dots><end_line>
-    ��荞�܂�Ă��܂��܂���<three_dots>�I<end_line>
+    なんです<three_dots>　このすごい力<three_dots><end_line>
+    あの人の体が<three_dots><end_line>
+    取り込まれてしまいますわ<three_dots>！<end_line>
   </sjis>
    <ascii>
     What<three_dots> this awful power<three_dots><end_line>
@@ -181,12 +181,12 @@
   <portrait_r entry="partner" eye="surprised" mouth="yell">
   <male>
     <sjis>
-      ����<three_dots>�A�����I�H<end_line>
+      剣に<three_dots>、喰われる！？<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ����<three_dots>�A��ׂ���I�H<end_line>
+      剣に<three_dots>、喰べられる！？<end_line>
     </sjis>
   </female>
   <ascii>
@@ -197,7 +197,7 @@
   <info box="right" effect="big">
   <portrait_r entry="velworen" eye="special" mouth="yell">
   <sjis>
-    ���킠�����I�I�I<end_line>
+    うわああっ！！！<end_line>
   </sjis>
   <ascii>
     Uwaaah!!!<end_line>
@@ -208,16 +208,16 @@
   <portrait_l entry="player" eye="decided" mouth="yell">
   <male>
     <sjis>
-      �Ȃ񂾂�A�R��<three_dots>�I<end_line>
-      �z�����܂��<three_dots>�I�H<end_line>
-      <partner><three_dots>�I<end_line>
+      なんだよ、コレ<three_dots>！<end_line>
+      吸い込まれる<three_dots>！？<end_line>
+      <partner><three_dots>！<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �Ȃ�Ȃ̂�A�R��<three_dots>�I<end_line>
-      �z�����܂��<three_dots>�I�H<end_line>
-      <partner><three_dots>�I<end_line>
+      なんなのよ、コレ<three_dots>！<end_line>
+      吸い込まれる<three_dots>！？<end_line>
+      <partner><three_dots>！<end_line>
     </sjis>
   </female>
   <ascii>
@@ -232,7 +232,7 @@
   <portrait_l entry="player" eye="decided" mouth="yell">
   <portrait_r entry="partner" eye="surprised" mouth="yell">
   <sjis>
-    �ρ[�Ƃȁ[�I<end_line>
+    ぱーとなー！<end_line>
   </sjis>
   <ascii>
     Partner!<end_line>
@@ -244,7 +244,7 @@
   <portrait_l entry="player" eye="decided" mouth="yell">
   <portrait_r entry="partner" eye="surprised" mouth="yell">
   <sjis>
-    <player_nickname>�I<end_line>
+    <player_nickname>！<end_line>
   </sjis>
   <ascii>
     <player_nickname>!<end_line>
@@ -256,7 +256,7 @@
   <portrait_l entry="player" eye="decided" mouth="yell">
   <portrait_r entry="partner" eye="surprised" mouth="yell">
   <sjis>
-    <player_nickname>�I<end_line>
+    <player_nickname>！<end_line>
   </sjis>
   <ascii>
     <player_nickname>!<end_line>
@@ -268,7 +268,7 @@
   <portrait_l entry="player" eye="decided" mouth="yell">
   <portrait_r entry="partner" eye="surprised" mouth="yell">
   <sjis>
-    <player_nickname>����I<end_line>
+    <player_nickname>さん！<end_line>
   </sjis>
   <ascii>
     <player_nickname>!<end_line>

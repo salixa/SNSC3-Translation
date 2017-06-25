@@ -1,28 +1,28 @@
 <location>
 	<sjis>
-		�f�B�b�N����<end_line>
+		ディックル村<end_line>
 	</sjis>
 </location>
 <location>
 	<sjis>
-		�f�B�b�N�����@�Z��n<end_line>
+		ディックル村　住宅地<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="elderly">
 	<sjis>
-		�ߍ��̎Ⴂ���c�͂Ȃ��Ƃ��<end_line>
-		���`�`�Ȃ��Ƃ��<end_line>
-		�ƌ�������Ȃ��Ƃ��<end_line>
+		近頃の若いヤツはなっとらん<end_line>
+		あ～～なっとらん<end_line>
+		と言ったらなっとらん<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="merchant">
 	<sjis>
-		�����ŋ߂̂͂����<end_line>
-		�������ŕ����h�<end_line>
-		��Ԃ悤�ɔ���Ċ�������<end_line>
+		ここ最近のはぐれの<end_line>
+		おかげで武器や防具が<end_line>
+		飛ぶように売れて嬉しいわ<end_line>
 	</sjis>
 </dialogue>

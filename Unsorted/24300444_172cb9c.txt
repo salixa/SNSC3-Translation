@@ -1,13 +1,13 @@
 <location>
 	<sjis>
-		�����̉Ɓ@�L��<end_line>
+		村長の家　広間<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="chief">
 	<sjis>
-		����̎�����<end_line>
-		�Ȃ܂����Ⴂ�����<end_line>
+		武器の手入れは<end_line>
+		なまけちゃいかんな<end_line>
 	</sjis>
 </dialogue>

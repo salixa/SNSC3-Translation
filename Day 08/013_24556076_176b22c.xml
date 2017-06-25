@@ -1,6 +1,6 @@
 <location>
   <sjis>
-    �v���X�o���̒��@�Z��X�K�i<end_line>
+    プロスバンの町　住宅街階段<end_line>
   </sjis>
 </location>
 #start 25
@@ -8,9 +8,9 @@
   <info box="simple">
   <portrait_l name="man">
   <sjis>
-    �A�J�o�l�̉H���Ԃ��̂�<end_line>
-    �S���A<three_dots><end_line>
-    ���ĉ\��<three_dots><end_line>
+    アカバネの羽が赤いのは<end_line>
+    全部、<three_dots><end_line>
+    って噂だ<three_dots><end_line>
   </sjis>
   <ascii>
     Red Wing's coloration<three_dots><end_line>
@@ -22,7 +22,7 @@
   <info box="simple">
   <portrait_l name="man">
   <sjis>
-    ���킭�Č��ɏo���˂�<end_line>
+    こわくて口に出せねぇ<end_line>
   </sjis>
   <ascii>
     It's too frightening to say.<end_line>
@@ -31,18 +31,18 @@
 <dialogue>
   <info box="simple">
   <sjis>
-    �@<end_line>
-    �@�@�@�@�@�@�@�@<black_dot><left_arrow>�̂�����<end_line>
+    　<end_line>
+    　　　　　　　　<black_dot><left_arrow>のぞき穴<end_line>
   </sjis>
   <ascii>
-    �@<end_line>
-    �@�@�@�@�@�@�@�@<black_dot><left_arrow>Peeping hole<end_line>
+    　<end_line>
+    　　　　　　　　<black_dot><left_arrow>Peeping hole<end_line>
   </ascii>
 </dialogue>
 <dialogue>
   <info box="simple">
   <sjis>
-    ����Ȃ킯�Ȃ��ł���<end_line>
+    そんなわけないでしょ<end_line>
   </sjis>
   <ascii>
     No way that's true.<end_line>
@@ -51,8 +51,8 @@
 <dialogue>
   <info box="simple">
   <sjis>
-    �����ł��邱�Ƃ͖�������ȁI<end_line>
-    �@�@�@�@�@�@�@�@�@�@���������j<end_line>
+    今日できることは明日するな！<end_line>
+    　　　　　　　　　　せっかち男<end_line>
   </sjis>
   <ascii>
     Don't do tomorrow what<end_line>
@@ -63,9 +63,9 @@
 <dialogue>
   <info box="simple">
   <sjis>
-    �h�N�E�}�q�E�l�����E�T�r���󂯂��<end_line>
-    �ƂĂ��h���ł����A���Ԃ����Ă�<end_line>
-    ���ʂ͏����܂�<end_line>
+    ドク・マヒ・ネムリ・サビを受けると<end_line>
+    とても辛いですが、時間がたてば<end_line>
+    効果は消えます<end_line>
   </sjis>
   <ascii>
     Poison, Paralysis, Sleep, Rust.<end_line>
@@ -76,8 +76,8 @@
 <dialogue>
   <info box="simple">
   <sjis>
-    �}�[�l�C���h��ɂ��������̍ۂ�<end_line>
-    ���Ёu�قق��ݒ��v�������p���������I<end_line>
+    マーネイル宿場にお立ちよりの際は<end_line>
+    ぜひ「ほほえみ亭」をご利用ください！<end_line>
   </sjis>
   <ascii>
     When staying at Marneil Station,<end_line>
@@ -87,8 +87,8 @@
 <dialogue>
   <info box="simple">
   <sjis>
-    ���킢���Ŕ��e�B�G�����<end_line>
-    �T�[�r�X�����Ⴂ�܂��I<paw><end_line>
+    かわいい看板娘ティエちゃんが<end_line>
+    サービスしちゃいます！<paw><end_line>
   </sjis>
   <ascii>
     Our cute poster girl, Tier,<end_line>

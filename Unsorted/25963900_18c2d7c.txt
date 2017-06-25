@@ -3,8 +3,8 @@
 	<portrait_l entry="tier" eye="serious" mouth="tense">
 	<portrait_r entry="player" eye="serious" mouth="neutral">
 	<sjis>
-		�S���@���̖��΂̂�������<end_line>
-		�{���ɐF�X�Ȗڂɂ������Ȃ�<three_dots><end_line>
+		ゴヴァンの魔石のおかげで<end_line>
+		本当に色々な目にあったなぁ<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -12,9 +12,9 @@
 	<portrait_l entry="tier" eye="serious" mouth="tense">
 	<portrait_r entry="player" eye="serious" mouth="neutral">
 	<sjis>
-		�{���A���x�����ԂȂ��ڂ�<end_line>
-		�����������<three_dots><end_line>
-		�悭����������������<end_line>
+		本当、何度もあぶない目に<end_line>
+		あったもんね<three_dots><end_line>
+		よく命が無事だったわ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -23,16 +23,16 @@
 	<portrait_r entry="player" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
-			�������ɑ�ςȖڂɂ͂���������<end_line>
-			�������Ƃ΂�������Ȃ���<end_line>
-			�ق�<three_dots><end_line>
+			たしかに大変な目にはあったけど<end_line>
+			悪いことばっかじゃないぜ<end_line>
+			ほら<three_dots><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�������ɑ�ςȖڂɂ͂���������<end_line>
-			�������Ƃ΂�������Ȃ���<end_line>
-			�ق�<three_dots><end_line>
+			たしかに大変な目にはあったけど<end_line>
+			悪いことばっかじゃないよ<end_line>
+			ほら<three_dots><end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -41,9 +41,9 @@
 	<portrait_l entry="tier" eye="serious" mouth="neutral">
 	<portrait_r entry="player" eye="serious" mouth="talk">
 	<sjis>
-		�������ăe�B�G�ƒ��ǂ��Ȃꂽ�̂�<end_line>
-		���΂̂���������<end_line>
-		�����Ȃ����Ƃ��Ȃ���<end_line>
+		こうしてティエと仲良くなれたのも<end_line>
+		魔石のおかげって<end_line>
+		言えないこともないし<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -51,9 +51,9 @@
 	<portrait_l entry="tier" eye="serious" mouth="talk">
 	<portrait_r entry="player" eye="serious" mouth="talk">
 	<sjis>
-		������<three_dots><end_line>
-		�ł����΂Ȃ񂩂Ȃ���������<end_line>
-		<player_nickname>�Ƃ͏o����Ă����͂���<end_line>
+		そうね<three_dots><end_line>
+		でも魔石なんかなくったって<end_line>
+		<player_nickname>とは出会っていたはずよ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -61,8 +61,8 @@
 	<portrait_l entry="tier" eye="sad_blush" mouth="neutral">
 	<portrait_r entry="player" eye="serious" mouth="talk">
 	<sjis>
-		�����Ă��Ȃ��Ƃ킽����<end_line>
-		�Ђ��ꂠ���^���Ȃ�ł�����<three_dots><end_line>
+		だってあなたとわたしは<end_line>
+		ひかれあう運命なんですもの<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -70,8 +70,8 @@
 	<portrait_l entry="tier" eye="sad_blush" mouth="neutral">
 	<portrait_r entry="player" eye="happy" mouth="tense">
 	<sjis>
-		��������������<end_line>
-		�Ȃ񂩁A�e���݂������Ȃ�<three_dots><end_line>
+		そういう言い方<end_line>
+		なんか、親方みたいだなぁ<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -80,16 +80,16 @@
 	<portrait_r entry="player" eye="happy" mouth="tense">
 	<male>
 		<sjis>
-			���΂̌����Еt�������Ƃ���<end_line>
-			����łقق��ݒ��ꑮ��<end_line>
-			�b��t�Ƃ��Ă��������<three_dots><end_line>
+			魔石の件も片付いたことだし<end_line>
+			これでほほえみ亭専属の<end_line>
+			鍛冶師としてしっかりと<three_dots><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			���΂̌����Еt�������Ƃ���<end_line>
-			����łقق��ݒ��ꑮ�̒b��t��<end_line>
-			�J���o�����Ƃ��Ă��������<three_dots><end_line>
+			魔石の件も片付いたことだし<end_line>
+			これでほほえみ亭専属の鍛冶師兼<end_line>
+			カンバン娘としてしっかりと<three_dots><end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -99,16 +99,16 @@
 	<portrait_r entry="player" eye="sad" mouth="neutral">
 	<male>
 		<sjis>
-			�ł��A�ق�A���̑O��<end_line>
-			�e���Ƃ̖񑩂̂P�O�O���o�[����<end_line>
-			�Ȃ�Ƃ����Ȃ����<three_dots><end_line>
+			でも、ほら、その前に<end_line>
+			親方との約束の１００万バームを<end_line>
+			なんとかしなきゃな<three_dots><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�ł��A�ق�A���̑O��<end_line>
-			�e���Ƃ̖񑩂̂P�O�O���o�[����<end_line>
-			�Ȃ�Ƃ����Ȃ���<three_dots><end_line>
+			でも、ほら、その前に<end_line>
+			親方との約束の１００万バームを<end_line>
+			なんとかしなきゃ<three_dots><end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -117,8 +117,8 @@
 	<portrait_l entry="tier" eye="decided" mouth="tense">
 	<portrait_r entry="player" eye="sad" mouth="neutral">
 	<sjis>
-		����������<player_nickname><end_line>
-		�؋�������̂ˁI�H<end_line>
+		そういえば<player_nickname><end_line>
+		借金があるのね！？<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -126,7 +126,7 @@
 	<portrait_l entry="tier" eye="decided" mouth="tense">
 	<portrait_r entry="player" eye="happy" mouth="stressed">
 	<sjis>
-		�؋�����Ȃ��I<end_line>
+		借金じゃない！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -134,9 +134,9 @@
 	<portrait_l entry="tier" eye="sad" mouth="stressed">
 	<portrait_r entry="player" eye="happy" mouth="stressed">
 	<sjis>
-		����<three_dots><end_line>
-		��������ăU���R�N�ȉ^����<end_line>
-		�ӂ���������������ƌ����̂�<end_line>
+		ああ<three_dots><end_line>
+		こうやってザンコクな運命は<end_line>
+		ふたりを引きさこうと言うのね<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -145,12 +145,12 @@
 	<portrait_r entry="player" eye="decided" mouth="tense">
 	<male>
 		<sjis>
-			�X�S�C���ƂɂȂ��Ă�񂾂�<three_dots><end_line>
+			スゴイことになってるんだな<three_dots><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�X�S�C���ƂɂȂ��Ă�̂�<three_dots><end_line>
+			スゴイことになってるのね<three_dots><end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -159,9 +159,9 @@
 	<portrait_l entry="tier" eye="decided" mouth="serious">
 	<portrait_r entry="player" eye="decided" mouth="tense">
 	<sjis>
-		�ł����v��A<player_nickname><end_line>
-		���̒��x�̂��ƂȂ񂩂���<end_line>
-		�킽���͂������Ȃ���<end_line>
+		でも大丈夫よ、<player_nickname><end_line>
+		この程度のことなんかじゃ<end_line>
+		わたしはくじけないわ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -169,9 +169,9 @@
 	<portrait_l entry="tier" eye="decided" mouth="neutral">
 	<portrait_r entry="player" eye="decided" mouth="tense">
 	<sjis>
-		����ǂ��납�t�ɔR���オ����I<end_line>
-		�����A���̋t��<end_line>
-		�ӂ���ł̂肱���܂��傤�I<end_line>
+		それどころか逆に燃え上がるわよ！<end_line>
+		さあ、この逆境<end_line>
+		ふたりでのりこえましょう！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -179,9 +179,9 @@
 	<portrait_l entry="tier" eye="decided" mouth="neutral">
 	<portrait_r entry="player" eye="happy" mouth="neutral">
 	<sjis>
-		�킩�����킩����<end_line>
-		�܂�����<three_dots><end_line>
-		�e�B�G�ɂ͂��Ȃ�Ȃ���<end_line>
+		わかったわかった<end_line>
+		まったく<three_dots><end_line>
+		ティエにはかなわないよ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -190,14 +190,14 @@
 	<portrait_r entry="player" eye="decided" mouth="neutral">
 	<male>
 		<sjis>
-			��������<end_line>
-			�Ƃɂ����ӂ���ł���΂낤�I<end_line>
+			そうだな<end_line>
+			とにかくふたりでがんばろう！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			��������<end_line>
-			�Ƃɂ����ӂ���ł���΂낤�I<end_line>
+			そうだね<end_line>
+			とにかくふたりでがんばろう！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -206,9 +206,9 @@
 	<portrait_l entry="tier" eye="happy_blush" mouth="neutral">
 	<portrait_r entry="player" eye="decided" mouth="neutral">
 	<sjis>
-		���肪�Ƃ��A<player_nickname><end_line>
-		���������Ƃ���<end_line>
-		��D����I<end_line>
+		ありがとう、<player_nickname><end_line>
+		そういうところ<end_line>
+		大好きよ！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -216,7 +216,7 @@
 	<portrait_l entry="tier" eye="happy_blush" mouth="neutral">
 	<portrait_r entry="player" eye="happy_blush" mouth="tense">
 	<sjis>
-		������ƁA�J���x�����Ă�<three_dots><end_line>
+		ちょっと、カンベンしてよ<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -224,7 +224,7 @@
 	<portrait_l entry="tier" eye="decided_blush" mouth="neutral">
 	<portrait_r entry="player" eye="happy_blush" mouth="tense">
 	<sjis>
-		�_�`��<end_line>
-		�J���x���Ȃ�Ă��Ă����ȁ`��<end_line>
+		ダ～メ<end_line>
+		カンベンなんてしてあげな～い<end_line>
 	</sjis>
 </dialogue>

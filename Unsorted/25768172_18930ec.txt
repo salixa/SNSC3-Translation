@@ -1,27 +1,27 @@
 <location>
 	<sjis>
-		�R���V�[���̐X<end_line>
+		コンシールの森<end_line>
 	</sjis>
 </location>
 <location>
 	<sjis>
-		�R���V�[���̐X�@�G���A�R<end_line>
+		コンシールの森　エリア３<end_line>
 	</sjis>
 </location>
 <popup>
 	<sjis>
-		���C�ɂȂ����I<end_line>
+		元気になった！<end_line>
 	</sjis>
 </popup>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="stray_cat">
 	<sjis>
-		�ɂ�H<end_line>
+		にゃ？<end_line>
 	</sjis>
 </dialogue>
 <popup>
 	<sjis>
-		�����l�R��ی삵���I<end_line>
+		迷いネコを保護した！<end_line>
 	</sjis>
 </popup>

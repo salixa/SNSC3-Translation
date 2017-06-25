@@ -1,27 +1,27 @@
 <location>
 	<sjis>
-		�����̉Ɓ@���<end_line>
+		村長の家　道具屋<end_line>
 	</sjis>
 </location>
 <location>
 	<sjis>
-		�����̉Ɓ@���<end_line>
+		村長の家　道具屋<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="child">
 	<sjis>
-		���������Ȃ�����<end_line>
-		���ƂȂɂȂ��<end_line>
+		おおきくなったら<end_line>
+		おとなになるんだ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="child">
 	<sjis>
-		�Ƃ肠�����A�������炩�񂪂���̂�<end_line>
-		���񂶂Ă�������<end_line>
-		�킩������<end_line>
+		とりあえず、そこからかんがえるのが<end_line>
+		げんじつてきだって<end_line>
+		わかったんだ<end_line>
 	</sjis>
 </dialogue>

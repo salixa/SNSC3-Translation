@@ -3,8 +3,8 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="tram" eye="serious" mouth="neutral">
 	<sjis>
-		�Ȃ�Ƃ����ǂ�����悤�ł���<end_line>
-		�������ق��̊Ԃł���<end_line>
+		なんとかたどりつけたようですね<end_line>
+		ここが裁きの間ですよ<end_line>
 	</sjis>
   <ascii>
     You managed to make it.<end_line>
@@ -17,8 +17,8 @@
 	<portrait_l entry="player" eye="serious" mouth="tense">
 	<portrait_r entry="tram" eye="serious" mouth="neutral">
 	<sjis>
-		������<three_dots>�H<end_line>
-		�����L����������Ȃ����H<end_line>
+		ここが<three_dots>？<end_line>
+		ただ広いだけじゃないか？<end_line>
 	</sjis>
   <ascii>
     This is<three_dots>?<end_line>
@@ -31,9 +31,9 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="tram" eye="serious" mouth="neutral">
 	<sjis>
-		�Ȃ�ŏ�������̂ɂ킴�킴<end_line>
-		����ȂƂ��܂ŗ��Ȃ�����<end_line>
-		�Ȃ�Ȃ��񂾁H<end_line>
+		なんで勝負するのにわざわざ<end_line>
+		こんなとこまで来なくちゃ<end_line>
+		ならないんだ？<end_line>
 	</sjis>
   <ascii>
     Why did we have to come all<end_line>
@@ -46,8 +46,8 @@
 	<portrait_l entry="player" eye="serious" mouth="tense">
 	<portrait_r entry="tram" eye="serious" mouth="neutral">
 	<sjis>
-		������<three_dots>�H<end_line>
-		�����L����������Ȃ��H<end_line>
+		ここが<three_dots>？<end_line>
+		ただ広いだけじゃない？<end_line>
 	</sjis>
   <ascii>
     This is<three_dots>?<end_line>
@@ -60,9 +60,9 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="tram" eye="serious" mouth="neutral">
 	<sjis>
-		�Ȃ�ŏ�������̂ɂ킴�킴<end_line>
-		����ȂƂ��܂ŗ��Ȃ�����<end_line>
-		�Ȃ�Ȃ��́H<end_line>
+		なんで勝負するのにわざわざ<end_line>
+		こんなとこまで来なくちゃ<end_line>
+		ならないの？<end_line>
 	</sjis>
   <ascii>
     Why did we have to come all<end_line>
@@ -74,9 +74,9 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="tram" eye="decided" mouth="neutral">
 	<sjis>
-		���̊Ԃōs���鏟����<end_line>
-		�������҂̂ݏ�������<end_line>
-		<three_dots>���Ă��������`��������܂��Ă�<end_line>
+		この間で行われる勝負は<end_line>
+		正しき者のみ勝利する<end_line>
+		<three_dots>っていう言い伝えがありましてね<end_line>
 	</sjis>
   <ascii>
     Only one who is just<end_line>
@@ -89,8 +89,8 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="tram" eye="serious" mouth="neutral">
 	<sjis>
-		�����ł̏����ł��낢��Ȃ��Ƃ�<end_line>
-		���߂��Ă����̂ł�<end_line>
+		ここでの勝負でいろいろなことが<end_line>
+		決められてきたのです<end_line>
 	</sjis>
   <ascii>
     Many things were decided by<end_line>
@@ -103,8 +103,8 @@
 	<portrait_l entry="partner" eye="serious" mouth="tense">
 	<portrait_r entry="tram" eye="serious" mouth="neutral">
 	<sjis>
-		����i�@�`�J���K<end_line>
-		��p�V�e�C���m�f�V���E�J�H<end_line>
+		特殊ナ　チカラガ<end_line>
+		作用シテイルノデショウカ？<end_line>
 	</sjis>
   <ascii>
     Is there a special<end_line>
@@ -117,8 +117,8 @@
 	<portrait_l entry="partner" eye="serious" mouth="tense">
 	<portrait_r entry="tram" eye="serious" mouth="neutral">
 	<sjis>
-		�_���Ȃ鏟���̏�<end_line>
-		<three_dots>�ƌ����Ƃ��낶���<end_line>
+		神聖なる勝負の場<end_line>
+		<three_dots>と言うところじゃな<end_line>
 	</sjis>
   <ascii>
     In other words<three_dots><end_line>
@@ -131,7 +131,7 @@
 	<portrait_l entry="partner" eye="serious" mouth="tense">
 	<portrait_r entry="tram" eye="serious" mouth="neutral">
 	<sjis>
-		����Ȃ����M��<end_line>
+		下らない迷信だ<end_line>
 	</sjis>
   <ascii>
     That's a worthless superstition.<end_line>
@@ -143,7 +143,7 @@
 	<portrait_l entry="partner" eye="serious" mouth="tense">
 	<portrait_r entry="tram" eye="serious" mouth="neutral">
 	<sjis>
-		�t�V�M�ȂƂ���Ȃ�ł��̂�<end_line>
+		フシギなところなんですのね<end_line>
 	</sjis>
   <ascii>
     This is a mysterious place.<end_line>
@@ -154,9 +154,9 @@
 	<portrait_l entry="player" eye="serious" mouth="serious">
 	<portrait_r entry="tram" eye="decided" mouth="tense">
 	<sjis>
-		�N���҂̍ق��������ōs����<end_line>
-		���܂�������<end_line>
-		�N�Ƃ̏����ɂ͂����Ă��ł��傤<end_line>
+		侵入者の裁きもここで行われて<end_line>
+		いましたから<end_line>
+		君との勝負にはうってつけでしょう<end_line>
 	</sjis>
   <ascii>
     All intruders are taken here<end_line>
@@ -169,9 +169,9 @@
 	<portrait_l entry="player" eye="serious" mouth="serious">
 	<portrait_r entry="tram" eye="decided" mouth="talk">
 	<sjis>
-		�N���������Ƃ��Ă��A�N���҂̂悤��<end_line>
-		�n��ɗ��Ƃ��͂��Ȃ�����<end_line>
-		���S���Ă����ł���<end_line>
+		君が負けたとしても、侵入者のように<end_line>
+		溶岩に落としはしないから<end_line>
+		安心していいですよ<end_line>
 	</sjis>
   <ascii>
     Although, if you do lose, I won't <end_line>
@@ -185,14 +185,14 @@
 	<portrait_r entry="tram" eye="decided" mouth="talk">
 	<male>
 		<sjis>
-			�N���҂͕�������<end_line>
-			�n��ɗ��Ƃ���Ă��̂�<three_dots>�H<end_line>
+			侵入者は負けたら<end_line>
+			溶岩に落とされてたのか<three_dots>？<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�N���҂͕�������<end_line>
-			�n��ɗ��Ƃ���Ă�����<three_dots>�H<end_line>
+			侵入者は負けたら<end_line>
+			溶岩に落とされていたの<three_dots>？<end_line>
 		</sjis>
 	</female>
   <ascii>
@@ -204,9 +204,9 @@
 	<info box="right">
 	<portrait_r entry="gallahan" eye="serious" mouth="tense">
 	<sjis>
-		���̕ӂɂ��Ƃ��ȁA�g����<end_line>
-		����܂�|���点����<end_line>
-		�����ɂȂ�Ȃ��Ȃ邾�낤�H<end_line>
+		その辺にしときな、トラム<end_line>
+		あんまり怖がらせたら<end_line>
+		勝負にならなくなるだろう？<end_line>
 	</sjis>
   <ascii>
     Let's leave it at that, Tram.<end_line>
@@ -219,8 +219,8 @@
 	<portrait_l entry="tram" eye="serious" mouth="neutral">
 	<portrait_r entry="gallahan" eye="serious" mouth="tense">
 	<sjis>
-		�����A���݂܂���<end_line>
-		���̒ʂ�ł���<end_line>
+		ああ、すみません<end_line>
+		その通りですね<end_line>
 	</sjis>
   <ascii>
     Right, sorry.<end_line>
@@ -232,14 +232,14 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<male>
 		<sjis>
-			�Ȃ񂾂ƁI�H<end_line>
-			�I���̓R�������ĂȂ񂩂��Ȃ��I<end_line>
+			なんだと！？<end_line>
+			オレはコワがってなんかいない！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�Ȃɂ�I�H<end_line>
-			�킽���̓R�������ĂȂ񂩂Ȃ����I<end_line>
+			なによ！？<end_line>
+			わたしはコワがってなんかないわよ！<end_line>
 		</sjis>
 	</female>
   <ascii>
@@ -253,9 +253,9 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<sjis>
-		���`�c�C�e�N�_�T�C<end_line>
-		�{�b�e�C�e�n�@���̓�<end_line>
-		�o�X�R�g�n�@�f�L�}�Z��<end_line>
+		落チツイテクダサイ<end_line>
+		怒ッテイテハ　実力ヲ<end_line>
+		出スコトハ　デキマセン<end_line>
 	</sjis>
   <ascii>
     Please calm down.<end_line>
@@ -269,9 +269,9 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<sjis>
-		�������̂���A<player_nickname><end_line>
-		�M���Ȃ肷�����<end_line>
-		�X�L���ł��邼<end_line>
+		落ちつくのじゃ、<player_nickname><end_line>
+		熱くなりすぎると<end_line>
+		スキができるぞ<end_line>
 	</sjis>
   <ascii>
     Calm down, <player_nickname><end_line>
@@ -285,8 +285,8 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<sjis>
-		������<end_line>
-		���������񂶂�Ȃ������̂��H<end_line>
+		落ちつけ<end_line>
+		勝ちたいんじゃなかったのか？<end_line>
 	</sjis>
   <ascii>
     Calm down.<end_line>
@@ -299,9 +299,9 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<sjis>
-		�������Ă�������<end_line>
-		�{��ɂ܂����Ă��܂���<end_line>
-		�����Ƀ��_���ł��Ă��܂��܂���<end_line>
+		落ちついてください<end_line>
+		怒りにまかせてしまうと<end_line>
+		動きにムダができてしまいますわ<end_line>
 	</sjis>
   <ascii>
     Please, calm down.<end_line>
@@ -315,14 +315,14 @@
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
 		<sjis>
-			������<three_dots><end_line>
-			���߂�<end_line>
+			そっか<three_dots><end_line>
+			ごめん<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			���������<three_dots><end_line>
-			���߂�<end_line>
+			そうだよね<three_dots><end_line>
+			ごめん<end_line>
 		</sjis>
 	</female>
   <ascii>
@@ -335,7 +335,7 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<sjis>
-		���肪�Ƃ��A<partner><three_dots><end_line>
+		ありがとう、<partner><three_dots><end_line>
 	</sjis>
   <ascii>
     Thanks, <partner><three_dots><end_line>
@@ -346,8 +346,8 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="gallahan" eye="serious" mouth="talk">
 	<sjis>
-		�ق�<three_dots><end_line>
-		�����ڂɂȂ�����<end_line>
+		ほう<three_dots><end_line>
+		いい目になったな<end_line>
 	</sjis>
   <ascii>
     Oh<three_dots><end_line>
@@ -359,8 +359,8 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="gallahan" eye="decided" mouth="neutral">
 	<sjis>
-		�ł́A�o����<end_line>
-		�����Ɏg��������ЂƂI�тȂ���<end_line>
+		では、双方共<end_line>
+		勝負に使う武器をひとつ選びなさい<end_line>
 	</sjis>
   <ascii>
     Now then, both of you,<end_line>

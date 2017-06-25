@@ -4,12 +4,12 @@
 	<portrait_r entry="roche" eye="happy" mouth="neutral">
 	<male>
 		<sjis>
-			<player_nickname>����̃J�c���N<end_line>
+			<player_nickname>くんのカツヤク<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			<player_nickname>�����̃J�c���N<end_line>
+			<player_nickname>ちゃんのカツヤク<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -18,8 +18,8 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="roche" eye="happy" mouth="neutral">
 	<sjis>
-		�e�B�G���畷������<end_line>
-		�X�S�C��ˁI<end_line>
+		ティエから聞いたわ<end_line>
+		スゴイわね！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -27,7 +27,7 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="roche" eye="serious" mouth="talk">
 	<sjis>
-		�����A�E�`�̒b��t�Ƃ���<end_line>
-		��������Ⴂ�ȁI<end_line>
+		早く、ウチの鍛冶師として<end_line>
+		いらっしゃいな！<end_line>
 	</sjis>
 </dialogue>

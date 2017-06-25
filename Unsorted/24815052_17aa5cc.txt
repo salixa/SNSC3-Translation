@@ -1,34 +1,34 @@
 <location>
 	<sjis>
-		ƒMƒƒƒ‰ƒnƒ“H–[@“¹‹ï‰®<end_line>
+		ã‚®ãƒ£ãƒ©ãƒãƒ³å·¥æˆ¿ã€€é“å…·å±‹<end_line>
 	</sjis>
 </location>
 <location>
 	<sjis>
-		ƒMƒƒƒ‰ƒnƒ“H–[@“¹‹ï‰®<end_line>
+		ã‚®ãƒ£ãƒ©ãƒãƒ³å·¥æˆ¿ã€€é“å…·å±‹<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="gallahan">
 	<sjis>
-		‰½‚¾‚©Žü‚è‚ª‚³‚í‚ª‚µ‚¢‚æ‚¤‚¾<end_line>
-		‚±‚¤‚¢‚¤Žž‚±‚»A‚¨‚¿‚Â‚©‚ñ‚Æ‚È<end_line>
+		ä½•ã ã‹å‘¨ã‚ŠãŒã•ã‚ãŒã—ã„ã‚ˆã†ã <end_line>
+		ã“ã†ã„ã†æ™‚ã“ãã€ãŠã¡ã¤ã‹ã‚“ã¨ãª<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		ƒMƒƒƒ‰ƒnƒ“H–[‚©‚ç‚Ì‚¨’m‚ç‚¹<end_line>
-		ƒJƒEƒ“ƒ^[‚É“Xˆõ‚ª‚¢‚È‚¢‚Æ‚«‚É‚Í<end_line>
-		ŸŽè‚É”ƒ‚¢•¨‚µ‚Ä‚­‚¾‚³‚¢<end_line>
+		ã‚®ãƒ£ãƒ©ãƒãƒ³å·¥æˆ¿ã‹ã‚‰ã®ãŠçŸ¥ã‚‰ã›<end_line>
+		ã‚«ã‚¦ãƒ³ã‚¿ãƒ¼ã«åº—å“¡ãŒã„ãªã„ã¨ãã«ã¯<end_line>
+		å‹æ‰‹ã«è²·ã„ç‰©ã—ã¦ãã ã•ã„<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		‚±‚Ì‘º‚ðŽç‚é‚½‚ß‚É‚Í<end_line>
-		‹­—Í‚È•Ší‚ª•K—v‚¾‚ÆŽv‚¤‚ñ‚¾<end_line>
+		ã“ã®æ‘ã‚’å®ˆã‚‹ãŸã‚ã«ã¯<end_line>
+		å¼·åŠ›ãªæ­¦å™¨ãŒå¿…è¦ã ã¨æ€ã†ã‚“ã <end_line>
 	</sjis>
 </dialogue>

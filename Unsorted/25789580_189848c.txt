@@ -1,22 +1,22 @@
 <location>
 	<sjis>
-		�x���[�g�̐X<end_line>
+		ベリートの森<end_line>
 	</sjis>
 </location>
 <location>
 	<sjis>
-		�x���[�g�̐X�@�G���A�S<end_line>
+		ベリートの森　エリア４<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="stray_cat">
 	<sjis>
-		�ɂ�H<end_line>
+		にゃ？<end_line>
 	</sjis>
 </dialogue>
 <popup>
 	<sjis>
-		�����l�R��ی삵���I<end_line>
+		迷いネコを保護した！<end_line>
 	</sjis>
 </popup>

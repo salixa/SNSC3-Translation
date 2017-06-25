@@ -4,16 +4,16 @@
   <portrait_r entry="partner" eye="serious" mouth="serious">
   <male>
     <sjis>
-      ����<three_dots><end_line>
-      ��C���₽����<three_dots><end_line>
-      ���̂������H<end_line>
+      うわ<three_dots><end_line>
+      空気が冷たいな<three_dots><end_line>
+      水のせいか？<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ���킟<three_dots><end_line>
-      ��C���₽����<three_dots><end_line>
-      ���̂������ȁH<end_line>
+      うわぁ<three_dots><end_line>
+      空気が冷たいね<three_dots><end_line>
+      水のせいかな？<end_line>
     </sjis>
   </female>
   <ascii>
@@ -28,9 +28,9 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <portrait_r entry="partner" eye="sad" mouth="tense">
   <sjis>
-    �J�X�J�i���˂邬�[��<end_line>
-    ��Փ��f�@���m�V�e�C�}�X<end_line>
-    ���ӃV�e�N�_�T�C<end_line>
+    カスカナえねるぎーヲ<end_line>
+    遺跡内デ　検知シテイマス<end_line>
+    注意シテクダサイ<end_line>
   </sjis>
   <ascii>
     I Can Detect A Faint<end_line>
@@ -45,12 +45,12 @@
   <portrait_r entry="partner" eye="sad" mouth="tense">
   <male>
     <sjis>
-      �킩������<end_line>
+      わかったよ<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �킩�������<end_line>
+      わかったわよ<end_line>
     </sjis>
   </female>
   <ascii>
@@ -63,8 +63,8 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="partner" eye="serious" mouth="neutral">
   <sjis>
-    �����V�e�C���m�n�@���J���}�V�^�J��<end_line>
-    �`�����g�s����<three_dots><end_line>
+    理解シテイルノハ　ワカリマシタカラ<end_line>
+    チャント行動ヲ<three_dots><end_line>
   </sjis>
   <ascii>
     You May Understand, But You Must<end_line>
@@ -78,12 +78,12 @@
   <portrait_r entry="partner" eye="serious" mouth="neutral">
   <male>
     <sjis>
-      �킩�������āI<end_line>
+      わかったって！<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �킩���Ă���āI<end_line>
+      わかってるって！<end_line>
     </sjis>
   </female>
   <ascii>
@@ -96,8 +96,8 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <portrait_r entry="partner" eye="sad" mouth="tense">
   <sjis>
-    �C���ȋC��������̂�<three_dots><end_line>
-    �\�����ӂ���̂��Ⴜ<end_line>
+    イヤな気を感じるのぉ<three_dots><end_line>
+    十分注意するのじゃぞ<end_line>
   </sjis>
   <ascii>
     I can feel an unpleasant presence<three_dots><end_line>
@@ -111,12 +111,12 @@
   <portrait_r entry="partner" eye="sad" mouth="tense">
   <male>
     <sjis>
-      �킩������<end_line>
+      わかったよ<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �킩�������<end_line>
+      わかったわよ<end_line>
     </sjis>
   </female>
   <ascii>
@@ -129,8 +129,8 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="partner" eye="decided" mouth="yell">
   <sjis>
-    �킩���Ă���̂Ȃ�s�������<end_line>
-    �����Ă���̂���I<end_line>
+    わかっているのなら行動しろと<end_line>
+    言っておるのじゃ！<end_line>
   </sjis>
   <ascii>
     Then act like it!<end_line>
@@ -143,12 +143,12 @@
   <portrait_r entry="partner" eye="decided" mouth="yell">
   <male>
     <sjis>
-      ������킩���Ă���āI<end_line>
+      それもわかってるって！<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ������킩���Ă���I<end_line>
+      それもわかってるわよ！<end_line>
     </sjis>
   </female>
   <ascii>
@@ -161,9 +161,9 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <portrait_r entry="partner" eye="sad" mouth="tense">
   <sjis>
-    �Ȃ񂾁H�@���̔g��<three_dots><end_line>
-    �L�T�}�Ƃ�������<end_line>
-    �C���Ȋ�����<three_dots><end_line>
+    なんだ？　この波動<three_dots><end_line>
+    キサマともちがう<end_line>
+    イヤな感じだ<three_dots><end_line>
   </sjis>
   <ascii>
     What the? This energy<three_dots><end_line>
@@ -178,14 +178,14 @@
   <portrait_r entry="partner" eye="sad" mouth="tense">
   <male>
     <sjis>
-      �Ȃ񂾂�<end_line>
-      �I�����Ȃ񂩂����̂���<end_line>
+      なんだよ<end_line>
+      オレがなんかしたのかよ<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �Ȃɂ�<end_line>
-      �킽�����Ȃ񂩂����H<end_line>
+      なによ<end_line>
+      わたしがなんかした？<end_line>
     </sjis>
   </female>
   <ascii>
@@ -198,8 +198,8 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <portrait_r entry="partner" eye="serious" mouth="talk">
   <sjis>
-    ������<end_line>
-    �L�T�}�̂ɂ́A�����Ȃꂽ<end_line>
+    ちがう<end_line>
+    キサマのには、もうなれた<end_line>
   </sjis>
   <ascii>
     Nothing.<end_line>
@@ -213,14 +213,14 @@
   <portrait_r entry="partner" eye="serious" mouth="talk">
   <male>
     <sjis>
-      �Ȃ񂾂�A����<end_line>
-      �����A�s�����I<end_line>
+      なんだよ、それ<end_line>
+      もう、行くぞ！<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �Ȃɂ�A����<end_line>
-      �����A�s����I<end_line>
+      なによ、それ<end_line>
+      もう、行くよ！<end_line>
     </sjis>
   </female>
   <ascii>
@@ -234,8 +234,8 @@
   <portrait_l entry="player" eye="decided" mouth="tense">
   <portrait_r entry="partner" eye="serious" mouth="talk">
   <sjis>
-    �Ȃ񂾂��C���Ȋ��������܂���<end_line>
-    �C�����ĉ�����<end_line>
+    なんだかイヤな感じがしますわ<end_line>
+    気をつけて下さい<end_line>
   </sjis>
   <ascii>
     I can feel an unpleasant presence.<end_line>
@@ -249,14 +249,14 @@
   <portrait_r entry="partner" eye="serious" mouth="talk">
   <male>
     <sjis>
-      �Ȃ񂾂�<end_line>
-      �R���C�̂��H<end_line>
+      なんだよ<end_line>
+      コワイのか？<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �Ȃɂ�<end_line>
-      �R���C�́H<end_line>
+      なによ<end_line>
+      コワイの？<end_line>
     </sjis>
   </female>
   <ascii>
@@ -270,9 +270,9 @@
   <portrait_l entry="player" eye="serious" mouth="serious">
   <portrait_r entry="partner" eye="surprised" mouth="stressed">
   <sjis>
-    ��A���̓R���C�Ȃ�Č����Ă܂����<end_line>
-    �C���Ȋ����������ł���<end_line>
-    �Ƃɂ����C�����Ă��������I<end_line>
+    わ、私はコワイなんて言ってませんわ<end_line>
+    イヤな感じがするんですよ<end_line>
+    とにかく気をつけてください！<end_line>
   </sjis>
   <ascii>
     I-I never said that.<end_line>
@@ -287,12 +287,12 @@
   <portrait_r entry="partner" eye="surprised" mouth="stressed">
   <male>
     <sjis>
-      �킩������<end_line>
+      わかったよ<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �킩�������<end_line>
+      わかったわよ<end_line>
     </sjis>
   </female>
   <ascii>

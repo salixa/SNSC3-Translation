@@ -1,18 +1,18 @@
 <location>
   <sjis>
-    �v���X�o���̒�<end_line>
+    プロスバンの町<end_line>
   </sjis>
 </location>
 <location>
   <sjis>
-    �v���X�o���̒��@������<end_line>
+    プロスバンの町　南門公園<end_line>
   </sjis>
 </location>
 <dialogue>
   <info box="simple">
   <portrait_l name="man">
   <sjis>
-    �A�J�o�l��|�����q��������炵��<end_line>
+    アカバネを倒した子供がいるらしい<end_line>
   </sjis>
   <ascii>
     It seems the kid who beat<end_line>
@@ -23,9 +23,9 @@
   <info box="simple">
   <portrait_l name="man">
   <sjis>
-    ����͂����A�S�̂悤�Ȍ`����<end_line>
-    �ƂĂ��q���Ƃ͎v���Ȃ����\�ȃ��c<end_line>
-    ���ĉ\��<end_line>
+    それはもう、鬼のような形相で<end_line>
+    とても子供とは思えない凶暴なヤツ<end_line>
+    って噂だ<end_line>
   </sjis>
   <ascii>
     By now, they've turned into a demon,<end_line>
@@ -36,7 +36,7 @@
 <dialogue>
   <info box="simple">
   <sjis>
-    �݂��`<end_line>
+    みぃ～<end_line>
   </sjis>
   <ascii>
     Miiii<three_dots><end_line>
@@ -46,8 +46,8 @@
 <dialogue>
   <info box="simple">
   <sjis>
-    �@�@�@�v���X�o���̒��̑n�ݎ�<end_line>
-    �@�@�@�E�҃v���X�o���̐Α�<end_line>
+    　　　プロスバンの町の創設者<end_line>
+    　　　勇者プロスバンの石像<end_line>
   </sjis>
   <ascii>
        Founder of Prosban<end_line>

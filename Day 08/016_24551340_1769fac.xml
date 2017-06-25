@@ -1,14 +1,14 @@
 <location>
   <sjis>
-    �v���X�o���̒��@���X�ʂ�<end_line>
+    プロスバンの町　商店通り<end_line>
   </sjis>
 </location>
 <dialogue>
   <info box="simple">
   <portrait_l name="child">
   <sjis>
-    ���̒����āA���݂��݂��Ă�<end_line>
-    ������<end_line>
+    この町って、ごみごみしてて<end_line>
+    いやよね<end_line>
   </sjis>
   <ascii>
     This town has trash everywhere.<end_line>
@@ -19,8 +19,8 @@
   <info box="simple">
   <portrait_l name="child">
   <sjis>
-    �ǂ����ɁA�������ȂƂ���<end_line>
-    �Ȃ�������<end_line>
+    どこかに、しずかなところ<end_line>
+    ないかしら<end_line>
   </sjis>
   <ascii>
     Is there anywhere quiet around here?<end_line>
@@ -38,12 +38,12 @@
 <dialogue>
   <info box="simple">
   <sjis>
-    �@<end_line>
-    �@�@�@�ނ蒇�ԐV���@��Q��<end_line>
+    　<end_line>
+    　　　釣り仲間新聞　第２号<end_line>
   </sjis>
   <ascii>
-    �@<end_line>
-    �@�@�@Fishing Friends Paper, No. 2<end_line>
+    　<end_line>
+    　　　Fishing Friends Paper, No. 2<end_line>
   </ascii>
 </dialogue>
 #reference to a game mechanic?
@@ -52,9 +52,9 @@
 <dialogue>
   <info box="simple">
   <sjis>
-    �ނ�𑱂��Ă����<end_line>
-    �ނ�グ���G���m�̃|�C���g��<end_line>
-    ����������炦�鎞������炵����<end_line>
+    釣りを続けていると<end_line>
+    釣り上げたエモノのポイントが<end_line>
+    たくさんもらえる時があるらしいぞ<end_line>
   </sjis>
   <ascii>
     If you keep fishing continuously,<end_line>
@@ -65,9 +65,9 @@
 <dialogue>
   <info box="simple">
   <sjis>
-    �u�������v�ł��Ȃ��̉^��<end_line>
-    �����Ă݂܂��񂩁H<end_line>
-    �������I�I�󂭂������I�I<end_line>
+    「福引き」であなたの運を<end_line>
+    試してみませんか？<end_line>
+    毎日抽選！空くじ無し！！<end_line>
   </sjis>
   <ascii>
     Why not try your luck<end_line>
@@ -78,9 +78,9 @@
 <dialogue>
   <info box="simple">
   <sjis>
-    �p�����[�^�ɕ�����Ȃ�����������<end_line>
-    ���ЃA�N�Z�T���[�𑕔����Ă�������<end_line>
-    �������̂��m�点�ł���<end_line>
+    パラメータに物足りなさを感じたら<end_line>
+    ぜひアクセサリーを装備してください<end_line>
+    道具屋からのお知らせでした<end_line>
   </sjis>
   <ascii>
     Notice from the shop.<end_line>

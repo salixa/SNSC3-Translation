@@ -3,8 +3,8 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="gallahan" eye="serious" mouth="neutral">
   <sjis>
-    �悵�A�ł����I<end_line>
-    �ǂ��H<end_line>
+    よし、できた！<end_line>
+    どう？<end_line>
   </sjis>
   <ascii>
     Alright, done!<end_line>
@@ -16,7 +16,7 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="gallahan" eye="serious" mouth="serious">
   <sjis>
-    ����<three_dots><end_line>
+    うむ<three_dots><end_line>
   </sjis>
   <ascii>
     Mm<three_dots><end_line>
@@ -27,9 +27,9 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="gallahan" eye="serious" mouth="talk">
   <sjis>
-    �Ȃ�ق�<end_line>
-    ����Ȃ�̃E�f��<end_line>
-    �����Ă���悤����<end_line>
+    なるほど<end_line>
+    それなりのウデは<end_line>
+    持っているようだな<end_line>
   </sjis>
   <ascii>
     I see.<end_line>
@@ -42,12 +42,12 @@
   <portrait_r entry="gallahan" eye="serious" mouth="talk">
   <male>
     <sjis>
-      ��������H<end_line>
+      そうだろ？<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �����ł���H<end_line>
+      そうでしょ？<end_line>
     </sjis>
   </female>
   <ascii>
@@ -59,7 +59,7 @@
   <portrait_l entry="player" eye="happy" mouth="neutral">
   <portrait_r entry="gallahan" eye="serious" mouth="talk">
   <sjis>
-    ���ւց`<end_line>
+    えへへ～<end_line>
   </sjis>
   <ascii>
     Ehehe~<end_line>
@@ -70,9 +70,9 @@
   <portrait_l entry="player" eye="happy" mouth="neutral">
   <portrait_r entry="gallahan" eye="serious" mouth="neutral">
   <sjis>
-    �܂��A�b��t���ǂ����킩���<end_line>
-    �b��E�l�ł��邱�Ƃɂ�<end_line>
-    �܂������Ȃ����낤<end_line>
+    まあ、鍛冶師かどうかわからんが<end_line>
+    鍛冶職人であることには<end_line>
+    まちがいないだろう<end_line>
   </sjis>
   <ascii>
     Well, I don't know about<end_line>
@@ -85,7 +85,7 @@
   <portrait_l entry="player" eye="decided" mouth="stressed">
   <portrait_r entry="gallahan" eye="serious" mouth="neutral">
   <sjis>
-    �b��t�����āI<end_line>
+    鍛冶師だって！<end_line>
   </sjis>
   <ascii>
     I am a Craftknight!<end_line>
@@ -96,9 +96,9 @@
   <portrait_l entry="player" eye="decided" mouth="stressed">
   <portrait_r entry="gallahan" eye="serious" mouth="tense">
   <sjis>
-    �Ƃɂ���<end_line>
-    �g�����ɘb���Ă��邩��<end_line>
-    ���O�����͘S�ɖ߂��Ă�<end_line>
+    とにかく<end_line>
+    トラムに話してくるから<end_line>
+    お前たちは牢に戻ってろ<end_line>
   </sjis>
   <ascii>
     Anyway,<end_line>
@@ -112,14 +112,14 @@
   <portrait_r entry="gallahan" eye="serious" mouth="tense">
   <male>
     <sjis>
-      ���`<end_line>
-      ����͂Ȃ�����`<end_line>
+      え～<end_line>
+      それはないだろ～<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ���`<end_line>
-      ����͂Ȃ���`<end_line>
+      え～<end_line>
+      それはないよ～<end_line>
     </sjis>
   </female>
   <ascii>
@@ -132,9 +132,9 @@
   <portrait_l entry="player" eye="sad" mouth="stressed">
   <portrait_r entry="gallahan" eye="decided" mouth="neutral">
   <sjis>
-    ��������<end_line>
-    �����n���}�[��Ԃ�<end_line>
-    �����b�A���O������<end_line>
+    いいから<end_line>
+    さあハンマーを返せ<end_line>
+    召喚獣、お前も封印だ<end_line>
   </sjis>
   <ascii>
     Enough whining.<end_line>

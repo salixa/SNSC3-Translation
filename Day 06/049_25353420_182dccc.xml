@@ -3,9 +3,9 @@
 	<info box="left">
 	<portrait_l entry="player" eye="serious" mouth="tense">
 	<sjis>
-		����ɂ��Ă��g������<end_line>
-		�P�΂P�̏����ɂȂ�Ƃ�<end_line>
-		�v���Ă��݂Ȃ������Ȃ�<end_line>
+		それにしてもトラムと<end_line>
+		１対１の勝負になるとは<end_line>
+		思ってもみなかったなぁ<end_line>
 	</sjis>
   <ascii>
     But still, I never expected<end_line>
@@ -18,9 +18,9 @@
 	<info box="left">
 	<portrait_l entry="player" eye="sad" mouth="neutral">
 	<sjis>
-		���������΂݂�Ȃ�<end_line>
-		�I������������Ȃ��Ƃ��Ă��<end_line>
-		�m��Ȃ��񂾂��A�S�z���Ă���<three_dots><end_line>
+		そういえばみんなは<end_line>
+		オレたちがこんなことしてるの<end_line>
+		知らないんだし、心配してるよな<three_dots><end_line>
 	</sjis>
   <ascii>
     Speaking of which,<end_line>
@@ -33,9 +33,9 @@
 	<info box="left">
 	<portrait_l entry="player" eye="serious" mouth="tense">
 	<sjis>
-		����ɂ��Ă��g������<end_line>
-		�P�΂P�̏����ɂȂ�Ƃ�<end_line>
-		�v���Ă��݂Ȃ�������<end_line>
+		それにしてもトラムと<end_line>
+		１対１の勝負になるとは<end_line>
+		思ってもみなかったよ<end_line>
 	</sjis>
   <ascii>
     But still, I never expected<end_line>
@@ -48,9 +48,9 @@
 	<info box="left">
 	<portrait_l entry="player" eye="sad" mouth="neutral">
 	<sjis>
-		���������΂݂�Ȃ�<end_line>
-		�킽������������Ȃ��Ƃ��Ă��<end_line>
-		�m��Ȃ��񂾂��A�S�z���Ă邩��<three_dots><end_line>
+		そういえばみんなは<end_line>
+		わたしたちがこんなことしてるの<end_line>
+		知らないんだし、心配してるかな<three_dots><end_line>
 	</sjis>
   <ascii>
     Speaking of which,<end_line>
@@ -62,9 +62,9 @@
 	<info box="left">
 	<portrait_l entry="player" eye="sad" mouth="stressed">
 	<sjis>
-		�݂�ȍ�����<end_line>
-		�����Ă�񂾂�<three_dots><end_line>
-		���[��<three_dots><end_line>
+		みんな今ごろ<end_line>
+		何してるんだろ<three_dots><end_line>
+		あーあ<three_dots><end_line>
 	</sjis>
   <ascii>
     I wonder what everyone<end_line>
@@ -77,7 +77,7 @@
 	<portrait_l entry="player" eye="sad" mouth="neutral">
 	<option>
 		<sjis>
-			�e���̃V�`���[���H�ׂ����Ȃ�<end_line>
+			親方のシチューが食べたいなぁ<end_line>
 		</sjis>
     <ascii>
       I want to eat Master's stew.<end_line>
@@ -85,7 +85,7 @@
 	</option>
 	<option>
 		<sjis>
-			�A�j�L�̃R���C�炪�������Ȃ�<end_line>
+			アニキのコワイ顔が見たいなぁ<end_line>
 		</sjis>
     <ascii>
       I want to see Bro's scary face.<end_line>
@@ -93,7 +93,7 @@
 	</option>
 	<option>
 		<sjis>
-			�e�B�G�͂��������Ă邩�Ȃ��H<end_line>
+			ティエはもうかってるかなぁ？<end_line>
 		</sjis>
     <ascii>
       I wonder how Tier's doing?<end_line>
@@ -104,8 +104,8 @@
 	<info box="left">
 	<portrait_l entry="player" eye="serious" mouth="tense">
 	<sjis>
-		�N������̂���<three_dots><end_line>
-		����������<end_line>
+		誰かいるのかな<three_dots><end_line>
+		もしかして<end_line>
 	</sjis>
   <ascii>
     Is someone there<three_dots>?<end_line>
@@ -115,7 +115,7 @@
 <menu>
 	<option>
 		<sjis>
-			�~���[�m<end_line>
+			ミューノ<end_line>
 		</sjis>
     <ascii>
       Murno<end_line>

@@ -1,20 +1,20 @@
 <location>
 	<sjis>
-		�x���\���H�[�@�G���g�����X<end_line>
+		ベンソン工房　エントランス<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		�����b����O��<end_line>
-		�܂��͌Ȃ�b����ׂ�<end_line>
+		武器を鍛える前に<end_line>
+		まずは己を鍛えるべし<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		�@���G���G����̂��˂���<music_note><end_line>
-		�������ǂ����́A���Ⴀ���<end_line>
-		���Ƃ̂΂���Ɂ@���ǂ��ĂˁI<end_line>
+		　＜エリエからのおねがい<music_note><end_line>
+		つかったどうぐは、ちゃあんと<end_line>
+		もとのばしょに　もどしてね！<end_line>
 	</sjis>
 </dialogue>

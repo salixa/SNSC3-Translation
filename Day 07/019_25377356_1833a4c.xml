@@ -3,8 +3,8 @@
   <portrait_l entry="player" eye="serious" mouth="serious">
   <portrait_r entry="tram" eye="serious" mouth="neutral">
   <sjis>
-    ���܂��蓹���Ă����<end_line>
-    ���q�ɂȂ��Ă��܂��܂���<end_line>
+    あまり寄り道していると<end_line>
+    迷子になってしまいますよ<end_line>
   </sjis>
   <ascii>
     Don't wander off too much.<end_line>
@@ -17,14 +17,14 @@
   <portrait_r entry="tram" eye="serious" mouth="neutral">
   <male>
     <sjis>
-      ���q�ɂȂ񂩂Ȃ����<end_line>
-      �ȁA<partner><end_line>
+      迷子になんかなるもんか<end_line>
+      な、<partner><end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ���q�ɂȂ񂩂Ȃ�Ȃ����<end_line>
-      �ˁA<partner><end_line>
+      迷子になんかならないわよ<end_line>
+      ね、<partner><end_line>
     </sjis>
   </female>
   <ascii>
@@ -38,7 +38,7 @@
   <portrait_l entry="player" eye="decided" mouth="tense">
   <portrait_r entry="partner" eye="decided" mouth="neutral">
   <sjis>
-    ���K�c�C�e�@�C�}�X�J��<end_line>
+    私ガツイテ　イマスカラ<end_line>
   </sjis>
   <ascii>
     That Is Because I Am Here.<end_line>
@@ -50,7 +50,7 @@
   <portrait_l entry="player" eye="decided" mouth="tense">
   <portrait_r entry="partner" eye="decided" mouth="neutral">
   <sjis>
-    ���K�n�C�����Ă��邩���<end_line>
+    ワガハイがついておるからの<end_line>
   </sjis>
   <ascii>
     Because I'm with you.<end_line>
@@ -62,8 +62,8 @@
   <portrait_l entry="player" eye="decided" mouth="tense">
   <portrait_r entry="partner" eye="decided" mouth="neutral">
   <sjis>
-    ���������<end_line>
-    �Ȃ��Ă��܂邩<end_line>
+    私がいるんだ<end_line>
+    なってたまるか<end_line>
   </sjis>
   <ascii>
     'Cause I'm with here.<end_line>
@@ -76,8 +76,8 @@
   <portrait_l entry="player" eye="decided" mouth="tense">
   <portrait_r entry="partner" eye="decided" mouth="neutral">
   <sjis>
-    ���v�ł���<end_line>
-    �������Ă��܂�����<end_line>
+    大丈夫ですわ<end_line>
+    私がついていますから<end_line>
   </sjis>
   <ascii>
     We'll be fine.<end_line>
@@ -90,14 +90,14 @@
   <portrait_r entry="partner" eye="decided" mouth="neutral">
   <male>
     <sjis>
-      �ف[��I<end_line>
-      <three_dots>���ăI�C�I�H<end_line>
+      ほーら！<end_line>
+      <three_dots>ってオイ！？<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �ق�ˁI<end_line>
-      <three_dots>���ĂȂ�ŁI�H<end_line>
+      ほらね！<end_line>
+      <three_dots>ってなんで！？<end_line>
     </sjis>
   </female>
   <ascii>
@@ -110,7 +110,7 @@
   <portrait_l entry="murno" eye="serious" mouth="neutral">
   <portrait_r entry="tram" eye="happy" mouth="neutral">
   <sjis>
-    �{���ɒ��������ł���<end_line>
+    本当に仲がいいですね<end_line>
   </sjis>
   <ascii>
     They really get along well.<end_line>
@@ -121,7 +121,7 @@
   <portrait_l entry="murno" eye="happy" mouth="neutral">
   <portrait_r entry="tram" eye="happy" mouth="neutral">
   <sjis>
-    �͂�<end_line>
+    はい<end_line>
   </sjis>
   <ascii>
     Yeah.<end_line>
@@ -131,7 +131,7 @@
   <info box="simple">
   <portrait_l name="magdrad">
   <sjis>
-    �O������<three_dots><end_line>
+    グルルル<three_dots><end_line>
   </sjis>
   <ascii>
     Grrr<three_dots><end_line>
@@ -143,12 +143,12 @@
   <portrait_r entry="tram" eye="decided" mouth="serious">
   <male>
     <sjis>
-      �����I�H<end_line>
+      何だ！？<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ���I�H<end_line>
+      何！？<end_line>
     </sjis>
   </female>
   <ascii>
@@ -160,9 +160,9 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <portrait_r entry="tram" eye="serious" mouth="talk">
   <sjis>
-    �}�O�h���h�̐���<end_line>
-    �����ԉ񕜂����悤�ł���<end_line>
-    �悩����<three_dots><end_line>
+    マグドラドの声だ<end_line>
+    だいぶ回復したようですね<end_line>
+    よかった<three_dots><end_line>
   </sjis>
   <ascii>
     That's Magrad's voice.<end_line>
@@ -175,9 +175,9 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <portrait_r entry="tram" eye="serious" mouth="neutral">
   <sjis>
-    �A�j�X���^��ł����Ƃ���<end_line>
-    ����������Ȃ����Ǝv�����ق�<end_line>
-    ����Ă�����ł���<end_line>
+    アニスを運んできたときは<end_line>
+    もう助からないかと思ったほど<end_line>
+    弱っていたんですよ<end_line>
   </sjis>
   <ascii>
     While carrying Anise, it looked so<end_line>
@@ -190,8 +190,8 @@
   <portrait_l entry="murno" eye="serious" mouth="tense">
   <portrait_r entry="tram" eye="serious" mouth="neutral">
   <sjis>
-    ����Ă�����<end_line>
-    �ǂ����Ăł����H<end_line>
+    弱ってたって<end_line>
+    どうしてですか？<end_line>
   </sjis>
   <ascii>
     Weak?<end_line>
@@ -204,9 +204,9 @@
   <portrait_l entry="murno" eye="serious" mouth="tense">
   <portrait_r entry="partner" eye="serious" mouth="serious">
   <sjis>
-    ���ɂ��K�@�R�J�����`�^��<end_line>
-    �ޏ����@���P���^���j<end_line>
-    ��j�@��r�����_�m�f�X<end_line>
+    あにすガ　崖カラ落チタ時<end_line>
+    彼女ヲ　助ケルタメニ<end_line>
+    川ニ　飛ビ込ンダノデス<end_line>
   </sjis>
   <ascii>
     When Anise Fell From The Cliff,<end_line>
@@ -220,9 +220,9 @@
   <portrait_l entry="murno" eye="serious" mouth="tense">
   <portrait_r entry="partner" eye="serious" mouth="neutral">
   <sjis>
-    �܂��ǂ�ǃm�̃n<end_line>
-    ���j���N�i�J�b�^�l�f<end_line>
-    ��σi���߁[���_�b�^�g�@�v�����}�X<end_line>
+    まぐどらどノ体ハ<end_line>
+    水ニ強クナカッタ様デ<end_line>
+    大変ナだめーじダッタト　思ワレマス<end_line>
   </sjis>
   <ascii>
     Magdrad's Body Is Not Compatible<end_line>
@@ -236,9 +236,9 @@
   <portrait_l entry="murno" eye="serious" mouth="tense">
   <portrait_r entry="partner" eye="serious" mouth="serious">
   <sjis>
-    ���ʂ��������R���痎������<end_line>
-    �A�j�X�Ƃ��������邽�߂�<end_line>
-    ��ɔ�э��񂾂̂����<end_line>
+    おぬしたちが崖から落ちた時<end_line>
+    アニスとやらを助けるために<end_line>
+    川に飛び込んだのじゃよ<end_line>
   </sjis>
   <ascii>
     I heard that Magdrad dove into the<end_line>
@@ -252,9 +252,9 @@
   <portrait_l entry="murno" eye="serious" mouth="tense">
   <portrait_r entry="partner" eye="serious" mouth="tense">
   <sjis>
-    �}�O�h���h�͐��ɋ����Ȃ������l���Ⴊ<end_line>
-    �悭�����Ă������񂶂�<three_dots><end_line>
-    ���O����<end_line>
+    マグドラドは水に強くなかった様じゃが<end_line>
+    よく生きていたもんじゃ<three_dots><end_line>
+    執念かの<end_line>
   </sjis>
   <ascii>
     It seems to be weak against water.<end_line>
@@ -268,9 +268,9 @@
   <portrait_l entry="murno" eye="serious" mouth="tense">
   <portrait_r entry="partner" eye="serious" mouth="serious">
   <sjis>
-    ���O�������R���痎������<end_line>
-    ���c����������ɔ�э��񂾂�<end_line>
-    �A�j�X���ăj���Q���������邽�߂�<end_line>
+    お前たちが崖から落ちた時<end_line>
+    ヤツもいっしょに飛び込んだんだ<end_line>
+    アニスってニンゲンを助けるために<end_line>
   </sjis>
   <ascii>
     That time you fell from the cliff,<end_line>
@@ -284,8 +284,8 @@
   <portrait_l entry="murno" eye="serious" mouth="tense">
   <portrait_r entry="partner" eye="serious" mouth="tense">
   <sjis>
-    �}�O�h���h�͐��Ɏア������<end_line>
-    ��������Ă���̂���<end_line>
+    マグドラドは水に弱いくせに<end_line>
+    何をやっているのだか<end_line>
   </sjis>
   <ascii>
     Even though it's weak to water.<end_line>
@@ -298,9 +298,9 @@
   <portrait_l entry="murno" eye="serious" mouth="tense">
   <portrait_r entry="partner" eye="serious" mouth="tense">
   <sjis>
-    �~���[�m�l�������R���痎������<end_line>
-    �}�O�h���h�����������<end_line>
-    ��ɔ�э��񂾂�ł���<end_line>
+    ミューノ様たちが崖から落ちた時<end_line>
+    マグドラドもいっしょに<end_line>
+    川に飛び込んだんですわ<end_line>
   </sjis>
   <ascii>
     When Lady Murno and the others fell<end_line>
@@ -314,8 +314,8 @@
   <portrait_l entry="murno" eye="serious" mouth="tense">
   <portrait_r entry="partner" eye="sad" mouth="tense">
   <sjis>
-    �}�O�h���h�͐������݂����ł�����<end_line>
-    �ƂĂ��h�������Ǝv���܂���<end_line>
+    マグドラドは水が苦手みたいですから<end_line>
+    とても辛かったと思いますわ<end_line>
   </sjis>
   <ascii>
     It seems that it dislikes water.<end_line>
@@ -328,14 +328,14 @@
   <portrait_r entry="partner" eye="sad" mouth="tense">
   <male>
     <sjis>
-      ����قǂ܂ł�<end_line>
-      �����̂��Ƃ�<three_dots><end_line>
+      それほどまでに<end_line>
+      あいつのことを<three_dots><end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ����قǂ܂ł�<end_line>
-      ���̐l�̂��Ƃ�<three_dots><end_line>
+      それほどまでに<end_line>
+      あの人のことを<three_dots><end_line>
     </sjis>
   </female>
   <ascii>
@@ -347,9 +347,9 @@
   <portrait_l entry="player" eye="decided" mouth="tense">
   <portrait_r entry="tram" eye="serious" mouth="serious">
   <sjis>
-    �A�j�X�ƃ}�O�h���h��<end_line>
-    ���������ȂŌ��΂�Ă��܂�<end_line>
-    �}�O�h���h���ӂ̂܂܂ɑ����̂�<three_dots><end_line>
+    アニスとマグドラドは<end_line>
+    強いきずなで結ばれています<end_line>
+    マグドラドを意のままに操れるのは<three_dots><end_line>
   </sjis>
   <ascii>
     The two of them have a strong bond.<end_line>
@@ -362,9 +362,9 @@
   <portrait_l entry="player" eye="decided" mouth="tense">
   <portrait_r entry="tram" eye="serious" mouth="tense">
   <sjis>
-    �����炭�A�j�X�����ł��傤<end_line>
-    ������ޏ��̓��H�C�W����<end_line>
-    �A��čs���ꂽ�̂ł�<end_line>
+    おそらくアニスだけでしょう<end_line>
+    だから彼女はヴォイジンに<end_line>
+    連れて行かれたのです<end_line>
   </sjis>
   <ascii>
     Is Anise.<end_line>
@@ -376,9 +376,9 @@
   <portrait_l entry="murno" eye="sad" mouth="tense">
   <portrait_r entry="tram" eye="serious" mouth="tense">
   <sjis>
-    ���H�C�W���Ƃ����l��<end_line>
-    �}�O�h���h�̗͂�<end_line>
-    ��ɓ��ꂽ�������̂ł���<three_dots><end_line>
+    ヴォイジンという人は<end_line>
+    マグドラドの力を<end_line>
+    手に入れたかったのですね<three_dots><end_line>
   </sjis>
   <ascii>
     So this Voijin wanted to control<end_line>
@@ -390,9 +390,9 @@
   <portrait_l entry="murno" eye="sad" mouth="tense">
   <portrait_r entry="tram" eye="serious" mouth="serious">
   <sjis>
-    ���͂ȏ����b����������Ă���Ƃ���<end_line>
-    �E���T�����ɁA���H�C�W��������<end_line>
-    ���̑����������o�����悤�ł�<three_dots><end_line>
+    強力な召喚獣がかくされているという<end_line>
+    ウワサを元に、ヴォイジンたちは<end_line>
+    この村をさがし出したようです<three_dots><end_line>
   </sjis>
   <ascii>
     Voijin came here after hearing<end_line>
@@ -405,9 +405,9 @@
   <portrait_l entry="murno" eye="sad" mouth="tense">
   <portrait_r entry="tram" eye="serious" mouth="tense">
   <sjis>
-    �ˑR����Ă����ނ�͑��l��l���ɂƂ�<end_line>
-    �����b�������o���Ȃ����<end_line>
-    �l���̖������΂��A�ƌ����o���܂���<end_line>
+    突然やってきた彼らは村人を人質にとり<end_line>
+    召喚獣を差し出さなければ<end_line>
+    人質の命をうばう、と言い出しました<end_line>
   </sjis>
   <ascii>
     They came out of nowhere and took<end_line>
@@ -421,9 +421,9 @@
   <portrait_l entry="murno" eye="sad" mouth="tense">
   <portrait_r entry="tram" eye="decided" mouth="tense">
   <sjis>
-    �����āA���̌��t���������߂�<end_line>
-    ���c���<three_dots>���l���̑��l�̖���<three_dots><end_line>
-    ���U����<three_dots><end_line>
+    そして、その言葉を示すために<end_line>
+    ヤツらは<three_dots>何人もの村人の命を<three_dots><end_line>
+    ムザンに<three_dots><end_line>
   </sjis>
   <ascii>
     And to prove that, they<three_dots><end_line>
@@ -436,9 +436,9 @@
   <portrait_l entry="murno" eye="sad" mouth="tense">
   <portrait_r entry="tram" eye="decided" mouth="serious">
   <sjis>
-    ���̎��ɑ���������Ă���<end_line>
-    ���̗��e���������΂��܂���<three_dots><end_line>
-    ������<three_dots><end_line>
+    その時に村長をやっていた<end_line>
+    私の両親も命をうばわれました<three_dots><end_line>
+    そして<three_dots><end_line>
   </sjis>
   <ascii>
     At the time, my parents were the<end_line>
@@ -451,8 +451,8 @@
   <portrait_l entry="murno" eye="sad" mouth="tense">
   <portrait_r entry="tram" eye="sad" mouth="serious">
   <sjis>
-    �M�����n������̉������<end_line>
-    ���q�����<three_dots><end_line>
+    ギャラハンさんの奥さんと<end_line>
+    お子さんも<three_dots><end_line>
   </sjis>
   <ascii>
     Gallahan's wife and child<three_dots><end_line>
@@ -463,7 +463,7 @@
   <portrait_l entry="murno" eye="sad" mouth="serious">
   <portrait_r entry="tram" eye="sad" mouth="serious">
   <sjis>
-    �q�h�C<three_dots><end_line>
+    ヒドイ<three_dots><end_line>
   </sjis>
   <ascii>
     That's cruel<three_dots><end_line>
@@ -475,8 +475,8 @@
   <portrait_l entry="player" eye="decided" mouth="yell">
   <portrait_r entry="tram" eye="sad" mouth="serious">
   <sjis>
-    �Ȃ�ă��c�炾�I<end_line>
-    ��邹�˂�<three_dots><end_line>
+    なんてヤツらだ！<end_line>
+    ゆるせねぇ<three_dots><end_line>
   </sjis>
   <ascii>
     What horrible people!<end_line>
@@ -489,9 +489,9 @@
   <portrait_l entry="player" eye="decided" mouth="tense">
   <portrait_r entry="tram" eye="sad" mouth="serious">
   <sjis>
-    �ł��A�ǂ����ď����b�������g����<end_line>
-    ���Ȃ������񂾁H<end_line>
-    �Q�̂�����Ώ��Ă��͂�����H<end_line>
+    でも、どうして召喚獣たちを使って<end_line>
+    戦わなかったんだ？<end_line>
+    ２体もいれば勝てたはずだろ？<end_line>
   </sjis>
   <ascii>
     But why didn't you use the Summon<end_line>
@@ -506,8 +506,8 @@
   <portrait_l entry="player" eye="decided" mouth="yell">
   <portrait_r entry="tram" eye="sad" mouth="serious">
   <sjis>
-    �Ȃ�Đl�����Ȃ́I<end_line>
-    ��邹�Ȃ�<three_dots><end_line>
+    なんて人たちなの！<end_line>
+    ゆるせない<three_dots><end_line>
   </sjis>
   <ascii>
     What horrible people!<end_line>
@@ -520,9 +520,9 @@
   <portrait_l entry="player" eye="decided" mouth="tense">
   <portrait_r entry="tram" eye="sad" mouth="serious">
   <sjis>
-    �ł��A�ǂ����ď����b�������g����<end_line>
-    ���Ȃ������́H<end_line>
-    �Q�̂�����Ώ��Ă��񂶂�Ȃ��H<end_line>
+    でも、どうして召喚獣たちを使って<end_line>
+    戦わなかったの？<end_line>
+    ２体もいれば勝てたんじゃない？<end_line>
   </sjis>
 </dialogue>
 <dialogue>
@@ -530,9 +530,9 @@
   <portrait_l entry="player" eye="decided" mouth="tense">
   <portrait_r entry="tram" eye="decided" mouth="tense">
   <sjis>
-    ����Ȃ��Ƃ�������<end_line>
-    �܂��N�����E����Ă����ł��傤<end_line>
-    ����Ȃ��Ƃ́A������������ł���<three_dots><end_line>
+    そんなことをしたら<end_line>
+    また誰かが殺されていたでしょう<end_line>
+    そんなことは、もうたくさんでした<three_dots><end_line>
   </sjis>
   <ascii>
     But why didn't you use the Summon<end_line>
@@ -546,9 +546,9 @@
   <portrait_l entry="player" eye="decided" mouth="tense">
   <portrait_r entry="tram" eye="decided" mouth="serious">
   <sjis>
-    ���Ƃ����āA�}�O�h���h�����̂��Ƃ�<end_line>
-    �������Â��Ă�����<end_line>
-    ���l�S�����E����Ă����ł��傤<end_line>
+    かといって、マグドラドたちのことを<end_line>
+    かくしつづけていたら<end_line>
+    村人全員が殺されていたでしょう<end_line>
   </sjis>
   <ascii>
     Either way, someone had to die.<end_line>
@@ -574,9 +574,9 @@
   <portrait_l entry="player" eye="sad" mouth="serious">
   <portrait_r entry="tram" eye="decided" mouth="tense">
   <sjis>
-    ������A����ȏ�̃M�Z�C��<end_line>
-    �o���Ȃ����߁A������<three_dots><end_line>
-    ���߂Č����S�����ł���邽�߂ɂ�<three_dots><end_line>
+    だから、これ以上のギセイを<end_line>
+    出さないため、そして<three_dots><end_line>
+    せめて幻龍鬼だけでも守るためにと<three_dots><end_line>
   </sjis>
   <ascii>
     So to prevent there being any<end_line>
@@ -589,9 +589,9 @@
   <portrait_l entry="player" eye="sad" mouth="serious">
   <portrait_r entry="tram" eye="sad" mouth="serious">
   <sjis>
-    �A�j�X��<three_dots><end_line>
-    �}�O�h���h�������o�����̂ł�<three_dots><end_line>
-    ������M�Z�C�ɂ���<three_dots><end_line>
+    アニスは<three_dots><end_line>
+    マグドラドを差し出したのです<three_dots><end_line>
+    自らをギセイにして<three_dots><end_line>
   </sjis>
   <ascii>
     Anise<three_dots><end_line>
@@ -605,12 +605,12 @@
   <portrait_r entry="tram" eye="sad" mouth="serious">
   <male>
     <sjis>
-      �����������̂�<three_dots><end_line>
+      そうだったのか<three_dots><end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ������������<three_dots><end_line>
+      そうだったの<three_dots><end_line>
     </sjis>
   </female>
   <ascii>
@@ -622,9 +622,9 @@
   <portrait_l entry="player" eye="sad" mouth="tense">
   <portrait_r entry="tram" eye="decided" mouth="tense">
   <sjis>
-    ����Ȃ̂ɁA�ǂ�����<end_line>
-    ������̎��Ȃ񂩂�<three_dots><end_line>
-    ��̂Ȃɂ���������<three_dots>�H<end_line>
+    それなのに、どうして<end_line>
+    あいつらの手先なんかに<three_dots><end_line>
+    一体なにがあったんだ<three_dots>？<end_line>
   </sjis>
   <ascii>
     But then, why would she<end_line>
@@ -648,8 +648,8 @@
   <portrait_l entry="murno" eye="sad" mouth="tense">
   <portrait_r entry="tram" eye="sad" mouth="neutral">
   <sjis>
-    ���A���݂܂���<end_line>
-    ����}���܂��傤<end_line>
+    あ、すみません<end_line>
+    先を急ぎましょう<end_line>
   </sjis>
   <ascii>
     Ah, sorry.<end_line>

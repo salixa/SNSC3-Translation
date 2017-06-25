@@ -1,8 +1,8 @@
 <dialogue>
   <info box="simple">
   <sjis>
-    Ç®Å[Ç¢<three_dots>ÅI<end_line>
-    <player_nickname><three_dots>ÅI<end_line>
+    „Åä„Éº„ÅÑ<three_dots>ÔºÅ<end_line>
+    <player_nickname><three_dots>ÔºÅ<end_line>
   </sjis>
   <ascii>
     Hey<three_dots>!<end_line>
@@ -13,7 +13,7 @@
   <info box="right">
   <portrait_r entry="player" eye="surprised" mouth="tense">
   <sjis>
-    Ç±ÇÃê∫ÇÕ<three_dots>ÅIÅH<end_line>
+    „Åì„ÅÆÂ£∞„ÅØ<three_dots>ÔºÅÔºü<end_line>
   </sjis>
   <ascii>
     Is that<three_dots>!?<end_line>

@@ -5,12 +5,12 @@
 	<portrait_r entry="partner" eye="serious" mouth="serious">
 	<male>
 		<sjis>
-			��������<end_line>
+			悪い悪い<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			���܂����[<end_line>
+			おまたせー<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -20,9 +20,9 @@
 	<portrait_l entry="player" eye="sad" mouth="talk">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		�h�E�V�e�@�A�m�����@�i���_�m�f�X�J<end_line>
-		��z�h�@���`���g�x���V�}�V�^<end_line>
-		���C�e�C�i�J�b�^�m�f�X�J�H<end_line>
+		ドウシテ　アノ橋ヲ　進ンダノデスカ<end_line>
+		先ホド　落チルト警告シマシタ<end_line>
+		聞イテイナカッタノデスカ？<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -32,16 +32,16 @@
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
-			����<three_dots><end_line>
-			�����Ă�����<end_line>
-			�킩��Ȃ��������炳<three_dots><end_line>
+			いや<three_dots><end_line>
+			聞いてたけど<end_line>
+			わからなかったからさ<three_dots><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			����<three_dots><end_line>
-			�����Ă�����<end_line>
-			�킩��Ȃ���������<three_dots><end_line>
+			いや<three_dots><end_line>
+			聞いてたけど<end_line>
+			わからなかったから<three_dots><end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -51,9 +51,9 @@
 	<portrait_l entry="player" eye="sad" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		�\���n�@�A�i�^�K���Ӑ[�N<end_line>
-		�ώ@�V�e�C�i�C�@�_�P�f�X<end_line>
-		�A�i�^�m�ڃn�@�ߌ��f�X<end_line>
+		ソレハ　アナタガ注意深ク<end_line>
+		観察シテイナイ　ダケデス<end_line>
+		アナタノ目ハ　節穴デス<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -63,12 +63,12 @@
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
-			�Ȃ񂾂ƁI<end_line>
+			なんだと！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�Ȃɂ�A����I<end_line>
+			なによ、それ！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -78,8 +78,8 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		�A�i�^�m�ڃK�@���j���b�e�C�i�C<end_line>
-		�g�C�E�Ӗ��f�X<end_line>
+		アナタノ目ガ　役ニ立ッテイナイ<end_line>
+		トイウ意味デス<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -88,8 +88,8 @@
 	<portrait_l entry="player" eye="surprised" mouth="tense">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		����<three_dots>�I<end_line>
-		�C�~���m�肽���񂶂�Ȃ��āI<end_line>
+		いや<three_dots>！<end_line>
+		イミが知りたいんじゃなくて！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -98,7 +98,7 @@
 	<portrait_l entry="player" eye="surprised" mouth="tense">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		�f�n�@���K�m���^�C�m�f�X�J�H<end_line>
+		デハ　何ガ知リタイノデスカ？<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -108,8 +108,8 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		�������[�I<end_line>
-		�b�ɂȂ�Ȃ���I<end_line>
+		くっそー！<end_line>
+		話になんないよ！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -119,8 +119,8 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		���������I<end_line>
-		�s�����I<end_line>
+		もういい！<end_line>
+		行くぞ！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -130,8 +130,8 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		����<three_dots>�I<end_line>
-		�b�ɂȂ�Ȃ���I<end_line>
+		もう<three_dots>！<end_line>
+		話にならないよ！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -141,8 +141,8 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		���������I<end_line>
-		�s����I<end_line>
+		もういい！<end_line>
+		行くよ！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -150,8 +150,8 @@
 	<info box="left">
 	<portrait_l entry="player" eye="surprised" mouth="yell">
 	<sjis>
-		<partner>�I�H<end_line>
-		���ԂȂ��I<end_line>
+		<partner>！？<end_line>
+		あぶない！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -161,12 +161,12 @@
 	<portrait_r entry="partner" eye="serious" mouth="serious">
 	<male>
 		<sjis>
-			��������<end_line>
+			悪い悪い<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			���܂����[<end_line>
+			おまたせー<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -176,9 +176,9 @@
 	<portrait_l entry="player" eye="sad" mouth="talk">
 	<portrait_r entry="partner" eye="decided" mouth="tense">
 	<sjis>
-		���ʂ������K�n�C�̌��t��<end_line>
-		�M���Ȃ���������<end_line>
-		����Ȗڂɂ����̂���I<end_line>
+		おぬしがワガハイの言葉を<end_line>
+		信じなかったから<end_line>
+		こんな目にあうのじゃ！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -188,16 +188,16 @@
 	<portrait_r entry="partner" eye="decided" mouth="tense">
 	<male>
 		<sjis>
-			����Ȃ���͂Ȃ�����<end_line>
-			�I���ɂ͋��̂�������<end_line>
-			�킩��Ȃ��������炳<three_dots><end_line>
+			そんなつもりはないけど<end_line>
+			オレには橋のちがいが<end_line>
+			わからなかったからさ<three_dots><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			����Ȃ���͂Ȃ�����<end_line>
-			�킽���ɂ͂�������<end_line>
-			�킩��Ȃ���������<three_dots><end_line>
+			そんなつもりはないけど<end_line>
+			わたしにはちがいが<end_line>
+			わからなかったから<three_dots><end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -207,9 +207,9 @@
 	<portrait_l entry="player" eye="serious" mouth="tense">
 	<portrait_r entry="partner" eye="sad" mouth="neutral">
 	<sjis>
-		���̂������ɋC�Â��Ȃ��Ƃ�<end_line>
-		���ʂ��A�܂��܂�<end_line>
-		���肪���̂�<three_dots><end_line>
+		このちがいに気づかないとは<end_line>
+		おぬし、まだまだ<end_line>
+		しりが青いのお<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -219,15 +219,15 @@
 	<portrait_r entry="partner" eye="sad" mouth="neutral">
 	<male>
 		<sjis>
-			����<three_dots>�I�H<end_line>
-			�I���̂���͐��Ȃ����I<end_line>
+			しり<three_dots>！？<end_line>
+			オレのしりは青くないぞ！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			��<three_dots>���I<end_line>
-			�킽���̂������<end_line>
-			���Ȃ񂩂Ȃ����I<end_line>
+			な<three_dots>っ！<end_line>
+			わたしのおしりは<end_line>
+			青くなんかないわよ！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -237,9 +237,9 @@
 	<portrait_l entry="player" eye="surprised_blush" mouth="stressed">
 	<portrait_r entry="partner" eye="sad" mouth="talk">
 	<sjis>
-		�F�̂��Ƃł͂Ȃ�<end_line>
-		���ʂ��̓~�W���N<three_dots><end_line>
-		����Δ��l�O����ƌ����Ă���<end_line>
+		色のことではない<end_line>
+		おぬしはミジュク<three_dots><end_line>
+		いわば半人前じゃと言っておる<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -249,12 +249,12 @@
 	<portrait_r entry="partner" eye="sad" mouth="talk">
 	<male>
 		<sjis>
-			���l�O���Ă����ȁI<end_line>
+			半人前っていうな！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			���l�O���Ă���Ȃ��ł�I<end_line>
+			半人前っていわないでよ！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -264,8 +264,8 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<portrait_r entry="partner" eye="serious" mouth="tense">
 	<sjis>
-		��������Ă����M���Ȃ�Ƃ��낪<end_line>
-		���Ƃ����̂���<end_line>
+		そうやってすぐ熱くなるところが<end_line>
+		青いというのじゃ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -274,9 +274,9 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<portrait_r entry="partner" eye="decided" mouth="neutral">
 	<sjis>
-		���ꂩ��͗]�v�Ȃ��Ƃ͍l������<end_line>
-		���K�n�C�̌������Ƃ�<end_line>
-		���܂��ĕ������悢��<end_line>
+		これからは余計なことは考えずに<end_line>
+		ワガハイの言うことを<end_line>
+		だまって聞くがよいわ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -286,12 +286,12 @@
 	<portrait_r entry="partner" eye="decided" mouth="neutral">
 	<male>
 		<sjis>
-			�Ȃ񂾂ƁI<end_line>
+			なんだと！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�Ȃɂ�A����I<end_line>
+			なによ、それ！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -301,8 +301,8 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="tense">
 	<sjis>
-		���l�O�Ɍ�����������<end_line>
-		���i�ȂǂȂ���<end_line>
+		半人前に口答えをする<end_line>
+		資格などないぞ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -312,8 +312,8 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<portrait_r entry="partner" eye="decided" mouth="tense">
 	<sjis>
-		�������[�I<end_line>
-		�b�ɂȂ�Ȃ���I<end_line>
+		くっそー！<end_line>
+		話になんないよ！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -323,8 +323,8 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="tense">
 	<sjis>
-		���������I<end_line>
-		�s�����I<end_line>
+		もういい！<end_line>
+		行くぞ！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -334,8 +334,8 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<portrait_r entry="partner" eye="decided" mouth="tense">
 	<sjis>
-		����<three_dots>�I<end_line>
-		�b�ɂȂ�Ȃ���I<end_line>
+		もう<three_dots>！<end_line>
+		話にならないよ！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -345,8 +345,8 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="tense">
 	<sjis>
-		���������I<end_line>
-		�s����I<end_line>
+		もういい！<end_line>
+		行くよ！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -354,8 +354,8 @@
 	<info box="left">
 	<portrait_l entry="player" eye="surprised" mouth="yell">
 	<sjis>
-		<partner>�I�H<end_line>
-		���ԂȂ��I<end_line>
+		<partner>！？<end_line>
+		あぶない！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -364,8 +364,8 @@
 	<portrait_l entry="player" eye="sad" mouth="talk">
 	<portrait_r entry="partner" eye="serious" mouth="serious">
 	<sjis>
-		����<three_dots><end_line>
-		���^���^�����<end_line>
+		ちっ<three_dots><end_line>
+		モタモタするな<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -375,14 +375,14 @@
 	<portrait_r entry="partner" eye="serious" mouth="serious">
 	<male>
 		<sjis>
-			����<three_dots><end_line>
-			�ǂ��������Ƃ���I�H<end_line>
+			おい<three_dots><end_line>
+			どういうことだよ！？<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�˂�<three_dots><end_line>
-			�ǂ��������ƁI�H<end_line>
+			ねぇ<three_dots><end_line>
+			どういうこと！？<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -392,7 +392,7 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		�Ȃ�̂��Ƃ��H<end_line>
+		なんのことだ？<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -402,16 +402,16 @@
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
-			���O<three_dots><end_line>
-			�������������Ȃ�<end_line>
-			�C�t���Ă��̂��I�H<end_line>
+			お前<three_dots><end_line>
+			橋が落ちそうなの<end_line>
+			気付いてたのか！？<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			����������<three_dots><end_line>
-			�������������Ȃ̋C�t���Ă�<end_line>
-			���܂��Ă��́H<end_line>
+			もしかして<three_dots><end_line>
+			橋が落ちそうなの気付いてて<end_line>
+			だまってたの？<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -421,7 +421,7 @@
 	<portrait_l entry="player" eye="decided" mouth="stressed">
 	<portrait_r entry="partner" eye="serious" mouth="talk">
 	<sjis>
-		������O��<end_line>
+		当たり前だ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -431,14 +431,14 @@
 	<portrait_r entry="partner" eye="serious" mouth="talk">
 	<male>
 		<sjis>
-			��������ǂ�����<end_line>
-			�����Ă���Ȃ��񂾂�I�H<end_line>
+			だったらどうして<end_line>
+			教えてくれないんだよ！？<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�����<three_dots><end_line>
-			�Ȃ�ŋ����Ă���Ȃ��̂�I<end_line>
+			そんな<three_dots><end_line>
+			なんで教えてくれないのよ！<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -448,8 +448,8 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<portrait_r entry="partner" eye="serious" mouth="tense">
 	<sjis>
-		�ǂ����ăL�T�}�Ȃǂ�<end_line>
-		������K�v������<end_line>
+		どうしてキサマなどに<end_line>
+		教える必要がある<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -459,16 +459,16 @@
 	<portrait_r entry="partner" eye="serious" mouth="tense">
 	<male>
 		<sjis>
-			�Ȃ񂾂ƁI<end_line>
-			���O�A�I���̃p�[�g�i�[�����Ă���<end_line>
-			�Y��Ă�̂��H<end_line>
+			なんだと！<end_line>
+			お前、オレのパートナーだってこと<end_line>
+			忘れてんのか？<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�Ȃɂ�A����I<end_line>
-			���񂽁A�킽���̃p�[�g�i�[��<end_line>
-			�Ȃ������ƖY��Ă�́H<end_line>
+			なによ、それ！<end_line>
+			あんた、わたしのパートナーに<end_line>
+			なったこと忘れてるの？<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -478,8 +478,8 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		�o���Ă��邩�炱�������<end_line>
-		���Ă��Ă���Ă���<end_line>
+		覚えているからこうやって<end_line>
+		ついてきてやっている<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -488,7 +488,7 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		��������<three_dots>�I<end_line>
+		だったら<three_dots>！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -497,9 +497,9 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<portrait_r entry="partner" eye="serious" mouth="talk">
 	<sjis>
-		������L�T�}��������<end_line>
-		�����y���܂�����ǂ����H<end_line>
-		�����痎�����肵�āA��<three_dots><end_line>
+		だからキサマも少しは<end_line>
+		私を楽しませたらどうだ？<end_line>
+		橋から落ちたりして、な<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -509,13 +509,13 @@
 	<portrait_r entry="partner" eye="serious" mouth="talk">
 	<male>
 		<sjis>
-			��<three_dots>�Ȃ񂾂ƁI<end_line>
+			な<three_dots>なんだと！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			��<three_dots>�I<end_line>
-			�Ȃɂ�A����I�H<end_line>
+			な<three_dots>！<end_line>
+			なによ、それ！？<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -535,8 +535,8 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		�������[�I<end_line>
-		�b�ɂȂ�Ȃ���I<end_line>
+		くっそー！<end_line>
+		話になんないよ！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -546,8 +546,8 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		���������I<end_line>
-		�s�����I<end_line>
+		もういい！<end_line>
+		行くぞ！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -557,8 +557,8 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		����<three_dots>�I<end_line>
-		�b�ɂȂ�Ȃ���I<end_line>
+		もう<three_dots>！<end_line>
+		話にならないよ！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -568,8 +568,8 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		���������I<end_line>
-		�s����I<end_line>
+		もういい！<end_line>
+		行くよ！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -577,8 +577,8 @@
 	<info box="left">
 	<portrait_l entry="player" eye="surprised" mouth="stressed">
 	<sjis>
-		<partner>�I�H<end_line>
-		���ԂȂ��I<end_line>
+		<partner>！？<end_line>
+		あぶない！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -587,12 +587,12 @@
 	<portrait_l entry="player" eye="surprised" mouth="stressed">
 	<male>
 		<sjis>
-			��������<end_line>
+			悪い悪い<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			���܂����[<end_line>
+			おまたせー<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -602,9 +602,9 @@
 	<portrait_l entry="player" eye="surprised" mouth="stressed">
 	<portrait_r name="partner">
 	<sjis>
-		�����猾��������Ȃ��ł����I<end_line>
-		���̌��t��<end_line>
-		�M���Ă��Ȃ������̂ł��ˁH<end_line>
+		だから言ったじゃないですか！<end_line>
+		私の言葉を<end_line>
+		信じていなかったのですね？<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -613,16 +613,16 @@
 	<portrait_l entry="player" eye="sad" mouth="neutral">
 	<male>
 		<sjis>
-			����Ȃ���͂Ȃ�����<end_line>
-			�I���ɂ͋��̂�������<end_line>
-			�킩��Ȃ��������炳<three_dots><end_line>
+			そんなつもりはないけど<end_line>
+			オレには橋のちがいが<end_line>
+			わからなかったからさ<three_dots><end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			����Ȃ���͂Ȃ�����<end_line>
-			�킽���ɂ͂�������<end_line>
-			�킩��Ȃ���������<three_dots><end_line>
+			そんなつもりはないけど<end_line>
+			わたしにはちがいが<end_line>
+			わからなかったから<three_dots><end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -632,9 +632,9 @@
 	<portrait_l entry="player" eye="sad" mouth="neutral">
 	<portrait_r name="partner">
 	<sjis>
-		�������Ȃ��ł���<three_dots><end_line>
-		���傹��l�Ԃ̃J����<end_line>
-		����Ȃ��̂ł�����<end_line>
+		しかたないですね<three_dots><end_line>
+		しょせん人間のカンは<end_line>
+		そんなものですから<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -642,8 +642,8 @@
 	<info box="left">
 	<portrait_l entry="player" eye="surprised" mouth="neutral">
 	<sjis>
-		��<three_dots><end_line>
-		<partner>�A�J���Ȃ́I�H<end_line>
+		え<three_dots><end_line>
+		<partner>、カンなの！？<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -652,8 +652,8 @@
 	<portrait_l entry="player" eye="surprised" mouth="neutral">
 	<portrait_r name="partner">
 	<sjis>
-		���A���̃J����<end_line>
-		�o�J�ɂ��܂����ˁH<end_line>
+		今、私のカンを<end_line>
+		バカにしましたね？<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -662,9 +662,9 @@
 	<portrait_l entry="player" eye="surprised" mouth="neutral">
 	<portrait_r name="partner">
 	<sjis>
-		���܂Ŏ��������̂тĂ��ꂽ�̂�<end_line>
-		���̃J���ɂ���������������<end_line>
-		�Ȃ�ł���I<end_line>
+		今まで私が生きのびてこれたのは<end_line>
+		このカンにしたがったおかげ<end_line>
+		なんですよ！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -672,8 +672,8 @@
 	<info box="left">
 	<portrait_l entry="player" eye="sad" mouth="tense">
 	<sjis>
-		����<three_dots><end_line>
-		����Ȃɓ{��Ȃ��Ă�<three_dots><end_line>
+		いや<three_dots><end_line>
+		そんなに怒らなくても<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -682,9 +682,9 @@
 	<portrait_l entry="player" eye="sad" mouth="tense">
 	<portrait_r name="partner">
 	<sjis>
-		���̃J�����M�p�ł��Ȃ��̂Ȃ�<end_line>
-		�ǂ��Ȃ��Ă��m��܂��񂩂�<end_line>
-		�ǂ����A�D���ɂ���Ƃ����ł���<end_line>
+		私のカンが信用できないのなら<end_line>
+		どうなっても知りませんから<end_line>
+		どうぞ、好きにするといいですわ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -693,7 +693,7 @@
 	<info box="left">
 	<portrait_l entry="player" eye="serious" mouth="serious">
 	<sjis>
-		�Ȃ񂾂�A����<three_dots><end_line>
+		なんだよ、もう<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -702,8 +702,8 @@
 	<info box="left">
 	<portrait_l entry="player" eye="serious" mouth="stressed">
 	<sjis>
-		���������I<end_line>
-		�s�����I<end_line>
+		もういい！<end_line>
+		行くぞ！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -712,7 +712,7 @@
 	<info box="left">
 	<portrait_l entry="player" eye="serious" mouth="serious">
 	<sjis>
-		�Ȃɂ�A����<three_dots><end_line>
+		なによ、もう<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -721,8 +721,8 @@
 	<info box="left">
 	<portrait_l entry="player" eye="serious" mouth="stressed">
 	<sjis>
-		���������I<end_line>
-		�s����I<end_line>
+		もういい！<end_line>
+		行くよ！<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
@@ -730,7 +730,7 @@
 	<info box="left">
 	<portrait_l entry="player" eye="surprised" mouth="stressed">
 	<sjis>
-		<partner>�I�H<end_line>
-		���ԂȂ��I<end_line>
+		<partner>！？<end_line>
+		あぶない！<end_line>
 	</sjis>
 </dialogue>

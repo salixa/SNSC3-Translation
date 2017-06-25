@@ -3,7 +3,7 @@
   <info box="right">
   <portrait_r entry="partner" eye="surprised" mouth="serious">
   <sjis>
-    ���ӃV�e�N�_�T�C<end_line>
+    注意シテクダサイ<end_line>
   </sjis>
   <ascii>
     Please Be Cautious.<end_line>
@@ -14,7 +14,7 @@
   <info box="right">
   <portrait_r entry="partner" eye="surprised" mouth="serious">
   <sjis>
-    �����<three_dots><end_line>
+    あれは<three_dots><end_line>
   </sjis>
   <ascii>
     That's<three_dots><end_line>
@@ -25,8 +25,8 @@
   <info box="right">
   <portrait_r entry="partner" eye="surprised" mouth="serious">
   <sjis>
-    ����<three_dots><end_line>
-    �A����<three_dots><end_line>
+    ちっ<three_dots><end_line>
+    アレは<three_dots><end_line>
   </sjis>
   <ascii>
     Tch<three_dots><end_line>
@@ -38,8 +38,8 @@
   <info box="right">
   <portrait_r entry="partner" eye="surprised" mouth="serious">
   <sjis>
-    <player_nickname>����<end_line>
-    �A��<three_dots><end_line>
+    <player_nickname>さん<end_line>
+    アレ<three_dots><end_line>
   </sjis>
   <ascii>
     <player_nickname><end_line>
@@ -50,9 +50,9 @@
   <info box="left">
   <portrait_l entry="soldier" eye="serious" mouth="serious">
   <sjis>
-    �Ȃɂ���Ă񂾂�A�A�C�c�́I<end_line>
-    �����Ƃ����Ɍ��̎��Ԃ���I<end_line>
-    ������<three_dots><end_line>
+    なにやってんだよ、アイツは！<end_line>
+    もうとっくに交代の時間だろ！<end_line>
+    くそう<three_dots><end_line>
   </sjis>
   <ascii>
     What is that guy doing!<end_line>
@@ -64,7 +64,7 @@
   <info box="left">
   <portrait_l entry="soldier" eye="serious" mouth="tense">
   <sjis>
-    �������˂��A�Ă�ł��邩�I<end_line>
+    しかたねぇ、呼んでくるか！<end_line>
   </sjis>
   <ascii>
     Fine, I'll have to go get him!<end_line>
@@ -75,9 +75,9 @@
   <portrait_l entry="partner" eye="decided" mouth="serious">
   <portrait_r entry="player" eye="decided" mouth="serious">
   <sjis>
-    �����ƃA�C�c��̒��Ԃ��I<end_line>
-    ����ς肱�̕ӂ�ɃA�W�g��<end_line>
-    �������񂾁I<end_line>
+    きっとアイツらの仲間だ！<end_line>
+    やっぱりこの辺りにアジトが<end_line>
+    あったんだ！<end_line>
   </sjis>
   <ascii>
     That must be<three_dots><end_line>
@@ -89,7 +89,7 @@
   <portrait_l entry="partner" eye="decided" mouth="serious">
   <portrait_r entry="player" eye="decided" mouth="yell">
   <sjis>
-    �ǂ������Ȃ��ƁI<end_line>
+    追いかけないと！<end_line>
   </sjis>
   <ascii>
     We have to chase them!<end_line>
@@ -101,8 +101,8 @@
   <portrait_l entry="partner" eye="sad" mouth="serious">
   <portrait_r entry="player" eye="decided" mouth="yell">
   <sjis>
-    �������m�����b�n<end_line>
-    �h�E�V�}�X�J�H<end_line>
+    見張リノ召喚獣ハ<end_line>
+    ドウシマスカ？<end_line>
   </sjis>
   <ascii>
     What Should We Do About The<end_line>
@@ -115,8 +115,8 @@
   <portrait_l entry="partner" eye="sad" mouth="serious">
   <portrait_r entry="player" eye="decided" mouth="yell">
   <sjis>
-    ���Ⴊ�A�܂���������<end_line>
-    ������̏����b�����邼<end_line>
+    じゃが、まだあそこに<end_line>
+    見張りの召喚獣がおるぞ<end_line>
   </sjis>
   <ascii>
     But there are still Summon<end_line>
@@ -129,8 +129,8 @@
   <portrait_l entry="partner" eye="sad" mouth="serious">
   <portrait_r entry="player" eye="decided" mouth="yell">
   <sjis>
-    �L�T�}<three_dots><end_line>
-    ������͂ǂ�������肾�H<end_line>
+    キサマ<three_dots><end_line>
+    見張りはどうするつもりだ？<end_line>
   </sjis>
   <ascii>
     You<three_dots><end_line>
@@ -143,9 +143,9 @@
   <portrait_l entry="partner" eye="sad" mouth="serious">
   <portrait_r entry="player" eye="decided" mouth="yell">
   <sjis>
-    ����<three_dots><end_line>
-    �ł��܂��������ȏ����b��<end_line>
-    ���܂���<three_dots><end_line>
+    うぅ<three_dots><end_line>
+    でもまだ強そうな召喚獣が<end_line>
+    いますわ<three_dots><end_line>
   </sjis>
   <ascii>
     Uu<three_dots><end_line>
@@ -159,14 +159,14 @@
   <portrait_r entry="player" eye="decided" mouth="tense">
   <male>
     <sjis>
-      �����<end_line>
-      �����������Ȃ���<three_dots>�I<end_line>
+      やっぱ<end_line>
+      たおすしかないか<three_dots>！<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �����<end_line>
-      �����������Ȃ���<three_dots>�I�H<end_line>
+      やっぱ<end_line>
+      たおすしかないの<three_dots>！？<end_line>
     </sjis>
   </female>
   <ascii>
@@ -181,14 +181,14 @@
   <portrait_r entry="player" eye="decided" mouth="tense">
   <male>
     <sjis>
-      �Ȃ񂾁H<end_line>
-      ������C�Ȃ��̂��H<end_line>
+      なんだ？<end_line>
+      見張る気ないのか？<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      �ȂɁH<end_line>
-      ������C�Ȃ��́H<end_line>
+      なに？<end_line>
+      見張る気ないの？<end_line>
     </sjis>
   </female>
   <ascii>
@@ -202,7 +202,7 @@
   <portrait_l entry="partner" eye="sad" mouth="tense">
   <portrait_r entry="player" eye="decided" mouth="tense">
   <sjis>
-    �s���f�X<end_line>
+    不明デス<end_line>
   </sjis>
   <ascii>
     Reason Unknown.<end_line>
@@ -214,7 +214,7 @@
   <portrait_l entry="partner" eye="sad" mouth="tense">
   <portrait_r entry="player" eye="decided" mouth="tense">
   <sjis>
-    �i�]����I<end_line>
+    ナゾじゃ！<end_line>
   </sjis>
   <ascii>
     It's a mystery!<end_line>
@@ -226,7 +226,7 @@
   <portrait_l entry="partner" eye="sad" mouth="tense">
   <portrait_r entry="player" eye="decided" mouth="tense">
   <sjis>
-    �����m�邩<end_line>
+    私が知るか<end_line>
   </sjis>
   <ascii>
     How would I know?<end_line>
@@ -238,7 +238,7 @@
   <portrait_l entry="partner" eye="sad" mouth="tense">
   <portrait_r entry="player" eye="decided" mouth="tense">
   <sjis>
-    �Ȃ�Ȃ�ł��傤�ˁH<end_line>
+    なんなんでしょうね？<end_line>
   </sjis>
   <ascii>
     I wonder what they're doing?<end_line>
@@ -249,7 +249,7 @@
   <portrait_l entry="partner" eye="sad" mouth="tense">
   <portrait_r entry="player" eye="decided" mouth="serious">
   <sjis>
-    �Ƃɂ����A�s����<end_line>
+    とにかく、行こう<end_line>
   </sjis>
   <ascii>
     Whatever, let's get going.<end_line>

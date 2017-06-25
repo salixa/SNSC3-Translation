@@ -3,8 +3,8 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="lemmy" eye="decided" mouth="talk">
   <sjis>
-    �Ƃ��Ă����̕��킾�����̂�<three_dots><end_line>
-    �l�������ƒb���Ȃ�����<three_dots><end_line>
+    とっておきの武器だったのに<three_dots><end_line>
+    僕ももっと鍛えなくちゃ<three_dots><end_line>
   </sjis>
   <ascii>
     That was my best weapon, and still<three_dots><end_line>
@@ -16,7 +16,7 @@
   <portrait_l entry="player" eye="sad" mouth="serious">
   <portrait_r entry="lemmy" eye="decided" mouth="talk">
   <sjis>
-    ���x���N�ɂ͕����Ă����Ȃ���<end_line>
+    何度も君には負けていられないよ<end_line>
   </sjis>
   <ascii>
     I won't always keep losing to you.<end_line>
@@ -27,9 +27,9 @@
   <portrait_l entry="player" eye="serious" mouth="neutral">
   <portrait_r entry="lemmy" eye="serious" mouth="talk">
   <sjis>
-    �e�������Ȃ��Ȃ���<end_line>
-    �F�X�Z�����Ȃ��Ă邯��<end_line>
-    �l�������ƒb���Ă��<end_line>
+    親方がいなくなって<end_line>
+    色々忙しくなってるけど<end_line>
+    僕もちゃんと鍛えてるよ<end_line>
   </sjis>
   <ascii>
     With Master gone,<end_line>
@@ -42,8 +42,8 @@
   <portrait_l entry="player" eye="serious" mouth="neutral">
   <portrait_r entry="lemmy" eye="decided" mouth="talk">
   <sjis>
-    �����̏����͂ł��Ă邩��<end_line>
-    ���ł������Ă�<end_line>
+    勝負の準備はできてるから<end_line>
+    いつでも言ってよ<end_line>
   </sjis>
   <ascii>
     If you're up for a match,<end_line>
@@ -55,9 +55,9 @@
   <portrait_l entry="player" eye="serious" mouth="neutral">
   <portrait_r entry="lemmy" eye="serious" mouth="neutral">
   <sjis>
-    ����<three_dots>�A�e�������Ȃ��Ȃ���<end_line>
-    �F�X�Z�����Ȃ��Ă�񂾂���<end_line>
-    ����������<three_dots><end_line>
+    あの<three_dots>、親方がいなくなって<end_line>
+    色々忙しくなってるんだけど<end_line>
+    もしかして<three_dots><end_line>
   </sjis>
   <ascii>
     Um<three_dots>, Master's gone<end_line>
@@ -70,8 +70,8 @@
   <portrait_l entry="player" eye="serious" mouth="neutral">
   <portrait_r entry="lemmy" eye="decided" mouth="talk">
   <sjis>
-    ���̊�A�ǂ����킪�ł����݂�������<end_line>
-    �l�̂Ƃ��Ă����Ə������Ă݂邩���H<end_line>
+    その顔、良い武器ができたみたいだね<end_line>
+    僕のとっておきと勝負してみるかい？<end_line>
   </sjis>
   <ascii>
     I can tell you've made a good weapon.<end_line>
@@ -83,8 +83,8 @@
   <portrait_l entry="player" eye="serious" mouth="neutral">
   <portrait_r entry="lemmy" eye="serious" mouth="tense">
   <sjis>
-    �Ȃ񂾂��A���̊�<three_dots><end_line>
-    ����������<three_dots><end_line>
+    なんだい、その顔<three_dots><end_line>
+    もしかして<three_dots><end_line>
   </sjis>
   <ascii>
     What's with that face<three_dots><end_line>
@@ -97,7 +97,7 @@
   <portrait_r entry="lemmy" eye="serious" mouth="tense">
   <option>
     <sjis>
-      �������悤<end_line>
+      勝負しよう<end_line>
     </sjis>
     <ascii>
       Fight<end_line>
@@ -105,7 +105,7 @@
   </option>
   <option>
     <sjis>
-      �������Ȃ�<end_line>
+      勝負しない<end_line>
     </sjis>
     <ascii>
       Don't Fight<end_line>
@@ -116,8 +116,8 @@
   <info box="right">
   <portrait_r name="lemmy">
   <sjis>
-    ����<end_line>
-    ����A�܂�<end_line>
+    そう<end_line>
+    じゃ、また<end_line>
   </sjis>
   <ascii>
     I see.<end_line>

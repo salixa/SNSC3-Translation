@@ -1,14 +1,14 @@
 <location>
 	<sjis>
-		���C�[�Y���@���Ƃ`<end_line>
+		ルイーズ村　民家Ａ<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="elderly">
 	<sjis>
-		�킵��N�ɂ����f��������<end_line>
-		�Â��ɕ�炵�Ă���񂶂�<end_line>
-		�����Ƃ��Ăق����̂�<end_line>
+		わしら誰にも迷惑かけずに<end_line>
+		静かに暮らしておるんじゃ<end_line>
+		そっとしてほしいのぉ<end_line>
 	</sjis>
 </dialogue>

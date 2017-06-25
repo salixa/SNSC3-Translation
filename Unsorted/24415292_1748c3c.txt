@@ -1,15 +1,15 @@
 <dialogue>
 	<info box="nobox">
 	<sjis>
-		�@�@�~���[�m���ǂ��Ă��闝�R���@�@<end_line>
-		�@�@�����Ȃ������̂́A�~���[�m���@�@<end_line>
-		�@�@���킢�������������炶��Ȃ��@�@<end_line>
+		　　ミューノが追われている理由を　　<end_line>
+		　　聞けなかったのは、ミューノが　　<end_line>
+		　　かわいそうだったからじゃない　　<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="nobox">
 	<sjis>
-		�@�@�@�@�{���̂��Ƃ�m��̂��@�@�@�@<end_line>
-		�@�@�@���킩���������Ȃ�<three_dots>�@�@�@�@<end_line>
+		　　　　本当のことを知るのが　　　　<end_line>
+		　　　こわかっただけなんだ<three_dots>　　　　<end_line>
 	</sjis>
 </dialogue>

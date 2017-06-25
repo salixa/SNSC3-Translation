@@ -1,11 +1,11 @@
 <location>
   <sjis>
-    ƒ‹ƒC[ƒY‘º<end_line>
+    ãƒ«ã‚¤ãƒ¼ã‚ºæ‘<end_line>
   </sjis>
 </location>
 <location>
   <sjis>
-    ƒ‹ƒC[ƒY‘º@˜S‰®‘O<end_line>
+    ãƒ«ã‚¤ãƒ¼ã‚ºæ‘ã€€ç‰¢å±‹å‰<end_line>
   </sjis>
 </location>
 <dialogue>
@@ -13,9 +13,9 @@
   <portrait_l name="player">
   <male>
     <sjis>
-      ƒgƒ‰ƒ€‚ªƒIƒŒ‚½‚¿‚Æ‚ÌŸ•‰‚ð<end_line>
-      ‘Ò‚Á‚Ä‚é‚ñ‚¾<end_line>
-      ƒOƒ}ƒO‚Ì‰ŠˆâÕ‚És‚©‚È‚­‚¿‚áI<end_line>
+      ãƒˆãƒ©ãƒ ãŒã‚ªãƒ¬ãŸã¡ã¨ã®å‹è² ã‚’<end_line>
+      å¾…ã£ã¦ã‚‹ã‚“ã <end_line>
+      ã‚°ãƒžã‚°ã®ç‚Žéºè·¡ã«è¡Œã‹ãªãã¡ã‚ƒï¼<end_line>
     </sjis>
     <ascii>
       Tram is waiting for us.<end_line>
@@ -25,9 +25,9 @@
   </male>
   <female>
     <sjis>
-      ƒgƒ‰ƒ€‚ª‚í‚½‚µ‚½‚¿‚Æ‚ÌŸ•‰‚ð<end_line>
-      ‘Ò‚Á‚Ä‚é‚æ<end_line>
-      ƒOƒ}ƒO‚Ì‰ŠˆâÕ‚És‚±‚¤I<end_line>
+      ãƒˆãƒ©ãƒ ãŒã‚ãŸã—ãŸã¡ã¨ã®å‹è² ã‚’<end_line>
+      å¾…ã£ã¦ã‚‹ã‚ˆ<end_line>
+      ã‚°ãƒžã‚°ã®ç‚Žéºè·¡ã«è¡Œã“ã†ï¼<end_line>
     </sjis>
     <ascii>
       Tram is waiting for us.<end_line>
@@ -41,9 +41,9 @@
   <portrait_l name="player">
   <male>
     <sjis>
-      ƒ~ƒ…[ƒm‚ªƒgƒ‰ƒ€‚Æ‚¢‚Á‚µ‚å‚É<end_line>
-      ‰ŠˆâÕ‚É–‚»’Œ‚ð’²‚×‚És‚Á‚Ä‚é‚ñ‚¾<end_line>
-      ƒIƒŒ‚½‚¿‚à‹}‚²‚¤I<end_line>
+      ãƒŸãƒ¥ãƒ¼ãƒŽãŒãƒˆãƒ©ãƒ ã¨ã„ã£ã—ã‚‡ã«<end_line>
+      ç‚Žéºè·¡ã«é­”æ™¶æŸ±ã‚’èª¿ã¹ã«è¡Œã£ã¦ã‚‹ã‚“ã <end_line>
+      ã‚ªãƒ¬ãŸã¡ã‚‚æ€¥ã”ã†ï¼<end_line>
     </sjis>
     <ascii>
       Murno went with Tram to <end_line>
@@ -54,9 +54,9 @@
   </male>
   <female>
     <sjis>
-      ƒ~ƒ…[ƒm‚ªƒgƒ‰ƒ€‚Æ‚¢‚Á‚µ‚å‚É<end_line>
-      ‰ŠˆâÕ‚É–‚»’Œ‚ð’²‚×‚És‚Á‚¿‚á‚Á‚½<end_line>
-      ‚í‚½‚µ‚½‚¿‚à‹}‚ª‚È‚­‚¿‚áI<end_line>
+      ãƒŸãƒ¥ãƒ¼ãƒŽãŒãƒˆãƒ©ãƒ ã¨ã„ã£ã—ã‚‡ã«<end_line>
+      ç‚Žéºè·¡ã«é­”æ™¶æŸ±ã‚’èª¿ã¹ã«è¡Œã£ã¡ã‚ƒã£ãŸ<end_line>
+      ã‚ãŸã—ãŸã¡ã‚‚æ€¥ãŒãªãã¡ã‚ƒï¼<end_line>
     </sjis>
     <ascii>
       Murno went with Tram to <end_line>
@@ -70,8 +70,8 @@
   <info box="simple">
   <portrait_l name="player">
   <sjis>
-    ‚Æ‚É‚©‚­¡‚Í<end_line>
-    ƒ}ƒOƒhƒ‰ƒh‚ð‰½‚Æ‚©‚µ‚È‚¢‚ÆI<end_line>
+    ã¨ã«ã‹ãä»Šã¯<end_line>
+    ãƒžã‚°ãƒ‰ãƒ©ãƒ‰ã‚’ä½•ã¨ã‹ã—ãªã„ã¨ï¼<end_line>
   </sjis>
   <ascii>
     At any rate, right now we have to<end_line>

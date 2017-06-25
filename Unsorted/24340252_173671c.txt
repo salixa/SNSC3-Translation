@@ -1,6 +1,6 @@
 <location>
 	<sjis>
-		���u�H�[�@�H�[<end_line>
+		ロブ工房　工房<end_line>
 	</sjis>
 </location>
 <dialogue>
@@ -8,19 +8,19 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			�~���[�m���S�z���I<end_line>
-			�b��Ȃ񂩂��Ă�ꍇ����Ȃ��I<end_line>
+			ミューノが心配だ！<end_line>
+			鍛冶なんかしてる場合じゃない！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�~���[�m���S�z����I<end_line>
-			�b��Ȃ񂩂��Ă�ꍇ����Ȃ��I<end_line>
+			ミューノが心配だよ！<end_line>
+			鍛冶なんかしてる場合じゃない！<end_line>
 		</sjis>
 	</female>
 </dialogue>
 <popup>
 	<sjis>
-		��ꂪ��ꂽ�I<end_line>
+		疲れが取れた！<end_line>
 	</sjis>
 </popup>

@@ -4,12 +4,12 @@
   <portrait_r entry="gallahan" eye="serious" mouth="neutral">
   <male>
     <sjis>
-      ‚±‚±A‚¨‚Á‚¿‚á‚ñ‚ÌH–[‚©H<end_line>
+      ã“ã“ã€ãŠã£ã¡ã‚ƒã‚“ã®å·¥æˆ¿ã‹ï¼Ÿ<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ‚±‚±‚ª‚¨‚¶‚³‚ñ‚ÌH–[H<end_line>
+      ã“ã“ãŒãŠã˜ã•ã‚“ã®å·¥æˆ¿ï¼Ÿ<end_line>
     </sjis>
   </female>
   <ascii>
@@ -21,9 +21,9 @@
   <portrait_l entry="player" eye="serious" mouth="serious">
   <portrait_r entry="gallahan" eye="serious" mouth="neutral">
   <sjis>
-    ‚»‚¤‚¾<end_line>
-    ‚Å‚ÍA‚³‚Á‚»‚­ŽŽŒ±‚ð<end_line>
-    s‚¤‚Æ‚·‚é‚©<end_line>
+    ãã†ã <end_line>
+    ã§ã¯ã€ã•ã£ããè©¦é¨“ã‚’<end_line>
+    è¡Œã†ã¨ã™ã‚‹ã‹<end_line>
   </sjis>
   <ascii>
     That's right.<end_line>
@@ -37,16 +37,16 @@
   <portrait_r entry="gallahan" eye="serious" mouth="neutral">
   <male>
     <sjis>
-      ‚ÅAŽŽŒ±‚Á‚Ä‰½‚ð‚·‚é‚ñ‚¾H<end_line>
-      ‚â‚Á‚Ï‚è‰½‚©•Ší‚ðì‚é‚Ì‚©H<end_line>
-      ‚»‚ê‚Æ‚àŒ•‚ÌƒEƒf‚ð‚½‚µ‚©‚ß‚é‚Ì‚©H<end_line>
+      ã§ã€è©¦é¨“ã£ã¦ä½•ã‚’ã™ã‚‹ã‚“ã ï¼Ÿ<end_line>
+      ã‚„ã£ã±ã‚Šä½•ã‹æ­¦å™¨ã‚’ä½œã‚‹ã®ã‹ï¼Ÿ<end_line>
+      ãã‚Œã¨ã‚‚å‰£ã®ã‚¦ãƒ‡ã‚’ãŸã—ã‹ã‚ã‚‹ã®ã‹ï¼Ÿ<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ‚ÅAŽŽŒ±‚Á‚Ä‰½‚ð‚·‚é‚ÌH<end_line>
-      ‚â‚Á‚Ï‚è‰½‚©•Ší‚ðì‚é‚Ì‚©‚ÈH<end_line>
-      ‚»‚ê‚Æ‚àŒ•‚ÌƒEƒf‚ð‚½‚µ‚©‚ß‚é‚ÌH<end_line>
+      ã§ã€è©¦é¨“ã£ã¦ä½•ã‚’ã™ã‚‹ã®ï¼Ÿ<end_line>
+      ã‚„ã£ã±ã‚Šä½•ã‹æ­¦å™¨ã‚’ä½œã‚‹ã®ã‹ãªï¼Ÿ<end_line>
+      ãã‚Œã¨ã‚‚å‰£ã®ã‚¦ãƒ‡ã‚’ãŸã—ã‹ã‚ã‚‹ã®ï¼Ÿ<end_line>
     </sjis>
   </female>
   <ascii>
@@ -60,9 +60,9 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="gallahan" eye="serious" mouth="talk">
   <sjis>
-    ‚Ü‚¸‚Í’mŽ¯‚¾<end_line>
-    ‚¨‘O‚ª’b–èŽt‚Æ‚µ‚Ä‚Ç‚ê‚¾‚¯ƒ‚ƒm‚ð<end_line>
-    ’m‚Á‚Ä‚¢‚é‚©A‚½‚µ‚©‚ß‚Ä‚â‚é<end_line>
+    ã¾ãšã¯çŸ¥è­˜ã <end_line>
+    ãŠå‰ãŒé›å†¶å¸«ã¨ã—ã¦ã©ã‚Œã ã‘ãƒ¢ãƒŽã‚’<end_line>
+    çŸ¥ã£ã¦ã„ã‚‹ã‹ã€ãŸã—ã‹ã‚ã¦ã‚„ã‚‹<end_line>
   </sjis>
   <ascii>
     First is knowledge.<end_line>
@@ -76,16 +76,16 @@
   <portrait_r entry="gallahan" eye="serious" mouth="talk">
   <male>
     <sjis>
-      ‚æ‚Á‚µI<end_line>
-      ‰½‚Å‚à“š‚¦‚Ä‚â‚é‚ºI<end_line>
-      ‚¢‚­‚¼A<partner>I<end_line>
+      ã‚ˆã£ã—ï¼<end_line>
+      ä½•ã§ã‚‚ç­”ãˆã¦ã‚„ã‚‹ãœï¼<end_line>
+      ã„ããžã€<partner>ï¼<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ‚æ‚§‚µI<end_line>
-      ‰½‚Å‚à“š‚¦‚Ä‚ ‚°‚é‚íI<end_line>
-      ‚¢‚­‚æA<partner>I<end_line>
+      ã‚ˆã‰ã—ï¼<end_line>
+      ä½•ã§ã‚‚ç­”ãˆã¦ã‚ã’ã‚‹ã‚ï¼<end_line>
+      ã„ãã‚ˆã€<partner>ï¼<end_line>
     </sjis>
   </female>
   <ascii>
@@ -100,7 +100,7 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="partner" eye="serious" mouth="neutral">
   <sjis>
-    ƒI[I<end_line>
+    ã‚ªãƒ¼ï¼<end_line>
   </sjis>
   <ascii>
     Yes!<end_line>
@@ -112,7 +112,7 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="partner" eye="serious" mouth="neutral">
   <sjis>
-    ³’mI<end_line>
+    æ‰¿çŸ¥ï¼<end_line>
   </sjis>
   <ascii>
     Understood!<end_line>
@@ -124,7 +124,7 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="partner" eye="serious" mouth="neutral">
   <sjis>
-    D‚«‚É‚µ‚ë<end_line>
+    å¥½ãã«ã—ã‚<end_line>
   </sjis>
   <ascii>
     Whatever.<end_line>
@@ -136,7 +136,7 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="partner" eye="serious" mouth="neutral">
   <sjis>
-    ‚Í‚¢I<end_line>
+    ã¯ã„ï¼<end_line>
   </sjis>
   <ascii>
     Yes!<end_line>

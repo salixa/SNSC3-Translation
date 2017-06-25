@@ -4,7 +4,7 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <portrait_r entry="partner" eye="surprised" mouth="neutral">
   <sjis>
-    ’ˆÓƒVƒeƒNƒ_ƒTƒCI<end_line>
+    æ³¨æ„ã‚·ãƒ†ã‚¯ãƒ€ã‚µã‚¤ï¼<end_line>
   </sjis>
   <ascii>
     Please Be Careful!<end_line>
@@ -16,7 +16,7 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <portrait_r entry="partner" eye="surprised" mouth="neutral">
   <sjis>
-    ‹C‚ð‚Â‚¯‚ëI<end_line>
+    æ°—ã‚’ã¤ã‘ã‚ï¼<end_line>
   </sjis>
   <ascii>
     Watch out!<end_line>
@@ -28,7 +28,7 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <portrait_r entry="partner" eye="surprised" mouth="neutral">
   <sjis>
-    Ž~‚Ü‚êI<end_line>
+    æ­¢ã¾ã‚Œï¼<end_line>
   </sjis>
   <ascii>
     Stop!<end_line>
@@ -40,7 +40,7 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <portrait_r entry="partner" eye="surprised" mouth="neutral">
   <sjis>
-    ‘Ò‚Á‚Ä‚­‚¾‚³‚¢<end_line>
+    å¾…ã£ã¦ãã ã•ã„<end_line>
   </sjis>
   <ascii>
     Please wait!<end_line>
@@ -51,14 +51,14 @@
   <portrait_r entry="player" eye="decided" mouth="serious">
   <male>
     <sjis>
-      l‚©<three_dots><end_line>
-      ‚±‚Á‚¿‚É‚Ís‚¯‚È‚¢‚È<three_dots><end_line>
+      äººã‹<three_dots><end_line>
+      ã“ã£ã¡ã«ã¯è¡Œã‘ãªã„ãª<three_dots><end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      l‚©<three_dots><end_line>
-      ‚±‚Á‚¿‚É‚Ís‚¯‚È‚¢‚Ë<three_dots><end_line>
+      äººã‹<three_dots><end_line>
+      ã“ã£ã¡ã«ã¯è¡Œã‘ãªã„ã­<three_dots><end_line>
     </sjis>
   </female>
   <ascii>

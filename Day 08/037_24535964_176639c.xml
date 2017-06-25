@@ -1,20 +1,20 @@
 <location>
   <sjis>
-    �f�B�b�N����<end_line>
+    ディックル村<end_line>
   </sjis>
 </location>
 <location>
   <sjis>
-    �f�B�b�N�����@�z�������<end_line>
+    ディックル村　鉱洞入り口<end_line>
   </sjis>
 </location>
 <dialogue>
   <info box="simple">
   <portrait_l name="elderly">
   <sjis>
-    �ߍ��̎Ⴂ���c�͂Ȃ��Ƃ��<end_line>
-    ���V�������ƎႯ���<end_line>
-    �Ƃ����ɃA�J�o�l�Ȃ�<end_line>
+    近頃の若いヤツはなっとらん<end_line>
+    ワシがもっと若ければ<end_line>
+    とっくにアカバネなんぞ<end_line>
   </sjis>
   <ascii>
     Youngsters these days are no good.<end_line>
@@ -26,7 +26,7 @@
   <info box="simple">
   <portrait_l name="elderly">
   <sjis>
-    �|���Ă��郏�C<end_line>
+    倒しておるワイ<end_line>
   </sjis>
   <ascii>
     <three_dots><end_line>

@@ -1,14 +1,14 @@
 <location>
 	<sjis>
-		���C�[�Y���@�S��<end_line>
+		ルイーズ村　牢屋<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="jailer">
 	<sjis>
-		�S���Ȃ��<end_line>
-		�g��Ȃ��̂���Ԃł����<end_line>
-		�ł��A�{�N�̎d���Ȃ��Ȃ����Ⴄ�́H<end_line>
+		牢屋なんて<end_line>
+		使わないのが一番ですよね<end_line>
+		でも、ボクの仕事なくなっちゃうの？<end_line>
 	</sjis>
 </dialogue>

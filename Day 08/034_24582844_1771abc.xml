@@ -1,20 +1,20 @@
 <location>
   <sjis>
-    �M�����n���H�[�@���<end_line>
+    ギャラハン工房　道具屋<end_line>
   </sjis>
 </location>
 <location>
   <sjis>
-    �M�����n���H�[�@���<end_line>
+    ギャラハン工房　道具屋<end_line>
   </sjis>
 </location>
 <dialogue>
   <info box="simple">
   <portrait_l name="gallahan">
   <sjis>
-    �Ȃ񂾁H�@�܂������̂�<end_line>
-    �d���Ȃ����c����<three_dots><end_line>
-    �܁A������肵�Ă���<end_line>
+    なんだ？　また来たのか<end_line>
+    仕方ないヤツだな<three_dots><end_line>
+    ま、ゆっくりしていけ<end_line>
   </sjis>
   <ascii>
     Hm? You again?<end_line>
@@ -26,9 +26,9 @@
 <dialogue>
   <info box="simple">
   <sjis>
-    �M�����n���H�[����̂��m�点<end_line>
-    �J�E���^�[�ɓX�������Ȃ��Ƃ��ɂ�<end_line>
-    ����ɔ��������Ă�������<end_line>
+    ギャラハン工房からのお知らせ<end_line>
+    カウンターに店員がいないときには<end_line>
+    勝手に買い物してください<end_line>
   </sjis>
   <ascii>
     A message from Gallahan's Workshop.<end_line>
@@ -41,9 +41,9 @@
   <info box="simple">
   <portrait_l name="peddler's_mother">
   <sjis>
-    ����A���̃n���}�[�͒b��t��<end_line>
-    ���A�b��t��b��E�l�ɉ���߂�<end_line>
-    �������Ėʎ����L���Ă�̂�<end_line>
+    あら、そのハンマーは鍛冶師ね<end_line>
+    今、鍛冶師や鍛冶職人に会うために<end_line>
+    旅をして面識を広げてるのよ<end_line>
   </sjis>
   <ascii>
     My, that's a Crafknight's hammer.<end_line>
@@ -56,9 +56,9 @@
   <info box="simple">
   <portrait_l name="peddler's_mother">
   <sjis>
-    �����͑傫�ȓX�������Ė��ƂQ�l��<end_line>
-    ��炷���߂ɂ����ӂ����<end_line>
-    �����邽�߂ɂ�<end_line>
+    将来は大きな店をもって娘と２人で<end_line>
+    暮らすためにお得意さんを<end_line>
+    見つけるためにね<end_line>
   </sjis>
   <ascii>
     Eventually I'd like to open<end_line>
@@ -70,8 +70,8 @@
   <info box="simple">
   <portrait_l name="peddler's_mother">
   <sjis>
-    �b��̎��ɂ͏ڂ������牽��<end_line>
-    �m�肽�����Ƃ��������畷���Ă�<end_line>
+    鍛冶の事には詳しいから何か<end_line>
+    知りたいことがあったら聞いてね<end_line>
   </sjis>
   <ascii>
     I know quite a lot about smithing.<end_line>
@@ -82,7 +82,7 @@
   <info box="simple">
   <option>
     <sjis>
-      �쐻�ɂ��ċ����Ăق���<end_line>
+      作製について教えてほしい<end_line>
     </sjis>
     <ascii>
       Teach me about crafting<end_line>
@@ -90,7 +90,7 @@
   </option>
   <option>
     <sjis>
-      ��̂ɂ��ċ����Ăق���<end_line>
+      解体について教えてほしい<end_line>
     </sjis>
     <ascii>
       Teach me about disassembly<end_line>
@@ -98,7 +98,7 @@
   </option>
   <option>
     <sjis>
-      ���͓��ɂȂ�<end_line>
+      今は特にない<end_line>
     </sjis>
     <ascii>
       Nothing right now<end_line>
@@ -109,9 +109,9 @@
   <info box="simple">
   <portrait_l name="peddler's_mother">
   <sjis>
-    �Ƃ��Ă����̏��Ȃ񂾂���<end_line>
-    �ǎ��ȕ��킪�o����閧��<end_line>
-    �����Ă������<end_line>
+    とっておきの情報なんだけど<end_line>
+    良質な武器が出来る秘密を<end_line>
+    教えてあげるね<end_line>
   </sjis>
   <ascii>
     This is very information.<end_line>
@@ -123,9 +123,9 @@
   <info box="simple">
   <portrait_l name="peddler's_mother">
   <sjis>
-    ���ʂɍ쐻����ƕ��탉���N��<end_line>
-    �b�胉���N���������Ɗm����<end_line>
-    �Ⴍ�ĂȂ��Ȃ��ł��Ȃ���<end_line>
+    普通に作製すると武器ランクが<end_line>
+    鍛冶ランクよりも高いと確率は<end_line>
+    低くてなかなかできないの<end_line>
   </sjis>
   <ascii>
     Normally, your weapon rank will<end_line>
@@ -138,8 +138,8 @@
   <info box="simple">
   <portrait_l name="peddler's_mother">
   <sjis>
-    �ł��ˁA�b�胉���N���Ⴂ�����<end_line>
-    �쐻����Ɗm���������Ȃ�̂�<end_line>
+    でもね、鍛冶ランクより低い武器を<end_line>
+    作製すると確率が高くなるのよ<end_line>
   </sjis>
   <ascii>
     However, if you craft a weapon<end_line>
@@ -151,9 +151,9 @@
   <info box="simple">
   <portrait_l name="peddler's_mother">
   <sjis>
-    ���ꂩ��A�p�[�g�i�[�����ӂȕ����<end_line>
-    ���Ƃ��ɂ͊m��������ɏオ�邱�Ƃ�<end_line>
-    �킩������<end_line>
+    それから、パートナーが得意な武器を<end_line>
+    作るときには確率がさらに上がることが<end_line>
+    わかったの<end_line>
   </sjis>
   <ascii>
     What's more, that chance will be<end_line>
@@ -166,8 +166,8 @@
   <info box="simple">
   <portrait_l name="peddler's_mother">
   <sjis>
-    ����A����͂Ƃ��Ă����̉�̂�<end_line>
-    �����Ă������<end_line>
+    じゃ、今回はとっておきの解体を<end_line>
+    教えてあげるね<end_line>
   </sjis>
   <ascii>
     Well then, this time I'll teach<end_line>
@@ -180,9 +180,9 @@
   <info box="simple">
   <portrait_l name="peddler's_mother">
   <sjis>
-    ��̂ɂ͕��ʂ̉�̂̑���<end_line>
-    ��̉����Č����̂�����̂�<end_line>
-    �m���Ă邩�ȁH<end_line>
+    解体には普通の解体の他に<end_line>
+    解体改って言うのがあるのを<end_line>
+    知ってるかな？<end_line>
   </sjis>
   <ascii>
     Did you know that in addition to<end_line>
@@ -194,9 +194,9 @@
   <info box="simple">
   <portrait_l name="peddler's_mother">
   <sjis>
-    ����͂ˁA�n���x���ő�̕����<end_line>
-    ��̂���ƕK�E�Z�������ʂ�<end_line>
-    �c�����}�e������ɂ͂����<end_line>
+    これはね、熟練度が最大の武器を<end_line>
+    解体すると必殺技や特殊効果が<end_line>
+    残ったマテルが手にはいるの<end_line>
   </sjis>
   <ascii>
     When you disassemble weapons with<end_line>
@@ -208,8 +208,8 @@
   <info box="simple">
   <portrait_l name="peddler's_mother">
   <sjis>
-    ���̃}�e�����g���΁A�D���ȕ����<end_line>
-    �D���Ȍ��ʂ������ĕ֗����<end_line>
+    このマテルを使えば、好きな武器に<end_line>
+    好きな効果がつけられて便利よね<end_line>
   </sjis>
   <ascii>
     You can use those materials<end_line>
@@ -221,7 +221,7 @@
   <info box="simple">
   <portrait_l name="peddler's_mother">
   <sjis>
-    �C����������܂����Ă�<end_line>
+    気が向いたらまた来てね<end_line>
   </sjis>
   <ascii>
     Come again!<end_line>

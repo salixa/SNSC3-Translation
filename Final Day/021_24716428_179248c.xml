@@ -1,29 +1,29 @@
 <location>
 	<sjis>
-		�����̉Ɓ@�L��<end_line>
+		村長の家　広間<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="chief">
 	<sjis>
-		����Ȃ��Ƃ������Ă�<end_line>
-		������߂Ă͂�����<end_line>
+		困難なことがあっても<end_line>
+		あきらめてはいかん<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="elderly">
 	<sjis>
-		������ƃP�K�������炢��<end_line>
-		����悩��q����A��߂��Ȃ�<end_line>
-		�ߍ��̐e�͊Â₩����������<end_line>
+		ちょっとケガしたくらいで<end_line>
+		奉公先から子供を連れ戻すなど<end_line>
+		近頃の親は甘やかしすぎじゃ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="elderly">
 	<sjis>
-		�܂������A�Ȃ��Ƃ��<end_line>
+		まったく、なっとらん<end_line>
 	</sjis>
 </dialogue>

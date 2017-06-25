@@ -1,78 +1,78 @@
 <location>
 	<sjis>
-		�v���X�o���̒��@�Z��X�K�i<end_line>
+		プロスバンの町　住宅街階段<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		�Ȃ�ł���̔p�Ђ̐��<end_line>
-		�����Ƃ�ł��Ȃ���������炵��<end_line>
+		なんでも例の廃墟の先に<end_line>
+		何かとんでもない物があるらしい<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		�܁A�s�������Ƃ��Ȃ�����<end_line>
-		�ۏ؂͂ł��Ȃ����ǂ�<end_line>
+		ま、行ったことがないから<end_line>
+		保証はできないけどな<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		�t�[�b<end_line>
+		フーッ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		�@<end_line>
-		�@�@�@�@�@�`���ӂ��悤�I�`<end_line>
+		　<end_line>
+		　　　　　～注意しよう！～<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		�c�̍s���̎���<end_line>
-		�悭�l�����m�F���܂��傤<end_line>
+		団体行動の時は<end_line>
+		よく人数を確認しましょう<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		�N�����Ȃ��l��<end_line>
-		���邩������܂����H<end_line>
+		誰かいない人が<end_line>
+		いるかもしれませんよ？<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		�{�E�^�C�v���֗��ł���<end_line>
-		�g�������ɂ͏\�����ӂ��Ă�������<end_line>
-		�C�t�������ɂ͉��鐡�O��������<three_dots><end_line>
+		ボウタイプが便利ですが<end_line>
+		使いすぎには十分注意してください<end_line>
+		気付いた時には壊れる寸前だったり<three_dots><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		�@<end_line>
-		�@�@�@�@�@�`��񋁂ށI�`<end_line>
+		　<end_line>
+		　　　　　～情報求む！～<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		�^�^���̒��̉��̂悤��<end_line>
-		�R���オ��悤�Ȍ��h�̐H�ו���<end_line>
-		�T���Ă��܂�<end_line>
+		タタラの中の炎のように<end_line>
+		燃え上がるような激辛の食べ物を<end_line>
+		探しています<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		���̊O�ł͑����̂͂��ꂪ�o��<end_line>
-		���o���鎞�͏�������������ȁI<end_line>
+		町の外では多くのはぐれが出る<end_line>
+		遠出する時は準備をおこたるな！<end_line>
 	</sjis>
 </dialogue>

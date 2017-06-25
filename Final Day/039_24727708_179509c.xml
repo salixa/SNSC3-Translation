@@ -1,67 +1,67 @@
 <location>
 	<sjis>
-		�v���X�o���̒�<end_line>
+		プロスバンの町<end_line>
 	</sjis>
 </location>
 <location>
 	<sjis>
-		�v���X�o���̒��@�z�Ƌ�<end_line>
+		プロスバンの町　鉱業区<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="gatekeeper">
 	<sjis>
-		���������̊O�����łȂ���<end_line>
-		���܂ő��������Ȃ��ĂȂ����H<end_line>
+		何だか町の外だけでなくて<end_line>
+		中まで騒がしくなってないか？<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		���A�𔲂�����̐X�̂���ɉ���<end_line>
-		���a�ȑ������������ĉ\��<end_line>
+		洞窟を抜けた先の森のさらに奥に<end_line>
+		平和な村があったって噂だ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		���̑���łڂ����̂�<end_line>
-		���H�C�W�����Ēj�����ĉ\��<end_line>
+		その村を滅ぼしたのは<end_line>
+		ヴォイジンって男だって噂だ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		����؂��������̕��͂ǂ���<end_line>
-		���ʂ艺����<end_line>
+		会員証をお持ちの方はどうぞ<end_line>
+		お通り下さい<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		���������������͓��ʂ�<end_line>
-		�����ꂽ�҂����ʂ��킯�ɂ�<end_line>
-		�����Ȃ���<end_line>
+		悪いがここから先は特別に<end_line>
+		許可された者しか通すわけには<end_line>
+		いかないな<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		����������؂������Ă���Ȃ�<end_line>
-		�b�͕ʂ�����<end_line>
+		ただし会員証を持っているなら<end_line>
+		話は別だがな<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		�I�΂ꂽ���q�l������<end_line>
-		�ō��̈ꎞ�������グ�܂�<end_line>
-		���������Ă݂܂��񂩁H<end_line>
+		選ばれたお客様だけに<end_line>
+		最高の一時を差し上げます<end_line>
+		福引きしてみませんか？<end_line>
 	</sjis>
 </dialogue>

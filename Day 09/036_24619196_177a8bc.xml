@@ -1,18 +1,18 @@
 <location>
   <sjis>
-    ƒvƒƒXƒoƒ“‚Ì’¬<end_line>
+    ãƒ—ãƒ­ã‚¹ãƒãƒ³ã®ç”º<end_line>
   </sjis>
 </location>
 <location>
   <sjis>
-    ƒvƒƒXƒoƒ“‚Ì’¬@¼–å<end_line>
+    ãƒ—ãƒ­ã‚¹ãƒãƒ³ã®ç”ºã€€è¥¿é–€<end_line>
   </sjis>
 </location>
 ###SomeMessage
 <dialogue>
   <info box="simple">
   <sjis>
-    ‰½‚ç‚©‚ÌƒƒbƒZ[ƒW—\’è<end_line>
+    ä½•ã‚‰ã‹ã®ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸äºˆå®š<end_line>
   </sjis>
   <ascii>
     Some kind of message<end_line>
@@ -22,8 +22,8 @@
   <info box="simple">
   <portrait_l name="gatekeeper">
   <sjis>
-    ƒAƒJƒoƒl‚ð‚½‚¨‚µ‚½‚ñ‚¾‚Á‚ÄH<end_line>
-    ‚·‚²‚¢‚È‚Ÿ<three_dots><end_line>
+    ã‚¢ã‚«ãƒãƒã‚’ãŸãŠã—ãŸã‚“ã ã£ã¦ï¼Ÿ<end_line>
+    ã™ã”ã„ãªã<three_dots><end_line>
   </sjis>
   <ascii>
     You beat Red Wing?<end_line>
@@ -35,8 +35,8 @@
   <info box="simple">
   <portrait_l name="child">
   <sjis>
-    ‚±‚Ì’¬‚Á‚ÄA‚²‚Ý‚²‚Ý‚µ‚Ä‚Ä<end_line>
-    ‚¢‚â‚æ‚Ë<end_line>
+    ã“ã®ç”ºã£ã¦ã€ã”ã¿ã”ã¿ã—ã¦ã¦<end_line>
+    ã„ã‚„ã‚ˆã­<end_line>
   </sjis>
   <ascii>
     This village is filthy.<end_line>
@@ -47,8 +47,8 @@
   <info box="simple">
   <portrait_l name="child">
   <sjis>
-    ‚Ç‚±‚©‚ÉA‚µ‚¸‚©‚È‚Æ‚±‚ë<end_line>
-    ‚È‚¢‚©‚µ‚ç<end_line>
+    ã©ã“ã‹ã«ã€ã—ãšã‹ãªã¨ã“ã‚<end_line>
+    ãªã„ã‹ã—ã‚‰<end_line>
   </sjis>
   <ascii>
     Is there anywhere quiet around here?<end_line>
@@ -57,9 +57,9 @@
 <dialogue>
   <info box="simple">
   <sjis>
-    ‚±‚Ìæ‚ÌƒXƒŒƒ“ƒWÌŒ@ê‚Ì<end_line>
-    ‹¥ˆ«‚È‚Í‚®‚ê¢Š«bƒAƒJƒoƒl‚ª<end_line>
-    ‘ÞŽ¡‚³‚ê‚Ü‚µ‚½<end_line>
+    ã“ã®å…ˆã®ã‚¹ãƒ¬ãƒ³ã‚¸æŽ¡æŽ˜å ´ã®<end_line>
+    å‡¶æ‚ªãªã¯ãã‚Œå¬å–šç£ã‚¢ã‚«ãƒãƒãŒ<end_line>
+    é€€æ²»ã•ã‚Œã¾ã—ãŸ<end_line>
   </sjis>
   <ascii>
     Up ahead in Surange Mine was<end_line>
@@ -70,9 +70,9 @@
 <dialogue>
   <info box="simple">
   <sjis>
-    ‚µ‚©‚µA‚»‚Ì‘¼‚Ì‚Í‚®‚ê‚É‚à<end_line>
-    ƒLƒPƒ“‚È‚à‚Ì‚ª‚¢‚é‚Ì‚Å<end_line>
-    ‚¨o‚©‚¯‚ÌŽž‚É‚Í‚²’ˆÓ‚­‚¾‚³‚¢<paw><end_line>
+    ã—ã‹ã—ã€ãã®ä»–ã®ã¯ãã‚Œã«ã‚‚<end_line>
+    ã‚­ã‚±ãƒ³ãªã‚‚ã®ãŒã„ã‚‹ã®ã§<end_line>
+    ãŠå‡ºã‹ã‘ã®æ™‚ã«ã¯ã”æ³¨æ„ãã ã•ã„<paw><end_line>
   </sjis>
   <ascii>
     However, there are still other<end_line>
@@ -84,9 +84,9 @@
 <dialogue>
   <info box="simple">
   <sjis>
-    ‰½“x•Ší‚ÅUŒ‚‚µ‚Ä‚àƒ_ƒ[ƒW‚ª<end_line>
-    ‚P‚Ìê‡‚É‚ÍA–‚–@‚µ‚©Œø‚©‚È‚¢<end_line>
-    ‹°‚ë‚µ‚¢‘ŠŽè‚Ì‰Â”\«‚ª‚ ‚è‚Ü‚·<end_line>
+    ä½•åº¦æ­¦å™¨ã§æ”»æ’ƒã—ã¦ã‚‚ãƒ€ãƒ¡ãƒ¼ã‚¸ãŒ<end_line>
+    ï¼‘ã®å ´åˆã«ã¯ã€é­”æ³•ã—ã‹åŠ¹ã‹ãªã„<end_line>
+    æã‚ã—ã„ç›¸æ‰‹ã®å¯èƒ½æ€§ãŒã‚ã‚Šã¾ã™<end_line>
   </sjis>
   <ascii>
     If your weapon only deals <1> damage,<end_line>
@@ -97,20 +97,20 @@
 <dialogue>
   <info box="simple">
   <sjis>
-    ‰º‚ðŒ©‚ë«<end_line>
+    ä¸‹ã‚’è¦‹ã‚â†“<end_line>
   </sjis>
   <ascii>
-    Look down«<end_line>
+    Look downâ†“<end_line>
   </ascii>
 </dialogue>
 <dialogue>
   <info box="simple">
   <sjis>
-    ªã‚ðŒ©‚½‚¢Žž‚Í<end_line>
-    ‚r‚s‚`‚q‚sƒ{ƒ^ƒ“<end_line>
+    â†‘ä¸Šã‚’è¦‹ãŸã„æ™‚ã¯<end_line>
+    ï¼³ï¼´ï¼¡ï¼²ï¼´ãƒœã‚¿ãƒ³<end_line>
   </sjis>
   <ascii>
-    ªTo look up, press<end_line>
+    â†‘To look up, press<end_line>
     START.<end_line>
   </ascii>
 </dialogue>

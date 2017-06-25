@@ -3,7 +3,7 @@
   <portrait_l entry="player" eye="serious" mouth="neutral">
   <portrait_r entry="gallahan" eye="serious" mouth="neutral">
   <sjis>
-    ����ł͍ŏ��̖�肾<end_line>
+    それでは最初の問題だ<end_line>
   </sjis>
   <ascii>
     First question.<end_line>
@@ -14,7 +14,7 @@
   <portrait_l entry="player" eye="serious" mouth="neutral">
   <portrait_r entry="gallahan" eye="serious" mouth="neutral">
   <sjis>
-    �ł́A��肾<end_line>
+    では、問題だ<end_line>
   </sjis>
   <ascii>
     First question.<end_line>
@@ -25,8 +25,8 @@
   <portrait_l entry="player" eye="serious" mouth="neutral">
   <portrait_r entry="gallahan" eye="serious" mouth="tense">
   <sjis>
-    ����̎�ނ̓n���}�[���܂߂�<end_line>
-    �S���ł�������H<end_line>
+    武器の種類はハンマーも含めて<end_line>
+    全部でいくつある？<end_line>
   </sjis>
   <ascii>
     Including the hammer itself,<end_line>
@@ -39,14 +39,14 @@
   <portrait_r entry="gallahan" eye="serious" mouth="tense">
   <male>
     <sjis>
-      ����̎�ނ��ȁI<end_line>
-      ����Ȃ̌��܂��Ă邺<three_dots><end_line>
+      武器の種類だな！<end_line>
+      そんなの決まってるぜ<three_dots><end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ����̎�ނˁI<end_line>
-      ����Ȃ̌��܂��Ă��<three_dots><end_line>
+      武器の種類ね！<end_line>
+      そんなの決まってるよ<three_dots><end_line>
     </sjis>
   </female>
   <ascii>
@@ -60,7 +60,7 @@
   <portrait_r entry="gallahan" eye="serious" mouth="tense">
   <option>
     <sjis>
-      �T���<end_line>
+      ５種類<end_line>
     </sjis>
     <ascii>
       5 types<end_line>
@@ -68,7 +68,7 @@
   </option>
   <option>
     <sjis>
-      �U���<end_line>
+      ６種類<end_line>
     </sjis>
     <ascii>
       6 types<end_line>
@@ -76,7 +76,7 @@
   </option>
   <option>
     <sjis>
-      �V���<end_line>
+      ７種類<end_line>
     </sjis>
     <ascii>
       7 types<end_line>
@@ -88,9 +88,9 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="gallahan" eye="serious" mouth="neutral">
   <sjis>
-    ������<three_dots><end_line>
-    �܂��A����b��t�𖼏�邭�炢��<end_line>
-    ���̒��x�͒m���Ă��ē��R����<end_line>
+    そうだ<three_dots><end_line>
+    まあ、自ら鍛冶師を名乗るくらいだ<end_line>
+    この程度は知っていて当然だな<end_line>
   </sjis>
   <ascii>
     That's right<three_dots><end_line>
@@ -103,7 +103,7 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="gallahan" eye="serious" mouth="neutral">
   <sjis>
-    �Ȃ�Ύ��̖�肾<end_line>
+    ならば次の問題だ<end_line>
   </sjis>
   <ascii>
     Onto the next question.<end_line>
@@ -114,7 +114,7 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="gallahan" eye="serious" mouth="neutral">
   <sjis>
-    �ł́A��肾<end_line>
+    では、問題だ<end_line>
   </sjis>
   <ascii>
     Onto the next question.<end_line>
@@ -125,8 +125,8 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="gallahan" eye="serious" mouth="serious">
   <sjis>
-    ����̒��ōł��d�����̂�<end_line>
-    ���̂����ǂꂾ�H<end_line>
+    武器の中で最も重いものは<end_line>
+    次のうちどれだ？<end_line>
   </sjis>
   <ascii>
     Which one of the following<end_line>
@@ -139,14 +139,14 @@
   <portrait_r entry="gallahan" eye="serious" mouth="serious">
   <male>
     <sjis>
-      ��ԏd�����킾�ȁI<end_line>
-      ����Ȃ�<three_dots><end_line>
+      一番重い武器だな！<end_line>
+      それなら<three_dots><end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ��ԏd������ˁI<end_line>
-      ����Ȃ�<three_dots><end_line>
+      一番重い武器ね！<end_line>
+      それなら<three_dots><end_line>
     </sjis>
   </female>
   <ascii>
@@ -160,7 +160,7 @@
   <portrait_r entry="gallahan" eye="serious" mouth="serious">
   <option>
     <sjis>
-      �\�[�h<end_line>
+      ソード<end_line>
     </sjis>
     <ascii>
       Sword<end_line>
@@ -168,7 +168,7 @@
   </option>
   <option>
     <sjis>
-      �A�N�X<end_line>
+      アクス<end_line>
     </sjis>
     <ascii>
       Axe<end_line>
@@ -176,7 +176,7 @@
   </option>
   <option>
     <sjis>
-      �i�b�N��<end_line>
+      ナックル<end_line>
     </sjis>
     <ascii>
       Knuckle<end_line>
@@ -188,9 +188,9 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="gallahan" eye="serious" mouth="neutral">
   <sjis>
-    ������<end_line>
-    �Ȃ�قǁA�����͕���̐S����<end_line>
-    ����悤����<end_line>
+    そうだ<end_line>
+    なるほど、少しは武器の心得も<end_line>
+    あるようだな<end_line>
   </sjis>
   <ascii>
     Correct.<end_line>
@@ -203,7 +203,7 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="gallahan" eye="serious" mouth="neutral">
   <sjis>
-    �ł́A�Ō�̖�肾<end_line>
+    では、最後の問題だ<end_line>
   </sjis>
   <ascii>
     This is the final question.<end_line>
@@ -214,7 +214,7 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="gallahan" eye="serious" mouth="neutral">
   <sjis>
-    �Ō�̖�肾<end_line>
+    最後の問題だ<end_line>
   </sjis>
   <ascii>
     This is the final question.<end_line>
@@ -225,9 +225,9 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="gallahan" eye="decided" mouth="serious">
   <sjis>
-    �b��t�Ƃ���<end_line>
-    ����쐻�ōł���؂Ȃ��̂�<end_line>
-    ���̂����ǂꂾ�H<end_line>
+    鍛冶師として<end_line>
+    武器作製で最も大切なものは<end_line>
+    次のうちどれだ？<end_line>
   </sjis>
   <ascii>
     As a Craftknight,<end_line>
@@ -241,14 +241,14 @@
   <portrait_r entry="gallahan" eye="decided" mouth="serious">
   <male>
     <sjis>
-      ����쐻�ő�؂Ȃ���<three_dots>�H<end_line>
-      �����<three_dots><end_line>
+      武器作製で大切なもの<three_dots>？<end_line>
+      それは<three_dots><end_line>
     </sjis>
   </male>
   <female>
     <sjis>
-      ����쐻�ő�؂Ȃ���<three_dots>�H<end_line>
-      �����<three_dots><end_line>
+      武器作製で大切なもの<three_dots>？<end_line>
+      それは<three_dots><end_line>
     </sjis>
   </female>
   <ascii>
@@ -262,7 +262,7 @@
   <portrait_r entry="gallahan" eye="decided" mouth="serious">
   <option>
     <sjis>
-      ��������}�e��<end_line>
+      強い武器マテル<end_line>
     </sjis>
     <ascii>
       A strong Shapestone<end_line>
@@ -270,7 +270,7 @@
   </option>
   <option>
     <sjis>
-      �����ȍ����A�C�e��<end_line>
+      高価な合成アイテム<end_line>
     </sjis>
     <ascii>
       Quality ingredients<end_line>
@@ -278,7 +278,7 @@
   </option>
   <option>
     <sjis>
-      �������������n���}�[<end_line>
+      魂がこもったハンマー<end_line>
     </sjis>
     <ascii>
       A spirit-filled hammer<end_line>
@@ -290,8 +290,8 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="gallahan" eye="decided" mouth="talk">
   <sjis>
-    ����<three_dots><end_line>
-    �ǂ��������I<end_line>
+    うむ<three_dots><end_line>
+    良い答えだ！<end_line>
   </sjis>
   <ascii>
     Mm<three_dots><end_line>
@@ -303,7 +303,7 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="gallahan" eye="decided" mouth="serious">
   <sjis>
-    �s������<end_line>
+    不正解だ<end_line>
   </sjis>
   <ascii>
     Incorrect.<end_line>
@@ -314,8 +314,8 @@
   <portrait_l entry="player" eye="sad" mouth="serious">
   <portrait_r entry="gallahan" eye="serious" mouth="tense">
   <sjis>
-    �����b�Ƒ��k�ł�����<end_line>
-    �悭�l���Ă݂�񂾂ȁI<end_line>
+    召喚獣と相談でもして<end_line>
+    よく考えてみるんだな！<end_line>
   </sjis>
   <ascii>
     Consult your Summon Beast<end_line>
@@ -325,7 +325,7 @@
 <dialogue>
   <info box="nobox">
   <sjis>
-    �S�ĊԈႦ���ɐ����Ƃ�<three_dots><end_line>
+    全て間違えずに正解とは<three_dots><end_line>
   </sjis>
   <ascii>
     You got them all correct<three_dots><end_line>

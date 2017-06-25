@@ -1,15 +1,15 @@
 <location>
 	<sjis>
-		ГМГNГCВ╠РЕИтР╒<end_line>
+		уГмуВпуВдуБоц░┤щБ║ш╖б<end_line>
 	</sjis>
 </location>
 <location>
 	<sjis>
-		ГМГNГCВ╠РЕИтР╒Б@ГGГКГAВR<end_line>
+		уГмуВпуВдуБоц░┤щБ║ш╖буААуВиуГкуВвя╝У<end_line>
 	</sjis>
 </location>
 <popup>
 	<sjis>
-		М│ЛCВ╔В╚В┴В╜БI<end_line>
+		хЕГц░ЧуБлуБкуБгуБЯя╝Б<end_line>
 	</sjis>
 </popup>

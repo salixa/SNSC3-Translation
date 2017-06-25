@@ -1,30 +1,30 @@
 <location>
 	<sjis>
-		�����̉Ɓ@�L��<end_line>
+		村長の家　広間<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="chief">
 	<sjis>
-		�E�f���グ���悤����<end_line>
-		���x�͂��O�ɏC���𗊂ނƂ��邩<end_line>
+		ウデを上げたようだな<end_line>
+		今度はお前に修理を頼むとするか<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		�ŋ߁A�߂����蕽�a����<end_line>
-		������Ȃ�����<end_line>
-		����Ȃɋ������Ɍ����Ȃ����̎q�ł�<end_line>
+		最近、めっきり平和だね<end_line>
+		何が危ないって<end_line>
+		そんなに強そうに見えない女の子でも<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		���������������肷�邩��<end_line>
-		�C�������<end_line>
+		すごく強かったりするから<end_line>
+		気をつけろよ<end_line>
 	</sjis>
 </dialogue>

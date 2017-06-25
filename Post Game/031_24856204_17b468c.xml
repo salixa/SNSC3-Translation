@@ -1,79 +1,79 @@
 <location>
 	<sjis>
-		�v���X�o���̒�<end_line>
+		プロスバンの町<end_line>
 	</sjis>
 </location>
 <location>
 	<sjis>
-		�v���X�o���̒��@����<end_line>
+		プロスバンの町　西門<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="gatekeeper">
 	<sjis>
-		���a�Ȃ̂͂����񂾂���<end_line>
-		�ދ��Ȃ񂾂�ˁ`<end_line>
+		平和なのはいいんだけど<end_line>
+		退屈なんだよね～<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="child">
 	<sjis>
-		�˂��A�ł񂹂̂��������������悤��<end_line>
-		�{�N���ł񂹂̂�������<three_dots><end_line>
-		�L�~�́A���₩��<end_line>
+		ねぇ、でんせつのかじしごっこしようよ<end_line>
+		ボクがでんせつのかじしで<three_dots><end_line>
+		キミは、おやかた<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="child">
 	<sjis>
-		�����A�����������邱�Ƃ͂Ȃ������<end_line>
-		�{�N���ق߂�<end_line>
+		もう、何もおしえることはないよって<end_line>
+		ボクをほめて<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		���܂ł������x����Ă��݂����ł�<end_line>
-		�ł��~���[�^���E������<end_line>
-		�{�N���ʓ|���܂���<end_line>
+		今までずっと騙されてたみたいです<end_line>
+		でもミョータロウだけは<end_line>
+		ボクが面倒見ますよ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		�������낻��}�L�ł�����Ȃ������H<end_line>
-		�@�@�@�@�@�@�@�@�}�L���₶�̓Ƃ茾<end_line>
+		さぁそろそろマキでも割らないかい？<end_line>
+		　　　　　　　　マキおやじの独り言<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		��������Ă��c�C�ĂȂ�������<end_line>
-		�������<end_line>
+		何をやってもツイてない日って<end_line>
+		あるもんだ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		�G�����l���u���������v����<end_line>
-		�����Ă��悤�ȋC�����邵<end_line>
+		エラい人も「日が悪い」って<end_line>
+		いってたような気がするし<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		�@<end_line>
-		�@�@<black_dot><left_arrow>�̂�����<end_line>
-		�@<end_line>
+		　<end_line>
+		　　<black_dot><left_arrow>のぞき穴<end_line>
+		　<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		�S������������ׂ񂵂�<end_line>
+		ゴメンもうかんべんして<end_line>
 	</sjis>
 </dialogue>

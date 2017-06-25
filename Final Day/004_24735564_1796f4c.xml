@@ -1,14 +1,14 @@
 <location>
 	<sjis>
-		ƒxƒ“ƒ\ƒ“H–[@ƒGƒ“ƒgƒ‰ƒ“ƒX<end_line>
+		ãƒ™ãƒ³ã‚½ãƒ³å·¥æˆ¿ã€€ã‚¨ãƒ³ãƒˆãƒ©ãƒ³ã‚¹<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="tier">
 	<sjis>
-		‰½‚©‚ ‚Á‚½‚ç’m‚ç‚¹‚És‚­‚©‚ç<end_line>
-		<player_nickname>‚½‚¿‚à‚ª‚ñ‚Î‚Á‚Ä‚Ë<end_line>
+		ä½•ã‹ã‚ã£ãŸã‚‰çŸ¥ã‚‰ã›ã«è¡Œãã‹ã‚‰<end_line>
+		<player_nickname>ãŸã¡ã‚‚ãŒã‚“ã°ã£ã¦ã­<end_line>
 	</sjis>
   <ascii>
     I'll let you know if something happens.<end_line>
@@ -19,8 +19,8 @@
 	<info box="simple">
 	<portrait_l name="elieze">
 	<sjis>
-		ƒ~ƒ…[ƒm‚¨‚Ë[‚¿‚á‚ñ‚Í<end_line>
-		ƒhƒR‚É‚¢‚Á‚½‚Ì‚©‚ÈH<end_line>
+		ãƒŸãƒ¥ãƒ¼ãƒŽãŠã­ãƒ¼ã¡ã‚ƒã‚“ã¯<end_line>
+		ãƒ‰ã‚³ã«ã„ã£ãŸã®ã‹ãªï¼Ÿ<end_line>
 	</sjis>
   <ascii>
     I wonder where<end_line>
@@ -31,8 +31,8 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		ƒxƒ“ƒ\ƒ“e•û‚Í‚©‚È‚è—Ç‚­‚È‚Á‚½‚¯‚Ç<end_line>
-		‚Ü‚¾ƒ€ƒŠ‚Í‚³‚¹‚È‚¢•û‚ª‚¢‚¢‚æ<end_line>
+		ãƒ™ãƒ³ã‚½ãƒ³è¦ªæ–¹ã¯ã‹ãªã‚Šè‰¯ããªã£ãŸã‘ã©<end_line>
+		ã¾ã ãƒ ãƒªã¯ã•ã›ãªã„æ–¹ãŒã„ã„ã‚ˆ<end_line>
 	</sjis>
   <ascii>
     Master Benson has improved greatly,<end_line>
@@ -43,8 +43,8 @@
 <dialogue>
   <info box="simple">
   <sjis>
-    •Ší‚ð’b‚¦‚é‘O‚É<end_line>
-    ‚Ü‚¸‚ÍŒÈ‚ð’b‚¦‚é‚×‚µ<end_line>
+    æ­¦å™¨ã‚’é›ãˆã‚‹å‰ã«<end_line>
+    ã¾ãšã¯å·±ã‚’é›ãˆã‚‹ã¹ã—<end_line>
   </sjis>
   <ascii>
     Before you can forge weapons,<end_line>
@@ -55,9 +55,9 @@
 <dialogue>
   <info box="simple">
   <sjis>
-    @ƒƒGƒŠƒG‚©‚ç‚Ì‚¨‚Ë‚ª‚¢<music_note><end_line>
-    ‚Â‚©‚Á‚½‚Ç‚¤‚®‚ÍA‚¿‚á‚ ‚ñ‚Æ<end_line>
-    ‚à‚Æ‚Ì‚Î‚µ‚å‚É@‚à‚Ç‚µ‚Ä‚ËI<end_line>
+    ã€€ï¼œã‚¨ãƒªã‚¨ã‹ã‚‰ã®ãŠã­ãŒã„<music_note><end_line>
+    ã¤ã‹ã£ãŸã©ã†ãã¯ã€ã¡ã‚ƒã‚ã‚“ã¨<end_line>
+    ã‚‚ã¨ã®ã°ã—ã‚‡ã«ã€€ã‚‚ã©ã—ã¦ã­ï¼<end_line>
   </sjis>
   <ascii>
     <less_than>A Request from Elieze<music_note><greater_than><end_line>

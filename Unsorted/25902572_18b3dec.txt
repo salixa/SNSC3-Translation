@@ -1,10 +1,10 @@
 <location>
 	<sjis>
-		�S���@���̈��<end_line>
+		ゴヴァンの遺跡<end_line>
 	</sjis>
 </location>
 <location>
 	<sjis>
-		�S���@���̈�Ձ@�]���̊�<end_line>
+		ゴヴァンの遺跡　転送の間<end_line>
 	</sjis>
 </location>

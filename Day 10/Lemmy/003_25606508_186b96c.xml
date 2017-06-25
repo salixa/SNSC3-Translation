@@ -4,12 +4,12 @@
 	<portrait_r entry="zakk" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
-			���O�A�P�K�͑��v�Ȃ̂��H<end_line>
+			お前、ケガは大丈夫なのか？<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			���Ȃ��A�P�K�͑��v�Ȃ́H<end_line>
+			あなた、ケガは大丈夫なの？<end_line>
 		</sjis>
 	</female>
   <ascii>
@@ -21,8 +21,8 @@
 	<portrait_l entry="player" eye="serious" mouth="tense">
 	<portrait_r entry="zakk" eye="decided" mouth="talk">
 	<sjis>
-		����I<end_line>
-		���̂��炢�A�ւ�����炳<end_line>
+		うん！<end_line>
+		あのくらい、へっちゃらさ<end_line>
 	</sjis>
   <ascii>
     Totally fine!<end_line>
@@ -35,14 +35,14 @@
 	<portrait_r entry="zakk" eye="decided" mouth="talk">
 	<male>
 		<sjis>
-			�ǂ�����<three_dots><end_line>
-			�݂�ȐS�z���Ă���<end_line>
+			良かった<three_dots><end_line>
+			みんな心配してたぞ<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�ǂ�����<three_dots><end_line>
-			�݂�ȐS�z���Ă���<end_line>
+			良かった<three_dots><end_line>
+			みんな心配してたよ<end_line>
 		</sjis>
 	</female>
   <ascii>
@@ -55,8 +55,8 @@
 	<portrait_l entry="player" eye="serious" mouth="talk">
 	<portrait_r entry="zakk" eye="sad" mouth="tense">
 	<sjis>
-		���A����<three_dots><end_line>
-		���߂�<three_dots><end_line>
+		あ、うん<three_dots><end_line>
+		ごめん<three_dots><end_line>
 	</sjis>
   <ascii>
     Ah, yeah<three_dots><end_line>
@@ -69,16 +69,16 @@
 	<portrait_r entry="zakk" eye="sad" mouth="tense">
 	<male>
 		<sjis>
-			���O������܂邱�ƂȂ���<end_line>
-			�ł��A���x����͂���܂�<end_line>
-			���`���Ȃ��Ƃ���Ȃ�ȁI<end_line>
+			お前があやまることないよ<end_line>
+			でも、今度からはあんまり<end_line>
+			ムチャなことすんなよな！<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			���Ȃ�������܂邱�ƂȂ���<end_line>
-			�ł��A���x����͂���܂�<end_line>
-			���`���Ȃ��Ƃ��Ȃ��łˁI<end_line>
+			あなたがあやまることないよ<end_line>
+			でも、今度からはあんまり<end_line>
+			ムチャなことしないでね！<end_line>
 		</sjis>
 	</female>
   <ascii>
@@ -92,7 +92,7 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="zakk" eye="decided" mouth="neutral">
 	<sjis>
-		�����������I<end_line>
+		そっちこそ！<end_line>
 	</sjis>
   <ascii>
     Right back at you!<end_line>

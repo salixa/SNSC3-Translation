@@ -1,25 +1,25 @@
 <location>
 	<sjis>
-		�}�[�l�C���h��<end_line>
+		マーネイル宿場<end_line>
 	</sjis>
 </location>
 <location>
 	<sjis>
-		�}�[�l�C���h��@�قق��ݒ��O<end_line>
+		マーネイル宿場　ほほえみ亭前<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		�Ȃ��Ȃ��ǂ������ˁA����<end_line>
+		なかなか良い所だね、ここ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		�h��������<end_line>
-		���낢����ĕ֗����<end_line>
+		ドリルって<end_line>
+		いろいろ削れて便利よね<end_line>
 	</sjis>
 </dialogue>

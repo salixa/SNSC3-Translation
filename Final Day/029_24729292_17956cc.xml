@@ -1,53 +1,53 @@
 <location>
 	<sjis>
-		�v���X�o���̒��@�Z��X�K�i<end_line>
+		プロスバンの町　住宅街階段<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		�@<end_line>
-		�@�@�@�@�@�@�`���ށI�`<end_line>
+		　<end_line>
+		　　　　　　～求む！～<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		�G���K����T���Ă��܂�<end_line>
-		�N�������Ă���Ƃ���m��܂��񂩁H<end_line>
+		エンガワを探しています<end_line>
+		誰か売っているところ知りませんか？<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		�@<end_line>
-		�@�@�@�@�@�@�@�@�@�@�@�@<black_dot><left_arrow>�̂�����<end_line>
+		　<end_line>
+		　　　　　　　　　　　　<black_dot><left_arrow>のぞき穴<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		����������C�t���܂��傤��<end_line>
+		いいかげん気付きましょうよ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		�@<end_line>
-		�@�@�@�@�@�@<paw>�ӂނӂ�<paw><end_line>
+		　<end_line>
+		　　　　　　<paw>ふむふむ<paw><end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		�h�����̂���D���Ȑl��<end_line>
-		�l�R���D���炵����<end_line>
+		辛いものが大好きな人は<end_line>
+		ネコも好きらしいよ<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		���̊O�ł͑����̂͂��ꂪ�o��<end_line>
-		���o���鎞�͏�������������ȁI<end_line>
+		町の外では多くのはぐれが出る<end_line>
+		遠出する時は準備をおこたるな！<end_line>
 	</sjis>
 </dialogue>

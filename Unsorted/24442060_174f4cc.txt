@@ -1,14 +1,14 @@
 <location>
 	<sjis>
-		ƒ{ƒXƒ^ƒtH–[@ƒfƒBƒbƒNƒ‹‘ºŽx•”<end_line>
+		ãƒœã‚¹ã‚¿ãƒ•å·¥æˆ¿ã€€ãƒ‡ã‚£ãƒƒã‚¯ãƒ«æ‘æ”¯éƒ¨<end_line>
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		ƒ`ƒb<end_line>
-		ƒUƒbƒN‚ª‚¢‚Ë‚¥‚©‚ç<end_line>
-		Žg‚¢‚Éo‚¹‚éƒ„ƒc‚ª‚¢‚Ë‚¥<end_line>
+		ãƒãƒƒ<end_line>
+		ã‚¶ãƒƒã‚¯ãŒã„ã­ã‡ã‹ã‚‰<end_line>
+		ä½¿ã„ã«å‡ºã›ã‚‹ãƒ¤ãƒ„ãŒã„ã­ã‡<end_line>
 	</sjis>
 </dialogue>

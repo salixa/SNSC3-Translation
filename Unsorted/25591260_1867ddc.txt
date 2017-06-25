@@ -3,7 +3,7 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="tier" eye="serious" mouth="neutral">
 	<sjis>
-		�����قق��ݒ��Ɍ������܂���<end_line>
+		早くほほえみ亭に向かいましょ<end_line>
 	</sjis>
 </dialogue>
 <choice>
@@ -12,12 +12,12 @@
 	<portrait_r entry="tier" eye="serious" mouth="neutral">
 	<option>
 		<sjis>
-			���Ⴀ�o�����悤<end_line>
+			じゃあ出発しよう<end_line>
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			�܂��������ł��ĂȂ���<end_line>
+			まだ準備ができてないよ<end_line>
 		</sjis>
 	</option>
 </choice>
@@ -27,14 +27,14 @@
 	<portrait_r entry="tier" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
-			�������邩��<end_line>
-			������Ƒ҂��ĂĂ����<end_line>
+			準備するから<end_line>
+			ちょっと待っててくれよ<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			�������邩��<end_line>
-			������Ƒ҂��Ă�<end_line>
+			準備するから<end_line>
+			ちょっと待ってて<end_line>
 		</sjis>
 	</female>
 </dialogue>
@@ -43,22 +43,22 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="tier" eye="serious" mouth="tense">
 	<sjis>
-		���Ⴀ�����ő҂��Ă邩��<end_line>
-		�������Ă�<end_line>
+		じゃあここで待ってるから<end_line>
+		早くしてね<end_line>
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="nobox">
 	<male>
 		<sjis>
-			�킩����<end_line>
-			�s����<end_line>
+			わかった<end_line>
+			行くよ<end_line>
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			���ꂶ�Ⴀ<end_line>
-			�s������<end_line>
+			それじゃあ<end_line>
+			行こっか<end_line>
 		</sjis>
 	</female>
 </dialogue>
