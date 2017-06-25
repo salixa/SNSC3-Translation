@@ -50,6 +50,7 @@
   </sjis>
   <ascii>
     G<three_dots>gr<three_dots>rrr<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -328,6 +329,7 @@
     Lemmy, know this<three_dots><end_line>
     I will not hesitate to<end_line>
     cut you down if I must!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -499,7 +501,7 @@
   <ascii>
     It Only Grazed Me<three_dots><end_line>
     But This Much Damage<three_dots><end_line>
-  </asciic>
+  </ascii>
 </dialogue>
 <dialogue>
   <partner name="enzi">

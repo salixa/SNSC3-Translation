@@ -108,7 +108,7 @@
     </sjis>
     <ascii>
       Shit<three_dots><end_line>
-      What should I do<three_dots.<end_line>
+      What should I do<three_dots><end_line>
     </ascii>
   </male>
   <female>
@@ -253,6 +253,7 @@
   <ascii>
     How pathetic<three_dots><end_line>
     Have more faith in <partner>.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="left">

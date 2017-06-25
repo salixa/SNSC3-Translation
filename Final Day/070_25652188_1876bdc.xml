@@ -80,7 +80,7 @@
     Release Lady Murno,<end_line>
     And There Is No Longer Any<end_line>
     Need For Us To Do So<end_line>
-  </screen>
+  </ascii>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -576,7 +576,7 @@
   </sjis>
   <ascii>
     Partner,<end_line>
-    Are You Okay?<end_line.
+    Are You Okay?<end_line>
   </ascii>
 </dialogue>
 <dialogue>

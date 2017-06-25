@@ -8,6 +8,7 @@
   <ascii>
     There you are<three_dots><end_line>
     I'm tired of waiting<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -254,7 +255,7 @@
   </female>
   <ascii>
     Oh, shut up!<end_line>
-    I still have things I want to ask you!<end_line.>
+    I still have things I want to ask you!<end_line>
   </ascii>
 </dialogue>
 <dialogue>

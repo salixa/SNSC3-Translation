@@ -99,6 +99,7 @@
     There's also that business with Bostaph<end_line>
     and Velworen, so I think we'll end up<end_line>
     meeting with the Gold Faction too.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -1294,7 +1295,7 @@
     どうか、お元気で<three_dots><end_line>
   </sjis>
   <ascii>
-    Uu, Lady Murno<three><end_line>
+    Uu, Lady Murno<three_dots><end_line>
     This is farewell for a little while<three_dots><end_line>
     Please, stay healthy<three_dots><end_line>
   </ascii>

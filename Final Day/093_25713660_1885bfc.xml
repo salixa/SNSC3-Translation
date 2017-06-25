@@ -294,6 +294,7 @@
   <ascii>
     I<three_dots> don't want this<three_dots><end_line>
     Summon!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <player gender="female">
@@ -593,6 +594,7 @@
   <ascii>
     Could it be<three_dots><end_line>
     You intend to give up now?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="left">

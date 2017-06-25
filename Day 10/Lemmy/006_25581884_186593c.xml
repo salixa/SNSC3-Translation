@@ -35,7 +35,7 @@
     You know<three_dots><end_line>
     If you hesitate,<end_line>
     we can't have a good fight.<end_line>
-  <?ascii>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -48,6 +48,7 @@
   <ascii>
     Wha<three_dots><end_line>
     you think I'm not trying<three_dots>?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="left">

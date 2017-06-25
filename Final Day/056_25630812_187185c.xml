@@ -521,6 +521,7 @@
   <ascii>
     Tch<three_dots><end_line>
     Velworen, huh.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -985,6 +986,7 @@
   <ascii>
     Fu<three_dots><end_line>
     They're like demons.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <partner name="killfith">

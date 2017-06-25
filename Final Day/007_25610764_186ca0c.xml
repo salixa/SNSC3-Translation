@@ -382,6 +382,7 @@
     What is it now<three_dots><end_line>
     You aren't going to come<end_line>
     with us anyway, right?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -655,6 +656,7 @@
     Hey<three_dots>!<end_line>
     I'm not finished<end_line>
     speaking yet<three_dots>!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="right">

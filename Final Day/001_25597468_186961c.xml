@@ -304,7 +304,7 @@
     At the time,<end_line>
     I was out with Murno<three_dots><end_line>
     I couldn't stop him<three_dots><end_line>
-  <a/screen>
+  </ascii>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -530,6 +530,7 @@
   <ascii>
     What?<end_line>
     This unpleasent feeling<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="right">

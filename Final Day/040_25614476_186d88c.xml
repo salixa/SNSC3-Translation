@@ -300,7 +300,7 @@
   <ascii>
     Wh<three_dots><end_line>
     What is the meaning of this!?<end_line>
-  </ascii.
+  </ascii>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -504,7 +504,7 @@
   </sjis>
   <ascii>
     I'm sorry,<end_line>
-    <player_nickname>, <partner><three_dots><edition>
+    <player_nickname>, <partner><three_dots><end_line>
     Please, don't follow us<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -574,8 +574,8 @@
     ミューノ！<end_line>
   </sjis>
   <ascii>
-    murno!<end_line>
-  </ascii.
+    Murno!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="left">

@@ -40,6 +40,7 @@
   <ascii>
     Wha<three_dots><end_line>
     For what<three_dots>?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -287,7 +288,7 @@
   </sjis>
   <ascii>
     <three_dots>?<end_line>
-  </ascii.
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -762,7 +763,7 @@
     It's fine<three_dots>with her taken care of<three_dots><end_line>
     I can fully devote my efforts<end_line>
     towards you.<end_line>
-  <a/scare>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="left">

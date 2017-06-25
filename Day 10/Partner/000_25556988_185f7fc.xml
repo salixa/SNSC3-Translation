@@ -107,7 +107,7 @@
     A Favorite<three_dots><end_line>
     I Do Not Like Nor Dislike<end_line>
     Any of The Weapons We've Crafted.<end_line>
-  <?ascii>
+  </ascii>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -379,7 +379,7 @@
   <ascii>
     Understood.<end_line>
     Thank You Very Much.<end_line>
-  </screen>
+  </ascii>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -1441,7 +1441,7 @@
     What!?<end_line>
     Argh, alright, let's do this!<end_line>
     Let's have a match!<end_line>
-  </ascii.
+  </ascii>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -1621,6 +1621,7 @@
   <ascii>
     But that's so reckless<three_dots><end_line>
     It's definitely better if we didn't<three_dots><end_line>
+  </ascii>
 </dialogue>
 <bigtext>
   <partner name="rufeel">

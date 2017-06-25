@@ -483,6 +483,7 @@
     <player_nickname> will do something<end_line>
     about Murno.<end_line>
     You should return to the workshop.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
