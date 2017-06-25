@@ -9,7 +9,7 @@
   <ascii>
     Don't wander off too much.<end_line>
     This place can be confusing.<end_line>
-  <ascii>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -583,6 +583,7 @@
     more victims, and<three_dots><end_line>
     to at least protect the<end_line>
     Phantom Dragon<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="right">

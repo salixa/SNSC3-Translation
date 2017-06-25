@@ -26,6 +26,10 @@ def replacePseudoXml(bytes):
   bytes = bytes.replace(constants.MUSIC_NOTE_OPEN, constants.MUSIC_NOTE_CLOSED)
   bytes = bytes.replace(constants.OPTION_1_OPEN, constants.OPTION_1_CLOSED)
   bytes = bytes.replace(constants.OPTION_2_OPEN, constants.OPTION_2_CLOSED)
+  bytes = bytes.replace(constants.LESSER_THAN_OPEN, constants.LESSER_THAN_CLOSED)
+  bytes = bytes.replace(constants.GREATER_THAN_OPEN, constants.GREATER_THAN_CLOSED)
+  bytes = bytes.replace(constants.BLACK_DOT_OPEN, constants.BLACK_DOT_CLOSED)
+  bytes = bytes.replace(constants.LEFT_ARROW_OPEN, constants.LEFT_ARROW_CLOSED)
 
 
   return bytes

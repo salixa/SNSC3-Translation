@@ -130,6 +130,7 @@
   <ascii>
     Certainly, Red Wing seemed as<end_line>
     if it were already quite tired.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -318,6 +319,7 @@
     Anyways, leave the rest to me.<end_line>
     You guys fall back!<end_line>
     Because<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -567,7 +569,7 @@
     なぜなら<three_dots><end_line>
   </sjis>
   <ascii>
-    So, you guys beat Red Wing<three><end_line>
+    So, you guys beat Red Wing<three_dots><end_line>
     But it's too bad for you guys.<end_line>
     Because<three_dots><end_line>
   </ascii>

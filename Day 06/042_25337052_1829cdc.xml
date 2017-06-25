@@ -105,6 +105,7 @@
   <ascii>
     I didn't think you'd<end_line>
     actually believe me.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -599,7 +600,6 @@
     I didn't expect you to<end_line>
     believe me anyway.<end_line>
   </ascii>
- </ascii>
 </dialogue>
 <dialogue>
   <partner name="killfith">

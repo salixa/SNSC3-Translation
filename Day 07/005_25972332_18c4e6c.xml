@@ -33,6 +33,7 @@
   <ascii>
     You know, <weapon_type><end_line>
     is my favorite.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -145,6 +146,7 @@
     <weapon_type> you know,<end_line>
     the way they feel is irresistable.<end_line>
     It'l take your breath away.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -182,6 +184,7 @@
   <ascii>
     They've gotten popular with some<end_line>
     people and can fetch a high price.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="simple">

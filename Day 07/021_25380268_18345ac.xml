@@ -22,6 +22,7 @@
     Mmm<three_dots><end_line>
     That unpleasent feeling<end_line>
     has grown stronger<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -35,7 +36,8 @@
   <ascii>
     Tch<three_dots><end_line>
     That unpleasent feeling<end_line>
-    is stronger here.<end_line>
+    is strnger here.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -50,6 +52,7 @@
     Uu<three_dots><end_line>
     For some reason, this room gives<end_line>
     off an unpleasent feeling<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="right">

@@ -24,6 +24,7 @@
     About that<three_dots><end_line>
     They said they wanted to be<end_line>
     present for the match.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -318,6 +319,7 @@
     If you surrender, are unable to<end_line>
     continue fighting, or your weapon<end_line>
     breaks, you lose.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -346,6 +348,7 @@
     There are many Summon Beasts inside<end_line>
     meant to guard the ruins.<end_line>
   </ascii>
+</dialogue>
 <dialogue>
   <info box="left">
   <portrait_l entry="murno" eye="sad" mouth="serious">

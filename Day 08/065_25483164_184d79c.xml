@@ -390,6 +390,7 @@
     them not to mess with us!<end_line>
     What about you, are you okay?<end_line>
   </ascii>
+</dialogue>
 <dialogue>
   <player gender="male">
   <partner name="enzi">

@@ -206,6 +206,7 @@
     That's right.<end_line>
     <player_nickname> wants to show you how cool<end_line>
     they are, Lady Murno.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -390,11 +391,11 @@
     私も立ち会っちゃ<end_line>
     いけませんか？<end_line>
   </sjis>
-  <a>
-    Um<td><e>
-    Am I not allowed<e>
-    to be a witness?<e>
-  </a>
+  <ascii>
+    Um<three_dots><end_line>
+    Am I not allowed<end_line>
+    to be a witness?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -448,6 +449,7 @@
     Mm<three_dots>, I see<three_dots><end_line>
     Then,<end_line>
     I'll see what Tram thinks.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -503,6 +505,7 @@
     If Murno think's its okay, then<end_line>
     I'll be a witness too.<end_line>
     There should be no complaints.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <partner name="rufeel">

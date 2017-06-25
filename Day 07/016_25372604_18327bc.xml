@@ -142,6 +142,7 @@
   <ascii>
     It'll be okay, Lady Murno.<end_line>
     If it's <player_nickname>, I'm sure<three_dots>!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -165,6 +166,7 @@
   <ascii>
     You're right<three_dots><end_line>
     I believe in <player_nickname> too<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="both">
@@ -197,7 +199,7 @@
 	</sjis>
   <ascii>
     Begin!<end_line>
-  </end_line>
+  </ascii>
 </bigtext>
 <dialogue>
 	<info box="right">

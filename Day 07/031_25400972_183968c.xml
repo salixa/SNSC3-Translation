@@ -9,6 +9,7 @@
   <ascii>
     Are you ready to<end_line>
     leave the village?<end_line>
+  </ascii>
 </dialogue>
 <choice>
   <info box="left">
