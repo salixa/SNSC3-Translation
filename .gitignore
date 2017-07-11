@@ -2,3 +2,5 @@ ScriptValidator/.idea/*
 ScriptValidator/__pycache__/*
 __pycache__/*
 *.pyc
+scriptTXT/*
+sn3_export_story/*

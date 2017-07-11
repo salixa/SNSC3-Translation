@@ -907,12 +907,6 @@
   <sjis>
     ミューノ<three_dots><end_line>
   </sjis>
-  <dialogue>
-  <info box="left">
-  <portrait_l entry="player" eye="sad" mouth="tense">
-  <sjis>
-    ミューノ<three_dots><end_line>
-  </sjis>
   <ascii>
     Murno<three_dots><end_line>
   </ascii>
