@@ -1353,7 +1353,7 @@
     ま、あるイミおどろきだな<end_line>
   </sjis>
   <ascii>
-    Well, it is a surprise, in a sense.<end_line>
+    Ain't that sad.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1367,8 +1367,9 @@
       たしかにおどろきだ<end_line>
     </sjis>
     <ascii>
-      Heh<three_dots>Heheh<three_dots><end_line>
-      It surely is surprising.<end_line>
+      Hehe<three_dots> Yeah<three_dots><end_line>
+      This isn't what I<end_line>
+      was expecting<three_dots><end_line>
     </ascii>
   </male>
   <female>
@@ -1376,7 +1377,8 @@
       自分でもビックリだよ<end_line>
     </sjis>
     <ascii>
-      Even I'm surprised!<end_line>
+      This isn't what I<end_line>
+      expected either!<end_line>
     </ascii>
   </female>
 </dialogue>
@@ -1447,7 +1449,7 @@
   </sjis>
   <ascii>
     What's that?<end_line>
-    Cat got your tongue?<end_line>
+    Too scared?<end_line>
     C'mon, we're outta here.<end_line>
   </ascii>
 </dialogue>
@@ -1471,7 +1473,7 @@
     うるせぇんだよ<end_line>
   </sjis>
   <ascii>
-    Oh shut it!<end_line>
+    Oh quit yer whining!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1509,7 +1511,7 @@
   </sjis>
   <ascii>
     I told you to be quiet.<end_line>
-    Your voice is a pain in the ears.<end_line>
+    Your voice defiles my ears.<end_line>
     Don't open your mouth.<end_line>
   </ascii>
 </dialogue>
@@ -1525,7 +1527,7 @@
   </sjis>
   <ascii>
     What was that, you brat!<end_line>
-    Watch how your language!<end_line>
+    Watch your language!<end_line>
     I'll send you flying!<end_line>
   </ascii>
 </dialogue>
@@ -1540,7 +1542,7 @@
     脳をゴミにでも出したか？<end_line>
   </sjis>
   <ascii>
-    You bastard<three_dots><end_line>
+    <three_dots><end_line>
     So you can't even stay quiet?<end_line>
     Is your brain rotten?<end_line>
   </ascii>
@@ -1554,7 +1556,7 @@
     てめぇ！<end_line>
   </sjis>
   <ascii>
-    You!<end_line>
+    Why you<three_dots>!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1578,7 +1580,7 @@
     ジャマすんな！<end_line>
   </sjis>
   <ascii>
-    Get outta the way!<end_line>
+    Outta the way!<end_line>
   </ascii>
 </dialogue>
 <bigtext>
@@ -1613,7 +1615,7 @@
     存在だ<three_dots><end_line>
   </sjis>
   <ascii>
-    It's not just your mouth, huh<three_dots><end_line>
+    It's not just your mouth<three_dots><end_line>
     It's your entire existence<three_dots><end_line>
   </ascii>
 </dialogue>

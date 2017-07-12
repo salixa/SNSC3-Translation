@@ -117,7 +117,7 @@
   </sjis>
   <ascii>
     Oooh!<end_line>
-    This kid's a girl!<end_line>
+    It's a girl!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -127,7 +127,7 @@
     待てよ！<end_line>
   </sjis>
   <ascii>
-    Wait up!<end_line>
+    Hold on!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -161,7 +161,7 @@
     そんな<three_dots><end_line>
   </sjis>
   <ascii>
-    No way<three_dots><end_line>
+    But<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>

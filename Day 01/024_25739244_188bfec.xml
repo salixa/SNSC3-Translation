@@ -26,11 +26,11 @@
       さっきの子はなんかあやしいよ<end_line>
       とにかく追いかけてみよう！<end_line>
     </sjis>
-    <ascii>
-      That kid earlier was suspicious.<end_line>
-      I'll try going after her!<end_line>
-    </ascii>
   </female>
+  <ascii>
+    That girl was way too suspicious.<end_line>
+    I need to find her!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="simple">

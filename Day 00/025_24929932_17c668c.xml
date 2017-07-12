@@ -469,8 +469,7 @@
     まだそんな口がきけるとはな<end_line>
   </sjis>
   <ascii>
-    You bastard.<end_line>
-    Still talking<three_dots>?<end_line>
+    You're still talking<three_dots>?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -496,7 +495,7 @@
   </sjis>
   <ascii>
     <three_dots><end_line>
-    You're an eyesore<three_dots><end_line>
+    Get out of my sight<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -963,8 +962,8 @@
   </sjis>
   <ascii>
     Ah!<end_line>
-    I'm <player_name>,<end_line>
-    a Craftknight! <three_dots>In training.<end_line>
+    I'm <player_name>,  a Craftknight!<end_line>
+    <three_dots>In training.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1007,7 +1006,8 @@
     鍛冶師？<end_line>
   </sjis>
   <ascii>
-    Craft, Knight?<end_line>
+    Craftknight?<end_line>
+    What's that?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1027,8 +1027,8 @@
     </sjis>
   </female>
   <ascii>
-    An expert in crafting weapons and<end_line>
-    a master of the sword!<end_line>
+    An expert in crafting weapons<end_line>
+    and a master of the sword!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1146,7 +1146,7 @@
     本当、なの<three_dots>？<end_line>
   </sjis>
   <ascii>
-    Is that, true<three_dots>?<end_line>
+    Is that true<three_dots>?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1217,7 +1217,7 @@
   </sjis>
   <ascii>
     Oh, <player_nickname>.<end_line>
-    Who's that kid?<end_line>
+    Who's the kid?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1238,9 +1238,9 @@
     </sjis>
   </female>
   <ascii>
-    Master,<end_line>
-    I found it!<end_line>
-    The Summon Beast that hurt you.<end_line>
+    Master!<end_line>
+    I found the Summon Beast<end_line>
+    that hurt you.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1271,7 +1271,7 @@
     </sjis>
   </female>
   <ascii>
-    It's this one.<end_line>
+    Right here.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
