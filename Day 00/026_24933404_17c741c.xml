@@ -37,8 +37,8 @@
   </sjis>
   <ascii>
     That Summon Stone has high purity.<end_line>
-    There's a trick to using it,<end_line>
-    you were lucky it even worked.<end_line>
+    There's a trick to using it.<end_line>
+    You were lucky it even worked.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -56,7 +56,7 @@
     </sjis>
   </female>
   <ascii>
-    As expected from me!<end_line>
+    Heh, no problem!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -94,8 +94,8 @@
     アタシとバッタリ<end_line>
   </sjis>
   <ascii>
-    <partner> came to my place<end_line>
-    looking for Murno's food,<end_line>
+    Anyways, <partner> came here<end_line>
+    looking for food,<end_line>
     and ran into me.<end_line>
   </ascii>
 </dialogue>
@@ -273,9 +273,9 @@
     ドロボウなんてしようとしないでさ<end_line>
   </sjis>
   <ascii>
-    If it was just food,<end_line>
+    If all you wanted was food,<end_line>
     you should've said so<three_dots><end_line>
-    Instead of acting like a thief.<end_line>
+    Instead of acting so suspiciously.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -299,9 +299,9 @@
     アンタ、一体なにがあったんだい？<end_line>
   </sjis>
   <ascii>
-    <three_dots>Well, you're dressed like that,<end_line>
-    So you must have your reasons.<end_line>
-    What in the world happened with you?<end_line>
+    <three_dots>Well, dressed like that,<end_line>
+    I'm sure you must have your reasons.<end_line>
+    What in the world happened to you?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -324,8 +324,7 @@
     どうするつもりなんだい？<end_line>
   </sjis>
   <ascii>
-    Well then, what do you<end_line>
-    plan to do after this?<end_line>
+    What do you plan to do now?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -406,7 +405,7 @@
   </sjis>
   <ascii>
     Then, how about<end_line>
-    staying at my place?<end_line>
+    staying at our place?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -509,7 +508,7 @@
   </sjis>
   <ascii>
     Let's see<three_dots><end_line>
-    Murno does the housework in general.<end_line>
+    You can do the homekeeping.<end_line>
     And <partner><three_dots><end_line>
   </ascii>
 </dialogue>
@@ -540,7 +539,7 @@
     </sjis>
   </female>
   <ascii>
-    Mine?<end_line>
+    Assistant?<end_line>
     So we'll be smithing together?<end_line>
   </ascii>
 </dialogue>
@@ -555,7 +554,7 @@
   </sjis>
   <ascii>
     That's right.<end_line>
-    Crafting with a Summon Beast is a<end_line>
+    Smithing with a Summon Beast is a<end_line>
     part of a Craftknight's training.<end_line>
   </ascii>
 </dialogue>
@@ -1793,8 +1792,7 @@
     しなければならないんだ<end_line>
   </sjis>
   <ascii>
-    Why do I have to do something<end_line>
-    like assist with smithing?<end_line>
+    Why do I have to work too?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1807,7 +1805,7 @@
     今までの話、聞いてたのかい？<end_line>
   </sjis>
   <ascii>
-    Hey, you.<end_line>
+    I just explained it.<end_line>
     Are you paying attention?<end_line>
   </ascii>
 </dialogue>
@@ -1973,7 +1971,7 @@
       守りたいって<three_dots>！？<end_line>
     </sjis>
     <ascii>
-      Don't talk like that!<end_line>
+      Don't say that!<end_line>
       Didn't you say you wanted to<end_line>
       protect Murno too<three_dots>!?<end_line>
     </ascii>
@@ -2206,7 +2204,7 @@
     </sjis>
   </female>
   <ascii>
-    ‘If I win', huh<three_dots><end_line>
+    You think you stand a chance<three_dots>?<end_line>
     How foolish<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -2221,9 +2219,9 @@
     ありえないがな<end_line>
   </sjis>
   <ascii>
-    Very well, I promise you that.<end_line>
+    Very well, I accept.<end_line>
     However, know that it is impossible<end_line>
-    for that wish to be granted.<end_line>
+    for your wish to be granted.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -2600,8 +2598,8 @@
     どうなってるんだかねぇ<end_line>
   </sjis>
   <ascii>
-    Still, for the Summon Beast and<end_line>
-    the Summoner to fight<three_dots><end_line>
+    Still, for the Summon Beast<end_line>
+    and the Summoner to fight<three_dots><end_line>
     What's going on here, I wonder<three_dots><end_line>
   </ascii>
 </dialogue>

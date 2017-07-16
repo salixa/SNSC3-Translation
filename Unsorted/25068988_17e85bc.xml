@@ -5,6 +5,10 @@
 		なんだ！？<end_line>
 		はぐれの弟子がなんか用か！？<end_line>
 	</sjis>
+  <ascii>
+    The Strays' apprentice, is it?<end_line>
+    Why are you here!?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -21,6 +25,10 @@
 			人をさがしてるんだけど<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Um<three_dots><end_line>
+    I'm looking for someone<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -28,6 +36,9 @@
 	<sjis>
 		帰れ！<end_line>
 	</sjis>
+  <ascii>
+    Get out!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -35,6 +46,9 @@
 	<sjis>
 		<three_dots><end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -43,6 +57,10 @@
 		なんだ？<end_line>
 		やるのか？<end_line>
 	</sjis>
+  <ascii>
+    What?<end_line>
+    You wanna fight?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -51,6 +69,10 @@
 		そっ<three_dots>！<end_line>
 		そうじゃなくて！<end_line>
 	</sjis>
+  <ascii>
+    No<three_dots>!<end_line>
+    We don't!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -69,6 +91,11 @@
 			レミィ<three_dots>！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Ah, hey!<end_line>
+    That's<three_dots>!<end_line>
+    Lemmy<three_dots>!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -77,6 +104,9 @@
 	<sjis>
 		<three_dots><end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -93,6 +123,10 @@
 			ムシするなんて！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    What the heck!?<end_line>
+    Don't ignore me!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -100,4 +134,7 @@
 	<sjis>
 		いいから出てけ！<end_line>
 	</sjis>
+  <ascii>
+    Enough, just get out!<end_line>
+  </ascii>
 </dialogue>

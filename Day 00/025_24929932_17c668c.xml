@@ -8,7 +8,7 @@
     こいつ<three_dots>！<end_line>
   </sjis>
   <ascii>
-    Damn<three_dots>!<end_line>
+    Damn it<three_dots>!<end_line>
     Damn you<three_dots>!<end_line>
   </ascii>
 </dialogue>
@@ -540,7 +540,7 @@
     </sjis>
   </female>
   <ascii>
-    You're strong for your size!<end_line>
+    Hey, you're stronger than you look!<end_line>
     That was pretty cool!<end_line>
   </ascii>
 </dialogue>
@@ -605,18 +605,15 @@
     <sjis>
       なんだと！<end_line>
     </sjis>
-    <ascii>
-      What'd you say!?<end_line>
-    </ascii>
   </male>
   <female>
     <sjis>
       なによ、それ！？<end_line>
     </sjis>
-    <ascii>
-      What's with that!?<end_line>
-    </ascii>
   </female>
+  <ascii>
+    What!? Why?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -693,8 +690,7 @@
     あなたたち？<end_line>
   </sjis>
   <ascii>
-    Do you people still<end_line>
-    intend to fight?<end_line>
+    Do you still intend to fight?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -962,7 +958,7 @@
   </sjis>
   <ascii>
     Ah!<end_line>
-    I'm <player_name>,  a Craftknight!<end_line>
+    I'm <player_name>, a Craftknight!<end_line>
     <three_dots>In training.<end_line>
   </ascii>
 </dialogue>
@@ -994,8 +990,8 @@
   </sjis>
   <ascii>
     Ah!<end_line>
-    I'm <player_name>,<end_line>
-    a Craftknight! <three_dots>In training.<end_line>
+    I'm <player_name>, a Craftknight!<end_line>
+    <three_dots>In training.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
