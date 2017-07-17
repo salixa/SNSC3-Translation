@@ -53,7 +53,7 @@
   </sjis>
   <ascii>
     <partner><three_dots><end_line>
-    Why are you here<end_line>
+    Why are you here?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -490,7 +490,7 @@
   </sjis>
   <ascii>
     <partner><three_dots><end_line>
-    Why are you in a place like this?<end_line>
+    Why are you here?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -929,7 +929,7 @@
   </sjis>
   <ascii>
     <partner><three_dots><end_line>
-    Why are you in a place like this?<end_line>
+    Why are you here?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1117,7 +1117,7 @@
     もう少し仲良くしようよ<end_line>
   </sjis>
   <ascii>
-    <three_dots>Hey, that's not it!!<end_line>
+    <three_dots>Wait, no!!<end_line>
     We're partners, you know!<end_line>
     Let's try to get along a bit better!<end_line>
   </ascii>
@@ -1300,7 +1300,7 @@
   <ascii>
     I've had enough of<end_line>
     that embarassment!<end_line>
-    I'm heading back!<end_line>
+    I'm leaving!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1337,7 +1337,7 @@
   </sjis>
   <ascii>
     <partner><three_dots><end_line>
-    Why are you in a place like this?<end_line>
+    Why are you here?<end_line>
   </ascii>
 </dialogue>
 <dialogue>

@@ -18,7 +18,7 @@
   </female>
   <ascii>
     How's that!?<end_line>
-    Did you understand<end_line>
+    Now do you understand<end_line>
     my true power?<end_line>
   </ascii>
 </dialogue>
@@ -475,8 +475,8 @@
   </sjis>
   <ascii>
     To think<three_dots><end_line>
-    I could lose to such a child<three_dots><end_line>
-    If only my power returned<three_dots><end_line>
+    I would lose to a child like this<three_dots><end_line>
+    If I had my powers<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1255,7 +1255,7 @@
   </female>
   <ascii>
     And so, <partner> and I began<end_line>
-    training together, as Craftknights<three_dots>!<end_line>
+    training together, as Craftknights<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1274,7 +1274,7 @@
   </female>
   <ascii>
     And so, <partner> and I began<end_line>
-    training together, as Craftknights<three_dots>!<end_line>
+    training together, as Craftknights<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1293,7 +1293,7 @@
   </female>
   <ascii>
     And so, <partner> and I began<end_line>
-    training together, as Craftknights<three_dots>!<end_line>
+    training together, as Craftknights<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1312,7 +1312,7 @@
   </female>
   <ascii>
     And so, <partner> and I began<end_line>
-    training together, as Craftknights<three_dots>!<end_line>
+    training together, as Craftknights<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1331,7 +1331,7 @@
   </female>
   <ascii>
     And so, <partner> and I began<end_line>
-    training together, as Craftknights<three_dots>!<end_line>
+    training together, as Craftknights<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1350,7 +1350,7 @@
   </female>
   <ascii>
     And so, <partner> and I began<end_line>
-    training together, as Craftknights<three_dots>!<end_line>
+    training together, as Craftknights<three_dots><end_line>
   </ascii>
 </dialogue>
 

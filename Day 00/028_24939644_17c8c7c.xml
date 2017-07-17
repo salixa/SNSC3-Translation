@@ -71,8 +71,8 @@
     わたしの実力をわからせてあげる<end_line>
   </sjis>
   <ascii>
-    Watch me!<end_line>
-    I'll make you understand <end_line>
+    Just watch me!<end_line>
+    I'll make you understand<end_line>
     my true strength!<end_line>
   </ascii>
 </dialogue>
@@ -112,7 +112,7 @@
       鍛冶の手伝いをさせてやるんだから！<end_line>
     </sjis>
     <ascii>
-      Watch me!<end_line>
+      Just watch me!<end_line>
       I'm definitely gonna win,<end_line>
       and make you help with the smithing!<end_line>
     </ascii>
@@ -228,7 +228,7 @@
     ケガしたって知りませんよ！<end_line>
   </sjis>
   <ascii>
-    Are you really fine with this?<end_line>
+    Are you sure about this?<end_line>
     I won't hesitate to hurt you!<end_line>
   </ascii>
 </dialogue>

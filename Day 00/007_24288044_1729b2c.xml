@@ -109,7 +109,8 @@
     ふたりとも勝負だなんて<three_dots><end_line>
   </sjis>
   <ascii>
-    You two! Such a thing as a match<three_dots><end_line>
+    You two fighting<three_dots><end_line>
+    I don't like this<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -120,8 +121,8 @@
     ふたりとも勝負だなんて<three_dots><end_line>
   </sjis>
   <ascii>
-    You two! Such a thing as a match<three_dots><end_line>
-  </ascii>
+    You two fighting<three_dots><end_line>
+    I don't like this<three_dots><end_line>  </ascii>
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -130,8 +131,8 @@
     ふたりとも勝負だなんて<three_dots><end_line>
   </sjis>
   <ascii>
-    You two! Such a thing as a match<three_dots><end_line>
-  </ascii>
+    You two fighting<three_dots><end_line>
+    I don't like this<three_dots><end_line>  </ascii>
 </dialogue>
 <dialogue>
   <info box="simple">
