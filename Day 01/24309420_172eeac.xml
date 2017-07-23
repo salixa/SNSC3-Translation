@@ -10,6 +10,10 @@
 		ドコにいくンだい！<end_line>
 		修行に集中しな！<end_line>
 	</sjis>
+  <ascii>
+    Where do you think you're going!?<end_line>
+    Get back here!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -32,6 +36,10 @@
 		戦わなきゃいけないんだよ！<end_line>
 		生活かかってンだから！<end_line>
 	</sjis>
+  <ascii>
+    You guys have to get it together!<end_line>
+    Our livelyhood is at stake!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -39,4 +47,7 @@
 	<sjis>
 		２人でミューノを呼んできな<end_line>
 	</sjis>
+  <ascii>
+    You two, go wake up Murno.<end_line>
+  </ascii>
 </dialogue>

@@ -44,8 +44,8 @@
 		</sjis>
 	</female>
   <ascii>
-    I need to introduce <partner><end_line>
-    to the Chief!<end_line>
+    I need to introduce<end_line>
+    <partner> to the Chief!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -87,4 +87,7 @@
 	<sjis>
 		わふん！<end_line>
 	</sjis>
+  <ascii>
+    Woof!<end_line>
+  </ascii>
 </dialogue>

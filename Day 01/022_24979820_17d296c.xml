@@ -22,7 +22,7 @@
     </sjis>
   </female>
   <ascii>
-    What the!?<end_line>
+    What was that!?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -41,8 +41,7 @@
     </sjis>
   </female>
   <ascii>
-    Hey,<end_line>
-    are you okay?<end_line>
+    Hey, are you okay?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -68,7 +67,7 @@
   </sjis>
   <ascii>
     <three_dots>Wait, aren't you that<end_line>
-    stray's apprentice!<end_line>
+    Stray's apprentice!<end_line>
     And you have a Summon Beast!?<end_line>
   </ascii>
 </dialogue>
@@ -92,7 +91,7 @@
   </female>
   <ascii>
     Hey, my name is <player_name>!<end_line>
-    Don't call my Master a stray,<end_line>
+    Don't call my Master a Stray,<end_line>
     when your leader is so unsociable!<end_line>
   </ascii>
 </dialogue>
@@ -108,7 +107,6 @@
   <ascii>
     Unsociable<three_dots> Hey!<end_line>
     Are you talking about Mr.Lemmy!?<end_line>
-    Don't mess with me!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -276,7 +274,7 @@
     </sjis>
   </female>
   <ascii>
-    He's always in such a hurry.<end_line>
+    He seems busy.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -429,7 +427,7 @@
   </female>
   <ascii>
     We don't have a choice.<end_line>
-    Let's go find him!<end_line>
+    Let's return it!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -562,7 +560,7 @@
     ありがとう、村長<end_line>
   </sjis>
   <ascii>
-    Thanks, chief.<end_line>
+    Thanks, Chief.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -651,7 +649,7 @@
   <ascii>
     Just close them.<end_line>
     Now imagine<end_line>
-    Miss Vee's face!<end_line>
+    Miss V.E's face!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -744,7 +742,7 @@
   </sjis>
   <ascii>
     Yes!<end_line>
-    Thanks, chief.<end_line>
+    Thanks, Chief.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -926,8 +924,7 @@
     似てるな<three_dots><end_line>
   </sjis>
   <ascii>
-    You<three_dots><end_line>
-    Are alike<three_dots><end_line>
+    You two are so similar<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>

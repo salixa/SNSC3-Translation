@@ -8,8 +8,8 @@
   </sjis>
   <ascii>
     Oh?<end_line>
-    What's going on, <player_nickname>?<end_line>
-    You have a Summon Beast!<end_line>
+    Hello there, <player_nickname>.<end_line>
+    Is that a Summon Beast?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -103,7 +103,7 @@
     突然ですね<end_line>
   </sjis>
   <ascii>
-    That's quite sudden<three_dots><end_line>
+    It was.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -285,7 +285,7 @@
   </sjis>
   <ascii>
     N-no it's not!<end_line>
-    Right, <partner><end_line>
+    Right, <partner>?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -366,8 +366,8 @@
   </sjis>
   <ascii>
     Did you not hear me, old fool?<end_line>
-    Keep insulting me, and I'll<three_dots><end_line>
-    Erase you.<end_line>
+    Keep insulting me, and<three_dots><end_line>
+    I'll erase you.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -871,7 +871,7 @@
   </sjis>
   <ascii>
     What<three_dots>?<end_line>
-    We're not training at the workshop?<end_line>
+    Are we not training at the workshop?<end_line>
   </ascii>
 </dialogue>
 <dialogue>

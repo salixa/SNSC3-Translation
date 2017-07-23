@@ -1060,7 +1060,6 @@
   </female>
   <ascii>
     What are you getting angry for?<end_line>
-    You'd rather be considered scary?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1073,8 +1072,8 @@
     ゴチャゴチャとうっとうしい<end_line>
   </sjis>
   <ascii>
-    Shut up<three_dots><end_line>
-    All your complaining is annoying!<end_line>
+    Silence<three_dots><end_line>
+    All your chatter is annoying!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1097,8 +1096,8 @@
     </sjis>
   </female>
   <ascii>
-    Huh?<end_line>
-    If you wanna look scary so much,<end_line>
+    Well, fine!<end_line>
+    If you wanna stand out so much,<end_line>
     just wear something weird.<end_line>
   </ascii>
 </dialogue>
@@ -1174,7 +1173,7 @@
   <ascii>
     Wha!?<end_line>
     Why are you laughing?!<end_line>
-    What did you imagine!?<end_line>
+    What did you do to me!?<end_line>
   </ascii>
 </dialogue>
 <dialogue>

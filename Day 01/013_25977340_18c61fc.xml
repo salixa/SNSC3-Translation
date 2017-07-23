@@ -5,7 +5,7 @@
     <weapon_type>が欲しいのう<end_line>
   </sjis>
   <ascii>
-    I want <weapon_type>.<end_line>
+    I want a <weapon_type>.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -27,7 +27,8 @@
     交換してくれぬかのう<end_line>
   </sjis>
   <ascii>
-    will you trade for this <weapon_type>?<end_line>
+    will you trade it<end_line>
+    for this <weapon_type>?<end_line>
   </ascii>
 </dialogue>
 <menu>
@@ -63,7 +64,7 @@
     ほんに、エエもん、ありがたいのう<end_line>
   </sjis>
   <ascii>
-    Thanks for this.<end_line>
+    Thank you so much, my dear.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -73,7 +74,7 @@
     ほんに、エエもん、ありがたいのう<end_line>
   </sjis>
   <ascii>
-    Thanks for this.<end_line>
+    Thank you so much, my dear.<end_line>
   </ascii>
 </dialogue>
 <dialogue>

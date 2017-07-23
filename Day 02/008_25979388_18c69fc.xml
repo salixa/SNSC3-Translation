@@ -255,7 +255,8 @@
     見なかった？<end_line>
   </sjis>
   <ascii>
-    Have you seen a white cat?<end_line>
+    Hey, have you seen a<end_line>
+    white cat around here?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -265,8 +266,9 @@
     どこかで、助けを求めて<end_line>
     鳴いているような気がするの<end_line>
   </sjis>
-  <ascii>	
-    I think they're crying for help.<end_line>
+  <ascii>
+    I think I can hear<end_line>
+    one crying for help.<end_line>
   </ascii>
 </dialogue>
 <dialogue>

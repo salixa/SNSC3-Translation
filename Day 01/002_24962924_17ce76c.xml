@@ -7,8 +7,8 @@
     武器を解体してみな<end_line>
   </sjis>
   <ascii>
-    Alright, so today<end_line>
-    we'll try disassembling weapons.<end_line>
+    Alright, so today we'll<end_line>
+    try disassembling weapons.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -30,7 +30,7 @@
   </sjis>
   <ascii>
     Through disassembling, you can<end_line>
-    turn weapons back into shapestones.<end_line>
+    turn weapons back into Shapestones.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -77,7 +77,7 @@
   </female>
   <ascii>
     Alright, let's do this.<end_line>
-    I'm counting on you, <partner><end_line>
+    I'm counting on you, <partner>.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -155,8 +155,8 @@
     セレクトボタンを押してください<end_line>
   </sjis>
   <ascii>
-    In order to talk to them,<end_line>
-    please press the Select button<end_line>
-    when your partner is available.<end_line>
+    Press the Select button<end_line>
+    when your partner is available<end_line>
+    to talk to them.<end_line>
   </ascii>
 </dialogue>

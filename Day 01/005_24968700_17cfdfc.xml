@@ -10,7 +10,7 @@
     <ascii>
       Heeeey!<end_line>
       Murno,<end_line>
-      you awake?<end_line>
+      are you awake?<end_line>
     </ascii>
   </male>
   <female>
@@ -22,7 +22,7 @@
     <ascii>
       Heeeey!<end_line>
       Murno,<end_line>
-      you awake~<end_line>
+      are you awake~?<end_line>
     </ascii>
   </female>
 </dialogue>
@@ -79,7 +79,7 @@
   </sjis>
   <ascii>
     <three_dots>？<end_line>
-    Something's wrong<three_dots><end_line>
+    Why isn't she answering<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>

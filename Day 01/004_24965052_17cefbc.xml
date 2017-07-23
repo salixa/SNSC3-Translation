@@ -391,7 +391,7 @@
       もしかして、てれてるのか？<end_line>
     </sjis>
     <ascii>
-      And what was that about?<end_line>
+      Why is that?<end_line>
       Are you, by chance, embarassed?<end_line>
     </ascii>
   </male>
@@ -401,7 +401,7 @@
       もしかして、てれてるの？<end_line>
     </sjis>
     <ascii>
-      And what was that about?<end_line>
+      Why is that?<end_line>
       Are you embarassed, perhaps?<end_line>
     </ascii>
   </female>
@@ -594,7 +594,7 @@
     どう？<end_line>
   </sjis>
   <ascii>
-    How is it?<end_line>
+    What do you think?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -806,7 +806,7 @@
     </sjis>
   </female>
   <ascii>
-    Why me!?<end_line>
+    Me too!?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -890,9 +890,9 @@
     気になるのかい？<end_line>
   </sjis>
   <ascii>
-    Hm?<end_line>
-    Are you that worried<end_line>
-    about Murno?<end_line>
+    Huh?<end_line>
+    Oh, are you<end_line>
+    worried about Murno?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1053,9 +1053,9 @@
     気になるのかい？<end_line>
   </sjis>
   <ascii>
-    What's this?<end_line>
-    Are you getting worried<end_line>
-    about Murno?<end_line>
+    Huh?<end_line>
+    Oh, are you<end_line>
+    worried about Murno?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1098,7 +1098,7 @@
     行っといで<end_line>
   </sjis>
   <ascii>
-    It's okay, <partner><end_line>
+    Alright, <partner>.<end_line>
     You can go.<end_line>
   </ascii>
 </dialogue>
@@ -1124,7 +1124,7 @@
     アンタも行ってやりな<end_line>
   </sjis>
   <ascii>
-    Oh, and <player_nickname>,<end_line>
+    <player_nickname>,<end_line>
     you should go too.<end_line>
   </ascii>
 </dialogue>
@@ -1184,7 +1184,7 @@
     そっか<three_dots><end_line>
   </sjis>
   <ascii>
-    I guess<three_dots><end_line>
+    Hm, I see<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1226,9 +1226,9 @@
     気になるのかい？<end_line>
   </sjis>
   <ascii>
-    Hm?<end_line>
-    Are you that worried<end_line>
-    about Murno?<end_line>
+    Huh?<end_line>
+    Oh, are you<end_line>
+    worried about Murno?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1345,7 +1345,7 @@
     そっか<three_dots><end_line>
   </sjis>
   <ascii>
-    I see<three_dots><end_line>
+    Hm, I see<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
