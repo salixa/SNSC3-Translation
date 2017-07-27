@@ -210,7 +210,7 @@
   <ascii>
     Don't you know?<end_line>
     Medicine from the Kicca fruit<end_line>
-    can make you healthy and energetic.<end_line>
+    can cure anything.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -224,8 +224,7 @@
     そんなもんどうする<three_dots><end_line>
   </sjis>
   <ascii>
-    To make you healthy, huh?<end_line>
-    But you're plenty healthy.<end_line>
+    But you seem fine.<end_line>
     What would you do with<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -254,8 +253,7 @@
     そんなのどうするの<three_dots><end_line>
   </sjis>
   <ascii>
-    To make you healthy, huh?<end_line>
-    But you're plenty healthy.<end_line>
+    But you seem fine.<end_line>
     What would you do with<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -352,7 +350,7 @@
     お前たちなんて目じゃないよ！<end_line>
   </sjis>
   <ascii>
-    He makes amazing weapons,<end_line>
+    He makes quality weapons,<end_line>
     and he's really strong too!<end_line>
     You're nothing in comparison!<end_line>
   </ascii>

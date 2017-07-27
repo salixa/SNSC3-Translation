@@ -4,3 +4,4 @@ __pycache__/*
 *.pyc
 scriptTXT/*
 sn3_export_story/*
+*.ini

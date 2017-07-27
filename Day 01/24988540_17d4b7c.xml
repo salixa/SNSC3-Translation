@@ -1,0 +1,70 @@
+<dialogue>
+  <ascii>
+    If We Continue, There Is A High<end_line>
+    Chance The Bridge Will Crumble.<end_line>
+    I Recommend Turning Back.<end_line>
+  </ascii>
+</dialogue>
+<dialogue>
+  <ascii>
+    Really?<end_line>
+    Well then<three_dots><end_line>
+  </ascii>
+</dialogue>
+<bigtext>
+  <ascii>
+    Uwah!?<end_line>
+  </ascii>
+</bigtext>
+<dialogue>
+  <ascii>
+    If you go any further,<end_line>
+    the bridge will fall!<end_line>
+  </ascii>
+</dialogue>
+<dialogue>
+  <ascii>
+    Really?<end_line>
+    Well then<three_dots><end_line>
+  </ascii>
+</dialogue>
+<bigtext>
+  <ascii>
+    Uwah!?<end_line>
+  </ascii>
+</bigtext>
+<dialogue>
+  <ascii>
+    Looks like<end_line>
+    you were unlucky.<end_line>
+  </ascii>
+</dialogue>
+<dialogue>
+  <ascii>
+    Eh?<end_line>
+    What do you mea<three_dots><end_line>
+  </ascii>
+</dialogue>
+<bigtext>
+  <ascii>
+    Uwah!?<end_line>
+  </ascii>
+</bigtext>
+<dialogue>
+  <ascii>
+    Stop!<end_line>
+    If we continue any further,<end_line>
+    the bridge will definitely fall.<end_line>
+  </ascii>
+</dialogue>
+<dialogue>
+  <ascii>
+    Really?<end_line>
+    Well then<three_dots><end_line>
+  </ascii>
+</dialogue>
+<bigtext>
+  <ascii>
+    Uwah!?<end_line>
+  </ascii>
+</bigtext>

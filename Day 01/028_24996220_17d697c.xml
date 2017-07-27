@@ -508,7 +508,7 @@
     </sjis>
   </female>
   <ascii>
-    You<three_dots><end_line>
+    Oh, come on<three_dots><end_line>
     You're still like that<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -578,7 +578,7 @@
     </sjis>
   </female>
   <ascii>
-    Well,<end_line>
+    Well, I figure<end_line>
     if you can still say stuff<end_line>
     like that, you must be fine.<end_line>
   </ascii>
@@ -1000,8 +1000,7 @@
     </sjis>
   </female>
   <ascii>
-    He fell off the one<end_line>
-    that WASN'T broken?<end_line>
+    Couldn't he tell it was broken!?<end_line>
     Jeez<three_dots><end_line>
   </ascii>
 </dialogue>

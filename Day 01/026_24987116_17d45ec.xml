@@ -154,8 +154,7 @@
     何も気づかないのか？<end_line>
   </sjis>
   <ascii>
-    You<three_dots><end_line>
-    Have you noticed anything?<end_line>
+    You haven't noticed<three_dots>?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -167,7 +166,7 @@
     なんのこと？<end_line>
   </sjis>
   <ascii>
-    Like what?<end_line>
+    Noticed what?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -180,8 +179,8 @@
     運試しだ<end_line>
   </sjis>
   <ascii>
-    Ah, nothing.<end_line>
-    Just a test of observation.<end_line>
+    Oh, nothing.<end_line>
+    Just testing you.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
