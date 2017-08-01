@@ -149,7 +149,7 @@
   </female>
   <ascii>
     I guess it worked then.<end_line>
-    Zakk'll be happy to see that.<end_line>
+    Zakk will be happy to see that.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -263,7 +263,7 @@
     ち<three_dots>ちょっと待てよ<three_dots>！<end_line>
   </sjis>
   <ascii>
-    W-<three_dots>Wait a minute here<three_dots>!<end_line>
+    W-<three_dots>Wait<three_dots>!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -288,7 +288,7 @@
     ち<three_dots>ちょっと待ってよ<three_dots>！<end_line>
   </sjis>
   <ascii>
-    W-<three_dots>Wait a minute here<three_dots>!<end_line>
+    W-<three_dots>Wait<three_dots>!<end_line>
   </ascii>
 </dialogue>
 <dialogue>

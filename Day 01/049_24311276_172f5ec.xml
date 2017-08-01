@@ -5,6 +5,10 @@
 		　たしかにミューノは笑ったんだけど　<end_line>
 		　なぜだかさびしそうに見えたんだ　　<end_line>
 	</sjis>
+  <ascii>
+    At that, she smiled,<end_line>
+    but I could tell she was lonely<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">

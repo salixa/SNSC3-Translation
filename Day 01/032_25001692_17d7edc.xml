@@ -29,8 +29,8 @@
   </sjis>
   <ascii>
     Well, you know<three_dots><end_line>
-    That one bridge was broken right?<end_line>
-    I'm worried the other one might<three_dots><end_line>
+    The other bridge was broken right?<end_line>
+    I'm worried about this one<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -86,7 +86,7 @@
   </female>
   <ascii>
     Hey, <partner>.<end_line>
-    Can you see any issues?<end_line>
+    Any issues with the bridge?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -146,8 +146,6 @@
   </female>
   <ascii>
     You know, don't you<three_dots><end_line>
-    You probably don't wanna say,<end_line>
-    but please help out this once<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -159,7 +157,7 @@
     フ<three_dots><end_line>
   </sjis>
   <ascii>
-    Hm<three_dots><end_line>
+    Hmph<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -185,8 +183,8 @@
     教えてくれるなんて、どうして<three_dots><end_line>
   </sjis>
   <ascii>
-    What's going on<three_dots>?<end_line>
-    <partner> is actually being helpful?<end_line>
+    Wow<three_dots><end_line>
+    <partner> is being helpful?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -277,7 +275,7 @@
     落ちた！<end_line>
   </sjis>
   <ascii>
-    He fell again!<end_line>
+    The bridge!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -735,7 +733,7 @@
     </sjis>
   </female>
   <ascii>
-    Did you do that intentionally?<end_line>
+    Did you do that on purpose?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -771,7 +769,7 @@
   </female>
   <ascii>
     Huh?<end_line>
-    So it wasn't on purpose?<end_line>
+    You didn't?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -901,7 +899,7 @@
     あいつのところへなど<three_dots><end_line>
   </sjis>
   <ascii>
-    Stop being stupid<three_dots><end_line>
+    What a bother<three_dots><end_line>
     Why do I have to help<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -1079,6 +1077,6 @@
     </sjis>
   </female>
   <ascii>
-    Uwah!<end_line>
+    Ah!<end_line>
   </ascii>
 </bigtext>

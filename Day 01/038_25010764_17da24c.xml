@@ -30,7 +30,7 @@
     </sjis>
   </female>
   <ascii>
-    Yeah, how's that!<end_line>
+    Yeah!<end_line>
     Nice job, <partner>!<end_line>
   </ascii>
 </dialogue>
@@ -92,8 +92,7 @@
     たおしたところでジマンにもならん<end_line>
   </sjis>
   <ascii>
-    Heh, of course I could<end_line>
-    beat a Stray like that.<end_line>
+    That was nothing.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -144,8 +143,8 @@
     いいのかよ？<end_line>
   </sjis>
   <ascii>
-    Wait,<end_line>
-    you're not going to take<end_line>
+    Hm?<end_line>
+    You're not going to take<end_line>
     that back like always, are you?<end_line>
   </ascii>
 </dialogue>
@@ -172,8 +171,8 @@
     わたしたちにお礼なんか言って<end_line>
   </sjis>
   <ascii>
-    Wait,<end_line>
-    you're not going to take<end_line>
+    Hm?<end_line>
+    You're not going to take<end_line>
     that back like always, are you?<end_line>
   </ascii>
 </dialogue>
@@ -188,8 +187,8 @@
   </sjis>
   <ascii>
     Of course not.<end_line>
-    Thank you, <player_name>,<end_line>
-    <partner>.<end_line>
+    Thank you,<end_line>
+    <player_name>, <partner>.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -283,6 +282,6 @@
   </sjis>
   <ascii>
     Oh, you're right!<end_line>
-    Alright, let's go find it!<end_line>
+    Alright, let's do it!<end_line>
   </ascii>
 </dialogue>

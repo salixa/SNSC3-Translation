@@ -7,8 +7,7 @@
     できたのかい？<end_line>
   </sjis>
   <ascii>
-    Are you prepared<end_line>
-    for our match?<end_line>
+    Are you ready?<end_line>
   </ascii>
 </dialogue>
 <choice>
@@ -81,7 +80,7 @@
     </sjis>
   </female>
   <ascii>
-    Okay!<end_line>
+    You're on!<end_line>
     Let's do this <partner>!<end_line>
   </ascii>
 </dialogue>

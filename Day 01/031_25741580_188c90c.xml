@@ -36,8 +36,8 @@
     使用します<end_line>
   </sjis>
   <ascii>
-    You can do so by standing<end_line>
-    on it and pressing A.<end_line>
+    Use it by standing on<end_line>
+    the point and pressing A.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -48,8 +48,7 @@
     再び使用できる状態に戻ります<end_line>
   </sjis>
   <ascii>
-    It is only usable once, but<end_line>
-    if the dungeon is re-entered<end_line>
-    it's usable again.<end_line>
+    It well then be disabled<end_line>
+    until you exit this area.<end_line>
   </ascii>
 </dialogue>

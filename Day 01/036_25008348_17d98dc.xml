@@ -15,7 +15,7 @@
     </sjis>
   </female>
   <ascii>
-    That's strange<three_dots>?<end_line>
+    That's strange<three_dots><end_line>
     The grass is withered,<end_line>
     but only around here, see?<end_line>
   </ascii>
@@ -86,7 +86,7 @@
   </sjis>
   <ascii>
     Ah<three_dots><end_line>
-    There<three_dots>!<end_line>
+    Over there<three_dots>!<end_line>
   </ascii>
 </dialogue>
 

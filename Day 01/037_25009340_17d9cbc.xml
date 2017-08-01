@@ -8,8 +8,9 @@
     木がかれちゃったみたいだ<three_dots><end_line>
   </sjis>
   <ascii>
-    What should I do<three_dots><end_line>
-    The tree's dead<three_dots><end_line>
+    What do I do now<three_dots><end_line>
+    Because of that Stray<three_dots><end_line>
+    The tree's dying<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -22,7 +23,6 @@
   </sjis>
   <ascii>
     Now there's no fruit<three_dots><end_line>
-    Even though we came so far<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -59,7 +59,7 @@
   </sjis>
   <ascii>
     But<three_dots><end_line>
-    There's a Stray<three_dots><end_line>
+    The Stray<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -187,8 +187,8 @@
     どこかに失せろ<end_line>
   </sjis>
   <ascii>
-    Get out of here if<end_line>
-    you don't want to die.<end_line>
+    Stand back if you don't<end_line>
+    want to get hurt.<end_line>
     We'll handle this.<end_line>
   </ascii>
 </dialogue>

@@ -5,7 +5,7 @@
     やっぱりアンタはここか<end_line>
   </sjis>
   <ascii>
-    I thought you'd be here.<end_line>
+    I knew you'd be here.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -58,7 +58,7 @@
   </sjis>
   <ascii>
     Hehe<three_dots><end_line>
-    Well, <partner> was there too<end_line>
+    Well, <partner> was there too,<end_line>
     so it was no problem at all!<end_line>
   </ascii>
 </dialogue>
@@ -188,7 +188,7 @@
   </female>
   <ascii>
     Ow!<end_line>
-    Why?!<end_line>
+    What was that for?!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -200,7 +200,7 @@
     まったく！<end_line>
   </sjis>
   <ascii>
-    You talk too much.<end_line>
-    Jeez.<end_line>
+    You talk too much!<end_line>
+    Jeez!<end_line>
   </ascii>
 </dialogue>

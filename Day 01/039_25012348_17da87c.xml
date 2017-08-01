@@ -14,8 +14,8 @@
     </sjis>
   </female>
   <ascii>
-    Here!<end_line>
-    It's here! The Kicca fruit!<end_line>
+    There!<end_line>
+    I found some!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -112,8 +112,8 @@
     道具屋にカオがきくんだ<end_line>
   </sjis>
   <ascii>
-    Hey, so, the employees at<end_line>
-    the store know me.<end_line>
+    Hey, so, the employees<end_line>
+    at the general store know me.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -125,8 +125,7 @@
     それで？<end_line>
   </sjis>
   <ascii>
-    Huh?<end_line>
-    So what?<end_line>
+    Okay?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -214,7 +213,7 @@
   </sjis>
   <ascii>
     But I can't be seen<end_line>
-    talking with you, so<three_dots><end_line>
+    talking with you two, so<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -237,7 +236,7 @@
     薬、もってくからさ！<end_line>
   </sjis>
   <ascii>
-    Wait at the station!<end_line>
+    Wait for me at the station!<end_line>
     I'll bring it to you!<end_line>
   </ascii>
 </dialogue>
@@ -304,7 +303,7 @@
   </female>
   <ascii>
     Yeah.<end_line>
-    He's really helping us out.<end_line>
+    He's a big help.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -351,7 +350,7 @@
     とにかく駅に行こう<end_line>
   </sjis>
   <ascii>
-    Anyway, let's wait at the station.<end_line>
+    Anyway, let's head to the station.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -385,7 +384,7 @@
   </female>
   <ascii>
     Yeah.<end_line>
-    He's really helping us out.<end_line>
+    He's a big help.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -434,7 +433,7 @@
     とにかく駅に行こう<end_line>
   </sjis>
   <ascii>
-    Anyway, let's wait at the station.<end_line>
+    Anyway, let's head to the station.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -521,7 +520,7 @@
   <ascii>
     Now that you've said it,<end_line>
     I'm kinda worried now<three_dots><end_line>
-    Anyway, let's wait it the station.<end_line>
+    Anyway, let's head to the station.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -555,7 +554,7 @@
   </female>
   <ascii>
     Yeah.<end_line>
-    He's really helping us out here.<end_line>
+    He's a big help.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -604,6 +603,6 @@
     とにかく駅に行こう<end_line>
   </sjis>
   <ascii>
-    Anyway, let's wait at the station.<end_line>
+    Anyway, let's head to the station.<end_line>
   </ascii>
 </dialogue>
