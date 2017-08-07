@@ -101,9 +101,9 @@
     アンタたちの薬のおかげだね<end_line>
   </sjis>
   <ascii>
-    Murno's healed right up<end_line>
+    Completely gone!<end_line>
+    Murno's in perfect health<end_line>
     thanks to your medicine.<end_line>
-    No worries.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -127,7 +127,7 @@
     着替えて出てくるよ<end_line>
   </sjis>
   <ascii>
-    Wait here, it'll just be a bit.<end_line>
+    Wait here for a minute.<end_line>
     She'll be out once she's changed.<end_line>
   </ascii>
 </dialogue>
@@ -626,11 +626,11 @@
     くだらないこと考えてるんじゃないよ！<end_line>
   </sjis>
   <ascii>
-    Don't talk about trivial stuff!<end_line>
+    Stop thinking about it right now!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
-  <player gender="female">
+  <player gender="male">
   <info box="left">
   <portrait_l entry="player" eye="surprised" mouth="yell">
   <portrait_r entry="vee" eye="decided" mouth="serious">
@@ -896,7 +896,7 @@
     そんなに怒ることは<three_dots>！<end_line>
   </sjis>
   <ascii>
-    You're being unreasonable angry!<end_line>
+    You're being unreasonable<three_dots>!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -960,8 +960,8 @@
   </sjis>
   <ascii>
     Returning to the issue at hand.<end_line>
-    There's no twist to being<end_line>
-    <player_nickname>'s relative either.<end_line>
+    We need to have a twist too.<end_line>
+    Make it more convincing.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1064,7 +1064,7 @@
     無視だと！<end_line>
   </sjis>
   <ascii>
-    Hmph.<end_line>
+    She ignored me.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1182,7 +1182,7 @@
   </sjis>
   <ascii>
     But I could keep going thanks to<end_line>
-    to the kindness of the Master.<end_line>
+    to the kindness of my Master.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1309,7 +1309,7 @@
     なったのです<end_line>
   </sjis>
   <ascii>
-    I came across V.E,<end_line>
+    I came across Vee,<end_line>
     who very kindly decided<end_line>
     to hire me as an assistant.<end_line>
   </ascii>
@@ -1460,7 +1460,8 @@
   </sjis>
   <ascii>
     It's the perfect setting.<end_line>
-    All of America would cry<three_dots><end_line>
+    People all over the Earth<end_line>
+    would be moved to tears!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1471,7 +1472,7 @@
     ぜんべい？<end_line>
   </sjis>
   <ascii>
-    Ameri<three_dots>what<three_dots>?<end_line>
+    Earth<three_dots>what<three_dots>?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1496,8 +1497,8 @@
   </sjis>
   <ascii>
     Let's go Murno.<end_line>
-    This kid wouldn't be able to<end_line>
-    focus on training with you around.<end_line>
+    This kid won't be able to focus<end_line>
+    on training with you around.<end_line>
   </ascii>
 </dialogue>
 <dialogue>

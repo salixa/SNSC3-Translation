@@ -479,7 +479,7 @@
     ミューノのことを考えるのだぞ<end_line>
   </sjis>
   <ascii>
-    I do not need your excuses!<end_line>
+    No excuses!<end_line>
     You need to pay more<end_line>
     attention to her well-being.<end_line>
   </ascii>
@@ -635,7 +635,7 @@
     今朝は、会ったのか？<end_line>
   </sjis>
   <ascii>
-    It's you<three_dots><end_line>
+    <three_dots><end_line>
     Have you seen her this morning?<end_line>
   </ascii>
 </dialogue>
@@ -741,8 +741,8 @@
     ということか<three_dots><end_line>
   </sjis>
   <ascii>
-    Oh, I see<three_dots><end_line>
-    You're the one worried about her.<end_line>
+    Hmm<three_dots><end_line>
+    You really want to see her.<end_line>
     So that's how it is<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -944,7 +944,7 @@
   <ascii>
     That's enough.<end_line>
     Of course nothing gets done properly<end_line>
-    unless I handle everything myself.<end_line>
+    unless I handle it myself.<end_line>
   </ascii>
 </dialogue>
 <dialogue>

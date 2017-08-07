@@ -8,8 +8,8 @@
 	</sjis>
 	<ascii>
 		Strays have appeared just ahead.<end_line>
-		It's dangerous, so please<end_line>
-		come at a later time.<end_line>
+    It's too dangerous to go outside.<end_line>
+    Come back another time.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -146,8 +146,8 @@
 		ないのかなぁ<three_dots><end_line>
 	</sjis>
 	<ascii>
-		I guess there's no choice<end_line>
-		but to go practice<three_dots><end_line>
+    <three_dots>I guess I'll just<end_line>
+    have to go train<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>

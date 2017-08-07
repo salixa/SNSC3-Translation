@@ -22,7 +22,7 @@
     </sjis>
   </female>
   <ascii>
-    Again<three_dots><end_line>
+    There he goes again<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -58,7 +58,7 @@
     落としてるんじゃないのか？<end_line>
   </sjis>
   <ascii>
-    Did you drop that hammer again?<end_line>
+    Did you drop your hammer again?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -299,8 +299,8 @@
   </sjis>
   <ascii>
     A massive one showed up<end_line>
-    along the road to town.<end_line>
-    I'm gonna help fight it.<end_line>
+    along the road to the town.<end_line>
+    He went to help fight it.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -561,7 +561,7 @@
     ふざけたことを言うな<end_line>
   </sjis>
   <ascii>
-    Don't screw with me.<end_line>
+    You give up too easily.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -663,7 +663,7 @@
   <ascii>
     <partner><three_dots><end_line>
     If you're willing to go for it,<end_line>
-    then I guess I have to go too!<end_line>
+    then I guess I am too!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -735,9 +735,9 @@
     </sjis>
   </female>
   <ascii>
-    Well!<end_line>
-    I have something to do in town,<end_line>
-    so I have to head there anyway.<end_line>
+    Now then!<end_line>
+    I have to find a way<end_line>
+    past the gatekeeper!<end_line>
   </ascii>
 </dialogue>
 

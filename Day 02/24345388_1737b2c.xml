@@ -16,6 +16,11 @@
 		今、鍛冶師や鍛冶職人に会うために<end_line>
 		旅をして面識を広げてるのよ<end_line>
 	</sjis>
+  <ascii>
+    My, you must be a Craftknight.<end_line>
+    Right now I'm on a journey to meet<end_line>
+    many Craftknights and blacksmiths,<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -25,6 +30,11 @@
 		暮らすためにお得意さんを<end_line>
 		見つけるためにね<end_line>
 	</sjis>
+  <ascii>
+    with the hope that some of the<end_line>
+    will become our regular customers<end_line>
+    when my daughter and I open a shop.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -33,6 +43,10 @@
 		鍛冶の事には詳しいから何か<end_line>
 		知りたいことがあったら聞いてね<end_line>
 	</sjis>
+  <ascii>
+    I know quite a lot about smithing.<end_line>
+    Feel free to ask me anything.<end_line>
+  </ascii>
 </dialogue>
 <choice>
 	<info box="simple">
@@ -40,16 +54,25 @@
 		<sjis>
 			作製について教えてほしい<end_line>
 		</sjis>
+    <ascii>
+      Teach me about crafting<end_line>
+    </ascii>
 	</option>
 	<option>
 		<sjis>
 			鍛冶ランクについて教えてほしい<end_line>
 		</sjis>
+    <ascii>
+      Teach me about smithing ranks<end_line>
+    </ascii>
 	</option>
 	<option>
 		<sjis>
 			今は特にない<end_line>
 		</sjis>
+    <ascii>
+      Nothing right now<end_line>
+    </ascii>
 	</option>
 </choice>
 <dialogue>
@@ -59,6 +82,10 @@
 		作製で重要な武器マテルについて<end_line>
 		説明してあげるね<end_line>
 	</sjis>
+  <ascii>
+    I'll teach you a little bit<end_line>
+    about Shapestones, then.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -68,6 +95,11 @@
 		それぞれに出来上がる武器が決まって<end_line>
 		いて、同じ合成アイテムを使っても<end_line>
 	</sjis>
+  <ascii>
+    Shapestones come in 6 varieties,<end_line>
+    and determine the type of weapon.<end_line>
+    Using different materials<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -77,6 +109,11 @@
 		とにかく見つけたらまずは作って<end_line>
 		確かめてみてね<end_line>
 	</sjis>
+  <ascii>
+    can result is a completely<end_line>
+    different weapon of that time.<end_line>
+    It's best to experiment.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -85,6 +122,10 @@
 		鍛冶ランクの上げ方について<end_line>
 		教えてあげるね<end_line>
 	</sjis>
+  <ascii>
+    I'll teach you how to raise<end_line>
+    your smithing rank.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -94,6 +135,11 @@
 		繰り返すと、鍛冶経験値がたまって<end_line>
 		ランクを上げることができるの<end_line>
 	</sjis>
+  <ascii>
+    When you do anything outside<end_line>
+    of repairing, you'll gain<end_line>
+    experience.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -103,6 +149,10 @@
 		作って鍛冶ランクを上げて<end_line>
 		ガンバってね<end_line>
 	</sjis>
+  <ascii>
+    Gather enough and you'll<end_line>
+    raise your rank.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -110,4 +160,7 @@
 	<sjis>
 		気が向いたらまた来てね<end_line>
 	</sjis>
+  <ascii>
+    I'll be here if you need me.<end_line>
+  </ascii>
 </dialogue>

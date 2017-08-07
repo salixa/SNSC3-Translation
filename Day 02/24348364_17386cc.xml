@@ -6,6 +6,9 @@
 	<sjis>
 		ミューノの様子を見に行こう！<end_line>
 	</sjis>
+  <ascii>
+    Let's go check on Murno!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -17,6 +20,11 @@
 		共ニ　行動シテイマスガ<end_line>
 		本来ナラ私ダケデ　十分ナ任務デス<end_line>
 	</sjis>
+  <ascii>
+    As Partners We May Act Together,<end_line>
+    However I Can Handle This Mission<end_line>
+    Entirely On My Own.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -35,6 +43,9 @@
 			言ったでしょ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Well, excuse me for caring!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -44,6 +55,9 @@
 	<sjis>
 		ミューノの様子を見に行こう！<end_line>
 	</sjis>
+  <ascii>
+    Let's go check on Murno!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -55,6 +69,11 @@
 		何かと安心なのじゃが<three_dots><end_line>
 		パートナーじゃからのぉ<three_dots><end_line>
 	</sjis>
+  <ascii>
+    To be honest, I would prefer<end_line>
+    if I could go alone, but<three_dots><end_line>
+    I suppose we are partners<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -73,6 +92,9 @@
 			言ったでしょ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Well, excuse me for caring!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -82,6 +104,9 @@
 	<sjis>
 		ミューノの様子を見に行こう！<end_line>
 	</sjis>
+  <ascii>
+    Let's go check on Murno!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -92,6 +117,10 @@
 		そんなにキサマが行きたいのなら<end_line>
 		仕方ない<end_line>
 	</sjis>
+  <ascii>
+    You want to see her that bad?<end_line>
+    Fine, I'll come too<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -110,6 +139,10 @@
 			しといてあげる<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Uh, sure.<end_line>
+    We'll leave it at that.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -118,6 +151,9 @@
 	<sjis>
 		ミューノの様子を見に行こう！<end_line>
 	</sjis>
+  <ascii>
+    Let's go check on Murno!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -127,6 +163,9 @@
 		本当は私ひとりで<end_line>
 		十分なんですけどね<end_line>
 	</sjis>
+  <ascii>
+    I alone am more than enough.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -144,6 +183,9 @@
 			言ったでしょ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Well, excuse me for caring!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -154,6 +196,10 @@
 		さあ！<end_line>
 		はりきって修行に行こう！<end_line>
 	</sjis>
+  <ascii>
+    Come on!<end_line>
+    Let's go train!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -165,6 +211,11 @@
 		大丈夫デショウカ<three_dots><end_line>
 		親方ノ作戦ハ　予測不可能デス<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Will Lady Murno Be Okay?<end_line>
+    The Outcome Of Master's Plans<end_line>
+    Are Impossible To Predict<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -185,6 +236,11 @@
 			とりあえず修行しよう<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    I'm sure they'll be fine.<end_line>
+    She'll make something up<end_line>
+    if there are any issues.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -196,6 +252,11 @@
 		アノ親方ニシテ　コノ弟子アリ<end_line>
 		ト言ウ事デスカ<three_dots><end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+    So It Is Said,<end_line>
+    Like Master, Like Student<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -206,6 +267,10 @@
 		さあ！<end_line>
 		はりきって修行に行こう！<end_line>
 	</sjis>
+  <ascii>
+    Come on!<end_line>
+    Let's go train!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -217,6 +282,10 @@
 		あの親方の作戦、大丈夫かの<three_dots><end_line>
 		ミューノが心配じゃ<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Hmm<three_dots> Training is important,<end_line>
+    but I'm worried about Murno<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -237,6 +306,11 @@
 			いざとなれば親方がなんとかするよ<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    I'm sure they'll be fine.<end_line>
+    She'll make something up<end_line>
+    if there are any issues.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -247,6 +321,11 @@
 		<three_dots><end_line>
 		それが心配なんじゃがな<end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+    That's exactly what I'm<end_line>
+    worried about<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -257,6 +336,10 @@
 		さあ！<end_line>
 		はりきって修行に行こう！<end_line>
 	</sjis>
+  <ascii>
+    Come on!<end_line>
+    Let's go train!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -267,6 +350,10 @@
 		<three_dots>って、なんだか<partner><end_line>
 		いつにもましてキゲンが悪いような<three_dots><end_line>
 	</sjis>
+  <ascii>
+    <three_dots>You seem to be<end_line>
+    grumpier than usual<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -278,6 +365,11 @@
 		このまま本当にミューノをメイドとして<end_line>
 		教育する気ではないだろうな<end_line>
 	</sjis>
+  <ascii>
+    Tch<three_dots> That woman is turning<end_line>
+    Murno into a mere maid.<end_line>
+    I don't feel like training.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -298,6 +390,10 @@
 			本当はよくわかってないんだけど<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Actually<three_dots><end_line>
+    I don't really understand<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -308,6 +404,10 @@
 		メイドって何？<end_line>
 		カッコイイ？<end_line>
 	</sjis>
+  <ascii>
+    What's a maid?<end_line>
+    Is it cool?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -318,6 +418,10 @@
 		<three_dots><end_line>
 		人によるな<end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+    Are you sure you have a brain?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -327,6 +431,10 @@
 		さあ！<end_line>
 		はりきって修行に行こう！<end_line>
 	</sjis>
+  <ascii>
+    Come on!<end_line>
+    Let's go train!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -346,6 +454,10 @@
 			どうしたの？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    <three_dots>Hey, you look sad.<end_line>
+    What's wrong?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -356,6 +468,11 @@
 		恋をするコトも許されないだなんて<end_line>
 		なんて、かわいそうなんでしょう！<end_line>
 	</sjis>
+  <ascii>
+    Well<three_dots> For a girl to be<end_line>
+    denied the ability to love,<end_line>
+    that's just too cruel!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -365,6 +482,10 @@
 		えーと<three_dots><end_line>
 		修行に行こうか<end_line>
 	</sjis>
+  <ascii>
+    Erm<three_dots><end_line>
+    Let's just go train<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">

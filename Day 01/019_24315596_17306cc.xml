@@ -182,11 +182,10 @@
     ところであなたは、鍛冶師みたいだけど<end_line>
     強化の情報を聞いていかない？<end_line>
   </sjis>
-  <ascii>
-    Hey, aren't you a Craftknight?<end_line>
-    Will you listen to my <end_line>
-    lecture on enhancments?<end_line>
-  </ascii>
+	<ascii>
+		You're a Craftknight, aren't you?<end_line>
+		Want to hear about enhancement?<end_line>
+	</ascii>
 </dialogue>
 <choice>
   <info box="simple">

@@ -1,0 +1,14 @@
+Named NPCs generally have one script file per day.
+
+Zenichi, Zen ...
+Day 02, Zenichi, starting town: 18c754c
+
+
+Traveling Peddler / Daughter
+child offers to sell you stuff, mother gives you info on crafting
+Day 01, starting town: 17306cc (use this as a basis)
+Day 02, starting town: 17344cc (child), 17372b2 (mother)
+
+Cat Lover
+Day 02, starting town: 18c69fc
+I THINK this NPC's entire script file is duplicated for every place she appears, but not sure. Will need to check.
