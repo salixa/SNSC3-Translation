@@ -12,3 +12,6 @@ Day 02, starting town: 17344cc (child), 17372b2 (mother)
 Cat Lover
 Day 02, starting town: 18c69fc
 I THINK this NPC's entire script file is duplicated for every place she appears, but not sure. Will need to check.
+
+Weapon Bank Guy
+Day 02, starting town: 173612c

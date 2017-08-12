@@ -8,7 +8,7 @@
 		してたんだよ<end_line>
 	</sjis>
 	<ascii>
-		Nevertheless, why did you two<end_line>
+		Anyways, why did you two<end_line>
 		want to fight the Stray?<end_line>
 	</ascii>
 </dialogue>
@@ -266,7 +266,7 @@
 		話があるんでな<end_line>
 	</sjis>
 	<ascii>
-		I have some business with V.E.<end_line>
+		I have some business with Vee.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -278,8 +278,7 @@
 		家に戻ったみたいだぞ<end_line>
 	</sjis>
 	<ascii>
-		If you're looking for Vee,<end_line>
-		she was at the Chief's house.<end_line>
+		Vee was just at the Chief's house.<end_line>
 		She might be back back home by now.<end_line>
 	</ascii>
 </dialogue>
@@ -375,7 +374,7 @@
 	</sjis>
 	<ascii>
 		<three_dots><end_line>
-    What does he want with V.E?<end_line>
+    What does he want with Vee?<end_line>
     I'm kind of curious<three_dots><end_line>
 	</ascii>
 </dialogue>

@@ -71,8 +71,8 @@
     </sjis>
   </female>
   <ascii>
-    I remember using it long ago<three_dots><end_line>
-    I'm sure that if we go here,<end_line>
+    I remember coming here before<three_dots><end_line>
+    If we go through here,<end_line>
     we should be able to get outside.<end_line>
   </ascii>
 </dialogue>
@@ -115,7 +115,7 @@
   </sjis>
   <ascii>
     Tch<three_dots><end_line>
-    You sure we can <end_line>
+    You sure we can<end_line>
     trust your memory<three_dots>?<end_line>
   </ascii>
 </dialogue>

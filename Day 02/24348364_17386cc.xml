@@ -504,6 +504,10 @@
 			たおしちゃおう！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Alright, let's go<end_line>
+    take care of that Stray!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -514,6 +518,10 @@
 		ソレニハマズ　町ヘト向カウ道ニ<end_line>
 		出ナケレバ　ナリマセンネ<end_line>
 	</sjis>
+  <ascii>
+    Prior To That, We Must Find<end_line>
+    A Way To The Road.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -532,6 +540,9 @@
 			なんとかしなくちゃ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Right!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -550,6 +561,10 @@
 			たおしちゃおう！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Alright, let's go<end_line>
+    take care of that Stray!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -561,6 +576,11 @@
 		町に通じる道に出なければ<end_line>
 		ならんのじゃな<end_line>
 	</sjis>
+  <ascii>
+    Before that,<end_line>
+    we must find a way<end_line>
+    to get to the road.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -579,6 +599,9 @@
 			なんとかしなくちゃ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Right!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -597,6 +620,10 @@
 			たおしちゃおう！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Alright, let's go<end_line>
+    take care of that Stray!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -606,6 +633,9 @@
 	<sjis>
 		<three_dots><end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -615,6 +645,9 @@
 	<sjis>
 		なんとかして町へ続く道へ<end_line>
 	</sjis>
+  <ascii>
+    We have to get to the road<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -631,6 +664,9 @@
 			出てみせるから！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    The road out of town!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -641,6 +677,10 @@
 		耳元で怒鳴るな！<end_line>
 		ちゃんと聞こえている<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Don't yell in my face!<end_line>
+    I can hear you just fine<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -658,6 +698,10 @@
 			たおしちゃおう！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Alright, let's go<end_line>
+    take care of that Stray!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -667,6 +711,10 @@
 		それにはまず町へと向かう道に<end_line>
 		出なければなりませんわ<end_line>
 	</sjis>
+  <ascii>
+    First, we must follow<end_line>
+    the road out of town.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -684,6 +732,9 @@
 			なんとかしなくちゃ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Right!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -694,6 +745,10 @@
 		外に出してもらえないなんて<three_dots><end_line>
 		修行するしかないのかな？<end_line>
 	</sjis>
+  <ascii>
+    He won't let us out<three_dots><end_line>
+    Is there nothing we can do?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -704,6 +759,10 @@
 		アノ門番ヲ　排除スレバ<end_line>
 		通行ハ　可能デスガ<end_line>
 	</sjis>
+  <ascii>
+    You May Eliminate The Gatekeeper.<end_line>
+    Then, Passage Will Be Possible.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -713,6 +772,9 @@
 	<sjis>
 		排除って<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Eliminate him<three_dots>!?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -731,6 +793,11 @@
 			帰れなくなっちゃうよ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    If I did that,<end_line>
+    they wouldn't let me<end_line>
+    back in here!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -740,6 +807,9 @@
 	<sjis>
 		ナルホド<end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -750,6 +820,10 @@
 		外に出してもらえないなんて<three_dots><end_line>
 		修行するしかないのかな？<end_line>
 	</sjis>
+  <ascii>
+    He won't let us out<three_dots><end_line>
+    Is there nothing we can do?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -761,6 +835,10 @@
 		ワガハイのオタケビで<end_line>
 		どかしてみせようぞ<end_line>
 	</sjis>
+  <ascii>
+    If you're okay with scaring him off,<end_line>
+    I can always try a war cry.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -772,6 +850,11 @@
 		どんなの？<end_line>
 		やってみて！<end_line>
 	</sjis>
+  <ascii>
+    Really!?<end_line>
+    What's it sound like?<end_line>
+    Let me hear!<end_line>
+  </ascii>
 </dialogue>
 <bigtext>
 	<partner name="enzi">
@@ -781,6 +864,9 @@
 	<sjis>
 		うにゃーお！！<end_line>
 	</sjis>
+  <ascii>
+    Unyaaaaoh!!<end_line>
+  </ascii>
 </bigtext>
 <dialogue>
 	<partner name="enzi">
@@ -791,6 +877,10 @@
 		<three_dots><end_line>
 		修行するしかないのかな<three_dots><end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+    Guess I'll have to train<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -801,6 +891,10 @@
 		外に出してもらえないなんて<three_dots><end_line>
 		修行するしかないのかな？<end_line>
 	</sjis>
+  <ascii>
+    He won't let us out<three_dots><end_line>
+    Is there nothing we can do?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -811,6 +905,9 @@
 		<three_dots>やはり、あの門番<end_line>
 		消すか？<end_line>
 	</sjis>
+  <ascii>
+    <three_dots>Shall I erase him?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -820,6 +917,9 @@
 	<sjis>
 		それはダメ！<end_line>
 	</sjis>
+  <ascii>
+    Of course not!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -829,6 +929,10 @@
 		外に出してもらえないなんて<three_dots><end_line>
 		修行するしかないのかな？<end_line>
 	</sjis>
+  <ascii>
+    He won't let us out<three_dots><end_line>
+    Is there nothing we can do?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -838,6 +942,10 @@
 		門番さんに私たちの強さを見せる！<end_line>
 		<three_dots>というのはどうでしょう？<end_line>
 	</sjis>
+  <ascii>
+    Let's show him our strength!<end_line>
+    <three_dots>Would that work?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -847,6 +955,10 @@
 		なるほど<three_dots><end_line>
 		でも、どうやって<end_line>
 	</sjis>
+  <ascii>
+    Maybe<three_dots><end_line>
+    But how<three_dots>?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -856,6 +968,10 @@
 		やはり<three_dots><end_line>
 		門番さんをやっつけるしか<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Hmm<three_dots><end_line>
+    If we just got rid of him<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -864,6 +980,9 @@
 	<sjis>
 		それはダメ！<end_line>
 	</sjis>
+  <ascii>
+    We can't do that!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -875,6 +994,11 @@
 		抜け道があったはずだから<end_line>
 		行ってみよう！<end_line>
 	</sjis>
+  <ascii>
+    I'm sure there's a way around<end_line>
+    through Deikle Mine.<end_line>
+    Let's check it out!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -885,6 +1009,11 @@
 		他ニ　何モ情報ガ無イ　今<end_line>
 		アナタヲ　アテニスルシカ　アリマセン<end_line>
 	</sjis>
+  <ascii>
+    In The Absence Of Knowledge,<end_line>
+    I Unfortunately Must Rely<end_line>
+    On Your Guidance.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -895,6 +1024,9 @@
 		もしかして<end_line>
 		ほとんど信用されてない！？<end_line>
 	</sjis>
+  <ascii>
+    You don't trust me!?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -906,6 +1038,11 @@
 		抜け道があったはずだから<end_line>
 		行ってみよう！<end_line>
 	</sjis>
+  <ascii>
+    I'm sure there's a way around<end_line>
+    through Deikle Mine.<end_line>
+    Let's check it out!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -917,6 +1054,10 @@
 		おぬしに一日の長があるからのう<end_line>
 		行ってみる価値はあるの<end_line>
 	</sjis>
+  <ascii>
+    Certainly, you are more <end_line>
+    knowledgable than I of the<end_line>
+    geography of this region.
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -926,6 +1067,9 @@
 	<sjis>
 		チョウ？<end_line>
 	</sjis>
+  <ascii>
+    Geography?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -942,6 +1086,9 @@
 			なにそれ？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    What's that?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -953,6 +1100,10 @@
 		おぬしのことをほめておるから<end_line>
 		安心せい<end_line>
 	</sjis>
+  <ascii>
+    It's okay.<end_line>
+    It's totally fine you<end_line>
+    don't know anything.<end_line>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -964,6 +1115,11 @@
 		抜け道があったはずだから<end_line>
 		行ってみよう！<end_line>
 	</sjis>
+  <ascii>
+    I'm sure there's a way around<end_line>
+    through Deikle Mine.<end_line>
+    Let's check it out!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -974,6 +1130,10 @@
 		その話がまちがいだったら<end_line>
 		どんな目にあうかカクゴしておけ<end_line>
 	</sjis>
+  <ascii>
+    You better be right.<end_line>
+    Or else<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -984,6 +1144,10 @@
 		うわ！<end_line>
 		こういう時はなんか楽しそうだ<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Woah!<end_line>
+    You look like you're having fun<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -994,6 +1158,11 @@
 		抜け道があったはずだから<end_line>
 		行ってみよう！<end_line>
 	</sjis>
+  <ascii>
+    I'm sure there's a way around<end_line>
+    through Deikle Mine.<end_line>
+    Let's check it out!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1002,6 +1171,9 @@
 	<sjis>
 		少し心配ですわ<three_dots><end_line>
 	</sjis>
+  <ascii>
+    I'm a bit worried<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1011,6 +1183,10 @@
 		大丈夫！<end_line>
 		こわくないから<end_line>
 	</sjis>
+  <ascii>
+    It'l be fine!<end_line>
+    The mine isn't scary at all.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1021,6 +1197,11 @@
 		あなたのカンが当たるかどうかが<end_line>
 		心配なんですわ<end_line>
 	</sjis>
+  <ascii>
+    I-I'm not scared!<end_line>
+    I'm just worried about whether<end_line>
+    your intuition is correct.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1041,6 +1222,10 @@
 			町の方まで行ってみよう！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Let's find the detour in the Mine,<end_line>
+    and make our way to the road!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1052,6 +1237,11 @@
 		<three_dots><three_dots><three_dots><three_dots><three_dots><three_dots><three_dots><three_dots><end_line>
 		完了<end_line>
 	</sjis>
+  <ascii>
+    Registering New Route.<end_line>
+    <three_dots><three_dots><three_dots><three_dots><three_dots><three_dots><three_dots><three_dots><end_line>
+    Complete.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1063,6 +1253,10 @@
 		　がんばってるんだろうけど<end_line>
 		　返事くらいして欲しいな<three_dots>）<end_line>
 	</sjis>
+  <ascii>
+    (I can tell <partner> is trying,<end_line>
+     but I wish they'd reply<three_dots>)<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1083,6 +1277,10 @@
 			町の方まで行ってみよう！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Let's find the detour in the Mine,<end_line>
+    and make our way to the road!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1094,6 +1292,11 @@
 		虎穴に入らずんば虎子を得ず<end_line>
 		とも言うからの<end_line>
 	</sjis>
+  <ascii>
+    Right.<end_line>
+    Jump right into the tiger's den,<end_line>
+    as they say.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="male">
@@ -1105,6 +1308,10 @@
 		コケツ？<end_line>
 		なに言ってんだ？<end_line>
 	</sjis>
+  <ascii>
+    Tiger's den?<end_line>
+    <three_dots>What?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="female">
@@ -1116,6 +1323,10 @@
 		コケツ<three_dots>？<end_line>
 		<three_dots>ってヘンなイミじゃないでしょうね？<end_line>
 	</sjis>
+  <ascii>
+    Tiger's den?<end_line>
+    <three_dots>What?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1126,6 +1337,10 @@
 		ええい、もうよい！<end_line>
 		先に進むぞ<end_line>
 	</sjis>
+  <ascii>
+    Really!?<end_line>
+    Forget it. Let's go.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1146,6 +1361,10 @@
 			町の方まで行ってみよう！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Let's find the detour in the Mine,<end_line>
+    and make our way to the road!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1156,6 +1375,10 @@
 		<three_dots><end_line>
 		少しはだまって歩けないのか？<end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+    Can you just shut up for a second?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1176,6 +1399,11 @@
 			話し掛けてあげたのに<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Well, sorry!<end_line>
+    I'm talking to you because<end_line>
+    you looked lonely.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1187,6 +1415,11 @@
 		ふざけるな<three_dots><end_line>
 		さびしいのはキサマの方だろ？<end_line>
 	</sjis>
+  <ascii>
+    Me? Lonely?<end_line>
+    As if.<end_line>
+    Isn't that you?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1205,6 +1438,9 @@
 			どっちでもいいや<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Oh forget it<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1215,6 +1451,10 @@
 		ちょ<three_dots>っ！<end_line>
 		ちゃんと話を聞け！<end_line>
 	</sjis>
+  <ascii>
+    Tch<three_dots>!<end_line>
+    Hey, listen to me!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1234,6 +1474,10 @@
 			町の方まで行ってみよう！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Let's find the detour in the Mine,<end_line>
+    and make our way to the road!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1243,6 +1487,10 @@
 		はい<three_dots><end_line>
 		<three_dots>って<end_line>
 	</sjis>
+  <ascii>
+    Okay<three_dots><end_line>
+    <three_dots>Mmm<end_line>
+  </ascii>
 </dialogue>
 <bigtext>
 	<partner name="rufeel">
@@ -1251,6 +1499,9 @@
 	<sjis>
 		ふひゃん！<end_line>
 	</sjis>
+  <ascii>
+    Hyah!<end_line>
+  </ascii>
 </bigtext>
 <dialogue>
 	<partner name="rufeel">
@@ -1260,6 +1511,10 @@
 		ななな、何かが後ろに<end_line>
 		首のトコに！？<end_line>
 	</sjis>
+  <ascii>
+    Wh-wh-what was that!?<end_line>
+    There was something on my neck!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1269,6 +1524,9 @@
 		もしかして<three_dots><end_line>
 		その、虫？<end_line>
 	</sjis>
+  <ascii>
+    A bug, maybe?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1278,6 +1536,10 @@
 		おほほほほほ！<end_line>
 		さ、さあ、先を急ぎましょう！<end_line>
 	</sjis>
+  <ascii>
+    Ohohohoho!<end_line>
+    N-now then, let's move on!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1288,6 +1550,11 @@
 		アニキが親方に話があるみたいだから<end_line>
 		戻って聞きに行こう<end_line>
 	</sjis>
+  <ascii>
+    Seems Brother has some <end_line>
+    business with Master.<end_line>
+    We should go find them.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1299,6 +1566,11 @@
 		アノ　あにきト言ウ人物ハ<end_line>
 		信用デキマセン<end_line>
 	</sjis>
+  <ascii>
+    Let Us Hurry.<end_line>
+    I Do Not Trust This Man<end_line>
+    You Call Brother.<end_line>
+  </asc>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1309,6 +1581,10 @@
 		そんなことないよ<end_line>
 		アニキは親方の知り合いで<end_line>
 	</sjis>
+  <ascii>
+    No need to worry,<end_line>
+    Master's met him before.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1325,6 +1601,9 @@
 			いい人だよ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    He's a good person!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1335,6 +1614,10 @@
 		ナルホド<three_dots><end_line>
 		ヤハリ　急ギマショウ<end_line>
 	</sjis>
+  <ascii>
+    Is That So<three_dots><end_line>
+    In Any Case, I Would Like To Hurry.<end_line>
+  </asc>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1345,6 +1628,11 @@
 		アニキが親方に話があるみたいだから<end_line>
 		戻って聞きに行こう<end_line>
 	</sjis>
+  <ascii>
+    Seems Brother has some <end_line>
+    business with Master.<end_line>
+    We should go find them.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1356,6 +1644,11 @@
 		あの、アニキとか言う男<end_line>
 		何をしでかすかわからんからの<end_line>
 	</sjis>
+  <ascii>
+    Let us hurry!<end_line>
+    We don't know what kind of mess this<end_line>
+    Brother person may be causing.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1366,6 +1659,10 @@
 		そんなことないよ<end_line>
 		アニキは親方の知り合いで<end_line>
 	</sjis>
+  <ascii>
+    No need to worry,<end_line>
+    Master's met him before.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1382,6 +1679,9 @@
 			いい人だよ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    He's a good person!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1392,6 +1692,11 @@
 		あやつはきっとネコをかぶっておるぞ<end_line>
 		あやつの本性は<three_dots><end_line>
 	</sjis>
+  <ascii>
+    I'm sure he's up to something.<end_line>
+    He appears sly and cunning<three_dots><end_line>
+    Just like a cat.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1402,6 +1707,10 @@
 		ネコをかぶる？<end_line>
 		それって<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Like a cat?<end_line>
+    You mean like<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1412,6 +1721,11 @@
 		ええい、ワガハイはネコではなく<end_line>
 		トラじゃと言っておるだろう！<end_line>
 	</sjis>
+  <ascii>
+    Hey, no, I told you,<end_line>
+    I am not a cat,<end_line>
+    I am a tiger!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1428,6 +1742,9 @@
 			まだ何も言ってないよ！？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    I didn't say anything!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1438,6 +1755,11 @@
 		アニキが親方に話があるみたいだから<end_line>
 		戻って聞きに行こう<end_line>
 	</sjis>
+  <ascii>
+    Seems Brother has some <end_line>
+    business with Master.<end_line>
+    We should go find them.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1448,6 +1770,10 @@
 		あの男、信用できん！<end_line>
 		<three_dots>急ぐぞ！<end_line>
 	</sjis>
+  <ascii>
+    I cannot trust that man!<end_line>
+    <three_dots>Let's hurry!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1459,6 +1785,11 @@
 		アニキはいい人だって<end_line>
 		ミューノだって安心だよ<end_line>
 	</sjis>
+  <ascii>
+    But<three_dots><end_line>
+    Brother's a good person.<end_line>
+    Even Murno thinks so.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1470,6 +1801,11 @@
 		オメデタイやつめ<three_dots><end_line>
 		そんなことで、あいつが<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Tch<three_dots><end_line>
+    So naive<three_dots><end_line>
+    That person is<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1480,6 +1816,10 @@
 		ちっ、早くしろ！<end_line>
 		置いてくぞ！<end_line>
 	</sjis>
+  <ascii>
+    Tch, hurry up!<end_line>
+    I'll leave you behind!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1489,6 +1829,9 @@
 	<sjis>
 		はぁ<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Huh<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1505,6 +1848,9 @@
 			ちょっと待ってよ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Wait for me!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1514,6 +1860,11 @@
 		アニキが親方に話があるみたいだから<end_line>
 		戻って聞きに行こう<end_line>
 	</sjis>
+  <ascii>
+    Seems Brother has some <end_line>
+    business with Master.<end_line>
+    We should go find them.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1524,6 +1875,11 @@
 		ミューノ様にキケンな男を<end_line>
 		近づけるわけには行きませんわ！<end_line>
 	</sjis>
+  <ascii>
+    Yes, let us hurry!<end_line>
+    I can't let such a dangerous man<end_line>
+    get close to Lady Murno!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1533,6 +1889,10 @@
 		キケンな男って<three_dots><end_line>
 		アニキは顔はコワイけど<end_line>
 	</sjis>
+  <ascii>
+    Dangerous man<three_dots><end_line>
+    Sure he may look scary.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1548,6 +1908,9 @@
 			いい人だよ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    But he's a good person!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1558,6 +1921,9 @@
 		たぶらかしているのかも<end_line>
 		しれませんわ！<end_line>
 	</sjis>
+  <ascii>
+    He may just be deceiving everyone!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1567,6 +1933,10 @@
 		た、たぶらかす！？<end_line>
 		ヒドイ言われようだ！<end_line>
 	</sjis>
+  <ascii>
+    W-what!?<end_line>
+    You're so cruel!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
