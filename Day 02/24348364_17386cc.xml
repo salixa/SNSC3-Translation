@@ -1057,7 +1057,8 @@
   <ascii>
     Certainly, you are more <end_line>
     knowledgable than I of the<end_line>
-    geography of this region.
+    geography of this region.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1104,6 +1105,7 @@
     It's okay.<end_line>
     It's totally fine you<end_line>
     don't know anything.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1570,7 +1572,7 @@
     Let Us Hurry.<end_line>
     I Do Not Trust This Man<end_line>
     You Call Brother.<end_line>
-  </asc>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1617,7 +1619,7 @@
   <ascii>
     Is That So<three_dots><end_line>
     In Any Case, I Would Like To Hurry.<end_line>
-  </asc>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1947,6 +1949,11 @@
 		ミューノにヒドイこと言うなんて<end_line>
 		アニキに注意しなくちゃ！<end_line>
 	</sjis>
+  <ascii>
+    Bro must have said<end_line>
+    something rude to Murno.<end_line>
+    I have to tell him off!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1957,6 +1964,10 @@
 		注意ダケデハ　タリマセン<end_line>
 		彼モ　追イ出シマショウ<end_line>
 	</sjis>
+  <ascii>
+    That Is Not Enough.<end_line>
+    We Must Drive Him Away.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1967,6 +1978,9 @@
 		も、もしかして<end_line>
 		怒ってる！？<end_line>
 	</sjis>
+  <ascii>
+    Woah, you're actually angry!?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1977,6 +1991,11 @@
 		ミューノにヒドイこと言うなんて<end_line>
 		アニキに注意しなくちゃ！<end_line>
 	</sjis>
+  <ascii>
+    Bro must have said<end_line>
+    something rude to Murno.<end_line>
+    I have to tell him off!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1988,6 +2007,11 @@
 		外に追い出すなどとは<end_line>
 		無礼千万！<end_line>
 	</sjis>
+  <ascii>
+    He doesn't appear to have<end_line>
+    touched her, but still,<end_line>
+    forcing her outside is rude!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1997,6 +2021,9 @@
 	<sjis>
 		キツイ仕置きが必要かのう<end_line>
 	</sjis>
+  <ascii>
+    He needs a harsh punishment.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -2007,6 +2034,9 @@
 		お<three_dots><end_line>
 		おてやわらかに<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Go easy on him, please<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -2017,6 +2047,11 @@
 		ミューノにヒドイこと言うなんて<end_line>
 		アニキに注意しなくちゃ！<end_line>
 	</sjis>
+  <ascii>
+    Bro must have said<end_line>
+    something rude to Murno.<end_line>
+    I have to tell him off!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -2028,6 +2063,11 @@
 		まずはあの目ざわりな顔の形を<end_line>
 		変えてやろう<three_dots><end_line>
 	</sjis>
+  <ascii>
+    That isn't nearly enough<three_dots><end_line>
+    Let's start with some forced<end_line>
+    facial reconstruction<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -2046,6 +2086,10 @@
 			おっそろしいこと言ってない！？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Can you stop saying<end_line>
+    things like that!?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -2055,6 +2099,11 @@
 		ミューノにヒドイこと言うなんて<end_line>
 		アニキに注意しなくちゃ！<end_line>
 	</sjis>
+  <ascii>
+    Bro must have said<end_line>
+    something rude to Murno.<end_line>
+    I have to tell him off!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -2065,6 +2114,10 @@
 		注意だけでは足りませんわ！<end_line>
 		もっとこらしめてあげないと！<end_line>
 	</sjis>
+  <ascii>
+    That is not enough!<end_line>
+    He must be disciplined!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -2075,6 +2128,10 @@
 		アニキにも事情があったのかも<end_line>
 		しれないし<three_dots><end_line>
 	</sjis>
+  <ascii>
+    But well,<end_line>
+    I'm sure he has his reasons<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -2085,6 +2142,11 @@
 		あなたにはミューノ様を守る<end_line>
 		自覚が足りませんわ！<end_line>
 	</sjis>
+  <ascii>
+    Don't defend him!<end_line>
+    You are supposed to be<end_line>
+    protecting Lady Murno, are you not!?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -2093,6 +2155,9 @@
 	<sjis>
 		ああ！　すみません！！<end_line>
 	</sjis>
+  <ascii>
+    Ah, right! I'm sorry!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -2108,6 +2173,9 @@
 			（<three_dots>って、なんでわたしが<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    (<three_dots>wait,<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -2116,4 +2184,7 @@
 	<sjis>
 		　しかられてるんだろ<three_dots>）<end_line>
 	</sjis>
+  <ascii>
+     why am I being scolded<three_dots>)<end_line>
+  </ascii>
 </dialogue>

@@ -17,6 +17,11 @@
 			<three_dots>って、どこにいるんだろう？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    We have to find those two.<end_line>
+    They took Murno's precious stone<three_dots><end_line>
+    Where could they be<three_dots>?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -28,6 +33,11 @@
 		ドコニイルカ　知ッテイル者ガ<end_line>
 		イルカモ　シレマセン<end_line>
 	</sjis>
+  <ascii>
+    There May Be Someone<end_line>
+    Among Their Comrades<end_line>
+    Who Will Know.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -48,6 +58,11 @@
 			いるはずだよね<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Comrades<three_dots><end_line>
+    Bostaph's Workshop then.<end_line>
+    Let's check it out.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -68,6 +83,11 @@
 			<three_dots>って、どこにいるんだろう？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    We have to find those two.<end_line>
+    They took Murno's precious stone<three_dots><end_line>
+    Where could they be<three_dots>?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -79,6 +99,11 @@
 		まずはヤツらの本拠地を<end_line>
 		調査すべきじゃろう<end_line>
 	</sjis>
+  <ascii>
+    Hmm.<end_line>
+    First, we should investigate<end_line>
+    their headquarters.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -88,6 +113,9 @@
 	<sjis>
 		本拠地ってことは<end_line>
 	</sjis>
+  <ascii>
+    Headquarters<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -104,6 +132,10 @@
 			ボスタフ工房のことね<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Bostaph's Workshop then.<end_line>
+    Let's go.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -124,6 +156,11 @@
 			<three_dots>って、どこにいるんだろう？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    We have to find those two.<end_line>
+    They took Murno's precious stone<three_dots><end_line>
+    Where could they be<three_dots>?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -135,6 +172,11 @@
 		まずは、ヤツらのアジトからでも<end_line>
 		調べにいくんだ<end_line>
 	</sjis>
+  <ascii>
+    We don't have time to waste.<end_line>
+    We should start by looking<end_line>
+    into their usual hideout.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -145,6 +187,10 @@
 		アジトって<three_dots><end_line>
 		ボスタフ工房か<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Hideout<three_dots><end_line>
+    So Bostaph's Workshop<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -164,6 +210,11 @@
 			<three_dots>って、どこにいるんだろう？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    We have to find those two.<end_line>
+    They took Murno's precious stone<three_dots><end_line>
+    Where could they be<three_dots>?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -174,6 +225,11 @@
 		どこでもかまいませんから<end_line>
 		手当たりしだいさがしましょう！<end_line>
 	</sjis>
+  <ascii>
+    We do not have time to waste.<end_line>
+    We'll find them, even if we have<end_line>
+    to search every nook and cranny!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -183,6 +239,10 @@
 		あいつらの工房に<end_line>
 		もどってないかなぁ<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Maybe they went back<end_line>
+    to their workshop<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">

@@ -45,7 +45,7 @@
 	<ascii>
 		The whole 'Forbidden Love'<end_line>
     story was a huge success!<end_line>
-		It's all thanks to Miss V.E<three_dots><end_line>
+		It's all thanks to Miss Vee<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -57,7 +57,7 @@
 		なんだか少し悪いくらい<end_line>
 	</sjis>
 	<ascii>
-		The village head was moved.<end_line>
+		The village head was moved to tears.<end_line>
 		I kinda felt bad lying to him<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -108,7 +108,7 @@
 	</female>
   <ascii>
     (Murno looks like she had fun.<end_line>
-    I'm glad it worked out<three_dots>)<end_line>
+     I'm glad it worked out<three_dots>)<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -174,8 +174,9 @@
 		居づらくて<three_dots><end_line>
 	</sjis>
 	<ascii>
-		Not really,<end_line>
-		but it was difficult to stay inside.<end_line>
+		Not exactly,<end_line>
+		but it was difficult<end_line>
+    to stay inside, so<three_dots>.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>

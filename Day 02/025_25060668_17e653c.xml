@@ -40,6 +40,7 @@
 		さがし回ってるみたいだ<end_line>
 	</sjis>
 	<ascii>
+    Yeah.<end_line>
 		They've even hired thugs,<end_line>
 		and seem to be searching everywhere.<end_line>
 	</ascii>
@@ -55,7 +56,7 @@
 	<ascii>	
 		There was an earthquake just now,<end_line>
 		wasn't there?<end_line>
-		Seems like they left then.<end_line>
+		Seems like Strays appeared then.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -143,7 +144,7 @@
 	<ascii>
 		Lately, Strays have been causing<end_line>
 		even more injuries in town,<end_line>
-		so there's no reason to stop them.<end_line>
+		so we can't just stop him.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -240,7 +241,7 @@
 	</sjis>
 	<ascii>
     I think<three_dots><end_line>
-		It'd be better if I met with him.<end_line>
+		It'd be better if I talked to him.<end_line>
 		So I'll be going to town.<end_line>
 	</ascii>
 </dialogue>
@@ -269,7 +270,7 @@
 		なんだって？<end_line>
 	</sjis>
 	<ascii>
-		What was that?<end_line>
+		What!?<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -556,7 +557,7 @@
 		きゃあっ！！！<end_line>
 	</sjis>
 	<ascii>
-		Uwaaaah!!<end_line>
+		Kyaa!!<end_line>
 	</ascii>
 </bigtext>
 <dialogue>
@@ -591,7 +592,7 @@
 		ミューノの声か！<end_line>
 	</sjis>
 	<ascii>
-		Was that Murno!?<end_line>
+		Murno!<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
