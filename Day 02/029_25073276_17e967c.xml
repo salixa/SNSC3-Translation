@@ -52,8 +52,8 @@
 	</sjis>
 	<ascii>
 		Oh man~<three_dots><end_line>
-		Like I thought,<end_line>
-		getting pissed was a bad idea<three_dots><end_line>
+		Like I thought, getting<end_line>
+		pissed off was a bad idea<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -66,7 +66,7 @@
 	</sjis>
 	<ascii>
 		Bro<three_dots><end_line>
-		Why<three_dots>?<end_line>
+		Why are you here<three_dots>?<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -104,8 +104,8 @@
 		わかったよ！<end_line>
 	</sjis>
 	<ascii>
-		Hmmm<three_dots><end_line>
-		Oh, I got it!<end_line>
+		Ugh<three_dots><end_line>
+		Oh, fine!<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -120,7 +120,7 @@
 	<ascii>
 		You see, Vee told me to<end_line>
 		not say anything,<end_line>
-		but it really does bother me<three_dots><end_line>
+		but it really bothers me<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -172,7 +172,7 @@
 		<player_nickname><three_dots><end_line>
 	</sjis>
 	<ascii>
-		<three_dots><end_line>
+		<player_nickname><three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -219,7 +219,7 @@
 		ギリギリまでな<end_line>
 	</sjis>
 	<ascii>
-		I know.<end_line>
+		I know, I know.<end_line>
 		I'll stay out of your way.<end_line>
 		I said 'just in case', you know.<end_line>
 	</ascii>

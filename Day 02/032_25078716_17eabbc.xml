@@ -110,8 +110,8 @@
 	</sjis>
 	<ascii>
 		They're fine.<end_line>
-		They're bring treated<end_line>
-    in the workshop.<end_line>
+		They're being treated<end_line>
+    at the workshop.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -161,7 +161,7 @@
 	<ascii>
 		I heard some of our<end_line>
     people were left behind.<end_line>
-    so I came for them.<end_line>
+    So I came to get them.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -173,7 +173,7 @@
 		サージさん<end_line>
 	</sjis>
 	<ascii>
-		Seems like you're fine too, Surge.<end_line>
+		Seems like you're fine too, Sarge.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -262,8 +262,8 @@
 	</sjis>
 	<ascii>
 		Tch<three_dots><end_line>
-		It<three_dots>is true<end_line>
-		that I'm in your debt<three_dots><end_line>
+		It<three_dots>is true that<end_line>
+		I'm in your debt<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -298,7 +298,7 @@
 		ただし、条件がある<end_line>
 	</sjis>
 	<ascii>
-		I have a condition.<end_line>
+		But, on one condition.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -365,7 +365,7 @@
 		そんなことじゃない！<end_line>
 	</sjis>
 	<ascii>
-		That's not it!<end_line>
+		Not that!<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -465,8 +465,8 @@
 	</sjis>
 	<ascii>
 		Shut up!<end_line>
-    I still have my pride as an<end_line>
-    upperclassman at the atelier.<end_line>
+    I still have my pride as<end_line>
+    a senior at the atelier.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -481,7 +481,7 @@
 	<ascii>
     I'll set a bad example<end_line>
     if I just keep losing.<end_line>
-		So fight against me one last time!<end_line>
+		So fight against me, one last time!<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -635,7 +635,7 @@
 	</female>
   <ascii>
     I can't.<end_line>
-    Setting things through fighting<end_line>
+    Settling things through fighting<end_line>
     is just meaningless<three_dots><end_line>
   </ascii>
 </dialogue>

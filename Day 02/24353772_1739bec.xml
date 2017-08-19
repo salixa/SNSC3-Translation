@@ -253,6 +253,10 @@
 		ディックル鉱洞の奥に行こう！<end_line>
 		きっとあいつらはそこだ！<end_line>
 	</sjis>
+  <ascii>
+    To Deikle Mine!<end_line>
+    I'm sure they're in there!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -264,6 +268,11 @@
 		アノ者タチガ　待チ伏セテイル<end_line>
 		可能性ガアリマス<end_line>
 	</sjis>
+  <ascii>
+    Please Be Careful.<end_line>
+    It Is Possible They Are<end_line>
+    Preparing An Ambush.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -273,6 +282,9 @@
 	<sjis>
 		たしかに<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Right<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -284,6 +296,11 @@
 		考エラレル可能性ガ　６８ぱたーん<end_line>
 		アリマスガ　聞キマスカ？<end_line>
 	</sjis>
+  <ascii>
+    There Are 68 Different<end_line>
+    Ways They May Act.<end_line>
+    Do You Want To Hear Them?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -294,6 +311,10 @@
 		と、とりあえず<end_line>
 		行ってみよう！<end_line>
 	</sjis>
+  <ascii>
+    C-come on now,<end_line>
+    let's hurry!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -304,6 +325,10 @@
 		ディックル鉱洞の奥に行こう！<end_line>
 		きっとあいつらはそこだ！<end_line>
 	</sjis>
+  <ascii>
+    To Deikle Mine!<end_line>
+    I'm sure they're in there!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -315,6 +340,10 @@
 		もしかしたらワナをしかけて<end_line>
 		おるやもしれんが<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Considering our opponents,<end_line>
+    they be setting up a trap<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -326,6 +355,11 @@
 		虎穴に入らずんば虎子を得ず<end_line>
 		とも言うからの！<end_line>
 	</sjis>
+  <ascii>
+    However<three_dots><end_line>
+    You cannot capture a tiger cub<end_line>
+    without entering it's lair!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="male">
@@ -337,6 +371,10 @@
 		コケツ？<end_line>
 		小さいケツのことか？<end_line>
 	</sjis>
+  <ascii>
+    Tiger<three_dots> Lair?<end_line>
+    They live in places like this?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="female">
@@ -348,6 +386,10 @@
 		コケツ<three_dots>？<end_line>
 		<three_dots>おしりが小さいってことなの？<end_line>
 	</sjis>
+  <ascii>
+    Tiger<three_dots> Lair?<end_line>
+    They live in places like this?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -358,6 +400,10 @@
 		ええい、もうよい！<end_line>
 		時間がもったいないわ！<end_line>
 	</sjis>
+  <ascii>
+    Forget it!<end_line>
+    We're wasting time!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -368,6 +414,10 @@
 		ディックル鉱洞の奥に行こう！<end_line>
 		きっとあいつらはそこだ！<end_line>
 	</sjis>
+  <ascii>
+    To Deikle Mine!<end_line>
+    I'm sure they're in there!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -379,6 +429,10 @@
 		ヤツらのハカバには<end_line>
 		おあつらえ向きの場所だ<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Kuku<three_dots> Inside a dark cave<three_dots><end_line>
+    This is the perfect grave<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -389,6 +443,10 @@
 		す<three_dots><end_line>
 		すごくブッソウなことになってる！？<end_line>
 	</sjis>
+  <ascii>
+    Woah<three_dots><end_line>
+    That escalated quickly!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -398,6 +456,10 @@
 		ディックル鉱洞の奥に行こう！<end_line>
 		きっとあいつらはそこだ！<end_line>
 	</sjis>
+  <ascii>
+    To Deikle Mine!<end_line>
+    I'm sure they're in there!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -408,6 +470,10 @@
 		あのネズミさんたちには<end_line>
 		お似合いの場所ですわ<end_line>
 	</sjis>
+  <ascii>
+    Inside of a hole<three_dots><end_line>
+    How fitting for rats like them.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -417,6 +483,10 @@
 		行きますわよ<end_line>
 		狩りの時間です！<end_line>
 	</sjis>
+  <ascii>
+    Let's go.<end_line>
+    It's time for the hunt!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -426,6 +496,9 @@
 		<partner>がとても<end_line>
 		コワイことを～！？<end_line>
 	</sjis>
+  <ascii>
+    Woah, hey, calm down!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -436,6 +509,10 @@
 		ディックル鉱洞の奥に行こう！<end_line>
 		きっとあいつらはそこだ！<end_line>
 	</sjis>
+  <ascii>
+    To Deikle Mine!<end_line>
+    I'm sure they're in there!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -447,6 +524,11 @@
 		アノ者タチノ　仲間デアル<end_line>
 		可能性ガ　高イト思ワレマス<end_line>
 	</sjis>
+  <ascii>
+    The Presence Earlier May<end_line>
+    Have Been Their Ally.<end_line>
+    The Probability is High.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -456,6 +538,9 @@
 	<sjis>
 		なるほど<three_dots><end_line>
 	</sjis>
+  <ascii>
+    I see<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -467,6 +552,11 @@
 		考エラレル可能性ガ　３６ぱたーん<end_line>
 		アリマスガ　聞キマスカ？<end_line>
 	</sjis>
+  <ascii>
+    There Now Are 36 Ways In <end_line>
+    Which They May Proceed.<end_line>
+    Do You Want To Hear Them?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -477,6 +567,10 @@
 		と、とりあえず<end_line>
 		行ってみよう！<end_line>
 	</sjis>
+  <ascii>
+    C-come on now,<end_line>
+    let's hurry!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -487,6 +581,10 @@
 		ディックル鉱洞の奥に行こう！<end_line>
 		きっとあいつらはそこだ！<end_line>
 	</sjis>
+  <ascii>
+    To Deikle Mine!<end_line>
+    I'm sure they're in there!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -498,6 +596,11 @@
 		先ほどの気配はヤツらの仲間かもしれん<end_line>
 		かなりウデが立つようじゃぞ<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Be careful.<end_line>
+    The powerful presence I felt<end_line>
+    earlier may have been their ally.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -507,6 +610,9 @@
 	<sjis>
 		ジャマをされるとやっかいかもしれん<end_line>
 	</sjis>
+  <ascii>
+    Things may become troublesome.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -517,6 +623,10 @@
 		とにかく<end_line>
 		行ってみるしかない！<end_line>
 	</sjis>
+  <ascii>
+    At any rate, all we can<end_line>
+    do is keep moving forward!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -527,6 +637,10 @@
 		ディックル鉱洞の奥に行こう！<end_line>
 		きっとあいつらはそこだ！<end_line>
 	</sjis>
+  <ascii>
+    To Deikle Mine!<end_line>
+    I'm sure they're in there!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -538,6 +652,11 @@
 		きっとまだゴミの様にはいつくばって<end_line>
 		こちらの様子をのぞいているぞ<three_dots><end_line>
 	</sjis>
+  <ascii>
+    I'm sure that was their<end_line>
+    ally we noticed earlier.<end_line>
+    Spying on us<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -547,6 +666,9 @@
 	<sjis>
 		そうかもしれないけど<end_line>
 	</sjis>
+  <ascii>
+    Maybe.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -565,6 +687,10 @@
 			先に行こう<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    No point worrying about it now.<end_line>
+    Let's go.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -576,6 +702,11 @@
 		ゴミが何をたくらもうと<end_line>
 		ひねりつぶすだけだ<end_line>
 	</sjis>
+  <ascii>
+    Fine.<end_line>
+    Whatever plan those trash have<end_line>
+    have come up with, we'll crush them.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -585,6 +716,10 @@
 		ディックル鉱洞の奥に行こう！<end_line>
 		きっとあいつらはそこだ！<end_line>
 	</sjis>
+  <ascii>
+    To Deikle Mine!<end_line>
+    I'm sure they're in there!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -595,6 +730,11 @@
 		ドブネズミみたいにコソコソと<end_line>
 		嗅ぎ回っているみたいですが<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Their allies are<end_line>
+    attempting to spy on us.<end_line>
+    Sneaky little rats<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -604,6 +744,10 @@
 		みつけたら狩るだけですわ<end_line>
 		気にしないで行きましょう！<end_line>
 	</sjis>
+  <ascii>
+    No matter, I shall hunt them<end_line>
+    down if the opportunity arises.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -613,6 +757,10 @@
 		<partner>がかなり<end_line>
 		ケダモノに～！？<end_line>
 	</sjis>
+  <ascii>
+    <partner>'s like a completely<end_line>
+    different person! Er, Summon Beast.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -623,6 +771,10 @@
 		ディックル鉱洞の奥に行こう！<end_line>
 		きっとあいつらはそこだ！<end_line>
 	</sjis>
+  <ascii>
+    To Deikle Mine!<end_line>
+    I'm sure they're in there!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -634,6 +786,11 @@
 		想定ノ範囲内デスカラ<end_line>
 		特ニ問題ハ　アリマセン<end_line>
 	</sjis>
+  <ascii>
+    Our Spy Turned Out To Be<end_line>
+    Your Brother. That Possibility<end_line>
+    Was Accounted For.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -643,6 +800,9 @@
 	<sjis>
 		つまり<three_dots>？<end_line>
 	</sjis>
+  <ascii>
+    Meaning<three_dots>?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -654,6 +814,11 @@
 		３６ぱたーんノ　可能性ニ<end_line>
 		フクマレテイタ　ト言ウ事デス<end_line>
 	</sjis>
+  <ascii>
+    Of The 36 Possibilities<end_line>
+    I Had Compiled Earlier,<end_line>
+    This Was One Such Possibility.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -663,6 +828,13 @@
 	<sjis>
 		あ、ああ、そうなんだ<three_dots><end_line>
 	</sjis>
+  <ascii>
+    O-Oh, I see<three_dots><end_line>
+  </ascii>
+  <ascii>
+    To Deikle Mine!<end_line>
+    I'm sure they're in there!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -673,6 +845,10 @@
 		ディックル鉱洞の奥に行こう！<end_line>
 		きっとあいつらはそこだ！<end_line>
 	</sjis>
+  <ascii>
+    To Deikle Mine!<end_line>
+    I'm sure they're in there!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -684,6 +860,11 @@
 		まだあやつが敵でないと決まった<end_line>
 		ワケではないからの<end_line>
 	</sjis>
+  <ascii>
+    So our mysterious presence was<end_line>
+    your Brother. But that does not<end_line>
+    mean he is on our side.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -693,6 +874,9 @@
 	<sjis>
 		敵じゃないって決まってるよ！<end_line>
 	</sjis>
+  <ascii>
+    He's obviously not an enemy!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -703,6 +887,10 @@
 		ディックル鉱洞の奥に行こう！<end_line>
 		きっとあいつらはそこだ！<end_line>
 	</sjis>
+  <ascii>
+    To Deikle Mine!<end_line>
+    I'm sure they're in there!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -713,6 +901,10 @@
 		ちっ<three_dots>　あの男<end_line>
 		まぎらわしいヤツだ<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Tch<three_dots><end_line>
+    What a strange man<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -733,6 +925,11 @@
 			わたしたちを心配してくれてるんだし<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    You mean Bro?<end_line>
+    He's not strange,<end_line>
+    he was just worried about us.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -749,6 +946,9 @@
 			「わたしたち」だと<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Us, you say<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -759,6 +959,11 @@
 		ふざけるな！<end_line>
 		心配されているのは、キサマだけだ<end_line>
 	</sjis>
+  <ascii>
+    Don't be ridiculous!<end_line>
+    It is only you he should<end_line>
+    be worried about.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -768,6 +973,9 @@
 	<sjis>
 		あ、そうか<end_line>
 	</sjis>
+  <ascii>
+    Ah, is that so.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -784,6 +992,9 @@
 			で、<partner>にはわたしが<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    So you're saying you'll be fine<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -793,6 +1004,9 @@
 	<sjis>
 		いるから大丈夫と<end_line>
 	</sjis>
+  <ascii>
+    because I'm here, right?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -803,6 +1017,10 @@
 		待て<three_dots><end_line>
 		なぜそうなる<three_dots><end_line>
 	</sjis>
+  <ascii>
+    How<three_dots><end_line>
+    You are unbelievable<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -812,6 +1030,10 @@
 		ディックル鉱洞の奥に行こう！<end_line>
 		きっとあいつらはそこだ！<end_line>
 	</sjis>
+  <ascii>
+    To Deikle Mine!<end_line>
+    I'm sure they're in there!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -822,6 +1044,11 @@
 		先ほどのアニキさんの顔<end_line>
 		明らかに怒っていましたわ<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Uu<three_dots> What should I do<three_dots><end_line>
+    Your brother was<end_line>
+    obviously very angry<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -832,6 +1059,10 @@
 		ハラを立てて、私のこと<end_line>
 		狙っているのではないでしょうか？<end_line>
 	</sjis>
+  <ascii>
+    I thought he was an enemy<three_dots><end_line>
+    I'm sure he hates me now<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -842,6 +1073,11 @@
 		いつもの顔だから<three_dots><end_line>
 		そんなにコワがらなくても<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Umm, that's what he<end_line>
+    normally looks like, so<three_dots><end_line>
+    Try not to be so afraid of him<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -852,6 +1088,10 @@
 		私たちの様子をうかがっているかも<end_line>
 		しれませんわ<end_line>
 	</sjis>
+  <ascii>
+    He could be observing<end_line>
+    our reaction right now<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -861,6 +1101,11 @@
 		何かウソでも<end_line>
 		彼をほめたほうが良いでしょうか？<end_line>
 	</sjis>
+  <ascii>
+    Perhaps I'd be safer if I<end_line>
+    gave him a compliment<three_dots><end_line>
+    Even if it is a lie.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -869,6 +1114,9 @@
 	<sjis>
 		ウソでも、って<three_dots><end_line>
 	</sjis>
+  <ascii>
+    <partner><three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -878,6 +1126,10 @@
 		あいつにあやまる、か<three_dots><end_line>
 		どうしよう？<end_line>
 	</sjis>
+  <ascii>
+    Me, apologize to him?<end_line>
+    Hmm<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -889,6 +1141,11 @@
 		魔石ヲ　コワスマエニ<end_line>
 		タオスコトモ可能デスガ<three_dots><end_line>
 	</sjis>
+  <ascii>
+    It Is Possible For Me<end_line>
+    To Defeat Them Before They<end_line>
+    Break The Stone<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -907,6 +1164,10 @@
 			<partner><three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    We should try to solve this<end_line>
+    without fighting, <partner><three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -916,6 +1177,10 @@
 		あいつにあやまる、か<three_dots><end_line>
 		どうしよう？<end_line>
 	</sjis>
+  <ascii>
+    Me, apologize to him?<end_line>
+    Hmm<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -927,6 +1192,11 @@
 		ワガハイならヤツらを一瞬で<end_line>
 		片付けることができる<end_line>
 	</sjis>
+  <ascii>
+    Do not force yourself.<end_line>
+    I can finish them off<end_line>
+    in an instant.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -936,6 +1206,10 @@
 	<sjis>
 		魔石をこわす前に、の<end_line>
 	</sjis>
+  <ascii>
+    Before they have time<end_line>
+    to break the stone.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -954,6 +1228,10 @@
 			<partner><three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    We should try to solve this<end_line>
+    without fighting, <partner><three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -963,6 +1241,10 @@
 		あいつにあやまる、か<three_dots><end_line>
 		どうしよう？<end_line>
 	</sjis>
+  <ascii>
+    Me, apologize to him?<end_line>
+    Hmm<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -973,6 +1255,10 @@
 		グズグズ考えてる間に<end_line>
 		私がゴミを消してやろうか？<end_line>
 	</sjis>
+  <ascii>
+    Go ahead, waste you time thinking.<end_line>
+    I'll be taking out the trash.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -983,6 +1269,10 @@
 		魔石をこわす間もなく<end_line>
 		一瞬に<end_line>
 	</sjis>
+  <ascii>
+    It'll only take a second.<end_line>
+    They won't know what hit them.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1001,6 +1291,10 @@
 			<partner><three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    We should try to solve this<end_line>
+    without fighting, <partner><three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1010,6 +1304,10 @@
 		あいつにあやまる、か<three_dots><end_line>
 		どうしよう？<end_line>
 	</sjis>
+  <ascii>
+    Me, apologize to him?<end_line>
+    Hmm<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1020,6 +1318,11 @@
 		私が彼らをたおせばいいんですよ<end_line>
 		魔石をコワされるまえに<end_line>
 	</sjis>
+  <ascii>
+    It's okay; don't force it.<end_line>
+    I can defeat them before they<end_line>
+    have a chance to destroy the stone.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1038,6 +1341,10 @@
 			<partner><three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    We should try to solve this<end_line>
+    without fighting, <partner><three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1049,6 +1356,11 @@
 		ミューノの大切なゴヴァンの魔石を<end_line>
 		取り返そう！<end_line>
 	</sjis>
+  <ascii>
+    Let's go up against Sarge,<end_line>
+    and win back Murno's<end_line>
+    precious stone!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1059,6 +1371,10 @@
 		了解デス<end_line>
 		必ズ　勝利シマショウ！<end_line>
 	</sjis>
+  <ascii>
+    Roger.<end_line>
+    We Will Win!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1068,6 +1384,9 @@
 	<sjis>
 		おー！<end_line>
 	</sjis>
+  <ascii>
+    Yeah!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1079,6 +1398,11 @@
 		ミューノの大切なゴヴァンの魔石を<end_line>
 		取り返そう！<end_line>
 	</sjis>
+  <ascii>
+    Let's go up against Sarge,<end_line>
+    and win back Murno's<end_line>
+    precious stone!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1089,6 +1413,11 @@
 		うむ<end_line>
 		我らの力、みせてやろうぞ！<end_line>
 	</sjis>
+  <ascii>
+    Mm.<end_line>
+    Let us show them<end_line>
+    our true strength!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1105,6 +1434,9 @@
 			うん！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Yeah!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1116,6 +1448,11 @@
 		ミューノの大切なゴヴァンの魔石を<end_line>
 		取り返そう！<end_line>
 	</sjis>
+  <ascii>
+    Let's go up against Sarge,<end_line>
+    and win back Murno's<end_line>
+    precious stone!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1127,6 +1464,11 @@
 		結局勝負などとメンドウなことに<three_dots><end_line>
 		やはりすぐに消しておくべきだったか<end_line>
 	</sjis>
+  <ascii>
+    Tch<three_dots><end_line>
+    How annoying<three_dots><end_line>
+    I should have erased them earlier<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1137,6 +1479,10 @@
 		まだここに<end_line>
 		ブッソウなことを言う人が！<end_line>
 	</sjis>
+  <ascii>
+    Come on,<end_line>
+    stop saying that!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1147,6 +1493,11 @@
 		ミューノの大切なゴヴァンの魔石を<end_line>
 		取り返そう！<end_line>
 	</sjis>
+  <ascii>
+    Let's go up against Sarge,<end_line>
+    and win back Murno's<end_line>
+    precious stone!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1157,6 +1508,11 @@
 		ミューノ様をいじめた分を<end_line>
 		キッチリかえしてあげましょう！<end_line>
 	</sjis>
+  <ascii>
+    Yes!<end_line>
+    I will pay them back in full<end_line>
+    for how they treated Lady Murno!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1166,6 +1522,10 @@
 		だ、だから！<end_line>
 		仕返しとか、ダメだって！<end_line>
 	</sjis>
+  <ascii>
+    H-Hold on!<end_line>
+    It's just a match!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1177,6 +1537,11 @@
 		魔石を返すから<end_line>
 		家に戻ろう！<end_line>
 	</sjis>
+  <ascii>
+    Sarge is gonna return<end_line>
+    to stone to Murno himself.<end_line>
+    Let's head home!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1188,6 +1553,11 @@
 		アナタハ　彼ヲ　信ジテイル<end_line>
 		ヨウデスガ　ナゼデスカ？<end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+    You Appear To Believe Him This Time.<end_line>
+    Why?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1199,6 +1569,11 @@
 		勝負をしてみてわかったと言うか<three_dots><end_line>
 		その、なんて言えばいいのかな<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Umm, how should I put this<three_dots><end_line>
+    When we fought, I kinda started<end_line>
+    to understand him a bit more<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1209,6 +1584,10 @@
 		<three_dots><end_line>
 		理解不能デス<end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+    That Is Impossible To Understand.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1220,6 +1599,11 @@
 		私モ　彼ヲ　ウタガウコトヲ<end_line>
 		ヤメルコトニシマス<end_line>
 	</sjis>
+  <ascii>
+    However,<end_line>
+    As You Believe In Him,<end_line>
+    I Will Also.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1231,6 +1615,11 @@
 		魔石を返すから<end_line>
 		家に戻ろう！<end_line>
 	</sjis>
+  <ascii>
+    Sarge is gonna return<end_line>
+    to stone to Murno himself.<end_line>
+    Let's head home!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1242,6 +1631,11 @@
 		本当にあやつを<end_line>
 		信じておるようじゃな<end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+    Seems like you believe<end_line>
+    him this time.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1253,6 +1647,11 @@
 		勝負をしてみてわかったと言うか<three_dots><end_line>
 		その、なんて言えばいいのかな<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Umm, how should I put this<three_dots><end_line>
+    When we fought, I kinda started<end_line>
+    to understand him a bit more<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1264,6 +1663,10 @@
 		おぬしがそういうのじゃ<end_line>
 		まちがいはないじゃろうな<end_line>
 	</sjis>
+  <ascii>
+    Hmm<three_dots><end_line>
+    If you say so.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1275,6 +1678,11 @@
 		魔石を返すから<end_line>
 		家に戻ろう！<end_line>
 	</sjis>
+  <ascii>
+    Sarge is gonna return<end_line>
+    to stone to Murno himself.<end_line>
+    Let's head home!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1286,6 +1694,11 @@
 		なぜあんなヤツを<end_line>
 		そこまで信じられるんだ？<end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+    Why do you believe<end_line>
+    him this time?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1297,6 +1710,11 @@
 		勝負をしてみてわかったと言うか<three_dots><end_line>
 		その、なんて言えばいいのかな<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Umm, how should I put this<three_dots><end_line>
+    When we fought, I kinda started<end_line>
+    to understand him a bit more<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1308,6 +1726,10 @@
 		おめでたいヤツめ<end_line>
 		ま、キサマらしいがな<end_line>
 	</sjis>
+  <ascii>
+    Hah<three_dots><end_line>
+    How naive.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1318,6 +1740,11 @@
 		魔石を返すから<end_line>
 		家に戻ろう！<end_line>
 	</sjis>
+  <ascii>
+    Sarge is gonna return<end_line>
+    to stone to Murno himself.<end_line>
+    Let's head home!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1328,6 +1755,11 @@
 		ホントに彼を<end_line>
 		信じているんですね<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Umm<three_dots><end_line>
+    You really seem<end_line>
+    like you believe him<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1338,6 +1770,11 @@
 		勝負をしてみてわかったと言うか<three_dots><end_line>
 		その、なんて言えばいいのかな<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Umm, how should I put this<three_dots><end_line>
+    When we fought, I kinda started<end_line>
+    to understand him a bit more<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1348,6 +1785,11 @@
 		あなたがそう言うなら<end_line>
 		私も信じてみますわ<end_line>
 	</sjis>
+  <ascii>
+    I see<three_dots><end_line>
+    If you say so,<end_line>
+    I will trust him as well.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">

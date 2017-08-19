@@ -1,6 +1,6 @@
 <location>
 	<sjis>
-		ロブ工房　１階<end_line>
+		ロブ工房　２階<end_line>
 	</sjis>
 </location>
 <dialogue>
@@ -9,11 +9,7 @@
 	<sjis>
 		今はそっとしておいてやりな<end_line>
 	</sjis>
-</dialogue>
-<dialogue>
-	<info box="simple">
-	<portrait_l name="vee">
-	<sjis>
-		今はそっとしておいてやりな<end_line>
-	</sjis>
+  <ascii>
+    Let her be for now.<end_line>
+  </ascii>
 </dialogue>
