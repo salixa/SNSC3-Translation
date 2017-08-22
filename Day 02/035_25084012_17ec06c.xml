@@ -7,7 +7,7 @@
 	</sjis>
 	<ascii>
 		Oh,<end_line>
-		there he is.<end_line>
+		there you are.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -84,8 +84,8 @@
 		またアンタ、ケンカ<three_dots><end_line>
 	</sjis>
 	<ascii>
-    What's the commotion?<end_line>
-		<three_dots>Oh, <player_nickname>.<end_line>
+    What's all the commotion?<end_line>
+		<three_dots>Oh, it's just <player_nickname>.<end_line>
     Causing trouble again<three_dots>?<end_line>
 	</ascii>
 </dialogue>
@@ -233,7 +233,7 @@
 	</sjis>
 	<ascii>
 		Hm<three_dots>?<end_line>
-		Y-Yes it's fine.<end_line>
+		Y-Yes, I'm fine<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -324,8 +324,8 @@
 	</sjis>
 	<ascii>
 		No, it's okay.<end_line>
-		In fact, I should be the one<end_line>
-		apologizing to you<three_dots><end_line>
+		In fact, I should be the<end_line>
+		one apologizing to you<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -557,7 +557,7 @@
 		アイツの顔さ<end_line>
 	</sjis>
 	<ascii>	
-		The other guy.<end_line>
+		The other guy's expression.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -688,7 +688,8 @@
 		無責任じゃの<end_line>
 	</sjis>
 	<ascii>
-		Goodness, how irresponsible.<end_line>
+		My goodness,<end_line>
+    how irresponsible.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -949,7 +950,9 @@
 		よろしくたのむよ<end_line>
 	</sjis>
 	<ascii>
-    You two need to get along.<end_line>
+    And Murno,<end_line>
+    you need to watch out<end_line>
+    for <player_nickname> too.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -962,7 +965,7 @@
 		ダメ、ですか？<end_line>
 	</sjis>
 	<ascii>
-		Um, Miss V.E<three_dots><end_line>
+		Um, Miss Vee<three_dots><end_line>
 		Would it be possible<end_line>
 		for me to go with you?<end_line>
 	</ascii>
@@ -1217,7 +1220,7 @@
 		</sjis>
 	</female>
   <ascii>
-    Why don't I come along too!<end_line>
+    why don't I come along too!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1255,9 +1258,9 @@
 		あぶないよ<three_dots><end_line>
 	</sjis>
 	<ascii>
-    Anyways,<end_line>
-    you'll need all the help<end_line>
-    you can get if Murno's going.<end_line>
+    It'll certainly be<end_line>
+    more dangerous with<end_line>
+    Murno tagging along<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -1382,7 +1385,7 @@
 	</sjis>
 	<ascii>
 		Well, I can understand<end_line>
-		why V.E's worried.<end_line>
+		why Vee's worried.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -1421,7 +1424,7 @@
 	</sjis>
 	<ascii>
 		That said, how about<end_line>
-		I test your strength personally?<end_line>
+		I test your strength?<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -1448,8 +1451,8 @@
 	</sjis>
 	<ascii>
 		Yeah<three_dots> Right now, you're<end_line>
-		fully capable of going up against me<end_line>
-		as a fellow Craftknight.<end_line>
+		fully capable of going up against<end_line>
+		me as a fellow Craftknight.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -1645,7 +1648,7 @@
 		わかったね、<player_nickname>！<end_line>
 	</sjis>
 	<ascii>
-		Then they won't hold back either.<end_line>
+		No holding back then.<end_line>
 		You got that, <player_nickname>?<end_line>
 	</ascii>
 </dialogue>

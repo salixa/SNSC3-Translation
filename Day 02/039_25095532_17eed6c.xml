@@ -5,7 +5,7 @@
 		ここだったのね、<player_nickname><end_line>
 	</sjis>
 	<ascii>
-		<player_nickname>?<end_line>
+		There you are, <player_nickname>.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -141,7 +141,7 @@
 	</sjis>
 	<ascii>
 		It's not your fault<three_dots><end_line>
-		That happened because I spaced out.<end_line>
+		I wasn't paying attention.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -179,8 +179,8 @@
 	</female>
   <ascii>
     So<three_dots><end_line>
-    I'm going to win tomorrow's<end_line>
-    match and go to town with you!<end_line>
+    I'm going to win tomorrow's match,<end_line>
+    and we'll leave together!<end_line>
   </ascii>
 </dialogue>
 <dialogue>

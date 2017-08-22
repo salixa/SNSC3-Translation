@@ -31,7 +31,7 @@
 		本当に結構やりやがるな<three_dots><end_line>
 	</sjis>
 	<ascii>
-		You broke my weapon too<three_dots><end_line>
+		You broke my weapon<three_dots><end_line>
 		You got me good<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -131,7 +131,7 @@
 		しっかりお供してやりな<end_line>
 	</sjis>
 	<ascii>
-    V.E has absolutely no sense<end_line>
+    Vee has absolutely no sense<end_line>
     of directions, so you'll need<end_line>
     to stick together.<end_line>
 	</ascii>
@@ -286,7 +286,7 @@
   <ascii>
     Wait, Master!<end_line>
     You mean have a match?<end_line>
-    But your injuries are still<three_dots><end_line>
+    But your're still injured<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
