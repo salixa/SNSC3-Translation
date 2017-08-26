@@ -6,6 +6,9 @@
 	<sjis>
 		よし、武器を解体しよう！<end_line>
 	</sjis>
+  <ascii>
+    Okay, let's disassemble something!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -16,6 +19,10 @@
 		使用可能ナ武器ヲ　解体スル<end_line>
 		理由ガ　ワカリマセン<end_line>
 	</sjis>
+  <ascii>
+    I Do Not Understand Why We<end_line>
+    Must Waste A Usable Weapon.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -36,6 +43,11 @@
 			もっと強い武器ができるんだよ<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    If you disassemble a weapon you've<end_line>
+    used for a while and reforge it,<end_line>
+    the it'll come out stronger.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -47,6 +59,11 @@
 		シカシ　今回ノ武器ハ　ソレホド<end_line>
 		使イ込ンデイナイ様ニ　見エマスガ<three_dots><end_line>
 	</sjis>
+  <ascii>
+    I See. Understood.<end_line>
+    However, This Weapon Has Not<end_line>
+    Seen Use For A Long Time<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -67,6 +84,10 @@
 			わかるって！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    U-Uh, this is for practice!<end_line>
+    You'll understand if you just do it!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -76,6 +97,9 @@
 	<sjis>
 		よし、武器を解体しよう！<end_line>
 	</sjis>
+  <ascii>
+    Okay, let's disassemble something!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -86,6 +110,10 @@
 		せっかく作った武器を壊すとは<end_line>
 		もったいないのう<end_line>
 	</sjis>
+  <ascii>
+    Seems like a waste to destroy<end_line>
+    a weapon we just made.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -106,6 +134,11 @@
 			もっと強い武器ができるんだよ<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    If you disassemble a weapon you've<end_line>
+    used for a while and reforge it,<end_line>
+    the it'll come out stronger.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -117,6 +150,11 @@
 		じゃが今、解体しようとしとる武器は<end_line>
 		まだ使い込んでないように見えるが<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Is that so<three_dots> How strange.<end_line>
+    However, this weapon hasn't<end_line>
+    been used at all yet<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -137,6 +175,10 @@
 			わかるって！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    U-Uh, this is for practice!<end_line>
+    You'll understand if you just do it!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -146,6 +188,9 @@
 	<sjis>
 		よし、武器を解体しよう！<end_line>
 	</sjis>
+  <ascii>
+    Okay, let's disassemble something!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -156,6 +201,10 @@
 		一度作った武器を壊すとは<three_dots><end_line>
 		ご苦労なことだ<end_line>
 	</sjis>
+  <ascii>
+    Crafting then destroying weapons<three_dots><end_line>
+    This is so much work.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -176,6 +225,11 @@
 			もっと強い武器ができるんだよ<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    But if you disassemble a weapon<end_line>
+    you've used for a while and <end_line>
+    reforge it, it'll come out stronger.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -186,6 +240,10 @@
 		今解体しようとしている、その武器<end_line>
 		それで使い込んでいるのか？<end_line>
 	</sjis>
+  <ascii>
+    Can you really say this<end_line>
+    one is well used?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -206,6 +264,10 @@
 			わかるって！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    I-It's good enough!<end_line>
+    This is just for practice anyway!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -214,6 +276,9 @@
 	<sjis>
 		よし、武器を解体しよう！<end_line>
 	</sjis>
+  <ascii>
+    Okay, let's disassemble something!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -224,6 +289,11 @@
 		壊しちゃうんですか？<end_line>
 		もったいないですわ<end_line>
 	</sjis>
+  <ascii>
+    Must we destroy a weapon we<end_line>
+    worked so hard to create?<end_line>
+    That's such a waste.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -243,6 +313,11 @@
 			もっと強い武器ができるんだよ<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    But if you disassemble a weapon<end_line>
+    you've used for a while and <end_line>
+    reforge it, it'll come out stronger.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -253,6 +328,11 @@
 		でも今解体しようとしてる武器は<end_line>
 		あまり使い込んでないような<three_dots><end_line>
 	</sjis>
+  <ascii>
+    I see<three_dots> That's interesting.<end_line>
+    But this one does not look like<end_line>
+    it has been used very much<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -273,6 +353,10 @@
 		</sjis>
 	</female>
 </dialogue>
+  <ascii>
+    U-Uh, this is for practice!<end_line>
+    You'll understand if you just do it!<end_line>
+  </ascii>
 <dialogue>
 	<partner name="run-dor">
 	<info box="left">
@@ -281,6 +365,9 @@
 	<sjis>
 		今度は武器を作ろう！<end_line>
 	</sjis>
+  <ascii>
+    Now to reforge it!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -291,6 +378,10 @@
 		解体シタ武器ヲ<end_line>
 		マタ作リ直スノデスカ<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Reforging Our Dismantled<end_line>
+    Weapon Again<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -302,6 +393,11 @@
 		解体したまま持ってても<end_line>
 		何の役にも立たないからね<end_line>
 	</sjis>
+  <ascii>
+    Well<three_dots><end_line>
+    We can't do anything with<end_line>
+    just a shapestone.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -311,6 +407,9 @@
 	<sjis>
 		今度は武器を作ろう！<end_line>
 	</sjis>
+  <ascii>
+    Now to reforge it!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -322,6 +421,11 @@
 		すぐ作り直しとはのう<end_line>
 		忙しいことじゃ<end_line>
 	</sjis>
+  <ascii>
+    We just dismantled it,<end_line>
+    and now we're reforging it.<end_line>
+    So busy.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -340,6 +444,10 @@
 			でも、それが修行なの<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    I guess.<end_line>
+    That's practice for you.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -350,6 +458,10 @@
 		そうじゃな<end_line>
 		承知した<end_line>
 	</sjis>
+  <ascii>
+    True.<end_line>
+    Understood.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -359,6 +471,9 @@
 	<sjis>
 		今度は武器を作ろう！<end_line>
 	</sjis>
+  <ascii>
+    Now to reforge it!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -368,6 +483,9 @@
 	<sjis>
 		<three_dots>好きにすればいい<end_line>
 	</sjis>
+  <ascii>
+    <three_dots>Do what you want.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -386,6 +504,10 @@
 			あなたもいっしょにやるの<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Hey, come on!<end_line>
+    You have to help me!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -394,6 +516,9 @@
 	<sjis>
 		今度は武器を作ろう！<end_line>
 	</sjis>
+  <ascii>
+    Now to reforge it!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -403,6 +528,10 @@
 		さっき、解体したのに<end_line>
 		また作るんですか？<end_line>
 	</sjis>
+  <ascii>
+    Even though we just<end_line>
+    disassembled it?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -418,6 +547,9 @@
 			それが修行なの<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Well, we are practicing.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -427,6 +559,10 @@
 		そう言われると<end_line>
 		返す言葉もありませんわ<three_dots><end_line>
 	</sjis>
+  <ascii>
+    I suppose I cannot<end_line>
+    argue with that<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -436,6 +572,10 @@
 	<sjis>
 		２階のミューノを呼びに行こう<end_line>
 	</sjis>
+  <ascii>
+    Let's check on Murno.<end_line>
+    She's right upstairs.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -445,6 +585,9 @@
 	<sjis>
 		了解デス<end_line>
 	</sjis>
+  <ascii>
+    Roger.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -454,6 +597,9 @@
 	<sjis>
 		ミューノの事になると<end_line>
 	</sjis>
+  <ascii>
+    You're so obedient<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -470,6 +616,9 @@
 			素直なのね<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    when it comes to Murno<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -479,6 +628,10 @@
 	<sjis>
 		２階のミューノを呼びに行こう<end_line>
 	</sjis>
+  <ascii>
+    Let's check on Murno.<end_line>
+    She's right upstairs.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -489,6 +642,9 @@
 		呼びに行くのは<end_line>
 		ワガハイだけで充分なのだがのう<end_line>
 	</sjis>
+  <ascii>
+    I can do that by myself.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -509,6 +665,11 @@
 			親方が言ってたでしょ<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Murno would be more relaxed<end_line>
+    if we went together.<end_line>
+    Didn't Master say so?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -520,6 +681,11 @@
 		おぬしがいっしょのことで増す<end_line>
 		不安もあると思うのじゃが<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Certainly, she did, but<three_dots><end_line>
+    I think Murno will be<end_line>
+    nervous around you<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -536,6 +702,9 @@
 			なによ、それ<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    What's that supposed to mean?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -545,6 +714,10 @@
 	<sjis>
 		２階のミューノを呼びに行こう<end_line>
 	</sjis>
+  <ascii>
+    Let's check on Murno.<end_line>
+    She's right upstairs.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -554,6 +727,9 @@
 	<sjis>
 		<three_dots><end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -574,6 +750,10 @@
 			ミューノが心配するよ？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Don't make that face.<end_line>
+    Murno will be worried about you.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -585,6 +765,10 @@
 		私はいつでも<end_line>
 		こんなカオだ<end_line>
 	</sjis>
+  <ascii>
+    Shut up.<end_line>
+    I always look like this.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -605,6 +789,11 @@
 			安心させようってワケね？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    I see.<end_line>
+    You're trying to act normal<end_line>
+    so she can relax, right?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -614,6 +803,9 @@
 	<sjis>
 		ばっ<three_dots>！<end_line>
 	</sjis>
+  <ascii>
+    Wha<three_dots>!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -624,6 +816,10 @@
 		くだらん話などしてないで<end_line>
 		さっさと行け<end_line>
 	</sjis>
+  <ascii>
+    Cut the chatter.<end_line>
+    Let's just go.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -632,6 +828,10 @@
 	<sjis>
 		２階のミューノを呼びに<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Let's check on Murno.<end_line>
+    She's right<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -640,6 +840,9 @@
 	<sjis>
 		ミューノ様の所へ行きますよ！<end_line>
 	</sjis>
+  <ascii>
+    Come on, let's go!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -659,6 +862,11 @@
 			逃げないってば！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Hey, don't pull my arm!<end_line>
+    No need to rush,<end_line>
+    I'm sure she's fine!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -669,6 +877,11 @@
 		何があるかわかりませんわ<end_line>
 		急ぎましょう！<end_line>
 	</sjis>
+  <ascii>
+    You don't know that!<end_line>
+    I have to make sure she's okay!<end_line>
+    Hurry!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
