@@ -891,6 +891,9 @@
 	<sjis>
 		村長のところへ行こう！<end_line>
 	</sjis>
+  <ascii>
+    To the Chief's house!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -900,6 +903,9 @@
 	<sjis>
 		<three_dots><end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -920,6 +926,11 @@
 			大丈夫だよ<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    I'm sure Master will<end_line>
+    take care of Murno.<end_line>
+    Don't worry about it.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -929,6 +940,9 @@
 	<sjis>
 		<three_dots><end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -947,6 +961,10 @@
 			面倒見はいいから大丈夫だよ<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Despite how she looks,<end_line>
+    she's good at tending to others.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -956,6 +974,9 @@
 	<sjis>
 		<three_dots><end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -974,6 +995,9 @@
 			ジロジロ見ないでよ<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Don't just stare ate me<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -984,6 +1008,10 @@
 		アナタハ　アノ親方ニ<end_line>
 		面倒ヲミラレテイルノ<three_dots>デスヨネ？<end_line>
 	</sjis>
+  <ascii>
+    You Have Been Cared<end_line>
+    For By Master<three_dots> Correct?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1002,6 +1030,9 @@
 			それ？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    What's that supposed to mean?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1011,6 +1042,9 @@
 	<sjis>
 		村長のところへ行こう！<end_line>
 	</sjis>
+  <ascii>
+    To the Chief's house!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1020,6 +1054,9 @@
 	<sjis>
 		<three_dots>心配じゃ<end_line>
 	</sjis>
+  <ascii>
+    <three_dots>I'm worried.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1040,6 +1077,11 @@
 			面倒見はいいから大丈夫だよ<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    About Murno?<end_line>
+    Sure, Master can be rude,<end_line>
+    but she's good at tending to others.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1051,6 +1093,11 @@
 		おぬしとちがって<end_line>
 		とてもセンサイじゃからのう<three_dots><end_line>
 	</sjis>
+  <ascii>
+    But Murno is,<end_line>
+    unlike you,<end_line>
+    very delicate<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1069,6 +1116,9 @@
 			それ？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    What's that supposed to mean?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1078,6 +1128,9 @@
 	<sjis>
 		村長のところへ行こう！<end_line>
 	</sjis>
+  <ascii>
+    To the Chief's house!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1087,6 +1140,9 @@
 	<sjis>
 		<three_dots><end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1103,6 +1159,9 @@
 			ミューノの事が気になる？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Worried about Murno?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1113,6 +1172,10 @@
 		ちっ<three_dots>ちがう！<end_line>
 		あの女が信用できないだけだ<end_line>
 	</sjis>
+  <ascii>
+    Wha<three_dots> No!<end_line>
+    I just don't trust that woman.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1133,6 +1196,11 @@
 			ミューノが心配ってことだよね？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    You mean Master?<end_line>
+    Doesn't that mean you really<end_line>
+    are worried about Murno?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1143,6 +1211,10 @@
 		なっ<three_dots>！<end_line>
 		そうではなくて<end_line>
 	</sjis>
+  <ascii>
+    No<three_dots>!<end_line>
+    That's not<three_dots>!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1153,6 +1225,10 @@
 		はいはい<end_line>
 		わかったわかった<end_line>
 	</sjis>
+  <ascii>
+    Heheh.<end_line>
+    Okay, okay.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1161,6 +1237,9 @@
 	<sjis>
 		村長のところへ行こう！<end_line>
 	</sjis>
+  <ascii>
+    To the Chief's house!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1169,6 +1248,9 @@
 	<sjis>
 		<three_dots><end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1184,6 +1266,9 @@
 			ミューノの事が気になる？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Worried about Murno?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1194,6 +1279,11 @@
 		親方さんにまかせて<end_line>
 		ホントに大丈夫なんですか？<end_line>
 	</sjis>
+  <ascii>
+    Of course I am!<end_line>
+    Are you certain we can<end_line>
+    leave her with Master?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1213,6 +1303,11 @@
 			面倒見はいいんだから<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    It'll be fine.<end_line>
+    Yeah, she's a bit short tempered,<end_line>
+    but she's good at tending to others.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1221,6 +1316,9 @@
 	<sjis>
 		そのチョットが命取りなんですわ！<end_line>
 	</sjis>
+  <ascii>
+    That 'bit' could be fatal!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1230,6 +1328,10 @@
 		そんな大げさな！<end_line>
 		あと、親方に失礼だよ！<end_line>
 	</sjis>
+  <ascii>
+    You're exaggerating!<end_line>
+    Also, that's really rude!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1239,6 +1341,10 @@
 		うぅ<three_dots><end_line>
 		すみません<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Uuu<three_dots><end_line>
+    I'm sorry<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1248,6 +1354,9 @@
 	<sjis>
 		さあ、修行をしよう！<end_line>
 	</sjis>
+  <ascii>
+    Alright, time to train!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1257,6 +1366,9 @@
 	<sjis>
 		<three_dots><end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1266,6 +1378,9 @@
 	<sjis>
 		まずは材料をあつめよう！<end_line>
 	</sjis>
+  <ascii>
+    Let's gather materials!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1284,6 +1399,9 @@
 	<sjis>
 		それで武器を作ろう！<end_line>
 	</sjis>
+  <ascii>
+    And after that, craft a weapon!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1293,6 +1411,9 @@
 	<sjis>
 		<three_dots><end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1302,6 +1423,9 @@
 	<sjis>
 		それをミューノに見せに行こう！<end_line>
 	</sjis>
+  <ascii>
+    Then show it to Murno!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1311,6 +1435,9 @@
 	<sjis>
 		了解デス<end_line>
 	</sjis>
+  <ascii>
+    Roger.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1320,6 +1447,9 @@
 	<sjis>
 		やっぱり、ミューノの事になると<end_line>
 	</sjis>
+  <ascii>
+    That's the only part you<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1336,6 +1466,9 @@
 			素直なのね<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    care about, huh<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1345,6 +1478,9 @@
 	<sjis>
 		さあ、修行をしよう！<end_line>
 	</sjis>
+  <ascii>
+    Alright, time to train!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1356,6 +1492,11 @@
 		毎日の修行の積み重ねが<end_line>
 		人を大きくしていくのじゃ<end_line>
 	</sjis>
+  <ascii>
+    Right.<end_line>
+    Training every day makes<end_line>
+    one a better person.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1365,6 +1506,9 @@
 	<sjis>
 		<partner>って<three_dots><end_line>
 	</sjis>
+  <ascii>
+    <partner><three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1383,6 +1527,10 @@
 			カッコイイね<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    The way you say things<end_line>
+    always sounds so cool.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1393,6 +1541,10 @@
 		「言うことは」とは<end_line>
 		どういうイミじゃ！？<end_line>
 	</sjis>
+  <ascii>
+    The way I say things?<end_line>
+    Not the actual words!?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1402,6 +1554,9 @@
 	<sjis>
 		さあ、修行をしよう！<end_line>
 	</sjis>
+  <ascii>
+    Alright, time to train!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1411,6 +1566,9 @@
 	<sjis>
 		<three_dots><end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1431,6 +1589,11 @@
 			今は修行しようよ<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    I know you're worried about Murno,<end_line>
+    but we'd just be a bother.<end_line>
+    Bear with it for now.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1442,6 +1605,10 @@
 		私があいつの心配などするハズ<end_line>
 		ないだろう！<end_line>
 	</sjis>
+  <ascii>
+    Me, worried about her!?<end_line>
+    Why would I<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1452,6 +1619,10 @@
 		はいはい<end_line>
 		わかったわかった<end_line>
 	</sjis>
+  <ascii>
+    Okay okay,<end_line>
+    I get it already.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1461,6 +1632,9 @@
 	<sjis>
 		全くわかってない！<end_line>
 	</sjis>
+  <ascii>
+    Clearly you don't!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1469,6 +1643,9 @@
 	<sjis>
 		さあ、修行に行こう！<end_line>
 	</sjis>
+  <ascii>
+    Alright, time to train!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1478,6 +1655,10 @@
 		はい！<end_line>
 		そうしましょう！<end_line>
 	</sjis>
+  <ascii>
+    Yes!<end_line>
+    Let's!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1486,6 +1667,9 @@
 	<sjis>
 		あれ？なんか元気だね<end_line>
 	</sjis>
+  <ascii>
+    Hm? You're very cheerful.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1496,6 +1680,11 @@
 		修行はさっさと終わらせて<end_line>
 		ミューノ様の所へ戻りましょう<end_line>
 	</sjis>
+  <ascii>
+    Yes!<end_line>
+    Let's finish this quickly,<end_line>
+    then return to where Lady Murno is.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1504,6 +1693,9 @@
 	<sjis>
 		さっさと、って<three_dots><end_line>
 	</sjis>
+  <ascii>
+    It's not a race, you know<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1522,6 +1714,10 @@
 			さっき駅に行くって言ってたよね<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    I have to return Zakk's hammer!<end_line>
+    He said he was going to the station.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1531,6 +1727,9 @@
 	<sjis>
 		コノ村ニハ　駅ガアルノデスネ<end_line>
 	</sjis>
+  <ascii>
+    So This Town Has a Station.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="male">
@@ -1543,6 +1742,11 @@
 		鉱石とか荷物とかを運ぶ<end_line>
 		トロッコの駅があるんだ<end_line>
 	</sjis>
+  <ascii>
+    Yeah.<end_line>
+    We use it to transport things<end_line>
+    like raw ore and other stuff.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="male">
@@ -1554,6 +1758,10 @@
 		召喚獣がトロッコを<end_line>
 		ひっぱってるんだぜ<end_line>
 	</sjis>
+  <ascii>
+    Summon Beasts pull the<end_line>
+    cars along the tracks.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="female">
@@ -1566,6 +1774,11 @@
 		鉱石とか荷物とかを運ぶ<end_line>
 		トロッコの駅があるんだよ<end_line>
 	</sjis>
+  <ascii>
+    Yeah.<end_line>
+    We use it to transport things<end_line>
+    like raw ore and other stuff.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="female">
@@ -1577,6 +1790,10 @@
 		召喚獣がトロッコを<end_line>
 		ひっぱってるんだ<end_line>
 	</sjis>
+  <ascii>
+    Summon Beasts pull the<end_line>
+    cars along the tracks.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1595,6 +1812,10 @@
 			さっき駅に行くって言ってたよね<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    I have to return Zakk's hammer!<end_line>
+    He said he was going to the station.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1604,6 +1825,9 @@
 	<sjis>
 		この村には駅があるのじゃな<end_line>
 	</sjis>
+  <ascii>
+    So this village had a station.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="male">
@@ -1616,6 +1840,11 @@
 		鉱石とか荷物とかを運ぶ<end_line>
 		トロッコの駅があるんだ<end_line>
 	</sjis>
+  <ascii>
+    Yeah.<end_line>
+    We use it to transport things<end_line>
+    like raw ore and other stuff.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="male">
@@ -1627,6 +1856,10 @@
 		召喚獣がトロッコを<end_line>
 		ひっぱってるんだぜ<end_line>
 	</sjis>
+  <ascii>
+    Summon Beasts pull the<end_line>
+    cars along the tracks.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="female">
@@ -1639,6 +1872,11 @@
 		鉱石とか荷物とかを運ぶ<end_line>
 		トロッコの駅があるんだよ<end_line>
 	</sjis>
+  <ascii>
+    Yeah.<end_line>
+    We use it to transport things<end_line>
+    like raw ore and other stuff.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="female">
@@ -1650,6 +1888,10 @@
 		召喚獣がトロッコを<end_line>
 		ひっぱってるんだ<end_line>
 	</sjis>
+  <ascii>
+    Summon Beasts pull the<end_line>
+    cars along the tracks.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1668,6 +1910,10 @@
 			さっき駅に行くって言ってたよね<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    I have to return Zakk's hammer!<end_line>
+    He said he was going to the station.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1677,6 +1923,9 @@
 	<sjis>
 		駅？<end_line>
 	</sjis>
+  <ascii>
+    Station?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="male">
@@ -1689,6 +1938,11 @@
 		鉱石とか荷物とかを運ぶ<end_line>
 		トロッコの駅があるんだ<end_line>
 	</sjis>
+  <ascii>
+    Yeah.<end_line>
+    We use it to transport things<end_line>
+    like raw ore and other stuff.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="male">
@@ -1700,6 +1954,10 @@
 		召喚獣がトロッコを<end_line>
 		ひっぱってるんだぜ<end_line>
 	</sjis>
+  <ascii>
+    Summon Beasts pull the<end_line>
+    cars along the tracks.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="female">
@@ -1712,6 +1970,11 @@
 		鉱石とか荷物とかを運ぶ<end_line>
 		トロッコの駅があるんだよ<end_line>
 	</sjis>
+  <ascii>
+    Yeah.<end_line>
+    We use it to transport things<end_line>
+    like raw ore and other stuff.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="female">
@@ -1723,6 +1986,10 @@
 		召喚獣がトロッコを<end_line>
 		ひっぱってるんだ<end_line>
 	</sjis>
+  <ascii>
+    Summon Beasts pull the<end_line>
+    cars along the tracks.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1740,6 +2007,10 @@
 			さっき駅に行くって言ってたよね<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    I have to return Zakk's hammer!<end_line>
+    He said he was going to the station.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1748,6 +2019,9 @@
 	<sjis>
 		この村には駅があるんですね<end_line>
 	</sjis>
+  <ascii>
+    I didn't know there was a station.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="male">
@@ -1759,6 +2033,11 @@
 		鉱石とか荷物とかを運ぶ<end_line>
 		トロッコの駅があるんだ<end_line>
 	</sjis>
+  <ascii>
+    Yeah.<end_line>
+    We use it to transport things<end_line>
+    like raw ore and other stuff.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="male">
@@ -1769,6 +2048,10 @@
 		召喚獣がトロッコを<end_line>
 		ひっぱってるんだぜ<end_line>
 	</sjis>
+  <ascii>
+    Summon Beasts pull the<end_line>
+    cars along the tracks.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="female">
@@ -1780,6 +2063,11 @@
 		鉱石とか荷物とかを運ぶ<end_line>
 		トロッコの駅があるんだよ<end_line>
 	</sjis>
+  <ascii>
+    Yeah.<end_line>
+    We use it to transport things<end_line>
+    like raw ore and other stuff.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="female">
@@ -1790,6 +2078,10 @@
 		召喚獣がトロッコを<end_line>
 		ひっぱってるんだ<end_line>
 	</sjis>
+  <ascii>
+    Summon Beasts pull the<end_line>
+    cars along the tracks.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1799,6 +2091,9 @@
 	<sjis>
 		マニグ採掘場で材料あつめだ！<end_line>
 	</sjis>
+  <ascii>
+    Let's gather materials at the mine!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1808,6 +2103,9 @@
 	<sjis>
 		オー<end_line>
 	</sjis>
+  <ascii>
+    Yes.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1819,6 +2117,11 @@
 		張り切ってるみたいだけど<end_line>
 		なんか、気の抜ける返事だな<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Umm<three_dots><end_line>
+    Can you sound more excited<end_line>
+    about this please<three_dots>?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1828,6 +2131,9 @@
 	<sjis>
 		マニグ採掘場で材料あつめだ！<end_line>
 	</sjis>
+  <ascii>
+    Let's gather materials at the mine!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1839,6 +2145,11 @@
 		そもそも修行と言うものはコツコツ<end_line>
 		とした日々のつみかさねがとても<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Right.<end_line>
+    Experience is somethign one must<end_line>
+    accumulate steadily over time<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1849,6 +2160,10 @@
 		<partner><end_line>
 		ぼーっとしてると置いてくよ！<end_line>
 	</sjis>
+  <ascii>
+    <partner> come on!<end_line>
+    You're falling behind!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1859,6 +2174,10 @@
 		またんか！<end_line>
 		人の話は最後まで聞くものじゃ<end_line>
 	</sjis>
+  <ascii>
+    Wait!<end_line>
+    At least let me finish!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1868,6 +2187,9 @@
 	<sjis>
 		マニグ採掘場で材料あつめだ！<end_line>
 	</sjis>
+  <ascii>
+    Let's gather materials at the mine!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1878,6 +2200,10 @@
 		ん？<end_line>
 		ああ<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Hm?<end_line>
+    Oh, sure<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1887,6 +2213,9 @@
 	<sjis>
 		え！？<end_line>
 	</sjis>
+  <ascii>
+    Huh!?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1905,6 +2234,10 @@
 			ちょっとこわいよ<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    You didn't complain?<end_line>
+    That's a first<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1915,6 +2248,10 @@
 		は？<end_line>
 		今、何か言ったか？<end_line>
 	</sjis>
+  <ascii>
+    What?<end_line>
+    Did you say something?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1926,6 +2263,11 @@
 		も、もしかして<end_line>
 		何も聞いてなかった？<end_line>
 	</sjis>
+  <ascii>
+    Hey<three_dots><end_line>
+    Are you listening<end_line>
+    to me at all!?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1936,6 +2278,10 @@
 		悪口だったら<end_line>
 		タダじゃおかないからな<end_line>
 	</sjis>
+  <ascii>
+    Who knows.<end_line>
+    You better watch your mouth.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1944,6 +2290,9 @@
 	<sjis>
 		マニグ採掘場で材料あつめだ！<end_line>
 	</sjis>
+  <ascii>
+    Let's gather materials at the mine!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1952,6 +2301,9 @@
 	<sjis>
 		はい！！<end_line>
 	</sjis>
+  <ascii>
+    Yes!!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1961,6 +2313,10 @@
 		<three_dots><end_line>
 		なんか、張り切ってるね<end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+    You're really fired up.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1971,6 +2327,11 @@
 		さっさと修行は片づけたい<end_line>
 		ですからねー！<end_line>
 	</sjis>
+  <ascii>
+    Yes! Of course!!<end_line>
+    I would like to be done with<end_line>
+    this as soon as possible!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1979,6 +2340,9 @@
 	<sjis>
 		<three_dots><end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1987,6 +2351,9 @@
 	<sjis>
 		早く行きましょう！<end_line>
 	</sjis>
+  <ascii>
+    Come now, let's hurry!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1998,6 +2365,11 @@
 		多数ノハグレ召喚獣ガ<end_line>
 		居ルヨウデス<end_line>
 	</sjis>
+  <ascii>
+    It Appears There Are<end_line>
+    Many Stray Summons<end_line>
+    In This Area.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -2016,6 +2388,10 @@
 			気をつけなきゃ<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Yeah<three_dots><end_line>
+    We have to be careful<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -2027,6 +2403,11 @@
 		アナタヲ　エンゴシマスカラ<end_line>
 		指示ヲ　出シテクダサイ<end_line>
 	</sjis>
+  <ascii>
+    I Was Made For Battle.<end_line>
+    I Will Support You.<end_line>
+    Please Give Me Orders.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -2043,6 +2424,9 @@
 			たのむね、<partner>！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    I'm counting on you!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -2054,6 +2438,11 @@
 		たしかにこの辺りには<end_line>
 		はぐれ召喚獣がおるようじゃの<end_line>
 	</sjis>
+  <ascii>
+    Hmm<three_dots><end_line>
+    There seems to be a number<end_line>
+    of Stray Summons around here.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -2072,6 +2461,10 @@
 			やっぱり匂いとかでわかるの？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Oh, you can tell?<end_line>
+    Do they smell or something?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -2083,6 +2476,11 @@
 		でもネコって<end_line>
 		匂いとかでわかったっけ？<end_line>
 	</sjis>
+  <ascii>
+    Hm?<end_line>
+    Don't cats have a<end_line>
+    good sense of smell?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -2094,6 +2492,11 @@
 		トラじゃと言っておるだろうが！<end_line>
 		トラマタじゃ！<end_line>
 	</sjis>
+  <ascii>
+    I have told you before,<end_line>
+    I am not a cat, I am a tiger!<end_line>
+    A tiger spirit!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -2105,6 +2508,11 @@
 		ごめんごめん！<end_line>
 		ついうっかり<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Oh, right!<end_line>
+    Sorry, sorry!<end_line>
+    It just came out<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -2116,6 +2524,11 @@
 		わけではない！<end_line>
 		気配じゃ！<end_line>
 	</sjis>
+  <ascii>
+    Also, I am not<end_line>
+    using my nose!<end_line>
+    It's their presence!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -2126,6 +2539,10 @@
 		ワガハイの実力を持ってすれば<end_line>
 		気配で探す事もできるのじゃ<end_line>
 	</sjis>
+  <ascii>
+    If I had my true power,<end_line>
+    there is nothing I cannot sense.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -2144,6 +2561,10 @@
 			ヒゲとか物音とかじゃないんだね<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    I see. So you're not using<end_line>
+    your whiskers or hearing either.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -2154,6 +2575,10 @@
 		おぬし<three_dots><end_line>
 		まだまちがえておらんか？<end_line>
 	</sjis>
+  <ascii>
+    Why you<three_dots><end_line>
+    How many times have I told you?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -2165,6 +2590,11 @@
 		はぐれ召喚獣がいるようだが<end_line>
 		ザコばかりのようだ<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Seems to be many Stray<end_line>
+    Summons around here,<end_line>
+    but they're all small fry<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -2183,6 +2613,10 @@
 			たのもしいね！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Ohh!<end_line>
+    How reliable!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -2193,6 +2627,10 @@
 		ちっ<three_dots><end_line>
 		ザコと戦う気はないぞ<end_line>
 	</sjis>
+  <ascii>
+    Tch<three_dots><end_line>
+    I'm not wasting my time with them.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -2209,6 +2647,9 @@
 			なによ、それ！？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Even if they attack us!?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -2219,6 +2660,11 @@
 		やっぱりこのあたりには<end_line>
 		はぐれ召喚獣がいるようですね<end_line>
 	</sjis>
+  <ascii>
+    Uu<three_dots><end_line>
+    As I thought, there must be<end_line>
+    Stray Summons around here.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -2234,6 +2680,9 @@
 			そうだね<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Yeah.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -2242,6 +2691,9 @@
 	<sjis>
 		気をつけないと<end_line>
 	</sjis>
+  <ascii>
+    We have to be careful.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -2252,6 +2704,11 @@
 		私がついていますから<end_line>
 		絶対大丈夫ですわ<three_dots>！<end_line>
 	</sjis>
+  <ascii>
+    D-Don't worry<three_dots>!<end_line>
+    I'm here with you,<end_line>
+    so it will definitely be okay<three_dots>!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -2269,6 +2726,10 @@
 			よろしくたのむよ<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    I'm sure it will.<end_line>
+    I'm counting on you.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -2277,6 +2738,9 @@
 	<sjis>
 		こ、こちらこそ、ですわ！<end_line>
 	</sjis>
+  <ascii>
+    S-same to you!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -2285,4 +2749,7 @@
 	<sjis>
 		（ムリしちゃって<three_dots>）<end_line>
 	</sjis>
+  <ascii>
+    (She's pushing herself<three_dots>)<end_line>
+  </ascii>
 </dialogue>
