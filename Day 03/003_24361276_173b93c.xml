@@ -17,9 +17,9 @@
 		危なくって、しょうがない<end_line>
 	</sjis>
 	<ascii>
-		There's a hole in<end_line>
-		the cave at Bajan Forest,<end_line>
-		so it's dangerous to go there.<end_line>
+    There's a lot of pits<end_line>
+    in the cave in Bajan Forest.<end_line>
+    Watch out.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -28,6 +28,6 @@
 		ゴロゴロ<three_dots><end_line>
 	</sjis>
 	<ascii>
-		Rumble<three_dots><end_line>
+		Purr<three_dots><end_line>
 	</ascii>
 </dialogue>

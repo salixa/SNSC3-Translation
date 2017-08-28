@@ -357,8 +357,9 @@
 		探してきてくれぬかのぉ<end_line>
 	</sjis>
 	<ascii>
-		I need some Kikka medicine.<end_line>
-		Could you find some for me?<end_line>
+    I'm in need of<end_line>
+    some Kicca medicine<three_dots><end_line>
+		Would you find some for me?<end_line>
 	</ascii>
 </dialogue>
 <dialogue>

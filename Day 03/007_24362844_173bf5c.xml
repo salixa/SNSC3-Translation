@@ -23,11 +23,11 @@
 		いっぱいいるから<end_line>
 		出ちゃいけないんだよ<end_line>
 	</sjis>
-	<ascii>
-		There are a lot of Strays<end_line>
-		outside the village,<end_line>
-		so we can't leave.<end_line>
-	</ascii>
+  <ascii>
+    There's a lot of Strays<end_line>
+    outside the village.<end_line>
+    It's not safe to leave.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -36,7 +36,6 @@
 		でも、いつか旅立つ日が来るのよ<end_line>
 	</sjis>
 	<ascii>
-		Someday, when I'm strong enough,<end_line>
-		I'll go on a journey.<end_line>
+    But someday, I'll go on a journey.<end_line>
 	</ascii>
 </dialogue>

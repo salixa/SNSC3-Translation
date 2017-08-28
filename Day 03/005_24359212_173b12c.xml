@@ -29,8 +29,9 @@
 		ダンジョンの元の場所に戻れます<end_line>
 	</sjis>
 	<ascii>
-		To return to the dungeon,<end_line>
-		press A in front of the portal.<end_line>
+    You can then return to the point<end_line>
+    you used the stone by<end_line>
+		pressing A in front of this portal.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -42,7 +43,7 @@
 	</sjis>
 	<ascii>
 		The activated portal can only<end_line>
-		be used one, and will deactivate<end_line>
+		be used once, and will deactivate<end_line>
 		if you leave the current town.<end_line>
 	</ascii>
 </dialogue>
@@ -63,6 +64,6 @@
 		にゃん？<end_line>
 	</sjis>
 	<ascii>
-		I'm just a regular cat.<end_line>
+		Meow?<end_line>
 	</ascii>
 </dialogue>
