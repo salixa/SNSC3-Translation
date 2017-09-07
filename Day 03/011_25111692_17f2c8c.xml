@@ -173,6 +173,7 @@
 	</sjis>
 	<ascii>
     Heh<three_dots><end_line>
+    Thanks, <partner>.<end_line>
 		You're too kind<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -400,7 +401,7 @@
 		ヴィーさん<end_line>
 	</sjis>
 	<ascii>
-		I'm ready any time, Miss V.E.<end_line>
+		I'm ready any time, Miss Vee.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -439,9 +440,9 @@
 		<partner>にミューノ<three_dots><end_line>
 	</sjis>
 	<ascii>
-		Hmm<three_dots><end_line>
-		<player_nickname><three_dots><end_line>
-		<partner>, and Murno<three_dots><end_line>
+		Ugh<three_dots><end_line>
+		Not just<player_nickname><three_dots><end_line>
+		But also <partner>, and Murno<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -482,7 +483,7 @@
 	</sjis>
 	<ascii>
 		Um<three_dots><end_line>
-    V.E?<end_line>
+    Vee?<end_line>
 	</ascii>
 </dialogue>
 <dialogue>

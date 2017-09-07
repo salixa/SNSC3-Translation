@@ -45,8 +45,8 @@
 	</sjis>
 	<ascii>
 		<three_dots>Seriously?<end_line>
-		What're you planning to do<end_line>
-		without proper equipment?<end_line>
+		What're you planning to<end_line>
+		do without equipment?<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -152,7 +152,7 @@
 		当たり前だ<end_line>
 	</sjis>
 	<ascii>
-		Yeah, right.<end_line>
+		Of course.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -219,8 +219,8 @@
 		これでオシマイにするけど？<end_line>
 	</sjis>
 	<ascii>
-		And hey, if you wanna stay here and<end_line>
-    watch over the house,<end_line>
+		And hey, if you wanna stay here<end_line>
+    and watch over the house,<end_line>
 		I'm okay with that too.<end_line>
 	</ascii>
 </dialogue>
@@ -257,7 +257,6 @@
 		<partner><three_dots><end_line>
 	</sjis>
 	<ascii>
-		<three_dots><end_line>
 		<partner>.<end_line>
 		Let's do this.<end_line>
 	</ascii>

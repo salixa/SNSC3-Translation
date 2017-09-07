@@ -3,7 +3,7 @@ Named NPCs generally have one script file per day.
 Zenichi, Zen ...
 Day 02, Zenichi, starting town: 18c754c
   same script for day 3
-
+  TODO: change area names to be consistent
 
 Traveling Peddler / Daughter
 child offers to sell you stuff, mother gives you info on crafting

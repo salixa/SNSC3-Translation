@@ -308,7 +308,7 @@
 		マニグ採掘場にあるものを<end_line>
 	</sjis>
 	<ascii>
-		Manig Mine's<end_line>
+		Hmm<three_dots> Manig Mine<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -318,7 +318,7 @@
 		ディックル鉱洞にあるものを<end_line>
 	</sjis>
 	<ascii>
-		Deikle Mine's<end_line>
+		Hmm<three_dots> Deikle Mine<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -328,7 +328,7 @@
 		バジャンの森にあるものを<end_line>
 	</sjis>
 	<ascii>
-		Vajan Forest's<end_line>
+		Hmm<three_dots> Vajan Forest<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -338,7 +338,7 @@
 		コンシールの森にあるものを<end_line>
 	</sjis>
 	<ascii>
-		Consheel Forest's<end_line>
+		Hmm<three_dots> Consheel Forest<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -348,7 +348,7 @@
 		ピュビックの森にあるものを<end_line>
 	</sjis>
 	<ascii>
-		Pyubick Forest's<end_line>
+		Hmm<three_dots> Pyubick Forest<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -358,7 +358,7 @@
 		リュート岩窟にあるものを<end_line>
 	</sjis>
 	<ascii>
-		Lute Cave's<end_line>
+		Hmm<three_dots> Lute Cave<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -368,7 +368,7 @@
 		ベリートの森にあるものを<end_line>
 	</sjis>
 	<ascii>
-		Beleet Forest's<end_line>
+		Hmm<three_dots> Beleet Forest<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -378,7 +378,7 @@
 		フラード洞窟にあるものを<end_line>
 	</sjis>
 	<ascii>
-		Hulard Cave's<end_line>
+		Hmm<three_dots> Hulard Cave<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -388,7 +388,7 @@
 		スレンジ採掘場にあるものを<end_line>
 	</sjis>
 	<ascii>
-		Slenh Mine's<end_line>
+		Hmm<three_dots> Slenh Mine<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -398,7 +398,7 @@
 		スポート洞窟にあるものを<end_line>
 	</sjis>
 	<ascii>
-		Sport Cave's<end_line>
+		Hmm<three_dots> Sport Cave<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -408,7 +408,7 @@
 		ミシュースの廃墟にあるものを<end_line>
 	</sjis>
 	<ascii>
-		Mishus Ruins'<end_line>
+		Hmm<three_dots> Mishus Ruins<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -420,8 +420,8 @@
 		なかなかやるのう<end_line>
 	</sjis>
 	<ascii>
-		All the objects in the<end_line>
-		forests and caves are broken.<end_line>
+		All the objects in every<end_line>
+		forest and cave are broken.<end_line>
 		You've done well.<end_line>
 	</ascii>
 </dialogue>
