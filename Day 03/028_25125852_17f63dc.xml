@@ -52,7 +52,7 @@
 		でも、このあたりでははじめて見たわ<end_line>
 	</sjis>
 	<ascii>
-		Huh, I've seen it before.<end_line>
+		Huh, I know that one.<end_line>
 		It's ferocious despite its size.<end_line>
     I haven't seen it here before<three_dots><end_line>
 	</ascii>
@@ -127,7 +127,7 @@
 		ちょっとどいてもらいましょう<end_line>
 	</sjis>
 	<ascii>
-		Move aside.<end_line>
+    Stand aside.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -139,6 +139,7 @@
 	</sjis>
 	<ascii>
 		Eh?<end_line>
+    Tier<three_dots>?<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -244,7 +245,7 @@
 		こっちに<three_dots>！<end_line>
 	</sjis>
 	<ascii>
-		That kid<three_dots><end_line>
+		Ah<three_dots><end_line>
 		It's coming!<end_line>
 	</ascii>
 </dialogue>
@@ -285,7 +286,8 @@
 		やるか<end_line>
 	</sjis>
 	<ascii>
-		Fine, I'll do it!<end_line>
+		Fine<three_dots><end_line>
+    We'll take care of this!<end_line>
 	</ascii>
 </dialogue>
 <dialogue>

@@ -5,7 +5,7 @@
     <weapon_type>が欲しいのう<end_line>
   </sjis>
   <ascii>
-    I want a <weapon_type>.<end_line>
+    I'd love to have a <weapon_type>.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -176,7 +176,7 @@
     その<weapon_type>と<end_line>
   </sjis>
   <ascii>
-    Hey, would like to trade<end_line>
+    Hey, would you like to trade<end_line>
     your <weapon_type><end_line>
   </ascii>
 </dialogue>
@@ -255,7 +255,7 @@
     ねぇ、その<weapon_type>と<end_line>
   </sjis>
   <ascii>
-    Hey, want to trade your <weapon_type><end_line>
+    Wanna trade your <weapon_type><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -326,7 +326,7 @@
   </sjis>
     <ascii>
     I wonder if there's anyone<end_line>
-    with <weapon_type> around.<end_line>
+    with a <weapon_type> around.<end_line>
   </ascii>
 </dialogue>
 <dialogue>

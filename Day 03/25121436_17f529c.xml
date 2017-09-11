@@ -5,6 +5,9 @@
 	<sjis>
 		どうも～<end_line>
 	</sjis>
+  <ascii>
+    Oh hello there~<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -13,6 +16,9 @@
 	<sjis>
 		いつの間に！？<end_line>
 	</sjis>
+  <ascii>
+    Huh? When did you<three_dots>!?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -21,6 +27,9 @@
 	<sjis>
 		<three_dots><end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -30,6 +39,9 @@
 	<sjis>
 		アヤシイ人物ヲ　確認！<end_line>
 	</sjis>
+  <ascii>
+    Suspicious Personage Confirmed!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -40,6 +52,9 @@
 		おぬしからはアヤシイにおいを<end_line>
 		感じるのぉ<three_dots><end_line>
 	</sjis>
+  <ascii>
+    You smell suspicious<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -50,6 +65,10 @@
 		キサマ<three_dots><end_line>
 		あからさまにあやしいぞ<end_line>
 	</sjis>
+  <ascii>
+    This girl<three_dots><end_line>
+    Is very suspicous.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -60,6 +79,10 @@
 		あなた、と～っても<end_line>
 		あやしいですわ！<end_line>
 	</sjis>
+  <ascii>
+    You are ve~ry<end_line>
+    suspicious!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -70,6 +93,11 @@
 		ただのカワイイ道案内ですって！<end_line>
 		ゼンゼンあやしくありません！<end_line>
 	</sjis>
+  <ascii>
+    I told you,<end_line>
+    I'm just a guide!<end_line>
+    Not suspicious at all!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -78,6 +106,9 @@
 	<sjis>
 		そうかしら<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Is that so<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -88,6 +119,11 @@
 		落とし穴がいっぱい<end_line>
 		あるんだけど<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Now, as you've seen,<end_line>
+    the area is riddle with holes.<end_line>
+    So<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -96,6 +132,9 @@
 	<sjis>
 		道案内はいかがですか～？<end_line>
 	</sjis>
+  <ascii>
+    How about I guide you through?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -104,6 +143,9 @@
 	<sjis>
 		また～？<end_line>
 	</sjis>
+  <ascii>
+    This again?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -114,6 +156,11 @@
 		出入りするのはウンザリだし<end_line>
 		ここはひとつ考えてみようか<end_line>
 	</sjis>
+  <ascii>
+    It'd certainly be easier than<end_line>
+    trying out every hole ourselves.<end_line>
+    I'll think about it.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -122,6 +169,10 @@
 		（いける<three_dots>！<end_line>
 		　今度こそ、いけるわ<three_dots>！）<end_line>
 	</sjis>
+	<ascii>
+    (Almost got 'em!<end_line>
+		 This time<three_dots>!)<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -131,6 +182,10 @@
 		ところで<end_line>
 		料金なんだけど<three_dots><end_line>
 	</sjis>
+  <ascii>
+    By the way,<end_line>
+    you said the fee was<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -141,6 +196,11 @@
 		もちろん２００バーム<end_line>
 		いただきますよ～！<end_line>
 	</sjis>
+  <ascii>
+    Yes, yes,<end_line>
+    200 Boam!<end_line>
+    Thank you!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -151,6 +211,11 @@
 		ココまでは案内なしに来たんだよ<end_line>
 		同じ値段ってのは、あんまりだろ？<end_line>
 	</sjis>
+  <ascii>
+    Hold on a second.<end_line>
+    We've already progressed further in.<end_line>
+    Shouldn't it be cheaper now?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -160,6 +225,10 @@
 		お！？<end_line>
 		おほほほほほ<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Oh!?<end_line>
+    Ohohohoho<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -169,6 +238,10 @@
 		ちぇっ<three_dots>！<end_line>
 		こまかいわね<three_dots>！<end_line>
 	</sjis>
+  <ascii>
+    Tch<three_dots>!<end_line>
+    She's sharp<three_dots>!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -177,6 +250,9 @@
 	<sjis>
 		じゃあ<three_dots><end_line>
 	</sjis>
+  <ascii>
+    How about<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -185,6 +261,9 @@
 	<sjis>
 		半額ってのはどうだい<end_line>
 	</sjis>
+  <ascii>
+    We cut it down to half?<end_line>
+  </ascii>
 </dialogue>
 <bigtext>
 	<info box="right" effect="big">
@@ -193,6 +272,9 @@
 	<sjis>
 		はっ！<end_line>
 	</sjis>
+  <ascii>
+    Half!?<end_line>
+  </ascii>
 </bigtext>
 <dialogue>
 	<info box="right">
@@ -202,6 +284,10 @@
 		ちぇっ<three_dots>！<end_line>
 		しかたない<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Tch<three_dots>!<end_line>
+    Cheapskate<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -212,6 +298,10 @@
 		じゃあ半額の<end_line>
 		１００バームで<end_line>
 	</sjis>
+  <ascii>
+    Alright, fine.<end_line>
+    100 Baum it is, then.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -221,6 +311,10 @@
 		半額かー<three_dots><end_line>
 		どうしよう？<end_line>
 	</sjis>
+  <ascii>
+    100 Boam<three_dots><end_line>
+    Hmm<three_dots><end_line>
+  </ascii>
 </dialogue>
 <choice>
 	<info box="left">
@@ -230,11 +324,17 @@
 		<sjis>
 			半額なら案内を頼んでみようかな<three_dots><end_line>
 		</sjis>
+    <ascii>
+      That might be worth it<three_dots><end_line>
+    </ascii>
 	</option>
 	<option>
 		<sjis>
 			やっぱり自力で道を切り開こう！<end_line>
 		</sjis>
+    <ascii>
+      Nah, I'll figure it out myself!<end_line>
+    </ascii>
 	</option>
 </choice>
 <dialogue>
@@ -244,6 +344,9 @@
 	<sjis>
 		まいど～！<end_line>
 	</sjis>
+  <ascii>
+    Thank you!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -253,6 +356,10 @@
 		ちぇっ<three_dots>！<end_line>
 		本日２件目は、割が悪いわ<end_line>
 	</sjis>
+  <ascii>
+    Tch<three_dots>!<end_line>
+    Not much profit from the second<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -261,6 +368,9 @@
 	<sjis>
 		２件目って？<end_line>
 	</sjis>
+  <ascii>
+    Second?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -271,6 +381,11 @@
 		こちらの話ですから～<end_line>
 		お気づかいなく～<end_line>
 	</sjis>
+  <ascii>
+    Oh no~<end_line>
+    Don't mind me~<end_line>
+    Just talking to myself~<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -289,6 +404,11 @@
 		ここら辺、はぐれも多いから<end_line>
 		気をつけてくださいね～<end_line>
 	</sjis>
+	<ascii>
+		Alright then, please follow me.<end_line>
+    Please be careful, as there<end_line>
+    are many Strays around too~<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -298,6 +418,10 @@
 		あれ<three_dots><end_line>
 		お金が足りない<three_dots><end_line>
 	</sjis>
+	<ascii>
+		Huh<three_dots><end_line>
+		You don't have enough money<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -307,6 +431,10 @@
 		ちょっと、ひっど～い！？<end_line>
 		ひやかしはダメ～！<end_line>
 	</sjis>
+	<ascii>
+		Are you trying to scam me!?<end_line>
+		That's ho~rri~ble~!<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -316,6 +444,10 @@
 		この先は穴も多くて<end_line>
 		もっとたいへんなんだから<end_line>
 	</sjis>
+  <ascii>
+    The area ahead is even<end_line>
+    more dangerous than before.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -325,6 +457,10 @@
 		この先は穴も多くて<end_line>
 		もっとたいへんなんだから<end_line>
 	</sjis>
+  <ascii>
+    The area ahead is even<end_line>
+    more dangerous than before.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -335,6 +471,11 @@
 		ま、半額だっていうんなら<end_line>
 		アタシが払ってもいいよ<end_line>
 	</sjis>
+  <ascii>
+    That so?<end_line>
+    Well, I guess at half price,<end_line>
+    I don't mind paying.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -343,6 +484,9 @@
 	<sjis>
 		ホント！？<end_line>
 	</sjis>
+  <ascii>
+    Really!?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -352,11 +496,18 @@
 		ああ<end_line>
 		案内を頼むよ<end_line>
 	</sjis>
+  <ascii>
+    Yeah.<end_line>
+    Lead the way.<end_line>
+  </ascii>
 </dialogue>
 <popup>
 	<sjis>
 		ヴィーが支払ってくれた！<end_line>
 	</sjis>
+  <ascii>
+    Vee handed over the money!<end_line>
+  </ascii>
 </popup>
 <dialogue>
 	<info box="right">
@@ -365,6 +516,9 @@
 	<sjis>
 		まいどあり～！<end_line>
 	</sjis>
+  <ascii>
+    Thank you!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -374,6 +528,10 @@
 		ちぇっ<three_dots>！<end_line>
 		本日２件目は、割が悪いわ<end_line>
 	</sjis>
+  <ascii>
+    Tch<three_dots>!<end_line>
+    Not much profit from the second<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -382,6 +540,9 @@
 	<sjis>
 		なんか言った？<end_line>
 	</sjis>
+  <ascii>
+    Hm? Did you say something?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -392,4 +553,9 @@
 		ここら辺、はぐれも多いから<end_line>
 		気をつけてくださいね<end_line>
 	</sjis>
+  <ascii>
+    Oh, nothing.<end_line>
+    There are many Strays here,<end_line>
+    please be careful.<end_line>
+  </ascii>
 </dialogue>

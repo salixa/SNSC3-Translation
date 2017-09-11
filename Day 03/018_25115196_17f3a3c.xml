@@ -198,7 +198,7 @@
 		素直なイイ子です～<end_line>
 	</sjis>
 	<ascii>
-		She's seems like a good girl~<end_line>
+		She seems like a good girl~<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -346,7 +346,7 @@
 	</sjis>
 	<ascii>
 		Eh?<end_line>
-		You're charging money?<end_line>
+		You're charging?<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -545,10 +545,11 @@
 		こちらの話ですから～<end_line>
 		お気づかいなく～<end_line>
 	</sjis>
-	<ascii>
-		Oh don't mind me~<end_line>
-		Just talking to myself~<end_line>
-	</ascii>
+  <ascii>
+    Oh no~<end_line>
+    Don't mind me~<end_line>
+    Just talking to myself~<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -607,7 +608,7 @@
 		いや、そういうつもりじゃ<three_dots><end_line>
 	</sjis>
 	<ascii>
-		No no, that's not right<three_dots><end_line>
+		No no, we're not<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -628,7 +629,7 @@
 		やっぱ、別にいいや<end_line>
 	</sjis>
 	<ascii>
-		Nah, I don't need a guide.<end_line>
+		Nah, I don't need one.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>

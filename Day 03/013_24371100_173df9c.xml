@@ -10,7 +10,7 @@
 		外に行くなら気をつけてな<end_line>
 	</sjis>
 	<ascii>
-		If you're going out, be careful.<end_line>
+		Be careful outside the village.<end_line>
 	</ascii>
 </dialogue>
 ###Youngsters
@@ -24,6 +24,7 @@
 	</sjis>
 	<ascii>
 		Young people these days are no good.<end_line>
-		Except you. I like you.<end_line>
+    Ahh, really no good.<end_line>
+    Gets worse every time I say it.<end_line>
 	</ascii>
 </dialogue>

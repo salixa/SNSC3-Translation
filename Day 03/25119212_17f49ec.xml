@@ -7,6 +7,11 @@
 		やっぱり道案内があった方が<end_line>
 		いいですよね？<end_line>
 	</sjis>
+  <ascii>
+    So?<end_line>
+    You'd love to have me<end_line>
+    guide you around, right?<end_line>
+  </ascii>
 </dialogue>
 <choice>
 	<info box="left">
@@ -16,11 +21,17 @@
 		<sjis>
 			案内を頼んでみようかな<three_dots><end_line>
 		</sjis>
+		<ascii>
+			I guess so<three_dots><end_line>
+		</ascii>
 	</option>
 	<option>
 		<sjis>
 			自力で道を切り開こう！<end_line>
 		</sjis>
+		<ascii>
+			I'll find a path myself!<end_line>
+		</ascii>
 	</option>
 </choice>
 <dialogue>
@@ -37,6 +48,9 @@
 			じゃあお願い！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Alright, I'm counting on you!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -46,6 +60,9 @@
 		それでは案内料<end_line>
 		２００バームいただきまぁす！<end_line>
 	</sjis>
+	<ascii>
+    That'll be 200 Boam!<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -54,6 +71,9 @@
 	<sjis>
 		まいど～！<end_line>
 	</sjis>
+	<ascii>
+		Thank you!<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -63,6 +83,10 @@
 		本日早くも２件目<end_line>
 		今日はいい日だわ～<end_line>
 	</sjis>
+	<ascii>
+		Already the second one today<three_dots><end_line>
+		Today's a good day~<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -71,6 +95,9 @@
 	<sjis>
 		２件目って？<end_line>
 	</sjis>
+	<ascii>
+		The second one?<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -81,6 +108,10 @@
 		こちらの話ですから～<end_line>
 		お気づかいなく～<end_line>
 	</sjis>
+	<ascii>
+		Oh don't mind me~<end_line>
+		Just talking to myself~<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -89,6 +120,9 @@
 	<sjis>
 		<three_dots><end_line>
 	</sjis>
+	<ascii>
+		<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -99,6 +133,11 @@
 		ここら辺、はぐれも多いから<end_line>
 		気をつけてくださいね～<end_line>
 	</sjis>
+	<ascii>
+		Alright then, please follow me.<end_line>
+    Please be careful, as there<end_line>
+    are many Strays around too~<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -107,6 +146,10 @@
 		あれ<three_dots><end_line>
 		お金が足りない<three_dots><end_line>
 	</sjis>
+	<ascii>
+		Huh<three_dots><end_line>
+		You don't have enough money<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -115,6 +158,10 @@
 		ちょっと、ひやかしなの！？<end_line>
 		ひど～い！<end_line>
 	</sjis>
+	<ascii>
+		Are you trying to scam me!?<end_line>
+		That's ho~rri~ble~!<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -122,6 +169,9 @@
 	<sjis>
 		いや、そういうつもりじゃ<three_dots><end_line>
 	</sjis>
+	<ascii>
+		No no, we're not<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -130,12 +180,19 @@
 		じゃあ、ここで待ってるから<end_line>
 		お金できたら来てね<end_line>
 	</sjis>
+	<ascii>
+    Well, I'll be waiting here<end_line>
+    when you do have the money.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="nobox">
 	<sjis>
 		やっぱ、別にいいや<end_line>
 	</sjis>
+  <ascii>
+    Actually, I'm fine.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -145,6 +202,10 @@
 		絶対考え直した方が<end_line>
 		いいんだから！<end_line>
 	</sjis>
+  <ascii>
+    Really!?<end_line>
+    You'd better reconsider!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -153,4 +214,8 @@
 		はやく考え直して<end_line>
 		わたしに知らせてね<end_line>
 	</sjis>
+  <ascii>
+    Let me know when<end_line>
+    you change your mind.<end_line>
+  </ascii>
 </dialogue>
