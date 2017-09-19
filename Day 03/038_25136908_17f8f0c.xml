@@ -32,7 +32,7 @@
 	</sjis>
 	<ascii>
 		Hey, wait!<end_line>
-		Who's staying the night?!<end_line>
+		We never said<three_dots>!<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -57,7 +57,7 @@
 		泊まるとは言ってないだろ！？<end_line>
 	</sjis>
 	<ascii>
-		S-Sure I said that, but I didn't<end_line>
+		S-Sure I said that, but we didn't<end_line>
 		agree to spend the night!<end_line>
 	</ascii>
 </dialogue>
@@ -202,8 +202,7 @@
 		マズイト　アバレルノデスネ<end_line>
 	</sjis>
 	<ascii>
-    So He Can Be Controlled<end_line>
-    Through Good Food.<end_line>
+    So One Can Control Him With Food<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -215,8 +214,7 @@
 		マズイとあばれるのか<end_line>
 	</sjis>
 	<ascii>
-    So he can be controlled<end_line>
-    through good food.<end_line>
+    So you can control him with food<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -228,8 +226,7 @@
 		マズイとあばれるのか<three_dots><end_line>
 	</sjis>
 	<ascii>
-    So he can be controlled<end_line>
-    through food<three_dots><end_line>
+    So you can control him with food<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -241,8 +238,7 @@
 		マズイとあばれるんですね<end_line>
 	</sjis>
 	<ascii>
-    So he can be controlled<end_line>
-    through good food.<end_line>
+    So you can control him with food<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -281,8 +277,8 @@
 	</sjis>
 	<ascii>
 		Yes, I'm her mother, Roche.<end_line>
-    My daughter must have forced this<end_line>
-    upon you. I apologize.<end_line>
+    My daughter must have forced<end_line>
+    this upon you. I apologize.<end_line>
 	</ascii>
 </dialogue>
 <bigtext>
@@ -405,7 +401,7 @@
 		１人１０００バームよろしく<end_line>
 	</sjis>
 	<ascii>
-		Aaanyways, now about the fees<three_dots><end_line>
+		Aaanyways<three_dots><end_line>
 		That'll be 1000 Boam per person!<end_line>
 	</ascii>
 </dialogue>
@@ -420,8 +416,8 @@
 	</sjis>
 	<ascii>
     Tch<three_dots>!<end_line>
-    Of course it comes<end_line>
-    down to money!<end_line>
+    Of course it's all<end_line>
+    about the money!<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -639,6 +635,7 @@
 	</sjis>
 	<ascii>
 		Tier!?<end_line>
+    Wait!<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -698,7 +695,7 @@
 		お店はどうするのさ？<end_line>
 	</sjis>
 	<ascii>
-		Wait, what about the store?<end_line>
+		Wait, what about the inn?<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -712,7 +709,7 @@
 	</sjis>
 	<ascii>
 		Well<three_dots><end_line>
-		Could you tend the store for me<end_line>
+		Could you tend the inn for me<end_line>
 		until my husband returns?<end_line>
 	</ascii>
 </dialogue>
@@ -800,7 +797,7 @@
 		で、あいつはジェイド<end_line>
 	</sjis>
 	<ascii>	
-		I'm V.E. Those two are <end_line>
+		I'm Vee. Those two are <end_line>
     <player_name> and <partner>.<end_line>
 		And he's Jade.<end_line>
 	</ascii>
@@ -830,7 +827,7 @@
 		お願いできるかい？<end_line>
 	</sjis>
 	<ascii>
-		That's a great help.<end_line>
+		Thanks.<end_line>
 		By the way, can you take<end_line>
 		care of Murno for us?<end_line>
 	</ascii>
