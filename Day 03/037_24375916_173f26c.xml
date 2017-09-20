@@ -17,8 +17,7 @@
 		がんばってね、<player_nickname><end_line>
 	</sjis>
 	<ascii>
-		It's somehow managed to become<end_line>
-		something serious again<three_dots><end_line>
+		Well, this is troublesome<three_dots><end_line>
 		Do your best, <player_nickname>.<end_line>
 	</ascii>
 </dialogue>
@@ -42,7 +41,7 @@
 	</sjis>
 	<ascii>
 		From here on is a maiden's secret <hearth><end_line>
-		Trespassing is forbidden!!<end_line>
+		No trespassing!!<end_line>
 		              Tier<end_line>
 	</ascii>
 </dialogue>
@@ -55,10 +54,9 @@
 		旅をしているの<end_line>
 	</sjis>
 	<ascii>
-		Oh, that hammer must mean<end_line>
-		that you're a Craftknight.<end_line>
-		I'm on a journey to meet<end_line>
-		as many Craftknights as I can.<end_line>
+		Oh, that hammer<three_dots><end_line>
+		You must be a Craftknight. I've<end_line>
+    been looking for people like you.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -83,7 +81,7 @@
 		知りたい事があったら聞いてね<end_line>
 	</sjis>
 	<ascii>
-		I know about Smithing,<end_line>
+		I know a lot about Smithing,<end_line>
 		so feel free to ask anything.<end_line>
 	</ascii>
 </dialogue>
@@ -136,9 +134,8 @@
 		それが良質の武器よ<end_line>
 	</sjis>
 	<ascii>
-		Sometimes, when you manufacture,<end_line>
-		you'll create weapons that are<end_line>
-		a good deal better than the usual.<end_line>
+		Sometimes you'll create weapons<end_line>
+		that are better than usual.<end_line>
 		Those are known as Superior weapons.<end_line>
 	</ascii>
 </dialogue>
@@ -178,7 +175,7 @@
 		判らないけど、作製の時にね<end_line>
 	</sjis>
 	<ascii>
-		Manufacturing experience is integral<end_line>
+		Crafting experience is important,<end_line>
 		but you won't know if you'll gain it<end_line>
 		until you make a weapon.<end_line>
 	</ascii>
@@ -192,7 +189,7 @@
 		作製をする時は注意して見ててね<end_line>
 	</sjis>
 	<ascii>
-		When you manufacture something,<end_line>
+		When you craft something,<end_line>
 		if huge sparks start coming out,<end_line>
 		it means you're gaining experience.<end_line>
 	</ascii>
@@ -204,6 +201,6 @@
 		気が向いたらまた来てね<end_line>
 	</sjis>
 	<ascii>
-		Come again if you want to learn.<end_line>
+		Come see me anytime.<end_line>
 	</ascii>
 </dialogue>

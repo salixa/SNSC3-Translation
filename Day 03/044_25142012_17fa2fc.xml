@@ -120,7 +120,7 @@
 		召喚獣づれか<three_dots><end_line>
 	</sjis>
 	<ascii>
-		You know eachother?<end_line>
+		You know each other?<end_line>
 		Have a Summon Beast too, huh<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -191,7 +191,7 @@
 		まさか、さっき言ってたのって<three_dots><end_line>
 	</sjis>
 	<ascii>
-		It can't be the same one<three_dots><end_line>
+		Maybe this is it<three_dots>?<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -220,9 +220,9 @@
 		コイツ、４つ足だぞ？<end_line>
 	</sjis>
 	<ascii>
-		Wait<three_dots><end_line>
-		Isn't this one different?<end_line>
-		It looks shorter somehow.<end_line>
+		No way.<end_line>
+		It's completely different.<end_line>
+		This one has 4 feet.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -249,8 +249,8 @@
 		コイツ、ネコだぞ？<end_line>
 	</sjis>
 	<ascii>
-		Wait<three_dots><end_line>
-		Aren't they totally different?<end_line>
+		No way.<end_line>
+		It's completely different.<end_line>
 		This one's a cat.<end_line>
 	</ascii>
 </dialogue>
@@ -278,8 +278,8 @@
 		コイツ、子供だぞ？<end_line>
 	</sjis>
 	<ascii>
-		Wait<three_dots><end_line>
-		Aren't they totally different?<end_line>
+		No way.<end_line>
+		It's completely different.<end_line>
 		This one's a kid, you know?<end_line>
 	</ascii>
 </dialogue>
@@ -308,7 +308,7 @@
 	</sjis>
 	<ascii>
 		Hmm<three_dots><end_line>
-		Their head isn't all spiky,<end_line>
+		Their hair isn't as spiky,<end_line>
 		but they do look similar<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -338,7 +338,6 @@
 	<ascii>
 		Her partner's totally<end_line>
 		different though!<end_line>
-		The girl is different too.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -529,7 +528,7 @@
 		戦うんだ<end_line>
 	</sjis>
 	<ascii>
-		Fighting them. Obviously.<end_line>
+    Obviously, we fight!<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -594,8 +593,8 @@
 		いいかげんにしろ！<end_line>
 	</sjis>
 	<ascii>
-		Hey<three_dots>!?<end_line>
-		Knock it off!<end_line>
+		Ugh<three_dots>!?<end_line>
+		Knock it off already!<end_line>
 	</ascii>
 </dialogue>
 <dialogue>

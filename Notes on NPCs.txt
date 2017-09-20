@@ -4,16 +4,23 @@ Zenichi, Zen ...
 Day 02, Zenichi, starting town: 18c754c
   same script for day 3
   TODO: change area names to be consistent
+Day 03, Zenzou, Marneil: 18c754c
 
 Traveling Peddler / Daughter
 child offers to sell you stuff, mother gives you info on crafting
 Day 01, starting town: 17306cc (use this as a basis)
 Day 02, starting town: 17344cc (child), 17372b2 (mother)
+Day 03: Marneil, 173f26c (mother), 173e35c (child)
 
 Cat Lover
 Day 02, starting town: 18c69fc
 I THINK this NPC's entire script file is duplicated for every place she appears, but not sure. Will need to check.
+This is actually for a number of people, who all share the same comments on cats
 
 Weapon Bank Guy
 Day 02, starting town: 173612c
 Day 03, starting town: 173c76c
+
+
+18c33ec
+Side quests for weapon requests. Spans across all days.

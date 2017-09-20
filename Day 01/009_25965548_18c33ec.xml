@@ -409,7 +409,7 @@
 		武器を注文したいんだけど<end_line>
 	</sjis>
   <ascii>
-    I'd like to order a weapon,<end_line>
+    I'd like to order a weapon.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -419,7 +419,7 @@
 		<weapon_type>っていうボウ<end_line>
 	</sjis>
   <ascii>
-    the <weapon_type> bow.<end_line>
+    A <weapon_type> bow.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -429,7 +429,8 @@
 		<weapon_type>がいるらしいのよ<end_line>
 	</sjis>
   <ascii>
-    It seems to need <weapon_type>.<end_line>
+    You'll need a <weapon_type><end_line>
+    to craft it.<end_line>
   </ascii>
 </dialogue>
 <menu>
@@ -488,7 +489,7 @@
 		<weapon_type>っていうボウ<end_line>
 	</sjis>
   <ascii>
-    So, about the <weapon_type> bow.<end_line>
+    So, about that <weapon_type> bow.<end_line>
   </ascii>
 </dialogue>
 <dialogue>

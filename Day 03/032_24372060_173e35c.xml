@@ -77,12 +77,11 @@
 		今は２人で旅をして鍛冶師や職人に<end_line>
 		顔を売っている段階なんだって<end_line>
 	</sjis>
-	<ascii>
-		My mom is a traveling merchant.<end_line>
-		Right now, we're on a journey to<end_line>
-		make ourselves known<end_line>
-		amongst the best of Craftknights.<end_line>
-	</ascii>
+  <ascii>
+    You know, my mom is a peddler.<end_line>
+    We're trying to make ourselves known<end_line>
+    with Craftknights and blacksmiths.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -92,11 +91,11 @@
 		だから、旅費は私が頑張って稼ぐしか<end_line>
 		無いってことなの<end_line>
 	</sjis>
-	<ascii>
-		We're going to build a big store.<end_line>
-		That's why I need to do my best<end_line>
-		and raise all the money I can.<end_line>
-	</ascii>
+  <ascii>
+    We plan on opening a shop.<end_line>
+    That's why I have to work hard<end_line>
+    to save up money.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -106,28 +105,28 @@
 		強化の情報を聞いていかない？<end_line>
 	</sjis>
 	<ascii>
-		By the way, you seem like one.<end_line>
-		Want to know about enhancements?<end_line>
+		You're a Craftknight, aren't you?<end_line>
+		Want to hear about enhancement?<end_line>
 	</ascii>
 </dialogue>
 <choice>
 	<info box="simple">
-	<option>
-		<sjis>
-			聞いてみる<end_line>
-		</sjis>
-		<ascii>
-			Sure thing.<end_line>
-		</ascii>
-	</option>
-	<option>
-		<sjis>
-			特に聞かない<end_line>
-		</sjis>
-		<ascii>
-			Not really interested.<end_line>
-		</ascii>
-	</option>
+  <option>
+    <sjis>
+      聞いてみる<end_line>
+    </sjis>
+    <ascii>
+      Listen to her lecture<end_line>
+    </ascii>
+  </option>
+  <option>
+    <sjis>
+      特に聞かない<end_line>
+    </sjis>
+    <ascii>
+      Not interested<end_line>
+    </ascii>
+  </option>
 </choice>
 <dialogue>
 	<info box="simple">
@@ -168,7 +167,7 @@
 	<ascii>
 		But anyway, I have this special<end_line>
 		material on sale right now,<end_line>
-		at a paltry price of 350 boam.<end_line>
+		at a paltry price of 350 Boam~<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -206,9 +205,9 @@
 	<sjis>
 		ありがと～<end_line>
 	</sjis>
-	<ascii>
-		Thank you!<end_line>
-	</ascii>
+  <ascii>
+    Thanks~<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -218,11 +217,11 @@
 		お金たりないの～<end_line>
 		商談不成立だよ～<end_line>
 	</sjis>
-	<ascii>
-		Eeh?<end_line>
-		You don't have the money!<end_line>
-		Transaction failed~<end_line>
-	</ascii>
+  <ascii>
+    Ehh~ What's this~<end_line>
+    You don't have enough money~<end_line>
+    Transaction failed~<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -231,11 +230,11 @@
 		え～聞くだけ聞いて買ってくれないの～<end_line>
 		ケチ～<end_line>
 	</sjis>
-	<ascii>	
-		Eeh? You listened to everything<end_line>
-		but you still won't buy it?<end_line>
-		Stingyyyyy~!<end_line>
-	</ascii>
+  <ascii>
+    Eh~ You make me explain but<end_line>
+    aren't buying anything?<end_line>
+    Cheapskate~<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -260,8 +259,8 @@
 	</sjis>
 	<ascii>
 		That person is such a pain.<end_line>
-		He said he wanted help to chop wood,<end_line>
-		but he wants someone experienced<three_dots><end_line>
+		He says he wants help chopping wood,<end_line>
+		but he wants a professional<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
