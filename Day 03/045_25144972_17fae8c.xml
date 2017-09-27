@@ -7,7 +7,8 @@
 		強いぞ？<end_line>
 	</sjis>
 	<ascii>
-		What's with these people<three_dots><end_line>
+		What's with these kids<three_dots><end_line>
+    How are they so strong?<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -33,9 +34,9 @@
 		行くぞ<end_line>
 	</sjis>
 	<ascii>
+		Forget 'em, let's go.<end_line>
 		They're not who<end_line>
     we're looking for.<end_line>
-		Forget 'em, let's go.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -205,7 +206,7 @@
 	<ascii>
 		Hey, how would you like<end_line>
 		to work at our inn,<end_line>
-		as our personal Craftknight?<end_line>
+		as our personal Craftknights?<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -295,7 +296,7 @@
 	</sjis>
 	<ascii>
 		Please!<end_line>
-		Save our inn with me!<end_line>
+		Help me save the inn!<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -677,7 +678,7 @@
   <ascii>
     Oh, I forgot to ask<three_dots><end_line>
     Who were those guys earlier?<end_line>
-    What's their relation to Murno?<end_line>
+    What's their deal with Murno?<end_line>
   </ascii>
 </dialogue>
 <dialogue>

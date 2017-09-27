@@ -26,6 +26,7 @@
     </sjis>
   </female>
   <ascii>
+    Ugh<three_dots><end_line>
     Why is this happening to me<three_dots>?<end_line>
   </ascii>
 </dialogue>
@@ -38,11 +39,6 @@
       誰かいるのか？<end_line>
       まさか<three_dots><end_line>
     </sjis>
-    <ascii>
-      Hm?<end_line>
-      Is someone there?<end_line>
-      Is that<three_dots><end_line>
-    </ascii>
   </male>
   <female>
     <sjis>
@@ -50,12 +46,12 @@
       誰かいるの？<end_line>
       まさか<three_dots><end_line>
     </sjis>
-    <ascii>
-      Huh?<end_line>
-      Is someone there?<end_line>
-      Is that<three_dots><end_line>
-    </ascii>
-  </female>
+  </female>  
+  <ascii>
+    Huh?<end_line>
+    Is someone there?<end_line>
+    Is that<three_dots><end_line>
+  </ascii>
 </dialogue>
 <menu>
   <option>

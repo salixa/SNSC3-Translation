@@ -215,7 +215,7 @@
 	</sjis>
   <ascii>
     It is carrying tons of stuff<three_dots><end_line>
-    In any case it's much faster<end_line>
+    In any case it's much easier<end_line>
     than carrying it all ourselves.<end_line>
   </ascii>
 </dialogue>
@@ -408,7 +408,7 @@
 		わかった<end_line>
 	</sjis>
   <ascii>
-    'kay.<end_line>
+    Yeah.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -430,7 +430,7 @@
 		なんだ、あいつ<three_dots>？<end_line>
 	</sjis>
   <ascii>
-    What's with them<three_dots>?<end_line>
+    Something's off<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>

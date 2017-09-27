@@ -133,7 +133,7 @@
     Lady Murno<three_dots><end_line>
   </ascii>
 </dialogue>
-<dialogue>
+<dialogue>#jump from line 48
   <info box="left">
   <portrait_l entry="tier" eye="serious" mouth="neutral">
   <sjis>
@@ -157,7 +157,7 @@
   </sjis>
   <ascii>
     Huh?<end_line>
-    Your father?<end_line>
+    Father?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -334,9 +334,9 @@
     いっしょに仲良くがんばるの！<end_line>
   </sjis>
   <ascii>
-    <player_nickname> can be my husband!<end_line>
-    Together, I'm sure we'll<end_line>
-    be able to save the inn!<end_line>
+    We'll save the inn together!<end_line>
+    And strengthen our bond<end_line>
+    for that express purpose!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -366,9 +366,9 @@
     カンバン娘になるのよ<end_line>
   </sjis>
   <ascii>
-    And with two young girls around,<end_line>
-    it'd be easy to attract customers!<end_line>
+    We'll save the inn together!<end_line>
     We'll be the inn's poster girls!<end_line>
+    Everyone likes cute girls!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -449,7 +449,7 @@
   </sjis>
   <ascii>
     Hold on!<end_line>
-    This is the first time<end_line>
+    This is the first<end_line>
     I'm hearing about that.<end_line>
   </ascii>
 </dialogue>
@@ -610,8 +610,8 @@
     <player_nickname><end_line>
   </sjis>
   <ascii>
-    You've found a good friend,<end_line>
-    <player_nickname>.<end_line>
+    You've found a good friend.<end_line>
+    Nice going <player_nickname>.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -640,8 +640,7 @@
     というかアンタ<end_line>
   </sjis>
   <ascii>
-    And you.<end_line>
-    Hold on a second.<end_line>
+    And you, hold on.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -673,8 +672,7 @@
     身内からお金を取るつもりなのかい？<end_line>
   </sjis>
   <ascii>
-    Are you going to force<end_line>
-    your family to pay?<end_line>
+    Are you still going to make me pay?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -709,7 +707,7 @@
     アンタの未来は自分で切り開きな！<end_line>
   </sjis>
   <ascii>
-    Don't you get it, <player_name>!<end_line>
+    Don't you get it, <player_nickname>!<end_line>
     The present is what's important!<end_line>
     You decide your own future!<end_line>
   </ascii>
@@ -763,9 +761,9 @@
     思えませんわ！<end_line>
   </sjis>
   <ascii>
-    Sigh<three_dots><end_line>
-    You wouldn't expect someone's master<end_line>
-    to say something like that!<end_line>
+    That<three_dots><end_line>
+    Doesn't sound like something a<end_line>
+    wizened master would say!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -866,7 +864,7 @@
     ダメダメじゃ<three_dots><end_line>
   </sjis>
   <ascii>
-    You're hopeless<end_line>
+    You're hopeless<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1151,8 +1149,8 @@
     キョウミありませんから！<end_line>
   </sjis>
   <ascii>
-    But I really<end_line>
-    don't have any interest<end_line>
+    But I really don't<end_line>
+    have any interest<end_line>
     in doing that!<end_line>
   </ascii>
 </dialogue>
@@ -1344,7 +1342,7 @@
     いい言葉だ<three_dots>！<end_line>
   </sjis>
   <ascii>
-    Uu<three_dots><end_line>
+    Ohhh<three_dots><end_line>
     Fine words<three_dots>!<end_line>
   </ascii>
 </dialogue>
@@ -1617,8 +1615,8 @@
   </sjis>
   <ascii>
     Dad, do you really understand?<end_line>
-    If I wasn't making money on my own,<end_line>
-    we'd be bankrupt a long time ago!<end_line>
+    If it wasn't for me, we'd have<end_line>
+    gone bankrupt a long time ago!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1704,7 +1702,7 @@
     本当にすんません<three_dots><end_line>
   </sjis>
   <ascii>
-    When it comes to V.E and money<three_dots><end_line>
+    When it comes to Vee and money<three_dots><end_line>
     She can be difficult<three_dots><end_line>
     I'm really sorry about her<three_dots><end_line>
   </ascii>
