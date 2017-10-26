@@ -15,10 +15,17 @@
 		プロスバンの町へ行く道は<end_line>
 		この階段をおりた先だよ<end_line>
 	</sjis>
+  <ascii>
+    Just down these stairs<end_line>
+    is the road to Prosban.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
 		ゴロゴロ<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Purr<three_dots><end_line>
+  </ascii>
 </dialogue>

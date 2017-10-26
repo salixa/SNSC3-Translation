@@ -25,8 +25,8 @@
     せっかくの宿屋なのに！！<end_line>
   </sjis>
   <ascii>
-    But we'll be sleeping in<end_line>
-    the workshop, just as always!<end_line>
+    And we'll be sleeping in<end_line>
+    the workshop, just like always!<end_line>
     Even though we came to an inn!!<end_line>
   </ascii>
 </dialogue>
@@ -57,8 +57,8 @@
     せっかくの宿屋なのに！！<end_line>
   </sjis>
   <ascii>
-    But we'll be sleeping in<end_line>
-    the workshop, just as always!<end_line>
+    And we'll be sleeping in<end_line>
+    the workshop, just like always!<end_line>
     Even though we came to an inn!!<end_line>
   </ascii>
 </dialogue>
@@ -73,7 +73,7 @@
     チガイマス<end_line>
   </sjis>
   <ascii>
-    The Same<three_dots>?<end_line>
+    Like Always<three_dots>?<end_line>
     This Workshop Is<end_line>
     Different From Ours.<end_line>
   </ascii>
@@ -96,9 +96,8 @@
     </sjis>
   </female>
   <ascii>
-    I mean, of course,<end_line>
-    but it's still about<end_line>
-    the same.<end_line>
+    I know that,<end_line>
+    but it feels about the same.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -169,8 +168,7 @@
   </female>
   <ascii>
     Alright!<end_line>
-    Today we'll make it to<end_line>
-    Prosban for sure!<end_line>
+    We're making it to Prosban today~!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -203,7 +201,7 @@
     </sjis>
   </female>
   <ascii>
-    Hey, what's that supposed to mean.<end_line>
+    Hey, what's that supposed to mean?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -240,6 +238,7 @@
     </sjis>
   </female>
   <ascii>
+    Scent?<end_line>
     You mean it smells in here?<end_line>
   </ascii>
 </dialogue>
@@ -333,7 +332,7 @@
   </female>
   <ascii>
     Ah, right!<end_line>
-    I'm going to Prosban today!<end_line>
+    We're going to Prosban today!<end_line>
     This time for sure!<end_line>
   </ascii>
 </dialogue>
@@ -416,7 +415,7 @@
   </sjis>
   <ascii>
     Okaaay!<end_line>
-    It's time to leave~!<end_line>
+    It's time to go~!<end_line>
     We're making it to Prosban today~!<end_line>
   </ascii>
 </dialogue>
@@ -481,9 +480,9 @@
     すごくうるさいんですのよ！<end_line>
   </sjis>
   <ascii>
-    What are you saying?<end_line>
-    You sleeptalking is<end_line>
-    incredibly loud, <player_nickname>!<end_line>
+    That should be obvious.<end_line>
+    Your sleeptalking is<end_line>
+    very obnoxious, <player_nickname>!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -573,8 +572,8 @@
   </sjis>
   <ascii>
     Right!<end_line>
-    It's about time to get going.<end_line>
-    We're making it to Prosban today!<end_line>
+    We should really get going.<end_line>
+    We're making it to Prosban today~!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -587,7 +586,6 @@
   </sjis>
   <ascii>
     Good grief<three_dots><end_line>
-    Just what kind of<end_line>
-    dream was that<three_dots><end_line>
+    What were you dreaming about<three_dots>?<end_line>
   </ascii>
 </dialogue>

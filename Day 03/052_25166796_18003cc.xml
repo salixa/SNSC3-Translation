@@ -51,7 +51,7 @@
     </sjis>
   </female>
   <ascii>
-    Sigh<three_dots><end_line>
+    Oh<three_dots><end_line>
     I see<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -326,7 +326,7 @@
   </sjis>
   <ascii>
     It's nice of you to shut up,<end_line>
-    but it makes more more uneasy<end_line>
+    but it makes me more uneasy<end_line>
     than your usual self.<end_line>
   </ascii>
 </dialogue>
