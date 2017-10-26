@@ -12,6 +12,9 @@
 	<sjis>
 		元気になった！<end_line>
 	</sjis>
+	<ascii>
+		You feel refreshed!<end_line>
+	</ascii>
 </popup>
 <dialogue>
 	<info box="simple">
@@ -19,9 +22,15 @@
 	<sjis>
 		にゃ？<end_line>
 	</sjis>
+	<ascii>
+		Meow?<end_line>
+	</ascii>
 </dialogue>
 <popup>
 	<sjis>
 		迷いネコを保護した！<end_line>
 	</sjis>
+	<ascii>
+		Found the lost cat!<end_line>
+	</ascii>
 </popup>
