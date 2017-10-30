@@ -59,6 +59,11 @@
     鐘をぶら下げてるのは<end_line>
     事件があった時に鳴らすからだよ<end_line>
   </sjis>
+  <ascii>
+    I'm the gatekeeper here.<end_line>
+    This bell here's to alert the<end_line>
+    town if anything bad happens.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -67,6 +72,10 @@
     プロスバンの東には、リュート岩窟が<end_line>
     あるんだよ<end_line>
   </sjis>
+  <ascii>
+    To the east of Prosban<end_line>
+    is Lute Cave.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -76,6 +85,11 @@
     採掘にいってるんだが、最近は<end_line>
     はぐれが多くてこまってるんだ<end_line>
   </sjis>
+  <ascii>
+    There's a lot of valuable<end_line>
+    ore to be mined there.<end_line>
+    But watch out for Strays.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -84,4 +98,9 @@
     明日公開いたします<end_line>
     興味のある方は見てください<end_line>
   </sjis>
+  <ascii>
+    A weapon enhancement tip<end_line>
+    will be posted here tomorrow.<end_line>
+    Please watch out for it.<end_line>
+  </ascii>
 </dialogue>
