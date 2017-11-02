@@ -215,6 +215,7 @@
     Anyone who would make <end_line>
     Lady Murno sad is my enemy!<end_line>
     Please remember that!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -252,7 +253,7 @@
     </sjis>
   </female>
   <ascii>
-    So we're following Master's directions?<end_line>
+    We're following Master's directions?<end_line>
     <three_dots>Can we make it there safely?<end_line>
     <three_dots>We should get going.<end_line>
   </ascii>
@@ -327,7 +328,7 @@
   </sjis>
   <ascii>
     Going ahead on their own<three_dots><end_line>
-    They're very troublesome aren't they.<end_line>
+    They're very troublesome.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -397,7 +398,7 @@
     ミューノのことを考えるのじゃぞ！<end_line>
   </sjis>
   <ascii>
-    You're the one who should be careful!<end_line>
+    That goes for you too!<end_line>
     The next time you speak,<end_line>
     think about Murno first!<end_line>
   </ascii>  
@@ -430,8 +431,8 @@
   </sjis>
   <ascii>
     That goes for you too!<end_line>
-    The next time you say something rash<end_line>
-    to Lady Murno, I will not forgive you!<end_line>
+    The next time you upset Lady Murno,<end_line>
+    I will not forgive you!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
