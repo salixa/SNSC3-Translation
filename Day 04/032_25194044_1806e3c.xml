@@ -5,7 +5,7 @@
     いってきます<end_line>
   </sjis>
   <ascii>
-    I'm going out!<end_line>
+    I'll be going!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -233,7 +233,7 @@
     実の妹じゃないからな<end_line>
   </sjis>
   <ascii>
-    Well of course.<end_line>
+    Of course we are.<end_line>
     We live together,<end_line>
     but we're not blood related.<end_line>
   </ascii>
@@ -531,7 +531,7 @@
     すきだよ！<end_line>
   </sjis>
   <ascii>
-    Elieze loves you, <partner>!<end_line>
+    Elieze likes you, <partner>!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -653,7 +653,7 @@
     止めにしてくれないか？<end_line>
   </sjis>
   <ascii>
-    Ahh, wait up!<end_line>
+    Ahh, hold on!<end_line>
     Sorry about this,<end_line>
     but can you put it off til later?<end_line>
   </ascii>
@@ -696,8 +696,9 @@
     もらえばいい！<end_line>
   </sjis>
   <ascii>
-    Oh right, how about<end_line>
-    you take <player_nickname> along?<end_line>
+    Actually<three_dots><end_line>
+    How about you<end_line>
+    take <player_nickname> along?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -814,7 +815,7 @@
   </sjis>
   <ascii>
     Are You Trying<end_line>
-    To Hurt Elize?<end_line>
+    To Hurt Elieze?<end_line>
   </ascii>
 </dialogue>
 <dialogue>

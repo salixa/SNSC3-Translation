@@ -22,7 +22,7 @@
     <three_dots>ト言イマシタ<end_line>
   </sjis>
   <ascii>
-    Inside, Past When You<end_line>
+    Downtown, Past The<end_line>
     Turn At the Dead End.<end_line>
     <three_dots>Is What Jade Said.<end_line>
   </ascii>
@@ -38,7 +38,7 @@
   </sjis>
   <ascii>
     Based On That,<end_line>
-    I Believe It Is This Way.<end_line>
+    I Believe It Is That Way.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -52,9 +52,9 @@
     こっちじゃろうて<end_line>
   </sjis>
   <ascii>
-    Past the bend in the street<end_line>
-    before the dead end<three_dots><end_line>
-    This way.<end_line>
+    Past the bend in the<end_line>
+    street at the dead end<three_dots><end_line>
+    That way.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -69,7 +69,7 @@
   </sjis>
   <ascii>
     Tch<three_dots>!<end_line>
-    Over here.<end_line>
+    Over there.<end_line>
     You have terrible memory<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -84,7 +84,7 @@
   </sjis>
   <ascii>
     Brother told us earlier.<end_line>
-    This way!<end_line>
+    That way!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -101,6 +101,6 @@
     </sjis>
   </female>
   <ascii>
-    Right right, inside<three_dots><end_line>
+    Right right<three_dots><end_line>
   </ascii>
 </dialogue>

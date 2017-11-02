@@ -610,7 +610,7 @@
 		武器を注文したいんだけど<end_line>
 	</sjis>
   <ascii>
-    I'd like to order a weapon,<end_line>
+    I'd like to order a weapon.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -621,7 +621,7 @@
 		ちょっと、ぶん殴りたい男が居るのよ<end_line>
 	</sjis>
   <ascii>
-    a <weapon_type> knuckle.<end_line>
+    A <weapon_type> knuckle.<end_line>
     There's a man I'd like to use it on.<end_line>
   </ascii>
 </dialogue>
@@ -702,8 +702,8 @@
 		やっぱり、できない？<end_line>
 	</sjis>
   <ascii>
-    The <weapon_type> knuckle,<end_line>
-    Can you do it?<end_line>
+    Can you make me a<end_line>
+    <weapon_type> knuckle?<end_line>
   </ascii>
 </dialogue>
 <dialogue>

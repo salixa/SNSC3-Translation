@@ -256,7 +256,7 @@
   </sjis>
   <ascii>
     Hey, have you seen a<end_line>
-    white cat around here?<end_line>
+    white cat somewhere?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -418,7 +418,8 @@
     見なかったか？<end_line>
   </sjis>
   <ascii>	
-    Hey, have you seen a white cat?<end_line>
+    Hey, have you seen a<end_line>
+    white cat somewhere?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -555,7 +556,8 @@
     見なかったかい？<end_line>
   </sjis>
   <ascii>
-    Have you seen a white cat?<end_line>
+    Hey, have you seen a<end_line>
+    white cat somewhere?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -685,7 +687,8 @@
     見なかった？<end_line>
   </sjis>
   <ascii>
-    Have you seen a white cat?<end_line>
+    Hey, have you seen a<end_line>
+    white cat somewhere?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
