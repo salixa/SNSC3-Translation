@@ -53,6 +53,9 @@
   <sjis>
     あの像、大きいよね<end_line>
   </sjis>
+  <ascii>
+    That status is is huge<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -62,6 +65,11 @@
     一般人が召喚獣をつれてるって<end_line>
     どういう事かな？<end_line>
   </sjis>
+  <ascii>
+    Hey, you there.<end_line>
+    What's an ordinary person doing<end_line>
+    with a Summon Beast?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -69,6 +77,9 @@
   <sjis>
     ちょっと詳しく聞かせてもらおうか？<end_line>
   </sjis>
+  <ascii>
+    Let's have a little chat.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -78,6 +89,11 @@
     ん？オレは金の派閥の一員だから<end_line>
     何の問題もねぇよ<end_line>
   </sjis>
+  <ascii>
+    Eh? You're a Craftknight?<end_line>
+    Me? I'm from the Gold Council.<end_line>
+    Move along now.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -85,4 +101,8 @@
     　　　プロスバンの町の創設者<end_line>
     　　　勇者プロスバンの石像<end_line>
   </sjis>
+  <ascii>
+    The Founder Of This City,<end_line>
+    Our Hero Prosban<end_line>
+  </ascii>
 </dialogue>

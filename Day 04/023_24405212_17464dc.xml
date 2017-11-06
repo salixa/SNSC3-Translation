@@ -22,7 +22,7 @@
       アニキを追いかけなくちゃ！<end_line>
     </sjis>
     <ascii>
-      I have to go after Bro!<end_line>
+      I have to follow Bro!<end_line>
     </ascii>
   </female>
 </dialogue>
@@ -34,6 +34,11 @@
 		今は２人で旅をして鍛冶師や職人に<end_line>
 		顔を売っている段階なんだって<end_line>
 	</sjis>
+  <ascii>
+    You know, my mom is a peddler.<end_line>
+    We're trying to make ourselves known<end_line>
+    with Craftknights and blacksmiths.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -43,6 +48,11 @@
 		思ってるみたいだけど、将来のために<end_line>
 		商売をしているの<end_line>
 	</sjis>
+  <ascii>
+    My mom thinks I'm out<end_line>
+    Playing around, but I'm<end_line>
+    earning money for our future.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -51,6 +61,10 @@
 		ところであなたは、鍛冶師みたいだけど<end_line>
 		強化の情報を聞いていかない？<end_line>
 	</sjis>
+  <ascii>
+    You're a Craftknight, aren't you?<end_line>
+    Want to hear about enhancement?<end_line>
+  </ascii>
 </dialogue>
 <choice>
 	<info box="simple">
@@ -58,11 +72,17 @@
 		<sjis>
 			聞いてみる<end_line>
 		</sjis>
+    <ascii>
+      Sure thing!<end_line>
+    </ascii>
 	</option>
 	<option>
 		<sjis>
 			特に聞かない<end_line>
 		</sjis>
+    <ascii>
+      Nah, I'm fine.<end_line>
+    </ascii>
 	</option>
 </choice>
 <dialogue>
@@ -73,6 +93,11 @@
 		必殺技の「ＤＵＲアタック」<end_line>
 		が武器に付加されるの<end_line>
 	</sjis>
+  <ascii>
+    Enhancing with a  <quote>Ruin Switch<quote><end_line>
+    will add the <quote>DUR Attack<quote><end_line>
+    to your weapon.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -82,6 +107,11 @@
 		「破滅スイッチ」を<end_line>
 		８００バームで販売中なの～<end_line>
 	</sjis>
+  <ascii>
+    And would you look at that,<end_line>
+    I have one such <quote>Ruin Switch<quote><end_line>
+    available for only 800 Boam~<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -89,6 +119,9 @@
 	<sjis>
 		買ってくれます？<end_line>
 	</sjis>
+  <ascii>
+    How about it?<end_line>
+  </ascii>
 </dialogue>
 <choice>
 	<info box="simple">
@@ -96,11 +129,17 @@
 		<sjis>
 			買う<end_line>
 		</sjis>
+    <ascii>
+      Buy<end_line>
+    </ascii>
 	</option>
 	<option>
 		<sjis>
 			買わない<end_line>
 		</sjis>
+    <ascii>
+      Don't buy<end_line>
+    </ascii>
 	</option>
 </choice>
 <dialogue>
@@ -109,6 +148,9 @@
 	<sjis>
 		ありがと～<end_line>
 	</sjis>
+  <ascii>
+    Thank you~<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -118,6 +160,11 @@
 		お金たりないの～<end_line>
 		商談不成立だよ～<end_line>
 	</sjis>
+  <ascii>
+    Eeeh~<end_line>
+    But you don't have the money~<end_line>
+    Transaction denied.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -126,6 +173,11 @@
 		え～聞くだけ聞いて買ってくれないの～<end_line>
 		ケチ～<end_line>
 	</sjis>
+  <ascii>
+    Eh~ I tell you all that and<end_line>
+    you don't buy anything?<end_line>
+    Cheapskate~<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -134,6 +186,11 @@
 		え～聞いてくれないの～<end_line>
 		せっかくのお客さんだと思ったのに～<end_line>
 	</sjis>
+  <ascii>
+    Eh~ You don't want to listen?<end_line>
+    And I thought I finally had<end_line>
+    a customer~<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -143,6 +200,11 @@
 		そろそろ、福引き屋に<end_line>
 		行かないと<three_dots><end_line>
 	</sjis>
+  <ascii>
+    I've saved up quite a lot.<end_line>
+    I should got to the<end_line>
+    lottery shop soon<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -152,6 +214,11 @@
 		紹介するよ<end_line>
 		ボクの召喚獣、ミョータロウだよ<end_line>
 	</sjis>
+  <ascii>
+    Oh, you have Summon Beast too.<end_line>
+    Nice to meet you.<end_line>
+    This is my Summon Beast, Myoutarou.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -159,6 +226,10 @@
 		　<end_line>
 		　　　釣り仲間新聞　第１号<end_line>
 	</sjis>
+  <ascii>
+    <end_line>
+    Fishing Friends Newspaper No. 1<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -166,7 +237,12 @@
 		ディックル村の釣り人の池には<end_line>
 		かつてないほどのつぶらな目をした<end_line>
 		ワン魚がいるらしいぞ<end_line>
-	</sjis>
+	</sjis>i
+  <ascii>
+    It is said the Deikle Village Pond<end_line>
+    contains a fish that's cuteness<end_line>
+    cannot be put into words.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -175,6 +251,11 @@
 		試してみませんか？<end_line>
 		毎日抽選！空くじ無し！！<end_line>
 	</sjis>
+  <ascii>
+    Want to try your luck<end_line>
+    at the lottery?<end_line>
+    Every ticket wins!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -183,4 +264,9 @@
 		聞こえたらすみやかに町の中に避難し<end_line>
 		外出をひかえましょう<end_line>
 	</sjis>
+  <ascii>
+    If you hear the alarm, that means<end_line>
+    Strays have appeared nearby.<end_line>
+    Avoid leaving town.<end_line>
+  </ascii>
 </dialogue>

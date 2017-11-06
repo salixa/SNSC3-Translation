@@ -11,6 +11,11 @@
 		鉱山で働いてる男たちが<end_line>
 		召喚獣に昼飯を盗られる事件が<end_line>
 	</sjis>
+  <ascii>
+    Things seemed to have settled<end_line>
+    down a little bit, but now<end_line>
+    there are reports of miners<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -20,12 +25,20 @@
 		しかも、その召喚獣を操っているのは<end_line>
 		まだ子供だって噂だ<end_line>
 	</sjis>
+  <ascii>
+    having their lunch stolen.<end_line>
+    It's said a kid is ordering Summon<end_line>
+    Beasts to doing their dirty work.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
 		<three_dots><end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -34,6 +47,11 @@
 		プロスバン自警団では新たな仲間を<end_line>
 		募集しています<end_line>
 	</sjis>
+  <ascii>
+    You too can protect Prosban!<end_line>
+    The Prosban Vigilante Corps<end_line>
+    is now accepting applications.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -42,6 +60,11 @@
 		詳細はマーネイル宿場<end_line>
 		ほほえみ亭横　マキおやじまで<end_line>
 	</sjis>
+  <ascii>
+    Part time position available.<end_line>
+    Involves chopping firewood.<end_line>
+    Inquire at Marneil Station.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -50,6 +73,11 @@
 		迷子になるネコが増えています<end_line>
 		飼い主さんは注意してあげてください<end_line>
 	</sjis>
+  <ascii>
+    Lost cats are increasing in number.<end_line>
+    Pet owners, please watch out for<end_line>
+    Strays and keep track of your pets.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -58,4 +86,9 @@
 		鍛冶職人なら客の望む武器を<end_line>
 		鍛えよ！<end_line>
 	</sjis>
+  <ascii>
+    This is the city of smithies.<end_line>
+    All of us here live to<end_line>
+    forge weapons!<end_line>
+  </ascii>
 </dialogue>

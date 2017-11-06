@@ -10,6 +10,10 @@
 		最近のはぐれ被害は派閥と自警団でも<end_line>
 		対応しきれない時があるぐらいなんだ<end_line>
 	</sjis>
+  <ascii>
+    Even the Gold Council and the<end_line>
+    Vigilantes can't keep this up.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -18,6 +22,10 @@
 		最近のはぐれ召喚獣の多さには<end_line>
 		困ったもんだよ<end_line>
 	</sjis>
+  <ascii>
+    There's just too many Strays<end_line>
+    for us to deal with.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -26,4 +34,8 @@
 		倒したと思っても<end_line>
 		引き返すと、また現れたりするからね<end_line>
 	</sjis>
+  <ascii>
+    You'll think you've defeated them,<end_line>
+    but go back and they'll be there.<end_line>
+  </ascii>
 </dialogue>

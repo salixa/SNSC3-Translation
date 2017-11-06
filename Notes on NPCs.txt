@@ -8,9 +8,10 @@ Day 03, Zenzou, Marneil: 18c754c
 
 Traveling Peddler / Daughter
 child offers to sell you stuff, mother gives you info on crafting
-Day 01, starting town: 17306cc (use this as a basis)
-Day 02, starting town: 17344cc (child), 17372b2 (mother)
-Day 03: Marneil, 173f26c (mother), 173e35c (child)
+Day 01, starting town: 019_17306cc (use this as a basis)
+Day 02, starting town: 17344cc (child), 17372b2 (mother) crafting/smithing ranks
+Day 03: Marneil, 173e35c (child),  173f26c (mother) superior weapons / raising smithing rank
+Day 04: Prosban, 023_24405212_1746dc (child), 037_24424748_174b12c (mother) enhance/disassemble
 
 Cat Lover
 Day 02, starting town: 18c69fc

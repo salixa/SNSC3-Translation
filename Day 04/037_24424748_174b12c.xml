@@ -15,6 +15,11 @@
 		そんな時にはＦエイド、何でもそろう<end_line>
 		便利な道具屋<end_line>
 	</sjis>
+  <ascii>
+    Have you ever been injured<end_line>
+    with no inn in sight?<end_line>
+    When that happens, think of F Aid.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -24,6 +29,11 @@
 		今、鍛冶師や鍛冶職人に会うために<end_line>
 		旅をして面識を広げてるのよ<end_line>
 	</sjis>
+  <ascii>
+    My, you must be a Craftknight.<end_line>
+    Right now I'm on a journey to meet<end_line>
+    many Craftknights and blacksmiths,<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -33,6 +43,11 @@
 		暮らすためにお得意さんを<end_line>
 		見つけるためにね<end_line>
 	</sjis>
+  <ascii>
+    with the hope that some of them<end_line>
+    will become regular customers<end_line>
+    when my daughter and I open a shop.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -41,6 +56,10 @@
 		鍛冶の事には詳しいから何か<end_line>
 		知りたいことがあったら聞いてね<end_line>
 	</sjis>
+  <ascii>
+    I know quite a lot about smithing.<end_line>
+    Feel free to ask me anything.<end_line>
+  </ascii>
 </dialogue>
 <choice>
 	<info box="simple">
@@ -48,16 +67,25 @@
 		<sjis>
 			強化について教えてほしい<end_line>
 		</sjis>
+    <ascii>
+      Teach me about enhancement<end_line>
+    </ascii>
 	</option>
 	<option>
 		<sjis>
 			解体について教えてほしい<end_line>
 		</sjis>
+    <ascii>
+      Teach me about disassembly<end_line>
+    </ascii>
 	</option>
 	<option>
 		<sjis>
 			今は特にない<end_line>
 		</sjis>
+    <ascii>
+      Nothing right now<end_line>
+    </ascii>
 	</option>
 </choice>
 <dialogue>
@@ -68,6 +96,11 @@
 		色々なアイテムを合成して<end_line>
 		もっと武器を強くするのよ<end_line>
 	</sjis>
+  <ascii>
+    Enhancement is when you<end_line>
+    combine items with a weapon<end_line>
+    to make it stronger.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -77,6 +110,11 @@
 		最大３個までアイテムが使えるから<end_line>
 		頑張ってみてね<end_line>
 	</sjis>
+  <ascii>
+    You can do it up to three times,<end_line>
+    depending on your smithing rank.<end_line>
+    So make sure to raise it.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -85,6 +123,10 @@
 		解体はね、一度作製した武器を<end_line>
 		マテルの状態に戻すことが出来るの<end_line>
 	</sjis>
+  <ascii>
+    Dissassembly lets you break<end_line>
+    down a weapon into a Shapestone.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -94,6 +136,11 @@
 		無くて、パラメータを少しだけ<end_line>
 		残したままマテルに戻るの<end_line>
 	</sjis>
+  <ascii>
+    But that's not all.<end_line>
+    The Shapestone will retain some<end_line>
+    of the weapon's original strength.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -103,6 +150,11 @@
 		高くないと、ほとんど無くなって<end_line>
 		しまうから注意ね<end_line>
 	</sjis>
+  <ascii>
+    How much depends on your skill,<end_line>
+    and your smithing rank.<end_line>
+    Be careful with it.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -110,4 +162,7 @@
 	<sjis>
 		気が向いたらまた来てね<end_line>
 	</sjis>
+  <ascii>
+    I'll be here if you need me.<end_line>
+  </ascii>
 </dialogue>

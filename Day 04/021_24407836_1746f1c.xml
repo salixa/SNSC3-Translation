@@ -9,6 +9,10 @@
 		　<end_line>
 		　　　　　<paw>探しています<paw><end_line>
 	</sjis>
+  <ascii>
+    <end_line>
+    <paw>Searching for something<paw><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -17,4 +21,9 @@
 		持ったネコを探しています<end_line>
 		見つけた方は連絡ください<end_line>
 	</sjis>
+  <ascii>
+    I'm looking for a cat<end_line>
+    with a striped tail.<end_line>
+    If you see it, please contact me.<end_line>
+  </ascii>
 </dialogue>

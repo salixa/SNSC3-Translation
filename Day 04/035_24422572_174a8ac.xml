@@ -15,6 +15,11 @@
 		もちろん鍛冶に最適なアイテムも<end_line>
 		多数取り扱っております<end_line>
 	</sjis>
+  <ascii>
+    We sell Shapestones too.<end_line>
+    We have all kinds of things<end_line>
+    blacksmiths will find useful.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -22,4 +27,8 @@
 	<sjis>
 		最近ははぐれのせいでいそがしくてね<end_line>
 	</sjis>
+  <ascii>
+    All these Strays have really<end_line>
+    helped increase our sales.<end_line>
+  </ascii>
 </dialogue>

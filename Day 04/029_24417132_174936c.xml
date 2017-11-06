@@ -32,6 +32,10 @@
 		僕はまだ見習いで<end_line>
 		今日の仕事は階段掃除なんだ<end_line>
 	</sjis>
+  <ascii>
+    I'm still an apprentice, so my<end_line>
+    job today is sweeping the stairs.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -39,6 +43,10 @@
 		武器を鍛える前に<end_line>
 		まずは己を鍛えるべし<end_line>
 	</sjis>
+  <ascii>
+    Before you can forge weapons,<end_line>
+    you must first forge yourself.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -47,4 +55,9 @@
 		つかったどうぐは、ちゃあんと<end_line>
 		もとのばしょに　もどしてね！<end_line>
 	</sjis>
+  <ascii>
+    <lesser_than>A Request From Elieze<greater_than><end_line>
+    When you're done with your tools,<end_line>
+    put them back where you found them!<end_line>
+  </ascii> 
 </dialogue>
