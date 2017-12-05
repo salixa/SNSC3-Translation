@@ -71,7 +71,7 @@
     お付き合いしているわ<end_line>
   </sjis>
   <ascii>
-     I'm Tier.<end_line>
+    I'm Tier.<end_line>
     I'm currently dating <player_nickname>,<end_line>
     with intention to marry.<end_line>
   </ascii>
@@ -128,7 +128,7 @@
     未来の仕事仲間なのよ<end_line>
   </sjis>
   <ascii>
-    Hi. I'm Tier.<end_line>
+    I'm Tier.<end_line>
     <player_nickname> and I will be working<end_line>
     together in the future.<end_line>
   </ascii>
@@ -155,6 +155,7 @@
     帰っちゃうなんて<three_dots>！<end_line>
   </sjis>
   <ascii>
+    Moving on!<end_line>
     You're terrible, you know!<end_line>
     Leaving me behind like that<three_dots>!<end_line>
   </ascii>
@@ -170,7 +171,7 @@
   </sjis>
   <ascii>
     That Ianna lectured me<end_line>
-    so much, and I didn't get<end_line>
+    all day, and I didn't get<end_line>
     a single Boam out of it<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -274,7 +275,7 @@
   <ascii>
     She's still talking<end_line>
     to that Velworen guy.<end_line>
-    V.E's not done either.<end_line>
+    Vee's not done either.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -289,8 +290,8 @@
     </sjis>
     <ascii>
       Actually Tier, I need a favor.<end_line>
-      Take Elieze back<end_line>
-      to town for me.<end_line>
+      Could you take Elieze<end_line>
+      back to town for me?<end_line>
     </ascii>
   </male>
   <female>
@@ -302,7 +303,7 @@
     <ascii>
       Tier, I need a favor.<end_line>
       Could you take Elieze<end_line>
-      back to town?<end_line>
+      back to town for me?<end_line>
     </ascii>
   </female>
 </dialogue>
@@ -337,8 +338,8 @@
   </female>
   <ascii>
     There's something I'm worried about.<end_line>
-    There's a Stray blocking <end_line>
-    the way further in.<end_line>
+    There's a Stray that's<end_line>
+    appeared further in.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -441,7 +442,7 @@
   <ascii>
     Okay okay<three_dots><end_line>
     Fine then.<end_line>
-    I'll take her to town.<end_line>
+    I'll take her back.<end_line>
   </ascii>
 </dialogue>
 <dialogue>

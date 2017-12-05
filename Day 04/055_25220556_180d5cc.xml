@@ -8,7 +8,7 @@
 		またムチャして<end_line>
 	</sjis>
   <ascii>
-    Oh, I'm glad you're safe.<end_line>
+    Oh, good, you're safe.<end_line>
     Chasing after Strays again?<end_line>
     You're so reckless.<end_line>
   </ascii>
@@ -193,7 +193,7 @@
 	</sjis>
   <ascii>
     Well, uh<three_dots><end_line>
-    That is,<partner> wants<end_line>
+    That is, <partner> wants<end_line>
     to skip town<three_dots><end_line>
   </ascii>
 </dialogue>

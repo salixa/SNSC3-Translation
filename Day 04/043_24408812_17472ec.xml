@@ -15,12 +15,19 @@
 		素材あつめならリュート岩窟にしな<end_line>
 		スポート洞窟は立ち入り禁止だ<end_line>
 	</sjis>
+  <ascii>
+    Spoat Grotto is off limits.<end_line>
+    You can go gather in Lute Cave.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
 		にゃ～<end_line>
 	</sjis>
+  <ascii>
+    Meow~<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -29,6 +36,10 @@
 		会員証をお持ちの方はどうぞ<end_line>
 		お通り下さい<end_line>
 	</sjis>
+  <ascii>
+    Those with a membership,<end_line>
+    please come this way.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -38,6 +49,11 @@
 		許可された者しか通すわけには<end_line>
 		いかないな<end_line>
 	</sjis>
+  <ascii>
+    Sorry, only those with<end_line>
+    explicit permission can<end_line>
+    go through.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -46,4 +62,8 @@
 		ただし会員証を持っているなら<end_line>
 		話は別だがな<end_line>
 	</sjis>
+  <ascii>
+    But if you have a membership,<end_line>
+    that's a different story.<end_line>
+  </ascii>
 </dialogue>

@@ -20,8 +20,7 @@
   </sjis>
   <ascii>
     You weren't at the workshop,<end_line>
-    so I was wondering<end_line>
-    where you'd gone.<end_line>
+    I was wondering where you were.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -136,7 +135,6 @@
     それって一体<three_dots><end_line>
   </sjis>
   <ascii>
-    Things to do?<end_line>
     Like what<three_dots>?<end_line>
   </ascii>
 </dialogue>

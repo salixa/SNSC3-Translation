@@ -344,7 +344,6 @@
     ちゃんとしつけておくんだな<end_line>
   </sjis>
   <ascii>
-    You must be slacking off.<end_line>
     You're that things owner,<end_line>
     you have to train it correctly.<end_line>
   </ascii>
@@ -369,6 +368,7 @@
   </female>
   <ascii>
     Owner<three_dots>? No<three_dots><end_line>
+    I'm <partner>'s equal<three_dots><end_line>
     We're partners!<end_line>
   </ascii>
 </dialogue>
@@ -424,7 +424,8 @@
   </sjis>
   <ascii>
     This is perfect.<end_line>
-    I'll teach you some manners.<end_line>
+    I'll teach you some manners in<end_line>
+    place of your useless master.<end_line>
   </ascii>
 </dialogue>
 <dialogue>

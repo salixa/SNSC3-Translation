@@ -19,7 +19,7 @@
 		攻撃ガ　当タリマシタカラ<end_line>
 	</sjis>
   <ascii>
-    Our Attacks Hit You.<end_line>
+    Of Course. Our Attacks Hit You.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -342,7 +342,7 @@
 		アナタの？<end_line>
 	</sjis>
   <ascii>
-    My?<end_line>
+    Oh?<end_line>
     Is that your Summon Beast?<end_line>
   </ascii>
 </dialogue>
@@ -404,9 +404,9 @@
 		あっちゃ～、ハズレだわ～<three_dots><end_line>
 	</sjis>
   <ascii>
-    Then that means,<end_line>
-    these two probably aren't it.<end_line>
-    Oh no~, I was wrong~<three_dots><end_line>
+    Then that means these two<end_line>
+    probably aren't involved.<end_line>
+    Oh no~, I messed up~<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -420,7 +420,8 @@
 		ボクはうれしいけど<end_line>
 	</sjis>
   <ascii>
-    And this one's a boy too~<end_line>
+    And this one's a boy too,<end_line>
+    not a girl~<end_line>
     Well, I'm happy about that.<end_line>
   </ascii>
 </dialogue>
@@ -564,7 +565,8 @@
 	</sjis>
   <ascii>
     About that~<end_line>
-    This is the only kid we found~<end_line>
+    This is the only kid we found<end_line>
+    with a Summon Beast~<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -655,7 +657,7 @@
 	</sjis>
   <ascii>
     It's been a while, <player_name>.<end_line>
-    V.E told me you were in town.<end_line>
+    Vee told me you were in town.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -787,7 +789,7 @@
   <ascii>
     Eh~! You didn't leave any for me~?<end_line>
     All you think about is yourself,<end_line>
-    you're the wo~rst.<end_line>
+    you're the wooooorst.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -922,7 +924,7 @@
 	</sjis>
   <ascii>
     You two go back to the village.<end_line>
-    As I have told V.E,<end_line>
+    As I have told Vee,<end_line>
     I will not stop the Stray hunts.<end_line>
   </ascii>
 </dialogue>
@@ -1046,8 +1048,8 @@
 		だから<three_dots><end_line>
 	</sjis>
   <ascii>
-    I heard the cause of the<end_line>
-    rampaging Strays is some girl.<end_line>
+    The earthquakes the Strays,<end_line>
+    all of it is caused by a single girl.<end_line>
     Therefore<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -1087,8 +1089,8 @@
 		全部たおせばいいことだがな<end_line>
 	</sjis>
   <ascii>
-    That is, if they really exist.<end_line>
-    True or not, we should still<end_line>
+    If the rumors are to be believed.<end_line>
+    Regardless, we should still<end_line>
     keep the area clear of Strays.<end_line>
   </ascii>
 </dialogue>
@@ -1113,7 +1115,7 @@
 	</sjis>
   <ascii>
     I'll be going then.<end_line>
-    Let V.E know too.<end_line>
+    Let Vee know too.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1273,7 +1275,7 @@
 		早ク　町カラ出タ方ガ　イイデショウ<end_line>
 	</sjis>
   <ascii>
-    I Can Only Say There Are Too <end_line>
+    I Can Only Say There Are Too<end_line>
     Many Threats In This Town.<end_line>
     It Would Be Best To Leave.<end_line>
   </ascii>
