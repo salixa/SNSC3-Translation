@@ -26,8 +26,7 @@
 		こっちからだよ<end_line>
 	</sjis>
   <ascii>
-    The way out<end_line>
-    is over here!<end_line>
+    it's this way!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -39,6 +38,7 @@
 		わかった！<end_line>
 	</sjis>
   <ascii>
-    Oh, right.<end_line>
+    Ok.<end_line>
+    Got it!<end_line>
   </ascii>
 </dialogue>

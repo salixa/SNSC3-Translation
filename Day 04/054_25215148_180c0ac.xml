@@ -140,9 +140,9 @@
 			引いてるじゃない<end_line>
 		</sjis>
     <ascii>
-      How disgusting.<end_line>
-      You're scaring away<end_line>
-      such a cute boy.<end_line>
+      How disgusting. Can you stop?<end_line>
+      The poor little boy is<end_line>
+      scared stiff.<end_line>
     </ascii>
 	</male>
 	<female>
@@ -152,9 +152,9 @@
 			引いてるじゃない<end_line>
 		</sjis>
     <ascii>
-      How disgusting.<end_line>
-      You're scaring away<end_line>
-      the little lady.<end_line>
+      How disgusting. Can you stop?<end_line>
+      The poor little lady is<end_line>
+      scared stiff.<end_line>
     </ascii>
 	</female>
 </dialogue>
@@ -923,7 +923,7 @@
 		はぐれ狩りを止める気はない<end_line>
 	</sjis>
   <ascii>
-    You two go back to the village.<end_line>
+    You two go back to the town.<end_line>
     As I have told Vee,<end_line>
     I will not stop the Stray hunts.<end_line>
   </ascii>
@@ -1048,7 +1048,7 @@
 		だから<three_dots><end_line>
 	</sjis>
   <ascii>
-    The earthquakes the Strays,<end_line>
+    The earthquakes, the Strays,<end_line>
     all of it is caused by one girl.<end_line>
     Therefore<three_dots><end_line>
   </ascii>
@@ -1115,7 +1115,7 @@
 	</sjis>
   <ascii>
     I'll be going then.<end_line>
-    Let Vee know too.<end_line>
+    Tell Vee what I just told you.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
