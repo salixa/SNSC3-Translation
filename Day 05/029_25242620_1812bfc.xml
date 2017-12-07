@@ -8,7 +8,7 @@
   </sjis>
   <ascii>
     Hello.<end_line>
-    I've brought the goods<end_line>
+    I have a delivery<end_line>
     from Benson's Workshop.<end_line>
   </ascii>
 </dialogue>
@@ -317,6 +317,10 @@
     え！？<end_line>
     ど、どうして<three_dots><end_line>
   </sjis>
+  <ascii>
+    Eh!?<end_line>
+    H-how<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="simple">

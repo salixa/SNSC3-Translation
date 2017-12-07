@@ -131,7 +131,7 @@
     ティエのヤツはドコへ行ったのかも<three_dots><end_line>
   </sjis>
   <ascii>
-    Yet V.E immediately sets<end_line>
+    Vee immediately ran<end_line>
     off for Bostaph's place.<end_line>
     And who knows where Tier went<three_dots><end_line>
   </ascii>
@@ -264,8 +264,7 @@
   </sjis>
   <ascii>
     Thanks.<end_line>
-    You're a life saver,<end_line>
-    you know that?<end_line>
+    You're a life saver.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -279,6 +278,7 @@
   </sjis>
   <ascii>
     Well? How about it?<end_line>
+    Makes you want to help too, right?<end_line>
     Come on!<end_line>
   </ascii>
 </dialogue>
@@ -363,7 +363,7 @@
     面白いジョーダンだな<end_line>
   </sjis>
   <ascii>
-    Protect her? From what, Eleize?<end_line>
+    Protect her? From what, Elieze?<end_line>
     Elieze is going to attack Murno!?<end_line>
     Hah. You're hilarious.<end_line>
   </ascii>
@@ -428,7 +428,7 @@
   <ascii>
     <partner>!<end_line>
     Stop it already!<end_line>
-    I'm alright<three_dots><end_line>
+    Don't worry about me<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -443,6 +443,7 @@
   <ascii>
     Besides, you're<end_line>
     <player_nickname>'s partner<three_dots><end_line>
+    You have a responsibility.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -557,7 +558,7 @@
   </sjis>
   <ascii>
     Okay, can you carry this<end_line>
-    to the toolshop for me?<end_line>
+    to the tool shop for me?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -596,8 +597,9 @@
     シンチョウに扱ってほしい<end_line>
   </sjis>
   <ascii>
-    Be careful,<end_line>
-    it's very fragile.<end_line>
+    I want you to be careful.<end_line>
+    The stuff inside the box<end_line>
+    is very fragile.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
