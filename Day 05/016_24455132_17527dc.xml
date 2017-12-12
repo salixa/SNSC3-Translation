@@ -10,6 +10,10 @@
 		この町って、ごみごみしてて<end_line>
 		いやよね<end_line>
 	</sjis>
+  <ascii>
+    This city has trash everywhere.<end_line>
+    I hate it.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -18,6 +22,10 @@
 		どこかに、しずかなところ<end_line>
 		ないかしら<end_line>
 	</sjis>
+  <ascii>
+    Is there nowhere I can find<end_line>
+    some peace and quiet?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -25,4 +33,8 @@
 		届け物は急ぐだけが能じゃない<end_line>
 		慎重さも大切なんです<end_line>
 	</sjis>
+  <ascii>
+    Fast delivery isn't everything.<end_line>
+    Handle your parcel with care.<end_line>
+  </ascii>
 </dialogue>

@@ -15,6 +15,11 @@
 		もちろん鍛冶に最適なアイテムも<end_line>
 		多数取り扱っております<end_line>
 	</sjis>
+  <ascii>
+    We have shapestons for sale,<end_line>
+    as well as large quantities of<end_line>
+    common crafting materials.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -24,6 +29,11 @@
 		私は鍛冶師や鍛冶職人を相手に会う<end_line>
 		旅をしているの<end_line>
 	</sjis>
+	<ascii>
+		Oh, that hammer<three_dots><end_line>
+		You must be a Craftknight. I've<end_line>
+    been looking for people like you.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -33,6 +43,11 @@
 		今は、娘は何処かに遊びに出ていて<end_line>
 		いないけどね<end_line>
 	</sjis>
+	<ascii>
+		I'm traveling with my daughter.<end_line>
+		She's not here now though;<end_line>
+		probably out playing somewhere.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -41,6 +56,10 @@
 		鍛冶の事には詳しいから何か<end_line>
 		知りたいことがあったら聞いてね<end_line>
 	</sjis>
+	<ascii>
+		I know a lot about Smithing,<end_line>
+		so feel free to ask anything.<end_line>
+	</ascii>
 </dialogue>
 <choice>
 	<info box="simple">
@@ -48,16 +67,25 @@
 		<sjis>
 			強化について教えてほしい<end_line>
 		</sjis>
+    <ascii>
+      About enhancing<three_dots><end_line>
+    </ascii>
 	</option>
 	<option>
 		<sjis>
 			強刃について教えてほしい<end_line>
 		</sjis>
+    <ascii>
+      About quenching<three_dots><end_line>
+    </ascii>
 	</option>
 	<option>
 		<sjis>
 			今は特にない<end_line>
 		</sjis>
+    <ascii>
+      Nothing<end_line>
+    </ascii>
 	</option>
 </choice>
 <dialogue>
@@ -68,6 +96,11 @@
 		強化で、必殺技や特殊効果が付加される<end_line>
 		アイテムの見分け方があるの<end_line>
 	</sjis>
+  <ascii>
+    Pay attention, this is important.<end_line>
+    Enhancing can add special<end_line>
+    moves and effects to your weapon.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -77,6 +110,11 @@
 		あると思うけど、強化でこれを<end_line>
 		使用することがカギになるの<end_line>
 	</sjis>
+  <ascii>
+    Some items are categorized<end_line>
+    specifically as enhancement<end_line>
+    materials.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -86,6 +124,11 @@
 		組み合わせが違っていると何も<end_line>
 		付加されないから注意してね<end_line>
 	</sjis>
+  <ascii>
+    But if it isn't compatible,<end_line>
+    nothing will happen,<end_line>
+    so be careful.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -95,6 +138,11 @@
 		あ、そうそうこれは「きょうじん」って<end_line>
 		読むから注意してね<end_line>
 	</sjis>
+  <ascii>
+    About quenching then.<end_line>
+    You might know it as Toughening,<end_line>
+    pay attention to that.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -104,6 +152,11 @@
 		使うと、武器のパラメータを<end_line>
 		振り分けることが出来るのよ<end_line>
 	</sjis>
+  <ascii>
+    You're able to quench any<end_line>
+    weapon with max TEC and<end_line>
+    increase its effectiveness.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -112,6 +165,10 @@
 		でもね、強刃をしてしまうと熟練度が<end_line>
 		消えてしまうから注意してね<end_line>
 	</sjis>
+  <ascii>
+    Note that doing so will<end_line>
+    reset it's TEC to zero.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -119,4 +176,7 @@
 	<sjis>
 		気が向いたらまた来てね<end_line>
 	</sjis>
+  <ascii>
+    Come see me anytime.<end_line>
+  </ascii>
 </dialogue>

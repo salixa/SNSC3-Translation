@@ -4,6 +4,10 @@
 		ぐるぐる回して賞品ゲット！<end_line>
 		今回の賞品は<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Spin and get a prize!<end_line>
+    Your prize is<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="special">
@@ -12,6 +16,11 @@
 		２等　破滅スイッチ<end_line>
 		３等　赤サビの粉<end_line>
 	</sjis>
+  <ascii>
+    First Place: Heavy Gold Ore<end_line>
+    Second Place: Ruin Switch<end_line>
+    Third Place: Rust Powder<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="special">
@@ -20,6 +29,11 @@
 		５等　熟れすぎた木の実<end_line>
 		以上になっております<end_line>
 	</sjis>
+  <ascii>
+    Fourth Place: Heartleaf Potion<end_line>
+    Fifth Place: Overripe Berry<end_line>
+    And that's all.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="special">
@@ -27,6 +41,10 @@
 		ガラガラ回せば幸せきっと！<end_line>
 		今回の賞品は<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Spin the wheel, receive joy!<end_line>
+    Your prizes are<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="special">
@@ -35,6 +53,11 @@
 		２等　怪力の証<end_line>
 		３等　鉄壁の証<end_line>
 	</sjis>
+  <ascii>
+    First Place: Friend Ring<end_line>
+    Second Place: Proof of Power<end_line>
+    Third Place: Bulletproof<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="special">
@@ -43,6 +66,11 @@
 		５等　手頃な小枝<end_line>
 		以上になっております<end_line>
 	</sjis>
+  <ascii>
+    Fourth Place: Expert's Mark<end_line>
+    Fifth Place: Tree Branch<end_line>
+    And that's all.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="special">
@@ -50,6 +78,10 @@
 		赤字覚悟だ！　もってけドロボー！<end_line>
 		今回の賞品は<three_dots><end_line>
 	</sjis>
+  <ascii>
+    I'll go broke at this rate!<end_line>
+    Your prize is<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="special">
@@ -58,6 +90,11 @@
 		２等　真っ暗サングラス<end_line>
 		３等　極意の巻物<end_line>
 	</sjis>
+  <ascii>
+    First Place: Legendary Spring<end_line>
+    Second Place: Dark Sunglasses<end_line>
+    Third Place: Secret Scroll<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="special">
@@ -66,6 +103,11 @@
 		５等　上等な紙<end_line>
 		以上になっております<end_line>
 	</sjis>
+  <ascii>
+    Fourth Place: Taijutsu Scroll<end_line>
+    Fifth Place: Premium Paper<end_line>
+    And that's all.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="special">
@@ -73,6 +115,10 @@
 		ここまでやるか！？　驚きの賞品！<end_line>
 		今回の賞品は<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Still going!? The madman!<end_line>
+    Your prize is<three_dots><end_line>
+  </ascii> 
 </dialogue>
 <dialogue>
 	<info box="special">
@@ -81,6 +127,11 @@
 		２等　リペアパーツ<end_line>
 		３等　気合い鉢巻<end_line>
 	</sjis>
+  <ascii>
+    First Place: Flash Charm<end_line>
+    Second Place: Repair Parts<end_line>
+    Third Place: Spirit Headband<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="special">
@@ -89,6 +140,11 @@
 		５等　悪臭にんにく<end_line>
 		以上になっております<end_line>
 	</sjis>
+  <ascii>
+    Fourth Place: Martial Treatise<end_line>
+    Fifth Place: Stinky Garlic<end_line>
+    And that's all.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="special">
@@ -96,6 +152,10 @@
 		回せば道は開かれる！？<end_line>
 		今回の賞品は<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Spin, and the path will open!?<end_line>
+    Your prize is<three_dots><end_line>
+  </ascii> 
 </dialogue>
 <dialogue>
 	<info box="special">
@@ -104,6 +164,11 @@
 		２等　古びた砥石<end_line>
 		３等　健康サンダル<end_line>
 	</sjis>
+  <ascii>
+    First Place: Legendary Skewer<end_line>
+    Second Place: Old Grindstone<end_line>
+    Third Place: Life Sandals<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="special">
@@ -112,6 +177,11 @@
 		５等　干しエビ<end_line>
 		以上になっております<end_line>
 	</sjis>
+  <ascii>
+    Fourth Place: Poison Powder<end_line>
+    Fifth Place: Red Shrimp<end_line>
+    And that's all.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="special">
@@ -119,6 +189,10 @@
 		回すその手に祈りを込めて！<end_line>
 		今回の賞品は<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Believe in yourself! Spin the wheel!<end_line>
+    Your prize is<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="special">
@@ -127,6 +201,11 @@
 		２等　超加速装置<end_line>
 		３等　強運のお守り<end_line>
 	</sjis>
+  <ascii>
+    First Place: Legendary Bamboo<end_line>
+    Second Place: Speeding Device<end_line>
+    Third Place: Lucky Charm<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="special">
@@ -135,6 +214,11 @@
 		５等　ロブスター<end_line>
 		以上になっております<end_line>
 	</sjis>
+  <ascii>
+    Fourth Place: Hot Curry<end_line>
+    Fifth Place: Lobster<end_line>
+    And that's all.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="special">
@@ -142,6 +226,9 @@
 		これで最後だ！　一球入魂！！<end_line>
 		今回の賞品は<three_dots><end_line>
 	</sjis>
+  <ascii>
+    This is it! The ultimate spin!!<end_line>
+    Your prize is<three_dots><end_line>
 </dialogue>
 <dialogue>
 	<info box="special">
@@ -150,6 +237,11 @@
 		２等　伝説の青竹<end_line>
 		３等　伝説級の鉄串<end_line>
 	</sjis>
+  <ascii>
+    First Place: Death Note<end_line>
+    Second Place: Legendary Bamboo<end_line>
+    Third Place: Legendary Skewer<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="special">
@@ -158,6 +250,11 @@
 		５等　高級な貝<end_line>
 		以上になっております<end_line>
 	</sjis>
+  <ascii>
+    Fourth Place: Med Kit<end_line>
+    Fifth Place: Gourmet Clam<end_line>
+    And that's all.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="nobox">
@@ -166,6 +263,11 @@
 		バックアタックしちゃダメだ！<end_line>
 		今回の賞品は<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Don't attack the machine<end_line>
+    if you miss first place!<end_line>
+    Your prize is<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="nobox">
@@ -174,6 +276,11 @@
 		２等　雷光の護符<end_line>
 		３等　雷結晶<end_line>
 	</sjis>
+  <ascii>
+    First Place: Friend Ring<end_line>
+    Second Place: Thunder Charm<end_line>
+    Third Place: Thunder Crystal<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="nobox">
@@ -182,6 +289,11 @@
 		５等　炎結晶<end_line>
 		以上だぁっ！！<end_line>
 	</sjis>
+  <ascii>
+    Fourth Place: Flare Charm<end_line>
+    Fifth Place: Flare Crystal<end_line>
+    And that's all!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="nobox">
@@ -189,6 +301,10 @@
 		特賞ちゃんがおよびですよ～<end_line>
 		今回の賞品は<three_dots><end_line>
 	</sjis>
+  <ascii>
+    The grand prize is calling you!<end_line>
+    Your prize is<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="nobox">
@@ -197,6 +313,11 @@
 		２等　水流の護符<end_line>
 		３等　水結晶<end_line>
 	</sjis>
+  <ascii>
+    First Place: Ultra Move Ring<end_line>
+    Second Place: Torrent Charm<end_line>
+    Third Place: Water Crystal<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="nobox">
@@ -205,6 +326,11 @@
 		５等　風結晶<end_line>
 		以上だぁっ！！<end_line>
 	</sjis>
+  <ascii>
+    Fourth Place: Gale Charm<end_line>
+    Fifth Place: Gale Crystal<end_line>
+    And that's all!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="nobox">
@@ -213,6 +339,11 @@
 		色っぽく回せ！<end_line>
 		今回の賞品は<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Man or woman!<end_line>
+    Try to look sexy as you spin it!<end_line>
+    Your prize is<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="nobox">
@@ -221,6 +352,11 @@
 		２等　辛いカレー<end_line>
 		３等　卵かけ飯<end_line>
 	</sjis>
+  <ascii>
+    First Place: Med Kit<end_line>
+    Second Place: Hot Curry<end_line>
+    Third Place: Seasoned Rice<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="nobox">
@@ -229,6 +365,11 @@
 		５等　ジュウユ薬<end_line>
 		以上だぁっ！！<end_line>
 	</sjis>
+  <ascii>
+    Fourth Place: Hardboiled Egg<end_line>
+    Fifth Place: Heartleaf Potion<end_line>
+    And that's all!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -236,6 +377,9 @@
 	<sjis>
 		コンナ賞品アリエナイ！<end_line>
 	</sjis>
+  <ascii>
+    These Prizes Are Unbelievable!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -243,6 +387,9 @@
 	<sjis>
 		福引きで勝負だ！<end_line>
 	</sjis>
+  <ascii>
+    Let us challenge the wheel!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -251,6 +398,10 @@
 		福引きするの？<end_line>
 		しかたないわね<end_line>
 	</sjis>
+  <ascii>
+    Want to give it a try?<end_line>
+    Fine.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="nobox">
@@ -258,12 +409,19 @@
 		すごい賞品だって<end_line>
 		風が言ってるです！<end_line>
 	</sjis>
+  <ascii>
+    I can sense an<end_line>
+    amazing prize coming!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="nobox">
 	<sjis>
 		今回の賞品は<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Your prize is<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="nobox">
@@ -272,6 +430,11 @@
 		２等　決死のラブレター<end_line>
 		３等　超加速装置<end_line>
 	</sjis>
+  <ascii>
+    First Place: Magic Armlet<end_line>
+    Second Place: Death Note<end_line>
+    Third Place: Speeding Device<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="nobox">
@@ -280,6 +443,11 @@
 		５等　ネムリ鉄粉<end_line>
 		以上だぁっ！！<end_line>
 	</sjis>
+  <ascii>
+    Fourth Place: Paralyze Powder<end_line>
+    Fifth Place: Sleep Powder<end_line>
+    And that's all!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="nobox">
@@ -288,6 +456,10 @@
 		それはそれだ！<end_line>
 		今回の賞品は<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Don't be too sad if you<end_line>
+    don't get the grand prize!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="nobox">
@@ -296,6 +468,11 @@
 		２等　スプレンド鉱石<end_line>
 		３等　エクセル鉱石<end_line>
 	</sjis>
+  <ascii>
+    First Place: Friendship Ring<end_line>
+    Second Place: Splendid Mineral<end_line>
+    Third Place: Excellent Ore<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="nobox">
@@ -304,6 +481,11 @@
 		５等　サッシュ鉱石<end_line>
 		以上だぁっ！！<end_line>
 	</sjis>
+  <ascii>
+    Fourth Place: Banish Material<end_line>
+    Fifth Place: Sash Ore<end_line>
+    And that's all!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="nobox">
@@ -311,6 +493,10 @@
 		これで最後だ！　気合で回せ！<end_line>
 		今回の賞品は<three_dots><end_line>
 	</sjis>
+  <ascii>
+    This is the last one! Go for it!<end_line>
+    Your prize is<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="nobox">
@@ -319,6 +505,11 @@
 		２等　鋼牙原石<end_line>
 		３等　狂乱幻舞鉱<end_line>
 	</sjis>
+  <ascii>
+    First Place: Ultimate Motor<end_line>
+    Second Place: Steel Fang Ore<end_line>
+    Third Place: Frenzy Dance Ore<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="nobox">
@@ -327,4 +518,9 @@
 		５等　レジスト原石<end_line>
 		ぬぉぉぉぉぉう！<end_line>
 	</sjis>
+  <ascii>
+    Fourth Place: Refined Ore<end_line>
+    Fifth Place: Resistor Crystal<end_line>
+    Nuooooooooh!<end_line>
+  </ascii>
 </dialogue>

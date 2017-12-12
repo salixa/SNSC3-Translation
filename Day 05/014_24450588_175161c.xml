@@ -15,6 +15,10 @@
 		ミューノなら商店通りの方へ<end_line>
 		行ったよ<end_line>
 	</sjis>
+  <ascii>
+    Murno went towards the street<end_line>
+    lined with shops.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -24,6 +28,11 @@
 		鐘をぶら下げてるのは<end_line>
 		事件があった時に鳴らすからだよ<end_line>
 	</sjis>
+  <ascii>
+    I'm the gatekeeper here.<end_line>
+    This bell is used to alert the<end_line>
+    town of any trouble.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -33,6 +42,11 @@
 		今は２人で旅をして鍛冶師や職人に<end_line>
 		顔を売っている段階なんだって<end_line>
 	</sjis>
+  <ascii>
+    You know, my mom is a peddler.<end_line>
+    We're trying to make ourselves known<end_line>
+    with Craftknights and blacksmiths.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -42,6 +56,11 @@
 		だから、旅費は私が頑張って稼ぐしか<end_line>
 		無いってことなの<end_line>
 	</sjis>
+  <ascii>
+    We plan on opening a shop.<end_line>
+    That's why I have to work hard<end_line>
+    to save up money.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -50,6 +69,10 @@
 		ところであなたは、鍛冶師みたいだけど<end_line>
 		強化の情報を聞いていかない？<end_line>
 	</sjis>
+	<ascii>
+		You're a Craftknight, aren't you?<end_line>
+		Want to hear about enhancement?<end_line>
+	</ascii>
 </dialogue>
 <choice>
 	<info box="simple">
@@ -57,11 +80,17 @@
 		<sjis>
 			聞いてみる<end_line>
 		</sjis>
+    <ascii>
+      Listen to her lecture<end_line>
+    </ascii>
 	</option>
 	<option>
 		<sjis>
 			特に聞かない<end_line>
 		</sjis>
+    <ascii>
+      Not interested<end_line>
+    </ascii>
 	</option>
 </choice>
 <dialogue>
@@ -72,6 +101,11 @@
 		使うと、特殊効果の「貫通」が<end_line>
 		武器に付加されるの<end_line>
 	</sjis>
+	<ascii>
+    Using a 'Legendary Iron Skewer'<end_line>
+    to enhance your weapon will<end_line>
+    give it the 'Piercing' effect.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -81,6 +115,11 @@
 		「伝説級の鉄串」を、１０００バームで<end_line>
 		販売中なの～<end_line>
 	</sjis>
+	<ascii>
+		Anyway, I have this special<end_line>
+		material on sale right now,<end_line>
+		at a paltry price of 1000 Boam~<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -88,6 +127,9 @@
 	<sjis>
 		買ってくれます？<end_line>
 	</sjis>
+	<ascii>
+		Wanna buy it?<end_line>
+	</ascii>
 </dialogue>
 <choice>
 	<info box="simple">
@@ -95,11 +137,17 @@
 		<sjis>
 			買う<end_line>
 		</sjis>
+		<ascii>
+			Buy<end_line>
+		</ascii>
 	</option>
 	<option>
 		<sjis>
 			買わない<end_line>
 		</sjis>
+		<ascii>
+			Don't buy<end_line>
+		</ascii>
 	</option>
 </choice>
 <dialogue>
@@ -108,6 +156,9 @@
 	<sjis>
 		ありがと～<end_line>
 	</sjis>
+  <ascii>
+    Thanks~<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -117,6 +168,11 @@
 		お金たりないの～<end_line>
 		商談不成立だよ～<end_line>
 	</sjis>
+  <ascii>
+    Ehh~ What's this~<end_line>
+    You don't have enough money~<end_line>
+    Transaction failed~<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -125,6 +181,11 @@
 		え～聞くだけ聞いて買ってくれないの～<end_line>
 		ケチ～<end_line>
 	</sjis>
+  <ascii>
+    Eh~ You make me explain but<end_line>
+    aren't buying anything?<end_line>
+    Cheapskate~<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -133,6 +194,11 @@
 		え～聞いてくれないの～<end_line>
 		せっかくのお客さんだと思ったのに～<end_line>
 	</sjis>
+	<ascii>
+		Eeh? You won't even listen?!<end_line>
+		Just when I thought<end_line>
+		I finally had a new client<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -141,4 +207,9 @@
 		強化は甘くないのです<end_line>
 		自分の力で頑張りましょう<end_line>
 	</sjis>
+  <ascii>
+    Strengthening weapons<end_line>
+    isn't as easy as it looks.<end_line>
+    Keep on practicing.<end_line>
+  </ascii>
 </dialogue>

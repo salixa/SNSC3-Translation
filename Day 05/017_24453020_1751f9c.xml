@@ -11,6 +11,11 @@
 		今日は召喚獣の散歩の当番というか<end_line>
 		罰ゲームというか<end_line>
 	</sjis>
+  <ascii>
+    Hah~ I'm so tired~<end_line>
+    Walking the Summon Beasts<end_line>
+    is so much work~<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -20,6 +25,11 @@
 		ホント、くたびれるね<end_line>
 		へんなカケに乗るんじゃなかったよ<end_line>
 	</sjis>
+  <ascii>
+    Of course when there's this<end_line>
+    many it'd be a problem.<end_line>
+    I shouldn't have taken that bet.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -28,6 +38,11 @@
 		解決していただける方を<end_line>
 		お待ちしています<end_line>
 	</sjis>
+  <ascii>
+    The Gold Council looks forward<end_line>
+    to finding a resolution<end_line>
+    to the rampaging Strays.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -36,6 +51,11 @@
 		試してみませんか？<end_line>
 		毎日抽選！空くじ無し！！<end_line>
 	</sjis>
+  <ascii>
+    Want to try out the lottery?<end_line>
+    Drawings every day!<end_line>
+    Every ticket wins!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -44,4 +64,9 @@
 		聞こえたらすみやかに町の中に避難し<end_line>
 		外出をひかえましょう<end_line>
 	</sjis>
+  <ascii>
+    If you hear the alarm,<end_line>
+    please find shelter<end_line>
+    and avoid going outside.<end_line>
+  </ascii>
 </dialogue>
