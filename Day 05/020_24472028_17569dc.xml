@@ -20,4 +20,9 @@
     福引き券１枚につき１回の福引きが<end_line>
     ご利用頂けます<end_line>
   </sjis>
+  <ascii>
+    A message to lottery customers.<end_line>
+    One ticket gives<end_line>
+    you one draw.<end_line>
+  </ascii>
 </dialogue>

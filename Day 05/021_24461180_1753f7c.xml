@@ -36,6 +36,11 @@
     アカバネってコワイはぐれがいて<end_line>
     あぶないからね<end_line>
   </sjis>
+  <ascii>
+    You'd best not go any further.<end_line>
+    Theres a Stray called Red Wing<end_line>
+    that lives in there.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -45,6 +50,11 @@
     ベリートの森があってね、その先には<end_line>
     フラード洞窟があるんだ<end_line>
   </sjis>
+  <ascii>
+    South of Prosban is<end_line>
+    Flaad Cave, and past<end_line>
+    that is Beleet Forest.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -53,6 +63,10 @@
     フラード洞窟は、地下に大きな川が<end_line>
     流れているって話だ<end_line>
   </sjis>
+  <ascii>
+    I heard there's an underground<end_line>
+    river flowing in Flaad Cave.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -61,6 +75,10 @@
     まったく、誰のおかげで<end_line>
     この町が平和だと思ってるんだ<end_line>
   </sjis>
+  <ascii>
+    Jeez, we're the ones<end_line>
+    keeping the town safe.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -69,6 +87,10 @@
     少しくらい、おまけしてくれたって<end_line>
     良いじゃないか<end_line>
   </sjis>
+  <ascii>
+    You'd think we'd at least<end_line>
+    get a bonus sometimes.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -77,12 +99,19 @@
     ボクは金の派閥の一員だぞ<end_line>
     聞いてる？オマエ？<end_line>
   </sjis>
+  <ascii>
+    I'm a member of the Gold Council.<end_line>
+    Hey, are you listening?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="simple">
   <sjis>
     <three_dots>にゃ？<end_line>
   </sjis>
+  <ascii>
+    <three_dots>meow?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -90,6 +119,10 @@
     　<end_line>
     　　　　　<paw>探しています<paw><end_line>
   </sjis>
+  <ascii>
+      <end_line>
+          <paw>Searching<paw><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -98,16 +131,27 @@
     探しています<end_line>
     見つけた方は連絡ください<end_line>
   </sjis>
+  <ascii>
+    I'm looking for a<end_line>
+    black and white cat.<end_line>
+    Let me know if you find it.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="simple">
   <sjis>
     下を見ろ↓<end_line>
   </sjis>
+  <ascii>
+    Look down↓<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="simple">
   <sjis>
     って言われて見るのか<end_line>
   </sjis>
+  <ascii>
+    And you actually did it.<end_line>
+  </ascii>
 </dialogue>

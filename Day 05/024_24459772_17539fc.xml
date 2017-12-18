@@ -36,12 +36,19 @@
   <sjis>
     あの像もみあきたなぁ<three_dots><end_line>
   </sjis>
+  <ascii>
+    I'm tired of staring<end_line>
+    at that statue<three_dots>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="simple">
   <sjis>
     クンクン<end_line>
   </sjis>
+  <ascii>
+    Sniff, sniff.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -49,4 +56,8 @@
     　　　プロスバンの町の創設者<end_line>
     　　　勇者プロスバンの石像<end_line>
   </sjis>
+  <ascii>
+    The Founder Of This City,<end_line>
+    Our Hero Prosban<end_line>
+  </ascii>
 </dialogue>
