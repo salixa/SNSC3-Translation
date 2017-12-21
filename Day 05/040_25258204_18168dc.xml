@@ -26,7 +26,7 @@
     </sjis>
   </female>
   <ascii>
-    Over here<three_dots>!<end_line>
+    There you are<three_dots>!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -368,7 +368,7 @@
     ティエをつれて町へ戻れ<end_line>
   </sjis>
   <ascii>
-    <three_dots> So, V.E!<end_line>
+    <three_dots> So, Vee!<end_line>
     Go back to town with Tier.<end_line>
   </ascii>
 </dialogue>

@@ -37,7 +37,7 @@
   </sjis>
   <ascii>
     You don't want to end up<end_line>
-    like other kid, do you?<end_line>
+    like the other kid, do you?<end_line>
     Now hand over the stone!<end_line>
   </ascii>
 </dialogue>
@@ -108,7 +108,7 @@
     つくづく私のジャマをしてくれる<three_dots>！<end_line>
   </sjis>
   <ascii>
-    They know each other<three_dots>?<end_line>
+    You know each other<three_dots>?<end_line>
     Just my luck<three_dots><end_line>
     Everyone keeps getting in my way<three_dots>!<end_line>
   </ascii>
@@ -241,7 +241,7 @@
     </sjis>
   </female>
   <ascii>
-    You're lying!<end_line>
+    That's a lie!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -254,7 +254,7 @@
     はぐれ召喚獣があばれてるのよ<end_line>
   </sjis>
   <ascii>
-    Am I?<end_line>
+    Is it?<end_line>
     It's her fault the Strays<end_line>
     have gone out of control.<end_line>
   </ascii>

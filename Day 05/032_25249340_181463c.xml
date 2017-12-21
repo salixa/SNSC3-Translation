@@ -108,7 +108,7 @@
 		ないんだな！？<end_line>
 	</sjis>
   <ascii>
-    So she's not with you!?<end_line>
+    She's not with you!?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -176,8 +176,9 @@
 		ミューノが住んでたってこと？<end_line>
 	</sjis>
   <ascii>
-    Mishus Village is where<end_line>
-    Murno used to live, right?<end_line>
+    Mishus Village?
+    That's where Murno<end_line>
+    used to live, right?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -377,7 +378,7 @@
   <ascii>
     I mean, she had something that<end_line>
     looked like the Demon Stone Bostaph<end_line>
-    was mentioned, so I thought<three_dots><end_line>
+    had mentioned, so I thought<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -454,6 +455,8 @@
 		</sjis>
 	</female>
   <ascii>
+    You think she's gone to<end_line>
+    find Strays then?<end_line>
     Are you sure!?<end_line>
   </ascii>
 </dialogue>
@@ -466,7 +469,8 @@
 		知らないよ<three_dots>！<end_line>
 	</sjis>
   <ascii>
-    W-well, it's a possibility<three_dots>!<end_line>
+    W-well, as I said,<end_line>
+    it's just a possibility<three_dots>!<end_line>
   </ascii>
 </dialogue>
 <dialogue>

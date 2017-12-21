@@ -6,7 +6,7 @@
 	</sjis>
   <ascii>
     Spin and get a prize!<end_line>
-    Your prize is<three_dots><end_line>
+    Available prizes are<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -80,7 +80,7 @@
 	</sjis>
   <ascii>
     I'll go broke at this rate!<end_line>
-    Your prize is<three_dots><end_line>
+    Available prizes are<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -117,7 +117,7 @@
 	</sjis>
   <ascii>
     Still going!? The madman!<end_line>
-    Your prize is<three_dots><end_line>
+    Available prizes are<three_dots><end_line>
   </ascii> 
 </dialogue>
 <dialogue>
@@ -154,7 +154,7 @@
 	</sjis>
   <ascii>
     Spin, and the path will open!?<end_line>
-    Your prize is<three_dots><end_line>
+    Available prizes are<three_dots><end_line>
   </ascii> 
 </dialogue>
 <dialogue>
@@ -191,7 +191,7 @@
 	</sjis>
   <ascii>
     Believe in yourself! Spin the wheel!<end_line>
-    Your prize is<three_dots><end_line>
+    Available prizes are<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -228,7 +228,7 @@
 	</sjis>
   <ascii>
     This is it! The ultimate spin!!<end_line>
-    Your prize is<three_dots><end_line>
+    Available prizes are<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -267,7 +267,7 @@
   <ascii>
     Don't attack the machine<end_line>
     if you miss first place!<end_line>
-    Your prize is<three_dots><end_line>
+    Available prizes are<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -304,7 +304,7 @@
 	</sjis>
   <ascii>
     The grand prize is calling you!<end_line>
-    Your prize is<three_dots><end_line>
+    Available prizes are<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -343,7 +343,7 @@
   <ascii>
     Man or woman!<end_line>
     Try to look sexy as you spin it!<end_line>
-    Your prize is<three_dots><end_line>
+    Available prizes are<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -421,7 +421,7 @@
 		今回の賞品は<three_dots><end_line>
 	</sjis>
   <ascii>
-    Your prize is<three_dots><end_line>
+    Available prizes are<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -496,7 +496,7 @@
 	</sjis>
   <ascii>
     This is the last one! Go for it!<end_line>
-    Your prize is<three_dots><end_line>
+    Available prizes are<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>

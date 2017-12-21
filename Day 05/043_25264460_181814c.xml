@@ -23,8 +23,8 @@
     ボクの妹にならない？<end_line>
   </sjis>
   <ascii>
-    Wanna be my little sister?<end_line>
-    How about it?<end_line>
+    Hey,<end_line>
+    wanna be my little sister?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -37,8 +37,8 @@
     ボクの弟にならない？<end_line>
   </sjis>
   <ascii>
-    Wanna be my little brother?<end_line>
-    How about it?<end_line>
+    Hey,<end_line>
+    wanna be my little brother?<end_line>
   </ascii>
 </dialogue>
 <bigtext>
@@ -275,7 +275,7 @@
     ついてきてもいいけどね～<end_line>
   </sjis>
   <ascii>
-    And we'll have loads<end_line>
+    and we'll have loads<end_line>
     of fun together~<end_line>
   </ascii>
 </dialogue>
@@ -383,8 +383,7 @@
     あの話が本当かどうかは<end_line>
   </sjis>
   <ascii>
-		Whether or not what<end_line>
-		they're saying is true<three_dots><end_line>
+    I don't know if<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -404,7 +403,8 @@
     </sjis>
   </female>
 	<ascii>
-		I made a promise.<end_line>
+    it's true or not.<end_line>
+		But<three_dots> I made a promise.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -566,6 +566,7 @@
 	<ascii>
 		That wouldn't look good<end_line>
 		for Bostaph<three_dots> Right?<end_line>
+    Got it.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
