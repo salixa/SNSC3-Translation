@@ -10,6 +10,11 @@
 		強い武器は強いマテルと<end_line>
 		良い材料で出来るものだ<end_line>
 	</sjis>
+  <ascii>
+    Weak weapons are worthless.<end_line>
+    A strong weapon requires quality<end_line>
+    materials and a sturdy Shapestone.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -18,6 +23,11 @@
 		そのためには日々心の鍛錬も<end_line>
 		鍛冶職人としての修行のひとつだ<end_line>
 	</sjis>
+  <ascii>
+    One must also have a strong heart.<end_line>
+    Therefore, strengthening one's<end_line>
+    conviction is part of your training.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -25,4 +35,7 @@
 	<sjis>
 		<three_dots><end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+  </ascii>
 </dialogue>
