@@ -15,6 +15,10 @@
 			ジッとしててもはじまらないよ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Those three are after Murno.<end_line>
+    We have to do something!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -26,6 +30,11 @@
 		不審者ガ　近ヅケナイヨウ<end_line>
 		ワナヲ　シカケマショウ<end_line>
 	</sjis>
+  <ascii>
+    I Suggest We Set<end_line>
+    Up Traps Around<end_line>
+    Lady Murno's Room.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -46,6 +55,11 @@
 			勝手にワナはマズイって？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    I'd like to agree,<end_line>
+    but this is Benson's Workshop.<end_line>
+    We can't do whatever we want.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -64,6 +78,10 @@
 			ジッとしててもはじまらないよ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Those three are after Murno.<end_line>
+    We have to do something!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -75,6 +93,11 @@
 		下手の考え休むに似たり<end_line>
 		とにかく動くのじゃ！<end_line>
 	</sjis>
+  <ascii>
+    Agreed. As the saying goes,<end_line>
+    It is hard to tell a poor<end_line>
+    thinker from a sleeping one.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -93,6 +116,10 @@
 			気がしたよ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Um, is that directed<end_line>
+    towards me?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -111,6 +138,10 @@
 			ジッとしててもはじまらないよ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Those three are after Murno.<end_line>
+    We have to do something!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -122,6 +153,11 @@
 		たたいてないで<end_line>
 		さっさと行け！<end_line>
 	</sjis>
+  <ascii>
+    So quit flapping<end_line>
+    your mouth already.<end_line>
+    Get going!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -140,6 +176,10 @@
 			ミューノのことが心配なんだね<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    <partner><three_dots><end_line>
+    I knew you were worried about her.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -150,6 +190,10 @@
 		だからムダグチたたいてないで<end_line>
 		さっさと行け！<end_line>
 	</sjis>
+  <ascii>
+    Shut up.<end_line>
+    Come on!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -167,6 +211,10 @@
 			ジッとしててもはじまらないよ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Those three are after Murno.<end_line>
+    We have to do something!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -176,6 +224,10 @@
 		そうですわ<end_line>
 		ミューノ様は絶対にお守りしますわ！<end_line>
 	</sjis>
+  <ascii>
+    That's right.<end_line>
+    We must protect Lady Murno!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -191,6 +243,9 @@
 			そうだね<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Right.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -201,6 +256,10 @@
 		ベンソン工房の荷物を<end_line>
 		道具屋さんにはこぼう<end_line>
 	</sjis>
+  <ascii>
+    So we deliver this stuff<end_line>
+    to the general store.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -212,6 +271,11 @@
 		走ラズ急イデ行ケ<end_line>
 		トノコトデシタ<end_line>
 	</sjis>
+  <ascii>
+    According To Brother's Orders,<end_line>
+    We Must Hurry,<end_line>
+    But Do Not Run.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -232,6 +296,11 @@
 			道具屋さんも待ってるから仕方ないか<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Or risk damaging the goods<three_dots><end_line>
+    And they're waiting for us<three_dots><end_line>
+    We'll just have to do what we can.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -241,6 +310,9 @@
 	<sjis>
 		仕方アリマセン<end_line>
 	</sjis>
+  <ascii>
+    That Is True.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -251,6 +323,10 @@
 		ベンソン工房の荷物を<end_line>
 		道具屋さんにはこぼう<end_line>
 	</sjis>
+  <ascii>
+    So we deliver this stuff<end_line>
+    to the general store.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -261,6 +337,10 @@
 		走らず急いで行けと<end_line>
 		アニキは言っておったぞ<end_line>
 	</sjis>
+  <ascii>
+    Hurry, but don't run,<end_line>
+    he says.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -281,6 +361,11 @@
 			走らず道具屋さんに行けばいいのよね<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Or risk damaging the goods<three_dots><end_line>
+    And they're waiting for us<three_dots><end_line>
+    Well, just don't run and its fine.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -291,6 +376,10 @@
 		それはそうじゃが<end_line>
 		おぬしの事だからのう<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Normally yes,<end_line>
+    but knowing you<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -301,6 +390,10 @@
 		ベンソン工房の荷物を<end_line>
 		道具屋さんにはこぼう<end_line>
 	</sjis>
+  <ascii>
+    So we deliver this stuff<end_line>
+    to the general store.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -311,6 +404,10 @@
 		走らず急げとはな<three_dots><end_line>
 		あの男もムチャを言う<three_dots><end_line>
 	</sjis>
+  <ascii>
+    He says to hurry, but don't run<three_dots><end_line>
+    How demanding<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -331,6 +428,11 @@
 			走らず道具屋さんに行けばいいのよね<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Or risk damaging the goods<three_dots><end_line>
+    And they're waiting for us<three_dots><end_line>
+    Well, just don't run and its fine.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -340,6 +442,9 @@
 	<sjis>
 		キサマがガマンできればな<end_line>
 	</sjis>
+  <ascii>
+    If you can restrain yourself.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -349,6 +454,10 @@
 		ベンソン工房の荷物を<end_line>
 		道具屋さんにはこぼう<end_line>
 	</sjis>
+  <ascii>
+    So we deliver this stuff<end_line>
+    to the general store.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -358,6 +467,10 @@
 		走らずに急げだなんて<end_line>
 		アニキさんもムチャを言いますね<end_line>
 	</sjis>
+  <ascii>
+    He says to hurry, but don't run.<end_line>
+    That seems quite difficult.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -377,6 +490,11 @@
 			走らず道具屋さんに行けばいいのよね<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Or risk damaging the goods<three_dots><end_line>
+    And they're waiting for us<three_dots><end_line>
+    Well, just don't run and its fine.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -386,6 +504,10 @@
 		そうやってお気楽に言ってると<end_line>
 		うっかり走っちゃいますよ！<end_line>
 	</sjis>
+  <ascii>
+    Stay focused or<end_line>
+    I'm sure you'll forget!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -396,6 +518,10 @@
 		よし、おつかいも終わったから<end_line>
 		工房に戻ろう<end_line>
 	</sjis>
+  <ascii>
+    Alright, we're done with that.<end_line>
+    Back to the workshop.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -405,6 +531,9 @@
 	<sjis>
 		了解デス<end_line>
 	</sjis>
+  <ascii>
+    Roger.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -415,6 +544,10 @@
 		よし、おつかいも終わったから<end_line>
 		工房に戻ろう<end_line>
 	</sjis>
+  <ascii>
+    Alright, we're done with that.<end_line>
+    Back to the workshop.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -424,6 +557,9 @@
 	<sjis>
 		そうじゃな<end_line>
 	</sjis>
+  <ascii>
+    I agree.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -434,6 +570,10 @@
 		よし、おつかいも終わったから<end_line>
 		工房に戻ろう<end_line>
 	</sjis>
+  <ascii>
+    Alright, we're done with that.<end_line>
+    Back to the workshop.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -443,6 +583,9 @@
 	<sjis>
 		わかった<end_line>
 	</sjis>
+  <ascii>
+    Got it.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -452,6 +595,10 @@
 		よし、おつかいも終わったから<end_line>
 		工房に戻ろう<end_line>
 	</sjis>
+  <ascii>
+    Alright, we're done with that.<end_line>
+    Back to the workshop.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -460,6 +607,9 @@
 	<sjis>
 		そうですね<end_line>
 	</sjis>
+  <ascii>
+    Very well.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -478,6 +628,10 @@
 			工房に戻ろう！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    I'm worried about Murno.<end_line>
+    To the workshop!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -488,6 +642,10 @@
 		最短距離ヲ　最速デ<end_line>
 		移動シテクダサイ！<end_line>
 	</sjis>
+  <ascii>
+    Move Quickly,<end_line>
+    And Take The Shortest Route!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -504,6 +662,9 @@
 			う、うん！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Y-yeah!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -522,6 +683,10 @@
 			工房に戻ろう！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    I'm worried about Murno.<end_line>
+    To the workshop!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -531,6 +696,9 @@
 	<sjis>
 		何もなければ良いのじゃが<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Some peace and quiet would be nice<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -547,6 +715,9 @@
 			とにかく急ごう！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Come on!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -565,6 +736,10 @@
 			工房に戻ろう！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    I'm worried about Murno.<end_line>
+    To the workshop!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -575,6 +750,10 @@
 		グズグズするな<end_line>
 		先に行くぞ！<end_line>
 	</sjis>
+  <ascii>
+    Don't waste time.<end_line>
+    Let's go!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -591,6 +770,9 @@
 			う、うん！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Y-yeah!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -608,6 +790,10 @@
 			工房に戻ろう！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    I'm worried about Murno.<end_line>
+    To the workshop!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -617,6 +803,10 @@
 		何かイヤな予感がしますわ！<end_line>
 		急ぎましょう！<end_line>
 	</sjis>
+  <ascii>
+    I have a bad feeling about this!<end_line>
+    We must hurry!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -628,6 +818,11 @@
 		ドコに行ったんだろう<three_dots><end_line>
 		手がかりでもあれば<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Murno<three_dots><end_line>
+    Where did you go<three_dots>?<end_line>
+    If we had some sort of clue<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -639,6 +834,11 @@
 		誰カガ　見テイタ可能性モ<end_line>
 		アリマス<end_line>
 	</sjis>
+  <ascii>
+    There Is A Chance Someone<end_line>
+    Has Seen Lady Murno<end_line>
+    Going Out.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -650,6 +850,11 @@
 		　ミューノがいなくなったってことは<end_line>
 		　なにか関係があるのかな<three_dots>）<end_line>
 	</sjis>
+  <ascii>
+    (I wonder if her disappearance<end_line>
+     is somehow related to<end_line>
+     the increase in Strays<three_dots>)<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -661,6 +866,11 @@
 		ドコに行ったんだろう<three_dots><end_line>
 		手がかりでもあれば<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Murno<three_dots><end_line>
+    Where did you go<three_dots>?<end_line>
+    If we had some sort of clue<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -672,6 +882,11 @@
 		見つけ出すのじゃ<end_line>
 		このマゲにかけて！<end_line>
 	</sjis>
+  <ascii>
+    No matter what happens,<end_line>
+    I will find her,<end_line>
+    I swear upon my topknot!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -683,6 +898,11 @@
 		　ミューノがいなくなったってことは<end_line>
 		　なにか関係があるのかな<three_dots>）<end_line>
 	</sjis>
+  <ascii>
+    (I wonder if her disappearance<end_line>
+     is somehow related to<end_line>
+     the increase in Strays<three_dots>)<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -694,6 +914,11 @@
 		ドコに行ったんだろう<three_dots><end_line>
 		手がかりでもあれば<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Murno<three_dots><end_line>
+    Where did you go<three_dots>?<end_line>
+    If we had some sort of clue<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -705,6 +930,11 @@
 		よりにもよってこんな時に<three_dots><end_line>
 		キサマもしっかりさがすんだぞ<end_line>
 	</sjis>
+  <ascii>
+    Tch<three_dots><end_line>
+    Such poor timing<three_dots><end_line>
+    And you, get it together.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -714,6 +944,9 @@
 	<sjis>
 		わかってるって！<end_line>
 	</sjis>
+  <ascii>
+    I know!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -725,6 +958,11 @@
 		　ミューノがいなくなったってことは<end_line>
 		　なにか関係があるのかな<three_dots>）<end_line>
 	</sjis>
+  <ascii>
+    (I wonder if her disappearance<end_line>
+     is somehow related to<end_line>
+     the increase in Strays<three_dots>)<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -735,6 +973,11 @@
 		ドコに行ったんだろう<three_dots><end_line>
 		手がかりでもあれば<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Murno<three_dots><end_line>
+    Where did you go<three_dots>?<end_line>
+    If we had some sort of clue<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -745,6 +988,11 @@
 		誰か見てる人がいるかも<end_line>
 		しれませんし<three_dots><end_line>
 	</sjis>
+  <ascii>
+    We must find her!<end_line>
+    Someone may have seen her<three_dots><end_line>
+    We should ask around.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -755,6 +1003,11 @@
 		　ミューノがいなくなったってことは<end_line>
 		　なにか関係があるのかな<three_dots>）<end_line>
 	</sjis>
+  <ascii>
+    (I wonder if her disappearance<end_line>
+     is somehow related to<end_line>
+     the increase in Strays<three_dots>)<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -765,6 +1018,10 @@
 		ザックがミューノを<end_line>
 		商店通りで見たって！<end_line>
 	</sjis>
+  <ascii>
+    Zakk saw Murno heading<end_line>
+    towards the shops!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -774,6 +1031,9 @@
 	<sjis>
 		行ッテミマショウ！<end_line>
 	</sjis>
+  <ascii>
+    In Pursuit!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -785,6 +1045,11 @@
 		　ミューノがいなくなったってことは<end_line>
 		　なにか関係があるのかな<three_dots>）<end_line>
 	</sjis>
+  <ascii>
+    (I wonder if her disappearance<end_line>
+     is somehow related to<end_line>
+     the increase in Strays<three_dots>)<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -795,6 +1060,10 @@
 		ザックがミューノを<end_line>
 		商店通りで見たって！<end_line>
 	</sjis>
+  <ascii>
+    Zakk saw Murno heading<end_line>
+    towards the shops!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -805,6 +1074,10 @@
 		うむ！<end_line>
 		行ってみるぞ！<end_line>
 	</sjis>
+  <ascii>
+    Good!<end_line>
+    Let's go!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -816,6 +1089,11 @@
 		　ミューノがいなくなったってことは<end_line>
 		　なにか関係があるのかな<three_dots>）<end_line>
 	</sjis>
+  <ascii>
+    (I wonder if her disappearance<end_line>
+     is somehow related to<end_line>
+     the increase in Strays<three_dots>)<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -826,6 +1104,10 @@
 		ザックがミューノを<end_line>
 		商店通りで見たって！<end_line>
 	</sjis>
+  <ascii>
+    Zakk saw Murno heading<end_line>
+    towards the shops!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -836,6 +1118,10 @@
 		ボヤボヤするな<end_line>
 		行くぞ！<end_line>
 	</sjis>
+  <ascii>
+    No dawlding.<end_line>
+    Hurry!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -847,6 +1133,11 @@
 		　ミューノがいなくなったってことは<end_line>
 		　なにか関係があるのかな<three_dots>）<end_line>
 	</sjis>
+  <ascii>
+    (I wonder if her disappearance<end_line>
+     is somehow related to<end_line>
+     the increase in Strays<three_dots>)<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -856,6 +1147,10 @@
 		ザックがミューノを<end_line>
 		商店通りで見たって！<end_line>
 	</sjis>
+  <ascii>
+    Zakk saw Murno heading<end_line>
+    towards the shops!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -864,6 +1159,9 @@
 	<sjis>
 		とにかく行ってみましょう！<end_line>
 	</sjis>
+  <ascii>
+    Let's investigate!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -874,6 +1172,11 @@
 		　ミューノがいなくなったってことは<end_line>
 		　なにか関係があるのかな<three_dots>）<end_line>
 	</sjis>
+  <ascii>
+    (I wonder if her disappearance<end_line>
+     is somehow related to<end_line>
+     the increase in Strays<three_dots>)<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
