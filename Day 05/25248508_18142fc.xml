@@ -14,6 +14,10 @@
 			ミューノ見なかった？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Hey, Zakk,<end_line>
+    have you seen Murno?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -24,6 +28,11 @@
 		あの人ならさっき<end_line>
 		商店通りの方へ行ったよ<end_line>
 	</sjis>
+  <ascii>
+    Uhh<three_dots><end_line>
+    Yeah, she was headed<end_line>
+    towards the general store.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -33,6 +42,10 @@
 		なんだかジェイドさんを<end_line>
 		おいかけてたみたいだったけど<three_dots><end_line>
 	</sjis>
+  <ascii>
+    I saw Jade following her too,<end_line>
+    though I'm not sure why<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -42,6 +55,10 @@
 		道具屋さんの方か<three_dots><end_line>
 		そっか、ありがと！<end_line>
 	</sjis>
+  <ascii>
+    The general store<three_dots><end_line>
+    Alright, thanks!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -51,6 +68,10 @@
 		へへへ<end_line>
 		おやすいごようさ！<end_line>
 	</sjis>
+  <ascii>
+    Heheheh,<end_line>
+    no problem!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -59,4 +80,7 @@
 	<sjis>
 		<three_dots>って、ちがう！<end_line>
 	</sjis>
+  <ascii>
+    <three_dots>wait, no!<end_line>
+  </ascii>
 </dialogue>
