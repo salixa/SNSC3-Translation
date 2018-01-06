@@ -47,7 +47,7 @@
   </sjis>
   <ascii>
     I'm okay.<end_line>
-    <partner> saves us<three_dots><end_line>
+    <partner> saved us<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -197,7 +197,7 @@
   </sjis>
   <ascii>
     I'm sorry<three_dots><end_line>
-    Because of I<three_dots><end_line>
+    Because of me<three_dots><end_line>
     I dragged you into this<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -221,7 +221,8 @@
   </female>
   <ascii>
     You're not to blame, Murno!<end_line>
-    It's all Anise's fault!<end_line>
+    If anything, this is<end_line>
+    all Anise's fault!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -407,8 +408,8 @@
     だから、私<three_dots><end_line>
   </sjis>
   <ascii>
-    My father said, I'll take care of<end_line>
-    the village, take the Stone<three_dots><end_line>
+    My father said he would deal with<end_line>
+    the village, and I guard the Stone<three_dots><end_line>
     So, I<three_dots><end_line>
   </ascii>
 </dialogue>

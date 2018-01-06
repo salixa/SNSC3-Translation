@@ -1,41 +1,56 @@
 <location>
-	<sjis>
-		ディックル村<end_line>
-	</sjis>
+  <sjis>
+    ディックル村<end_line>
+  </sjis>
 </location>
 <location>
-	<sjis>
-		ディックル村　広場<end_line>
-	</sjis>
+  <sjis>
+    ディックル村　広場<end_line>
+  </sjis>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="child">
-	<sjis>
-		おおきくなったら<end_line>
-		ゆうしゃになるんだ<end_line>
-		ゆうしゃはけんしより<end_line>
-	</sjis>
+  <info box="simple">
+  <portrait_l name="child">
+  <sjis>
+    おおきくなったら<end_line>
+    ゆうしゃになるんだ<end_line>
+    ゆうしゃはけんしより<end_line>
+  </sjis>
+  <ascii>
+    When I grow up,<end_line>
+    I want to be a hero.<end_line>
+    Compared to normal swordsmen,<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="child">
-	<sjis>
-		つよいんだよ<end_line>
-	</sjis>
+  <info box="simple">
+  <portrait_l name="child">
+  <sjis>
+    つよいんだよ<end_line>
+  </sjis>
+  <ascii>
+    heroes are much stronger.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
-	<sjis>
-		村の外に出てみたいけど<end_line>
-		はぐれもコワイし<three_dots><end_line>
-	</sjis>
+  <info box="simple">
+  <portrait_l name="man">
+  <sjis>
+    村の外に出てみたいけど<end_line>
+    はぐれもコワイし<three_dots><end_line>
+  </sjis>
+  <ascii>
+    I'd like to leave the village,<end_line>
+    but the Strays are scary<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="gatekeeper">
-	<sjis>
-		町での用はまだ済まないのかい？<end_line>
-	</sjis>
+  <info box="simple">
+  <portrait_l name="gatekeeper">
+  <sjis>
+    町での用はまだ済まないのかい？<end_line>
+  </sjis>
+  <ascii>
+    Still have business here?<end_line>
+  </ascii>
 </dialogue>

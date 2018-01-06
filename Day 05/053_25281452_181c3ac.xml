@@ -97,7 +97,7 @@
   </sjis>
   <ascii>
     I Do Not Know<three_dots><end_line>
-    After I Saved You From Falling,<end_line>
+    After I Saved You,<end_line>
     I Was Restrained By Some People<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -632,7 +632,7 @@
     あなたがどうしてミューノを守りたいか<end_line>
     わかったような気がするよ<three_dots><end_line>
   </sjis>
-  <ascii>#1225
+  <ascii>
     You know, I<three_dots><end_line>
     I feel like I know why<end_line>
     you want to protect her<three_dots><end_line>
@@ -1287,8 +1287,9 @@
     </sjis>
   </female>
   <ascii>
-    No<three_dots><end_line>
-    She never said anything<three_dots><end_line>
+    No way<three_dots><end_line>
+    Despite all that,<end_line>
+    she didn't say anything<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1574,8 +1575,8 @@
     気がついたときは、この部屋だった<three_dots><end_line>
   </sjis>
   <ascii>
-    I used all my strength<end_line>
-    carrying you two out<three_dots><end_line>
+    I used up all of my<end_line>
+    strength saving you two<three_dots><end_line>
     When I woke up, I was here<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -1775,7 +1776,7 @@
     </sjis>
   </female>
   <ascii>
-    Strange bracelets<three_dots>?<end_line>
+    Bracelets<three_dots>?<end_line>
     That's horrible<three_dots>!<end_line>
   </ascii>
 </dialogue>
@@ -2078,7 +2079,7 @@
     アイツの父親にたのまれたのだ<end_line>
   </sjis>
   <ascii>
-    It was getting bad,<end_line>
+    It was getting dangerous,<end_line>
     so Murno's father asked us to<end_line>
     protect the Demon Stone.<end_line>
   </ascii>
@@ -2331,7 +2332,7 @@
   </sjis>
   <ascii>
     Yes, it's me<three_dots><end_line>
-    I am glad to know<end_line>
+    I'm glad to know<end_line>
     you are safe<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -2400,7 +2401,7 @@
   <partner name="rufeel">
   <info box="left">
   <portrait_l entry="partner" eye="sad" mouth="tense">
-  <sjis>#1653
+  <sjis>
     それが、わからないんです<three_dots><end_line>
     がんばったんですけど、あなたたちを<end_line>
     助けるだけで精一杯で<three_dots><end_line>
@@ -2495,7 +2496,7 @@
     ようですね<three_dots><end_line>
   </sjis>
   <ascii>
-    I don't know either<three_dots><end_line>
+    I don't know<three_dots><end_line>
     However, I can tell we<end_line>
     are not welcome<three_dots><end_line>
   </ascii>
@@ -2765,7 +2766,7 @@
   <ascii>
     Not exactly<three_dots><end_line>
     It was hidden away so that it's<end_line>
-    power coult not be used for evil.<end_line>
+    power could not be used for evil.<end_line>
   </ascii>
 </dialogue>
 <dialogue>

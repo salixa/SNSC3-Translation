@@ -134,7 +134,7 @@
       仕方ないでしょ<end_line>
     </sjis>
     <ascii>
-      You're annoying.<end_line>
+      Shut up.<end_line>
       I need him alive to make him<end_line>
       into my little sister.<end_line>
     </ascii>
@@ -146,7 +146,7 @@
       仕方ないでしょ<end_line>
     </sjis>
     <ascii>
-      You're annoying.<end_line>
+      Shut up.<end_line>
       I need her alive to make her<end_line>
       into my little brother.<end_line>
     </ascii>
@@ -204,7 +204,6 @@
   </sjis>
   <ascii>
 		That bastard Rob<three_dots>!<end_line>
-    Always pissing me off!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -242,7 +241,7 @@
   </sjis>
   <ascii>
     I'll get my revenge on<end_line>
-    you in some other time.<end_line>
+    you some other time.<end_line>
 		Here, I'll give you a playmate.<end_line>
   </ascii>
 </dialogue>
@@ -288,6 +287,7 @@
     マグドラド<three_dots>！？<end_line>
   </sjis>
   <ascii>
+    That's<three_dots><end_line>
     Magdrad<three_dots>!?<end_line>
   </ascii>
 </dialogue>
@@ -312,7 +312,7 @@
     レミィ！<end_line>
   </sjis>
   <ascii>
-    What is that Summon Beast!?<end_line>
+    The heck is that Summon Beast!?<end_line>
     Another Stray!?<end_line>
     Lemmy!<end_line>
   </ascii>
@@ -328,7 +328,7 @@
   </sjis>
   <ascii>
     No!<end_line>
-    That person summoned it<three_dots>!<end_line>
+    She person summoned it<three_dots>!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -343,6 +343,7 @@
   <ascii>
     You Summoned THAT?<end_line>
     What's going on here?<end_line>
+    What are you up to?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -528,6 +529,7 @@
   <ascii>
     Now, hand over the Demon Stone,<end_line>
     and I may spare their lives.<end_line>
+    How about it?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -875,7 +877,7 @@
   <partner name="run-dor">
   <info box="right">
   <portrait_r name="partner">
-  <sjis>#617
+  <sjis>
     作戦ガ　アルノデスネ<end_line>
   </sjis>
   <ascii>
@@ -929,7 +931,7 @@
   </sjis>
   <ascii>
     The Summon Beast may be strong,<end_line>
-    but if we can get<end_line>
+    but if we can get can<end_line>
     close to the Summoner<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -1007,7 +1009,7 @@
   <ascii>
     No reply, huh<three_dots><end_line>
     Then all that's left is<end_line>
-    to get kill them all.<end_line>
+    to kill them all.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1070,7 +1072,7 @@
     </sjis>
   </female>
   <ascii>
-    We will not lose<three_dots><end_line>
+    We won't lose<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1119,7 +1121,7 @@
     やつらを焼き尽くせ！！！<end_line>
   </sjis>
   <ascii>
-    Magrad!! Go!<end_line>
+    Magdrad!! Go!<end_line>
     Burn them to ashes!!!<end_line>
   </ascii>
 </dialogue>
@@ -1207,7 +1209,7 @@
     こ<three_dots>こいつ<three_dots>！？<end_line>
   </sjis>
   <ascii>
-    Th-they're<three_dots>!?<end_line>
+    Wh<three_dots> what<three_dots>!?<end_line>
   </ascii>
 </dialogue>
 <bigtext>
