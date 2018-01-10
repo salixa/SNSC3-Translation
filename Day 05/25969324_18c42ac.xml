@@ -7,6 +7,11 @@
 		お前、武器の注文<end_line>
 		受ける気ないか？<end_line>
 	</sjis>
+  <ascii>
+    Hey, <player_nickname><end_line>
+    You feel like taking<end_line>
+    a request for a weapon?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -22,6 +27,9 @@
 			え、わたしが？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Hm? Why me?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -32,6 +40,10 @@
 		たまってる仕事の中に<end_line>
 		お前にふれそうなモンがあるんだ<end_line>
 	</sjis>
+  <ascii>
+    Everyone's been busy lately.<end_line>
+    And there's some work I think<end_line>
+    would be perfect for you.<end_line>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -41,22 +53,34 @@
 		どうだ？<end_line>
 		手伝ってみる気、あるか？<end_line>
 	</sjis>
+  <ascii>
+    How about it?<end_line>
+    Want to help us out?<end_line>
 </dialogue>
 <menu>
 	<title>
 		<sjis>
 			武器の注文受けますか？<end_line>
 		</sjis>
+    <ascii>
+      Accept request?<end_line>
+    </ascii>
 	</title>
 	<option>
 		<sjis>
 			はい<end_line>
 		</sjis>
+    <ascii>
+      Yes<end_line>
+    </ascii>
 	</option>
 	<option>
 		<sjis>
 			いいえ<end_line>
 		</sjis>
+    <ascii>
+      No<end_line>
+    </ascii>
 	</option>
 </menu>
 <dialogue>
@@ -66,6 +90,9 @@
 	<sjis>
 		はい、承ります！<end_line>
 	</sjis>
+  <ascii>
+    Sure, I'll do it!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -81,6 +108,9 @@
 			ええ～っと、わたしには<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Well, I uh<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -89,22 +119,34 @@
 	<sjis>
 		ちょっとムリかなぁ<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Would rather not<three_dots><end_line>
+  </ascii>
 </dialogue>
 <menu>
 	<title>
 		<sjis>
 			注文の武器はできていますか？<end_line>
 		</sjis>
+    <ascii>
+      Present your weapon?<end_line>
+    </ascii>
 	</title>
 	<option>
 		<sjis>
 			はい<end_line>
 		</sjis>
+    <ascii>
+      Yes<end_line>
+    </ascii>
 	</option>
 	<option>
 		<sjis>
 			いいえ<end_line>
 		</sjis>
+    <ascii>
+      No<end_line>
+    </ascii>
 	</option>
 </menu>
 <dialogue>
@@ -114,4 +156,7 @@
 	<sjis>
 		ご注文の品できました～<end_line>
 	</sjis>
+  <ascii>
+    Here's your order!<end_line>
+  </ascii>
 </dialogue>
