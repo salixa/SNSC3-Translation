@@ -43,7 +43,8 @@
   </sjis>
   <ascii>
     You overcame the illusions<three_dots><end_line>
-    As I thought, you're no ordinary person.<end_line>
+    As I thought,<end_line>
+    you're no ordinary person.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -474,7 +475,8 @@
     動かぬ証拠！<end_line>
   </sjis>
   <ascii>
-    The fact that you broke out of prison<end_line>
+    The fact that you<end_line>
+    broke out of prison<end_line>
     to search for our master is proof!<end_line>
   </ascii>
 </dialogue>
@@ -576,8 +578,8 @@
     召喚<three_dots><end_line>
   </sjis>
   <ascii>
-    Answer my voice, lay waste to the earth,<end_line>
-    and deliver judgment upon these fools!<end_line>
+    Answer me, lay waste to the land,<end_line>
+    and deliver judgment on these fools!<end_line>
     Summon<three_dots><end_line>
   </ascii>
 </dialogue>

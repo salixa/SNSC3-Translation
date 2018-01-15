@@ -100,7 +100,7 @@
   </female>
   <ascii>
     What!?<end_line>
-    Hey! Did something happen!?<end_line>
+    Hey! What happened!?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -348,8 +348,8 @@
     奉られている<end_line>
   </sjis>
   <ascii>
-    You'll find them outside at the bottom<end_line>
-    floor of an underground palace<end_line>
+    You'll find them at<end_line>
+    an underground palace<end_line>
     called the Rekui Water Ruins.<end_line>
   </ascii>
 </dialogue>
@@ -398,8 +398,8 @@
   </sjis>
   <ascii>
     All of your equipment<end_line>
-    is in this room,<end_line>
-    make sure you take it with you.<end_line>
+    is in this room.<end_line>
+    Make sure you take it with you.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -433,7 +433,7 @@
   </sjis>
   <ascii>
     See ya.<end_line>
-    You've got a lot of work to do.<end_line>
+    You've got a lot of work to do!<end_line>
   </ascii>
 </dialogue>
 <dialogue>

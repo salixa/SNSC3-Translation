@@ -42,8 +42,8 @@
   </sjis>
   <ascii>
     Hah!<end_line>
-    This is just the basics of the basics.<end_line>
-    All Craftknight's should know this much.<end_line>
+    This is just the basics.<end_line>
+    Everyone should know this much.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -122,7 +122,7 @@
     折れた剣とハンマーを手に入れた！<end_line>
   </sjis>
   <ascii>
-    Obtained your hammer and a broken sword!<end_line>
+    Got your hammer and a broken sword!<end_line>
   </ascii>
 </popup>
 <dialogue>
@@ -291,7 +291,8 @@
     キサマが外せるとはな<end_line>
   </sjis>
   <ascii>
-    I didn't think you could do it.<end_line>
+    <three_dots><end_line>
+    You sure you can do that?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -402,7 +403,7 @@
   </sjis>
   <ascii>
     That being the case,<end_line>
-    don't make any strange moves.<end_line>
+    don't act suspicous.<end_line>
     For your own sake.<end_line>
   </ascii>
 </dialogue>
@@ -541,6 +542,6 @@
   </sjis>
   <ascii>
     Okay,<end_line>
-    now give it a shot.<end_line>
+    Now give it a shot.<end_line>
   </ascii>
 </dialogue>

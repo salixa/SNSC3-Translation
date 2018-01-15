@@ -129,8 +129,8 @@
     次のうちどれだ？<end_line>
   </sjis>
   <ascii>
-    Which one of the following<end_line>
-    weapons is the heaviest?<end_line>
+    Of the following, the heaviest is<three_dots><end_line>
+    Which one of the following?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -230,9 +230,9 @@
     次のうちどれだ？<end_line>
   </sjis>
   <ascii>
-    As a Craftknight,<end_line>
-    what is the most important thing<end_line>
-    when forging a weapon?<end_line>
+    As a Craftknight, the most<end_line>
+    important thing when forging is<three_dots><end_line>
+    Which one of the following?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -252,7 +252,7 @@
     </sjis>
   </female>
   <ascii>
-    The most important thing in forging<three_dots>?<end_line>
+    The most important thing<three_dots>?<end_line>
     That's<three_dots><end_line>
   </ascii>
 </dialogue>

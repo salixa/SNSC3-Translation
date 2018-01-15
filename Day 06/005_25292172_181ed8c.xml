@@ -20,7 +20,7 @@
   </sjis>
   <ascii>
     That's a surprise<three_dots><end_line>
-    Are these kids really collaborating<end_line>
+    Are these kids really working<end_line>
     with those people<three_dots>?<end_line>
   </ascii>
 </dialogue>
@@ -76,7 +76,7 @@
   </female>
   <ascii>
     And what do you mean, those people!?<end_line>
-    Why have you done this!?<end_line>
+    Why'd you lock us up like that!?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -170,8 +170,8 @@
   </sjis>
   <ascii>
     Once they found out I had escaped,<end_line>
-    they chased me and I dove in the river.<end_line>
-    I honestly thought that was the end<three_dots><end_line>
+    they chased me I dove into<end_line>
+    the river. I thought it was over<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -257,9 +257,9 @@
     君たちから救いたかったからだ！<end_line>
   </sjis>
   <ascii>
-    She went with you so she could<end_line>
-    save the village from you,<end_line>
-    even if she had to sacrifice herself!<end_line>
+    She only wanted to save<end_line>
+    this village from you, even if<end_line>
+    it meant sacrificing herself!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -274,7 +274,7 @@
   <ascii>
     Anise, no one here<end_line>
     holds a grudge against you.<end_line>
-    Even now, this is your hometown.<end_line>
+    Even now, this is still your home.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -351,7 +351,7 @@
   <ascii>
     Do not feign ignorance!<end_line>
     What you, Voijin's subordinates,<end_line>
-    did to Louise Village<three_dots><end_line>
+    did to this Louise Village<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -438,7 +438,7 @@
   <ascii>
     Wait a minute!<end_line>
     You're the one who<end_line>
-    attack Murno's village!<end_line>
+    attacked Murno's village!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -476,7 +476,7 @@
     村だっておそってない！<end_line>
   </sjis>
   <ascii>
-    And I haven't attacked anyone!<end_line>
+    And I haven't raided any villages!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -504,7 +504,7 @@
     村をおそったことだってないわ！<end_line>
   </sjis>
   <ascii>
-    And I haven't attacked anyone!<end_line>
+    And I haven't raided any villages!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -606,9 +606,9 @@
     ハンマーが命なのは当然のことだ<end_line>
   </sjis>
   <ascii>
-    Craftknight or blacksmith, for one<end_line>
-    who dedicates their life to smithing,<end_line>
-    the hammer is the most important tool.<end_line>
+    For those who dedicate their lives<end_line>
+    to smithing, the hammer is<end_line>
+    the most important tool.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -796,9 +796,9 @@
     全部本当なんです！<end_line>
   </sjis>
   <ascii>
-    Please listen tome!<end_line>
-    Everything <player_nickname> said<end_line>
-    is all true!<end_line>
+    Please listen to me!<end_line>
+    Everything <player_nickname><end_line>
+    said is true!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -812,7 +812,7 @@
   <ascii>
     We don't know anything<end_line>
     about this Voijin.<end_line>
-    And we aren't Anise's comrades.<end_line>
+    And we aren't Anise's friends.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -912,9 +912,9 @@
     私に返してください<end_line>
   </sjis>
   <ascii>
-    That is a Demon Stone of Calamity.<end_line>
+    It is the Demon Stone of Calamity.<end_line>
     Please return it to me,<end_line>
-    before misfortune falls upon you!<end_line>
+    before misfortune falls upon us all!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -974,8 +974,8 @@
     <partner>も、ね<end_line>
   </sjis>
   <ascii>
-    Don't worry.<end_line>
-    You too, <partner><end_line>
+    Don't worry, I'll be fine.<end_line>
+    You too, <partner>.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1017,6 +1017,7 @@
   </sjis>
   <ascii>
     Tch<three_dots><end_line>
+    Why would I be<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1154,8 +1155,8 @@
     </sjis>
   </female>
   <ascii>
-    Confirm<three_dots><end_line>
-    Gramps, you can tell?<end_line>
+    Confirm<three_dots>?<end_line>
+    Gramps, you believe me?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1168,7 +1169,7 @@
     長く鍛冶職人をしているぞ<end_line>
   </sjis>
   <ascii>
-    We'll see<three_dots> Despite my appearance,<end_line>
+    We'll see<three_dots> You know,<end_line>
     I've been a blacksmith longer<end_line>
     than you've been alive.<end_line>
   </ascii>
