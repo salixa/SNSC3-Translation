@@ -68,9 +68,8 @@
     シンチョウニ　行動シテクダサイ<end_line>
   </sjis>
   <ascii>
-    In The Future,<end_line>
-    Please Take Caution To<end_line>
-    Avoid Being Discovered<end_line>
+    Please Be Cautious To<end_line>
+    Avoid Being Discovered.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -102,7 +101,8 @@
     チャント行動ヲ　シテクダサイ<end_line>
   </sjis>
   <ascii>
-    Then You Should Act As If You Do.<end_line>
+    Your Actions Do Not<end_line>
+    Reflect Your Words.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -116,7 +116,7 @@
   </sjis>
   <ascii>
     Do not move carelessly.<end_line>
-    It is all over if we are discovered.<end_line>
+    It's all over if we are discovered.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -161,8 +161,8 @@
     見つかりたいのか<end_line>
   </sjis>
   <ascii>
-    Focus.<end_line>
-    Do you want them to find you?<end_line>
+    Pay attention.<end_line>
+    Do you want to get caught again?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -198,7 +198,7 @@
   </sjis>
   <ascii>
     Don't shout.<end_line>
-    Do you want them to find you?<end_line>
+    Do you want to get caught again?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -211,8 +211,8 @@
     シンチョウに行動してくださいね<end_line>
   </sjis>
   <ascii>
-    Please take care we aren't<end_line>
-    discovered in the future.<end_line>
+    Please be careful.<end_line>
+    We mustn't let them find us.<end_line>
   </ascii>
 </dialogue>
 <dialogue>

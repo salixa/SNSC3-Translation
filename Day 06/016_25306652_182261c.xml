@@ -227,6 +227,7 @@
       こわすわよ！<end_line>
     </sjis>
     <ascii>
+      <three_dots><end_line>
       Forget it. This is annoying.<end_line>
       I'll just break them!<end_line>
     </ascii>
@@ -326,8 +327,8 @@
     もう少しシンチョウにやらんか！<end_line>
   </sjis>
   <ascii>
-    Even if you're breaking something,<end_line>
-    you should be careful!<end_line>
+    Hey, be careful!<end_line>
+    If you had missed<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -371,8 +372,8 @@
     一番下の階にいるんだ！<end_line>
   </sjis>
   <ascii>
-    Come on,<end_line>
-    Murno's at the Rekui Water Ruins<end_line>
+    Come on, Murno's at<end_line>
+    the Rekui Water Ruins<end_line>
     outside the village!<end_line>
   </ascii>
 </dialogue>
@@ -399,8 +400,8 @@
     一番下の階にいるんだって！<end_line>
   </sjis>
   <ascii>
-    Come on,<end_line>
-    Murno's at the Rekui Water Ruins<end_line>
+    Come on, Murno's at<end_line>
+    the Rekui Water Ruins<end_line>
     outside the village!<end_line>
   </ascii>
 </dialogue>

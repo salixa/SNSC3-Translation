@@ -83,8 +83,7 @@
     無断で借りると言うのか<three_dots>？<end_line>
   </sjis>
   <ascii>
-    You're going to borrow it<end_line>
-    without permission<three_dots>?<end_line>
+    Without permission<three_dots>?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -137,7 +136,7 @@
   </sjis>
   <ascii>
     Hmph.<end_line>
-    So you're going to stealm from him.<end_line>
+    So you're going to steal from him.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -213,7 +212,7 @@
   <ascii>
     I can't ask if he's not here.<end_line>
     I'll pay for whatever I use.<end_line>
-    I'm sure he's won't be angry.<end_line>
+    I'm sure he won't be angry.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -227,7 +226,8 @@
     いいですわ、借りましょう！<end_line>
   </sjis>
   <ascii>
-    N-no, that's not what I<three_dots><end_line>
-    Oh fine, go ahead!<end_line>
+    Oh, I'm not scared<end_line>
+    of that at all.<end_line>
+    Borrow away!<end_line>
   </ascii>
 </dialogue>
