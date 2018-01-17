@@ -166,7 +166,7 @@
     さあ、早く戻りましょ？<end_line>
   </sjis>
   <ascii>
-    Okay, shall we go back then?<end_line>
+    Let's head back to town, okay?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -342,8 +342,8 @@
     ここへ来てはダメよ<three_dots><end_line>
   </sjis>
   <ascii>
-    This is why I told you<end_line>
-    not to come here<three_dots><end_line>
+    And also<three_dots><end_line>
+    Don't come back here<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -449,6 +449,6 @@
   <ascii>
     Hey, Tier,<end_line>
     calm down!<end_line>
-    W-wait no!<end_line>
+    W-wait!<end_line>
   </ascii>
 </dialogue>

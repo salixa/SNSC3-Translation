@@ -33,7 +33,7 @@
   </sjis>
   <ascii>
     Irregularity Has Occurred.<end_line>
-    Part Of My Memory Data Is Broken.<end_line>
+    Part Of My Memory Is Corrupted.<end_line>
     No Abnormalities In Other Processes.<end_line>
   </ascii>
 </dialogue>
@@ -289,6 +289,9 @@
   <sjis>
     ミューノ<three_dots>？<end_line>
   </sjis>
+  <ascii>
+    Murno<three_dots>?<end_line>
+  </ascii> 
 </dialogue>
 <dialogue>
   <info box="left">

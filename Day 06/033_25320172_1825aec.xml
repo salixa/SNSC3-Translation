@@ -8,7 +8,8 @@
   </sjis>
   <ascii>
     Geez!<end_line>
-    What were you thinking<three_dots><end_line>
+    What were you thinking,<end_line>
+    going in there alone<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -21,7 +22,7 @@
   </sjis>
   <ascii>
     Eh!?<end_line>
-    This<three_dots><end_line>
+    Wait<three_dots><end_line>
     What!?<end_line>
   </ascii>
 </dialogue>
@@ -349,7 +350,8 @@
   </sjis>
   <ascii>
     Now isn't the time.<end_line>
-    Finding Murno is more important.<end_line>
+    Finding Murno is<end_line>
+    more important.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
