@@ -84,7 +84,7 @@
     はげしいのでな<end_line>
   </sjis>
   <ascii>
-    That condition uses up<end_line>
+    That form uses up<end_line>
     quite a lot of energy.<end_line>
   </ascii>
 </dialogue>
@@ -212,9 +212,9 @@
     つい、な<three_dots><end_line>
   </sjis>
   <ascii>
-    You see,<end_line>
+    Well, you see,<end_line>
     she was so desperate,<end_line>
-    so I<three_dots><end_line>
+    I couldn't ignore her<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -265,8 +265,8 @@
   </sjis>
   <ascii>
     Will you explain how<end_line>
-    prisoners like you could<end_line>
-    come this far?<end_line>
+    you got out of prison,<end_line>
+    and learned of our master?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -277,7 +277,7 @@
     もちろん！<end_line>
   </sjis>
   <ascii>
-    Of course!<end_line>
+    Sure!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -359,7 +359,8 @@
     あなたひとりだけではないか！<end_line>
   </sjis>
   <ascii>
-    You're the only one who would<end_line>
+    You're the only one<end_line>
+    in this village who would<end_line>
     know how to make a sleep bomb!<end_line>
   </ascii>
 </dialogue>
@@ -425,7 +426,8 @@
     さっきコイツが<three_dots><end_line>
   </sjis>
   <ascii>
-    H-hey, he's already admitted<three_dots><end_line>
+    H-hey, don't look at me,<end_line>
+    he's already admitted<three_dots><end_line>
   </ascii>
 </dialogue>
 <bigtext>
@@ -1056,7 +1058,7 @@
   <ascii>
     What!?<end_line>
     So you're saying we're too weak?<end_line>
-    Why don't we have a match?<end_line>
+    Why don't we show you then?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1273,7 +1275,7 @@
     </sjis>
   </female>
   <ascii>
-    It's good news isn't it?<end_line>
+    Sounds good to me.<end_line>
     Let's head back.<end_line>
   </ascii>
 </dialogue>

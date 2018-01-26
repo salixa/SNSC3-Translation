@@ -118,7 +118,7 @@
   <ascii>
     That's right<three_dots><end_line>
     So, hurry<three_dots><end_line>
-    Let's go back<three_dots><end_line>
+    Let's get out of here<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -193,7 +193,8 @@
   </sjis>
   <ascii>
     Hey<three_dots><end_line>
-    Are you the real Murno<three_dots>?<end_line>
+    You're the real Murno<three_dots><end_line>
+    Right<three_dots>?<end_line>
   </ascii>
 </dialogue>
 <dialogue>

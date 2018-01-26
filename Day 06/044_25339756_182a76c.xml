@@ -78,7 +78,6 @@
   </sjis>
   <ascii>
     Murno<three_dots>?<end_line>
-    She's not here though?<end_line>
     I sent her back to the prison.<end_line>
   </ascii>
 </dialogue>
@@ -163,7 +162,7 @@
   </sjis>
   <ascii>
     You came here looking<end_line>
-    for the master,<end_line>
+    for our master,<end_line>
     am I wrong!?<end_line>
   </ascii>
 </dialogue>
@@ -295,7 +294,7 @@
     ハメられたようじゃな<end_line>
   </sjis>
   <ascii>
-    We've been framed.<end_line>
+    We've been fooled.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -361,7 +360,7 @@
   </sjis>
   <ascii>
     So that's it<three_dots><end_line>
-    We've been framed.<end_line>
+    We've been fooled.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -475,9 +474,9 @@
     動かぬ証拠！<end_line>
   </sjis>
   <ascii>
-    The fact that you<end_line>
-    broke out of prison<end_line>
-    to search for our master is proof!<end_line>
+    The fact that you broke<end_line>
+    out of prison to search<end_line>
+    for our master is proof!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -750,7 +749,7 @@
     退路は断たれてしもうた<end_line>
   </sjis>
   <ascii>
-    Indeed<three_dots><end_line>
+    Bad indeed<three_dots><end_line>
     Our escape route has been cut off.<end_line>
   </ascii>
 </dialogue>

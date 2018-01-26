@@ -332,7 +332,7 @@
     </sjis>
   </female>
   <ascii>
-    Wh-what?<end_line>
+    Uh, right.<end_line>
     Same to you.<end_line>
   </ascii>
 </dialogue>
@@ -488,8 +488,8 @@
     </sjis>
   </female>
   <ascii>
-    Wh-what?<end_line>
-    Okay.<end_line>
+    Uh, right.<end_line>
+    Same to you.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -612,8 +612,9 @@
     考えていればいい<end_line>
   </sjis>
   <ascii>
-    It's fine if you stay like that,<end_line>
-    thinking about nothing but Murno.<end_line>
+    I know Murno is all<end_line>
+    you think about anyway.<end_line>
+    I don't mind.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -780,8 +781,8 @@
     </sjis>
   </female>
   <ascii>
-    Wh-what?<end_line>
-    Okay.<end_line>
+    Uh, right.<end_line>
+    Same to you.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
