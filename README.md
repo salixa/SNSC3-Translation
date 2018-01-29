@@ -8,7 +8,7 @@ Current Status:
 
 Main Scenario Initial Translation: 100%
 
-Main Scenario Proofreading: ~40%
+Main Scenario Proofreading: ~60%
 
 Side Quests, Shops, etc: 0%? (don't expect this any time soon)
 
