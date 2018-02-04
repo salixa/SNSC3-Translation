@@ -238,7 +238,7 @@
     あなたまでダマされて<three_dots>！<end_line>
   </sjis>
   <ascii>
-    Even you are being deceived<three_dots>!<end_line>
+    You're all being deceived<three_dots>!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -633,7 +633,7 @@
   <info box="right">
   <portrait_l entry="anise" eye="special" mouth="serious">
   <portrait_r entry="tram" eye="sad" mouth="tense">
-  <sjis>#411
+  <sjis>
     本当にザンネンだよ<three_dots><end_line>
     君が心までヴォイジンの仲間として<end_line>
     そまっていたなんて<three_dots><end_line>
@@ -1072,7 +1072,7 @@
   </sjis>
   <ascii>
     Yes, a match!<end_line>
-    Don't Craftknight's always settle<end_line>
+    Don't Craftknights always settle<end_line>
     things through a match?<end_line>
   </ascii>
 </dialogue>
@@ -1097,8 +1097,9 @@
     場所がある<three_dots><end_line>
   </sjis>
   <ascii>
-    The Room of Judgment would be the<end_line>
-    most fitting place to settle this<three_dots><end_line>
+    There's a place in this village<end_line>
+    called the Room of Judgment.<end_line>
+    That would be most fitting<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>

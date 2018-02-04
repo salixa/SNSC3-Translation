@@ -1,7 +1,7 @@
 <dialogue>
   <info box="left">
   <portrait_l entry="player" eye="surprised" mouth="yell">
-  <sjis>#293
+  <sjis>
     ティエ！？<end_line>
   </sjis>
   <ascii>
@@ -15,6 +15,9 @@
   <sjis>
     <player_nickname>！<end_line>
   </sjis>
+  <ascii>
+    <player_nickname>！<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="left">

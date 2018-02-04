@@ -44,6 +44,7 @@
     Everyone's been busy lately.<end_line>
     And there's some work I think<end_line>
     would be perfect for you.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -56,6 +57,7 @@
   <ascii>
     How about it?<end_line>
     Want to help us out?<end_line>
+  </ascii>
 </dialogue>
 <menu>
 	<title>

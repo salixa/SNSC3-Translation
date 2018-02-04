@@ -1,7 +1,7 @@
 <dialogue>
   <info box="right">
   <portrait_r entry="murno" eye="decided" mouth="serious">
-  <sjis>#294
+  <sjis>
     ダメよ、<player_nickname><end_line>
     あいつこそニセモノよ<end_line>
     私を信じて、早く戻りましょう！<end_line>
@@ -707,7 +707,7 @@
   <ascii>
     I see<three_dots><end_line>
     As I thought,<end_line>
-    you have no faith in me.<end_line>
+    you don't trust me.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -729,7 +729,7 @@
     </sjis>
   </female>
   <ascii>
-    I trust you, but<three_dots><end_line>
+    I do, but<three_dots><end_line>
     Can you prove she's an imposter?<end_line>
   </ascii>
 </dialogue>
