@@ -71,7 +71,7 @@
 	</sjis>
   <ascii>
     We're transporting ore<end_line>
-    with the rail car.<end_line>
+    with the railcar.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -153,7 +153,7 @@
 	</sjis>
   <ascii>
     Yeah.<end_line>
-    It'll take the rail car two<end_line>
+    It'll take the railcar two<end_line>
     more days to its destination.<end_line>
   </ascii>
 </dialogue>

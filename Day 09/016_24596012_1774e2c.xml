@@ -3,7 +3,6 @@
 		ディックル村　駅<end_line>
 	</sjis>
 </location>
-###SummonRail
 <dialogue>
 	<info box="simple">
 	<sjis>
@@ -11,11 +10,10 @@
 		足下に十分ご注意下さい<end_line>
 	</sjis>
   <ascii>
-    Please watch your feet when<end_line>
-    boarding the Summon rail car.<end_line>
+    Please watch your step when<end_line>
+    boarding the railcar.<end_line>
   </ascii>
 </dialogue>
-###KidsTheseDays
 <dialogue>
 	<info box="simple">
 	<portrait_l name="elderly">
