@@ -14,6 +14,9 @@
 	<sjis>
 		小豆は体にええぞぉ<end_line>
 	</sjis>
+  <ascii>
+    Azuki beans are good for the body.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -23,6 +26,11 @@
 		いっぱいいるから<end_line>
 		出ちゃいけないんだよ<end_line>
 	</sjis>
+  <ascii>
+    There are lots of Strays<end_line>
+    outside the village,<end_line>
+    so I'm not allowed out.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -30,6 +38,9 @@
 	<sjis>
 		でも、いつか旅立つ日が来るのよ<end_line>
 	</sjis>
+  <ascii>
+    But one day, I'll go on a journey.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -37,4 +48,7 @@
 	<sjis>
 		特に何も問題は起きてないよ<end_line>
 	</sjis>
+  <ascii>
+    No problems here.<end_line>
+  </ascii>
 </dialogue>

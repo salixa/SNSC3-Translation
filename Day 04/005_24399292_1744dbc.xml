@@ -9,4 +9,7 @@
 	<sjis>
 		ここは静かでいい所じゃ<three_dots><end_line>
 	</sjis>
+  <ascii>
+    This place is nice and quiet<three_dots><end_line>
+  </ascii>
 </dialogue>

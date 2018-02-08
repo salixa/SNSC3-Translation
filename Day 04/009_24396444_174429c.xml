@@ -9,6 +9,9 @@
 	<sjis>
 		町での用はもう済んだのか？<end_line>
 	</sjis>
+  <ascii>
+    Have you finished your errands?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -18,4 +21,9 @@
 		放り投げる技があるらしいけど<end_line>
 		いったい何がおもしろいのかしら<end_line>
 	</sjis>
+  <ascii>
+    Apparently even cutting firewood<end_line>
+    calls for special techniques.<end_line>
+    What's so fun about that?<end_line>
+  </ascii>
 </dialogue>

@@ -179,6 +179,9 @@
 	<sjis>
 		ワシの名はゼンジじゃ<end_line>
 	</sjis>
+  <ascii>
+    My name is Zenji.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
