@@ -5,7 +5,7 @@
     あ、<player_nickname><end_line>
   </sjis>
   <ascii>
-    Ah, <player_nickname><end_line>
+    Ah, <player_nickname>.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -53,9 +53,9 @@
     そうすれば<three_dots><end_line>
   </sjis>
   <ascii>
-    But, something like a match is<three_dots><end_line>
-    I'll go ask them again.<end_line>
-    Then maybe<three_dots><end_line>
+    But, another match<three_dots><end_line>
+    I'll go ask them to change it.<end_line>
+    Maybe<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -69,9 +69,9 @@
       ミューノは何も気にしなくていいよ<end_line>
     </sjis>
     <ascii>
-      It's fine, just fine!<end_line>
-      'Cause I want to fight them too.<end_line>
-      You don't have to worry about it.<end_line>
+      It's fine, it's fine!<end_line>
+      I want to fight Tram too.<end_line>
+      Don't worry about it.<end_line>
     </ascii>
   </male>
   <female>
@@ -82,8 +82,8 @@
     </sjis>
     <ascii>
       It's okay.<end_line>
-      I want to fight them too.<end_line>
-      So you don't need to worry about it.<end_line>
+      I want to fight Tram too.<end_line>
+      Don't worry about it.<end_line>
     </ascii>
   </female>
 </dialogue>
@@ -98,9 +98,8 @@
     見セタイモノト　思ワレマス<end_line>
   </sjis>
   <ascii>
-    I believe my partner will win<end_line>
-    without fail and show off their cool<end_line>
-    side to you, Lady Murno<end_line>
+    Lady Murno, I Believe<end_line>
+    My Partner Will Win.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -113,8 +112,8 @@
     気ヲツカウ必要ハ　アリマセン<end_line>
   </sjis>
   <ascii>
-    For that reason, there is no need<end_line>
-    for Lady Murno to be concerned.<end_line>
+    There Is No Need<end_line>
+    For You To Be Concerned.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -127,20 +126,11 @@
     <player_nickname>もおぬしに<end_line>
     いい格好をみせたいのじゃ<end_line>
   </sjis>
-  <male>
-    <ascii>
-      That's right.<end_line>
-      <player_nickname> wants to show you how cool<end_line>
-      he can be.<end_line>
-    </ascii>
-  </male>
-  <female>
-    <ascii>
-      That's right.<end_line>
-      <player_nickname> wants to show you how cool<end_line>
-      she can be.<end_line>
-    </ascii>
-  </female>
+  <ascii>
+    That's right.<end_line>
+    <player_nickname> really wants to show<end_line>
+    off how cool they can be.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -167,10 +157,9 @@
     だけだ<end_line>
   </sjis>
   <ascii>
-    Fu<three_dots><end_line>
+    Hmph<three_dots><end_line>
     I'm sure <player_nickname> just wants to <end_line>
-    show off in front of you.<end_line>
-    But<three_dots><end_line>
+    show off in front of you. But<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -181,16 +170,9 @@
   <sjis>
     お前が気にすることはない<end_line>
   </sjis>
-  <male>
-    <ascii>
-      You don't need to worry about him.<end_line>
-    </ascii>
-  </male>
-  <female>
-    <ascii>
-      You don't need to worry about her.<end_line>
-    </ascii>
-  </female>
+  <ascii>
+    I'm sure they'll take care of it.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -204,8 +186,8 @@
   </sjis>
   <ascii>
     That's right.<end_line>
-    <player_nickname> wants to show you how cool<end_line>
-    they are, Lady Murno.<end_line>
+    <player_nickname> wants to show off<end_line>
+    how cool they are, Lady Murno.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -216,16 +198,9 @@
   <sjis>
     ミューノ様はお気になさらずに<end_line>
   </sjis>
-  <male>
-    <ascii>
-      You do not need to about him.<end_line>
-    </ascii>
-  </male>
-  <female>
-    <ascii>
-      You do not need to about him.<end_line>
-    </ascii>
-  </female>
+  <ascii>
+    You may be at ease.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -235,11 +210,17 @@
     <sjis>
       そういう言い方はないだろ？<end_line>
     </sjis>
+    <ascii>
+      Hey, don't put it like that<three_dots><end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
       そんな言い方しなくても<three_dots><end_line>
     </sjis>
+    <ascii>
+      Don't put it like that<three_dots><end_line>
+    </ascii>
   </female>
 </dialogue>
 <dialogue>
@@ -319,8 +300,8 @@
     ソノ場ニ　立チ会ウ人デス<end_line>
   </sjis>
   <ascii>
-    Someone who is on location to<end_line>
-    confirm the results of the match.<end_line>
+    Witness. A Person Who Views An<end_line>
+    Event And Confirm Its Legitimacy.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -363,8 +344,8 @@
     勝負の場に立ち会う人です<end_line>
   </sjis>
   <ascii>
-    Um, a witness is someone who watches<end_line>
-    the match and confirms the result.<end_line>
+    Um, meaning, he will watch<end_line>
+    the match and confirm the result.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -377,9 +358,9 @@
     立ち会う必要がある<end_line>
   </sjis>
   <ascii>
-    It's a match using the Room of<end_line>
-    Judgment. There must be a witness<end_line>
-    to ensure no one cheats.<end_line>
+    In the Room of Judgment,<end_line>
+    There must be a witness<end_line>
+    to ensure complete fairness.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -473,8 +454,8 @@
     私モ　立チ会イマス<end_line>
   </sjis>
   <ascii>
-    If Lady Murno is going, then I<end_line>
-    will also be a witness.<end_line>
+    If Lady Murno Is Going,<end_line>
+    I Will Also Be A Witness.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -487,8 +468,8 @@
     ワガハイも立ち会うぞ<end_line>
   </sjis>
   <ascii>
-    If Murno is okay with it, then I<end_line>
-    will be a witness as well.<end_line>
+    If Murno is okay with it,<end_line>
+    then I will be a witness as well.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -504,7 +485,7 @@
   <ascii>
     If Murno think's its okay, then<end_line>
     I'll be a witness too.<end_line>
-    There should be no complaints.<end_line>
+    That's fine, right?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -517,8 +498,8 @@
     私も立ち会っていいですよね！<end_line>
   </sjis>
   <ascii>
-    If Lady Murno is fine with it, then<end_line>
-    I will also stand witness!<end_line>
+    If Lady Murno is fine with it,<end_line>
+    then I will also stand witness!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -546,8 +527,8 @@
     まずは遺跡前の広場に集合だ<end_line>
   </sjis>
   <ascii>
-    The Room of Judgement is within<end_line>
-    Ghumag Flame Ruins, above the<end_line>
+    The Room of Judgment is within<end_line>
+    Gumag Flame Ruins, above the<end_line>
     Rekui Water Ruins.<end_line>
   </ascii>
 </dialogue>
@@ -571,7 +552,7 @@
   </female>
   <ascii>
     The Rekui Water Ruins<three_dots><end_line>
-    That's where Master was, right?<end_line>
+    That's where your master was, right?<end_line>
     Got it!<end_line>
   </ascii>
 </dialogue>

@@ -6,9 +6,8 @@
     予定外の人も多いですね<three_dots>？<end_line>
   </sjis>
   <ascii>
-    Now everything is in order. Though<end_line>
-    there's quite a few more people<end_line>
-    than I expected<three_dots><end_line>
+    Now everyone has arrived.<end_line>
+    Though there's quite a crowd<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -61,8 +60,8 @@
     問題だっていうのに<three_dots><end_line>
   </sjis>
   <ascii>
-    Even just holding a match there<end_line>
-    is a problem<three_dots><end_line>
+    Even just holding a match<end_line>
+    there is problematic<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -101,7 +100,7 @@
   <ascii>
     Heh<three_dots><end_line>
     You think you can beat me?<end_line>
-    How sad.<end_line>
+    I pity you.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -149,8 +148,8 @@
     勝負に立ち会うことを許可します<end_line>
   </sjis>
   <ascii>
-    Alright, fine.<end_line>
-    They can come.<end_line>
+    Alright then.<end_line>
+    I will allow everyone to come.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -163,7 +162,7 @@
   </sjis>
   <ascii>
     Really?!<end_line>
-    Thank you very much!<end_line>
+    Thank you so much!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -177,9 +176,8 @@
   </sjis>
   <ascii>
     You don't need to thank me.<end_line>
-    The Demon Crystal Pillar you<end_line>
-    want to see is inside the Room<end_line>
-    of Judgment.<end_line>
+    The Crystal Pillar you want<end_line>
+    to see is just past the Room.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -193,9 +191,9 @@
     タノミマシタ　ぱーとなー<end_line>
   </sjis>
   <ascii>
-    If you do not win the match, we<end_line>
-    will not be allowed to see it.<end_line>
-    I am counting on you, partner.<end_line>
+    If You Do Not Win The Match,<end_line>
+    We Will Not Be Allowed To See It.<end_line>
+    I Am Counting On You, Partner.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -208,8 +206,7 @@
     たのんだぞ、<player_nickname><end_line>
   </sjis>
   <ascii>
-    So if you don't win, we won't<end_line>
-    be allowed to see it.<end_line>
+    So you'll have to win then.<end_line>
     I'm counting on you, <player_nickname>.<end_line>
   </ascii>
 </dialogue>
@@ -224,7 +221,7 @@
   </sjis>
   <ascii>
     So you have to win to see it<three_dots><end_line>
-    And he's confident in his abilities.<three_dots><end_line>
+    And he's confident in his abilities.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -238,9 +235,8 @@
     がんばってくださいね！<end_line>
   </sjis>
   <ascii>
-    In other words, if you are unable<end_line>
-    to win, we won't be allowed to<end_line>
-    see it<three_dots><end_line>
+    Meaning we won't be allowed to<end_line>
+    see it if you are unable to win<three_dots><end_line>
     Please do your best!<end_line>
   </ascii>
 </dialogue>
@@ -276,8 +272,8 @@
   </sjis>
   <ascii>
     Alright, so it's decided.<end_line>
-    Then let us go over the rules<end_line>
-    once more.<end_line>
+    Then let us go over<end_line>
+    the rules once more.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -316,9 +312,9 @@
     武器を壊された方が負けだ<end_line>
   </sjis>
   <ascii>
-    If you surrender, are unable to<end_line>
-    continue fighting, or your weapon<end_line>
-    breaks, you lose.<end_line>
+    If you surrender, are unable<end_line>
+    to continue fighting, or your<end_line>
+    weapon breaks, you lose.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -385,7 +381,7 @@
     </sjis>
   </female>
   <ascii>
-      Don't worry.<end_line>
+    Don't worry.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -420,8 +416,8 @@
     私タチモ　早ク！<end_line>
   </sjis>
   <ascii>
-    Lady Murno is going inside!<end_line>
-    We must hurry!<end_line>
+    Lady Murno Is Going Ahead!<end_line>
+    We Must Hurry!<end_line>
   </ascii>
 </dialogue>
 <dialogue>

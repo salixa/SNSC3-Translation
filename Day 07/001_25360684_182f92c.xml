@@ -14,6 +14,10 @@
 			絶対に勝つよ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    It's time for our match with Tram.<end_line>
+    I'm definitely going to win!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -24,6 +28,10 @@
 		本当ニ　アナタヒトリデ<end_line>
 		大丈夫ナノデスカ？<end_line>
 	</sjis>
+  <ascii>
+    Will You Be<end_line>
+    Alright By Yourself?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -36,6 +44,11 @@
 			ありがとう<end_line>
 			大丈夫だって！<end_line>
 		</sjis>
+    <ascii>
+      What, are you worried about me?<end_line>
+      Thanks.<end_line>
+      I'll be fine!<end_line>
+    </ascii>
 	</male>
 	<female>
 		<sjis>
@@ -43,6 +56,11 @@
 			ありがとう<end_line>
 			大丈夫だよ！<end_line>
 		</sjis>
+    <ascii>
+      Are you worried about me?<end_line>
+      Thanks.<end_line>
+      I'll be fine!<end_line>
+    </ascii>
 	</female>
 </dialogue>
 <dialogue>
@@ -55,6 +73,11 @@
 		アナタガ勝利シナイト　みゅーの様ガ<end_line>
 		魔晶柱ヲ見ルコトガ　デキマセン<end_line>
 	</sjis>
+  <ascii>
+    I Will Leave It To You.<end_line>
+    You Must Win So That Lady Murno May<end_line>
+    Examine The Crystal Pillar.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="male">
@@ -67,6 +90,11 @@
 		そうだよな<end_line>
 		がんばるよ<end_line>
 	</sjis>
+  <ascii>
+    Y-yeah<three_dots><end_line>
+    Right.<end_line>
+    I'll do my best.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="male">
@@ -79,6 +107,11 @@
 		そろそろオレは行くけど<end_line>
 		<partner>はどうする？<end_line>
 	</sjis>
+  <ascii>
+    Now then,<end_line>
+    it's about time for me to go.<end_line>
+    What will you do, <partner>?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="female">
@@ -91,6 +124,11 @@
 		そうだよね<end_line>
 		がんばるよ<end_line>
 	</sjis>
+  <ascii>
+    Y-yeah<three_dots><end_line>
+    Right.<end_line>
+    I'll do my best.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="female">
@@ -103,6 +141,11 @@
 		そろそろわたしは行くけど<end_line>
 		<partner>はどうする？<end_line>
 	</sjis>
+  <ascii>
+    Now then,<end_line>
+    it's about time for me to go.<end_line>
+    What will you do, <partner>?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -113,6 +156,10 @@
 		モチロン　ツイテ行キマス<end_line>
 		ぱーとなーデスカラ<end_line>
 	</sjis>
+  <ascii>
+    I Will Accompany You, Of Course.<end_line>
+    I Am Your Partner.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -122,6 +169,9 @@
 	<sjis>
 		<partner><three_dots><end_line>
 	</sjis>
+  <ascii>
+    <partner><three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -138,6 +188,9 @@
 			あなた<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    You<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -149,6 +202,11 @@
 		タドリ着ク前ニ　問題ガ発生スル<end_line>
 		可能性ガ　大キイデスカラ<end_line>
 	</sjis>
+  <ascii>
+    Alone, There Is A Large Chance You<end_line>
+    Will Cause A Problem Before<end_line>
+    Reaching Your Destination.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -159,6 +217,10 @@
 		おぬしひとりで本当に<end_line>
 		大丈夫なのか？<end_line>
 	</sjis>
+  <ascii>
+    Will you be<end_line>
+    alright by yourself?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -171,6 +233,11 @@
 			ありがとう<end_line>
 			大丈夫だって！<end_line>
 		</sjis>
+    <ascii>
+      What, are you worried about me?<end_line>
+      Thanks.<end_line>
+      I'll be fine!<end_line>
+    </ascii>
 	</male>
 	<female>
 		<sjis>
@@ -178,6 +245,11 @@
 			ありがとう<end_line>
 			大丈夫だよ！<end_line>
 		</sjis>
+    <ascii>
+      Are you worried about me?<end_line>
+      Thanks.<end_line>
+      I'll be fine!<end_line>
+    </ascii>
 	</female>
 </dialogue>
 <dialogue>
@@ -190,6 +262,11 @@
 		魔晶柱とやらを見ることができんのじゃ<end_line>
 		しっかりたのむぞ！<end_line>
 	</sjis>
+  <ascii>
+    You must win for Murno to be able<end_line>
+    to examine the Crystal Pillar!<end_line>
+    I'm counting on you!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="male">
@@ -202,6 +279,11 @@
 		そうだよな<end_line>
 		がんばるよ<end_line>
 	</sjis>
+  <ascii>
+    Y-yeah<three_dots><end_line>
+    Right.<end_line>
+    I'll do my best.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="male">
@@ -214,6 +296,11 @@
 		そろそろオレは行くけど<end_line>
 		<partner>はどうする？<end_line>
 	</sjis>
+  <ascii>
+    Now then,<end_line>
+    it's about time for me to go.<end_line>
+    What will you do, <partner>?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="female">
@@ -226,6 +313,11 @@
 		そうだよね<end_line>
 		がんばるよ<end_line>
 	</sjis>
+  <ascii>
+    Y-yeah<three_dots><end_line>
+    Right.<end_line>
+    I'll do my best.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="female">
@@ -238,6 +330,11 @@
 		そろそろわたしは行くけど<end_line>
 		<partner>はどうする？<end_line>
 	</sjis>
+  <ascii>
+    Now then,<end_line>
+    it's about time for me to go.<end_line>
+    What will you do, <partner>?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -248,6 +345,10 @@
 		もちろん、ついて行くに決まっておる<end_line>
 		おぬしのパートナーじゃからな<end_line>
 	</sjis>
+  <ascii>
+    I'm going with you, of course.<end_line>
+    We're partners.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -268,6 +369,10 @@
 		問題を起こさぬよう<end_line>
 		しっかり見ておる必要がある<end_line>
 	</sjis>
+  <ascii>
+    I must ensure you don't<end_line>
+    make trouble for the others.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -278,6 +383,10 @@
 		キサマひとりで本当に<end_line>
 		勝てるつもりでいるのか？<end_line>
 	</sjis>
+  <ascii>
+    Think you can win<end_line>
+    all by yourself?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -296,6 +405,10 @@
 			もしかして心配してくれるの？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    What's that supposed to mean?<end_line>
+    Are you worried about me?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -307,6 +420,11 @@
 		キサマが負けて魔晶柱を見られないと<end_line>
 		いろいろメンドウだからだ<three_dots><end_line>
 	</sjis>
+  <ascii>
+    N-never!<end_line>
+    Just if you lose, we won't be able<end_line>
+    to see the Crystal Pillar<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="male">
@@ -319,6 +437,11 @@
 		そうだよな<end_line>
 		がんばるよ<end_line>
 	</sjis>
+  <ascii>
+    Oh, yeah.<end_line>
+    Right.<end_line>
+    I'll do my best.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="male">
@@ -331,6 +454,11 @@
 		そろそろオレは行くけど<end_line>
 		<partner>はどうする？<end_line>
 	</sjis>
+  <ascii>
+    Now then,<end_line>
+    it's about time for me to go.<end_line>
+    What will you do, <partner>?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="female">
@@ -343,6 +471,11 @@
 		そうだよね<end_line>
 		がんばるよ<end_line>
 	</sjis>
+  <ascii>
+    Ah, yeah.<end_line>
+    Right.<end_line>
+    I'll do my best.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="female">
@@ -355,6 +488,11 @@
 		そろそろわたしは行くけど<end_line>
 		<partner>はどうする？<end_line>
 	</sjis>
+  <ascii>
+    Now then,<end_line>
+    it's about time for me to go.<end_line>
+    What will you do, <partner>?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -366,6 +504,11 @@
 		メンドウだが<end_line>
 		ついていかざるをえないだろう<end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+    It's a pain,<end_line>
+    but I'll go with you.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -375,6 +518,9 @@
 	<sjis>
 		<partner><three_dots><end_line>
 	</sjis>
+  <ascii>
+		<partner><three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -386,6 +532,11 @@
 		逃げ出さないよう<end_line>
 		見張っていなくては<end_line>
 	</sjis>
+  <ascii>
+    I have to be there<end_line>
+    if you get cold feet<end_line>
+    and start to freak out.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -396,6 +547,10 @@
 		本当に<player_nickname>さんひとりで<end_line>
 		大丈夫でしょうか？<end_line>
 	</sjis>
+  <ascii>
+    Are you sure you can do this<end_line>
+    on your own, <player_nickname>?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -408,6 +563,11 @@
 			ありがとう<end_line>
 			大丈夫だって！<end_line>
 		</sjis>
+    <ascii>
+      What, are you worried about me?<end_line>
+      Thanks.<end_line>
+      I'll be fine!<end_line>
+    </ascii>
 	</male>
 	<female>
 		<sjis>
@@ -415,6 +575,11 @@
 			ありがとう<end_line>
 			大丈夫だよ！<end_line>
 		</sjis>
+    <ascii>
+      Are you worried about me?<end_line>
+      Thanks.<end_line>
+      I'll be fine!<end_line>
+    </ascii>
 	</female>
 </dialogue>
 <dialogue>
@@ -427,6 +592,11 @@
 		魔晶柱を見られないんですわよ<end_line>
 		心配ですわ<end_line>
 	</sjis>
+  <ascii>
+    Remember, if you lose, Lady Murno<end_line>
+    will not be allowed to see the<end_line>
+    Crystal Pillar.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -437,6 +607,10 @@
 		わかってるって<end_line>
 		絶対勝つよ！<end_line>
 	</sjis>
+  <ascii>
+    I know, I know.<end_line>
+    I'll win!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -457,6 +631,11 @@
 			<partner>はどうする？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Now then,<end_line>
+    it's about time for me to go.<end_line>
+    What will you do, <partner>?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -467,6 +646,10 @@
 		もちろん、ごいっしょしますわ<end_line>
 		パートナーですもの<end_line>
 	</sjis>
+  <ascii>
+    I will accompany you, of course.<end_line>
+    We are partners, are we not?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -476,6 +659,9 @@
 	<sjis>
 		<partner><three_dots><end_line>
 	</sjis>
+  <ascii>
+		<partner><three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -492,6 +678,9 @@
 			あなた<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    You<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -503,6 +692,11 @@
 		勝負の前に何か問題を起こしそうな<end_line>
 		気がするんですよね<end_line>
 	</sjis>
+  <ascii>
+    I have a feeling you will<end_line>
+    cause some sort of problem<end_line>
+    before the match otherwise.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -520,4 +714,7 @@
 			わかったわよ<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Oh, that's what you meant<three_dots><end_line>
+  </ascii>
 </dialogue>

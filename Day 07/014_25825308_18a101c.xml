@@ -16,8 +16,8 @@
 		そこは通しませんよ<end_line>
 	</sjis>
   <ascii>
-    Until you beat me, you<end_line>
-    can't go through here.<end_line>
+    I won't let you through<end_line>
+    unless you can beat me.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -40,7 +40,7 @@
 	</sjis>
   <ascii>
     I don't know what kind of weapon<end_line>
-    you intend to challenge me with, but<end_line>
-    well, do your best.<end_line>
+    you intend to challenge me with,<end_line>
+    but well, good luck to you.<end_line>
   </ascii>
 </dialogue>

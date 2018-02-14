@@ -16,8 +16,8 @@
     移動します<end_line>
   </sjis>
   <ascii>
-    The plate floating on the lava<end_line>
-    will move when you hit the switch<end_line>
+    The floating plates will<end_line>
+    move when you hit the switch<end_line>
     on the floor with your hammer.<end_line>
   </ascii>
 </dialogue>
@@ -30,8 +30,8 @@
   </sjis>
   <ascii>
     The direction depends on the <end_line>
-    switch's shape, and there are<end_line>
-    switches that affect up to 4 plates.<end_line>
+    switch's shape, and the<end_line>
+    switches may affect up to 4 plates.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -41,7 +41,7 @@
     押すことで開く事ができます<end_line>
   </sjis>
   <ascii>
-    This door can be opened by hitting<end_line>
-    it's switch with a weapon.<end_line>
+    This door may be opened by hitting<end_line>
+    it's switch with the correct weapon.<end_line>
   </ascii>
 </dialogue>

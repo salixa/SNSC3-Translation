@@ -20,7 +20,7 @@
     <ascii>
       Tram is waiting for us.<end_line>
       We have to go to the <end_line>
-      Ghumag Flame Ruins!<end_line>
+      Gumag Flame Ruins!<end_line>
     </ascii>
   </male>
   <female>
@@ -32,7 +32,7 @@
     <ascii>
       Tram is waiting for us.<end_line>
       Let's head to the<end_line>
-      Ghumag Flame Ruins!<end_line>
+      Gumag Flame Ruins!<end_line>
     </ascii>
   </female>
 </dialogue>
@@ -46,9 +46,8 @@
       オレたちも急ごう！<end_line>
     </sjis>
     <ascii>
-      Murno went with Tram to <end_line>
-      investigate the Demon Crystal<end_line>
-      Pillar in the Ghumag Ruins.<end_line>
+      Murno and Tram went to see the<end_line>
+      Pillar in Gumag Flame Ruins.<end_line>
       Let's hurry after them!<end_line>
     </ascii>
   </male>
@@ -59,10 +58,9 @@
       わたしたちも急がなくちゃ！<end_line>
     </sjis>
     <ascii>
-      Murno went with Tram to <end_line>
-      investigate the Demon Crystal<end_line>
-      Pillar in the Ghumag Ruins.<end_line>
-      We have to follow them!<end_line>
+      Murno and Tram went to see the<end_line>
+      Pillar in Gumag Flame Ruins.<end_line>
+      Let's hurry after them!<end_line>
     </ascii>
   </female>
 </dialogue>

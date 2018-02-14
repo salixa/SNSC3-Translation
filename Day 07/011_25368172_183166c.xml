@@ -32,8 +32,8 @@
     思ワレマス<end_line>
   </sjis>
   <ascii>
-    The heat must be due to the<end_line>
-    presence of flowing lava.<end_line>
+    The Heat Must Be Due To The<end_line>
+    Presence Of Flowing Lava.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -95,8 +95,8 @@
   </sjis>
   <ascii>
     If this amount of heat can stop you,<end_line>
-    there's no you'll ever reach the<end_line>
-    Room of Judgment.<end_line>
+    there's no way you'll ever<end_line>
+    reach the Room of Judgment.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -108,9 +108,8 @@
     なぜか凶暴になってますからね<end_line>
   </sjis>
   <ascii>
-    Heat aside, the Summon Beasts who<end_line>
-    protect the ruins have been going<end_line>
-    berserk recently.<end_line>
+    Not only that, the Summon Beasts<end_line>
+    here have become very aggressive.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -121,8 +120,8 @@
     凶暴になってるなんて<three_dots><end_line>
   </sjis>
   <ascii>
-    It's happening here<end_line>
-    as well<three_dots><end_line>
+    It's happening<end_line>
+    here as well<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -142,7 +141,7 @@
     </sjis>
   </female>
   <ascii>
-    Summon Beasts oing berserk<three_dots><end_line>
+    Summon Beasts going berserk<three_dots><end_line>
     <partner>, are you okay?<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -157,9 +156,9 @@
     私ニ　影響ハアリマセン<end_line>
   </sjis>
   <ascii>
-    Though it's very faint, I can<end_line>
-    sometimes detect a unique signal.<end_line>
-    It does not affect me.<end_line>
+    I Can Sometimes Detect<end_line>
+    A Very Faint Signal.<end_line>
+    It Does Not Affect Me.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -188,8 +187,8 @@
   </sjis>
   <ascii>
     Don't be ridiculous.<end_line>
-    There's no way something that weak<end_line>
-    could mess with me.<end_line>
+    There's no way something that<end_line>
+    weak could mess with me.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -203,8 +202,8 @@
     大丈夫ですわ<end_line>
   </sjis>
   <ascii>
-    There's a bit of an unpleasant<end_line>
-    feeling, but<three_dots><end_line>
+    It's a bit unpleasant, but<three_dots><end_line>
+    I can bear it.<end_line>
     I will be fine.<end_line>
   </ascii>
 </dialogue>
@@ -225,8 +224,8 @@
     </sjis>
   </female>
   <ascii>
-    I wonder what the Summon Beasts<end_line>
-    are protecting?<end_line>
+    What are the Summon Beasts<end_line>
+    here protecting?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -305,7 +304,7 @@
   </sjis>
   <ascii>
     What is it?<end_line>
-    Can't handle on your own?<end_line>
+    Can't handle it on your own?<end_line>
     Must I escort you as well?<end_line>
   </ascii>
 </dialogue>
@@ -317,8 +316,7 @@
     それでは勝負になりませんよ<end_line>
   </sjis>
   <ascii>
-    Then there is no point in<end_line>
-    fighting you.<end_line>
+    This will be a pushover.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -350,7 +348,7 @@
   </sjis>
   <ascii>
     I'm fine.<end_line>
-    If <player_nickname> were to come with us,<end_line>
+    If you were to come with us,<end_line>
     you'd only get in the way.<end_line>
   </ascii>
 </dialogue>
@@ -426,7 +424,6 @@
       よし<three_dots>！<end_line>
       じゃ、オレたちも行こうぜ！<end_line>
     </sjis>
-
   </male>
   <female>
     <sjis>
