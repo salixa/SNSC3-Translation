@@ -9,6 +9,9 @@
 	<sjis>
 		今は商品の整理中なんだ<end_line>
 	</sjis>
+	<ascii>
+		We're organizing our stock today<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -16,6 +19,9 @@
 	<sjis>
 		悪いけどまたあとで来てくれよ<end_line>
 	</sjis>
+	<ascii>
+		Sorry but please come at another time<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -25,4 +31,9 @@
 		いっぱいいるから<end_line>
 		出ちゃいけないんだよ<end_line>
 	</sjis>
+	<ascii>
+		You shouldn't wander<end_line
+		outside the village,<end_line>
+		there are many stray summons out there<end_line>
+	</ascii>
 </dialogue>
