@@ -11,6 +11,11 @@
 		釣る側と釣られる側の<end_line>
 		知恵比べ<end_line>
 	</sjis>
+	<ascii>
+		Fishing is life itself<end_line>
+		A battle of wisdom between<end_line>
+		the fisher and the fish<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -20,4 +25,9 @@
 		お主も、釣る側になるよう<end_line>
 		努力せぇ<end_line>
 	</sjis>
+	<ascii>
+		One must strive to be the fisher<end_line>
+		you should as well,<end_line>
+		do your best not be a fish<end_line>
+	</ascii>
 </dialogue>
