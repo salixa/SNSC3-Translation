@@ -11,6 +11,11 @@
 		中からミミズが出てきてたりして<end_line>
 		びっくりしちゃうけど<end_line>
 	</sjis>
+  <ascii>
+    You can destroy stumps<end_line>
+    with an axe. Watch out for<end_line>
+    earthworms, though.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -19,11 +24,17 @@
 		<sjis>
 			え？　いただき？<end_line>
 		</sjis>
+    <ascii>
+      Eh? You think that's awesome?<end_line>
+    </ascii>
 	</male>
 	<female>
 		<sjis>
 			え？　サイコー？<end_line>
 		</sjis>
+    <ascii>
+      Eh? You think that's amazing?<end_line>
+    </ascii>
 	</female>
 </dialogue>
 <dialogue>
@@ -32,4 +43,7 @@
 	<sjis>
 		<three_dots>あなた変わってるわね<end_line>
 	</sjis>
+  <ascii>
+    <three_dots>You're strange.<end_line>
+  </ascii>
 </dialogue>
