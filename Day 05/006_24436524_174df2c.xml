@@ -16,6 +16,11 @@
 		弓矢やドリルもハンマーで<end_line>
 		作るってホントかしら<end_line>
 	</sjis>
+  <ascii>
+    I wonder, is a Craftnight really<end_line>
+    able to craft bows and drills<end_line>
+    using a hammer?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -24,4 +29,8 @@
 		そんな面倒くさいことして<end_line>
 		いったい何がおもしろいのかしら<end_line>
 	</sjis>
+  <ascii>
+    What's so fun about doing<end_line>
+    something so bothersome?<end_line>
+  </ascii>
 </dialogue>

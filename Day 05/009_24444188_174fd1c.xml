@@ -11,6 +11,11 @@
 		留守にしてるから<end_line>
 		なんだか寂しいんだよ<end_line>
 	</sjis>
+  <ascii>
+    It's been lonely around here,<end_line>
+    with both you and Vee<end_line>
+    out of town.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -19,4 +24,8 @@
 		おかえりなさい<end_line>
 		いつでも帰ってきていいのよ<end_line>
 	</sjis>
+  <ascii>
+    Welcome back.<end_line>
+    You can come by any time you want.<end_line>
+  </ascii>
 </dialogue>

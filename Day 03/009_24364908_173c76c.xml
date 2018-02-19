@@ -10,7 +10,7 @@
 		武器を取りに来たのか？<end_line>
 	</sjis>
 	<ascii>
-		Did you come to pick up a weapon?<end_line>
+		Here to pick up a weapon?<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -20,7 +20,7 @@
 		武器を預けに来たのか？<end_line>
 	</sjis>
 	<ascii>
-		Did you come to drop off a weapon?<end_line>
+		Here to drop off a weapon?<end_line>
 	</ascii>
 </dialogue>
 <menu>

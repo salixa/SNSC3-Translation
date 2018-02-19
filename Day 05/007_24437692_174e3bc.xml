@@ -9,6 +9,9 @@
 	<sjis>
 		武器を取りに来たのか？<end_line>
 	</sjis>
+  <ascii>
+    Here to pick up a weapon?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -16,17 +19,26 @@
 	<sjis>
 		武器を預けに来たのか？<end_line>
 	</sjis>
+  <ascii>
+    Here to drop off a weapon?<end_line>
+  </ascii>
 </dialogue>
 <menu>
 	<option>
 		<sjis>
 			はい<end_line>
 		</sjis>
+    <ascii>
+      Yes<end_line>
+    </ascii>
 	</option>
 	<option>
 		<sjis>
 			いいえ<end_line>
 		</sjis>
+    <ascii>
+      No<end_line>
+    </ascii>
 	</option>
 </menu>
 <dialogue>
@@ -35,6 +47,9 @@
 	<sjis>
 		預けられそうな武器が無いぞ<end_line>
 	</sjis>
+  <ascii>
+    You have no weapons to drop off.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -44,6 +59,11 @@
 		プロスバンの町から来たヤツに<end_line>
 		聞いたんだ<end_line>
 	</sjis>
+  <ascii>
+    I've heard theres a Stray called<end_line>
+    Red Wing that's causing trouble.<end_line>
+    Someone from Prosban told me.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -52,4 +72,8 @@
 		とてつもなく凶暴なヤツらしい<end_line>
 		ほんと、あぶなくってしょうがない<end_line>
 	</sjis>
+  <ascii>
+    It's supposed to be very ferocious.<end_line>
+    Man, it's so dangerous these days.<end_line>
+  </ascii>
 </dialogue>
