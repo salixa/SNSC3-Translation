@@ -15,4 +15,9 @@
 		カウンターに店員がいないときには<end_line>
 		勝手に買い物してください<end_line>
 	</sjis>
+  <ascii>
+    A notice from Gallahan's Workshop.<end_line>
+    When the clerk is not available,<end_line>
+    please serve yourself.<end_line>
+  </ascii>
 </dialogue>

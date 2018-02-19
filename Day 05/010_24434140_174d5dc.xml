@@ -16,16 +16,27 @@
 		おかげで武器や防具が<end_line>
 		飛ぶように売れて嬉しいわ<end_line>
 	</sjis>
+  <ascii>
+    Thanks to those Strays,<end_line>
+    weapons and armor have been<end_line>
+    flying right off the shelves!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
 		ふみゃ？<end_line>
 	</sjis>
+  <ascii>
+    Hmwhat?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
 		ゴロゴロ<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Rumble<three_dots><end_line>
+  </ascii>
 </dialogue>
