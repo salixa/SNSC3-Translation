@@ -11,6 +11,7 @@
 		なまけちゃいかんな<end_line>
 	</sjis>
 	<ascii>
-		Don't forget to repair your weapons<end_line>
+		Don't be careless,
+		take care of your weapons.<end_line>
 	</ascii>
 </dialogue>
