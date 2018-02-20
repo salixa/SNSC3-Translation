@@ -11,7 +11,7 @@
 		なまけちゃいかんな<end_line>
 	</sjis>
 	<ascii>
-		Don't be careless,
+		Don't be careless,<end_line>
 		take care of your weapons.<end_line>
 	</ascii>
 </dialogue>
