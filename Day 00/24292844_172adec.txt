@@ -12,9 +12,9 @@
 		知恵比べ<end_line>
 	</sjis>
 	<ascii>
-		Fishing is life itself<end_line>
+		Life is a lot like fishing.<end_line>
 		A battle of wisdom between<end_line>
-		the fisher and the fish<end_line>
+		the fisher and the fish.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -26,8 +26,8 @@
 		努力せぇ<end_line>
 	</sjis>
 	<ascii>
-		One must strive to be the fisher<end_line>
-		you should as well,<end_line>
-		do your best not be a fish<end_line>
+		One must strive to be the fisher.<end_line>
+		You too should do your best<end_line>
+		to avoid getting hooked.<end_line>
 	</ascii>
 </dialogue>
