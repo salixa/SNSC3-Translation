@@ -10,4 +10,8 @@
 		武器の手入れは<end_line>
 		なまけちゃいかんな<end_line>
 	</sjis>
+	<ascii>
+		Don't be careless,<end_line>
+		take care of your weapons.<end_line>
+	</ascii>
 </dialogue>
