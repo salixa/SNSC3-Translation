@@ -7,6 +7,10 @@
 		ミューノを召喚獣のエサになんか<end_line>
 		させるもんか！<end_line>
 	</sjis>
+  <ascii>
+    I won't let this Phantom Dragon<end_line>
+    eat Murno!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -23,6 +27,9 @@
 			急ぐよ、<partner>！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Let's hurry, <partner>!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -34,6 +41,11 @@
 		地下宮殿ガ　目的地デス<end_line>
 		発見サレナイヨウ　注意シテクダサイ<end_line>
 	</sjis>
+  <ascii>
+    Murno Is Located In An Underground<end_line>
+    Palace Outside The Village<end_line>
+    Called The Rekui Water Ruins.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -43,6 +55,9 @@
 	<sjis>
 		わかってるって！<end_line>
 	</sjis>
+  <ascii>
+    I know that!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -63,6 +78,11 @@
 			いいんだけど<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    I'm kind of worried about my gear<three_dots><end_line>
+    It'd be fine if I could use the<end_line>
+    old man's workshop, but<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -73,6 +93,10 @@
 		ミューノを召喚獣のエサになんか<end_line>
 		させるもんか！<end_line>
 	</sjis>
+  <ascii>
+    I won't let this Phantom Dragon<end_line>
+    eat Murno!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -89,6 +113,9 @@
 			急ぐよ、<partner>！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Let's hurry, <partner>!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -100,6 +127,11 @@
 		地下宮殿にミューノはいるようじゃぞ<end_line>
 		助け出すまで捕まってはならんぞ<end_line>
 	</sjis>
+  <ascii>
+    Murno is in the underground palace<end_line>
+    outside the village known as<end_line>
+    Rekui Water Ruins. Let's move.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -109,6 +141,9 @@
 	<sjis>
 		わかってるって！<end_line>
 	</sjis>
+  <ascii>
+    I know that!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -129,6 +164,11 @@
 			いいんだけど<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    I'm kind of worried about my gear<three_dots><end_line>
+    It'd be fine if I could use the<end_line>
+    old man's workshop, but<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -139,6 +179,10 @@
 		ミューノを召喚獣のエサになんか<end_line>
 		させるもんか！<end_line>
 	</sjis>
+  <ascii>
+    I won't let this Phantom Dragon<end_line>
+    eat Murno!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -155,6 +199,9 @@
 			急ぐよ、<partner>！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Let's hurry, <partner>!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -166,6 +213,11 @@
 		地下宮殿にミューノはいるようようだが<end_line>
 		捕まらずにそこまでたどりつけるか？<end_line>
 	</sjis>
+  <ascii>
+    Murno is in the Rekui Water Ruins,<end_line>
+    located outside the village.<end_line>
+    Can you make it unseen?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -182,6 +234,9 @@
 			まかせといてよ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Leave it to me!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -202,6 +257,11 @@
 			いいんだけど<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    I'm kind of worried about my gear<three_dots><end_line>
+    It'd be fine if I could use the<end_line>
+    old man's workshop, but<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -211,6 +271,10 @@
 		ミューノを召喚獣のエサになんか<end_line>
 		させるもんか！<end_line>
 	</sjis>
+  <ascii>
+    I won't let this Phantom Dragon<end_line>
+    eat Murno!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -226,6 +290,9 @@
 			急ぐよ、<partner>！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Let's hurry, <partner>!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -236,6 +303,11 @@
 		地下宮殿にミューノ様はいるそうです<end_line>
 		村人に見つからないように行きますよ<end_line>
 	</sjis>
+  <ascii>
+    Lady Murno must be at this Rekui<end_line>
+    Water Ruins outside the village.<end_line>
+    We must move carefully.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -244,6 +316,9 @@
 	<sjis>
 		わかってるって！<end_line>
 	</sjis>
+  <ascii>
+    I know that!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -263,6 +338,11 @@
 			いいんだけど<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    I'm kind of worried about my gear<three_dots><end_line>
+    It'd be fine if I could use the<end_line>
+    old man's workshop, but<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -281,6 +361,10 @@
 			全力でミューノを助けに行こう！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Seems like we can use the workshop.<end_line>
+    One step closer to saving Murno!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -292,6 +376,11 @@
 		地下宮殿ガ　目的地デス<end_line>
 		発見サレナイヨウ　注意シテクダサイ<end_line>
 	</sjis>
+  <ascii>
+    Murno Is Located In An Underground<end_line>
+    Palace Outside The Village<end_line>
+    Called The Rekui Water Ruins.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -312,6 +401,11 @@
 			させないから！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    I said I know!<end_line>
+    I won't let this Phantom Dragon<end_line>
+    eat Murno!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -330,6 +424,10 @@
 			全力でミューノを助けに行こう！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Seems like we can use the workshop.<end_line>
+    One step closer to saving Murno!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -341,6 +439,11 @@
 		地下宮殿にミューノはいるようじゃぞ<end_line>
 		助け出すまで捕まってはならんぞ<end_line>
 	</sjis>
+  <ascii>
+    Murno is in the underground palace<end_line>
+    outside the village known as<end_line>
+    Rekui Water Ruins. Let's move.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -361,6 +464,11 @@
 			させないから！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    I said I know!<end_line>
+    I won't let this Phantom Dragon<end_line>
+    eat Murno!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -379,6 +487,10 @@
 			全力でミューノを助けに行こう！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Seems like we can use the workshop.<end_line>
+    One step closer to saving Murno!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -410,6 +522,11 @@
 			させないから！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Of course I can!<end_line>
+    I won't let this Phantom Dragon<end_line>
+    eat Murno!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -427,6 +544,10 @@
 			全力でミューノを助けに行こう！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Seems like we can use the workshop.<end_line>
+    One step closer to saving Murno!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -437,6 +558,11 @@
 		地下宮殿にミューノ様はいるそうです<end_line>
 		村人に見つからないように行きますよ<end_line>
 	</sjis>
+  <ascii>
+    Lady Murno must be at this Rekui<end_line>
+    Water Ruins outside the village.<end_line>
+    We must move carefully.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -456,6 +582,11 @@
 			させないから！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    I said I know!<end_line>
+    I won't let this Phantom Dragon<end_line>
+    eat Murno!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -476,6 +607,11 @@
 			ミューノを助け出さなくっちゃ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Deep within the ruins is<end_line>
+    the lair of their master.<end_line>
+    We'll find Murno there!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -487,6 +623,11 @@
 		検知サレテイマス<end_line>
 		十分　気ヲツケテクダサイ<end_line>
 	</sjis>
+  <ascii>
+    I Detect A Faint Energy Source<end_line>
+    From Within The Ruins.<end_line>
+    Please Be Cautious.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -497,6 +638,10 @@
 		よくわからないけど<end_line>
 		とにかく気をつけるよ！<end_line>
 	</sjis>
+  <ascii>
+    Not sure what you mean but<three_dots><end_line>
+    Anyway, let's go!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -517,6 +662,11 @@
 			ミューノを助け出さなくっちゃ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Deep within the ruins is<end_line>
+    the lair of their master.<end_line>
+    We'll find Murno there!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -528,6 +678,11 @@
 		充満しておる<three_dots><end_line>
 		気をつけるのじゃぞ！<end_line>
 	</sjis>
+  <ascii>
+    I can feel something<end_line>
+    from within the ruins<three_dots><end_line>
+    We must be careful!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -539,6 +694,11 @@
 		よくわからないけど<three_dots><end_line>
 		とにかく気をつけるよ！<end_line>
 	</sjis>
+  <ascii>
+    Hmm, I don't really<end_line>
+    know what you mean, but<three_dots><end_line>
+    Anyway, let's go!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -559,6 +719,11 @@
 			ミューノを助け出さなくっちゃ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Deep within the ruins is<end_line>
+    the lair of their master.<end_line>
+    We'll find Murno there!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -569,6 +734,10 @@
 		遺跡内のかすかな波動<three_dots><end_line>
 		イヤな感じだ<end_line>
 	</sjis>
+  <ascii>
+    This faint feeling I'm getting<three_dots><end_line>
+    I don't like it.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -579,6 +748,10 @@
 		いつにもましてキゲンが悪いなぁ<three_dots><end_line>
 		とにかく気をつけよう<end_line>
 	</sjis>
+  <ascii>
+    You're in a worse mood than usual<three_dots><end_line>
+    Anyway, let's go!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -598,6 +771,11 @@
 			ミューノを助け出さなくっちゃ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Deep within the ruins is<end_line>
+    the lair of their master.<end_line>
+    We'll find Murno there!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -608,6 +786,11 @@
 		イヤな予感がしますわ<three_dots><end_line>
 		気をつけてくださいね<end_line>
 	</sjis>
+  <ascii>
+    This strange sensation<three_dots><end_line>
+    I have a bad feeling about this<three_dots><end_line>
+    Please be careful.<end_line>
+  </ascii> 
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -617,6 +800,10 @@
 		そういう予感は<end_line>
 		当たらないといいけど<three_dots><end_line>
 	</sjis>
+  <ascii>
+    I hope it's just<end_line>
+    your imagination<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -637,6 +824,11 @@
 			ミューノを助け出さなくっちゃ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Deep within the ruins is<end_line>
+    the lair of their master.<end_line>
+    We'll find Murno there!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -648,6 +840,11 @@
 		マタ発生スルカモシレマセン<end_line>
 		十分　気ヲツケテクダサイ<end_line>
 	</sjis>
+  <ascii>
+    The Phenomena That Caused Tier<end_line>
+    To Appear Earlier May Reoccur.<end_line>
+    Please Be Cautious.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -668,6 +865,11 @@
 			わかんないけどね<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Well I don't know how it works,<end_line>
+    so how am I supposed<end_line>
+    to avoid it!?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -688,6 +890,11 @@
 			ミューノを助け出さなくっちゃ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Deep within the ruins is<end_line>
+    the lair of their master.<end_line>
+    We'll find Murno there!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -699,6 +906,11 @@
 		また起きるやもしれん<end_line>
 		十分気をつけるのじゃぞ<end_line>
 	</sjis>
+  <ascii>
+    Whatever caused Tier to<end_line>
+    show up may happen again.<end_line>
+    Tread carefully.<end_line>
+  </ascii> 
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -717,6 +929,10 @@
 			どう気をつければいいのよ<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    You said that wasn't human so<three_dots><end_line>
+    I have no idea what to do<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -728,6 +944,11 @@
 		幽霊の正体見たり、枯れ尾花<end_line>
 		じゃよ<end_line>
 	</sjis>
+  <ascii>
+    Do not display fear. Ghosts,<end_line>
+    when examined closely,<end_line>
+    are nothing more than thin air.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -748,6 +969,11 @@
 			ミューノを助け出さなくっちゃ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Deep within the ruins is<end_line>
+    the lair of their master.<end_line>
+    We'll find Murno there!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -758,6 +984,10 @@
 		さっきのティエの様なヤツが<end_line>
 		また出るかもしれんな<three_dots><end_line>
 	</sjis>
+  <ascii>
+    That thing that looked like<end_line>
+    Tier might show up again<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -776,6 +1006,10 @@
 			どうすればいいのよ<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    You said that wasn't human so<three_dots><end_line>
+    I have no idea what to do<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -786,6 +1020,10 @@
 		どうもこうもない<end_line>
 		消すだけだ<end_line>
 	</sjis>
+  <ascii>
+    That should be obvious.<end_line>
+    Erase it.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -805,6 +1043,11 @@
 			ミューノを助け出さなくっちゃ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Deep within the ruins is<end_line>
+    the lair of their master.<end_line>
+    We'll find Murno there!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -815,6 +1058,11 @@
 		出るかもしれませんね<three_dots><end_line>
 		気をつけないと<three_dots><end_line>
 	</sjis>
+  <ascii>
+    That thing that looked like Tier<end_line>
+    may appear again<three_dots><end_line>
+    We must be careful<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -834,6 +1082,11 @@
 			勇気だして行こう！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    I still don't know what it is,<end_line>
+    but for now we're doing fine.<end_line>
+    We'll face it head on!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -843,6 +1096,10 @@
 		そんな、大丈夫ですわ！<end_line>
 		コワくなんてないですから！<end_line>
 	</sjis>
+  <ascii>
+    Right, we're just fine!<end_line>
+    As I am not frightened at all!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -853,6 +1110,10 @@
 		どうしてこんなところで<end_line>
 		親方の声が<three_dots>？<end_line>
 	</sjis>
+  <ascii>
+    Why am I hearing<end_line>
+    Masters voice here<three_dots>?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -864,6 +1125,11 @@
 		せんさーニ　カスカナ乱レガ<end_line>
 		発生シテイマス<end_line>
 	</sjis>
+  <ascii>
+    Source Cannot Be Determined<three_dots><end_line>
+    There Is A Slight Disturbance<end_line>
+    In My Sensors.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -882,6 +1148,10 @@
 			たしかめに行ってみよう<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Anyway<three_dots><end_line>
+    No choice but to check it out.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -892,6 +1162,10 @@
 		どうしてこんなところで<end_line>
 		親方の声が<three_dots>？<end_line>
 	</sjis>
+  <ascii>
+    Why am I hearing<end_line>
+    Masters voice here<three_dots>?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -901,6 +1175,9 @@
 	<sjis>
 		たしかめてみるかの？<end_line>
 	</sjis>
+  <ascii>
+    Shall we find out?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -911,6 +1188,10 @@
 		どうしてこんなところで<end_line>
 		親方の声が<three_dots>？<end_line>
 	</sjis>
+  <ascii>
+    Why am I hearing<end_line>
+    Masters voice here<three_dots>?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -920,6 +1201,9 @@
 	<sjis>
 		この感じ、また<three_dots><end_line>
 	</sjis>
+  <ascii>
+    This again<three_dots>?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -929,6 +1213,9 @@
 	<sjis>
 		とにかく行ってみよう<end_line>
 	</sjis>
+  <ascii>
+    Let's have a look.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -938,6 +1225,10 @@
 		どうしてこんなところで<end_line>
 		親方の声が<three_dots>？<end_line>
 	</sjis>
+  <ascii>
+    Why am I hearing<end_line>
+    Masters voice here<three_dots>?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -946,6 +1237,9 @@
 	<sjis>
 		どどどどどうしてでしょうか？<end_line>
 	</sjis>
+  <ascii>
+    W-w-w-what do we do?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -963,6 +1257,10 @@
 			とりあえず、行ってみよう<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    That's what I want to know<three_dots><end_line>
+    Well, let's check it out.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -983,6 +1281,11 @@
 			ミューノを助け出さなくっちゃ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Deep within the ruins is<end_line>
+    the lair of their master.<end_line>
+    We'll find Murno there!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -994,6 +1297,11 @@
 		遺跡内デ検知サレテイル　えねるぎーガ<end_line>
 		関係シテイルト　思ワレマスガ<three_dots><end_line>
 	</sjis>
+  <ascii>
+    The Appreance Of Tier, Brother,<end_line>
+    And Master Must Be Related To<end_line>
+    The Ruin's Energy. However<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1004,6 +1312,10 @@
 		まだ何かあるかもしれない<three_dots><end_line>
 		けど、進まなくちゃ！<end_line>
 	</sjis>
+  <ascii>
+    That's not all there is to it<three_dots><end_line>
+    But we have to keep going!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1024,6 +1336,11 @@
 			ミューノを助け出さなくっちゃ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Deep within the ruins is<end_line>
+    the lair of their master.<end_line>
+    We'll find Murno there!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1035,6 +1352,11 @@
 		遺跡内のイヤな気と関係あることは<end_line>
 		たしかじゃと思うのじゃが<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Tier, Brother, and Master<three_dots><end_line>
+    Their appearance must be related to<end_line>
+    these ruins somehow, but<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1053,6 +1375,10 @@
 			でも、進まなくちゃ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    That's not all there is to it<three_dots><end_line>
+    But we have to keep going!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1073,6 +1399,11 @@
 			ミューノを助け出さなくっちゃ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Deep within the ruins is<end_line>
+    the lair of their master.<end_line>
+    We'll find Murno there!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1084,6 +1415,11 @@
 		ここまでくると次はどいつが出てくるか<end_line>
 		楽しみだな<end_line>
 	</sjis>
+  <ascii>
+    Hmph<three_dots><end_line>
+    I wonder who's going<end_line>
+    to show up next.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1100,6 +1436,9 @@
 			弱そうな人だといいけど<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Hopefully not someone too strong<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1119,6 +1458,11 @@
 			ミューノを助け出さなくっちゃ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Deep within the ruins is<end_line>
+    the lair of their master.<end_line>
+    We'll find Murno there!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1129,6 +1473,11 @@
 		ビックリしませんわ！<end_line>
 		急ぎましょう！<end_line>
 	</sjis>
+  <ascii>
+    I am ready for<end_line>
+    whoever comes next!<end_line>
+    Let's hurry!<end_line>
+  </ascii> 
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1146,6 +1495,10 @@
 			どんとこいって感じ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Right!<end_line>
+    Keep 'em coming!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1164,6 +1517,10 @@
 			本物のミューノは<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    There's so many fakes!<end_line>
+    The real Murno is<three_dots><end_line>
+  </ascii> 
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1175,6 +1532,11 @@
 		急ガナイト　みゅーの様ガ<end_line>
 		召喚獣ノ　エサニ<three_dots>！<end_line>
 	</sjis>
+  <ascii>
+    At The Bottom Of The Ruins!<end_line>
+    If We Do Not Hurry,<end_line>
+    Lady Murno Will<three_dots>!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1185,6 +1547,10 @@
 		そんなこと絶対に<end_line>
 		させるもんか！<end_line>
 	</sjis>
+  <ascii>
+    I won't let<end_line>
+    that happen!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1203,6 +1569,10 @@
 			本物のミューノは<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    There's so many fakes!<end_line>
+    The real Murno is<three_dots><end_line>
+  </ascii> 
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1214,6 +1584,11 @@
 		早くせんとミューノがヌシと呼ばれる<end_line>
 		召喚獣のエサに<three_dots>！<end_line>
 	</sjis>
+  <ascii>
+    At the lowest point in the ruins!<end_line>
+    If we do not hurry,<end_line>
+    Murno might be<three_dots>!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1224,6 +1599,10 @@
 		そんなこと絶対に<end_line>
 		させるもんか！<end_line>
 	</sjis>
+  <ascii>
+    I won't let<end_line>
+    that happen!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1242,6 +1621,10 @@
 			本物のミューノは<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    There's so many fakes!<end_line>
+    The real Murno is<three_dots><end_line>
+  </ascii> 
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1253,6 +1636,11 @@
 		早くしないとヌシとかいう<end_line>
 		召喚獣のエサにされてしまうぞ！<end_line>
 	</sjis>
+  <ascii>
+    In the ruins' deepest point!<end_line>
+    Hurry, or we'll see Murno<end_line>
+    be eaten by a Summon Beast!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1263,6 +1651,10 @@
 		そんなこと絶対に<end_line>
 		させるもんか！<end_line>
 	</sjis>
+  <ascii>
+    I won't let<end_line>
+    that happen!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1280,6 +1672,10 @@
 			本物のミューノは<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    There's so many fakes!<end_line>
+    The real Murno is<three_dots><end_line>
+  </ascii> 
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1290,6 +1686,11 @@
 		早くしないとヌシさまという召喚獣の<end_line>
 		エサにされてしまいますわ！<end_line>
 	</sjis>
+  <ascii>
+    In the deepest part of the ruins!<end_line>
+    We must be quick, or Lady Murno<end_line>
+    will be eaten by a Summon Beast!<end_line>
+  </ascii>  
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1299,4 +1700,8 @@
 		そんなこと絶対に<end_line>
 		させるもんか！<end_line>
 	</sjis>
+  <ascii>
+    I won't let<end_line>
+    that happen!<end_line>
+  </ascii>
 </dialogue>
