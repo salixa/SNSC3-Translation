@@ -13,6 +13,9 @@
 			いよいよトラムとの勝負だね<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    It's time for our match with Tram.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -23,6 +26,10 @@
 		勝利シテクダサイ<end_line>
 		みゅーの様ノタメニ<end_line>
 	</sjis>
+  <ascii>
+    Please Win.<end_line>
+    For Lady Murno's Sake.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -34,12 +41,20 @@
 			おう！<end_line>
 			行くぜ！<end_line>
 		</sjis>
+    <ascii>
+      Yeah!<end_line>
+      Let's go!<end_line>
+    </ascii>
 	</male>
 	<female>
 		<sjis>
 			うん！<end_line>
 			行こう！<end_line>
 		</sjis>
+    <ascii>
+      I will!<end_line>
+      Let's go!<end_line>
+    </ascii>
 	</female>
 </dialogue>
 <dialogue>
@@ -57,6 +72,9 @@
 			いよいよトラムとの勝負だね<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    It's time for our match with Tram.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -68,6 +86,11 @@
 		この勝負必ず勝つと<end_line>
 		ワガハイのマゲに誓うのじゃ！<end_line>
 	</sjis>
+  <ascii>
+    Say it with me!<end_line>
+    I swear upon my topknot,<end_line>
+    we will win this match! For Murno!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -79,6 +102,10 @@
 			おう！<end_line>
 			誓うぜ！<end_line>
 		</sjis>
+    <ascii>
+      Yeah!<end_line>
+      I swear!<end_line>
+    </ascii>
 	</male>
 	<female>
 		<sjis>
@@ -86,6 +113,10 @@
 			誓うわ！<end_line>
 		</sjis>
 	</female>
+    <ascii>
+      I will!<end_line>
+      I swear!<end_line>
+    </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -102,6 +133,9 @@
 			いよいよトラムとの勝負だね<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    It's time for our match with Tram.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -112,6 +146,10 @@
 		メンドウなことにならないように<end_line>
 		必ず勝て<end_line>
 	</sjis>
+  <ascii>
+    It'll be trouble some if<end_line>
+    you don't win this.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -130,6 +168,10 @@
 			がんばるよ<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    For Murno, right? I know, I know.<end_line>
+    I'll do my best.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -145,6 +187,9 @@
 			いよいよトラムとの勝負だね<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    It's time for our match with Tram.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -154,6 +199,10 @@
 		絶対に勝ってくださいね<end_line>
 		ミューノ様のためにも！<end_line>
 	</sjis>
+  <ascii>
+    You must win!<end_line>
+    Lady Murno is counting on you!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -164,6 +213,10 @@
 			おう！<end_line>
 			行くぜ！<end_line>
 		</sjis>
+    <ascii>
+      Yeah!<end_line>
+      Let's go!<end_line>
+    </ascii>
 	</male>
 	<female>
 		<sjis>
@@ -171,6 +224,10 @@
 			行こう！<end_line>
 		</sjis>
 	</female>
+    <ascii>
+      I will!<end_line>
+      Let's go!<end_line>
+    </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -191,6 +248,11 @@
 			みんな待ってるよ<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Everyone's waiting at the<end_line>
+    plaza in front of the ruins.<end_line>
+    I have to make sure I'm ready.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -202,6 +264,11 @@
 		許可ヲ　得ルタメニ<end_line>
 		遺跡ノ中デ　勝負スルヨウデスガ<three_dots><end_line>
 	</sjis>
+  <ascii>
+    In Order To Obtain A Chance To<end_line>
+    See The Crystal Pillar In The Ruins,<end_line>
+    You Must Fight<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -220,6 +287,10 @@
 			細かいことは気にしちゃダメ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Well, that was decided for us.<end_line>
+    Nothing we can do about it now!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -240,6 +311,11 @@
 			みんな待ってるよ<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Everyone's waiting at the<end_line>
+    plaza in front of the ruins.<end_line>
+    I have to make sure I'm ready.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -251,6 +327,11 @@
 		見るために、遺跡の中で勝負をする<end_line>
 		ということになっておる様じゃが<three_dots><end_line>
 	</sjis>
+  <ascii>
+    We fight within the ruins,<end_line>
+    so that we may see the<end_line>
+    Crystal Pillar further within<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -269,6 +350,10 @@
 			細かいことは気にしちゃダメ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Well, that was decided for us.<end_line>
+    Nothing we can do about it now!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -289,6 +374,11 @@
 			みんな待ってるよ<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Everyone's waiting at the<end_line>
+    plaza in front of the ruins.<end_line>
+    I have to make sure I'm ready.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -300,6 +390,11 @@
 		遺跡の中の魔晶柱を見るために<end_line>
 		遺跡の中で勝負するようだぞ<end_line>
 	</sjis>
+  <ascii>
+    Have you noticed?<end_line>
+    We are forced to fight in the ruins,<end_line>
+    to view the Pillar within it.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -318,6 +413,10 @@
 			細かいことは気にしちゃダメ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Well, that was decided for us.<end_line>
+    Nothing we can do about it now!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -337,6 +436,11 @@
 			みんな待ってるよ<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Everyone's waiting at the<end_line>
+    plaza in front of the ruins.<end_line>
+    I have to make sure I'm ready.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -347,6 +451,11 @@
 		なんですよね<three_dots><end_line>
 		ミューノ様の調べたい魔晶柱も<three_dots><end_line>
 	</sjis>
+  <ascii>
+    How odd<three_dots> I believe this<end_line>
+    Room of Judgment is in the ruins<three_dots><end_line>
+    As well as the Crystal Pillar<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -364,6 +473,10 @@
 			細かいことは気にしちゃダメ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Well, that was decided for us.<end_line>
+    Nothing we can do about it now!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -374,6 +487,10 @@
 		グマグの炎遺跡にある<end_line>
 		裁きの間に<three_dots><end_line>
 	</sjis>
+  <ascii>
+    The Room of Judgment<end_line>
+    within the Gumag Flame Ruins<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -384,6 +501,10 @@
 		話シテイル場合デハ　アリマセン<end_line>
 		みゅーの様ヲ　追イカケマス<end_line>
 	</sjis>
+  <ascii>
+    Now Is Not The Time For Idle Talk.<end_line>
+    We Must Pursue Lady Murno.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -400,6 +521,9 @@
 			う、うん<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    R-right.<end_line>
+  </ascii> 
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -410,6 +534,10 @@
 		グマグの炎遺跡にある<end_line>
 		裁きの間に<three_dots><end_line>
 	</sjis>
+  <ascii>
+    The Room of Judgment<end_line>
+    within the Gumag Flame Ruins<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -420,6 +548,10 @@
 		何をしておる！<end_line>
 		早くミューノを追いかけるぞ！<end_line>
 	</sjis>
+  <ascii>
+    What are you doing!<end_line>
+    We must go after Murno!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -436,6 +568,9 @@
 			う、うん<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    R-right.<end_line>
+  </ascii> 
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -446,6 +581,10 @@
 		グマグの炎遺跡にある<end_line>
 		裁きの間に<three_dots><end_line>
 	</sjis>
+  <ascii>
+    The Room of Judgment<end_line>
+    within the Gumag Flame Ruins<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -456,6 +595,10 @@
 		グズグズするな！<end_line>
 		おいていくぞ<end_line>
 	</sjis>
+  <ascii>
+    Quick wasting time!<end_line>
+    After them!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -474,6 +617,10 @@
 			やっぱちがうなぁ<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    He really is different<end_line>
+    when it comes to Murno<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -483,6 +630,10 @@
 		グマグの炎遺跡にある<end_line>
 		裁きの間に<three_dots><end_line>
 	</sjis>
+  <ascii>
+    The Room of Judgment<end_line>
+    within the Gumag Flame Ruins<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -492,6 +643,10 @@
 		何をしてるんですの？<end_line>
 		早くミューノ様を追いかけないと！<end_line>
 	</sjis>
+  <ascii>
+    What are you doing?<end_line>
+    We must not fall behind!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -507,6 +662,9 @@
 			う、うん<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    R-right.<end_line>
+  </ascii> 
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -527,6 +685,11 @@
 			<partner>、大丈夫？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Do we really have to go in there?<end_line>
+    Those ruins are ridiculously hot<three_dots><end_line>
+    <partner>, how are you doing?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -538,6 +701,11 @@
 		問題アリマセンガ<end_line>
 		装甲ノ表面温度ガ　高クナリマス<end_line>
 	</sjis>
+  <ascii>
+    Internal Cooling System Is<end_line>
+    Operating At Maximum Efficiency.<end_line>
+    However, Surface Temperature Is Up.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -547,6 +715,9 @@
 	<sjis>
 		私ニ触ルト　ヤケドシマスヨ<end_line>
 	</sjis>
+  <ascii>
+    You May Be Burnt If You Touch Me.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -557,6 +728,10 @@
 		な、なんか<end_line>
 		カッコイイ<three_dots><end_line>
 	</sjis>
+  <ascii>
+    W-wow.<end_line>
+    That's kinda awesome<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -577,6 +752,11 @@
 			<partner>、大丈夫？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Do we really have to go in there?<end_line>
+    Those ruins are ridiculously hot<three_dots><end_line>
+    <partner>, how are you doing?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -588,6 +768,11 @@
 		と言っての、ワガハイほどになれば<end_line>
 		この程度の暑さなど気にならんのじゃ<end_line>
 	</sjis>
+  <ascii>
+    With proper mental training,<end_line>
+    heat and cold are one and the same.<end_line>
+    I do not notice.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -608,6 +793,11 @@
 			暑いのには弱いかと思った<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Huh, that's cool.<end_line>
+    You're really hairy,<end_line>
+    so I thought you'd be weak to heat.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -617,6 +807,9 @@
 	<sjis>
 		も<three_dots>モサモサじゃと！<end_line>
 	</sjis>
+  <ascii>
+    H<three_dots> Hairy, you say!?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -637,6 +830,11 @@
 			<partner>、大丈夫？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Do we really have to go in there?<end_line>
+    Those ruins are ridiculously hot<three_dots><end_line>
+    <partner>, how are you doing?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -648,6 +846,11 @@
 		<three_dots><three_dots><three_dots><end_line>
 		<three_dots><three_dots><three_dots><three_dots><three_dots><three_dots><three_dots><three_dots><three_dots><end_line>
 	</sjis>
+  <ascii>
+		<three_dots><end_line>
+		<three_dots><three_dots><three_dots><end_line>
+		<three_dots><three_dots><three_dots><three_dots><three_dots><three_dots><three_dots><three_dots><three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -666,6 +869,10 @@
 			あなた、ホントに大丈夫？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Umm, <partner><three_dots>?<end_line>
+    Are you okay?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -677,6 +884,11 @@
 		ただでさえ暑いんだ<three_dots><end_line>
 		それ以上さわるな<end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+    It's already way too hot<three_dots><end_line>
+    Stop bothering<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -687,6 +899,10 @@
 		（コ<three_dots>、コワ～<three_dots><end_line>
 		　こっちはすずしくなったよ）<end_line>
 	</sjis>
+  <ascii>
+    (S<three_dots> Scary<three_dots><end_line>
+    Now I'm chilled to the bone<three_dots>)<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -706,6 +922,11 @@
 			<partner>、大丈夫？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Do we really have to go in there?<end_line>
+    Those ruins are ridiculously hot<three_dots><end_line>
+    <partner>, how are you doing?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -716,6 +937,11 @@
 		大丈夫ですわ<end_line>
 		いざとなったら脱ぎますから<end_line>
 	</sjis>
+  <ascii>
+    It is incredibly uncomfortable,<end_line>
+    but I am fine.<end_line>
+    I can always take something off.<end_line>
+  </ascii>
 </dialogue>
 <bigtext>
 	<partner name="rufeel">
@@ -724,6 +950,9 @@
 	<sjis>
 		脱ぐ？　何を！？<end_line>
 	</sjis>
+  <ascii>
+    Take something off? You mean<three_dots>!?<end_line>
+  </ascii>
 </bigtext>
 <dialogue>
 	<partner name="rufeel">
@@ -733,6 +962,10 @@
 		帽子ですけど<three_dots>？<end_line>
 		ダメなんですか？<end_line>
 	</sjis>
+  <ascii>
+    My hat<three_dots>?<end_line>
+    Am I not allowed to?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -741,6 +974,9 @@
 	<sjis>
 		ああ、いや、いいよ、全然<end_line>
 	</sjis>
+  <ascii>
+    Ah, uhh, no, that's fine.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -761,6 +997,11 @@
 			シッカリ装備して行かなきゃ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Time for my one on one with Tram!<end_line>
+    Gotta make sure I've got<end_line>
+    my best weapon ready to go!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -771,6 +1012,10 @@
 		ガンバッテクダサイ<end_line>
 		ぱーとなー<end_line>
 	</sjis>
+  <ascii>
+    Do Your Best,<end_line>
+    Partner.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -791,6 +1036,11 @@
 			絶対に勝つよ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Yeah!<end_line>
+    With you cheering me on,<end_line>
+    I'm sure to win!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -811,6 +1061,11 @@
 			シッカリ装備して行かなきゃ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Time for my one on one with Tram!<end_line>
+    Gotta make sure I've got<end_line>
+    my best weapon ready to go!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -822,6 +1077,11 @@
 		おぬしを応援することぐらいじゃが<end_line>
 		がんばるのじゃぞ！<end_line>
 	</sjis>
+  <ascii>
+    All I can do now is<end_line>
+    to urge you onwards.<end_line>
+    Do your best!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -842,6 +1102,11 @@
 			絶対に勝つよ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Yeah!<end_line>
+    With you cheering me on,<end_line>
+    I'm sure to win!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -862,6 +1127,11 @@
 			シッカリ装備して行かなきゃ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Time for my one on one with Tram!<end_line>
+    Gotta make sure I've got<end_line>
+    my best weapon ready to go!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -873,6 +1143,11 @@
 		ここでキサマが負けたとしても<end_line>
 		私がヤツらをたおせばどうとでもなる<end_line>
 	</sjis>
+  <ascii>
+    We're almost there.<end_line>
+    If you do lose, I'll<end_line>
+    just take him out myself.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -882,6 +1157,9 @@
 	<sjis>
 		適当にサッサと終わらせろ<end_line>
 	</sjis>
+  <ascii>
+    So do whatever you want.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -902,6 +1180,11 @@
 			思いたい！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    What you're saying is disturbing,<end_line>
+    so I'll just take it as your<end_line>
+    way of worrying about me!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -921,6 +1204,11 @@
 			シッカリ装備して行かなきゃ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Time for my one on one with Tram!<end_line>
+    Gotta make sure I've got<end_line>
+    my best weapon ready to go!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -931,6 +1219,11 @@
 		ムチャなことだけは<end_line>
 		絶対しないでくださいね！<end_line>
 	</sjis>
+  <ascii>
+    I would like you to do your best,<end_line>
+    but remember not to<end_line>
+    push yourself too hard!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -948,6 +1241,10 @@
 			ありがとう、わかった<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Ah, right.<end_line>
+    Thanks, I got it.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -959,6 +1256,11 @@
 		魔晶柱ノアル場所ヘ　向カイマシタ<end_line>
 		追イカケマショウ！<end_line>
 	</sjis>
+  <ascii>
+    Lady Murno Is Going Deeper Into<end_line>
+    The Ruins, Where The Pillar Is.<end_line>
+    Let's Follow!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -979,6 +1281,11 @@
 			ジャマになったりしないかな<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    I'm all for it, but really,<end_line>
+    won't we just be getting<end_line>
+    in the way if we do<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -988,6 +1295,9 @@
 	<sjis>
 		<three_dots><end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -998,6 +1308,10 @@
 		わ、わかった！<end_line>
 		急いで行こう！<end_line>
 	</sjis>
+  <ascii>
+    Okay, okay!<end_line>
+    Let's go then!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1009,6 +1323,11 @@
 		奇妙な魔晶柱を見に行ったぞ<end_line>
 		我らも急ぐのじゃ！<end_line>
 	</sjis>
+  <ascii>
+    Lady Murno Is Going Deeper Into<end_line>
+    The Ruins, Where The Pillar Is.<end_line>
+    Let's Follow!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1029,6 +1348,11 @@
 			ジャマになったりしないかな<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    I'm all for it, but really,<end_line>
+    won't we just be getting<end_line>
+    in the way if we do<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1040,6 +1364,11 @@
 		なんじゃ？　ミューノがつれていかれて<end_line>
 		スネておるのか？<end_line>
 	</sjis>
+  <ascii>
+    What's this now?<end_line>
+    Are you pouting because<end_line>
+    you're separated from Murno?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1051,12 +1380,20 @@
 			そんなことあるか！<end_line>
 			行くぞ！<end_line>
 		</sjis>
+    <ascii>
+      O-of course not!<end_line>
+      Let's go!<end_line>
+    </ascii>
 	</male>
 	<female>
 		<sjis>
 			なに言ってるのよ！<end_line>
 			もう、行くわよ！<end_line>
 		</sjis>
+    <ascii>
+      What's that mean!?<end_line>
+      Ugh, let's just go!<end_line>
+    </ascii>
 	</female>
 </dialogue>
 <dialogue>
@@ -1069,6 +1406,11 @@
 		魔晶柱を見に行ったぞ<end_line>
 		キサマも急がなくていいのか？<end_line>
 	</sjis>
+  <ascii>
+    Murno going deeper into the ruins<end_line>
+    to see the Crystal Pillar.<end_line>
+    Aren't you going to follow her?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1089,6 +1431,11 @@
 			ジャマになったりしないかな<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Now that I think about it,<end_line>
+    won't we just be getting<end_line>
+    in the way if we do<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1098,6 +1445,9 @@
 	<sjis>
 		<three_dots>ちっ<end_line>
 	</sjis>
+  <ascii>
+    <three_dots>Tch.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1108,6 +1458,10 @@
 		ああ、ウソウソ<end_line>
 		急ごう！<end_line>
 	</sjis>
+  <ascii>
+    Uhh, nevermind!<end_line>
+    Let's go!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1118,6 +1472,11 @@
 		魔晶柱を見に行きましたわ！<end_line>
 		私たちも急ぎましょう！<end_line>
 	</sjis>
+  <ascii>
+    Lady Murno is heading deeper into<end_line>
+    the ruins to see the Pillar!<end_line>
+    We must follow her!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1137,6 +1496,11 @@
 			ジャマになったりしないかな<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    I'm all for it, but really,<end_line>
+    won't we just be getting<end_line>
+    in the way if we do<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1147,6 +1511,11 @@
 		<player_nickname>さんはジャマなくらいで<end_line>
 		ちょうどいいんですよ！<end_line>
 	</sjis>
+  <ascii>
+    Why are you backing down now?<end_line>
+    Being bothersome is what<end_line>
+    you're best at!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1157,12 +1526,20 @@
 			うっわ！<end_line>
 			ヒデェ！<end_line>
 		</sjis>
+    <ascii>
+      Uwah!<end_line>
+      That hurts!<end_line>
+    </ascii>
 	</male>
 	<female>
 		<sjis>
 			なにそれ！<end_line>
 			ひっどーい！<end_line>
 		</sjis>
+    <ascii>
+      What!?<end_line>
+      You're terrible!<end_line>
+    </ascii>
 	</female>
 </dialogue>
 <dialogue>
@@ -1184,6 +1561,11 @@
 			やってたんだね<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Anise and her goons<end_line>
+    are really terrible<end_line>
+    aren't they<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1195,6 +1577,11 @@
 		みゅーの様ヲ　守ラナケレバ<end_line>
 		ナラナイノデス<end_line>
 	</sjis>
+  <ascii>
+    We Must Protect<end_line>
+    Lady Murno From<end_line>
+    Those People.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1215,6 +1602,11 @@
 			魔晶柱を調べに行こう<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Right<three_dots><end_line>
+    For now we still need to find<end_line>
+    the Crystal Pillar in the ruins.<end_line>
+  </ascii> 
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1235,6 +1627,11 @@
 			やってたんだね<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Anise and her goons<end_line>
+    are really terrible<end_line>
+    aren't they<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1246,6 +1643,11 @@
 		その連中からミューノを守るのが<end_line>
 		我らの役目ぞ<end_line>
 	</sjis>
+  <ascii>
+    Don't lose focus.<end_line>
+    Remember, it is our duty to protect<end_line>
+    Murno from the likes of them.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1266,6 +1668,11 @@
 			魔晶柱を調べに行こう<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Right<three_dots><end_line>
+    For now we still need to find<end_line>
+    the Crystal Pillar in the ruins.<end_line>
+  </ascii> 
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1286,6 +1693,11 @@
 			やってたんだね<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Anise and her goons<end_line>
+    are really terrible<end_line>
+    aren't they<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1297,6 +1709,11 @@
 		その連中からミューノを守るのが<end_line>
 		キサマの役目なんだぞ<end_line>
 	</sjis>
+  <ascii>
+    Hmph<three_dots> Losing your nerve?<end_line>
+    It's your job to<end_line>
+    protect Murno, you know.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1317,6 +1734,11 @@
 			魔晶柱を調べに行こう<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Right<three_dots><end_line>
+    For now we still need to find<end_line>
+    the Crystal Pillar in the ruins.<end_line>
+  </ascii> 
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1336,6 +1758,11 @@
 			やってたんだね<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Anise and her goons<end_line>
+    are really terrible<end_line>
+    aren't they<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1346,6 +1773,11 @@
 		でも、そんな人たちからミューノ様を<end_line>
 		お守りするのが私たちの役目ですわ<end_line>
 	</sjis>
+  <ascii>
+    I agree.<end_line>
+    But that is why we are here,<end_line>
+    to protect Lady Murno.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1365,4 +1797,9 @@
 			魔晶柱を調べに行こう<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Right<three_dots><end_line>
+    For now we still need to find<end_line>
+    the Crystal Pillar in the ruins.<end_line>
+  </ascii> 
 </dialogue>
