@@ -6,10 +6,14 @@ from parseXml import validateFile
 from ElementTree import ParseError
 
 parser = argparse.ArgumentParser(description='Validate SNSC3 script files.')
-parser.add_argument('folders', type=str, nargs='+', help='Folder(s) containing XML files to validate.')
+group = parser.add_mutually_exclusive_group(required=True)
+group.add_argument('days', type=int, nargs='*', help='Index of day(s) to validate.', default=[])
+group.add_argument('--all', action='store_true')
 args = parser.parse_args()
+days = args.days
 
-num_files = 0
-for folder in args.folders:
-  for file in glob.glob('../{}/*.xml'.format(folder)):
+if args.all:
+  days = list(range(0, 12))
+for day in days:
+  for file in glob.glob('../Day {:02d}/*.xml'.format(day)):
     validateFile(file)
