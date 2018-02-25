@@ -618,7 +618,7 @@
       なったこと忘れてるの？<end_line>
     </sjis>
   </female>
-   <ascii>
+  <ascii>
     Huh!?<end_line>
     We're supposed to be<end_line>
     partners, remember?<end_line>
@@ -783,11 +783,18 @@
     <sjis>
       悪い悪い<end_line>
     </sjis>
+    <ascii>
+      Sorry, my bad.<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
       おまたせー<end_line>
     </sjis>
+    <ascii>
+      I'm back~<end_line>
+      Sorry about that.<end_line>
+    </ascii>
   </female>
 </dialogue>
 <dialogue>
