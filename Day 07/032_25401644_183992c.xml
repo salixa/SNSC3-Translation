@@ -41,8 +41,8 @@
     お守りみたいなものですよ<end_line>
   </sjis>
   <ascii>
-    It's a scale from the Master.<end_line>
-    It's like a protective charm.<end_line>
+    It's a scale from our master.<end_line>
+    Think of it as a protective charm.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -79,7 +79,7 @@
   </sjis>
   <ascii>
     See you later.<end_line>
-    Drop by whenever you like.<end_line>
+    You're welcome to come back.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -127,6 +127,10 @@
       Farewell!<end_line>
     </ascii>
   </female>
+  <ascii>
+    You too, old man<three_dots><end_line>
+    Goodbye!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -303,21 +307,17 @@
       おっちゃん<end_line>
       もしかして、泣いてるのか？<end_line>
     </sjis>
-    <ascii>
-      Old man,<end_line>
-      are you<three_dots> crying?<end_line>
-    </ascii>
   </male>
   <female>
     <sjis>
       おじさん<end_line>
       もしかして、泣いてるの？<end_line>
     </sjis>
-    <ascii>
-      Uncle,<end_line>
-      are you<three_dots> crying?<end_line>
-    </ascii>
   </female>
+  <ascii>
+    Wait,<end_line>
+    are you<three_dots> crying?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -406,7 +406,7 @@
     オレはもう行くぞ<end_line>
   </sjis>
   <ascii>
-    What are you talking about?<end_line>
-    I'm going.<end_line>
+    What are you going on about?<end_line>
+    I'm leaving.<end_line>
   </ascii>
 </dialogue>

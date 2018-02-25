@@ -79,7 +79,7 @@
     そんなことはないけど<three_dots><end_line>
   </sjis>
   <ascii>
-    No, I am, but<three_dots><end_line>
+    I am, but<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -92,7 +92,7 @@
     ちゃんとわかってる！<end_line>
   </sjis>
   <ascii>
-    Are you sure!?<end_line>
+    Really!?<end_line>
     Do you really understand<end_line>
     just how worried I was!?<end_line>
   </ascii>
@@ -109,9 +109,8 @@
     </sjis>
     <ascii>
       W-well<three_dots><end_line>
-      I guess business must be tough<end_line>
-      for Smile Inn, having lose their<end_line>
-      exclusive Craftknight<three_dots><end_line>
+      I guess losing their Craftknight<end_line>
+      would be tough for the inn<three_dots><end_line>
     </ascii>
   </male>
   <female>
@@ -122,9 +121,8 @@
     </sjis>
     <ascii>
       W-well<three_dots><end_line>
-      I guess business must be tough<end_line>
-      for Smile Inn, having one<end_line>
-      less poster girl<three_dots><end_line>
+      I guess losing a poster girl<end_line>
+      would be tough for the inn<three_dots><end_line>
     </ascii>
   </female>
 </dialogue>
@@ -168,8 +166,8 @@
   </sjis>
   <ascii>
     Don't play dumb!<end_line>
-    I was seriously worried<end_line>
-    about you!<end_line>
+    I was seriously<end_line>
+    worried about you!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -183,7 +181,7 @@
   </sjis>
   <ascii>
     I mean, you fell off a cliff<three_dots><end_line>
-    What if you<three_dots><end_line>
+    What if you had<three_dots><end_line>
     <player_nickname><three_dots><end_line>
   </ascii>
 </dialogue>
@@ -247,7 +245,7 @@
   <ascii>
     Now, turn over a new leaf.<end_line>
     Think more seriously<end_line>
-    about our future.<end_line>
+    about our future together.<end_line>
   </ascii>
 </dialogue>
 <dialogue>

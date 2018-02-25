@@ -9,7 +9,7 @@
     </sjis>
     <ascii>
       Ah, you were right!<end_line>
-      Brother <player_nickname><end_line>
+      Brother <player_nickname>!<end_line>
       Sister Murno!<end_line>
     </ascii>
   </male>
@@ -21,7 +21,7 @@
     </sjis>
     <ascii>
       Ah, you were right!<end_line>
-      Sister <player_nickname><end_line>
+      Sister <player_nickname>!<end_line>
       Sister Murno!<end_line>
     </ascii>
   </female>
@@ -174,7 +174,8 @@
     少しヘンだったぞ<end_line>
   </sjis>
   <ascii>
-    That reminds me, Lemmy seems to be<end_line>
+    That reminds me,<end_line>
+    Lemmy seems to be<end_line>
     acting a bit strange.<end_line>
   </ascii>
 </dialogue>

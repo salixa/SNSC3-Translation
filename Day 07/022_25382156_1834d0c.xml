@@ -8,7 +8,7 @@
   </sjis>
   <ascii>
     Well?<end_line>
-    Did you learn anything?<end_line>
+    Figure anything out?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -21,8 +21,8 @@
     同じなのかしら<three_dots>？<end_line>
   </sjis>
   <ascii>
-    This Demon Crystal Pillar<three_dots><end_line>
-    Like I thought, could this be the<end_line>
+    This Crystal Pillar<three_dots><end_line>
+    Like I thought, maybe it's the<end_line>
     same as the one in my village<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -108,7 +108,7 @@
     魔石に、何か<three_dots><end_line>
   </sjis>
   <ascii>
-    The Demon Stone, Something Is<three_dots><end_line>
+    The Demon Stone, something is<three_dots><end_line>
   </ascii>
 </dialogue>
 <bigtext>

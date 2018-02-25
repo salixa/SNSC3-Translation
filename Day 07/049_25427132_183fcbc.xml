@@ -18,9 +18,9 @@
     つもりだった？<end_line>
   </sjis>
   <ascii>
-    What's up?<end_line>
-    Are you going to sneak out<end_line>
-    of town again?<end_line>
+    What are you up to?<end_line>
+    Are you going to sneak<end_line>
+    out of town again?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -68,7 +68,7 @@
   </sjis>
   <ascii>
     I'm sure Anise and the others<end_line>
-    are still here, hiding.<end_line>
+    are still out there, hiding.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -82,8 +82,8 @@
   </sjis>
   <ascii>
     Hmm<three_dots><end_line>
-    Seems like you're determined to<end_line>
-    make them the bad guys.<end_line>
+    Seems like you're determined<end_line>
+    to cast the blame on them.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -105,7 +105,7 @@
     </sjis>
   </female>
   <ascii>
-    You too. Do you still think<end_line>
+    Do you still think<end_line>
     they're on our side?<end_line>
     Did Bostaph say that!?<end_line>
   </ascii>
@@ -120,7 +120,7 @@
   </sjis>
   <ascii>
     That's<three_dots><end_line>
-    I still haven't talked to Master<three_dots><end_line>
+    I haven't talked to Master yet<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -182,7 +182,7 @@
     きっとその時にハッキリするよ<end_line>
   </sjis>
   <ascii>
-    We're all having a meeting<end_line>
+    We're having a meeting<end_line>
     tomorrow, right?<end_line>
     It'll all become clear then.<end_line>
   </ascii>
@@ -209,4 +209,7 @@
   <sjis>
     <three_dots><end_line>
   </sjis>
+  <ascii>
+    <three_dots><end_line>
+  </ascii>
 </dialogue>

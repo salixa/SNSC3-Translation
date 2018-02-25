@@ -77,7 +77,7 @@
     サケタホウガ良イト　思ワレマス<end_line>
   </sjis>
   <ascii>
-    Anise's People Are Still A Concern.<end_line>
+    Anise Is Still A Concern.<end_line>
     We Should Not Be Approaching<end_line>
     The Village So Carelessly.<end_line>
   </ascii>
@@ -132,8 +132,9 @@
     何とかしなくてはならんぞ<end_line>
   </sjis>
   <ascii>
-    Before that, we have to do something<end_line>
-    about Anise and the others.<end_line>
+    Before that,<end_line>
+    we have to do something<end_line>
+    about Anise.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -254,7 +255,7 @@
   </sjis>
   <ascii>
     Right<three_dots><end_line>
-    Anise knows where <end_line>
+    Anise knows where<end_line>
     Mishus Village is too<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -267,8 +268,8 @@
     心配していると思うわ<end_line>
   </sjis>
   <ascii>
-    And I'm sure V.E and the others<end_line>
-    are worried.<end_line>
+    And I'm sure Vee and<end_line>
+    the others are worried.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -305,7 +306,7 @@
     でも、このままってワケには<three_dots><end_line>
   </sjis>
   <ascii>
-    But staying like this is<three_dots><end_line>
+    But staying here is<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -331,8 +332,7 @@
   <ascii>
     How about this<three_dots><end_line>
     For now, let's head to the village.<end_line>
-    We'll think about it once we<end_line>
-    get closer.<end_line>
+    We'll think about the rest later.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -614,8 +614,7 @@
     あまりほめてはいないですけど<end_line>
   </sjis>
   <ascii>
-    I'm not actually praising<end_line>
-    you though.<end_line>
+    I'm really not, though.<end_line>
   </ascii>
 </dialogue>
 <dialogue>

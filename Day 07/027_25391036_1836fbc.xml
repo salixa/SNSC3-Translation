@@ -5,7 +5,7 @@
     よし、こわれた！<end_line>
   </sjis>
   <ascii>
-    Alright, it broke!<end_line>
+    Alright, got it!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -16,7 +16,7 @@
     早く行くぞ！<end_line>
   </sjis>
   <ascii>
-    We've been delayed too long.<end_line>
+    We've wasting time.<end_line>
     Let's hurry!<end_line>
   </ascii>
 </dialogue>
@@ -79,7 +79,7 @@
   <ascii>
     Ha!<end_line>
     Such a closed-minded personality.<end_line>
-    Did you get it from you owner?<end_line>
+    Did you get it from your owner?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -139,8 +139,8 @@
   </sjis>
   <ascii>
     Of course.<end_line>
-    Believing you after all this<end_line>
-    is impossible.<end_line>
+    Trusting you after all<end_line>
+    this would be foolish.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -156,7 +156,7 @@
   <ascii>
     Ha!<end_line>
     Such a closed-minded personality.<end_line>
-    Did you get it from you owner?<end_line>
+    Did you get it from your owner?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -184,7 +184,7 @@
   </sjis>
   <ascii>
     You say that but,<end_line>
-    aren't you planning one escaping?<end_line>
+    aren't you planning on escaping?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -231,7 +231,7 @@
   <ascii>
     Ha!<end_line>
     Such a closed-minded personality.<end_line>
-    Did you get it from you owner?<end_line>
+    Did you get it from your owner?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -290,8 +290,8 @@
   </sjis>
   <ascii>
     Of course!<end_line>
-    Have you forgotten everything<end_line>
-    you've done!?<end_line>
+    Have you forgotten<end_line>
+    everything you've done!?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -307,7 +307,7 @@
   <ascii>
     Ha!<end_line>
     Such a closed-minded personality.<end_line>
-    Did you get it from you owner?<end_line>
+    Did you get it from your owner?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -368,8 +368,7 @@
   </sjis>
   <ascii>
     Don't touch me!<end_line>
-    As if I'd let that man's<end_line>
-    apprentice<three_dots>!<end_line>
+    As if I'd let his apprentice<three_dots>!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -384,8 +383,8 @@
   </sjis>
   <ascii>
     About that<three_dots><end_line>
-    I'll be asking for all the details<end_line>
-    after I speak with Chief Rob<three_dots><end_line>
+    I'll have to ask you about<end_line>
+    what happened with Rob later.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -412,8 +411,8 @@
   </sjis>
   <ascii>
     About that<three_dots><end_line>
-    I'll be asking for all the details<end_line>
-    after I speak with Chief Rob<three_dots><end_line>
+    I'll have to ask you about<end_line>
+    what happened with Rob later.<end_line>
   </ascii>
 </dialogue>
 <dialogue>

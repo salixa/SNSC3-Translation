@@ -29,7 +29,7 @@
   </female>
   <ascii>
     We never get lost,<end_line>
-    right,<partner><end_line>
+    right, <partner>?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -66,7 +66,7 @@
     なってたまるか<end_line>
   </sjis>
   <ascii>
-    'Cause I'm with here.<end_line>
+    Since I'm here.<end_line>
     Like hell I'd let you get lost.<end_line>
   </ascii>
 </dialogue>
@@ -113,7 +113,7 @@
     本当に仲がいいですね<end_line>
   </sjis>
   <ascii>
-    They really get along well.<end_line>
+    They get along very well.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -152,7 +152,7 @@
     </sjis>
   </female>
   <ascii>
-    !?<end_line>
+    Huh!?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -180,9 +180,9 @@
     弱っていたんですよ<end_line>
   </sjis>
   <ascii>
-    While carrying Anise, it looked so<end_line>
-    weak I thought it wouldn't be<end_line>
-    able to move anymore.<end_line>
+    Just a short time ago,<end_line>
+    it looked so weak I thought it<end_line>
+    wouldn't be able to move anymore.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -209,9 +209,9 @@
     川ニ　飛ビ込ンダノデス<end_line>
   </sjis>
   <ascii>
-    When Anise Fell From The Cliff,<end_line>
-    Magdrad Followed In Order to<end_line>
-    Save Her.<end_line>
+    When Anise Fell Off The Cliff,<end_line>
+    Magdrad Followed In<end_line>
+    Order to Save Her.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -225,9 +225,9 @@
     大変ナだめーじダッタト　思ワレマス<end_line>
   </sjis>
   <ascii>
-    Magdrad's Body Is Not Compatible<end_line>
-    With Water. The Fall Caused<end_line>
-    Much Damage.<end_line>
+    Magdrad's Body Is Not<end_line>
+    Compatible With Water.<end_line>
+    The Fall Caused Much Damage.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -241,9 +241,9 @@
     川に飛び込んだのじゃよ<end_line>
   </sjis>
   <ascii>
-    I heard that Magdrad dove into the<end_line>
-    river to save her when you<end_line>
-    fell from the cliff.<end_line>
+    I heard that Magdrad dove into<end_line>
+    the river to save her when<end_line>
+    we all fell off the cliff.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -273,9 +273,9 @@
     アニスってニンゲンを助けるために<end_line>
   </sjis>
   <ascii>
-    That time you fell from the cliff,<end_line>
-    Magdrad followed you down to<end_line>
-    save this <quote>Anise<quote> person.<end_line>
+    That time we fell off the cliff,<end_line>
+    Magdrad followed us<end_line>
+    down to save Anise.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -289,7 +289,7 @@
   </sjis>
   <ascii>
     Even though it's weak to water.<end_line>
-    How stupid.<end_line>
+    How idiotic.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -303,9 +303,9 @@
     川に飛び込んだんですわ<end_line>
   </sjis>
   <ascii>
-    When Lady Murno and the others fell<end_line>
-    from the cliff,<end_line>
-    Magdrad dove into the river.<end_line>
+    When we all fell off the cliff,<end_line>
+    Magdrad dove into<end_line>
+    the river as well.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -339,7 +339,8 @@
     </sjis>
   </female>
   <ascii>
-    Anise is that important to it<three_dots><end_line>
+    So Magdrad trusts<end_line>
+    Anise that much<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -368,7 +369,7 @@
   </sjis>
   <ascii>
     Is Anise.<end_line>
-    What's why Voijin took her away.<end_line>
+    What's why Voijin abducted her.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -381,7 +382,8 @@
     手に入れたかったのですね<three_dots><end_line>
   </sjis>
   <ascii>
-    So this Voijin wanted to control<end_line>
+    So this Voijin wanted<end_line>
+    to gain control over<end_line>
     Magdrad's power<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -395,9 +397,9 @@
     この村をさがし出したようです<three_dots><end_line>
   </sjis>
   <ascii>
-    Voijin came here after hearing<end_line>
-    of a rumor of a powerful Summon<end_line>
-    Beast<three_dots><end_line>
+    Yes. Voijin's people came here<end_line>
+    following a rumor of a<end_line>
+    powerful Summon Beast<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -410,10 +412,9 @@
     人質の命をうばう、と言い出しました<end_line>
   </sjis>
   <ascii>
-    They came out of nowhere and took<end_line>
-    hostages, saying if we didn't hand<end_line>
-    over the Summon Beast, they'd<end_line>
-    start killing.<end_line>
+    They took hostages, and said<end_line>
+    if we did not hand over the<end_line>
+    Summon Beast, they'd start killing.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -443,7 +444,7 @@
   <ascii>
     At the time, my parents were the<end_line>
     village elders. They were first<three_dots><end_line>
-    And after that<end_line>
+    And after that<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -495,9 +496,8 @@
   </sjis>
   <ascii>
     But why didn't you use the Summon<end_line>
-    Beast to fight back?<end_line>
-    With both of them, you would have<end_line>
-    won, right?<end_line>
+    Beast to fight back? With both,<end_line>
+    you could have won, right?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -524,6 +524,11 @@
     戦わなかったの？<end_line>
     ２体もいれば勝てたんじゃない？<end_line>
   </sjis>
+  <ascii>
+    But why didn't you use the Summon<end_line>
+    Beast to fight back? With both,<end_line>
+    you could have won, right?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -535,10 +540,9 @@
     そんなことは、もうたくさんでした<three_dots><end_line>
   </sjis>
   <ascii>
-    But why didn't you use the Summon<end_line>
-    Beast to fight back?<end_line>
-    With both of them, you would have<end_line>
-    won, right?<end_line>
+    If we did that,<end_line>
+    more people would their lives.<end_line>
+    There's already enough suffering<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -551,11 +555,9 @@
     村人全員が殺されていたでしょう<end_line>
   </sjis>
   <ascii>
-    Either way, someone had to die.<end_line>
-    We wanted to avoid that as much<end_line>
-    as possible<three_dots><end_line>
-    And if we kept quiet, eventually<end_line>
-    they would kill everyone.<end_line>
+    And if we kept quiet<end_line>
+    about their existance,<end_line>
+    eventually they would kill everyone.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -579,10 +581,9 @@
     せめて幻龍鬼だけでも守るためにと<three_dots><end_line>
   </sjis>
   <ascii>
-    So to prevent there being any<end_line>
-    more victims, and<three_dots><end_line>
-    to at least protect the<end_line>
-    Phantom Dragon<three_dots><end_line>
+    To end the violence<three_dots><end_line>
+    And at least protect one<end_line>
+    of our guardian Summons<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -596,8 +597,8 @@
   </sjis>
   <ascii>
     Anise<three_dots><end_line>
-    Gave them Magdrad<three_dots><end_line>
-    Sacrificing herself<three_dots><end_line>
+    Offered them Magdrad<three_dots><end_line>
+    Herself along with it<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -629,8 +630,8 @@
   </sjis>
   <ascii>
     But then, why would she<end_line>
-    join up with him<three_dots><end_line>
-    What in the world happened<three_dots>?<end_line>
+    join up with him<three_dots>?<end_line>
+    What happened to her<three_dots>?<end_line>
   </ascii>
 </dialogue>
 <dialogue>

@@ -20,8 +20,7 @@
     </sjis>
     <ascii>
       Seriously, are they not here?<end_line>
-      Where did they go at a<end_line>
-      time like this?!<end_line>
+      Where'd he go!?<end_line>
     </ascii>
   </male>
   <female>
@@ -31,8 +30,7 @@
     </sjis>
     <ascii>
       Maybe<three_dots> they're not here?<end_line>
-      Where did they go at a<end_line>
-      time like this?!<end_line>
+      Where'd he go!?<end_line>
     </ascii>
   </female>
 </dialogue>
@@ -84,7 +82,7 @@
   </sjis>
   <ascii>
     That voice<three_dots> Magdrad is<end_line>
-    going berserk isn't it?<end_line>
+    going berserk, isn't it?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -96,9 +94,9 @@
     それっきりだ<end_line>
   </sjis>
   <ascii>
-    If I told you, you'd say that you<end_line>
-    were going to check it out,<end_line>
-    and that'd be the end of it.<end_line>
+    Once they figured that out,<end_line>
+    they said they'd check it out<end_line>
+    and disappeared.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -121,8 +119,8 @@
     逃げたな<end_line>
   </sjis>
   <ascii>
-    I see.<three_dots><end_line>
-    They got away.<end_line>
+    I see<three_dots><end_line>
+    They ran away.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -134,8 +132,8 @@
     逃げたな<end_line>
   </sjis>
   <ascii>
-    I see.<three_dots><end_line>
-    They got away.<end_line>
+    I see<three_dots><end_line>
+    They ran away.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -172,9 +170,8 @@
   </sjis>
   <ascii>
     Nothing!<end_line>
-    It just suddenly started<end_line> 
-    getting violent<three_dots><end_line>
-    It wouldn't listen!<end_line>
+    It just suddenly started<end_line>
+    getting acting up!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -200,10 +197,9 @@
     言うこと聞かないの！<end_line>
   </sjis>
   <ascii>
-    We didn't do anything!<end_line>
-    It just suddenly started<end_line> 
-    getting violent<three_dots><end_line>
-    It wouldn't listen!<end_line>
+    Nothing!<end_line>
+    It just suddenly started<end_line>
+    getting acting up!<end_line>
   </ascii>
 </dialogue>
 <dialogue>

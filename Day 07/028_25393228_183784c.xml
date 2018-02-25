@@ -272,7 +272,7 @@
     だっ、大丈夫！？<end_line>
   </sjis>
   <ascii>
-    Y-you okay!?<end_line>
+    H-hey, you okay!?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -313,7 +313,7 @@
     ぱーとなー！<end_line>
   </sjis>
   <ascii>
-    The Summmon Stone<end_line>
+    The Summon Stone!<end_line>
     Partner!<end_line>
   </ascii>
 </dialogue>
@@ -326,7 +326,7 @@
     <player_nickname>、これじゃ！<end_line>
   </sjis>
   <ascii>
-    The Summmon Stone!<end_line>
+    The Summon Stone!<end_line>
     <player_nickname>, here!<end_line>
   </ascii>
 </dialogue>
@@ -374,7 +374,7 @@
     グルルァ！<end_line>
   </sjis>
   <ascii>
-    Gururaa!<end_line>
+    Graaahh!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -398,11 +398,10 @@
     ヌシさまの、名前を<three_dots>！<end_line>
   </sjis>
   <ascii>
-    The Dragon<three_dots>!<end_line>
-    Call for the stone's master<three_dots>!<end_line>
+    Name<three_dots>!<end_line>
+    Call out our master's name<three_dots>!<end_line>
   </ascii>
 </dialogue>
-###Not sure what the relationship here is. Who is this "master"? For now, guessing it means the stone's master, aka the dragon which is bound to it.
 <bigtext>
   <info box="left" effect="big">
   <portrait_l entry="player" eye="decided" mouth="yell">
@@ -422,7 +421,7 @@
   </sjis>
   <ascii>
     Uwah<three_dots>!?<end_line>
-    I summoned it<three_dots>!?<end_line>
+    It worked<three_dots>!?<end_line>
   </ascii>
 </dialogue>
 <bigtext>
@@ -446,9 +445,8 @@
   </sjis>
   <ascii>
     Do not, worry<three_dots><end_line>
-    The fight before<three_dots>your<end_line>
-    determination<three_dots> was conveyed<end_line>
-    to the me<three_dots><end_line>
+    Our master has<three_dots><end_line>
+    recognized your strength<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>

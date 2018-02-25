@@ -231,7 +231,8 @@
     ゆっくり休みな<end_line>
   </sjis>
   <ascii>
-    For today, go back to Jade's place<end_line>
+    For today,<end_line>
+    go back to Jade's place<end_line>
     and get some rest.<end_line>
   </ascii>
 </dialogue>
@@ -256,7 +257,7 @@
   </sjis>
   <ascii>
     Yeah.<end_line>
-    We can handle it for now.<end_line>
+    We'll take it from here.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -296,8 +297,8 @@
   </sjis>
   <ascii>
     Today, follow <player_nickname>'s example.<end_line>
-    Stop thinking about all this<end_line>
-    complicated stuff.<end_line>
+    Stop thinking about all<end_line>
+    this complicated stuff.<end_line>
   </ascii>
 </dialogue>
 <dialogue>

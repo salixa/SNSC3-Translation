@@ -1,0 +1,319 @@
+<dialogue>
+	<info box="right">
+	<portrait_r entry="tier" eye="surprised" mouth="tense">
+	<sjis>
+		うそ<three_dots><end_line>
+		<player_nickname><three_dots>？<end_line>
+	</sjis>
+  <ascii>
+    No way<three_dots><end_line>
+		<player_nickname><three_dots>?<end_line>
+  </ascii>
+</dialogue>
+<dialogue>
+	<info box="left">
+	<portrait_l entry="player" eye="surprised" mouth="talk">
+	<portrait_r entry="tier" eye="surprised" mouth="tense">
+	<sjis>
+		ティエ<three_dots>！<end_line>
+	</sjis>
+  <ascii>
+    Tier<three_dots>!<end_line>
+  </ascii>
+</dialogue>
+<bigtext>
+	<info box="right" effect="big">
+	<portrait_l entry="player" eye="surprised" mouth="talk">
+	<portrait_r entry="tier" eye="surprised_blush" mouth="neutral">
+	<sjis>
+		<player_nickname>だ！<end_line>
+	</sjis>
+  <ascii>
+    <player_nickname>!<end_line>
+  </ascii>
+</bigtext>
+<bigtext>
+	<info box="right" effect="big">
+	<portrait_l entry="player" eye="surprised" mouth="talk">
+	<portrait_r entry="tier" eye="surprised_blush" mouth="neutral">
+	<sjis>
+		<player_nickname>だ！<end_line>
+	</sjis>
+  <ascii>
+    <player_nickname>!<end_line>
+  </ascii>
+</bigtext>
+<bigtext>
+	<info box="right" effect="big">
+	<portrait_l entry="player" eye="surprised" mouth="talk">
+	<portrait_r entry="tier" eye="surprised_blush" mouth="neutral">
+	<sjis>
+		<player_nickname>だ！<end_line>
+	</sjis>
+  <ascii>
+    <player_nickname>!<end_line>
+  </ascii>
+</bigtext>
+<bigtext>
+	<info box="right" effect="big">
+	<portrait_l entry="player" eye="surprised" mouth="talk">
+	<portrait_r entry="tier" eye="surprised_blush" mouth="neutral">
+	<sjis>
+		<player_nickname>だ！<end_line>
+	</sjis>
+  <ascii>
+    <player_nickname>!<end_line>
+  </ascii>
+</bigtext>
+<bigtext>
+	<info box="right" effect="big">
+	<portrait_l entry="player" eye="surprised" mouth="talk">
+	<portrait_r entry="tier" eye="surprised_blush" mouth="neutral">
+	<sjis>
+		<player_nickname>だ！<end_line>
+	</sjis>
+  <ascii>
+    <player_nickname>!<end_line>
+  </ascii>
+</bigtext>
+<bigtext>
+	<info box="right" effect="big">
+	<portrait_l entry="player" eye="surprised" mouth="talk">
+	<portrait_r entry="tier" eye="surprised_blush" mouth="neutral">
+	<sjis>
+		<player_nickname>だ！<end_line>
+	</sjis>
+  <ascii>
+    <player_nickname>!<end_line>
+  </ascii>
+</bigtext>
+<dialogue>
+	<info box="left">
+	<portrait_l entry="player" eye="surprised_blush" mouth="tense">
+	<portrait_r entry="tier" eye="happy_blush" mouth="talk">
+	<male>
+		<sjis>
+			うわ<three_dots>！？<end_line>
+			ちょっと、なんだよ！？<end_line>
+		</sjis>
+    <ascii>
+      Woah<three_dots>!?<end_line>
+      Hey, what's wrong!?<end_line>
+    </ascii>
+	</male>
+	<female>
+		<sjis>
+			きゃ<three_dots>！？<end_line>
+			ちょっと、なによ！？<end_line>
+		</sjis>
+    <ascii>
+      Kya<three_dots>!?<end_line>
+      Hey, what's wrong!?<end_line>
+    </ascii>
+	</female>
+</dialogue>
+<dialogue>
+	<info box="right">
+	<portrait_l entry="player" eye="surprised_blush" mouth="tense">
+	<portrait_r entry="tier" eye="happy_blush" mouth="neutral">
+	<sjis>
+		<player_nickname>！　<player_nickname>！<end_line>
+	</sjis>
+  <ascii>
+		<player_nickname>! <player_nickname>!<end_line>
+  </ascii>
+</dialogue>
+<dialogue>
+	<info box="left">
+	<portrait_l entry="player" eye="decided" mouth="serious">
+	<portrait_r entry="tier" eye="happy_blush" mouth="neutral">
+	<sjis>
+		うわ<three_dots>！<end_line>
+		ちょっと<three_dots><end_line>
+		くるし、い<three_dots>！<end_line>
+	</sjis>
+  <ascii>
+    Uwah<three_dots>!<end_line>
+    Wait<three_dots><end_line>
+    It hurts<three_dots>!<end_line>
+  </ascii>
+</dialogue>
+<dialogue>
+	<info box="right">
+	<portrait_l entry="player" eye="decided" mouth="serious">
+	<portrait_r entry="tier" eye="decided_blush" mouth="stressed">
+	<sjis>
+		よかったー！<end_line>
+		なにしてたのよー！<end_line>
+		心配したんだからねー！<end_line>
+	</sjis>
+  <ascii>
+    You're okay!<end_line>
+    Where were you!?<end_line>
+    I was so worried!<end_line>
+  </ascii>
+</dialogue>
+<dialogue>
+	<info box="left">
+	<portrait_l entry="player" eye="surprised" mouth="yell">
+	<portrait_r entry="tier" eye="decided_blush" mouth="stressed">
+	<sjis>
+		い<three_dots>、いき<three_dots><three_dots><end_line>
+		<three_dots><three_dots><three_dots><end_line>
+		<three_dots><three_dots><three_dots><three_dots>が<three_dots>っ！<end_line>
+	</sjis>
+  <ascii>
+    C<three_dots> can't<three_dots><three_dots><end_line>
+		<three_dots><three_dots><three_dots><end_line>
+		<three_dots><three_dots><three_dots><three_dots>breathe<three_dots>!<end_line>
+  </ascii>
+</dialogue>
+<dialogue>
+	<info box="left">
+	<portrait_l entry="murno" eye="surprised" mouth="stressed">
+	<sjis>
+		ちょっと、ティエちゃん<end_line>
+		<player_nickname>が、死んじゃう！<end_line>
+	</sjis>
+  <ascii>
+    Tier, wait!<end_line>
+    You're strangling <player_nickname>!<end_line>
+  </ascii>
+</dialogue>
+<dialogue>
+	<info box="right">
+	<portrait_l entry="murno" eye="surprised" mouth="stressed">
+	<portrait_r entry="tier" eye="surprised" mouth="tense">
+	<sjis>
+		え<three_dots>！？<end_line>
+		あ<three_dots>！<end_line>
+	</sjis>
+  <ascii>
+    Eh<three_dots>!?<end_line>
+    Ah<three_dots>!<end_line>
+  </ascii>
+</dialogue>
+<dialogue>
+	<info box="left">
+	<portrait_l entry="player" eye="happy" mouth="tense">
+	<portrait_r entry="tier" eye="surprised" mouth="tense">
+	<male>
+		<sjis>
+			ホント<three_dots><end_line>
+			カンベンしてくれよ<three_dots><end_line>
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			ホントにもう<three_dots><end_line>
+			カンベンしてよね<three_dots><end_line>
+		</sjis>
+	</female>
+  <ascii>
+    Hah<three_dots><end_line>
+    Gimme a break<three_dots><end_line>
+  </ascii>
+</dialogue>
+<dialogue>
+	<info box="right">
+	<portrait_l entry="player" eye="happy" mouth="tense">
+	<portrait_r entry="tier" eye="sad_blush" mouth="serious">
+	<sjis>
+		バツよ<three_dots><end_line>
+		心配かけたバツなんだから！<end_line>
+	</sjis>
+  <ascii>
+    That's punishment<three_dots><end_line>
+    For making we worry so much!<end_line>
+  </ascii>
+</dialogue>
+<dialogue>
+	<player gender="male">
+	<info box="left">
+	<portrait_l entry="player" eye="surprised" mouth="tense">
+	<portrait_r entry="tier" eye="sad_blush" mouth="serious">
+	<sjis>
+		あ<three_dots><end_line>
+		いや、ちょっと<three_dots><end_line>
+	</sjis>
+  <ascii>
+    Ah<three_dots><end_line>
+    Well, uh<three_dots><end_line>
+  </ascii>
+</dialogue>
+<dialogue>
+	<player gender="male">
+	<info box="left">
+	<portrait_l entry="player" eye="sad" mouth="serious">
+	<portrait_r entry="tier" eye="sad_blush" mouth="serious">
+	<sjis>
+		ごめんな<end_line>
+	</sjis>
+  <ascii>
+    Sorry.<end_line>
+  </ascii>
+</dialogue>
+<dialogue>
+	<player gender="female">
+	<info box="left">
+	<portrait_l entry="player" eye="surprised" mouth="tense">
+	<portrait_r entry="tier" eye="sad_blush" mouth="serious">
+	<sjis>
+		あ<three_dots><end_line>
+		うん、その<three_dots><end_line>
+	</sjis>
+  <ascii>
+    Ah<three_dots><end_line>
+    Well, uh<three_dots><end_line>
+  </ascii>
+</dialogue>
+<dialogue>
+	<player gender="female">
+	<info box="left">
+	<portrait_l entry="player" eye="sad" mouth="serious">
+	<portrait_r entry="tier" eye="sad_blush" mouth="serious">
+	<sjis>
+		ごめんね<end_line>
+	</sjis>
+  <ascii>
+    Sorry.<end_line>
+  </ascii>
+</dialogue>
+<dialogue>
+	<info box="right">
+	<portrait_l entry="player" eye="sad" mouth="serious">
+	<portrait_r entry="tier" eye="decided" mouth="yell">
+	<sjis>
+		ちゃんとみんなに<end_line>
+		あやまるんだよ！<end_line>
+		ミューノたちも！<end_line>
+	</sjis>
+  <ascii>
+    You have to apologize<end_line>
+    to everyone, not just me!<end_line>
+    Murno, you too!<end_line>
+  </ascii>
+</dialogue>
+<dialogue>
+	<info box="left">
+	<portrait_l entry="murno" eye="sad" mouth="tense">
+	<portrait_r entry="partner" eye="sad" mouth="tense">
+	<sjis>
+		はい<end_line>
+	</sjis>
+  <ascii>
+    Okay.<end_line>
+  </ascii>
+</dialogue>
+<dialogue>
+	<info box="simple">
+	<portrait_r name="vee">
+	<sjis>
+		おーい！<end_line>
+		ティエ、なにかあったのか？<end_line>
+	</sjis>
+  <ascii>
+    Heeeey!<end_line>
+    Tier, find anything?<end_line>
+  </ascii>
+</dialogue>

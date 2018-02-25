@@ -7,8 +7,8 @@
     一体なにがあったんだ！？<end_line>
   </sjis>
   <ascii>
-    You guys, are you okay!?<end_line>
-    What happened!?<end_line>
+    Everyone, are you okay!?<end_line>
+    What just happened!?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -47,8 +47,8 @@
     幻龍鬼の用意をしてきます<end_line>
   </sjis>
   <ascii>
-    Just in case, I'm going to prepare<end_line>
-    for the Phantom Dragon.<end_line>
+    Just in case, I'm going to <end_line>
+    prepare the Phantom Dragon.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -62,8 +62,8 @@
   </sjis>
   <ascii>
     I see.<end_line>
-    It might be good to bring<end_line>
-    Anise here too.<end_line>
+    It might be good to<end_line>
+    bring Anise here too.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -76,7 +76,7 @@
   </sjis>
   <ascii>
     That's true.<end_line>
-    Anise is it's summoner after all.<end_line>
+    Anise is it's Summoner after all.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -175,7 +175,8 @@
   </sjis>
   <ascii>
     Wait!<end_line>
-    Is there any way I can help?<end_line>
+    Is there anything<end_line>
+    I can do to help?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -200,8 +201,7 @@
   </sjis>
   <ascii>
     What are you saying!?<end_line>
-    Children shouldn't have to worry<end_line>
-    about this kind of stuff.<end_line>
+    You're just a kid.<end_line>
     Hurry up and run!<end_line>
   </ascii>
 </dialogue>
@@ -215,8 +215,8 @@
     私が逃げるなんて<three_dots><end_line>
   </sjis>
   <ascii>
-    It might be my fault Magrad<end_line>
-    became violent<three_dots><end_line>
+    It might be my fault<end_line>
+    Magdrad became violent<three_dots><end_line>
     I can't just run away<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -308,7 +308,7 @@
     ありがとう<end_line>
   </sjis>
   <ascii>
-    <partner><end_line>
+    <partner><three_dots><end_line>
     Thank you.<end_line>
   </ascii>
 </dialogue>
@@ -457,7 +457,7 @@
   <ascii>
     There is one thing.<end_line>
     Please tell the prison guard<end_line>
-    to bring Aniser here.<end_line>
+    to bring Anise here.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -564,7 +564,7 @@
     ありがとう<end_line>
   </sjis>
   <ascii>
-    <partner><end_line>
+    <partner><three_dots><end_line>
     Thank you.<end_line>
   </ascii>
 </dialogue>
@@ -715,7 +715,7 @@
   <ascii>
     There is one thing.<end_line>
     Please tell the prison guard<end_line>
-    to bring Aniser here.<end_line>
+    to bring Anise here.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -752,8 +752,8 @@
     お前はジャマだ<end_line>
   </sjis>
   <ascii>
-    I know what you want to say, but<end_line>
-    you'll only get in the way.<end_line>
+    I know what you want to say,<end_line>
+    but you'll only get in the way.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -823,7 +823,7 @@
     ありがとう<end_line>
   </sjis>
   <ascii>
-    <partner><end_line>
+    <partner><three_dots><end_line>
     Thank you.<end_line>
   </ascii>
 </dialogue>
@@ -976,7 +976,7 @@
   <ascii>
     There is one thing.<end_line>
     Please tell the prison guard<end_line>
-    to bring Aniser here.<end_line>
+    to bring Anise here.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1006,6 +1006,9 @@
   <sjis>
     ミューノ様<three_dots><end_line>
   </sjis>
+  <ascii>
+    Lady Murno<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -1017,7 +1020,7 @@
     ここは私がお手伝いいたしますわ<end_line>
   </sjis>
   <ascii>
-    I understand.<end_line>
+    Very well.<end_line>
     Then I will aid you instead.<end_line>
   </ascii>
 </dialogue>
@@ -1083,7 +1086,7 @@
     ありがとう<end_line>
   </sjis>
   <ascii>
-    <partner><end_line>
+    <partner><three_dots><end_line>
     Thank you.<end_line>
   </ascii>
 </dialogue>
@@ -1234,7 +1237,7 @@
   <ascii>
     There is one thing.<end_line>
     Please tell the prison guard<end_line>
-    to bring Aniser here.<end_line>
+    to bring Anise here.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1271,7 +1274,7 @@
   <ascii>
     I'm a Craftknight!<end_line>
     I can't run away like this!<end_line>
-    Let me help with something<end_line>
+    Let me help with something!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1335,7 +1338,7 @@
     <player_nickname>、<partner><three_dots><end_line>
   </sjis>
   <ascii>
-    <player_nickname>、<partner><three_dots><end_line>
+    <player_nickname>, <partner><three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1401,7 +1404,7 @@
   </sjis>
   <ascii>
     Thanks,<end_line>
-    <partner><three_dots><end_line>
+    <player_nickname>, <partner><three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1416,7 +1419,7 @@
   <ascii>
     There is one thing.<end_line>
     Please tell the prison guard<end_line>
-    to bring Aniser here.<end_line>
+    to bring Anise here.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1486,7 +1489,7 @@
     気をつけてね<end_line>
   </sjis>
   <ascii>
-    <player_nickname>、<partner><end_line>
+    <player_nickname>, <partner><three_dots><end_line>
     Be careful.<end_line>
   </ascii>
 </dialogue>

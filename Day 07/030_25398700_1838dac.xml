@@ -80,9 +80,9 @@
     何かわかりましたか？<end_line>
   </sjis>
   <ascii>
-    That reminds me, did you learn<end_line>
-    anything about the<end_line>
-    Demon Crystal Pillar?<end_line>
+    That reminds me,<end_line>
+    did you learn anything<end_line>
+    about the Crystal Pillar?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -95,10 +95,9 @@
     そして、あばれだした召喚獣<three_dots><end_line>
   </sjis>
   <ascii>
-    Yes, it's exactly the same as the<end_line>
-    one in my village<three_dots><end_line>
-    This mysterious power<three_dots><end_line>
-    And its affect on Summon Beasts<three_dots><end_line>
+    Yes, it's just like the one in<end_line>
+    my village<three_dots> Its mysterious<end_line>
+    power, and influence over Summons<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -111,10 +110,9 @@
     マグドラドをおかしくしてしまった<end_line>
   </sjis>
   <ascii>
-   That Demon Crystal Pillar reacted<end_line>
-   to the Demon Stone, emitted an even<end_line>
-   stronger power, and made Magrad<end_line>
-   act strangely.<end_line>
+    The Crystal Pillar reacted<end_line>
+    to the Demon Stone, and amplified<end_line>
+    its effect on Summon Beasts.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -127,9 +125,9 @@
     <partner>が感じたのと同じ力<three_dots><end_line>
   </sjis>
   <ascii>
-    That power, is the same as<end_line>
+    That power is the same as<end_line>
     what <partner> sensed when we ran<end_line>
-    from the village<three_dots><end_line>
+    from our village<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -143,7 +141,7 @@
   </sjis>
   <ascii>
     Maybe we really shouldn't have<end_line>
-    taken this Demon Stone from<end_line>
+    taken the Demon Stone outside<end_line>
     the village<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -231,8 +229,8 @@
     私は何にも知らなくて<three_dots><end_line>
   </sjis>
   <ascii>
-    Those people, they wanted the<end_line>
-    Demon Stone so much, but<end_line>
+    Those people wanted the<end_line>
+    Demon Stone so much, and<end_line>
     I didn't know anything about it<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -246,7 +244,6 @@
     そう言ったから<three_dots><end_line>
   </sjis>
   <ascii>
-    It's just that<three_dots><end_line>
     My father told me to protect it<three_dots><end_line>
     That I musn't let anyone<end_line>
     else have it<three_dots><end_line>
@@ -277,10 +274,9 @@
     ”大いなる力がある”くらいしか<three_dots><end_line>
   </sjis>
   <ascii>
-    That may be why stores of Govan's<end_line>
-    Demon Stone are told here. But the<end_line>
-    details have been lost. All we know<end_line>
-    is it<quote>possesses great power<quote><three_dots><end_line>
+    That is why stories of the Demon<end_line>
+    Stone are told here. But all we know<end_line>
+    is it possesses great power<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -292,8 +288,8 @@
     その程度だと思うのですが<three_dots><end_line>
   </sjis>
   <ascii>
-    I think this is all Anise<end_line>
-    knows as well<three_dots><end_line>
+    So I think this is<end_line>
+    all Anise knows as well<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -324,9 +320,8 @@
     </sjis>
   </female>
   <ascii>
-    Anyway, if we put it back where<end_line>
-    it belongs, will everything<end_line>
-    return to normal?<end_line>
+    So if we put it back,<end_line>
+    will everything return to normal?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -386,8 +381,7 @@
     前に村のヒミツがどうとかって<three_dots>？<end_line>
   </sjis>
   <ascii>
-    Didn't you say something about<end_line>
-    the village's secret earlier<three_dots>?<end_line>
+    What about your village's secret<three_dots>?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -401,9 +395,8 @@
   </sjis>
   <ascii>
     You saved our village.<end_line>
-    There's no way we could be<end_line>
-    both grateful and distrusting<end_line>
-    simulateneously.<end_line>
+    You've proven yourself<end_line>
+    to be trustworthy.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
