@@ -11,6 +11,11 @@
 		アレも辛いだろうに<end_line>
 		よくやっておるのぅ<end_line>
 	</sjis>
+  <ascii>
+    Gallahan, huh<three_dots><end_line>
+    It's been very difficult for him.<end_line>
+    He's coping with it well.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -20,6 +25,11 @@
 		静かに暮らしておるのに<end_line>
 		あの日、多くの者が家族を失った<end_line>
 	</sjis>
+  <ascii>
+    We here live peacefully,<end_line>
+    without causing anyone problems.<end_line>
+    That day, many lost their family.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -28,4 +38,8 @@
 		トラムの両親もそうじゃ<end_line>
 		若いのにしっかりしておる<end_line>
 	</sjis>
+  <ascii>
+    Tram lost both his parents.<end_line>
+    Though young, he is very reliable.<end_line>
+  </ascii>
 </dialogue>
