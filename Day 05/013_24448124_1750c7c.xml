@@ -14,6 +14,9 @@
 	<sjis>
 		娘は元気にしてますか？<end_line>
 	</sjis>
+  <ascii>
+    Is my daughter doing well?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -22,6 +25,10 @@
 		娘にあまりムチャなことは<end_line>
 		させないでくださいね<end_line>
 	</sjis>
+  <ascii>
+    Please don't let my<end_line>
+    daughter get out of hand.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -30,10 +37,18 @@
 		立ち入り禁止！！<end_line>
 		　　　　　　　　　　　ティエ<end_line>
 	</sjis>
+  <ascii>
+    From here on is a maiden's secret <hearth><end_line>
+    No trespassing!!<end_line>
+                  Tier<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
 		ゴロゴロ<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Rumble<three_dots><end_line>
+  </ascii>
 </dialogue>

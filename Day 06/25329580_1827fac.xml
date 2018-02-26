@@ -15,6 +15,11 @@
 			え～っと<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Huh?<end_line>
+    What was I doing again<three_dots>?<end_line>
+    Umm<three_dots><end_line>
+  </ascii> 
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -26,6 +31,11 @@
 		記録でーたノ一部ガ　コワレテイマスガ<end_line>
 		他ノ処理ニ　問題ハアリマセン<end_line>
 	</sjis>
+  <ascii>
+    Irregularity Has Occurred.<end_line>
+    Portions Of Memory Inaccessible.<end_line>
+    No Other Abnormalities.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -35,6 +45,9 @@
 	<sjis>
 		よくわかんないけど<end_line>
 	</sjis>
+  <ascii>
+    I have no idea what you just said,<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -51,6 +64,9 @@
 			大丈夫？　ねぇ<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    but you're okay, right<three_dots>?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -62,6 +78,10 @@
 		ソレヨリ　みゅーの様ハ<end_line>
 		ドコデスカ？<end_line>
 	</sjis>
+  <ascii>
+    No Problems.<end_line>
+    Where Is Lady Murno?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -73,6 +93,11 @@
 		いいか、ワガハイたちはな<end_line>
 		ええと<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Are you serious?<end_line>
+    Listen up, we were<three_dots><end_line>
+    Um<end_line><three_dots>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -83,6 +108,10 @@
 		むむ<three_dots>？<end_line>
 		なんじゃったかの<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Hmm<three_dots>?<end_line>
+    What was it<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -101,6 +130,9 @@
 			<partner>だって<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    You forgot too<three_dots>?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -111,6 +143,10 @@
 		そうじゃ<end_line>
 		ミューノは<three_dots><end_line>
 	</sjis>
+  <ascii>
+    That's it.<end_line>
+    Where's Murno<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -122,6 +158,11 @@
 		なにをやってるんだ<end_line>
 		キサマは<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Tch<three_dots><end_line>
+    Get it together.<end_line>
+    We were<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -131,6 +172,9 @@
 	<sjis>
 		キサマは<three_dots>？<end_line>
 	</sjis>
+  <ascii>
+    We were<three_dots>?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -151,6 +195,9 @@
 			ないの？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    So you don't know either?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -162,6 +209,11 @@
 		あいつだ<end_line>
 		ミューノだ<end_line>
 	</sjis>
+  <ascii>
+    Don't mock me!<end_line>
+    Her.<end_line>
+    You know, Murno.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -173,6 +225,11 @@
 		私たちはですね<three_dots><end_line>
 		ええと<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Please pay attention.<end_line>
+    We were<three_dots><end_line>
+    Umm<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -193,6 +250,9 @@
 			ないの？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    So you don't know either?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -203,6 +263,10 @@
 		そ、そんなことないですわ<end_line>
 		あのですね<three_dots><end_line>
 	</sjis>
+  <ascii>
+    O-of course I do.<end_line>
+    One moment<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -212,6 +276,9 @@
 	<sjis>
 		そういえば、ミューノ様は？<end_line>
 	</sjis>
+  <ascii>
+    Actually, where is Lady Murno?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -220,6 +287,9 @@
 	<sjis>
 		ミューノ<three_dots>？<end_line>
 	</sjis>
+  <ascii>
+    Murno<three_dots>?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -230,4 +300,9 @@
 		この遺跡の奥にいるんだ！<end_line>
 		助けに行かなきゃ！<end_line>
 	</sjis>
+  <ascii>
+    Oh, right!<end_line>
+    She's deep in the ruins!<end_line>
+    We have to save her!<end_line>
+  </ascii>
 </dialogue>
