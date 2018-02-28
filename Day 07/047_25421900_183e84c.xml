@@ -5,6 +5,9 @@
 	<sjis>
 		ぱーとなー<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Partner<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -13,6 +16,9 @@
 	<sjis>
 		ここじゃったのか、<player_nickname><three_dots><end_line>
 	</sjis>
+  <ascii>
+    There you are, <player_nickname><three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -21,6 +27,9 @@
 	<sjis>
 		こんなところに<three_dots><end_line>
 	</sjis>
+  <ascii>
+    There you are<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="nobox">
@@ -29,6 +38,10 @@
 		見つけましたよ<end_line>
 		<player_nickname>さん！<end_line>
 	</sjis>
+  <ascii>
+    I found you,<end_line>
+    <player_nickname>!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -40,6 +53,11 @@
 		今日ハ　オトナシクシテイロト<end_line>
 		親方ニ　言ワレテイマシタガ<end_line>
 	</sjis>
+  <ascii>
+    There You Are.<end_line>
+    Master Said You Are To Rest<end_line>
+    For The Remainder Of The Day.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -60,6 +78,11 @@
 			ジッとしてられなくて<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    I know, but Anise is still out<end_line>
+    somewhere, aiming for Murno.<end_line>
+    I can't just sit still<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -71,6 +94,11 @@
 		彼女モ　私タチニ　正体ガ知レタタメ<end_line>
 		ヨリ計画的ナ　行動ヲスルハズデス<end_line>
 	</sjis>
+  <ascii>
+    True.<end_line>
+    Now That We Have Learned Her True<end_line>
+    Identity, She Will Be More Careful.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -82,6 +110,11 @@
 		みゅーの様ヲ　守ル必要ガ<end_line>
 		アリマス<end_line>
 	</sjis>
+  <ascii>
+    We Must Be More Vigilant<end_line>
+    In Watching Out For <end_line>
+    Threats To Lady Murno.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="male">
@@ -94,6 +127,11 @@
 		１日も早くあいつらを捕まえて<end_line>
 		ミューノを安心させてやろう！<end_line>
 	</sjis>
+  <ascii>
+    You're right.<end_line>
+    The sooner we catch them,<end_line>
+    the sooner Murno can be at ease!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="male">
@@ -106,6 +144,11 @@
 		なったしな！<end_line>
 		たよりにしてるぜ！<end_line>
 	</sjis>
+  <ascii>
+    And you can transform now!<end_line>
+    I'll be counting on you,<end_line>
+    <partner>!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="female">
@@ -118,6 +161,11 @@
 		１日も早くあいつらを捕まえて<end_line>
 		ミューノを安心させてあげよう！<end_line>
 	</sjis>
+  <ascii>
+    You're right.<end_line>
+    The sooner we catch them,<end_line>
+    the sooner Murno can be at ease!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="female">
@@ -130,6 +178,11 @@
 		なったしね！<end_line>
 		たよりにしてるよ！<end_line>
 	</sjis>
+  <ascii>
+    And you can transform now!<end_line>
+    I'll be counting on you,<end_line>
+    <partner>!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -139,6 +192,9 @@
 	<sjis>
 		了解デス<end_line>
 	</sjis>
+  <ascii>
+    Understood.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -159,6 +215,11 @@
 			初心に返って、気合い入れよっか！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Alright!<end_line>
+    We're finally at the main act<three_dots><end_line>
+    For starters, let's get fired up!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -168,6 +229,9 @@
 	<sjis>
 		気合イ<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Fired<three_dots> Up?<end_line>
+  </ascii> 
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -188,6 +252,11 @@
 			最初に叫んだアレよ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Yep.<end_line>
+    You remember, don't you?<end_line>
+    The Craftknight's mantra!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -197,6 +266,9 @@
 	<sjis>
 		アレデスカ<end_line>
 	</sjis>
+  <ascii>
+    That Again.<end_line>
+  </ascii>
 </dialogue>
 <bigtext>
 	<partner name="run-dor">
@@ -206,6 +278,9 @@
 	<sjis>
 		鍛冶師なら！<end_line>
 	</sjis>
+  <ascii>
+    To A Craftknight!<end_line>
+  </ascii>
 </bigtext>
 <bigtext>
 	<partner name="run-dor">
@@ -215,6 +290,9 @@
 	<sjis>
 		ハンマーは<three_dots><end_line>
 	</sjis>
+  <ascii>
+    The hammer is<three_dots><end_line>
+  </ascii>
 </bigtext>
 <dialogue>
 	<partner name="run-dor">
@@ -231,6 +309,9 @@
 			<three_dots>ってどうしたの？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    <three_dots>Hey, what's wrong?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -242,6 +323,11 @@
 		ドウシテ　叫ブノカ<end_line>
 		理解デキマセン<end_line>
 	</sjis>
+  <ascii>
+    As Stated Before,<end_line>
+    I Do Not Understand<end_line>
+    Why I Must Shout.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -262,6 +348,11 @@
 			おなかの中から<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    I told you,<end_line>
+    the power comes<end_line>
+    from your stomach<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -273,6 +364,11 @@
 		あにすタチノ悪事ヲ　証明スルタメ<end_line>
 		ガンバッテクダサイ<end_line>
 	</sjis>
+  <ascii>
+    I Would Prefer You Direct Your<end_line>
+    Efforts Towards Exposing<end_line>
+    Anise's Crimes Tomorrow.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -282,6 +378,9 @@
 	<sjis>
 		お<three_dots>、おー！<end_line>
 	</sjis>
+  <ascii>
+    Y<three_dots> yeah!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -293,6 +392,11 @@
 		今日はおとなしくしておれと<end_line>
 		親方に言われたのじゃろう？<end_line>
 	</sjis>
+  <ascii>
+    What are you doing here?<end_line>
+    Master told you to rest<end_line>
+    for today, did she not?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -313,6 +417,11 @@
 			ジッとしてられなくて<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    I know, but Anise is still out<end_line>
+    somewhere, aiming for Murno.<end_line>
+    I can't just sit still<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -324,6 +433,11 @@
 		あやつらも正体を知られたからには<end_line>
 		どんな手に出てくるかわからぬ<end_line>
 	</sjis>
+  <ascii>
+    Mm! That is a good mindset!<end_line>
+    Now that we know their identities,<end_line>
+    we don't know how they will act.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -334,6 +448,10 @@
 		よりいっそう気をひきしめて<end_line>
 		ミューノを守るのじゃぞ<end_line>
 	</sjis>
+  <ascii>
+    It is time for us to<end_line>
+    strenghten our guard.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="male">
@@ -346,6 +464,11 @@
 		１日も早くあいつらを捕まえて<end_line>
 		ミューノを安心させてやろう！<end_line>
 	</sjis>
+  <ascii>
+    You're right.<end_line>
+    The sooner we catch them,<end_line>
+    the sooner Murno can be at ease!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="male">
@@ -358,6 +481,11 @@
 		なったしな！<end_line>
 		たよりにしてるぜ！<end_line>
 	</sjis>
+  <ascii>
+    And you can transform now!<end_line>
+    I'll be counting on you,<end_line>
+    <partner>!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="female">
@@ -370,6 +498,11 @@
 		１日も早くあいつらを捕まえて<end_line>
 		ミューノを安心させてあげよう！<end_line>
 	</sjis>
+  <ascii>
+    You're right.<end_line>
+    The sooner we catch them,<end_line>
+    the sooner Murno can be at ease!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="female">
@@ -382,6 +515,11 @@
 		なったしね！<end_line>
 		たよりにしてるよ！<end_line>
 	</sjis>
+  <ascii>
+    And you can transform now!<end_line>
+    I'll be counting on you,<end_line>
+    <partner>!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -391,6 +529,9 @@
 	<sjis>
 		承知した！<end_line>
 	</sjis>
+  <ascii>
+    Understood!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -411,6 +552,11 @@
 			初心に返って、気合い入れよっか！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Alright!<end_line>
+    We're finally at the main act<three_dots><end_line>
+    For starters, let's get fired up!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -421,6 +567,10 @@
 		気合い？<end_line>
 		もしや<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Fired up?<end_line>
+    You mean<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -441,6 +591,11 @@
 			最初に叫んだアレよ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Yep.<end_line>
+    You remember, don't you?<end_line>
+    The Craftknight's mantra!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -450,6 +605,9 @@
 	<sjis>
 		やはり<three_dots>！<end_line>
 	</sjis>
+  <ascii>
+    As I thought<three_dots>!<end_line>
+  </ascii>
 </dialogue>
 <bigtext>
 	<partner name="enzi">
@@ -459,6 +617,9 @@
 	<sjis>
 		鍛冶師なら！<end_line>
 	</sjis>
+  <ascii>
+    To a Craftknight!<end_line>
+  </ascii>
 </bigtext>
 <bigtext>
 	<partner name="enzi">
@@ -468,6 +629,9 @@
 	<sjis>
 		ハンマーは<three_dots><end_line>
 	</sjis>
+  <ascii>
+    The hammer is<three_dots><end_line>
+  </ascii>
 </bigtext>
 <dialogue>
 	<partner name="enzi">
@@ -484,6 +648,9 @@
 			<three_dots>ってどうしたの？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    <three_dots>Hey, what's wrong?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -495,6 +662,11 @@
 		どうにもその、気分がの<three_dots><end_line>
 		やはり疲れがたまっておるのかの<end_line>
 	</sjis>
+  <ascii>
+    Ah<three_dots> My apologies.<end_line>
+    I suppose I am not in the mood<three_dots><end_line>
+    I must be tired.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -505,6 +677,10 @@
 		そういう時こそ<end_line>
 		アレを叫ぶと<three_dots><end_line>
 	</sjis>
+  <ascii>
+    That's perfect then,<end_line>
+    once you shout you'll<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -516,6 +692,11 @@
 		アニスたちの悪事を暴かねばならん！<end_line>
 		がんばるのじゃぞ<end_line>
 	</sjis>
+  <ascii>
+    That aside, you must expose Anise's<end_line>
+    crimes in tomorrow's meeting!<end_line>
+    Do your best.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -525,6 +706,9 @@
 	<sjis>
 		あ<three_dots>うん<end_line>
 	</sjis>
+  <ascii>
+    Ah<three_dots> yeah.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -536,6 +720,11 @@
 		今日はおとなしくしてろと<end_line>
 		あの女に言われていただろう？<end_line>
 	</sjis>
+  <ascii>
+    Hmph<three_dots> Are you sure?<end_line>
+    That woman told you to<end_line>
+    rest today, didn't she?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -556,6 +745,11 @@
 			ジッとしてられなくて<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    I know, but Anise is still out<end_line>
+    somewhere, aiming for Murno.<end_line>
+    I can't just sit still<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -567,6 +761,11 @@
 		あいつらも正体がバレて<end_line>
 		本腰をいれてくるだろうからな<end_line>
 	</sjis>
+  <ascii>
+    Well, aren't you a hard worker.<end_line>
+    Now that we know their identities,<end_line>
+    they'll be harder to predict.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -576,6 +775,9 @@
 	<sjis>
 		せいぜいがんばることだ<end_line>
 	</sjis>
+  <ascii>
+    Keep it up.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="male">
@@ -588,6 +790,11 @@
 		１日も早くあいつらを捕まえて<end_line>
 		ミューノを安心させてやろう！<end_line>
 	</sjis>
+  <ascii>
+    You're right.<end_line>
+    The sooner we catch them,<end_line>
+    the sooner Murno can be at ease!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="male">
@@ -600,6 +807,11 @@
 		なったしな！<end_line>
 		たよりにしてるぜ！<end_line>
 	</sjis>
+  <ascii>
+    And you can transform now!<end_line>
+    I'll be counting on you,<end_line>
+    <partner>!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="female">
@@ -612,6 +824,11 @@
 		１日も早くあいつらを捕まえて<end_line>
 		ミューノを安心させてあげよう！<end_line>
 	</sjis>
+  <ascii>
+    You're right.<end_line>
+    The sooner we catch them,<end_line>
+    the sooner Murno can be at ease!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="female">
@@ -624,6 +841,11 @@
 		なったしね！<end_line>
 		たよりにしてるよ！<end_line>
 	</sjis>
+  <ascii>
+    And you can transform now!<end_line>
+    I'll be counting on you,<end_line>
+    <partner>!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -634,6 +856,10 @@
 		ちっ<three_dots><end_line>
 		調子にのるな<end_line>
 	</sjis>
+  <ascii>
+    Tch<three_dots><end_line>
+    Don't get carried away.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -654,6 +880,11 @@
 			初心に返って、気合い入れよっか！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    We're just getting started!<end_line>
+    It's finally time for the main act!<end_line>
+    For starters, let's get fired up!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -664,6 +895,10 @@
 		気合い？<end_line>
 		まさか<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Fired up?<end_line>
+    You mean<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -684,6 +919,11 @@
 			最初に叫んだアレよ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Yep.<end_line>
+    You remember, don't you?<end_line>
+    The Craftknight's mantra!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -693,6 +933,9 @@
 	<sjis>
 		やっぱり<three_dots>！<end_line>
 	</sjis>
+  <ascii>
+    I thought so<three_dots>!<end_line>
+  </ascii>
 </dialogue>
 <bigtext>
 	<partner name="killfith">
@@ -702,6 +945,9 @@
 	<sjis>
 		鍛冶師なら！<end_line>
 	</sjis>
+  <ascii>
+    To a Craftknight!<end_line>
+  </ascii>
 </bigtext>
 <bigtext>
 	<partner name="killfith">
@@ -711,6 +957,9 @@
 	<sjis>
 		ハンマーは<three_dots><end_line>
 	</sjis>
+  <ascii>
+    The hammer is<three_dots><end_line>
+  </ascii>
 </bigtext>
 <dialogue>
 	<partner name="killfith">
@@ -727,6 +976,9 @@
 			<three_dots>ってどうしたの？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    <three_dots>Hey, what's wrong?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -737,6 +989,10 @@
 		たのむ<three_dots><end_line>
 		アレだけはカンベンしてくれ<end_line>
 	</sjis>
+  <ascii>
+    Please<three_dots><end_line>
+    Don't make me do this.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -757,6 +1013,11 @@
 			そんなにイヤなの<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Eh<three_dots>!?<end_line>
+    <partner> is begging me<three_dots><end_line>
+    Do you hate it that much<three_dots>?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -767,6 +1028,11 @@
 		今日はおとなしくしてなさいって<end_line>
 		親方さんに言われましたよ？<end_line>
 	</sjis>
+  <ascii>
+    What are you up to?<end_line>
+    Didn't Master tell you to<end_line>
+    sit back and rest today?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -786,6 +1052,11 @@
 			ジッとしてられなくて<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    I know, but Anise is still out<end_line>
+    somewhere, aiming for Murno.<end_line>
+    I can't just sit still<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -796,6 +1067,11 @@
 		あの人たちも正体を知られたので<end_line>
 		何をするかわかりませんわ<three_dots><end_line>
 	</sjis>
+  <ascii>
+    You are absolutely correct!<end_line>
+    Now that we know their identities,<end_line>
+    we don't know how they will act<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -805,6 +1081,10 @@
 		ミューノ様のため、よりいっそう<end_line>
 		注意しなくては<three_dots>！<end_line>
 	</sjis>
+  <ascii>
+    For Lady Murno's sake,<end_line>
+    we must be extra cautious<three_dots>!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="male">
@@ -816,6 +1096,11 @@
 		１日も早くあいつらを捕まえて<end_line>
 		ミューノを安心させてやろう！<end_line>
 	</sjis>
+  <ascii>
+    You're right.<end_line>
+    The sooner we catch them,<end_line>
+    the sooner Murno can be at ease!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="male">
@@ -827,6 +1112,11 @@
 		なったしな！<end_line>
 		たよりにしてるぜ！<end_line>
 	</sjis>
+  <ascii>
+    And you can transform now!<end_line>
+    I'll be counting on you,<end_line>
+    <partner>!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="female">
@@ -838,6 +1128,11 @@
 		１日も早くあいつらを捕まえて<end_line>
 		ミューノを安心させてあげよう！<end_line>
 	</sjis>
+  <ascii>
+    You're right.<end_line>
+    The sooner we catch them,<end_line>
+    the sooner Murno can be at ease!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="female">
@@ -849,6 +1144,11 @@
 		なったしね！<end_line>
 		たよりにしてるよ！<end_line>
 	</sjis>
+  <ascii>
+    And you can transform now!<end_line>
+    I'll be counting on you,<end_line>
+    <partner>!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -857,6 +1157,9 @@
 	<sjis>
 		おまかせください！<end_line>
 	</sjis>
+  <ascii>
+    Leave to me!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -876,6 +1179,11 @@
 			初心に返って、気合い入れよっか！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Alright!<end_line>
+    We're finally at the main act<three_dots><end_line>
+    For starters, let's get fired up!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -885,6 +1193,10 @@
 		気合い？<end_line>
 		もしかして<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Fired up?<end_line>
+    Do you mean<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -904,6 +1216,11 @@
 			最初に叫んだアレよ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Yep.<end_line>
+    You remember, don't you?<end_line>
+    The Craftknight's mantra!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -912,6 +1229,9 @@
 	<sjis>
 		やっぱり<three_dots>！<end_line>
 	</sjis>
+  <ascii>
+    I knew it<three_dots>!<end_line>
+  </ascii>
 </dialogue>
 <bigtext>
 	<partner name="rufeel">
@@ -920,6 +1240,9 @@
 	<sjis>
 		鍛冶師なら！<end_line>
 	</sjis>
+  <ascii>
+    To a Craftknight!<end_line>
+  </ascii>
 </bigtext>
 <bigtext>
 	<partner name="rufeel">
@@ -928,6 +1251,9 @@
 	<sjis>
 		ハンマーは<three_dots><end_line>
 	</sjis>
+  <ascii>
+    The hammer is<three_dots><end_line>
+  </ascii>
 </bigtext>
 <dialogue>
 	<partner name="rufeel">
@@ -943,6 +1269,9 @@
 			<three_dots>ってどうしたの？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    <three_dots>Hey, what's wrong?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -953,6 +1282,11 @@
 		やっぱりアレはまだはずかしくて<end_line>
 		また今度でおねがいしますわ<end_line>
 	</sjis>
+  <ascii>
+    I-I'm sorry<three_dots><end_line>
+    It's still much too embarrassing.<end_line>
+    Let's leave it for another time.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -962,6 +1296,10 @@
 		はずかしさなんて<end_line>
 		１回叫んじゃえば<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Embarrasing?<end_line>
+    Just do it once and<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -972,6 +1310,11 @@
 		魔石がねらわれていることを<end_line>
 		認めさせないとダメですわ！<end_line>
 	</sjis>
+  <ascii>
+    That aside, we must convince the<end_line>
+    others of Anise's crimes<end_line>
+    during tomorrow's meeting!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -980,6 +1323,9 @@
 	<sjis>
 		がんばりましょう！<end_line>
 	</sjis>
+  <ascii>
+    Let's do our best!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -988,4 +1334,7 @@
 	<sjis>
 		あ<three_dots>うん<end_line>
 	</sjis>
+  <ascii>
+    Ah<three_dots> Yeah.<end_line>
+  </ascii>
 </dialogue>
