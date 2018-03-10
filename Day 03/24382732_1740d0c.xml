@@ -493,6 +493,11 @@
 		ちょっと納得いかないけど<end_line>
 		ティエをさがしに行かなきゃ<three_dots><end_line>
 	</sjis>
+	<ascii>
+		I still don't get<end_line>
+		how is any of this my fault,<end_line>
+		but we have to find her.<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -504,6 +509,11 @@
 		危険デス<end_line>
 		急イデ　サガシマショウ<end_line>
 	</sjis>
+	<ascii>
+		It'd be dangerous to leave<end_line>
+		Lady Murno alone for too long.<end_line>
+		Let's hurry up and find her.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -515,6 +525,10 @@
 		じゃあミューノのために<end_line>
 		がんばろう！<end_line>
 	</sjis>
+	<ascii>
+		I see<three_dots><end_line>
+		Then let's do our best for Murno.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -525,6 +539,11 @@
 		ちょっと納得いかないけど<end_line>
 		ティエをさがしに行かなきゃ<three_dots><end_line>
 	</sjis>
+	<ascii>
+		I still don't get<end_line>
+		how is any of this my fault,<end_line>
+		but we have to find her.<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -536,6 +555,12 @@
 		若い時の苦労は買うてもせよ<end_line>
 		と言ってのう<end_line>
 	</sjis>
+	<ascii>
+		Turn up that frown.<end_line>
+		As they say,<end_line>
+		Heavy work in youth<end_line>
+		is quiet rest in old age.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -547,6 +572,11 @@
 		たくさん苦労をしておくと<end_line>
 		将来の役に立つのじゃぞ<end_line>
 	</sjis>
+	<ascii>
+		Learning to deal with adversity<end_line>
+		at your age<end_line>
+		will prepare you for the future.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -556,6 +586,9 @@
 	<sjis>
 		へぇ、そうなんだ<end_line>
 	</sjis>
+	<ascii>
+		I see, that makes sense.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -566,11 +599,17 @@
 		<sjis>
 			よし、がんばるよ、オレ！<end_line>
 		</sjis>
+		<ascii>
+			Alright!I'll do my best!<end_line>
+		</ascii>
 	</male>
 	<female>
 		<sjis>
 			うん、がんばるわ、わたし！<end_line>
 		</sjis>
+		<ascii>
+			Ok! I'll give it my best!<end_line>
+		</ascii>
 	</female>
 </dialogue>
 <dialogue>
@@ -582,6 +621,9 @@
 		うむ<end_line>
 		その意気じゃ！<end_line>
 	</sjis>
+	<ascii>
+		That's the spirit！<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -592,6 +634,11 @@
 		ちょっと納得いかないけど<end_line>
 		ティエをさがしに行かなきゃ<three_dots><end_line>
 	</sjis>
+	<ascii>
+		I still don't get<end_line>
+		how is any of this my fault,<end_line>
+		but we have to find her.<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -603,6 +650,11 @@
 		くだらんことに私まで<end_line>
 		まきこむとは<three_dots><end_line>
 	</sjis>
+	<ascii>
+		Good grief.<three_dots><end_line>
+		You had to go and get me involded<end_line>
+		in these pointless affairs.<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -614,6 +666,11 @@
 		でも、ミューノも宿屋で待ってるし<end_line>
 		がんばろ？<end_line>
 	</sjis>
+	<ascii>
+		Sorry.<three_dots><end_line>
+		But Murno is waiting for us<end_line>
+		so let's give it our best?<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -623,6 +680,9 @@
 	<sjis>
 		ちっ<three_dots><end_line>
 	</sjis>
+	<ascii>
+		Tch<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -632,6 +692,11 @@
 		ちょっと納得いかないけど<end_line>
 		ティエをさがしに行かなきゃ<three_dots><end_line>
 	</sjis>
+	<ascii>
+		I still don't get<end_line>
+		how is any of this my fault,<end_line>
+		but we have to find her.<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -641,6 +706,10 @@
 		ミューノ様も待ってますし<end_line>
 		元気出して行きましょう<end_line>
 	</sjis>
+	<ascii>
+		Lady Murno is awaiting for us,<end_line>
+		so cheer up and let's go.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -650,11 +719,17 @@
 		<sjis>
 			そうだな<three_dots><end_line>
 		</sjis>
+		<ascii>
+			You're right<three_dots><end_line>
+		</ascii>
 	</male>
 	<female>
 		<sjis>
 			そうだね<three_dots><end_line>
 		</sjis>
+		<ascii>
+			You're right<three_dots><end_line>
+		</ascii>
 	</female>
 </dialogue>
 <dialogue>
@@ -666,6 +741,12 @@
 		元気ないですねぇ<three_dots><end_line>
 		こんな時は、こう、手をにぎって<three_dots><end_line>
 	</sjis>
+	<ascii>
+		What, you're already<end_line>
+		feeling down again, aren't you?<three_dots><end_line>
+		At times like these<end_line>
+		we hold hands and<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -675,6 +756,9 @@
 		え、あ<three_dots><end_line>
 		ちょっ、何を<three_dots>！？<end_line>
 	</sjis>
+	<ascii>
+		Wha、what are you doing<three_dots>!?<end_line>
+	</ascii>
 </dialogue>
 <bigtext>
 	<partner name="rufeel">
@@ -683,6 +767,9 @@
 	<sjis>
 		がんばって！<end_line>
 	</sjis>
+	<ascii>
+		Let's do our best!<end_line>
+	</ascii>
 </bigtext>
 <dialogue>
 	<partner name="rufeel">
@@ -691,6 +778,9 @@
 	<sjis>
 		あ<three_dots><end_line>
 	</sjis>
+	<ascii>
+		Oh<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -701,6 +791,11 @@
 		おまじないですよ<end_line>
 		元気出ました？<end_line>
 	</sjis>
+	<ascii>
+		It's a good luck spell<end_line>
+		Lady Murno taught me.<end_line>
+		Felling better?<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -710,6 +805,10 @@
 		あ、うん！<end_line>
 		ありがと！<end_line>
 	</sjis>
+	<ascii>
+		Oh, yes!<end_line>
+		Thank you!<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
