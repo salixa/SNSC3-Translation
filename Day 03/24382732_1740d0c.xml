@@ -283,6 +283,9 @@
 	<sjis>
 		マーネイル宿場までティエを送ろう<end_line>
 	</sjis>
+	<ascii>
+		Let's take her to Marnail Station.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -292,6 +295,9 @@
 		すみません<end_line>
 		メイワクかけてしまって<three_dots><end_line>
 	</sjis>
+	<ascii>
+		I'm sorry for causing you trouble<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -301,6 +307,10 @@
 		そうだよね？<end_line>
 		そう思うなら、さっきの約束を<three_dots><end_line>
 	</sjis>
+	<ascii>
+		Well, if that's how you fell<end_line>
+		you could return us our m<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -309,6 +319,9 @@
 	<sjis>
 		いたっ！<end_line>
 	</sjis>
+	<ascii>
+		Ah, it hurts!<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -318,6 +331,10 @@
 		いたいの？<end_line>
 		大丈夫？<end_line>
 	</sjis>
+	<ascii>
+		Does it hurt?<end_line>
+		Are you ok?<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -335,6 +352,9 @@
 		だから、そんな目で<end_line>
 		アタシを見るなっ！<end_line>
 	</sjis>
+	<ascii>
+		Stop staring at me like that!<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
