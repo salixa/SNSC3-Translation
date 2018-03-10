@@ -363,6 +363,9 @@
 		ほほえみ亭って宿屋で<end_line>
 		一休みだ！<end_line>
 	</sjis>
+	<ascii>
+		Let's take a break at Smile Inn!<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -372,6 +375,10 @@
 		そうですよ！<end_line>
 		急ぎましょう！<end_line>
 	</sjis>
+	<ascii>
+		That's right!<end_line>
+		Let's hurry!<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -381,6 +388,10 @@
 		あ、そんなに急いで<three_dots>！<end_line>
 		ケガは大丈夫？<end_line>
 	</sjis>
+	<ascii>
+		There is no need to rush<three_dots>！<end_line>
+		Is your injury ok?<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -390,6 +401,10 @@
 		あ、ああ<end_line>
 		そうでしたね<three_dots><end_line>
 	</sjis>
+	<ascii>
+		Ah、r-right.<end_line>
+		my injury<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -399,6 +414,10 @@
 	<sjis>
 		急ニ元気ニ　ナリマシタネ<end_line>
 	</sjis>
+	<ascii>
+		It's as if you're healed<end_line>
+		all of a sudden.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -409,6 +428,10 @@
 		なんじゃ？<end_line>
 		急に元気になったようじゃが<three_dots><end_line>
 	</sjis>
+	<ascii>
+		What?<end_line>
+		It's as if you're suddenly all good.<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -419,6 +442,10 @@
 		どうした？<end_line>
 		突然元気になったのか？<end_line>
 	</sjis>
+	<ascii>
+		What's the matter?<end_line>
+		Suddenly feeling better?<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -429,6 +456,10 @@
 		なんだか急に<end_line>
 		元気になったみたいですわ<three_dots>？<end_line>
 	</sjis>
+	<ascii>
+		It's as if you're suddenly<end_line> 
+		all better<three_dots>?
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -437,6 +468,10 @@
 	<sjis>
 		そ、そんなことないですよ～<end_line>
 	</sjis>
+	<ascii>
+		N-no、it definitely<end_line>
+		still hurts a lot.<end_line>
+	<ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -445,6 +480,9 @@
 	<sjis>
 		<three_dots><end_line>
 	</sjis>
+	<ascii>
+		<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
