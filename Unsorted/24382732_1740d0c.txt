@@ -7,6 +7,10 @@
 		ティエが気になる<end_line>
 		行ってみよう！<end_line>
 	</sjis>
+	<ascii>
+		Something caught Tier's attention.<end_line>
+		Let's check it out!<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -16,6 +20,9 @@
 	<sjis>
 		了解デス！<end_line>
 	</sjis>
+	<ascii>
+		Understood!<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -26,6 +33,10 @@
 		ティエが気になる<end_line>
 		行ってみよう！<end_line>
 	</sjis>
+	<ascii>
+		Something caught Tier's attention.<end_line>
+		Let's check it out!<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -35,6 +46,9 @@
 	<sjis>
 		承知っ！<end_line>
 	</sjis>
+	<ascii>
+		Acknowledged!<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -45,6 +59,10 @@
 		ティエが気になる<end_line>
 		行ってみよう！<end_line>
 	</sjis>
+	<ascii>
+		Something caught Tier's attention.<end_line>
+		Let's check it out!<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -54,6 +72,9 @@
 	<sjis>
 		<three_dots>やれやれ<end_line>
 	</sjis>
+	<ascii>
+		<three_dots>Give me a break.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -63,6 +84,10 @@
 		ティエが気になる<end_line>
 		行ってみよう！<end_line>
 	</sjis>
+	<ascii>
+		Something caught Tier's attention.<end_line>
+		Let's check it out!<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -71,6 +96,9 @@
 	<sjis>
 		わかりましたわ！<end_line>
 	</sjis>
+	<ascii>
+		Understood!<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -80,6 +108,9 @@
 	<sjis>
 		ティエと勝負か<three_dots><end_line>
 	</sjis>
+	<ascii>
+		So, a match with Tier<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -91,6 +122,11 @@
 		体格差ナドカラ　考エテ<end_line>
 		私タチナラ勝テルト　思ワレマス<end_line>
 	</sjis>
+	<ascii>
+		Her strenght may be unknown but,<end_line>
+		considering our physiques,<end_line>
+		I would say we have the upper hand.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -102,6 +138,11 @@
 		勝ち負けよりも<end_line>
 		後のことが心配だったりして<three_dots><end_line>
 	</sjis>
+	<ascii>
+		<three_dots><end_line>
+		It's not winning or losing<end_line>
+		I'm worried about<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -111,6 +152,9 @@
 	<sjis>
 		ティエと勝負か<three_dots><end_line>
 	</sjis>
+	<ascii>
+		So, a match with Tier<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -122,6 +166,11 @@
 		我らの力を合わせれば<end_line>
 		負ける相手ではない<end_line>
 	</sjis>
+	<ascii>
+		Do not worry.<end_line>
+		If we combine our powers<end_line>
+		we won't lose.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -133,6 +182,11 @@
 		勝ち負けよりも<end_line>
 		後のことが心配だったりして<three_dots><end_line>
 	</sjis>
+	<ascii>
+		<three_dots><end_line>
+		It's not winning or losing<end_line>
+		I'm worried about<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -142,6 +196,9 @@
 	<sjis>
 		ティエと勝負か<three_dots><end_line>
 	</sjis>
+	<ascii>
+		So, a match with Tier<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -151,6 +208,9 @@
 	<sjis>
 		<three_dots>コワイのか？<end_line>
 	</sjis>
+	<ascii>
+		<three_dots>Are you scared?<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -160,6 +220,9 @@
 	<sjis>
 		勝負の後のことを考えるとね<three_dots><end_line>
 	</sjis>
+	<ascii>
+		Thinking about the aftermath<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -170,6 +233,10 @@
 		ふ<three_dots><end_line>
 		そこまで考えが回るとはな<end_line>
 	</sjis>
+	<ascii>
+		Oh<three_dots><end_line>
+		So you're thinking that far ahead.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -178,6 +245,9 @@
 	<sjis>
 		ティエと勝負か<three_dots><end_line>
 	</sjis>
+	<ascii>
+		So, a match with Tier<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -187,6 +257,10 @@
 		大丈夫ですわ！<end_line>
 		私たちなら勝てますわ！<end_line>
 	</sjis>
+	<ascii>
+		Don't worry about it！<end_line>
+		Together we can win！<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -197,6 +271,11 @@
 		勝ち負けよりも<end_line>
 		後のことが心配だったりして<three_dots><end_line>
 	</sjis>
+	<ascii>
+		<three_dots><end_line>
+		It's not winning or losing<end_line>
+		I'm worried about<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
