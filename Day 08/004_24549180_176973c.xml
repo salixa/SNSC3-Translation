@@ -26,8 +26,8 @@
 		</sjis>
 	</female>
   <ascii>
-    We shouldn't wander off while<end_line>
-    Murno is still being targeted<three_dots><end_line>
+    I shouldn't wander around while<end_line>
+    Murno is still in danger<three_dots><end_line>
     Let's head to the workshop.<end_line>
   </ascii>
 </dialogue>
@@ -61,8 +61,8 @@
 		スレンジ採掘場があるんだ<end_line>
 	</sjis>
   <ascii>
-    West of Prosban is the <end_line>
-    Surange Mine.<end_line>
+    West of Prosban is<end_line>
+    the Slenj Mine.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -74,9 +74,9 @@
 		近づく人もいなくなったんだ<end_line>
 	</sjis>
   <ascii>
-    But there's a rumor of a scary<end_line>
-    Stray Summon Beast called Red Wing,<end_line>
-    and there have been disappearances.<end_line>
+    Be careful though. I've heard a<end_line>
+    Stray called Red Wing is there,<end_line>
+    and people have gone missing.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -87,7 +87,7 @@
 		ベンソンさんはにらんでいるらしい<three_dots><end_line>
 	</sjis>
   <ascii>
-    Mr. Benson was scowling, seemingly<end_line>
+    Mr. Benson is scowling, seemingly<end_line>
     saying that your partner has a huge<end_line>
     effect on the quality of a weapon.<end_line>
   </ascii>

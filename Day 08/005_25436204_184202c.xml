@@ -85,7 +85,7 @@
 		何もすることないからな<end_line>
 	</sjis>
   <ascii>
-    Even if you came,<end_line>
+    Even if you were there,<end_line>
     there'd be nothing for <end_line>
     you to do anyway. <end_line>
   </ascii>
@@ -98,7 +98,7 @@
 		ウチで留守番でもしてな<end_line>
 	</sjis>
   <ascii>
-    Take care of the house for us.<end_line>
+    Watch the house for us.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -111,7 +111,7 @@
 	</sjis>
   <ascii>
     Tch<three_dots><end_line>
-    I'm going out then.<end_line>
+    Fine, I'm going out then.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -122,7 +122,7 @@
 		ちょっと<three_dots><end_line>
 	</sjis>
   <ascii>
-    Ah, you,<end_line>
+    Ah, hey,<end_line>
     wait<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -175,8 +175,7 @@
 		多分<end_line>
 	</sjis>
   <ascii>
-    Shopping,<end_line>
-    probably.<end_line>
+    Shopping, probably<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -189,7 +188,7 @@
 		商売に出かけたんですよ<end_line>
 	</sjis>
   <ascii>
-    She definitely<three_dots><end_line>
+    She definitely<end_line>
     went out shopping.<end_line>
   </ascii>
 </dialogue>
@@ -292,7 +291,7 @@
 		</sjis>
 	</female>
   <ascii>
-    What was that<three_dots>?<end_line>
+    What's with him<three_dots>?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
