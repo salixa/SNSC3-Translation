@@ -9,10 +9,9 @@
 		<three_dots>って言っても<three_dots><end_line>
 	</sjis>
   <ascii>
-    Now then!<end_line>
+    Okay!<end_line>
     Today there's a meeting at<end_line>
     the Gold Council!<end_line>
-    <three_dots>but<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -25,7 +24,7 @@
 		話し合いって苦手なんだよな<end_line>
 	</sjis>
   <ascii>
-    Actually,<end_line>
+    <three_dots>But<three_dots> Actually,<end_line>
     I'm bad at public speaking.<end_line>
   </ascii>
 </dialogue>
@@ -40,10 +39,9 @@
 		<three_dots>って言っても<three_dots><end_line>
 	</sjis>
   <ascii>
-    Now then!<end_line>
+    Okay!<end_line>
     Today there's a meeting at<end_line>
     the Gold Council!<end_line>
-    <three_dots>but<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -56,7 +54,7 @@
 		話し合いって苦手なんだよね<end_line>
 	</sjis>
   <ascii>
-    Actually,<end_line>
+    <three_dots>But<three_dots> Actually,<end_line>
     I'm bad at public speaking.<end_line>
   </ascii>
 </dialogue>
@@ -98,7 +96,7 @@
 		みんなに認めてもらわないと！<end_line>
 	</sjis>
   <ascii>
-    Anyway, I've got to do my best.<end_line>
+    Anyway, I'll do what I can.<end_line>
     We have to prove that<end_line>
     Anise is after the Demon Stone!<end_line>
   </ascii>
@@ -115,7 +113,7 @@
 		みんなに認めてもらわないと！<end_line>
 	</sjis>
   <ascii>
-    Anyway, I've got to do my best.<end_line>
+    Anyway, I'll do what I can.<end_line>
     We have to prove that<end_line>
     Anise is after the Demon Stone!<end_line>
   </ascii>
@@ -230,8 +228,9 @@
 		いいだろ<end_line>
 	</sjis>
   <ascii>
-    Hey, don't get excited to<end_line>
-    say things like that.<end_line>
+    Come on,<end_line>
+    I have feelings too,<end_line>
+    you know!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -246,8 +245,9 @@
 		いいじゃない<end_line>
 	</sjis>
   <ascii>
-    Hey, don't get excited to<end_line>
-    say things like that.<end_line>
+    Come on,<end_line>
+    I have feelings too,<end_line>
+    you know!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -261,10 +261,9 @@
 		シッカリしてもらわんとな<end_line>
 	</sjis>
   <ascii>
-    However, if we cannot convince,<end_line>
-    them of Anise's crimes, <end_line>
-    we cannot do anything to her.<end_line>
-    We will have to work hard.<end_line>
+    Remember, we must do everything<end_line>
+    we can to convince them of<end_line>
+    Anise's treachery.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -324,7 +323,7 @@
 		行こうぜ！<end_line>
 	</sjis>
   <ascii>
-    Don't worry about the details.<end_line>
+    Don't worry about it.<end_line>
     Let's go!<end_line>
   </ascii>
 </dialogue>
@@ -339,7 +338,7 @@
 		行こう！<end_line>
 	</sjis>
   <ascii>
-    Don't worry about the details.<end_line>
+    Don't worry about it.<end_line>
     Let's go!<end_line>
   </ascii>
 </dialogue>
@@ -381,7 +380,7 @@
 		みんなに認めてもらわないと！<end_line>
 	</sjis>
   <ascii>
-    Anyway, I've got to do my best.<end_line>
+    Anyway, I'll do what I can.<end_line>
     We have to prove that<end_line>
     Anise is after the Demon Stone!<end_line>
   </ascii>
@@ -487,7 +486,7 @@
 		本当にそのとおりですわ！<end_line>
 	</sjis>
   <ascii>
-    That's true!
+    That's true!<end_line>
     You are terrible at it!<end_line>
   </ascii>
 </dialogue>
@@ -503,8 +502,9 @@
 		いいだろ<end_line>
 	</sjis>
   <ascii>
-    Hey, don't get excited to<end_line>
-    say things like that.<end_line>
+    Come on,<end_line>
+    I have feelings too,<end_line>
+    you know!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -519,8 +519,9 @@
 		いいじゃない<end_line>
 	</sjis>
   <ascii>
-    Hey, don't get excited to<end_line>
-    say things like that.<end_line>
+    Come on,<end_line>
+    I have feelings too,<end_line>
+    you know!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -534,10 +535,9 @@
 		シッカリしてもらわないと困りますわ<end_line>
 	</sjis>
   <ascii>
-    But we must prove that they<end_line>
-    are after the Demon Stone!<end_line>
-    It will be troublesome if we<end_line>
-    don't work hard.<end_line>
+    We must prove Anise is<end_line>
+    after the Demon Stone!<end_line>
+    It will be troublesome otherwise.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -611,7 +611,7 @@
 		行こうぜ！<end_line>
 	</sjis>
   <ascii>
-    Don't worry about the details.<end_line>
+    Don't worry about it.<end_line>
     Let's go!<end_line>
   </ascii>
 </dialogue>
@@ -626,7 +626,7 @@
 		行こう！<end_line>
 	</sjis>
   <ascii>
-    Don't worry about the details.<end_line>
+    Don't worry about it.<end_line>
     Let's go!<end_line>
   </ascii>
 </dialogue>
