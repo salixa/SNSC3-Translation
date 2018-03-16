@@ -1,0 +1,203 @@
+List of <location>s and filenames which may contain NPCs which have duplicated dialogue.
+All duplicated dialogue should be kept consistent.
+
+====================================================
+MAJOR AREAS
+====================================================
+TOWNS:
+ディックル村　(Diekle Village)
+マーネイル宿場　(Marneil Station)
+ルイーズ村 (Louise Village)
+プロスバンの町　(Prosban)
+
+DUNGEONS:
+スレンジ採掘場　(Slenj Mine)
+フラード洞窟　(Flaad Cave)
+ベリートの森　(Beleet Forest)
+グマグの炎遺跡 (Gumag Flame Ruins)
+
+MISCELLANEOUS:
+村長の家　(Chief's House)
+ボスタフ工房　(Bostaph's Workshop)
+ほほえみ亭　(Smile Inn)
+ギャラハン工房　(Gallahan's Workshop)
+ベンソン工房　(Benson's Workshop)
+金の派閥　(Gold Council)
+
+====================================================
+SUB AREAS
+====================================================
+
+DIEKLE VILLAGE
+ディックル村　広場 (Diekle Village, Village Square)
+Day 08\035_24532252_176551c.xml
+
+ディックル村　駅 (Diekle Village, Station)
+Day 08\036_24535116_176604c.xml
+
+ディックル村　鉱洞入り口 (Diekle Village, Mine Entrance)
+Day 08\037_24535964_176639c.xml 
+
+ディックル村　釣り人の池 (Diekle Village, Fisherman's Pond)
+Day 08\038_24537036_17667cc.xml
+
+村長の家　道具屋 (Chief's House, Tool Store)
+Day 08\039_24542060_1767b6c.xml
+
+村長の家　広間 (Chief's House, Main Hall)
+Day 08\040_24543180_1767fcc.xml 
+
+ディックル村　住宅地 (Diekle Village, Residential Area)
+Day 08\041_24533772_1765b0c.xml
+
+ボスタフ工房　ディックル村支部 (Bostaph's Workshop, Diekle Branch)
+Day 08\042_24541036_176776c.xml
+
+
+MARNEIL STATION
+マーネイル宿場　ほほえみ亭前 (Marneil Station, Smile Inn Front)
+Day 08\043_24544156_176839c.xml
+
+マーネイル宿場　駅 (Marneil Station, Station)
+Day 08\044_24545900_1768a6c.xml
+
+ほほえみ亭　１階 (Smile Inn, First Floor)
+Day 08\045_24546812_1768dfc.xml
+
+Day 08\046_25835532_18a380c.xml
+
+
+SLENJ MINE
+スレンジ採掘場　エリア１ (Slenj Mine, Area 1)
+Day 08\046_25835532_18a380c.xml
+
+スレンジ採掘場　エリア２ (Slenj Mine, Area 2)
+Day 08\048_25841788_18a507c.xml
+
+スレンジ採掘場　エリア３ (Slenj Mine, Area 3)
+Day 08\049_25843212_18a560c.xml
+
+スレンジ採掘場　アジトエリア１ (Slenj Mine, Hideout Area 1)
+Day 08\054_25846812_18a641c.xml 
+
+スレンジ採掘場　アジトエリア３ (Slenj Mine, Hideout Area 3)
+Day 08\059_25849452_18a6e6c.xml
+
+FLAAD CAVE (Flood?)
+フラード洞窟　エリア５ (Flaad Cave, Area 5)
+Day 07\033_25798220_189a64c.xml
+
+BELEET FOREST
+ベリートの森　エリア１ (Beleet Forst, Area 1)
+Day 07\040_25785116_189731c.xml 
+
+ベリートの森　エリア５ (Beleet Forst, Area 5)
+Day 07\035_25790764_189892c.xml
+
+LOUISE VILLAGE
+ルイーズ村　牢屋前 (Louise Village, Prison Front)
+Day 08\027_24577132_177046c.xml
+Day 07\006_24512940_17609ac.xml
+Day 07\025_24514732_17610ac.xml
+
+ルイーズ村　牢屋 (Louise Village, Prison)
+Day 08\028_24578540_17709ec.xml
+Day 07\007_24514732_17610ac.xml
+
+ルイーズ村　住宅地 (Louise Village, Residential Area)
+Day 08\029_24575468_176fdec.xml
+Day 07\004_24511132_176029c.xml
+
+ルイーズ村　民家Ａ (Louise Village, Residence A)
+Day 08\030_24585740_177260c.xml
+Day 07\24521452_1762aec.xml 
+
+ルイーズ村　民家Ｂ (Louise Village, Residence B)
+Day 08\031_24586828_1772a4c.xml
+
+ルイーズ村　村長の家 (Louise Village, Chief's House)
+Day 08\032_24584812_177226c.xml
+
+ルイーズ村　遺跡前 (Louise Village, Ruins Front)
+Day 08\033_24573356_176f5ac.xml
+Day 07\008_24509468_175fc1c.xml
+
+ギャラハン工房　道具屋 (Gallahan's Workshop, Tool Store)
+Day 08\034_24582844_1771abc.xml
+Day 07\002_24519276_176226c.xml
+
+ギャラハン工房　工房 (Gallhan's Workshop, Workshop)
+Day 07\000_24518220_1761e4c.xml
+
+GUMAG FLAME RUINS
+グマグの炎遺跡　エリア１ (Gumag Flame Ruins, Area 1)
+Day 07\010_25817148_189f03c.xml
+
+グマグの炎遺跡　エリア３ (Gumag Flame Ruins, Area 3)
+Day 07\012_25821500_18a013c.xml
+
+グマグの炎遺跡　エリア４ (Gumag Flame Ruins, Area 4)
+Day 07\013_25823948_18a0acc.xml
+
+グマグの炎遺跡　エリア５ (Gumag Flame Ruins, Area 5)
+Day 07\014_25825308_18a101c.xml
+
+グマグの炎遺跡　エリア６ (Gumag Flame Ruins, Area 6)
+Day 07\018_25826908_18a165c.xml
+
+グマグの炎遺跡　エリア１０ (Gumag Flame Ruins, Area 10)
+Day 07\020_25834300_18a333c.xml
+
+PROSBAN
+ベンソン工房　工房 (Benson's Workshop, Workshop)
+Day 08/000_24562252_176ca4c.xml
+
+ベンソン工房　エントランス (Benson's Workshop, Entrance)
+Day 08\002_24563292_176ce5c.xml
+Day 07\042_24508492_175f84c.xml
+
+プロスバンの町　北門前工房通り (Town of Prosban, North Gate Workshop Way)
+Day 08\004_24549180_176973c.xml
+
+プロスバンの町　西門 (Town of Prosban, West Gate)
+Day 08\008_24559260_176be9c.xml
+
+金の派閥　エントランス (Gold Council, Entrance)
+Day 08\010_24565964_176d8cc.xml
+
+プロスバンの町　南門公園 (Town of Prosban, South Gate Park)
+Day 08\012_24557836_176b90c.xml
+
+プロスバンの町　住宅街階段 (Town of Prosban, Residential Area Stairway)
+Day 08\013_24556076_176b22c.xml 
+
+プロスバンの町　民家Ａ (Town of Prosban, Residence A)
+Day 08\014_24567180_176dd8c.xml
+
+プロスバンの町　民家Ｂ (Town of Prosban, Residence B)
+Day 08\015_24568188_176e17c.xml
+
+プロスバンの町　商店通り (Town of Prosban, Shopping Street)
+Day 08\016_24551340_1769fac.xml 
+
+プロスバンの町　鉱業区 (Town of Prosban, Mining District)
+Day 08\017_24554524_176ac1c.xml
+
+プロスバンの町　武器屋 (Town of Prosban, Weapon Store)
+Day 08\018_24569004_176e4ac.xml
+
+プロスバンの町　福引き屋 (Town of Prosban, Lottery Store)
+Day 08\019_24570092_176e8ec.xml
+
+プロスバンの町　道具屋 (Town of Prosban, Tool Store)
+Day 08\020_24571132_176ecfc.xml
+
+ボスタフ工房　本部 (Bostaph's Workshop, Headquarters)
+Day 08\022_24564892_176d49c.xml
+
+プロスバンの町　駅 (Town of Prosban, Station)
+Day 08\023_24553324_176a76c.xml 
+
+ベンソン工房　エントランス (Benson's Workshop, Entrance)
+Day 08\024_24563292_176ce5c.xml
+
