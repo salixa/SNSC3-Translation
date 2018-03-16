@@ -49,7 +49,7 @@
     メンドウだなぁ<three_dots><end_line>
   </sjis>
   <ascii>
-    The usual guardsman caught a cold.<end_line>
+    The usual gatekeeper caught a cold.<end_line>
     Now I have to take his place<three_dots><end_line>
     What a pain<three_dots><end_line>
   </ascii>
@@ -63,10 +63,9 @@
     行きたいなら止めないぜ<end_line>
   </sjis>
   <ascii>
-    Just ahead is a really scary<end_line>
-    Stray called Red Wing.<end_line>
-    But if you really want to go,<end_line>
-    I won't stop you.<end_line>
+    Just ahead is a really scary Stray<end_line>
+    called Red Wing. If you really want<end_line>
+    to go, I won't stop you.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -74,6 +73,9 @@
   <sjis>
     わう！<end_line>
   </sjis>
+  <ascii>
+    Wow!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -84,7 +86,7 @@
   </sjis>
   <ascii>
     There are some really tough<end_line>
-    strays in Surange Mine!<end_line>
+    strays in Slenj Mine!<end_line>
     Be careful outside of town.<end_line>
   </ascii>
 </dialogue>
@@ -101,8 +103,6 @@
     opponent you must face with magic.<end_line>
   </ascii>
 </dialogue>
-#unsure about context of this. might need to use tags for the arrows, but it's not
-#in the original JP text.
 <dialogue>
   <info box="simple">
   <sjis>

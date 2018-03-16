@@ -109,9 +109,9 @@
     マーネイル宿場の辺りまで、たのむぜ<end_line>
   </sjis>
   <ascii>
-    V.E, take Lute Cave, and<end_line>
+    Vee, take Lute Cave, and<end_line>
     <player_nickname>, from Pubick Forest<end_line>
-    until Marnail Station, okay?<end_line>
+    until Marneil Station, okay?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -124,10 +124,9 @@
     そっちはどうするんだい？<end_line>
   </sjis>
   <ascii>
-    We should be able to get there <end_line>
+    We should be able to get there<end_line>
     from the west gate just<end_line>
-    down these stairs.<end_line>
-    What about you?<end_line>
+    down these stairs, right?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -140,7 +139,7 @@
     ヤバイ召喚獣がいるからな<end_line>
   </sjis>
   <ascii>
-    Oh, and don't go to Surange Mine.<end_line>
+    Oh, and don't go to Slenj Mine.<end_line>
     There's a dangerous Summon Beast,<end_line>
     Red Wing, in the area.<end_line>
   </ascii>
@@ -215,7 +214,7 @@
   <ascii>
     That's right<three_dots><end_line>
     It's even big enough that<end_line>
-    it can swallow humans whole.<end_line>
+    it can swallow a man whole.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -297,7 +296,7 @@
     コワイですよ<end_line>
   </sjis>
   <ascii>
-    That's not cool, that's terrifying.<end_line>
+    That's terrifying.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -310,7 +309,7 @@
     そのままにされているが<three_dots><end_line>
   </sjis>
   <ascii>
-    It won't attack you as long as<end_line>
+    It won't attack as long as<end_line>
     you stay away from it, so<end_line>
     it's been left alone for now<three_dots><end_line>
   </ascii>
@@ -366,8 +365,8 @@
     イアナさんにも言われただろ？<end_line>
   </sjis>
   <ascii>
-    You're holding the Demon<end_line>
-    Stone, stay at the workshop like<end_line>
+    You're holding the Demon Stone,<end_line>
+    stay at the workshop like<end_line>
     a good girl. Ianna said so, right?<end_line>
   </ascii>
 </dialogue>
@@ -403,9 +402,8 @@
     <three_dots>ってことだよ<end_line>
   </sjis>
   <ascii>
-    Ah~<three_dots>, what Jade's trying<end_line>
-    to say is we must do everything <end_line>
-    we can to protect you and the Stone.<end_line>
+    Ah<three_dots> What Jade's trying<end_line>
+    to say is to protect the Stone.<end_line>
     <three_dots>Right?<end_line>
   </ascii>
 </dialogue>
@@ -446,7 +444,7 @@
   </sjis>
   <ascii>
     Well, now that that's settled,<end_line>
-    <player_nickname>、<partner><end_line>
+    <player_nickname>, <partner>,<end_line>
     you'll be escorting her back.<end_line>
   </ascii>
 </dialogue>
@@ -475,7 +473,7 @@
   <ascii>
     Then let's go!<end_line>
     Everyone, be careful.<end_line>
-    Especially V.E. Don't get lost.<end_line>
+    Especially Vee. Don't get lost.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -488,7 +486,7 @@
     涙が出るほどうれしいんだけど<end_line>
   </sjis>
   <ascii>
-    I'm glad you're care<end_line>
+    I'm glad you care<end_line>
     about me, but<three_dots><end_line>
   </ascii>
 </dialogue>

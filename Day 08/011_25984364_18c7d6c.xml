@@ -120,9 +120,9 @@
     すばらしい材料をさしあげます<end_line>
   </sjis>
   <ascii>
-    As compensation, we can provide you<end_line>
-    with high quality materials<end_line>
-    for crafting.<end_line>
+    As compensation, we can<end_line>
+    provide you with high quality<end_line>
+    materials for crafting.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -185,7 +185,7 @@
   </sjis>
   <ascii>
     If you're here about the Strays,<end_line>
-    I have someone who can use your aid.<end_line>
+    I have something you can help with.<end_line>
     Want to give it a try?<end_line>
   </ascii>
 </dialogue>
@@ -199,8 +199,6 @@
     <option_2> and　<option_1><end_line>
   </ascii>
 </dialogue>
-#side quest dialog. gives location to find target summons
-#144->?
 <dialogue>
   <info box="right">
   <portrait_r name="ianna">
@@ -221,7 +219,7 @@
     退治してくれるか？<end_line>
   </sjis>
   <ascii>
-    can be found in Surange Mine.<end_line>
+    can be found in Slenj Mine.<end_line>
     Will you eliminate them?<end_line>
   </ascii>
 </dialogue>
@@ -289,7 +287,7 @@
     スレンジ採掘場で確認されてるわ<end_line>
   </sjis>
   <ascii>
-    have been found in Surange Mine.<end_line>
+    have been found in Slenj Mine.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -300,7 +298,7 @@
   </sjis>
   <ascii>
     are out of control in<end_line>
-    Surange Mine.<end_line>
+    Slenj Mine.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -412,7 +410,7 @@
     退治してくれるか？<end_line>
   </sjis>
   <ascii>
-    can be found in Surange Mine.<end_line>
+    can be found in Slenj Mine.<end_line>
     Will you eliminate them?<end_line>
   </ascii>
 </dialogue>
@@ -480,7 +478,7 @@
     スレンジ採掘場で確認されてるわ<end_line>
   </sjis>
   <ascii>
-    have been found in Surange Mine.<end_line>
+    have been found in Slenj Mine.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -491,7 +489,7 @@
   </sjis>
   <ascii>
     are out of control in<end_line>
-    Surange Mine.<end_line>
+    Slenj Mine.<end_line>
   </ascii>
 </dialogue>
 <dialogue>

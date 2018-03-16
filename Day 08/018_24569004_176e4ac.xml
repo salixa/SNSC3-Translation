@@ -8,7 +8,6 @@
     プロスバンの町　武器屋<end_line>
   </sjis>
 </location>
-###AlsoMaterials
 <dialogue>
   <info box="simple">
   <sjis>
@@ -17,7 +16,7 @@
     多数取り扱っております<end_line>
   </sjis>
   <ascii>
-    We stock matter as well.<end_line>
+    We stock Shapestones as well.<end_line>
     And of course, we stock items<end_line>
     useful when crafting in bulk.<end_line>
   </ascii>
