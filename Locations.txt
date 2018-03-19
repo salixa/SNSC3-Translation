@@ -146,7 +146,6 @@ Day 06\048_24492844_175bb2c.xml
 ルイーズ村　牢屋前 (Louise Village, Prison Front)
 Day 08\027_24577132_177046c.xml
 Day 07\006_24512940_17609ac.xml
-Day 07\025_24514732_17610ac.xml
 Day 06\017_24487516_175a65c.xml 
 
 ルイーズ村　牢屋 (Louise Village, Prison)
