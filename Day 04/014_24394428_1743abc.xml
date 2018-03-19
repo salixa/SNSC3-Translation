@@ -10,4 +10,8 @@
 		この村の鍛冶屋はボスタフ工房で<end_line>
 		十分だぜ<end_line>
 	</sjis>
+  <ascii>
+    Bostaph's Workshop is the only<end_line>
+    smithy this town needs.<end_line>
+  </ascii>
 </dialogue>
