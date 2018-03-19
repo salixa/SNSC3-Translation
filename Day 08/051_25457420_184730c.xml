@@ -7,7 +7,7 @@
     <three_dots>！？<end_line>
   </sjis>
   <ascii>
-    <three_dots>！？<end_line>
+    <three_dots>!?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -78,7 +78,7 @@
     なにやつ！？<end_line>
   </sjis>
   <ascii>
-    Who is it!?<end_line>
+    Who's there!?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -114,7 +114,7 @@
     気配がしたんじゃがの<three_dots><end_line>
   </sjis>
   <ascii>
-    Yes<three_dots><end_line>
+    Mmm<three_dots><end_line>
     I'm sure I felt<end_line>
     someone's presence<three_dots><end_line>
   </ascii>

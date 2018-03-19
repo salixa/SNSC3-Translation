@@ -67,7 +67,8 @@
   </sjis>
   <ascii>
     Of course I know that!<end_line>
-    What about you? Why are you here?<end_line>
+    What about you?<end_line>
+    You came here knowing that?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -80,7 +81,7 @@
     ザックから聞いたから<end_line>
   </sjis>
   <ascii>
-    Why<three_dots><end_line>
+    Well<three_dots><end_line>
     Zakk told me that Anise<end_line>
     was hiding somewhere in here.<end_line>
   </ascii>
@@ -109,7 +110,7 @@
   </sjis>
   <ascii>
     And What Business<end_line>
-    Do you Have Here?<end_line>
+    Do You Have Here?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -167,8 +168,7 @@
     そう、武器を鍛えに来ただけだ<end_line>
   </sjis>
   <ascii>
-    I, I'm<three_dots>!<end_line>
-    Weapons<three_dots><end_line>
+    I, I'm<three_dots>! Weapons<three_dots><end_line>
     Right, I'm here to<end_line>
     strengthen my weapons.<end_line>
   </ascii>
@@ -228,7 +228,7 @@
   </female>
   <ascii>
     What's wrong with him?<end_line>
-    Is he always angry?<end_line>
+    Is he always that angry?<end_line>
     He gives me a bad feeling.<end_line>
   </ascii>
 </dialogue>

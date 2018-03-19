@@ -103,8 +103,8 @@
 	</sjis>
   <ascii>
     You're so foul-mouthed<three_dots><end_line>
-    When talking to an older beauty<end_line>
-    like me, you<three_dots><end_line>
+    When talking to an older<end_line>
+    beauty like me, you<three_dots><end_line>
   </ascii>
 </dialogue>
 <bigtext>
@@ -751,7 +751,6 @@
 	</sjis>
   <ascii>
     My plans<three_dots><end_line>
-    That's right<three_dots><end_line>
     You're dead anyway<three_dots><end_line>
     I'll be merciful and tell you<three_dots><end_line>
   </ascii>
@@ -894,6 +893,6 @@
 	</sjis>
   <ascii>
     So,<end_line>
-    that's what you wer thinking.<end_line>
+    that's what you were thinking.<end_line>
   </ascii>
 </dialogue>

@@ -42,7 +42,7 @@
     アレ<three_dots><end_line>
   </sjis>
   <ascii>
-    <player_nickname><end_line>
+    <player_nickname>.<end_line>
     That's<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -82,6 +82,7 @@
   <ascii>
     That must be<three_dots><end_line>
     I knew they were here!<end_line>
+    Their hideout must be nearby!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -92,7 +93,7 @@
     追いかけないと！<end_line>
   </sjis>
   <ascii>
-    We have to chase them!<end_line>
+    We have to chase him!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -174,7 +175,6 @@
     is take them out<three_dots>!<end_line>
   </ascii>
 </dialogue>
-###Unsure about context without gameplay part of this
 <dialogue>
   <info box="right">
   <portrait_l entry="partner" eye="sad" mouth="serious">
@@ -217,7 +217,7 @@
     ナゾじゃ！<end_line>
   </sjis>
   <ascii>
-    It's a mystery!<end_line>
+    How mysterious!<end_line>
   </ascii>
 </dialogue>
 <dialogue>

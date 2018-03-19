@@ -7,7 +7,7 @@
     話し合いはどうだったの？<end_line>
   </sjis>
   <ascii>
-    Ah, <player_nickname><end_line>
+    Ah, <player_nickname>.<end_line>
     How did the meeting go?<end_line>
   </ascii>
 </dialogue>
@@ -79,8 +79,7 @@
   </sjis>
   <ascii>
     Hey, do you know where they are?<end_line>
-    Aren't you the most well<end_line>
-    informed in town<end_line>
+    You're an informant, aren't you?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -127,7 +126,7 @@
     </sjis>
   </female>
   <ascii>
-    Well informed?<end_line>
+    You're an informant?<end_line>
     Haven't heard that before.<end_line>
   </ascii>
 </dialogue>
@@ -154,10 +153,9 @@
     ウソなんだ～<end_line>
   </sjis>
   <ascii>
-    You really don't know where<end_line>
-    they are, do you?<end_line>
-    So all that about being well<end_line>
-    informed was a lie~<end_line>
+    You have no idea, do you?<end_line>
+    So all that about knowing<end_line>
+    the area well was a lie~<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -170,8 +168,8 @@
     西門の先の採掘場！<end_line>
   </sjis>
   <ascii>
-    I do!<end_line>
-    They're somewhere in Surange Mine!<end_line>
+    I do know!<end_line>
+    They're somewhere in Slenj Mine!<end_line>
     Near the west gate!<end_line>
   </ascii>
 </dialogue>
@@ -220,6 +218,7 @@
   <ascii>
     What<three_dots>?<end_line>
     Isn't that Red Wing living there?<end_line>
+    No one's supposed to go there.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -286,8 +285,8 @@
     いいんじゃないの？<end_line>
   </sjis>
   <ascii>
-    Shouldn't we ask V.E and the<end_line>
-    others to come too?<end_line>
+    Shouldn't we ask Vee and<end_line>
+    the others to come too?<end_line>
     That place is dangerous.<end_line>
   </ascii>
 </dialogue>
@@ -314,8 +313,8 @@
     仕方ないわね<end_line>
   </sjis>
   <ascii>
-    Geez, this is so bothersome.<end_line>
-    We have no choice.<end_line>
+    Geez, this is so annoying.<end_line>
+    Fine.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -328,7 +327,8 @@
     ムリしちゃダメよ<end_line>
   </sjis>
   <ascii>
-    We'll have to let V.E and Jade know.<end_line>
+    We'll let Vee and Jade know.<end_line>
+    Be careful, you two.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -378,7 +378,7 @@
     ワカラナクナリマシタ<end_line>
   </sjis>
   <ascii>
-    I No Longer Know <end_line>
+    I No Longer Know<end_line>
     Whose Follower He Is.<end_line>
   </ascii>
 </dialogue>
