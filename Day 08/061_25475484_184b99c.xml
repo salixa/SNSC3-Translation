@@ -50,7 +50,7 @@
     なるなんてね<three_dots><end_line>
   </sjis>
   <ascii>
-    I ever thought we would be the<end_line>
+    I never thought we would be the<end_line>
     ones going up against Red Wing<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -183,7 +183,7 @@
     </sjis>
   </female>
   <ascii>
-    So let's say we all helped<end_line> 
+    So let's say we all helped<end_line>
     defeat Red Wing.<end_line>
     Me, <partner>, and you, together<three_dots><end_line>
   </ascii>
@@ -196,8 +196,8 @@
     <partner><three_dots>！<end_line>
   </sjis>
   <ascii>
-    <player_nickname><three_dots>！<end_line>
-    <partner><three_dots>！<end_line>
+    <player_nickname><three_dots>!<end_line>
+    <partner><three_dots>!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -480,8 +480,8 @@
     オレたち、３人さ<end_line>
   </sjis>
   <ascii>
-    All three of us<end_line>
-    defeated Red Wing.<end_line>
+    We did it together,<end_line>
+    all three of us.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -506,8 +506,8 @@
     わたしたち、３人だよ<end_line>
   </sjis>
   <ascii>
-    All three of us<end_line>
-    defeated Red Wing.<end_line>
+    We did it together,<end_line>
+    all three of us.<end_line>
   </ascii>
 </dialogue>
 <dialogue>

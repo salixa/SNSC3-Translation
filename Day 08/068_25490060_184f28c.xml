@@ -118,8 +118,8 @@
   </sjis>
   <ascii>
     Then look at me<three_dots><end_line>
-    I show up late and don't<end_line>
-    get constantly interrupted<three_dots>
+    I show up late and<end_line>
+    constantly get interrupted<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -146,7 +146,7 @@
   </sjis>
   <ascii>
     But still, I'm amazed<end_line>
-    you guys managed to <end_line>
+    you guys managed to<end_line>
     defeat Red Wing by yourselves.<end_line>
   </ascii>
 </dialogue>

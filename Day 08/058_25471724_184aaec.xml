@@ -86,7 +86,7 @@
   </sjis>
   <ascii>
     Th, that's quite a stir<end_line>
-    coming from over there<three_dots><three_dots>
+    coming from over there<three_dots><end_line>
     What shall we do?<end_line>
   </ascii>
 </dialogue>
@@ -122,7 +122,6 @@
     </ascii>
   </option>
 </choice>
-#choose to run
 <dialogue>
   <info box="left">
   <portrait_l entry="player" eye="decided" mouth="serious">
@@ -219,7 +218,7 @@
   </sjis>
   <ascii>
     That's not<three_dots><end_line>
-    but<three_dots><end_line>
+    But<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -250,7 +249,6 @@
     but<three_dots><end_line>
   </ascii>
 </dialogue>
-#flashback time? this dialog is repeated from 55
 <dialogue>
   <info box="right">
   <portrait_r entry="anise" eye="special" mouth="yell">
@@ -287,7 +285,6 @@
     I'll take care of this one.<end_line>
   </ascii>
 </dialogue>
-#and back to reality
 <dialogue>
   <info box="left">
   <portrait_l entry="player" eye="decided" mouth="serious">

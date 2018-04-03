@@ -19,7 +19,7 @@
   </sjis>
   <ascii>
     Sorry about today.<end_line>
-    Looks like I gave you a bad hand.<end_line>
+    Looks like I dealt you a bad hand.<end_line>
     All because of Jade<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -33,7 +33,7 @@
   </sjis>
   <ascii>
     He said they wouldn't go<end_line>
-    to Surange Mine<three_dots><end_line>
+    to Slenj Mine<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -72,7 +72,7 @@
     絶対許してやんないからね<three_dots><end_line>
   </sjis>
   <ascii>
-    I don't ever forgive them<three_dots><end_line>
+    I won't ever forgive them<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -96,7 +96,7 @@
     上手く説明できないけどね<end_line>
   </sjis>
   <ascii>
-    It's different.<end_line>
+    This is different.<end_line>
     Though I can't explain<end_line>
     very well how it is.<end_line>
   </ascii>
@@ -167,9 +167,8 @@
     ロブの形見を持って帰ってきたんだ<three_dots><end_line>
   </sjis>
   <ascii>
-    Bostaph, who had been on patrol,<end_line>
-    came across the scene. His body<end_line>
-    covered with wounds, he had<end_line>
+    Bostaph came across the scene.<end_line>
+    His body covered with wounds, he had<end_line>
     brought back a momento of Rob<three_dots><end_line>
   </ascii>
 </dialogue>
