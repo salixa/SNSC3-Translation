@@ -54,4 +54,4 @@ NAME_ELS = ['player_name', 'player_nickname', 'partner']
 
 MAX_LINE_LENGTH = 36
 SYMBOL_LEN = 2
-NAME_EL_LEN = 8
+NAME_EL_LEN = 13
