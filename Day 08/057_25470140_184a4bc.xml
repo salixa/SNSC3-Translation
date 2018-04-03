@@ -15,8 +15,8 @@
     </sjis>
   </female>
   <ascii>
-    <partner>,<end_line>
-    are you okay!?<end_line>
+    <partner>!<end_line>
+    Are you okay!?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -32,7 +32,7 @@
   <ascii>
     No Problem.<end_line>
     However<three_dots><end_line>
-    The Control Unit Is Attached<three_dots>
+    The Control Unit Is Attached<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -47,7 +47,7 @@
   </sjis>
   <ascii>
     Of course<three_dots><end_line>
-    But that braclet is<end_line>
+    But that bracelet is<end_line>
     stopping me again<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -124,7 +124,7 @@
     何ガアッタノデスカ？<end_line>
   </sjis>
   <ascii>
-    That Quake<three_dots><end_line>
+    That Tremor<three_dots><end_line>
     Has Something Happened?<end_line>
   </ascii>
 </dialogue>

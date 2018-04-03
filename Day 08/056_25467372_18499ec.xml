@@ -49,9 +49,9 @@
     ダマしていたんですね<three_dots>！<end_line>
   </sjis>
   <ascii>
-    More importantly, you people<end_line>
-    have been deceiving<end_line>
-    Master Bostaph<three_dots>!<end_line>
+    More importantly,<end_line>
+    you people have been<end_line>
+    deceiving Master Bostaph<three_dots>!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -147,7 +147,7 @@
   </sjis>
   <ascii>
     Shit<three_dots>!<end_line>
-    Red Wing<three_dots>!<end_line>
+    Red Wing is<three_dots>!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -160,7 +160,7 @@
   </sjis>
   <ascii>
     Tch!<end_line>
-    So we have to leave.<end_line>
+    We have to go.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -217,6 +217,7 @@
   </sjis>
   <ascii>
     The rumored Stray<three_dots><end_line>
+    No choice.<end_line>
     Let's get out of here.<end_line>
   </ascii>
 </dialogue>
@@ -249,9 +250,8 @@
     </sjis>
   </female>
   <ascii>
-    Thank you, Lemmy<three_dots><end_line>
-    But my hammer<three_dots><end_line>
-    and my weapons<three_dots><end_line>
+    Thanks, but my hammer<three_dots><end_line>
+    And my weapons<three_dots><end_line>
     I can't leave them behind.<end_line>
   </ascii>
 </dialogue>
@@ -295,7 +295,7 @@
     さあ、行くよ！<end_line>
   </sjis>
   <ascii>
-    Is this it?<end_line>
+    Is that everything?<end_line>
     Come on, let's go!<end_line>
   </ascii>
 </dialogue>
