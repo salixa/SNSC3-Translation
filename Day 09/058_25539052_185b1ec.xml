@@ -201,7 +201,7 @@
   <ascii>
     Interesting?<end_line>
     I Am Unable To Feel That Emotion.<end_line>
-    I Simply Completed The Task Given To Me.<end_line>
+    I Completed The Task Given To Me.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -256,8 +256,8 @@
   </female>
   <ascii>
     Hmm<three_dots><end_line>
-    <partner>'s work is always so precise.<end_line>
-    I think you'd make a great blacksmith.<end_line>
+    Your work is always so precise.<end_line>
+    I think you'd make a great smith.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -444,7 +444,7 @@
   <ascii>
     I don't think that's true.<end_line>
     It's because you do have emotions,<end_line>
-    that we've been able to come this far,<end_line>
+    that we've been able to get here,<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -695,9 +695,9 @@
     </sjis>
   </female>
   <ascii>
-    Same for me.<end_line>
-    Ever since we met,<end_line>
-    every day has been full of excitement.<end_line>
+    I feel the same way.<end_line>
+    Ever since we met, every day<end_line>
+    has been full of excitement.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -713,7 +713,7 @@
   <ascii>
     Hahaha<three_dots><end_line>
     The older, the wiser.<end_line>
-    I won't lose to a youngster like you.<end_line>
+    I won't lose to a young'un like you.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -983,7 +983,7 @@
   </sjis>
   <ascii>
     That's for sure<three_dots> To think that<end_line>
-    I would become a Craftknight's partner<three_dots><end_line>
+    I became a Craftknight's partner<three_dots><end_line>
     I still can't believe it.<end_line>
   </ascii>
 </dialogue>
@@ -1167,7 +1167,7 @@
   <ascii>
     Hahaha<three_dots><end_line>
     Well, if I remember our training,<end_line>
-    I think I'll be able to endure anything.<end_line>
+    I'll be able to endure anything.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1184,7 +1184,7 @@
   <ascii>
     I'm going to become a full-fledged<end_line>
     Craftknight and make a weapon<end_line>
-    for you to use, <partner>.
+    for you to use, <partner>.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1201,7 +1201,7 @@
   <ascii>
     Hahaha<three_dots><end_line>
     Well, if I remember our training,<end_line>
-    I think I'll be able to endure anything.<end_line>
+    I'll be able to endure anything.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1218,7 +1218,7 @@
   <ascii>
     I'm going to become a full-fledged<end_line>
     Craftknight and make a weapon<end_line>
-    for you to use, <partner>.
+    for you to use, <partner>.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1401,8 +1401,8 @@
     あと少し、がんばりましょう！<end_line>
   </sjis>
   <ascii>
-    Yes<three_dots><end_line>
-    Thank you for your hard work, <player_nickname><end_line>
+    Yes<three_dots> Thank you for<end_line>
+    your hard work, <player_nickname>.<end_line>
     Just keep it up a little bit longer!<end_line>
   </ascii>
 </dialogue>

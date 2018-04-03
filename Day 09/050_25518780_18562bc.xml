@@ -182,8 +182,8 @@
   </sjis>
   <ascii>
     Yes, you've done well.<end_line>
-    Those cruel words you said earlier are<end_line>
-    water under the bridge now.<end_line>
+    Those cruel words you said earlier<end_line>
+    is water under the bridge now.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -195,8 +195,8 @@
     コワイんですけど～<three_dots><end_line>
   </sjis>
   <ascii>
-    The modd is still kind of<end_line>
-    scary though~<three_dots><end_line>
+    You still haven't gotten<end_line>
+    over it have you<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -210,7 +210,6 @@
   </sjis>
   <ascii>
     But you still have a long way to go~<end_line>
-    Apologizing in that hearltess way~<end_line>
     There's no way anyone would<end_line>
     forgive you with just that~<end_line>
   </ascii>

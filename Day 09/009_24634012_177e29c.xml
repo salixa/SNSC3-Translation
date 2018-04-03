@@ -49,9 +49,9 @@
     集中してて大変なの<end_line>
   </sjis>
   <ascii>
-    Lately, my mother has been concentrating<end_line>
-    only on finding anamazing <end_line>
-    Craftknight, and it's been tough.<end_line>
+    Lately, my mother has been focused<end_line>
+    only on finding amazing<end_line>
+    Craftknights, and it's been tough.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -146,7 +146,7 @@
       買う<end_line>
     </sjis>
     <ascii>
-      Buy
+      Buy<end_line>
     </ascii> 
   </option>
   <option>

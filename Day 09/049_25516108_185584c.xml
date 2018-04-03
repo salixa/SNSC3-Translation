@@ -33,9 +33,9 @@
     相手にしようとするからよ<end_line>
   </sjis>
   <ascii>
-    Don't be so high and mighty, when you're<end_line>
-    just a summon from the Nameless World.<end_line>
-    You could never defeat us.<end_line>
+    Heh. Serves you right.<end_line>
+    As if a Summon from the<end_line>
+    Nameless World could beat us.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -302,9 +302,9 @@
     オレも大賛成だ<end_line>
   </sjis>
   <ascii>
-    I'm glad you understand. The only <end_line>
-    way to teach those who won't listen<end_line>
-    to words, is to beat it into their body.<end_line>
+    I'm glad you understand. To teach<end_line>
+    those who won't listen to words,<end_line>
+    one must beat it into their body.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -390,8 +390,8 @@
     </sjis>
   </female>
   <ascii>
-    Sorry, Brother<three_dots>
-    But, I want you to leave <end_line>
+    Sorry, Brother<three_dots><end_line>
+    But, I want you to leave<end_line>
     that Gillan guy to me.<end_line>
   </ascii>
 </dialogue>
@@ -507,8 +507,8 @@
     オレはモジャモジャの教育だ！<end_line>
   </sjis>
   <ascii> 
-    Alright, got it!<end_line>
-    I'll leave that one to you, <player_nickname><end_line>
+    Alright, got it! I'll leave<end_line>
+    that one to <player_nickname>.<end_line>
     The shaggy one is mine!<end_line>
   </ascii>
 </dialogue>

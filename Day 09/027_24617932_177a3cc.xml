@@ -29,8 +29,8 @@
   </sjis>
   <ascii>
     By now, they've turned into a demon,<end_line>
-    no longer recognizable as a human child.<end_line>
-    Or so I heard.<end_line>
+    no longer recognizable as<end_line>
+    a human child. Or so I heard.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -42,7 +42,6 @@
     Miiii<three_dots><end_line>
   </ascii>
 </dialogue>
-###FounderOfProsban
 <dialogue>
   <info box="simple">
   <sjis>

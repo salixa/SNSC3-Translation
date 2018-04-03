@@ -68,8 +68,8 @@
   </female>
   <ascii>
     I see, that's great.<end_line>
-    So it won't be long until he gets better<end_line>
-    and you can go back to your village.<end_line>
+    So it won't be long until<end_line>
+    you can go back to your village.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -170,8 +170,8 @@
   </female>
   <ascii>
     Sorry, Murno.<end_line>
-    I want to go.<end_line>
-    Even if you tell me not to, I'm going.<end_line>
+    I'm going with you.<end_line>
+    Even if you tell me not to.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -208,9 +208,8 @@
     </sjis>
   </female>
   <ascii>
-    But still<three_dots>
-    Ever since we met, all sorts of<end_line>
-    things have happened.<end_line>
+    Still<three_dots> Ever since we met,<end_line>
+    It's been quite a ride.<end_line>
     Everything went by so fast.<end_line>
   </ascii>
 </dialogue>
@@ -299,9 +298,9 @@
     したいことがあったの<three_dots><end_line>
   </sjis>
   <ascii>
-    Really?<end_line>
-    Truth is, there's something I<end_line>
-    want to do with you too, <player_nickname><three_dots><end_line>
+    Really? Truth is,<end_line>
+    there's something I want to do<end_line>
+    with you too, <player_nickname><three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>

@@ -16,8 +16,7 @@
     すごいわ<end_line>
   </sjis>
   <ascii>
-    So you defeated this Red Wing<end_line>
-    in all those rumors.<end_line>
+    You defeated Red Wing!<end_line>
     That's amazing!<end_line>
   </ascii>
 </dialogue>
@@ -39,9 +38,8 @@
     すごいなぁ<end_line>
   </sjis>
   <ascii>
-    To think you could defeat the Red Wing<end_line>
-    in all those rumors<three_dots><end_line>
-    You're amazing!<end_line>
+    So you defeated Red Wing<three_dots><end_line>
+    Impressive!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -52,10 +50,9 @@
   </sjis>
   <ascii>
     That must be why my daughter<end_line>
-    fell fell for you<three_dots><end_line>
+    fell for you<three_dots><end_line>
   </ascii>
 </dialogue>
-###OtomeSecret
 <dialogue>
   <info box="simple">
   <sjis>

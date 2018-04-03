@@ -34,9 +34,9 @@
     必ズ　シトメマス<end_line>
   </sjis>
   <ascii>
-    Yes.<end_line>
-    This Time, They Will Not Escape.<end_line>
-    We Will Bring Them Down Without Fail.<end_line>
+    Yes. This Time,<end_line>
+    They Will Not Escape.<end_line>
+    We Will Bring Them Down.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -50,8 +50,8 @@
     自警団の人に引き渡さないと<end_line>
   </sjis>
   <ascii>
-    Don't bring them down!<end_line>
-    Capture them. We still need to hand<end_line>
+    Hey, we can't do that!<end_line>
+    We still need to hand<end_line>
     them over to the Vigilante Corps.<end_line>
   </ascii>
 </dialogue>
@@ -90,8 +90,8 @@
   </female>
   <ascii>
     What?<end_line>
-    Are you still angry about the<end_line>
-    time you were captured?<end_line>
+    Are you still angry about<end_line>
+    the time we were captured?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -184,7 +184,7 @@
   </sjis>
   <ascii>
     Mm<three_dots> You're right.<end_line>
-    I do not want to be the same as them.<end_line>
+    I am not a savage like them.<end_line>
     Anyway, I shall let them live.<end_line>
   </ascii>
 </dialogue>
@@ -199,7 +199,7 @@
   </sjis>
   <ascii>
     Of course you will!<end_line>
-    We still need to hand the over<end_line>
+    We still need to hand them over<end_line>
     to the Vigilante Corps.<end_line>
   </ascii>
 </dialogue>
@@ -294,7 +294,7 @@
   </sjis>
   <ascii>
     Don't worry.<end_line>
-    Once I'm down with them,<end_line>
+    Once I'm done with them,<end_line>
     there won't be anything left.<end_line>
   </ascii>
 </dialogue>
@@ -317,7 +317,7 @@
   </female>
   <ascii>
     That's why I'm telling you!<end_line>
-    The Vigilante Corps will be there too.<end_line>
+    The Vigilante Corps will be there.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -391,6 +391,11 @@
       落ちついて行こう<end_line>
     </sjis>
   </female>
+  <ascii>
+    Please, I'm begging you.<end_line>
+    Don't take this too far.<end_line>
+    Let's all calm down.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -402,6 +407,11 @@
     あの人たち今度会ったら<end_line>
     絶対に許しませんわ！<end_line>
   </sjis>
+  <ascii>
+    That's right!<end_line>
+    I will not let them get<end_line>
+    off easy this time!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -420,6 +430,10 @@
       あんまりムチャなことしないでよ<end_line>
     </sjis>
   </female>
+  <ascii>
+    I know you're angry,<end_line>
+    but don't go too crazy.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -430,6 +444,10 @@
     安心してください<end_line>
     命まで取る気はありませんわ<end_line>
   </sjis>
+  <ascii>
+    Rest assured,<end_line>
+    I wasn't planning on killing them.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -441,6 +459,11 @@
     捕まえて自警団の人に<end_line>
     引き渡さないと<end_line>
   </sjis>
+  <ascii>
+    Of course not!<end_line>
+    We have to be able to hand them<end_line>
+    over to the Vigilante Corps.<end_line>
+  </ascii> 
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -451,6 +474,10 @@
     あらら、そうでしたわ<end_line>
     何か良い手を考えないといけませんわ<end_line>
   </sjis>
+  <ascii>
+    Oh my, I almost forgot.<end_line>
+    I must think of something else then.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -472,8 +499,8 @@
     </sjis>
   </female>
   <ascii>
-    I'm begging you,<end_line>
-    don't take this too far.<end_line>
+    Please, I'm begging you.<end_line>
+    Don't take this too far.<end_line>
     Let's all calm down.<end_line>
   </ascii>
 </dialogue>

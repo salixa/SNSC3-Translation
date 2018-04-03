@@ -244,7 +244,7 @@
   </sjis>
   <ascii>
     Please, Master!<end_line>
-    I want to see this through to the end!<end_line>
+    I want to see this through!<end_line>
     So<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -275,7 +275,7 @@
   </sjis>
   <ascii>
     Please, Master!<end_line>
-    I want to see this through to the end!<end_line>
+    I want to see this through!<end_line>
     So<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -337,7 +337,7 @@
     逃がしたら、許しませんから<end_line>
   </sjis>
   <ascii>
-    If they get away, I won't forgive you.<end_line>
+    Don't let them out of your sight.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -412,7 +412,8 @@
     必ず叶えてみせる！<end_line>
   </sjis>
   <ascii>
-    I'll see that Voijin's dream is granted!<end_line>
+    I'll see that Voijin's<end_line>
+    wish is granted!<end_line>
   </ascii>
 </dialogue>
 <bigtext>
