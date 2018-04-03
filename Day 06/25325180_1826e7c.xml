@@ -96,7 +96,7 @@
   <ascii>
     Are you serious?<end_line>
     Listen up, we were<three_dots><end_line>
-    Um<end_line><three_dots>
+    Um<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -133,7 +133,6 @@
   <ascii>
     You forgot too<three_dots>?<end_line>
   </ascii>
-</dialogue>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -176,7 +175,6 @@
   <ascii>
     We were<three_dots>?<end_line>
   </ascii>
-</dialogue>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
