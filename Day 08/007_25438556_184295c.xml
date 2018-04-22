@@ -1,15 +1,4 @@
 <dialogue>
-  <info box="left">
-  <portrait_l entry="player" eye="serious" mouth="serious">
-  <portrait_r entry="bostaph" eye="decided" mouth="neutral">
-  <sjis>
-    <three_dots>ということなんですけど<end_line>
-  </sjis>
-  <ascii>
-    <three_dots>is where we're at right now.<end_line>
-  </ascii>
-</dialogue>
-<dialogue>
   <info box="right">
   <portrait_l entry="player" eye="serious" mouth="serious">
   <portrait_r entry="bostaph" eye="decided" mouth="neutral">
@@ -111,7 +100,7 @@
     アイサツに行かされたんだ<end_line>
   </sjis>
   <ascii>
-    I was dispatched to this town<end_line>
+    I was dispatched to the town<end_line>
     and asked to greet them.<end_line>
   </ascii>
 </dialogue>
@@ -155,9 +144,9 @@
     と言うのですね<end_line>
   </sjis>
   <ascii>
-    If we return the Demon Stone,<end_line>
+    Anyway, you claim that<end_line>
+    if we return the Demon Stone,<end_line>
     the Strays will calm down<three_dots><end_line>
-    So you claim.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -352,7 +341,7 @@
     もっともですね<end_line>
   </sjis>
   <ascii>
-    What Bostaph says is correct.<end_line>
+    Bostaph does have a point.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -402,7 +391,8 @@
     手を貸すことはできん<end_line>
   </sjis>
   <ascii>
-    I will not assist you in betraying<end_line>
+    Sorry, but I will not<end_line>
+    assist you in betraying<end_line>
     those I have a contract with.<end_line>
   </ascii>
 </dialogue>

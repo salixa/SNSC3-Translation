@@ -1,0 +1,11 @@
+<dialogue>
+  <info box="left">
+  <portrait_l entry="player" eye="serious" mouth="serious">
+  <portrait_r entry="bostaph" eye="decided" mouth="neutral">
+  <sjis>
+    <three_dots>ということなんですけど<end_line>
+  </sjis>
+  <ascii>
+    <three_dots>is where we're at right now.<end_line>
+  </ascii>
+</dialogue>

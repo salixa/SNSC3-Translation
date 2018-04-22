@@ -213,7 +213,7 @@
   </sjis>
   <ascii>
     That's right<three_dots><end_line>
-    It's even big enough that<end_line>
+    It's big enough that<end_line>
     it can swallow a man whole.<end_line>
   </ascii>
 </dialogue>
@@ -574,8 +574,7 @@
     お願いね<end_line>
   </sjis>
   <ascii>
-    <player_nickname>,<end_line>
-    let's go.<end_line>
+    <player_nickname>, let's go.<end_line>
   </ascii>
 </dialogue>
 <dialogue>

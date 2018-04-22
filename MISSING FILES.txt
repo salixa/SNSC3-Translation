@@ -1,3 +1,5 @@
 Some files do not have dialogue. Possible issue with script dumper?
 
 1834d0c is missing a lot of dialogue
+18be64c is empty. D8 explaining to gold council. Only contains 1 line, so I could probably fill it in myself
+18c7d6c has misc. quests from gold council members (Ianna + Velworen), and receptionist. But only contains text for Ianna

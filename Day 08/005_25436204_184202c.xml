@@ -86,7 +86,7 @@
 	</sjis>
   <ascii>
     Even if you were there,<end_line>
-    there'd be nothing for <end_line>
+    there'd be nothing for<end_line>
     you to do anyway. <end_line>
   </ascii>
 </dialogue>
@@ -175,7 +175,7 @@
 		多分<end_line>
 	</sjis>
   <ascii>
-    Shopping, probably<end_line>
+    Shopping, probably.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -218,7 +218,7 @@
 	</sjis>
   <ascii>
     I'm sure she knows that.<end_line>
-    That kid is sure is something.<end_line>
+    That kid sure is something.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -356,6 +356,6 @@
 		早くしなよ<end_line>
 	</sjis>
   <ascii>
-    They already left<three_dots><end_line>
+    Hurry it up.<end_line>
   </ascii>
 </dialogue>
