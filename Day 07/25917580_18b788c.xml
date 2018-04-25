@@ -14,4 +14,8 @@
 		この扉は、武器に対応したスイッチを<end_line>
 		押すことで開く事ができます<end_line>
 	</sjis>
+  <ascii>
+    This door will open after you<end_line>
+    activate the corresponding switch.<end_line>
+  </ascii>
 </dialogue>
