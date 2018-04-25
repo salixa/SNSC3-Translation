@@ -17,6 +17,11 @@
 			がんばるぞ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Today's the day for our<end_line>
+    meeting at the Gold Council.<end_line>
+    I'll do my best!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -26,6 +31,9 @@
 	<sjis>
 		<three_dots><end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -44,6 +52,10 @@
 			ならないみたい<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Looks like I can't<end_line>
+    rely on <partner> this time.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -64,6 +76,11 @@
 			がんばるぞ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Today's the day for our<end_line>
+    meeting at the Gold Council.<end_line>
+    I'll do my best!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -75,6 +92,11 @@
 		二度聞いて一度物言え、と言って<end_line>
 		相手の言うことを良く聞いてから<three_dots><end_line>
 	</sjis>
+  <ascii>
+    That it is.<end_line>
+    As the saying goes, listen twice<end_line>
+    as much as you speak. Meaning<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -86,6 +108,11 @@
 		大丈夫だって！<end_line>
 		なんとかなるよ<end_line>
 	</sjis>
+  <ascii>
+    Don't worry,<end_line>
+    I'll be fine!<end_line>
+    It'll work out somehow.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -96,6 +123,10 @@
 		だからまず<end_line>
 		人の話を聞けと言っておる！<end_line>
 	</sjis>
+  <ascii>
+    Listen to what<end_line>
+    others are saying!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -116,6 +147,11 @@
 			がんばるぞ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Today's the day for our<end_line>
+    meeting at the Gold Council.<end_line>
+    I'll do my best!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -126,6 +162,10 @@
 		キサマはだまっていた方が<end_line>
 		上手くいくと思うが<end_line>
 	</sjis>
+  <ascii>
+    I think it would be best<end_line>
+    if you kept your mouth shut.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -142,6 +182,9 @@
 			なによ、それ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Hey!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -161,6 +204,11 @@
 			がんばるぞ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Today's the day for our<end_line>
+    meeting at the Gold Council.<end_line>
+    I'll do my best!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -171,6 +219,11 @@
 		ミューノ様のミリョクを<end_line>
 		みなさんにお伝えするために！<end_line>
 	</sjis>
+  <ascii>
+    I'll be there to help!<end_line>
+    We must convey Lady Murno's<end_line>
+    charm to everyone!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -186,6 +239,9 @@
 			なんかズレてない？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Isn't that beside the point?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -206,6 +262,11 @@
 			がんばるぞ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Today's the day for our<end_line>
+    meeting at the Gold Council.<end_line>
+    I'll do my best!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -215,6 +276,9 @@
 	<sjis>
 		<three_dots><end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -233,6 +297,10 @@
 			ならないみたい<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Looks like I can't<end_line>
+    rely on <partner> this time.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -253,6 +321,11 @@
 			がんばるぞ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Today's the day for our<end_line>
+    meeting at the Gold Council.<end_line>
+    I'll do my best!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -264,6 +337,11 @@
 		二度聞いて一度物言え、と言って<end_line>
 		相手の言うことを良く聞いてから<three_dots><end_line>
 	</sjis>
+  <ascii>
+    That it is.<end_line>
+    As the saying goes, listen twice<end_line>
+    as much as you speak. Meaning<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -275,6 +353,11 @@
 		大丈夫だって！<end_line>
 		なんとかなるよ<end_line>
 	</sjis>
+  <ascii>
+    Don't worry,<end_line>
+    I'll be fine!<end_line>
+    It'll work out somehow.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -285,6 +368,10 @@
 		だからまず<end_line>
 		人の話を聞けと言っておる！<end_line>
 	</sjis>
+  <ascii>
+    Listen to what<end_line>
+    others are saying!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -305,6 +392,11 @@
 			がんばるぞ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Today's the day for our<end_line>
+    meeting at the Gold Council.<end_line>
+    I'll do my best!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -315,6 +407,10 @@
 		キサマはだまっていた方が<end_line>
 		上手くいくと思うが<end_line>
 	</sjis>
+  <ascii>
+    I think it would be best<end_line>
+    if you kept your mouth shut.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -331,6 +427,9 @@
 			なによ、それ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Hey!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -350,6 +449,11 @@
 			がんばるぞ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Today's the day for our<end_line>
+    meeting at the Gold Council.<end_line>
+    I'll do my best!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -360,6 +464,11 @@
 		ミューノ様のミリョクを<end_line>
 		みなさんにお伝えするために！<end_line>
 	</sjis>
+  <ascii>
+    I'll be there to help!<end_line>
+    We must convey Lady Murno's<end_line>
+    charm to everyone!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -375,6 +484,9 @@
 			なんかズレてない？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Isn't that beside the point?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -383,6 +495,10 @@
 		ミューノを工房まで<end_line>
 		しっかり送り届けなきゃ！<end_line>
 	</sjis>
+  <ascii>
+    We need to escort Murno<end_line>
+    back to the workshop!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -393,6 +509,11 @@
 		私のせいでこんなことになってるのに<end_line>
 		役に立たなくて<three_dots><end_line>
 	</sjis>
+  <ascii>
+    I'm sorry<three_dots><end_line>
+    I ask so much of you,<end_line>
+    but I'm always so useless<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -412,6 +533,11 @@
 			立派に役に立ってるって！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    You're not! You're protecting<end_line>
+    the Demon Stone, right?<end_line>
+    That's really important!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -422,6 +548,10 @@
 		ソノ通リデス<end_line>
 		一番重要ナ役割ト　言エルデショウ<end_line>
 	</sjis>
+  <ascii>
+    That Is Exactly Right. In Fact,<end_line>
+    That Is The Most Important Role.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -433,6 +563,11 @@
 		一番重要な役割じゃ<end_line>
 		たのんだぞ<end_line>
 	</sjis>
+  <ascii>
+    That's right.<end_line>
+    It's a very important role.<end_line>
+    We're counting on you.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -443,6 +578,10 @@
 		責任重大だな<end_line>
 		せいぜいがんばることだ<end_line>
 	</sjis>
+  <ascii>
+    It is important.<end_line>
+    I'm sure you can handle it.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -454,6 +593,11 @@
 		ミューノ様の役目が一番重要ですわ！<end_line>
 		がんばってくださいね！<end_line>
 	</sjis>
+  <ascii>
+    That's right!<end_line>
+    It's the most important role!<end_line>
+    Please do your best!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -464,4 +608,9 @@
 		<player_nickname><end_line>
 		<partner><three_dots><end_line>
 	</sjis>
+  <ascii>
+    Thank you,<end_line>
+    <player_nickname>,<end_line>
+    <partner><three_dots><end_line>
+  </ascii>
 </dialogue>
