@@ -107,7 +107,7 @@
   </sjis>
   <ascii>
     What Should We Do About The<end_line>
-    Summon Beasts Keeping Watch?<end_line>
+    Summon Beast Keeping Watch?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -120,8 +120,8 @@
     見張りの召喚獣がおるぞ<end_line>
   </sjis>
   <ascii>
-    But there are still Summon<end_line>
-    Beasts standing guard.<end_line>
+    But there is still a Summon<end_line>
+    Beast standing guard.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -135,7 +135,7 @@
   </sjis>
   <ascii>
     You<three_dots><end_line>
-    What will you do about the guards?<end_line>
+    And what about the guard?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -151,7 +151,7 @@
   <ascii>
     Uu<three_dots><end_line>
     But there's still strong-looking<end_line>
-    Summon Beasts there<three_dots><end_line>
+    Summon Beast there<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -192,8 +192,8 @@
     </sjis>
   </female>
   <ascii>
-    What?<end_line>
-    They're not reacting?<end_line>
+    Huh?<end_line>
+    Why's it leaving?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -241,7 +241,7 @@
     なんなんでしょうね？<end_line>
   </sjis>
   <ascii>
-    I wonder what they're doing?<end_line>
+    I wonder what it's doing?<end_line>
   </ascii>
 </dialogue>
 <dialogue>

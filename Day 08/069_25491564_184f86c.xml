@@ -16,7 +16,7 @@
     大丈夫なの？　<player_nickname><end_line>
   </sjis>
   <ascii>
-    Are you okay? <player_nickname>.<end_line>
+    How are you feeling?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -147,7 +147,7 @@
   <ascii>
     Poor <player_nickname><three_dots><end_line>
     But don't worry.<end_line>
-    I won't grow to hate you<three_dots><end_line>
+    I won't grow to hate you<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -159,8 +159,7 @@
     キライになんてならないから<three_dots><end_line>
   </sjis>
   <ascii>
-    over something like that,<end_line>
-    <player_nickname><three_dots><end_line>
+    over something like that<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>

@@ -17,7 +17,7 @@
     </sjis>
   </female>
   <ascii>
-    Good luck, <player_nickname><end_line>
+    Good luck, <player_nickname>!<end_line>
   </ascii>
 </dialogue>
 <dialogue>

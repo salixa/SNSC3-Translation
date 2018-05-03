@@ -343,8 +343,8 @@
 		今頃どうなってるか<three_dots><end_line>
 	</sjis>
   <ascii>
-    That guy just loves to torture<end_line>
-    Summons, you know<three_dots><end_line>
+    That guy just loves to<end_line>
+    torture Summons, you know<three_dots><end_line>
     I wonder how they're doing now<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -512,7 +512,7 @@
 		ヤツはな、人殺しなんだ<end_line>
 	</sjis>
   <ascii>
-    That guy, was a murderer.<end_line>
+    That guy was a murderer.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -589,7 +589,7 @@
 	</sjis>
   <ascii>
     It's true<three_dots><end_line>
-    Your Master killed Voijin!<end_line>
+    Your Master killed my Voijin!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -632,6 +632,7 @@
 		いくらでもある<three_dots><end_line>
 	</sjis>
   <ascii>
+    We can keep it quiet.<end_line>
     There are other ways to<end_line>
     get the Demon Stone<three_dots><end_line>
   </ascii>
@@ -737,7 +738,7 @@
   <ascii>
     Voijin<three_dots>?<end_line>
     Once you have the Demon Stone,<end_line>
-    just what are you planning on<three_dots>?<end_line>
+    just what are you planning to<three_dots>?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -750,9 +751,9 @@
 		最後に聞かせてやるか<three_dots><end_line>
 	</sjis>
   <ascii>
-    My plans<three_dots><end_line>
-    You're dead anyway<three_dots><end_line>
-    I'll be merciful and tell you<three_dots><end_line>
+    My plans<three_dots>?<end_line>
+    Well, you're dead anyway<three_dots><end_line>
+    I'll be nice and tell you<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -767,7 +768,7 @@
   <ascii>
     Voijin was trying to free<end_line>
     humans from Summon Beasts<three_dots><end_line>
-    Those imcomprehensible creatures.<end_line>
+    Those incomprehensible creatures.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
