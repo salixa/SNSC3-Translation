@@ -12,7 +12,7 @@
   </sjis>
   <ascii>
     Promise me you'll<end_line>
-    come back safely, <player_nickname><end_line>
+    come back safely, <player_nickname>.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -44,7 +44,7 @@
     おやかた、だいじょうぶかなぁ<end_line>
   </sjis>
   <ascii>
-    I wonder if Master is safe.<end_line>
+    I wonder if Master is okay.<end_line>
   </ascii>
 </dialogue>
 <dialogue>

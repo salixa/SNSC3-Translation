@@ -34,8 +34,7 @@
   </sjis>
   <ascii>
     Now then.<end_line>
-    Let's, where<end_line>
-    should I start<three_dots><end_line>
+    Where should we start<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -67,10 +66,9 @@
     見たって通報が入って<three_dots><end_line>
   </sjis>
   <ascii>
-    Big trouble.<end_line>
-    We've receive a tip that people <end_line>
-    who looked like Anise's comrades<end_line>
-    have been spotted.<end_line>
+    It's terrible!<end_line>
+    We've received a tip that<end_line>
+    Anise may have been spotted.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -257,8 +255,8 @@
   </sjis>
   <ascii>
     O-oh, is that so<three_dots>?<end_line>
-    Well, we're done here,<end_line>
-    so we'll be off.<end_line>
+    Well, if there's nothing else,<end_line>
+    we'll be off.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -415,5 +413,6 @@
   </sjis>
   <ascii>
     <three_dots><end_line>
+    Guess I'll go home<three_dots><end_line>
   </ascii>
 </dialogue>
