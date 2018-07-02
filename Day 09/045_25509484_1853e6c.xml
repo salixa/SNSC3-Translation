@@ -16,7 +16,7 @@
   </female>
   <ascii>
     Zakk!?<end_line>
-    What happened!?<end_line>
+    Hey, what happened!?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -30,8 +30,8 @@
   </sjis>
   <ascii>
     Sorry, <player_nickname><three_dots><end_line>
-    Murno<three_dots><end_line>
-    They took her<three_dots><end_line>
+    They<three_dots><end_line>
+    They took Murno<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -68,7 +68,7 @@
     やられたのじゃな<three_dots><end_line>
   </sjis>
   <ascii>
-    They beat him<three_dots><end_line>
+    They attacked him<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -80,7 +80,7 @@
     やられたのか<three_dots><end_line>
   </sjis>
   <ascii>
-    They beat him<three_dots><end_line>
+    They attacked him<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>

@@ -5,7 +5,7 @@
     今日もご苦労だったな、<player_nickname><end_line>
   </sjis>
   <ascii>
-    You did great today, <player_nickname><end_line>
+    You did great today, <player_nickname>.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -18,10 +18,9 @@
     自警団を代表して礼を言うよ<end_line>
   </sjis>
   <ascii>
-    Thanks to you guys, we were able to<end_line>
-    catch every member of Anise's group.<end_line>
-    As the representative of the Corps,<end_line>
-    thank you.<end_line>
+    Thanks to you, we caught every<end_line>
+    member of Anise's group. As a part<end_line>
+    of the Vigilante Corps, thank you.<end_line>
   </ascii>
 </dialogue>
 <dialogue>

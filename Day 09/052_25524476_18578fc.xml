@@ -88,7 +88,6 @@
     What did you do!?<end_line>
   </ascii>
 </dialogue>
-####incorrect tags?
 <dialogue>
   <info box="right">
   <portrait_l entry="player" eye="decided" mouth="yell">
@@ -195,7 +194,7 @@
     しまった！？<end_line>
   </sjis>
   <ascii>
-    !?<end_line>
+    Crap!?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -259,7 +258,8 @@
     たのむよ！<end_line>
   </sjis>
   <ascii>
-    We can't let a single one escape!<end_line>
+    We can't let a<end_line>
+    single one escape!<end_line>
     Please!<end_line>
   </ascii>
 </dialogue>
@@ -290,7 +290,8 @@
     お願い！<end_line>
   </sjis>
   <ascii>
-    We can't let a single one escape!<end_line>
+    We can't let a<end_line>
+    single one escape!<end_line>
     Please!<end_line>
   </ascii>
 </dialogue>
@@ -493,7 +494,7 @@
   <ascii>
     Don't think you can get out<end_line>
     of here alive after interfering<end_line>
-    with Voijin's dream<end_line>
+    with Voijin's dream.<end_line>
   </ascii>
 </dialogue>
 <dialogue>

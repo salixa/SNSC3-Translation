@@ -16,7 +16,7 @@
   </female>
   <ascii>
     Now,<end_line>
-    quiet down!<end_line>
+    still still!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -52,7 +52,7 @@
     そうですよね？<end_line>
   </sjis>
   <ascii>
-    And it seems we've caught<end_line>
+    And it we've caught<end_line>
     your comrades already.<end_line>
     Isn't that right?<end_line>
   </ascii>
@@ -200,7 +200,7 @@
   <ascii>
     No, no<three_dots><end_line>
     No no no<three_dots><end_line>
-    No no no no no<end_line>
+    No no no no no<three_dots><end_line>
   </ascii>
 </dialogue>
 <bigtext>

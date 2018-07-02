@@ -144,6 +144,7 @@
     </sjis>
   </female>
   <ascii>
+    You know<three_dots><end_line>
     Since I met you,<end_line>
     all sorts of things have happened<three_dots><end_line>
   </ascii>
@@ -1027,7 +1028,6 @@
     stuffy old workshop again!<end_line>
   </ascii>
 </dialogue>
-#739
 <dialogue>
   <partner name="killfith">
   <info box="left">

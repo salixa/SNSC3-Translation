@@ -15,7 +15,7 @@
   </female>
   <ascii>
     Found you, Anise!<end_line>
-    Give Murno back1<end_line>
+    Let Murno go!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -88,7 +88,8 @@
     お父さん<three_dots>？<end_line>
   </sjis>
   <ascii>
-    This is Murno's father<three_dots>?<end_line>
+    That's<three_dots><end_line>
+    Murno's father<three_dots>?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -128,8 +129,8 @@
   </sjis>
   <ascii>
     Sorry.<end_line>
-    We've asked them to be our<end_line>
-    guide and hostages.<end_line>
+    We've asked them to be<end_line>
+    our guide and hostages.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -193,7 +194,7 @@
   <ascii>
     Shut up!<end_line>
     If you're gonna complain,<end_line>
-    then deal with that man!<end_line>
+    then talk to him!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -289,8 +290,8 @@
     殺したければ殺せばいい！<end_line>
   </sjis>
   <ascii>
-    They said being caught was their<end_line>
-    own fault. Right?<end_line>
+    They admitted being caught<end_line>
+    was their own fault. Right?<end_line>
     If you want to kill them, go ahead!<end_line>
   </ascii>
 </dialogue>
@@ -302,8 +303,7 @@
     ま、そんな度胸はないだろうがな<end_line>
   </sjis>
   <ascii>
-    Although, you don't have the<end_line>
-    guts to actually do it.<end_line>
+    Not like you've got the guts.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -349,7 +349,7 @@
   </female>
   <ascii>
     Wait<three_dots><end_line>
-    Give Murno back<three_dots><end_line>
+    Let Murno go<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>

@@ -178,7 +178,7 @@
     はい<end_line>
   </sjis>
   <ascii>
-    okay.<end_line>
+    Okay.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -235,8 +235,8 @@
   </sjis>
   <ascii>
     We won't have any reason<end_line>
-    to keep <partner> and the others<end_line>
-    around.<end_line>
+    to keep <partner> and the<end_line>
+    others around.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -315,8 +315,7 @@
   </sjis>
   <ascii>
     That's right<three_dots><end_line>
-    I'll come up with the details<end_line>
-    in the morning.<end_line>
+    I'll have something in the morning.<end_line>
     Look forward to it!<end_line>
   </ascii>
 </dialogue>

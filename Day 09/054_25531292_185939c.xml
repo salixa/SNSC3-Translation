@@ -21,7 +21,7 @@
   </sjis>
   <ascii>
     That was nothing.<end_line>
-    I've been to a concert with<end_line>
+    I've been to concerts with<end_line>
     much flashier explosions.<end_line>
   </ascii>
 </dialogue>
@@ -66,7 +66,7 @@
     </sjis>
   </female>
   <ascii>
-    The matc his already over.<end_line>
+    The match is already over.<end_line>
     If you still want to fight,<end_line>
     I'll be the one<three_dots>!<end_line>
   </ascii>
@@ -141,9 +141,9 @@
     あずからせてもらうよ<end_line>
   </sjis>
   <ascii>
-    You<three_dots><end_line>
-    You can take care<end_line>
-    of Magdrad.<end_line>
+    Now then<three_dots><end_line>
+    We'll be taking<end_line>
+    Magdrad's Summon Stone.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -167,7 +167,7 @@
     どういう関係なんだい？<end_line>
   </sjis>
   <ascii>
-    And then<three_dots><end_line>
+    And<three_dots><end_line>
     It seems you know about Rob.<end_line>
     What's your relationship with him?<end_line>
   </ascii>
@@ -183,7 +183,7 @@
   </sjis>
   <ascii>
     Hah! Relationship<three_dots><end_line>
-    That guy killed my previous person.<end_line>
+    That guy killed my precious person.<end_line>
     He's just an enemy<three_dots>!<end_line>
   </ascii>
 </dialogue>
@@ -197,7 +197,7 @@
     ゆ～<three_dots><three_dots>っくりと、ね<three_dots><end_line>
   </sjis>
   <ascii>
-    You<three_dots><end_line>
+    Hmm<three_dots><end_line>
     We'll continue this talk later.<end_line>
     A loong<three_dots> talk<three_dots><end_line>
   </ascii>
@@ -220,7 +220,7 @@
   </female>
   <ascii>
     Phew.<end_line>
-    We did it, <partner><end_line>
+    We did it, <partner>.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -399,7 +399,8 @@
   </sjis>
   <ascii>
     Totally!<end_line>
-    You've done well, you two.<end_line>
+    You've done well,<end_line>
+    you two.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -412,7 +413,7 @@
   </sjis>
   <ascii>
     Bro!<end_line>
-    What happened to the shaggy one?<end_line>
+    What happened to those weirdos?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -452,7 +453,8 @@
     オレの出番なんかなかったからな<end_line>
   </sjis>
   <ascii>
-    you didn't end up needing my help.<end_line>
+    you didn't end up<end_line>
+    needing my help.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -600,8 +602,8 @@
   </sjis>
   <ascii>
     Incorrect.<end_line>
-    We Still Must Return The<end_line>
-    Demon Stone.<end_line>
+    We Still Must Return<end_line>
+    The Demon Stone.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -616,8 +618,8 @@
   </sjis>
   <ascii>
     What're you saying<three_dots><end_line>
-    You've completely forgotten about<end_line>
-    the Demon Stone<three_dots><end_line>
+    You've completely forgotten<end_line>
+    about the Demon Stone<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -631,8 +633,8 @@
     まったく、物覚えが悪すぎる<end_line>
   </sjis>
   <ascii>
-    We still have to deal with<end_line>
-    the Demon Stone<three_dots><end_line>
+    We still have to deal<end_line>
+    with the Demon Stone<three_dots><end_line>
     Geez, your memory is horrible.<end_line>
   </ascii>
 </dialogue>
@@ -648,8 +650,8 @@
   </sjis>
   <ascii>
     Not yet.<end_line>
-    We still have to deal with the<end_line>
-    Demon Stone, right?<end_line>
+    We still have to deal with<end_line>
+    the Demon Stone, right?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -778,6 +780,6 @@
   <ascii>
     I'm sorry<three_dots><end_line>
     But, truly<three_dots><end_line>
-    Thank you so much, <player_nickname><end_line>
+    Thank you so much, <player_nickname>.<end_line>
   </ascii>
 </dialogue>

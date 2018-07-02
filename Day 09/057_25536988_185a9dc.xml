@@ -1,4 +1,3 @@
-#Line 49
 <dialogue>
   <info box="nobox">
   <portrait_l name="murno">
@@ -133,8 +132,8 @@
   </sjis>
   <ascii>
     But<three_dots><end_line>
-    That's really the only thing<end_line>
-    we have left<three_dots><end_line>
+    That's really the only <end_line>
+    thing that's left to do<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -380,7 +379,7 @@
   <ascii>
     but it's pretty dangerous<three_dots><end_line>
     I wonder if you can do it<three_dots><end_line>
-    If you get hurts<three_dots><end_line>
+    If you get hurt<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -456,7 +455,7 @@
     </sjis>
   </female>
   <ascii>
-    Okay okay, it was a joke!<end_line>
+    Okay okay, I was joking!<end_line>
     Of course it's okay!<end_line>
     Let's do it tomorrow!<end_line>
   </ascii>
