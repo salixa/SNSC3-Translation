@@ -109,8 +109,8 @@
   </sjis>
   <ascii>
     Of course, if you had really<end_line>
-    killed me then even Murno<end_line>
-    would be angry at you.<end_line>
+    tried to erase me then even<end_line>
+    Murno would be angry at you.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -141,11 +141,10 @@
   </sjis>
   <ascii>
     Of course, if you had really<end_line>
-    killed me then even Murno<end_line>
-    would be angry at you.<end_line>
+    tried to erase me then even<end_line>
+    Murno would be angry at you.<end_line>
   </ascii>
 </dialogue>
-#173
 <dialogue>
   <info box="right">
   <portrait_l entry="player" eye="serious" mouth="tense">
@@ -214,7 +213,7 @@
   </female>
   <ascii>
     If you would just come out and<end_line>
-    tell her your thoughts, I'm sure<end_line>
+    tell her your feelings, I'm sure<end_line>
     Murno would be happy.<end_line>
   </ascii>
 </dialogue>
@@ -322,7 +321,7 @@
     </sjis>
   </female>
   <ascii>
-    Murno did that<three_dots><end_line>
+    Murno risked her life for you<three_dots><end_line>
     What on earth happened?<end_line>
   </ascii>
 </dialogue>
@@ -435,8 +434,8 @@
   </sjis>
   <ascii>
     N-no way!<end_line>
-    There's no way I'd be scared<end_line>
-    of a mere dog!<end_line>
+    There's no way I'd be<end_line>
+    scared of a mere dog!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -473,8 +472,8 @@
     恐れていたと言っていい<end_line>
   </sjis>
   <ascii>
-    There was a really noisy dog in the<end_line>
-    village. One that Murno couldn't handle.<end_line>
+    There was a noisy dog in the<end_line>
+    village. Murno couldn't handle it.<end_line>
     You could even say she was afraid.<end_line>
   </ascii>
 </dialogue>
@@ -551,7 +550,7 @@
   </sjis>
   <ascii>
     However, after she ran, the dog<end_line>
-    kept on barking at me. It was annoying,<end_line>
+    kept barking at me. It was annoying,<end_line>
     so I thought I'd get rid of it<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -606,9 +605,9 @@
     命がけだったんだ<three_dots><end_line>
   </sjis>
   <ascii>
-    For a kid like Murno, facing Gau was like<end_line>
-    when you had challenged the Phanton<end_line>
-    Dragon. She put her life on the line<three_dots><end_line>
+    For her, facing Gau was like when<end_line>
+    you challenged the Phantom Dragon.<end_line>
+    She put her life on the line<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -708,7 +707,7 @@
     今の私が手を貸す必要がドコにある？<end_line>
   </sjis>
   <ascii>
-    Moreover, you were able to defeat me.<end_line>
+    Moreover, you've defeated me.<end_line>
     Now that you are protecting her,<end_line>
     you don't need my help, right?<end_line>
   </ascii>
@@ -760,9 +759,9 @@
     ということだろう<end_line>
   </sjis>
   <ascii>
-    It's fine<three_dots>with her taken care of<three_dots><end_line>
-    I can fully devote my efforts<end_line>
-    towards you.<end_line>
+    It's fine<three_dots> with her taken 
+    care of, I can fully devote<end_line>
+    my time towards you.<end_line>
   </ascii>
 </dialogue>
 <dialogue>

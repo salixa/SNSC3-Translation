@@ -1,4 +1,3 @@
-#269
 <dialogue>
   <info box="left">
   <portrait_l entry="player" eye="serious" mouth="tense">
@@ -14,7 +13,6 @@
     a weapon with Murno.<end_line>
   </ascii>
 </dialogue>
-#281 -> 1
 <dialogue>
   <partner name="run-dor">
   <info box="right">
@@ -475,7 +473,7 @@
     なかなか上手くいかないね<end_line>
   </sjis>
   <ascii>
-    Hmm<three_dots> This is quite difficult.<end_line>
+    This is quite difficult.<end_line>
   </ascii>
 </dialogue>
 <dialogue>

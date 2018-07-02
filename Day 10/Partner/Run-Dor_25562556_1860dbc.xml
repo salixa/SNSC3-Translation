@@ -66,8 +66,9 @@
     できた武器なんだ<end_line>
   </sjis>
   <ascii>
-    The weapon I used was one<end_line>
-    we made together during training.<end_line>
+    The weapon I used<end_line>
+    was one we made<end_line>
+    together during training.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -81,8 +82,8 @@
     だから、オレは、なんと言うか<three_dots><end_line>
   </sjis>
   <ascii>
-    In other words, this isn't just<end_line>
-    my weapon, its ours<three_dots><end_line>
+    In other words, this isn't<end_line>
+    just my weapon, its ours<three_dots><end_line>
     So, how should I say this<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -111,8 +112,9 @@
     できた武器なんだよ<end_line>
   </sjis>
   <ascii>
-    The weapon I used was one<end_line>
-    we made together during training.<end_line>
+    The weapon I used<end_line>
+    was one we made<end_line>
+    together during training.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -126,8 +128,8 @@
     だから、わたしは、なんと言うか<three_dots><end_line>
   </sjis>
   <ascii>
-    In other words, this isn't just<end_line>
-    my weapon, its ours<three_dots><end_line>
+    In other words, this isn't<end_line>
+    just my weapon, its ours<three_dots><end_line>
     So, how should I say this<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -514,8 +516,8 @@
     止マリマセン～<end_line>
   </sjis>
   <ascii>
-    I cannot.<end_line>
-    It will not stop.<end_line>
+    I Cannot.<end_line>
+    It Will Not Stop.<end_line>
   </ascii>
 </dialogue>
 <dialogue>

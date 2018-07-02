@@ -6,3 +6,5 @@ scriptTXT/*
 sn3_export_story/*
 *.ini
 ~\$Locations\.xlsx
+
+\.~lock\.Locations\.xlsx#

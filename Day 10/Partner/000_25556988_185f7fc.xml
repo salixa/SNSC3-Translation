@@ -63,8 +63,8 @@
     選ブノデスカ？<end_line>
   </sjis>
   <ascii>
-    Choose The Weapon Of Highest Durability?<end_line>
-    Or Choose The Weapon With<end_line>
+    The Most Durable?<end_line>
+    Or The One With<end_line>
     The Sharpest Edge?<end_line>
   </ascii>
 </dialogue>
@@ -207,7 +207,7 @@
   <ascii>
     Some Time Ago, Tram Said That You<end_line>
     Conveyed Your Soul To The Phantom<end_line>
-    Dragon Through a Fight. Is That True?<end_line>
+    Dragon Through a Fight.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -222,7 +222,7 @@
     <three_dots>っていうのが親方の教えなんだけど<end_line>
   </sjis>
   <ascii>
-    Ummm<three_dots><end_line>
+    Ummm<three_dots> Yeah.<end_line>
     If you fight seriously,<end_line>
     your feelings will be projected.<end_line>
   </ascii>
@@ -253,7 +253,7 @@
     <three_dots>っていうのが親方の教えなんだけど<end_line>
   </sjis>
   <ascii>
-    Ummm<three_dots><end_line>
+    Ummm<three_dots> Yeah.<end_line>
     If you fight seriously,<end_line>
     your feelings will be projected.<end_line>
   </ascii>
@@ -325,8 +325,8 @@
   </sjis>
   <ascii>
     That Is True<three_dots><end_line>
-    There Was a Problem With Transformation.<end_line>
-    However, I Am Now Functioning Correctly.<end_line>
+    I Could Not Initiate Transformation.<end_line>
+    However, I Am Now Able To.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1165,8 +1165,8 @@
   </sjis>
   <ascii>
     If you're going that far, then fine.<end_line>
-    But the difference in power between us<end_line>
-    is too big. It'll be over too quickly<three_dots><end_line>
+    But the difference in power is<end_line>
+    too big. It'll be over quickly<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1351,7 +1351,7 @@
   </sjis>
   <ascii>
     Are you saying you're glad you<end_line>
-    lost the match that time?<end_line>
+    lost to me that time?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1379,7 +1379,7 @@
   </sjis>
   <ascii>
     Right now, if I went all out,<end_line>
-    I definitely would lose.<end_line>
+    I definitely would not lose.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1401,9 +1401,9 @@
     </sjis>
   </female>
   <ascii>
-    Definitely?<end_line>
-    You can't be so sure, can you?<end_line>
-    Then how about we fight, one last time?<end_line>
+    Definitely? You can't be so sure,<end_line>
+    can you? Then how about we fight,<end_line>
+    one last time?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1606,8 +1606,9 @@
     </sjis>
   </female>
   <ascii>
-    I'm saying that using only one weapon<end_line>
-    will be enough to deal with you<three_dots><end_line>
+    I'm saying that using<end>
+    only one weapon will be<end_line>
+    enough to deal with you<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1620,7 +1621,7 @@
   </sjis>
   <ascii>
     But that's so reckless<three_dots><end_line>
-    It's definitely better if we didn't<three_dots><end_line>
+    It's surely better if we didn't<three_dots><end_line>
   </ascii>
 </dialogue>
 <bigtext>
