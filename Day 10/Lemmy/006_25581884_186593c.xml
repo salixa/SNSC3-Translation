@@ -106,8 +106,7 @@
     </sjis>
   </female>
   <ascii>
-    I don't know what happened,<end_line>
-    but why dont you try talking<end_line>
+    Why dont you try talking<end_line>
     about your troubles?<end_line>
     It might make you feel better.<end_line>
   </ascii>
@@ -169,8 +168,9 @@
     ないよ<end_line>
   </sjis>
   <ascii>
-    Well, there's no need for you to worry<end_line>
-    about what is between my mother and I.<end_line>
+    Well, there's no need for you<end_line>
+    to worry about what is<end_line>
+    between my mother and I.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -343,9 +343,9 @@
     やっているのも、その証拠だよ<three_dots><end_line>
   </sjis>
   <ascii>
-    That she's curried favor with the leader<end_line>
-    of Ringvall house, and became Velworen's<end_line>
-    secretary is proof<three_dots><end_line>
+    She's curried favor with the leader<end_line>
+    of Ringvall house, and became<end_line>
+    Velworen's secretary<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -427,7 +427,8 @@
     気にしなくてもよかったんだ<end_line>
   </sjis>
   <ascii>
-    In his care, I didn't have to <end_line>
+    In his care,<end_line>
+    I didn't have to<end_line>
     worry about politics.<end_line>
   </ascii>
 </dialogue>
@@ -499,7 +500,7 @@
   <ascii>
     Is what you said about<end_line>
     your mother true?<end_line>
-    Maybe you're misunderstanding something?<end_line>
+    Maybe you're misunderstanding?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -514,8 +515,8 @@
   </sjis>
   <ascii>
     She was really thinking about you.<end_line>
-    She was even willing<end_line>
-    to become Velworen's secretary<three_dots><end_line>
+    She was even willing to<end_line>
+    become Velworen's secretary<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -547,7 +548,7 @@
   <ascii>
     Is what you said about<end_line>
     your mother true?<end_line>
-    Maybe you're misunderstanding something?<end_line>
+    Maybe you're misunderstanding?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -562,8 +563,8 @@
   </sjis>
   <ascii>
     She was really thinking about you.<end_line>
-    She was even willing<end_line>
-    to become Velworen's secretary<three_dots><end_line>
+    She was even willing to<end_line>
+    become Velworen's secretary<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -775,7 +776,8 @@
     オレは思うぜ<end_line>
   </sjis>
   <ascii>
-    I think your mother is seriously<end_line>
+    I think your mother<end_line>
+    is seriously<end_line>
     worrying about you.<end_line>
   </ascii>
 </dialogue>
@@ -803,7 +805,8 @@
     わたしは思うよ<end_line>
   </sjis>
   <ascii>
-    I think your mother is seriously<end_line>
+    I think your mother<end_line>
+    is seriously<end_line>
     worrying about you.<end_line>
   </ascii>
 </dialogue>

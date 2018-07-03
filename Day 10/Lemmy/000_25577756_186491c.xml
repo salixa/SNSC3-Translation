@@ -61,7 +61,7 @@
   </sjis>
   <ascii>
     I have to talk to Murno.<end_line>
-    It has nothing to dowith you.<end_line>
+    It has nothing to do with you.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -83,22 +83,25 @@
 <dialogue>
   <info box="right">
   <portrait_l entry="partner" eye="serious" mouth="tense">
-  <portrait_r entry="player" eye="serious" mouth="serious">
+  <portrait_r entry="player" eye="serious" mouth="neutral">
   <male>
     <sjis>
       そっか<three_dots><end_line>
+      そうだな<three_dots><end_line>
       わかったよ<end_line>
     </sjis>
   </male>
   <female>
     <sjis>
       そっか<three_dots><end_line>
+      そうだね<three_dots><end_line>
       わかったよ<end_line>
     </sjis>
   </female>
   <ascii>
     Oh<three_dots><end_line>
-    Okay.<end_line>
+    Okay<three_dots><end_line>
+    Understood.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -111,11 +114,9 @@
     きっと色々あるんだよな<three_dots><end_line>
   </sjis>
   <ascii>
-    There's still the matter of Murno's<end_line>
-    father, and they'll be returning to<end_line>
-    their village soon.<end_line>
-    I'm sure they have a lot<end_line>
-    on thier minds<three_dots><end_line>
+    With her father's condition, and<end_line>
+    returning to the village,<end_line>
+    they've got a lot to think about<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -158,11 +159,9 @@
     きっと色々あるんだよね<three_dots><end_line>
   </sjis>
   <ascii>
-    There's still the matter of Murno's<end_line>
-    father, and they'll be returning to<end_line>
-    their village soon.<end_line>
-    I'm sure they have a lot<end_line>
-    on their minds<three_dots><end_line>
+    With her father's condition, and<end_line>
+    returning to the village,<end_line>
+    they've got a lot to think about<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>

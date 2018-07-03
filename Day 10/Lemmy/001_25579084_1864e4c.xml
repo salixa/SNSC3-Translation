@@ -123,7 +123,7 @@
   </sjis>
   <ascii>
     I believe I told you yesterday.<end_line>
-    My mother has nothing to do with this.<end_line>
+    She has nothing to do with this.<end_line>
     I will go.<end_line>
   </ascii>
 </dialogue>
@@ -160,8 +160,8 @@
     </sjis>
   </female>
   <ascii>
-    It's normal to worry when your child<end_line>
-    goes off somewhere dangerous, isn't it?<end_line>
+    It's normal to worry when your<end_line>
+    child might be in danger, isn't it?<end_line>
     That's what a mother does.<end_line>
   </ascii>
 </dialogue>
@@ -175,8 +175,7 @@
     召喚獣がいないと何もできないくせに<end_line>
   </sjis>
   <ascii>
-    If that place is too dangerous for me,<end_line>
-    it's too dangerous for you too.<end_line>
+    You're worse off than I am.<end_line>
     After all, you can't do anything<end_line>
     without your Summon Beast.<end_line>
   </ascii>
@@ -215,7 +214,7 @@
     あれも召喚獣がいたからだよ<end_line>
   </sjis>
   <ascii>
-    You've gotten arrogant after beating<end_line>
+    You've gotten cocky after beating<end_line>
     Magdrad, but you only won<end_line>
     because of your Summon.<end_line>
   </ascii>
@@ -269,7 +268,7 @@
   <ascii>
     Looks like you're alone today,<end_line>
     how unusual.<end_line>
-    You shouldn't push yourself, you know?<end_line>
+    You shouldn't push yourself.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -346,8 +345,8 @@
     北門の前で待ってるよ<end_line>
   </sjis>
   <ascii>
-    I'm ready anytime, but it seems<end_line>
-    you have all sorts of things to prepare.<end_line>
+    I'm ready anytime, but I'll allow<end_line>
+    you plenty of time to prepare.<end_line>
     I'll wait at the North Gate.<end_line>
   </ascii>
 </dialogue>

@@ -61,7 +61,7 @@
   </sjis>
   <ascii>
     I have to talk to Murno.<end_line>
-    It has nothing to dowith you.<end_line>
+    It has nothing to do with you.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -127,8 +127,8 @@
     ちょっとこの斧、直してみな<end_line>
   </sjis>
   <ascii>
-    As I said yesterday,<end_line>
-    I want you to show me your abilities.<end_line>
+    As I said yesterday, I want you<end_line>
+    to show me your abilities.<end_line>
     See if you can repair this axe.<end_line>
   </ascii>
 </dialogue>
