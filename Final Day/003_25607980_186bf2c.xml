@@ -27,8 +27,8 @@
     こっちにミューノは来てないかい？<end_line>
   </sjis>
   <ascii>
-    Hey, <player_nickname><end_line>
-    Have you seen Murno around here?<end_line>
+    Hey, <player_nickname>,<end_line>
+    have you seen Murno today?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -77,7 +77,7 @@
     ミューノがいないのか？<end_line>
   </sjis>
   <ascii>
-    Murno's is gone?<end_line>
+    Murno's gone?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -104,7 +104,7 @@
   <ascii>
     That's right.<end_line>
     Mr. Wellman is gone too.<end_line>
-    Maybe they left together<three_dots>?<end_line>
+    Maybe they went out together<three_dots>?<end_line>
   </ascii>
 </dialogue>
 <dialogue>

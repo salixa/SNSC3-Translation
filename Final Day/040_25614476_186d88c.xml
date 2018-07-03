@@ -31,7 +31,7 @@
   <ascii>
     If you're here, the others<end_line>
     won't be too far behind<three_dots><end_line>
-    Looks like I've got to speed things up<three_dots><end_line>
+    I've got to speed things up<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -221,7 +221,8 @@
   </female>
   <ascii>
     Wait, he did?<end_line>
-    Then why are you with Anise!?<end_line>
+    But then why are<end_line>
+    you with Anise!?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -563,7 +564,7 @@
   </sjis>
   <ascii>
     Ha! So she says.<end_line>
-    You're friends will be here soon.<end_line>
+    Your friends will be here soon.<end_line>
     We'll be off!<end_line>
   </ascii>
 </dialogue>
@@ -654,7 +655,7 @@
   </sjis>
   <ascii>
     We've already been here!<end_line>
-    Seriously V.E, you<three_dots><end_line>
+    Seriously Vee, you<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -749,7 +750,8 @@
   </sjis>
   <ascii>
     Ah<three_dots>, yeah<three_dots><end_line>
-    We just saw her<three_dots>,end_line>
+    We just saw her<three_dots><end_line>
+    But<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -761,7 +763,7 @@
     早く追いかけないと<three_dots>！<end_line>
   </sjis>
   <ascii>
-    Then what are you doing, spacing out!?<end_line>
+    Then what are you waiting for!?<end_line>
     We've got to go after her<three_dots>!<end_line>
   </ascii>
 </dialogue>
@@ -866,6 +868,7 @@
     </sjis>
   </female>
   <ascii>
+    With Anise there<three_dots><end_line>
     Of course not<three_dots><end_line>
     But Murno<three_dots><end_line>
   </ascii>
@@ -941,7 +944,8 @@
   </sjis>
   <ascii>
     It's not!<end_line>
-    Tell me, how is it different?<end_line>
+    Tell me,<end_line>
+    how is it different?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -967,7 +971,7 @@
     今はその時か？<end_line>
   </sjis>
   <ascii>
-    Don't just listen to everything people<end_line>
+    Don't listen to everything people<end_line>
     tell you! Consider the situation!<end_line>
     This isn't the time for that!<end_line>
   </ascii>
@@ -1004,9 +1008,9 @@
     野放しにはできないからな<end_line>
   </sjis>
   <ascii>
-    I'm going after her, with or<end_line>
-    without you. I can't leave her to her<end_line>
-    own devices, for the village's sake.<end_line>
+    I'm going after her.<end_line>
+    I can't leave her to her<end_line>
+    own devices, for the town's sake.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1021,7 +1025,7 @@
   <ascii>
     Of course, I'll be going too.<end_line>
     Humans have to pave their own path!<end_line>
-    That's the rock and roll way of life.<end_line>
+    That's the rock and roll way.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1046,8 +1050,8 @@
   </sjis>
   <ascii>
     You do what you want.<end_line>
-    Think carefully, and I won't get angry<end_line>
-    about it, no matter what you decide.<end_line>
+    Think carefully, and I'll respect<end_line>
+    your decision, no matter what it is.<end_line>
   </ascii>
 </dialogue>
 <dialogue>

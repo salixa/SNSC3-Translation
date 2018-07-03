@@ -6,6 +6,7 @@
 		ミューノはいたかい？<end_line>
 	</sjis>
   <ascii>
+    How'd it go?<end_line>
     Find anything?<end_line>
   </ascii>
 </dialogue>
@@ -58,7 +59,8 @@
 	</sjis>
   <ascii>
     Could it be that Murno<end_line>
-    returned home with her father?<end_line>
+    already returned home<end_line>
+    with her father?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -143,7 +145,7 @@
 	</female>
   <ascii>
     You're right.<end_line>
-    Let's look around here for a bit longer.<end_line>
+    Let's look around for a bit longer.<end_line>
   </ascii>
 </dialogue>
 <dialogue>

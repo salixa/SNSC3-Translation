@@ -12,7 +12,7 @@
     </sjis>
   </female>
   <ascii>
-    Y-you guys<three_dots>!<end_line>
+    Y-you two<three_dots>!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -91,7 +91,8 @@
     たたき落としてやったぞ<end_line>
   </sjis>
   <ascii>
-    Ahh<three_dots> We stuffed them<end_line>
+    Ahh<three_dots><end_line>
+    We stuffed them<end_line>
     down a hole at Spoat Grotto.<end_line>
   </ascii>
 </dialogue>
@@ -156,8 +157,8 @@
     もう誰も助けにはこないんだぞ？<end_line>
   </sjis>
   <ascii>
-    Forget about them. Shouldn't you be<end_line>
-    more worried about yourself?<end_line>
+    No point in worrying about the dead.<end_line>
+    You should worry about yourself.<end_line>
     There's no one left to save you.<end_line>
   </ascii>
 </dialogue>
@@ -232,9 +233,9 @@
     責任感じてるみたいだけど<end_line>
   </sjis>
   <ascii>
-    She feels responsible for Voijin's <end_line>
-    death. After all, it only happened <end_line>
-    because she told him about the Stone.<end_line>
+    She feels responsible for Voijin's<end_line>
+    death. Well, it happened because<end_line>
+    she told him about the Stone.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -291,7 +292,7 @@
     それに<three_dots><end_line>
   </sjis>
   <ascii>
-    If he were still alive, he might have<end_line>
+    If he were alive, he might have<end_line>
     really turned Lindbaum upside-down<three_dots><end_line>
     On top of that<three_dots><end_line>
   </ascii>
@@ -391,7 +392,7 @@
   <ascii>
     But this seems like it might<end_line>
     be somewhat ineresting.<end_line>
-    I wanted to say just a bit longer<three_dots><end_line>
+    I wanted to stay just a bit longer<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -404,7 +405,7 @@
     ハラのムシもおさまらんわ！<end_line>
   </sjis>
   <ascii>
-    Being looked down upon by a Summon.<end_line>
+    Being looked down upon by a Summon<three_dots><end_line>
     I, Steel Pike<three_dots><end_line>
     Can no longer suppress my feelings!<end_line>
   </ascii>
@@ -420,8 +421,8 @@
   </sjis>
   <ascii>
     The lovely Guilan's magnificent<end_line>
-    techniques will make sure you can never<end_line>
-    talk down on us<three_dots> Ever again!<end_line>
+    techniques will shut you up<three_dots><end_line>
+    For good!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -446,8 +447,8 @@
   </sjis>
   <ascii>
     Hm? Where's your usual enthusiasm?<end_line>
-    Has the despair of losing your comrades<end_line>
-    drained your energy away<end_line>
+    Has losing your comrades<end_line>
+    drained your energy away?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -488,7 +489,7 @@
   <ascii>
     What<three_dots>!?<end_line>
     What did you say?<end_line>
-    Is your head messed up<three_dots>?<end_line>
+    You have brain damage<three_dots>?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -526,7 +527,7 @@
   </sjis>
   <ascii>
     What!?<end_line>
-    Are you still making excuses!?<end_line>
+    What are you talking about!?<end_line>
   </ascii>
 </dialogue>
 <dialogue>

@@ -7,6 +7,10 @@
 		波動ガ大分　強クナッテキマシタ<three_dots><end_line>
 		保護れべるヲ　あっぷシマス<end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+    Waves Are Increasing In Strength<three_dots><end_line>
+    Increasing Protection.<end_line>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -16,6 +20,10 @@
 		魔石ヲ収メテイタ遺跡ニ<end_line>
 		近ヅイタカラデショウ<end_line>
 	</sjis>
+  <ascii>
+    We Are Approaching<end_line>
+    The Ruins.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -26,6 +34,10 @@
 		イヤな気が大分強くなってきたな<three_dots><end_line>
 		少し、こたえるのぉ<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Mmm<three_dots><end_line>
+    The air itself is so oppressive<three_dots><end_line>
+    As I expected<three_dots><end_line>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -35,6 +47,10 @@
 		魔石を収めていた遺跡に<end_line>
 		近づいてきたからじゃろうて<three_dots><end_line>
 	</sjis>
+  <ascii>
+    We must be getting<end_line>
+    closer to the ruins<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -45,6 +61,11 @@
 		イヤな感じがヒドクなってきた<three_dots><end_line>
 		うっとうしい<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Tch<three_dots><end_line>
+    It feels disgusting here<three_dots><end_line>
+    How annoying<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -54,6 +75,10 @@
 		魔石を収めていた遺跡に<end_line>
 		近づいてきたからか<three_dots><end_line>
 	</sjis>
+  <ascii>
+    We must be getting<end_line>
+    closer to the ruins<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -64,6 +89,11 @@
 		イヤな感じがヒドクなって<end_line>
 		きましたわ<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Uu<three_dots><end_line>
+    This place is very unsettling<three_dots><end_line>
+    We're almost there<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -73,6 +103,10 @@
 		きっと魔石を収めていた<end_line>
 		遺跡に近づいてきたからですわ<three_dots><end_line>
 	</sjis>
+  <ascii>
+    I'm certain we are<end_line>
+    approaching the ruins<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -88,6 +122,9 @@
 			大丈夫？　<partner><three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    <partner>, are you okay?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -104,6 +141,9 @@
 			少し休もうか？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Want to rest<end_line>
+    over there?<end_line>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -112,6 +152,9 @@
 	<sjis>
 		マカセマス<three_dots><end_line>
 	</sjis>
+  <ascii>
+    It Is Your Decision<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -120,6 +163,9 @@
 	<sjis>
 		おぬしにまかせる<end_line>
 	</sjis>
+  <ascii>
+    If you want to.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -128,6 +174,9 @@
 	<sjis>
 		好きにしろ<end_line>
 	</sjis>
+  <ascii> 
+    Whatever is fine.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -137,4 +186,8 @@
 		ありがとうございます<end_line>
 		<player_nickname>さんにおまかせしますわ<end_line>
 	</sjis>
+  <ascii>
+    Thank you.<end_line>
+    I will let you decide.<end_line>
+  </ascii>
 </dialogue>

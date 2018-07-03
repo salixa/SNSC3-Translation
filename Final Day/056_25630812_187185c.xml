@@ -8,7 +8,7 @@
       ボウヤ、本当にスゴイ男ね<three_dots><end_line>
     </sjis>
     <ascii>
-      Everytime we fight, you get stronger<three_dots><end_line>
+      Every fight, you get stronger<three_dots><end_line>
       Boy, you really are amazing<three_dots><end_line>
     </ascii>
   </male>
@@ -18,8 +18,8 @@
       おじょうちゃん、本当にスゴイ女ね<three_dots><end_line>
     </sjis>
     <ascii>
-      Everytime we fight, you get stronger<three_dots><end_line>
-      Little lady, you really are amazing<three_dots><end_line>
+      Every fight, you get stronger<three_dots><end_line>
+      Girl, you really are amazing<three_dots><end_line>
     </ascii>
   </female>
 </dialogue>
@@ -77,7 +77,7 @@
   <ascii>
     What's wrong<three_dots>?<end_line>
     If you don't do it,<end_line>
-    they will<three_dots>!<end_line>
+    I will<three_dots>!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -307,8 +307,8 @@
     いや～、ラッキーだったよ<end_line>
   </sjis>
   <ascii>
-    Ignoring him, there was a strong wind<end_line>
-    coming from the cave that helped out.<end_line>
+    Ignoring him, there was a breeze<end_line>
+    that helped us find the way out.<end_line>
     Man, talk about lucky.<end_line>
   </ascii>
 </dialogue>
@@ -320,8 +320,7 @@
     これも日頃の行いが良いからだね<end_line>
   </sjis>
   <ascii>
-    This must be because of<end_line>
-    my good behavior.<end_line>
+    Must be my good karma.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -332,7 +331,7 @@
     日頃の行いが良い！？<end_line>
   </sjis>
   <ascii>
-    Good behavior!?<end_line>
+    Karma, you say!?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -564,7 +563,7 @@
   <ascii>
     Uu<three_dots><end_line>
     Even so, forcing me to guide you<three_dots><end_line>
-    I just can't handle V.E<three_dots><end_line>
+    I just can't handle Vee<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -577,8 +576,8 @@
     根はいいヤツですから<end_line>
   </sjis>
   <ascii>
-    There, there<three_dots><end_line>
-    It'll be fine as long as you cooperate.<end_line>
+    There, there<three_dots> It'll be fine<end_line>
+    as long as you cooperate.<end_line>
     She's actually a good person.<end_line>
   </ascii>
 </dialogue>
@@ -629,7 +628,7 @@
   </sjis>
   <ascii>
     Who cares about you!<end_line>
-    I just came to find out what's going on.<end_line>
+    I was just curious.<end_line>
     Also<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -719,8 +718,8 @@
     な～にエラそうにしてンのよ？<end_line>
   </sjis>
   <ascii>
-    What kind of trash gets conceited<end_line>
-    and talks about life and death<end_line>
+    What kind of trash<end_line>
+    talks about life and death<end_line>
     when confronted by a child?<end_line>
   </ascii>
 </dialogue>
@@ -1066,7 +1065,7 @@
   </sjis>
   <ascii>
     Well, you can just stay here.<end_line>
-    With V.E and Jade<three_dots><end_line>
+    With Vee and Jade<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1094,6 +1093,7 @@
     あとはヨロシク<end_line>
   </sjis>
   <ascii>
+    Ahh<three_dots><end_line>
     So troublesome<three_dots><end_line>
     Tier, I'll leave him to you.<end_line>
   </ascii>

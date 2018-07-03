@@ -7,7 +7,7 @@
   </sjis>
   <ascii>
     Ah!<end_line>
-    That person<three_dots><end_line>
+    That's<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -242,7 +242,8 @@
     ヤツらがミューノをつれていった<end_line>
     ところじゃないか！<end_line>
   </sjis>
-   <ascii>
+  <ascii>
+    Spoat Grotto<three_dots><end_line>
     That's where they took<end_line>
     Murno earlier, isn't it!?<end_line>
   </ascii>
@@ -272,6 +273,7 @@
     ところじゃない！？<end_line>
   </sjis>
   <ascii>
+    Spoat Grotto<three_dots><end_line>
     That's where they took<end_line>
     Murno earlier, isn't it!?<end_line>
   </ascii>
@@ -286,7 +288,7 @@
     早く追いかけなくちゃ！<end_line>
   </sjis>
   <ascii>
-    They just don't know when to give up<three_dots>!<end_line>
+    They don't know when to give up<three_dots>!<end_line>
     We have to hurry!<end_line>
   </ascii>
 </dialogue>
@@ -301,8 +303,8 @@
   </sjis>
   <ascii>
     Ah, but we haven't gotten permission<end_line>
-    from Master Bostaph, and as a memeber<end_line>
-    of the Gold Council, we should really<three_dots><end_line>
+    from Master Bostaph, and as a member<end_line>
+    of the Gold Council, we should<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -314,7 +316,8 @@
     言ってンだろ！？<end_line>
   </sjis>
   <ascii>
-    We don't have time for that right now!<end_line>
+    We don't have time<end_line>
+    for that right now!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -406,7 +409,7 @@
     さっそく<three_dots>！<end_line>
   </sjis>
   <ascii>
-    Then let's leave it at taht.<end_line>
+    Then let's leave it at that.<end_line>
     Let's go<three_dots>!<end_line>
   </ascii>
 </dialogue>
@@ -421,7 +424,8 @@
   </sjis>
   <ascii>
     You stay at the workshop!<end_line>
-    It's too dangerous.<end_line>
+    We don't know what's going on.<end_line>
+    It's too dangerous for you.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -471,7 +475,7 @@
   <ascii>
     I know how you feel, and you<end_line>
     are qualified for this,<end_line>
-    but V.E is, you know<three_dots><end_line>
+    but Vee is, you know<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -525,7 +529,7 @@
   </sjis>
   <ascii>
     I see<three_dots><end_line>
-    Master has a poor sense of direction.<end_line>
+    Master's poor sense of direction.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -540,7 +544,7 @@
   <ascii>
     Wh-what?<end_line>
     What's that have to do with this!?<end_line>
-    You kno, I<three_dots><end_line>
+    You know, I<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -641,7 +645,7 @@
   </sjis>
   <ascii>
     Yeah!<end_line>
-    Let's go, big sis!<end_line>
+    Let's go, sis!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
