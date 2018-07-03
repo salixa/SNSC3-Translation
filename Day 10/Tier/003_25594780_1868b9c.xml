@@ -95,7 +95,7 @@
   <ascii>
     I'm worried too!<end_line>
     I want to go with you!<end_line>
-    I don't want to just sit around waiting!<end_line>
+    I don't want to just sit around!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -464,9 +464,9 @@
       ちゃんと守りなさいよ！<end_line>
     </sjis>
     <ascii>
-      Well that's how it is, so <player_nickname>,<end_line>
-      make sure to keep your promise,<end_line>
-      like real man!<end_line>
+      Well that's how it is,<end_line>
+      so make sure to keep your promise,<end_line>
+      like real woman!<end_line>
     </ascii>
   </male>
   <female>
@@ -476,8 +476,8 @@
       ちゃんと守りなさいよ！<end_line>
     </sjis>
     <ascii>
-      Well that's how it is, so <player_nickname>,<end_line>
-      make sure to keep your promise,<end_line>
+      Well that's how it is,<end_line>
+      so make sure to keep your promise,<end_line>
       like real woman!<end_line>
     </ascii>
   </female>

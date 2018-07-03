@@ -114,7 +114,7 @@
   </sjis>
   <ascii>
     Yo, <player_nickname>.<end_line>
-    I brought the knuckles<end_line>
+    I brought the weapon<end_line>
     I told you about yesterday.<end_line>
   </ascii>
 </dialogue>
@@ -154,7 +154,7 @@
   <ascii>
     These are<three_dots><end_line>
     They do seem to be well made,<end_line>
-    but are they really all that special?<end_line>
+    but are they all that special?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -257,8 +257,8 @@
     </sjis>
   </female>
   <ascii>
-    I<three_dots><end_line>
-    want to go up against those knuckles.<end_line>
+    I<three_dots> want to fight<end_line>
+    against those knuckles.<end_line>
   </ascii>
 </dialogue>
 <bigtext>
@@ -291,9 +291,9 @@
     </sjis>
   </female>
   <ascii>
-    I want to know just how my<end_line>
-    weapons work compared to<end_line>
-    one that Chief Rob acknowledged.<end_line>
+    I want to know how my<end_line>
+    weapons compare to one<end_line>
+    that Master Rob acknowledged.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -362,7 +362,7 @@
   <ascii>
     Choose a single weapon to test,<end_line>
     and come at me!<end_line>
-    I'll be waiting outside the workshop!<end_line>
+    I'll be outside the workshop!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -382,7 +382,7 @@
     </sjis>
   </female>
   <ascii>
-    The workshop!<end_line>
+    Outside the workshop!<end_line>
     Right!<end_line>
   </ascii>
 </dialogue>
