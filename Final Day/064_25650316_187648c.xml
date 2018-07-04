@@ -232,8 +232,8 @@
   </sjis>
   <ascii>
     Tch<three_dots> You're dull.<end_line>
-    That unpleasant feeling is overwhelming.<end_line>
-    An average Summon Beast would go mad.<end_line>
+    That unpleasant feeling is growing.<end_line>
+    An average Summon would go mad.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -246,8 +246,7 @@
     原因に近づいているハズ<three_dots><end_line>
   </sjis>
   <ascii>
-    With how strong it is now,<end_line>
-    we must be getting close<end_line>
+    We must be getting close<end_line>
     to the source<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -355,8 +354,8 @@
     絶対何かに近づいていますわ<end_line>
   </sjis>
   <ascii>
-    With this amount of strength,<end_line>
-    we must be getting close to the source.<end_line>
+    With this strength,<end_line>
+    we must be close to the source.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -394,7 +393,7 @@
     何か関係があるんでしょうか？<end_line>
   </sjis>
   <ascii>
-    Now that you mention it, you're right.<end_line>
+    Now that you mention it<three_dots><end_line>
     Are they connected somehow?<end_line>
   </ascii>
 </dialogue>

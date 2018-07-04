@@ -91,7 +91,7 @@
     絶対にあの剣ですわ<end_line>
   </sjis>
   <ascii>
-    That sword gives me a bad feeling. 
+    That sword gives off a bad feeling.<end_line>
     This is probably the cause of the<end_line>
     rampaging Summon Beasts.<end_line>
   </ascii>
@@ -299,7 +299,7 @@
   </sjis>
   <ascii>
     Don't get worked up over<end_line>
-    every little thing he does.<end_line>
+    every little thing he says.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -313,7 +313,7 @@
   </sjis>
   <ascii>
     Don't get worked up over<end_line>
-    every little thing he does.<end_line>
+    every little thing he says.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -376,7 +376,7 @@
   <ascii>
     Sorry, but I will not let her go.<end_line>
     In order to make these ruins work,<end_line>
-    I need not only Govan's Demon Stone<three_dots><end_line>
+    I need not only the Demon Stone<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -496,8 +496,8 @@
   </sjis>
   <ascii>
     So you came too<three_dots><end_line>
-    I believe I told you I will not<end_line>
-    hesitate to kill you.<end_line>
+    I believe I told you I will<end_line>
+    not hesitate to kill you.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -527,6 +527,7 @@
   <ascii>
     Do you intend to separate<end_line>
     humans from Summon Beasts?<end_line>
+    Is that it?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -578,7 +579,7 @@
     どうするつもりなんですか！？<end_line>
   </sjis>
   <ascii>
-    Why would you need something like that?<end_line>
+    Why would you need that?<end_line>
     What do you intend to do<end_line>
     if you succeed!?<end_line>
   </ascii>
@@ -595,6 +596,7 @@
   <ascii>
     I need it<three_dots>
     I must obtain it<three_dots><end_line>
+    For my goal<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -605,7 +607,7 @@
     ロブを超えるために<three_dots>！<end_line>
   </sjis>
   <ascii>
-    To surpass Rob<three_dots>!<end_line>
+    Is to surpass Rob<three_dots>!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -630,6 +632,7 @@
   <ascii>
     What are you saying, Master!?<end_line>
     He's already dead<three_dots><end_line>
+    Why<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -642,7 +645,8 @@
     あいつを超えられぬのだ！<end_line>
   </sjis>
   <ascii>
-    Even so, he's still better than me!<end_line>
+    Even so,<end_line>
+    he's still better than me!<end_line>
     I must surpass him!<end_line>
   </ascii>
 </dialogue>
@@ -784,7 +788,7 @@
   </sjis>
   <ascii>
     Eventually, everyone left me.<end_line>
-    Former friends, comrades, even my wife.<end_line>
+    Friends, comrades, even my wife.<end_line>
     But that didn't matter!<end_line>
   </ascii>
 </dialogue>

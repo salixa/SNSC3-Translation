@@ -128,7 +128,7 @@
   </sjis>
   <ascii>
     There, its settled.<end_line>
-    Now release wellman<end_line>
+    Now release Wellman<end_line>
     and return Murno.<end_line>
   </ascii>
 </dialogue>
@@ -142,9 +142,9 @@
     直接ミューノを操ればよかったのに<three_dots><end_line>
   </sjis>
   <ascii>
-    Release him<three_dots><end_line>
-    If I could do that, I would have<end_line>
-    controlled Murno instead<three_dots><end_line>
+    Hmm<three_dots><end_line>
+    If you could control someone,<end_line>
+    why not Murno instead<three_dots>?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -156,7 +156,8 @@
     何か理由が<three_dots>？<end_line>
   </sjis>
   <ascii>
-    Is there a reason<three_dots>?<end_line>
+    Maybe<three_dots><end_line>
+    There's a reason<three_dots>?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -204,8 +205,8 @@
   </sjis>
   <ascii>
     You were too slow, Bostaph.<end_line>
-    It's already over.  Anyway,<end_line>
-    there's something I'd like to ask you<three_dots><end_line>
+    It's already over. Anyway, there's<end_line>
+    something I'd like to ask you<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -258,7 +259,7 @@
     なにやって<three_dots>！<end_line>
   </sjis>
   <ascii>
-    Something's<three_dots>!<end_line>
+    What're you<three_dots>!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -439,6 +440,7 @@
   </sjis>
   <ascii>
     Tch<three_dots><end_line>
+    Missed<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -576,7 +578,7 @@
     では、行くぞ<end_line>
   </sjis>
   <ascii>
-    Well then, I will be off.<end_line>
+    Now, let us be off.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -840,8 +842,7 @@
   </sjis>
   <ascii>
     <three_dots>Don't go killing us<end_line>
-    off that quickly<three_dots><end_line>
-    Ow<three_dots><end_line>
+    off that quickly<three_dots> Ugh<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1152,8 +1153,8 @@
   </sjis>
   <ascii>
     I'm counting on you.<end_line>
-    It's about time to put an<end_line>
-    end to all this!<end_line>
+    It's about time to put<end_line>
+    an end to all this!<end_line>
   </ascii>
 </dialogue>
 <bigtext>
