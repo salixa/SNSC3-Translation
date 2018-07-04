@@ -154,7 +154,7 @@
   <ascii>
     F-father<three_dots>!<end_line>
     What's happening?<end_line>
-    The Demon Stone<three_dots>
+    The Demon Stone<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -368,8 +368,8 @@
   </sjis>
   <ascii>
     Like we care about that.<end_line>
-    More importantly, the others told us.<end_line>
-    You used some weird tool<three_dots><end_line>
+    More importantly, they told us<end_line>
+    you used some weird tool<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -635,7 +635,7 @@
     </sjis>
   </female>
   <ascii>
-    Like I'd let you!<end_line>,
+    Like I'd let you!<end_line>
     Let's go,<end_line>
     <partner>!<end_line>
   </ascii>

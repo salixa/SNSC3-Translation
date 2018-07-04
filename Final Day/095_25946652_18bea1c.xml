@@ -96,7 +96,7 @@
     話し合いになるとは思うが<three_dots><end_line>
   </sjis>
   <ascii>
-    With Bostaph and Velworen involved,<end>
+    With Bostaph and Velworen involved,<end_line>
     I'm sure we'll end up meeting<end_line>
     with the Gold Faction too.<end_line>
   </ascii>
@@ -329,7 +329,7 @@
   <ascii>
     Murno, are you sure<end_line>
     you don't want to go?<end_line>
-    I can take care of thing here myself.<end_line>
+    I can take care of it myself.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1295,7 +1295,7 @@
   </sjis>
   <ascii>
     Uu, Lady Murno<three_dots><end_line>
-    This is farewell for a little while<three_dots><end_line>
+    This is farewell for now<three_dots><end_line>
     Please, stay healthy<three_dots><end_line>
   </ascii>
 </dialogue>

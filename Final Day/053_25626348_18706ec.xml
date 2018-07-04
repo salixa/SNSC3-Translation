@@ -11,6 +11,7 @@
     <three_dots><end_line>
     Waves Are Increasing In Strength<three_dots><end_line>
     Increasing Protection.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -38,6 +39,7 @@
     Mmm<three_dots><end_line>
     The air itself is so oppressive<three_dots><end_line>
     As I expected<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -144,6 +146,7 @@
   <ascii>
     Want to rest<end_line>
     over there?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">

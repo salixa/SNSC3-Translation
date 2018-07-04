@@ -393,7 +393,7 @@
     扱いがむずかしいって<three_dots><end_line>
   </sjis>
   <ascii>
-    I told you before, right<three_dots>
+    I told you before, right<three_dots><end_line>
     That Summonstone is similar to ore,<end_line>
     so it's hard to use<three_dots><end_line>
   </ascii>
@@ -552,8 +552,8 @@
     アンタがあきらめてどうする！<end_line>
   </sjis>
   <ascii>
-    <partner> is your precious<end_line>
-    partner, right?<end_line>
+    <partner> is your<end_line>
+    precious partner, right?<end_line>
     What good will come from giving up?<end_line>
   </ascii>
 </dialogue>
@@ -619,7 +619,7 @@
   <ascii>
     <partner> is your precious<end_line>
     partner, right?<end_line>
-    Are you okay with how things are now?<end_line>
+    Are you okay without them?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1300,8 +1300,8 @@
     ね、<player_nickname><end_line>
   </sjis>
   <ascii>
-    Well, you are my apprentice.<end_line>
-    Of course you can make miracles happen.<end_line>
+    Well, as an apprentice of mine,<end_line>
+    a miracle should be easy.<end_line>
     Right, <player_nickname>?<end_line>
   </ascii>
 </dialogue>

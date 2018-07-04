@@ -11,8 +11,8 @@
 		<player_nickname>たちもがんばってね<end_line>
 	</sjis>
   <ascii>
-    I'll let you know if something happens.<end_line>
-    Good luck, <player_nickname>!<end_line>
+    I'll let you know if something<end_line>
+    happens. Good luck, <player_nickname>!<end_line>
   </ascii>
 </dialogue>
 <dialogue>

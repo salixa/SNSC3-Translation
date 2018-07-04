@@ -142,7 +142,7 @@
   </sjis>
   <ascii>
     If we pass through it,<end_line>
-    we can return to Lindbaum!<end_line>  
+    we can return to Lindbaum!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -172,7 +172,7 @@
   </sjis>
   <ascii>
     If we pass through it,<end_line>
-    we can return Lindbaum!<end_line>  
+    we can return Lindbaum!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -202,7 +202,7 @@
   </sjis>
   <ascii>
     If we pass through it,<end_line>
-    we can return to Lindbaum!<end_line>  
+    we can return to Lindbaum!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -320,7 +320,7 @@
     </sjis>
     <ascii>
       No<three_dots>!<end_line>
-      <partner><three_dots>！<end_line> 
+      <partner><three_dots>！<end_line>
     </ascii>
   </female>
 </dialogue>
@@ -1657,7 +1657,7 @@
     もう考えられないんだから<three_dots><end_line>
   </sjis>
   <ascii>
-    I can't even imagine<three_dots>
+    I can't even imagine<end_line>
     life without you<three_dots><end_line>
   </ascii>
 </dialogue>

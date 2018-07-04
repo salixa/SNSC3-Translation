@@ -61,7 +61,7 @@
   <ascii>
     There's a powerful ill will coming<end_line>
     from the sword. This is probably the<end_line>
-    cause of the rampaging Summon Beasts<three_dots><end_line>
+    cause of the rampaging Beasts<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -77,7 +77,7 @@
   <ascii>
     There's a powerful ill will coming<end_line>
     from the sword. This is probably the<end_line>
-    cause of the rampaging Summon Beasts.<end_line>
+    cause of the rampaging Beasts.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -594,7 +594,7 @@
     あの男を<three_dots><end_line>
   </sjis>
   <ascii>
-    I need it<three_dots>
+    I need it<three_dots><end_line>
     I must obtain it<three_dots><end_line>
     For my goal<three_dots><end_line>
   </ascii>
@@ -607,7 +607,7 @@
     ロブを超えるために<three_dots>！<end_line>
   </sjis>
   <ascii>
-    Is to surpass Rob<three_dots>!<end_line>
+    To surpass Rob<three_dots>!<end_line>
   </ascii>
 </dialogue>
 <dialogue>

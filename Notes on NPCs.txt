@@ -39,3 +39,9 @@ Day 05/24261116_17231fc.xml
     Frenzy Dance Ore
 
 Final Day/096 has NPC text too?
+
+Final Day dialogue branches:
+  Force partner into gate: 091
+  Enter gate without partner: 093, 188734c
+  Vee ending: 187f5dc, 18c1b8c
+  Murno ending: 187b91c, 18c053c
