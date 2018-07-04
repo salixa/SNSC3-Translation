@@ -68,7 +68,8 @@
   </sjis>
   <ascii>
     Eh<three_dots><end_line>
-    You're sure this time?<end_line>
+    He fainted?<end_line>
+    I didn't mean to hurt him.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -220,8 +221,9 @@
     どうする<end_line>
   </sjis>
   <ascii>
-    Murno, what will you gain<end_line>
-    from further apologies?<end_line>
+    Murno,<end_line>
+    now's not the time<end_line>
+    to apologize. Rather<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -235,7 +237,7 @@
   </sjis>
   <ascii>
     Lady Murno, this is not the<end_line>
-    appropriate time to say I'm sorry.<end_line>
+    appropriate time to apologize.<end_line>
     Instead<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -314,7 +316,7 @@
     完全に止まったみたいですわ<end_line>
   </sjis>
   <ascii>
-    It seems like it has finally stopped.<end_line>
+    It has finally stopped.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -339,6 +341,7 @@
     Damn<three_dots> it!<end_line>
   </ascii>
 </dialogue>
+#Character (tier, vee, jade) depends on who showed up at 081
 <dialogue>
   <info box="left">
   <portrait_l entry="tier" eye="surprised" mouth="yell">

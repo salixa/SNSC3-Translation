@@ -9,7 +9,7 @@
     私、ハ<three_dots><end_line>
   </sjis>
   <ascii>
-    <partner>Pa<end_line>
+    <partner>Pa<three_dots><end_line>
     Part, ner<three_dots><end_line>
     I<three_dots><end_line>
   </ascii>
@@ -458,6 +458,10 @@
     絶対にあの剣が悪いんですわ<end_line>
     だから、あれをなんとかできれば<end_line>
   </sjis>
+  <ascii>
+    That sword is the cause of this all.<end_line>
+    If we can remove it<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -504,6 +508,7 @@
 </dialogue>
 #The following dialog depends on who you chose to meet on day 10. (i think)
 #there's only lines for tier, V.E and jade. 
+#Applies if chose Murno, partner, or Lemmy (all are already in the scene)
 <dialogue>
   <info box="right">
   <portrait_r entry="tier" eye="decided" mouth="yell">
@@ -513,6 +518,7 @@
   </sjis>
   <ascii>
     Hey, <player_nickname>!?<end_line>
+    You okay!?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -597,7 +603,7 @@
     Of course!<end_line>
   </ascii>
 </dialogue>
-#V.E
+#Vee?
 <dialogue>
   <info box="right">
   <portrait_r entry="vee" eye="decided" mouth="stressed">
@@ -781,7 +787,7 @@
     All good!<end_line>
   </ascii>
 </dialogue>
-#Jade
+#Choose Jade
 <dialogue>
   <info box="right">
   <portrait_r entry="jade" eye="special" mouth="yell">
@@ -921,6 +927,7 @@
     All good!<end_line>
   </ascii>
 </dialogue>
+#Choose Tier?
 <dialogue>
   <info box="left">
   <portrait_l entry="tier" eye="decided" mouth="yell">

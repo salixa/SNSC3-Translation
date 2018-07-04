@@ -9,7 +9,7 @@
   </sjis>
   <ascii>
     Now then, how about we<end_line>
-    head back to town soon?<end_line>
+    head back to town?<end_line>
     <player_nickname>?<end_line>
   </ascii>
 </dialogue>
@@ -23,9 +23,9 @@
     オレもちゃんと仕事しないとな<end_line>
   </sjis>
   <ascii>
-    Right, we still need to clean up the<end_line>
-    aftermath. I'm sure it's gotten rough.<end_line>
-    I've got my own work to do, after all.<end_line>
+    Right, we still need to clean up.<end_line>
+    It's going to be rough.<end_line>
+    Lots of work to do.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -82,8 +82,8 @@
   </sjis>
   <ascii>
     Don't worry about it so much.<end_line>
-    We'll think about what to do<end_line>
-    now together.<end_line>
+    We'll think about what<end_line>
+    to do now together.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -96,9 +96,9 @@
     話し合いになるとは思うが<three_dots><end_line>
   </sjis>
   <ascii>
-    There's also that business with Bostaph<end_line>
-    and Velworen, so I think we'll end up<end_line>
-    meeting with the Gold Faction too.<end_line>
+    With Bostaph and Velworen involved,<end>
+    I'm sure we'll end up meeting<end_line>
+    with the Gold Faction too.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -383,7 +383,7 @@
     <player_nickname>もよろこぶし<end_line>
   </sjis>
   <ascii>
-    Feel free to visit whenever you like.<end_line>
+    Feel free to visit whenever.<end_line>
     We'll always be happy to have you.<end_line>
     <player_nickname>'ll be happy too.<end_line>
   </ascii>
@@ -457,8 +457,8 @@
     決まっているだろう<three_dots><end_line>
   </sjis>
   <ascii>
-    It should<end_line>
-    be obvious, I'll<three_dots><end_line>
+    Of course,<end_line>
+    I'll<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -543,8 +543,8 @@
     達成していないじゃない<three_dots><end_line>
   </sjis>
   <ascii>
-    I mean, you haven't<end_line>
-    reached the sales quota Miss V.E<end_line>
+    I mean, you haven't reached<end_line>
+    the sales quota Miss Vee<end_line>
     set for you yet, right<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -765,7 +765,7 @@
     <player_nickname>のパートナーだもの<end_line>
   </sjis>
   <ascii>
-    Of course! Until Miss V.E says<end_line>
+    Of course! Until Miss Vee says<end_line>
     otherwise, <partner> is<end_line>
     your partner, <player_nickname>.<end_line>
   </ascii>
@@ -791,7 +791,7 @@
   <ascii>
     I see<three_dots><end_line>
     Let's continue to get along then,<end_line>
-    <partner><end_line>
+    <partner>.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -853,9 +853,8 @@
     レミィとの決着もまだなんだろ？<end_line>
   </sjis>
   <ascii>
-    Isn't that great, <player_nickname>?<end_line>
     You still need to settle<end_line>
-    things with Lemmy, right?<end_line>
+    things with Lemmy too, right?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1059,8 +1058,8 @@
   </sjis>
   <ascii>
     Okay, okay, that's enough.<end_line>
-    At this rate, the sun will set<end_line>
-    before we get moving!<end_line>
+    At this rate, the sun will<end_line>
+    set before we get moving!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1087,7 +1086,7 @@
   </sjis>
   <ascii>
     Ah!<end_line>
-    Miss V.E, these clothes<three_dots>!<end_line>
+    Miss Vee, these clothes<three_dots>!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1114,7 +1113,7 @@
     大事にします<three_dots><end_line>
   </sjis>
   <ascii>
-    Miss V.E<three_dots><end_line>
+    Miss Vee<three_dots><end_line>
     I'll take good care of them<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -1128,7 +1127,7 @@
     元気でな！<end_line>
   </sjis>
   <ascii>
-    Alright then, we'll come again<end_line>
+    Alright then, we'll come visit<end_line>
     sometime soon. Until then,<end_line>
     stay healthy!<end_line>
   </ascii>
@@ -1279,8 +1278,8 @@
     ムチャはするなよ、ミューノ<end_line>
   </sjis>
   <ascii>
-    I won't be able to see you<end_line><end_line>
-    for some time<three_dots><end_line>
+    I won't be able to see<end_line>
+    you for some time<three_dots><end_line>
     Don't do anything too reckless<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -1310,8 +1309,8 @@
     がんばってね！<end_line>
   </sjis>
   <ascii>
-    Yes.<end_line>
-    Work hard as a Craftknight's partner,<end_line>
+    Yes. You'll need to work hard<end_line>
+    as a Craftknight's partner,<end_line>
     <partner>!<end_line>
   </ascii>
 </dialogue>

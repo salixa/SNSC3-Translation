@@ -45,7 +45,7 @@
     そこから戻れば、元の世界に<three_dots><end_line>
   </sjis>
   <ascii>
-    We've been swalled by the gate<three_dots><end_line>
+    We've been swallowed by the gate<three_dots><end_line>
     But there's still an opening.<end_line>
     We should be able to go back<three_dots><end_line>
   </ascii>
@@ -61,7 +61,7 @@
     そこから戻れば、元の世界に<three_dots><end_line>
   </sjis>
   <ascii>
-    We've been swalled by the gate<three_dots><end_line>
+    We've been swallowed by the gate<three_dots><end_line>
     But there's still an opening.<end_line>
     We should be able to go back<three_dots><end_line>
   </ascii>
@@ -77,7 +77,7 @@
     そこから戻れば、元の世界に<three_dots><end_line>
   </sjis>
   <ascii>
-    We've been swalled by the gate<three_dots><end_line>
+    We've been swallowed by the gate<three_dots><end_line>
     But there's still an opening.<end_line>
     We should be able to go back<three_dots><end_line>
   </ascii>
@@ -145,7 +145,7 @@
   </sjis>
   <ascii>
     His body is already gone<three_dots><end_line>
-    The sword's ill will is running wild<three_dots><end_line>
+    The sword is running wild<three_dots><end_line>
     What a frightening amount of hatred!<end_line>
   </ascii>
 </dialogue>
@@ -161,7 +161,7 @@
   </sjis>
   <ascii>
     His body is already gone<three_dots><end_line>
-    The malice in the sword has taken form!<end_line>
+    The sword's malice has taken form!<end_line>
     It's the power of hatred and anger<three_dots>!<end_line>
   </ascii>
 </dialogue>
@@ -277,8 +277,8 @@
   </sjis>
   <ascii>
     What's this<three_dots><end_line>
-    You're intimidated?<end_line>
-    Strange things to happen.<end_line>
+    You're scared?<end_line>
+    Strange things do happen.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -309,7 +309,8 @@
   </sjis>
   <ascii>
     What's wrong, <player_nickname>?<end_line>
-    Being scared isn't like you.<end_line>
+    Are you scared?<end_line>
+    This isn't like you.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -364,9 +365,9 @@
     勝てない敵などなかったハズじゃぞ<end_line>
   </sjis>
   <ascii>
-    Remember!<end_line>
-    Up until now, no matter our opponent,<end_line>
-    there hasn't been one we cannot defeat.<end_line>
+    Remember!  Up until now,<end_line>
+    no matter our opponent, there<end_line>
+    hasn't been one we cannot defeat.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -475,7 +476,7 @@
   </sjis>
   <ascii>
     You're right<three_dots><end_line>
-    You and I<three_dots>
+    You and I<three_dots><end_line>
     Together, we can win!<end_line>
   </ascii>
 </dialogue>

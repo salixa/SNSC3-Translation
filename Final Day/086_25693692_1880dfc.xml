@@ -1,3 +1,4 @@
+#More branching dialogue here
 <dialogue>
   <partner name="run-dor">
   <info box="simple">
@@ -52,7 +53,6 @@
     <three_dots><player_nickname><end_line>
   </ascii>
 </dialogue>
-#The name pc says here dpends on choice in day 10
 <dialogue>
   <info box="simple">
   <portrait_l name="player">
@@ -351,7 +351,7 @@
   <ascii>
     I see<three_dots><end_line>
     <three_dots> hey, you okay?<end_line>
-    Are you hurt<end_line>
+    Are you hurt?<end_line>
   </ascii>
 </dialogue>
 <dialogue>

@@ -25,7 +25,7 @@
   <ascii>
     Don't act so carefree!<end_line>
     We were the ones worried about you!<end_line>
-    You've earned yourself a fine, pay up!<end_line>
+    You deserve a fine, pay up!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -94,7 +94,7 @@
   </sjis>
   <ascii>
     I'm sorry, Murno<three_dots><end_line>
-    All your father does is get captured<three_dots><end_line>
+    All I've done is get captured<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -144,7 +144,8 @@
     おどろくかな<three_dots><end_line>
   </sjis>
   <ascii>
-    Why are you so surprised<three_dots><end_line>
+    Why are you<end_line>
+    so surprised<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -158,8 +159,8 @@
   </sjis>
   <ascii>
     It really is thanks to him.<end_line>
-    There are things only Summoners can do.<end_line>
-    He's finally useful.<end_line>
+    There are things only Summoners<end_line>
+    can do. He's finally useful.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -211,7 +212,7 @@
   <ascii>
     Investigating.<end_line>
     That sword is somehow<end_line>
-    incredibly preculiar.<end_line>
+    incredibly peculiar.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -373,7 +374,7 @@
   </sjis>
   <ascii>
     Most likely used for posession.<end_line>
-    It controls the souls of its victims<three_dots><end_line>
+    It controls its victims<three_dots><end_line>
     That's why the sword was made.<end_line>
   </ascii>
 </dialogue>
@@ -404,7 +405,7 @@
   <ascii>
     I believe the sword gets<end_line>
     stronger with each cut<three_dots><end_line>
-    Absorbing the souls of Summon Beasts.<end_line>
+    Absorbing the souls of Beasts.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -430,8 +431,8 @@
     技術というか、魔法だね<three_dots><end_line>
   </sjis>
   <ascii>
-    In the past, that technique did exist.<end_line>
-    I heart it from Rob.<end_line>
+    In the past, that technique existed.<end_line>
+    I heard it from Rob.<end_line>
     Though it's closer to magic<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -510,8 +511,8 @@
   </sjis>
   <ascii>
     The sword's nature has already<end_line>
-    become that of a terrifying monster<three_dots><end_line>
-    They've made somethign horrendous<three_dots><end_line>
+    become that of a monster<three_dots><end_line>
+    They've made something horrendous<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -524,8 +525,8 @@
     影響下にある召喚獣を全て支配する<three_dots><end_line>
   </sjis>
   <ascii>
-    Using the Demon Pillar to amplify its<end_line>
-    power, one can bring every Summon Beast<end_line>
+    Using the Demon Pillar to amplify<end_line>
+    its power, one can bring every Beast<end_line>
     in the world under its influence<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -552,10 +553,9 @@
     娘って、お父さんはちがうの？<end_line>
   </sjis>
   <ascii>
-    Girl? Don't you mean her father?<end_line>
+    Girl's? Not yours?<end_line>
   </ascii>
 </dialogue>
-#9
 <dialogue>
   <info box="right">
   <portrait_l entry="tier" eye="surprised" mouth="tense">
@@ -567,7 +567,8 @@
   </sjis>
   <ascii>
     I am not the legitimate successor.<end_line>
-    It was my wife, the girls mother<three_dots><end_line>
+    It was my wife,<end_line>
+    the girls mother<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -592,8 +593,8 @@
   </sjis>
   <ascii>
     Yes<three_dots> she is gone now.<end_line>
-    At the moment, my daughter<end_line>
-    is the sole successor.<end_line>
+    At the moment, she is<end_line>
+    the sole successor.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -695,9 +696,9 @@
     娘も帰ってきましたし、早く封印を<end_line>
   </sjis>
   <ascii>
-    Even as we speak, the sword continues<end_line>
-    to radiate evil. With my daughter freed,<end_line>
-    let's quickly seal it.<end_line>
+    As we speak, the sword continues<end_line>
+    to radiate evil. With my daughter<end_line>
+    freed, we should move to seal it.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -762,7 +763,8 @@
     操ることができるんですよね？<end_line>
   </sjis>
   <ascii>
-    This sword is able to control<end_line>
+    This sword is<end_line>
+    able to control<end_line>
     any Summon Beast, right?<end_line>
   </ascii>
 </dialogue>
@@ -775,9 +777,8 @@
     魔力のある者が扱えば、ですが<three_dots><end_line>
   </sjis>
   <ascii>
-    I did say that, but<three_dots><end_line>
-    Only those with magical<end_line>
-    power can wield it<three_dots><end_line>
+    Yes, but<three_dots> Only those with<end_line>
+    magical power can wield it<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -966,8 +967,8 @@
   </sjis>
   <ascii>
     The sword is mine!<end_line>
-    The mere fact that I'm<end_line>
-    here is proof!<end_line>
+    The mere fact that<end_line>
+    I'm here is proof!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1070,7 +1071,6 @@
     Sum, mon!!!!!<end_line>
   </ascii>
 </bigtext>
-#not sure if the beast appears before or after this line.
 <dialogue>
   <info box="right">
   <portrait_r entry="velworen" eye="special" mouth="yell">
@@ -1097,7 +1097,7 @@
     </sjis>
   </female>
   <ascii>
-    It's<end_line>
+    It's<three_dots><end_line>
     It's huge<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -1132,7 +1132,7 @@
       させるか！<end_line>
     </sjis>
     <ascii>
-      Damnmit<three_dots>!<end_line>
+      Dammit<three_dots>!<end_line>
       Like I'll let you!<end_line>
     </ascii>
   </male>

@@ -37,3 +37,5 @@ Day 05/24261116_17231fc.xml
     Friendship Ring
     Steel Fang Ore
     Frenzy Dance Ore
+
+Final Day/096 has NPC text too?

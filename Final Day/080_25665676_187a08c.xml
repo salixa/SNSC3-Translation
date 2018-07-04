@@ -71,7 +71,7 @@
     いいかげん目ざわりだ！<end_line>
   </sjis>
   <ascii>
-    why, you<three_dots><end_line>
+    Why, you<three_dots><end_line>
     Disappear, you eyesore!<end_line>
   </ascii>
 </dialogue>
@@ -519,7 +519,7 @@
   </sjis>
   <ascii>
     Don't believe me<three_dots>?<end_line>
-    Then why don't I show<end_line>
+    Then why don't I give<end_line>
     you a demonstration!<end_line>
   </ascii>
 </dialogue>
@@ -655,8 +655,12 @@
       あなた<three_dots><end_line>
     </sjis>
   </female>
+  <ascii>
+    No<three_dots><end_line>
+    <partner><three_dots><end_line>
+    Why<three_dots><end_line>
+  </ascii>
 </dialogue>
-#409
 <dialogue>
   <info box="left">
   <portrait_l entry="player" eye="sad" mouth="tense">
@@ -687,6 +691,9 @@
   <sjis>
     <player_nickname>！？<end_line>
   </sjis>
+  <ascii>
+    <player_nickname>!?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -742,7 +749,7 @@
     オレの思いのままだ<three_dots><end_line>
   </sjis>
   <ascii>
-    Stray, contracted, it doesn't matter<three_dots><end_line>
+    Stray or partner, it doesn't matter<three_dots><end_line>
     No matter what kind of Beast,<end_line>
     they'll do as I say<three_dots><end_line>
   </ascii>
@@ -920,8 +927,8 @@
   </sjis>
   <ascii>
     Hah! Sorry, but there's no way<end_line>
-    I could die when I'm so<end_line>
-    close to fulfilling Voijin's dream<three_dots><end_line>
+    I could die when I'm so close<end_line>
+    to fulfilling Voijin's dream<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -936,7 +943,7 @@
   <ascii>
     His dream<three_dots>?<end_line>
     Don't be ridiculous<three_dots><end_line>
-    That Beast isn't listening to orders<three_dots><end_line>
+    That Beast isn't listening<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -988,8 +995,8 @@
     たとえ召喚主の命令でもな<end_line>
   </sjis>
   <ascii>
-    With the ruins active,<end_line>
-    it's impossible to control the Beasts.<end_line>
+    With the ruins active, it's<end_line>
+    impossible to control the Beasts.<end_line>
     Not even a Summoner can do it.<end_line>
   </ascii>
 </dialogue>
@@ -1030,8 +1037,8 @@
   </sjis>
   <ascii>
     Why would you<three_dots><end_line>
-    If you knew the power couldn't be used,<end_line>
-    then why<three_dots>?<end_line>
+    If you knew the power couldn't<end_line>
+    be used, then why<three_dots>?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1145,8 +1152,8 @@
   </sjis>
   <ascii>
     If he's unable to control the<end_line>
-    Phantom Dragon, he can go anywhere,<end_line>
-    instead of being stuck there forever.<end_line>
+    Phantom Dragon, it can go<end_line>
+    anywhere it wants.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1193,8 +1200,8 @@
     いいねぇ、その顔！<end_line>
   </sjis>
   <ascii>
-    Ha!<end_line>
-    If you could see the look on your face!<end_line>
+    Ha! If you could<end_line>
+    see the look on your face!<end_line>
   </ascii>
 </dialogue>
 <dialogue>

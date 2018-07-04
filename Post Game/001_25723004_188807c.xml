@@ -44,8 +44,8 @@
     して、今日は何をするのじゃ？<end_line>
   </sjis>
   <ascii>
-    Right! A journey of 1000 miles begins<end_line>
-    with a single step. One must persevere!<end_line>
+    Right! A journey begins with a<end_line>
+    single step. One must persevere!<end_line>
     So, what shall we do today?<end_line>
   </ascii>
 </dialogue>
@@ -61,7 +61,7 @@
   </sjis>
   <ascii>
     If I said I don't want to<three_dots><end_line>
-    It wouldn't make a difference anyway.<end_line>
+    I suppose it wouldn't matter.<end_line>
     Fine, I'll tag along<three_dots><end_line>
   </ascii>
 </dialogue>

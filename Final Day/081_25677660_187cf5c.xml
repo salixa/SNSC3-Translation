@@ -1,3 +1,4 @@
+#final fight vee
 <bigtext>
   <info box="right" effect="big">
   <portrait_r entry="partner" eye="decided" mouth="yell">
@@ -35,7 +36,7 @@
     くっ！<end_line>
   </sjis>
   <ascii>
-    <three_dots><end_line>
+    Ugh<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>

@@ -59,3 +59,7 @@ Day 9, 013, 177ddac & Day 8, 029
 Day 9, 014, 178019c
   Clerk not being at the counter.
   Keyword Find: "###Clerk"
+Final Day, 081, 187cf5c
+  Looks like there are different versions of this script depending on who you met with at the end of D10
+  Vee: 187cf5c
+  Murno: 187b91c

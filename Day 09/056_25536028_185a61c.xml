@@ -68,6 +68,7 @@
     Who's that<three_dots>?<end_line>
   </ascii>
 </dialogue>
+#choice determine whose ending you get
 <menu>
   <option>
     <sjis>
