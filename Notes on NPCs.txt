@@ -41,7 +41,9 @@ Day 05/24261116_17231fc.xml
 Final Day/096 has NPC text too?
 
 Final Day dialogue branches:
-  Force partner into gate: 091
-  Enter gate without partner: 093, 188734c
+  Force partner into gate: 091, 188734c (voices)
+  Enter gate without partner: 093
+  Final text: 17a456c
+  
   Vee ending: 187f5dc, 18c1b8c
-  Murno ending: 187b91c, 18c053c
+  Murno ending: 186961c, 187b91c, 18c053c
