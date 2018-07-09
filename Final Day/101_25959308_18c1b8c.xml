@@ -39,7 +39,7 @@
   </sjis>
   <ascii>
     Not exactly.<end_line>
-    I'd say it's<three_dots>
+    I'd say it's<three_dots><end_line>
     Not just because they're lame.<end_line>
   </ascii>
 </dialogue>
@@ -101,7 +101,7 @@
     はあ<three_dots><end_line>
   </sjis>
   <ascii>
-    Haa<three_dots><end_line>
+    Huh<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -116,7 +116,7 @@
   <ascii>
     And under that definition,<end_line>
     you're rockin' for fighting<end_line>
-    for Murno's sake, <player_nickname>.<end_line>
+    for Murno, <player_nickname>.<end_line>
   </ascii>
 </dialogue>
 <dialogue>

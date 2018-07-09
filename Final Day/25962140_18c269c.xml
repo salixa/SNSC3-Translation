@@ -7,6 +7,11 @@
 		お前は多分これでもう、金の派閥から<end_line>
 		呼び出されることはないだろうよ<end_line>
 	</sjis>
+  <ascii>
+    Good work today.<end_line>
+    You probably won't be involved<end_line>
+    with the Gold Council anymore.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -17,6 +22,11 @@
 		以外、どうなったんだか<end_line>
 		よくわかんなかったよ<end_line>
 	</sjis>
+  <ascii>
+    After them asking me<end_line>
+    not to talk about it,<end_line>
+    I couldn't follow the rest.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -27,6 +37,11 @@
 		あの人たちにはあの人たちなりの<end_line>
 		大切なもんがあるってことだろう<end_line>
 	</sjis>
+  <ascii>
+    Same here.<end_line>
+    They have their own things<end_line>
+    they consider important.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -37,6 +52,11 @@
 		お前とは関係ねぇことだ<end_line>
 		本当にすまないと思ってるよ<end_line>
 	</sjis>
+  <ascii>
+    Like their stupid pride.<end_line>
+    That's got nothing to do with you.<end_line>
+    I'm really sorry about this.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -46,6 +66,10 @@
 		そんな<three_dots><end_line>
 		どうしてアニキが<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Oh<three_dots><end_line>
+    Why are you apologizing<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -54,6 +78,9 @@
 	<sjis>
 		お前はこの町を<three_dots>、いや<end_line>
 	</sjis>
+  <ascii>
+    You're the one who<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -63,11 +90,17 @@
 		<sjis>
 			この世界を救った男と言っても<end_line>
 		</sjis>
+    <ascii>
+      The man who saved Lindbaum,<end_line>
+    </ascii>
 	</male>
 	<female>
 		<sjis>
 			この世界を救った女と言っても<end_line>
 		</sjis>
+    <ascii>
+      The woman who saved Lindbaum,<end_line>
+    </ascii>
 	</female>
 </dialogue>
 <dialogue>
@@ -77,6 +110,9 @@
 	<sjis>
 		いいだろう<end_line>
 	</sjis>
+  <ascii>
+    in my eyes.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -87,6 +123,11 @@
 		この町に住む人間として<end_line>
 		本当にすまないと思っている<end_line>
 	</sjis>
+  <ascii>
+    And they treat you like this<three_dots><end_line>
+    As someone who lives here,<end_line>
+    I have to apologize for them.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -104,6 +145,10 @@
 			わたしが世界を救っただなんて<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Brother, you're exaggerating<three_dots><end_line>
+    Me saving the world<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -114,6 +159,11 @@
 		お前はスゲェことをやりとげたんだ<end_line>
 		もっと自信を持ちな<end_line>
 	</sjis>
+  <ascii>
+    I'm not, <player_nickname>.<end_line>
+    You've accomplished a lot.<end_line>
+    Have more confidence in yourself.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -123,6 +173,10 @@
 		えへへ<three_dots><end_line>
 		そっかな～<end_line>
 	</sjis>
+  <ascii>
+    Ehehe<three_dots><end_line>
+    You think so?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -134,6 +188,11 @@
 			今まではロブの弟子<end_line>
 			かわいい弟分とか思っていたが<three_dots><end_line>
 		</sjis>
+    <ascii>
+      Yeah, you're quite the man.<end_line>
+      As Rob's apprentice, you were like<end_line>
+      a little brother, but now<three_dots><end_line>
+    </ascii>
 	</male>
 	<female>
 		<sjis>
@@ -141,6 +200,11 @@
 			今まではロブの弟子<end_line>
 			かわいい妹分とか思っていたが<three_dots><end_line>
 		</sjis>
+    <ascii>
+      Yeah, you're quite the woman.<end_line>
+      As Rob's apprentice, you were like<end_line>
+      a little sister, but now<three_dots><end_line>
+    </ascii>
 	</female>
 </dialogue>
 <dialogue>
@@ -151,6 +215,10 @@
 		これからはオレも<end_line>
 		見方を変えないといけねぇな<three_dots><end_line>
 	</sjis>
+  <ascii>
+    I've got to change<end_line>
+    how I look at you.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -159,6 +227,9 @@
 	<sjis>
 		アニキ<end_line>
 	</sjis>
+  <ascii>
+    Brother<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -170,6 +241,11 @@
 			お前はもう弟分じゃないってな<end_line>
 			お前はもう立派な鍛冶師だ<three_dots><end_line>
 		</sjis>
+    <ascii>
+      You aren't my<end_line>
+      little brother anymore.<end_line>
+      You're a Craftknight<three_dots><end_line>
+    </ascii>
 	</male>
 	<female>
 		<sjis>
@@ -177,6 +253,11 @@
 			お前はもう妹分じゃないってな<end_line>
 			お前はもう立派な鍛冶師だ<three_dots><end_line>
 		</sjis>
+    <ascii>
+      You aren't my<end_line>
+      little sister anymore.<end_line>
+      You're a Craftknight<three_dots><end_line>
+    </ascii>
 	</female>
 </dialogue>
 <dialogue>
@@ -188,6 +269,11 @@
 		だからもうオレのことを<end_line>
 		アニキとは呼ぶな！<end_line>
 	</sjis>
+  <ascii>
+    A splendid Craftknight.<end_line>
+    So I'm not your<end_line>
+    Brother anymore!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -207,6 +293,11 @@
 			わたし<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Eh<three_dots> But<three_dots><end_line>
+    If Brother isn't Brother, then<three_dots><end_line>
+    What do I<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -217,6 +308,11 @@
 		お前のアニキじゃねぇ<three_dots><end_line>
 		これからオレは、お前の<three_dots><end_line>
 	</sjis>
+  <ascii>
+    That's right,<end_line>
+    I'm no longer you brother<three_dots><end_line>
+    From now on<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="male">
@@ -226,6 +322,9 @@
 	<sjis>
 		オレの<three_dots>？<end_line>
 	</sjis>
+  <ascii>
+    From now on<three_dots>?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="female">
@@ -235,6 +334,9 @@
 	<sjis>
 		わたしの<three_dots>？<end_line>
 	</sjis>
+  <ascii>
+    From now on<three_dots>?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -243,6 +345,9 @@
 	<sjis>
 		オレはお前の、ライバルだ！<end_line>
 	</sjis>
+  <ascii>
+    I'm your rival!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -251,6 +356,9 @@
 	<sjis>
 		は？<end_line>
 	</sjis>
+  <ascii>
+    Huh?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -266,6 +374,9 @@
 			世界を救った女？　上等だ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    So you saved the world. Perfect!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -275,6 +386,10 @@
 		不死身のジェイドの相手には<end_line>
 		ふさわしいってもんだぜ！<end_line>
 	</sjis>
+  <ascii>
+    You're well-suited to be<end_line>
+    the Invincible Jade's opponent!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -285,6 +400,11 @@
 		はは<three_dots><end_line>
 		ははは<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Ha<three_dots><end_line>
+    Haha<three_dots><end_line>
+    Hahaha<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -295,6 +415,11 @@
 		ライバルか！<end_line>
 		よーっし！<end_line>
 	</sjis>
+  <ascii>
+    So that's it!<end_line>
+    Rivals, huh?<end_line>
+    Alright!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -304,4 +429,8 @@
 		お、燃えてきたな<end_line>
 		そうこなくっちゃ！<end_line>
 	</sjis>
+  <ascii>
+    Oh, that's the spirit.<end_line>
+    That's what I'm talking about!<end_line>
+  </ascii>
 </dialogue>

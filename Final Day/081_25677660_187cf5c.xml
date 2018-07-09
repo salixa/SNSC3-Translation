@@ -133,6 +133,7 @@
   </sjis>
   <ascii>
     What are you doing?<end_line>
+    Givin up already?<end_line>
     Put more energy into it.<end_line>
   </ascii>
 </dialogue>
@@ -156,8 +157,7 @@
     平気でいられるのか！？<end_line>
   </sjis>
   <ascii>
-    What!?<end_line>
-    You're a Summon Beast,<end_line>
+    What!? You're a Summon Beast,<end_line>
     how are you not affected!?<end_line>
   </ascii>
 </dialogue>
@@ -185,9 +185,8 @@
     ダレルのギターに申し訳ないってね！<end_line>
   </sjis>
   <ascii>
-    If this level of noise was enough<end_line>
-    to do me in, I'd have to<end_line>
-    apologize to Darrell's guitar!<end_line>
+    If this was enough to do me in, I<end_line>
+    wouldn't be using Darrel's guitar!<end_line>
   </ascii>
 </dialogue>
 <dialogue>

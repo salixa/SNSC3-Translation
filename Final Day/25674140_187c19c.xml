@@ -15,6 +15,11 @@
 			<partner>！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Calm down!<end_line>
+    Stop!<end_line>
+    <partner>!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -25,6 +30,10 @@
 		ア<three_dots>　アナタハ<three_dots><end_line>
 		ぱーとなー<three_dots>！<end_line>
 	</sjis>
+  <ascii>
+    Y<three_dots> You Are<three_dots><end_line>
+    Partner<three_dots>!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -35,6 +44,10 @@
 		なんだと<three_dots>！<end_line>
 		そんなことが<three_dots>？<end_line>
 	</sjis>
+  <ascii>
+    What<three_dots>!<end_line>
+    How<three_dots>?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -53,6 +66,10 @@
 			元にもどったの！？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    <partner><three_dots>!<end_line>
+    Are you okay!?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -64,6 +81,11 @@
 		こまんどヘノ　強制介入ガ<three_dots><end_line>
 		発生シテ　イマス<three_dots><end_line>
 	</sjis>
+  <ascii>
+    N<three_dots> No<three_dots><end_line>
+    Command Center<three_dots><end_line>
+    Malfunctioning<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -75,6 +97,11 @@
 		アナタヲ　攻撃シテ　シマイマス<end_line>
 		ダカラ<three_dots><end_line>
 	</sjis>
+  <ascii>
+    It May Result In My<end_line>
+    Attacking You Again.<end_line>
+    So<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -93,6 +120,10 @@
 			わたし、どうすればいいの？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Wait, what?<end_line>
+    So what do I do?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -103,6 +134,10 @@
 		ダカラ　今ノウチニ<end_line>
 		私ヲ　止メテ　下サイ<end_line>
 	</sjis>
+  <ascii>
+    Please Use This<end_line>
+    Opportunity To Stop Me.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -112,6 +147,9 @@
 	<sjis>
 		止める？<end_line>
 	</sjis>
+  <ascii>
+    Stop you?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -121,6 +159,9 @@
 	<sjis>
 		私ヲ　破壊シテクダサイ！<end_line>
 	</sjis>
+  <ascii>
+    Please, Destroy Me!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -141,6 +182,11 @@
 			そんなことできるわけないよ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Destroy<three_dots>!?<end_line>
+    Idiot! What are you saying!?<end_line>
+    I can't do that!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -152,6 +198,11 @@
 		私ガ　アナタヲ<three_dots><end_line>
 		<three_dots><end_line>
 	</sjis>
+  <ascii>
+    If You Do Not,<end_line>
+    Then I May<three_dots><end_line>
+    <three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -161,6 +212,9 @@
 	<sjis>
 		<partner><three_dots>？<end_line>
 	</sjis>
+  <ascii>
+    <partner><three_dots>?<end_line>
+  </ascii>
 </dialogue>
 <bigtext>
 	<partner name="run-dor">
@@ -169,6 +223,9 @@
 	<sjis>
 		ガァッ！<end_line>
 	</sjis>
+  <ascii>
+    Gaah!<end_line>
+  </ascii>
 </bigtext>
 <dialogue>
 	<partner name="enzi">
@@ -179,6 +236,10 @@
 		く<three_dots><end_line>
 		<player_nickname>、か<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Ugh<three_dots><end_line>
+    <player_nickname><three_dots>?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -189,6 +250,10 @@
 		なんだと<three_dots>！<end_line>
 		ヤツの意識が<three_dots>？<end_line>
 	</sjis>
+  <ascii>
+    What<three_dots>!<end_line>
+    How<three_dots>?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -207,6 +272,10 @@
 			元にもどったの！？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    <partner><three_dots>!<end_line>
+    Are you okay!?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -218,6 +287,11 @@
 		と言いたいところじゃが<end_line>
 		これが、限界じゃ<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Of course<three_dots><end_line>
+    Is what I'd like to say,<end_line>
+    but I cannot<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -229,6 +303,11 @@
 		強力な怨念が<three_dots><end_line>
 		ワガハイの心を<three_dots><end_line>
 	</sjis>
+  <ascii>
+    The hatred bottled up<end_line>
+    in that sword<three_dots><end_line>
+    Is affecting me<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -249,6 +328,11 @@
 			しっかりして！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Hatred<three_dots>?<end_line>
+    <partner>!<end_line>
+    Hold on!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -260,6 +344,11 @@
 		ワガハイが自分を押さえつけていられる<end_line>
 		今のうちに<three_dots>！<end_line>
 	</sjis>
+  <ascii>
+    While you have the chance<three_dots><end_line>
+    I'll hold myself back,<end_line>
+    so whie you can<three_dots>!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -278,6 +367,10 @@
 			わたし、どうすればいいの？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Huh?<end_line>
+    What should I do?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -287,6 +380,9 @@
 	<sjis>
 		ワガハイを、討て！<end_line>
 	</sjis>
+  <ascii>
+    Take me down!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -307,6 +403,11 @@
 			そんなことできるわけないよ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Take you down<three_dots>!?<end_line>
+    Idiot! What are you saying!?<end_line>
+    I can't do that!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -317,6 +418,10 @@
 		じゃが、そうせんと<end_line>
 		ワガハイが、おぬしを<three_dots><end_line>
 	</sjis>
+  <ascii>
+    But if you do not<three_dots><end_line>
+    I may<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -326,6 +431,9 @@
 	<sjis>
 		<partner><three_dots>？<end_line>
 	</sjis>
+  <ascii>
+    <partner><three_dots>?<end_line>
+  </ascii>
 </dialogue>
 <bigtext>
 	<partner name="enzi">
@@ -334,6 +442,9 @@
 	<sjis>
 		ガァッ！<end_line>
 	</sjis>
+  <ascii>
+    Gaah!<end_line>
+  </ascii>
 </bigtext>
 <dialogue>
 	<partner name="killfith">
@@ -344,6 +455,10 @@
 		ちぃ<three_dots><end_line>
 		<player_nickname>、か<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Tch<three_dots><end_line>
+    <player_nickname><three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -354,6 +469,10 @@
 		なんだと<three_dots>！<end_line>
 		ヤツの意識が<three_dots>？<end_line>
 	</sjis>
+  <ascii>
+    What<three_dots>!<end_line>
+    How<three_dots>?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -372,6 +491,10 @@
 			元にもどったの！？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    <partner><three_dots>!<end_line>
+    Are you okay!?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -383,6 +506,11 @@
 		と、言いたいところだが<three_dots><end_line>
 		長くは、もたん<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Obviously<three_dots><end_line>
+    Not<three_dots><end_line>
+    I won't last long<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -394,6 +522,11 @@
 		強力な怨念が<three_dots><end_line>
 		私の心を<three_dots><end_line>
 	</sjis>
+  <ascii>
+    The hatred bottled up<end_line>
+    in that sword<three_dots><end_line>
+    Is affecting me<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -414,6 +547,11 @@
 			しっかりして！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Hatred<three_dots>?<end_line>
+    <partner>!<end_line>
+    Hold on!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -425,6 +563,11 @@
 		ウズウズしてるんだ<three_dots><end_line>
 		だから<three_dots><end_line>
 	</sjis>
+  <ascii>
+    I can feel it<three_dots><end_line>
+    The desire to kill you<three_dots><end_line>
+    So<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -443,6 +586,10 @@
 			わたし、どうすればいいの？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    What?<end_line>
+    What should I do?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -453,6 +600,10 @@
 		死にたくなければ<end_line>
 		私を討て<end_line>
 	</sjis>
+  <ascii>
+    If you don't want to die,<end_line>
+    take me down first.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -473,6 +624,11 @@
 			そんなことできるわけないよ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Take you down<three_dots>!?<end_line>
+    Idiot! What are you saying!?<end_line>
+    I can't do that!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -484,6 +640,11 @@
 		モタモタ、するな<three_dots><end_line>
 		<three_dots><end_line>
 	</sjis>
+  <ascii>
+    You wanna die<three_dots>?<end_line>
+    Don't hesitate<three_dots><end_line>
+    <three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -493,6 +654,9 @@
 	<sjis>
 		<partner><three_dots>？<end_line>
 	</sjis>
+  <ascii>
+    <partner><three_dots>?<end_line>
+  </ascii>
 </dialogue>
 <bigtext>
 	<partner name="killfith">
@@ -501,6 +665,9 @@
 	<sjis>
 		ガァッ！<end_line>
 	</sjis>
+  <ascii>
+    Gaah!<end_line>
+  </ascii>
 </bigtext>
 <dialogue>
 	<partner name="rufeel">
@@ -510,6 +677,10 @@
 		あ<three_dots><end_line>
 		<player_nickname>、さん<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Ah<three_dots><end_line>
+    <player_nickname><three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -519,6 +690,10 @@
 		なんだと<three_dots>！<end_line>
 		ヤツの意識が<three_dots>？<end_line>
 	</sjis>
+  <ascii>
+    What<three_dots>!<end_line>
+    How<three_dots>?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -537,6 +712,10 @@
 			元にもどったの！？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    <partner><three_dots>!<end_line>
+    Are you okay!?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -547,6 +726,11 @@
 		今でも、いっぱいいっぱいで<three_dots><end_line>
 		体を押さえつけるのが、やっとですわ<end_line>
 	</sjis>
+  <ascii>
+    I can't<three_dots><end_line>
+    I'm doing everything I can<three_dots><end_line>
+    To stop myself from hurting you.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -557,6 +741,11 @@
 		強力な怨念が<three_dots><end_line>
 		私の心を<three_dots><end_line>
 	</sjis>
+  <ascii>
+    The hatred bottled up<end_line>
+    in that sword<three_dots><end_line>
+    Is affecting me<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -577,6 +766,11 @@
 			しっかりして！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Hatred<three_dots>?<end_line>
+    <partner>!<end_line>
+    Hold on!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -587,6 +781,11 @@
 		あなたをおそってしまいます<three_dots><end_line>
 		だから<three_dots><end_line>
 	</sjis>
+  <ascii>
+    I'm going to attack<end_line>
+    you any second now<three_dots><end_line>
+    So<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -605,6 +804,10 @@
 			わたし、どうすればいいの？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    What?<end_line>
+    What should I do?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -614,6 +817,10 @@
 		だから、いまのうちに<end_line>
 		私を止めてください<end_line>
 	</sjis>
+  <ascii>
+    While you have the chance,<end_line>
+    please stop me.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -623,6 +830,9 @@
 	<sjis>
 		止める？<end_line>
 	</sjis>
+  <ascii>
+    Stop you?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -631,6 +841,9 @@
 	<sjis>
 		私を、討って！<end_line>
 	</sjis>
+  <ascii>
+    Please, take me down!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -651,6 +864,11 @@
 			そんなことできるわけないよ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Take you down<three_dots>!?<end_line>
+    Idiot! What are you saying!?<end_line>
+    I can't do that!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -662,6 +880,11 @@
 		私が、あなたを<three_dots><end_line>
 		<three_dots><end_line>
 	</sjis>
+  <ascii>
+    If you do not,<end_line>
+    I'm going to<three_dots><end_line>
+    <three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -671,6 +894,9 @@
 	<sjis>
 		<partner><three_dots>？<end_line>
 	</sjis>
+  <ascii>
+    <partner><three_dots>?<end_line>
+  </ascii>
 </dialogue>
 <bigtext>
 	<partner name="rufeel">
@@ -679,6 +905,9 @@
 	<sjis>
 		ガァッ！<end_line>
 	</sjis>
+  <ascii>
+    Gaah!<end_line>
+  </ascii>
 </bigtext>
 <dialogue>
 	<info box="nobox">
@@ -693,6 +922,9 @@
 	<sjis>
 		<partner>！<end_line>
 	</sjis>
+  <ascii>
+    <partner>!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -700,6 +932,9 @@
 	<sjis>
 		くっ！<end_line>
 	</sjis>
+  <ascii>
+    Ugh<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -710,6 +945,11 @@
 		もうそいつは<end_line>
 		お前が誰かも忘れてるようだな<end_line>
 	</sjis>
+  <ascii>
+    Hahaha<three_dots><end_line>
+    They've already forgotten<end_line>
+    who you are.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -719,6 +959,10 @@
 		今のそいつにとって人間は全て<end_line>
 		憎い敵だ！<end_line>
 	</sjis>
+  <ascii>
+    Right now, all of humanity is<end_line>
+    considered an enemy!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -736,6 +980,10 @@
 			なによ、それ<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    No<three_dots><end_line>
+    That's a lie, right, <partner>!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="male">
@@ -747,6 +995,11 @@
 		忘れただと！<end_line>
 		今までのこと、全部か！？<end_line>
 	</sjis>
+  <ascii>
+    No, you're lying!<end_line>
+    <partner> wouldn't!<end_line>
+    After all we've been through!?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="male">
@@ -758,6 +1011,11 @@
 		<partner>が忘れるワケない<end_line>
 		絶対に覚えてるハズだ！<end_line>
 	</sjis>
+  <ascii>
+    That's impossible<three_dots><end_line>
+    <partner> would never forget.<end_line>
+    I'm sure!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="female">
@@ -769,6 +1027,11 @@
 		忘れたですって？<end_line>
 		今までのこと、全部！？<end_line>
 	</sjis>
+  <ascii>
+    No, you're lying!<end_line>
+    <partner> wouldn't!<end_line>
+    After all we've been through!?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="female">
@@ -780,6 +1043,11 @@
 		<partner>が忘れるワケない<end_line>
 		絶対に覚えてるハズよ！<end_line>
 	</sjis>
+  <ascii>
+    That's impossible<three_dots><end_line>
+    <partner> would never forget.<end_line>
+    I'm sure!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="nobox">
@@ -787,6 +1055,9 @@
 	<sjis>
 		<three_dots><end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -805,4 +1076,9 @@
 			この武器で！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Then I'll make you remember!<end_line>
+    I'll bring you back right now<end_line>
+    with the weapons we forged together!<end_line>
+  </ascii>
 </dialogue>

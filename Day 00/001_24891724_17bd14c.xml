@@ -165,7 +165,7 @@
                  泣いてるのか？<end_line>
     </sjis>
     <ascii>
-      V.E<three_dots><end_line>
+      Vee<three_dots><end_line>
       Are you crying?<end_line>
     </ascii>		
   </male>
@@ -175,7 +175,7 @@
       　　　　　　泣いてるの？　　　　　　<end_line>
     </sjis>
     <ascii>
-      V.E is<three_dots><end_line>
+      Vee is<three_dots><end_line>
       Crying?<end_line>
     </ascii>		
   </female>
@@ -365,7 +365,7 @@
     </sjis>
     <ascii>
       Uwah!? Wow! <end_line>
-      How'd you know, Sis V.E? <end_line>
+      How'd you know, Sis Vee? <end_line>
     </ascii>	
   </male>
   <female>
@@ -376,7 +376,7 @@
     </sjis>
     <ascii>
       Uwah!? Amazing! <end_line>
-      How did you know, Sis V.E? <end_line>
+      How did you know, Sis Vee? <end_line>
     </ascii>	
   </female>
 </dialogue>
@@ -418,9 +418,9 @@
       ヴィー親方！<end_line>
     </sjis>
     <ascii>
-      Sis V.E!?<end_line>
+      Sis Vee!?<end_line>
       I've told you to call me Master!<end_line>
-      Master V.E!<end_line>
+      Master Vee!<end_line>
     </ascii>	
   </male>
   <female>
@@ -432,7 +432,7 @@
     <ascii>
       Who's your sis!?<end_line>
       I've told you to call me Master!<end_line>
-      Master V.E!<end_line>
+      Master Vee!<end_line>
     </ascii>	
   </female>
 </dialogue>

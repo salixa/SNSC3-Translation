@@ -17,6 +17,11 @@
 			ホントに色んなコトがあったね<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    A lot's happened since I<end_line>
+    met Murno and picked<end_line>
+    up your Summonstone.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -28,6 +33,11 @@
 		みゅーの様モ　召喚石ヲ<end_line>
 		落トスコトハ　ナカッタデショウ<end_line>
 	</sjis>
+  <ascii>
+    If She Had Not Met You,<end_line>
+    Lady Murno Would Not Have<end_line>
+    Dropped The Summonstone.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -48,6 +58,11 @@
 			あるかな<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Hey, that<three_dots><end_line>
+    <three_dots><end_line>
+    Is true.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -59,6 +74,11 @@
 		みゅーの様ヲ　救ウコトガ<end_line>
 		デキタノダト　思ワレマス<end_line>
 	</sjis>
+  <ascii>
+    However, It Is Because She<end_line>
+    Met You That She Was<end_line>
+    Able To Be Saved.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -70,6 +90,11 @@
 		でも、ミューノを助けられたのは<end_line>
 		<partner>もいてくれたからで<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Well<three_dots> Maybe<three_dots><end_line>
+    But it wasn't just me,<end_line>
+    <partner>, you were there too<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -81,6 +106,11 @@
 		アナタヒトリデハ　ミューノ様ヲ<end_line>
 		助ケルコトハ　デキマセンデシタ<end_line>
 	</sjis>
+  <ascii>
+    Of Course.<end_line>
+    You Would Not Have Been<end_line>
+    Able To Do So On Your Own.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -101,6 +131,11 @@
 			これからもよろしくたのむよ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Ahaha<three_dots> How blunt.<end_line>
+    But you're right!<end_line>
+    Let's continue to work hard!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -112,6 +147,11 @@
 		マズハ　１００万ばーむヲ　カセグタメ<end_line>
 		ガンバリマショウ<end_line>
 	</sjis>
+  <ascii>
+    Roger.<end_line>
+    First, We Must Earn<end_line>
+    One Million Boam.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -123,6 +163,11 @@
 		１００万バームねぇ～<end_line>
 		ホントにかせげるのかなぁ<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Ah, ahahaha<three_dots><end_line>
+    One million boam, huh<three_dots><end_line>
+    That's a long shot<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -132,6 +177,9 @@
 	<sjis>
 		カセグノデス！<end_line>
 	</sjis>
+  <ascii>
+    We Can Do It!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -152,6 +200,11 @@
 			そういうときはアレだね！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    R-right<three_dots> It's all about spirit<three_dots><end_line>
+    Okay!<end_line>
+    This is the perfect time for that!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -162,6 +215,10 @@
 		気合イ？　アレ？<end_line>
 		関連スル単語ヲ検索中<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Spirit? That?<end_line>
+    Searching For Relevant Memories<three_dots><end_line>
+  </ascii>
 </dialogue>
 <bigtext>
 	<partner name="run-dor">
@@ -171,6 +228,9 @@
 	<sjis>
 		鍛冶師なら！<end_line>
 	</sjis>
+  <ascii>
+    To a Craftknight!<end_line>
+  </ascii>
 </bigtext>
 <bigtext>
 	<partner name="run-dor">
@@ -180,6 +240,9 @@
 	<sjis>
 		ハンマーは、友！<end_line>
 	</sjis>
+  <ascii>
+    The hammer is, a friend!<end_line>
+  </ascii>
 </bigtext>
 <bigtext>
 	<partner name="run-dor">
@@ -189,6 +252,9 @@
 	<sjis>
 		はんまーハ、力！<end_line>
 	</sjis>
+  <ascii>
+    The Hammer Is, Power!<end_line>
+  </ascii>
 </bigtext>
 <bigtext>
 	<partner name="run-dor">
@@ -198,6 +264,9 @@
 	<sjis>
 		ハンマーは、命！<end_line>
 	</sjis>
+  <ascii>
+    The hammer is, life!<end_line>
+  </ascii>
 </bigtext>
 <dialogue>
 	<partner name="run-dor">
@@ -218,6 +287,11 @@
 			すっごいうれしいよ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Thanks, <partner>!<end_line>
+    I'm so happy you<end_line>
+    joined me this time!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -227,6 +301,9 @@
 	<sjis>
 		私ガ　叫ブト　ウレシイノデスカ？<end_line>
 	</sjis>
+  <ascii>
+    It Makes You Happy When I Shout?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -247,6 +324,11 @@
 			よぉし、がんばるぞ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Of course!<end_line>
+    I'm all fired up!<end_line>
+    Alright, let's work hard!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -256,6 +338,9 @@
 	<sjis>
 		ぱーとなー<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Partner<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -276,6 +361,11 @@
 			ホントに色んなコトがあったね<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    A lot's happened since I<end_line>
+    met Murno and picked<end_line>
+    up your Summonstone.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -287,6 +377,11 @@
 		召喚石を落とすことなど<end_line>
 		なかったのにのぉ<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Though if Murno had not<end_line>
+    met you, she would not have<end_line>
+    dropped my Summonstone<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -297,6 +392,10 @@
 		そんなこと<three_dots><end_line>
 		あるかな<end_line>
 	</sjis>
+  <ascii>
+    Hey, that<three_dots><end_line>
+    Is true.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -308,6 +407,11 @@
 		あの連中からミューノを救うことが<end_line>
 		できたのじゃからな<end_line>
 	</sjis>
+  <ascii>
+    However, had it not been for you,<end_line>
+    I could not have saved<end_line>
+    Murno from Anise.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -317,6 +421,9 @@
 	<sjis>
 		礼を言わねばならんの<end_line>
 	</sjis>
+  <ascii>
+    I must express my thanks.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -337,6 +444,11 @@
 			自分が助けたとか思ってるでしょ？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    What's that?<end_line>
+    You're thinking could've done<end_line>
+    it without me too, right?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -347,6 +459,10 @@
 		む<three_dots><end_line>
 		バレたかの？<end_line>
 	</sjis>
+  <ascii>
+    Mmm<three_dots><end_line>
+    You noticed?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -356,6 +472,9 @@
 	<sjis>
 		やっぱりか<three_dots><end_line>
 	</sjis>
+  <ascii>
+    I thought so<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -367,6 +486,11 @@
 		ワガハイひとりであの連中から<end_line>
 		ミューノを守れたかどうか、わからん<end_line>
 	</sjis>
+  <ascii>
+    That was a joke.<end_line>
+    I don't know if I could have<end_line>
+    protected Murno on my own.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -376,6 +500,9 @@
 	<sjis>
 		本当にカンシャしておるよ<end_line>
 	</sjis>
+  <ascii>
+    I truly am grateful.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -386,6 +513,10 @@
 		そんな<three_dots><end_line>
 		ありがと、<partner><three_dots><end_line>
 	</sjis>
+  <ascii>
+    Heh, well<three_dots><end_line>
+    Thanks, <partner><three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -397,6 +528,11 @@
 		と言われても<end_line>
 		だまってついてきておるのじゃ<end_line>
 	</sjis>
+  <ascii>
+    And so, even with a goal of<end_line>
+    one million boam ahead of us,<end_line>
+    I continue to accompany you.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -408,6 +544,11 @@
 		１００万バームねぇ～<end_line>
 		ホントにかせげるのかなぁ<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Ah, ahahaha<three_dots><end_line>
+    One million boam, huh<three_dots><end_line>
+    That's a long shot<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -419,6 +560,11 @@
 		コケの一念、岩をも通すじゃ！<end_line>
 		なせばなるぞ！<end_line>
 	</sjis>
+  <ascii>
+    No backing down now!<end_line>
+    Where there is a will,<end_line>
+    there is a way!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -439,6 +585,11 @@
 			そういうときはアレだね！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    R-right<three_dots> It's all about spirit<three_dots><end_line>
+    Okay!<end_line>
+    This is the perfect time for that!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -449,6 +600,10 @@
 		アレ？<end_line>
 		もしや<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Hm?<end_line>
+    Perhaps<three_dots><end_line>
+  </ascii>
 </dialogue>
 <bigtext>
 	<partner name="enzi">
@@ -458,6 +613,9 @@
 	<sjis>
 		鍛冶師なら！<end_line>
 	</sjis>
+  <ascii>
+    To a Craftknight!<end_line>
+  </ascii>
 </bigtext>
 <bigtext>
 	<partner name="enzi">
@@ -467,6 +625,9 @@
 	<sjis>
 		ハンマーは、友！<end_line>
 	</sjis>
+  <ascii>
+    The hammer is, a friend!<end_line>
+  </ascii>
 </bigtext>
 <bigtext>
 	<partner name="enzi">
@@ -476,6 +637,9 @@
 	<sjis>
 		ハンマーは、力！<end_line>
 	</sjis>
+  <ascii>
+    The hammer is, power!<end_line>
+  </ascii>
 </bigtext>
 <bigtext>
 	<partner name="enzi">
@@ -485,6 +649,9 @@
 	<sjis>
 		ハンマーは、命！<end_line>
 	</sjis>
+  <ascii>
+    The hammer is, life!<end_line>
+  </ascii>
 </bigtext>
 <dialogue>
 	<partner name="enzi">
@@ -505,6 +672,11 @@
 			すっごいうれしいよ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Thanks, <partner>!<end_line>
+    I'm so happy you<end_line>
+    joined me this time!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -516,6 +688,11 @@
 		おぬしとはなかなかはなれられん<end_line>
 		運命の様じゃからの<end_line>
 	</sjis>
+  <ascii>
+    Yes, well<three_dots><end_line>
+    It appears our fates<end_line>
+    are tightly intertwined.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -536,6 +713,11 @@
 			ホントに色んなコトがあったね<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    A lot's happened since I<end_line>
+    met Murno and picked<end_line>
+    up your Summonstone.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -547,6 +729,11 @@
 		召喚石を落とすことなど<end_line>
 		なかっただろうに<three_dots><end_line>
 	</sjis>
+  <ascii>
+    If she hadn't met you,<end_line>
+    she would have dropped<end_line>
+    my Summonstone<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -567,6 +754,11 @@
 			あるかな<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Hey, that<three_dots><end_line>
+    <three_dots><end_line>
+    Is true.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -578,6 +770,11 @@
 		力を出すことはできない<end_line>
 		鍛冶の手伝いはさせられる<end_line>
 	</sjis>
+  <ascii>
+    Thanks to that, I couldn't use my<end_line>
+    full strength, had to craft weapons,<end_line>
+    and put up with you.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -587,6 +784,9 @@
 	<sjis>
 		まったくサイテイなことばかりだ<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Everything was such a pain<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -607,6 +807,11 @@
 			あったでしょ？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Come on,<end_line>
+    there has to be something good<end_line>
+    worth mentioning, right?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -617,6 +822,10 @@
 		そんなもの、あるハズないだろう<end_line>
 		考えてからモノを言え<end_line>
 	</sjis>
+  <ascii>
+    Of course not.<end_line>
+    That should be obvious.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -637,6 +846,11 @@
 			スゴイ武器だってつくれたし<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Well, I have one!<end_line>
+    Thanks to you, I was able to make<end_line>
+    some really amazing weapons!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -648,6 +862,11 @@
 		どんな場所だってコワくなかったし<end_line>
 		それに<three_dots><end_line>
 	</sjis>
+  <ascii>
+    We fought many strong opponents,<end_line>
+    ventured through many places,<end_line>
+    and<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -657,6 +876,9 @@
 	<sjis>
 		楽しかった！<end_line>
 	</sjis>
+  <ascii>
+    It was fun!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -667,6 +889,10 @@
 		キ、キサマ<three_dots><end_line>
 		何を<three_dots><end_line>
 	</sjis>
+  <ascii>
+    W-what<three_dots><end_line>
+    Are you<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -687,6 +913,11 @@
 			思いつくでしょ？　言って！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    How's that, <partner>!<end_line>
+    You must have one good<end_line>
+    thing to say! Speak up!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -697,6 +928,10 @@
 		ちっ<three_dots><end_line>
 		だからそんなモノあるわけが<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Tch<three_dots><end_line>
+    Why do I have to<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -713,6 +948,9 @@
 			言って！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Say it!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -724,6 +962,11 @@
 		仕方ない<three_dots><three_dots><end_line>
 		そうだな<three_dots><three_dots><three_dots><end_line>
 	</sjis>
+  <ascii>
+    Tch<three_dots><end_line>
+    Fine<three_dots><three_dots><end_line>
+    Then<three_dots><three_dots><three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -735,6 +978,11 @@
 		お守りから解放されたのは<end_line>
 		悪くなかったぞ<end_line>
 	</sjis>
+  <ascii>
+    You took over with<end_line>
+    protecting Murno,<end_line>
+    which was fine.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -753,6 +1001,10 @@
 			ホントは自分で守りたかったくせに<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Oh, come on. You really wanted<end_line>
+    to do that yourself, right?.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -764,6 +1016,11 @@
 		私がそう言っているんだ！<end_line>
 		ゴチャゴチャ言うな！<end_line>
 	</sjis>
+  <ascii>
+    O-of course not!<end_line>
+    I never said that!<end_line>
+    Stop twisting my words!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -784,6 +1041,11 @@
 			そんなに怒らないでよ～<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Ahaha<three_dots><end_line>
+    Sorry, sorry.<end_line>
+    Don't be so angry~<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -795,6 +1057,11 @@
 		キサマは１００万バームかせぐ手段を<end_line>
 		さっさと考えろ<end_line>
 	</sjis>
+  <ascii>
+    Tch<three_dots> Useless.<end_line>
+    Hurry up and think of a way<end_line>
+    to earn us one million boam.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -813,6 +1080,10 @@
 			やっぱムリでしょ？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    About that~<end_line>
+    Isn't that impossible?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -824,6 +1095,11 @@
 		キサマ、鍛冶師だろ！<end_line>
 		なんとかしろ！<end_line>
 	</sjis>
+  <ascii>
+    Stop messing around!<end_line>
+    You're a Craftknight!<end_line>
+    Do something!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -844,6 +1120,11 @@
 			そういうときはアレだね！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    R-right<three_dots><end_line>
+    We'll start with motivation<three_dots><end_line>
+    This is the perfect time for that!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -854,6 +1135,10 @@
 		アレ？<end_line>
 		もしや<three_dots><end_line>
 	</sjis>
+  <ascii>
+    That?<end_line>
+    You mean<three_dots><end_line>
+  </ascii>
 </dialogue>
 <bigtext>
 	<partner name="killfith">
@@ -863,6 +1148,9 @@
 	<sjis>
 		鍛冶師なら！<end_line>
 	</sjis>
+  <ascii>
+    To a Craftknight!<end_line>
+  </ascii>
 </bigtext>
 <bigtext>
 	<partner name="killfith">
@@ -872,6 +1160,9 @@
 	<sjis>
 		ハンマーは、友！<end_line>
 	</sjis>
+  <ascii>
+    The hammer is, a friend!<end_line>
+  </ascii>
 </bigtext>
 <bigtext>
 	<partner name="killfith">
@@ -881,6 +1172,9 @@
 	<sjis>
 		ハンマーは、力！<end_line>
 	</sjis>
+  <ascii>
+    The hammer is, power!<end_line>
+  </ascii>
 </bigtext>
 <bigtext>
 	<partner name="killfith">
@@ -890,6 +1184,9 @@
 	<sjis>
 		ハンマーは、命！<end_line>
 	</sjis>
+  <ascii>
+    The hammer is, life!<end_line>
+  </ascii>
 </bigtext>
 <dialogue>
 	<partner name="killfith">
@@ -910,6 +1207,11 @@
 			すっごいうれしいよ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    I never thought you'd<end_line>
+    join me, <partner>!<end_line>
+    This is awesome!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -921,6 +1223,11 @@
 		叫ぶくらいで１００万バーム<end_line>
 		かせげるのなら、安いもんだ<end_line>
 	</sjis>
+  <ascii>
+    Tch<three_dots><end_line>
+    This is nothing compared<end_line>
+    to one million boam.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -930,6 +1237,9 @@
 	<sjis>
 		ありがとう、<partner><end_line>
 	</sjis>
+  <ascii>
+    Thanks, <partner>!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -940,6 +1250,10 @@
 		ふ<three_dots>、キサマにも<end_line>
 		大きな借りはあるからな<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Hmph<three_dots> I suppose I<end_line>
+    owe you a great debt as well<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -959,6 +1273,11 @@
 			ホントに色んなコトがあったね<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    A lot's happened since I<end_line>
+    met Murno and picked<end_line>
+    up your Summonstone.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -969,6 +1288,11 @@
 		召喚石を落とすことなど<end_line>
 		ありませんでしたけどね<end_line>
 	</sjis>
+  <ascii>
+    Though if Lady Murno had not<end_line>
+    met you, she wouldn't have<end_line>
+    dropped my Summonstone.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -988,6 +1312,11 @@
 			あるかな<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Hey, that<three_dots><end_line>
+    <three_dots><end_line>
+    Is true.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -998,6 +1327,11 @@
 		あなたに出会えたからこそミューノ様を<end_line>
 		救うことができたのですから<three_dots><end_line>
 	</sjis>
+  <ascii>
+    I'm not blaming you.<end_line>
+    It's because we met you that<end_line>
+    we could save Lady Murno<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1007,6 +1341,10 @@
 		そんな<three_dots>、そっかな<three_dots><end_line>
 		たしかに<partner>だけだったら<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Ah<three_dots> Right<three_dots><end_line>
+    If it was just you, then<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1015,6 +1353,9 @@
 	<sjis>
 		なんですか！？<end_line>
 	</sjis>
+  <ascii>
+    What did you say!?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1024,6 +1365,10 @@
 		だってさ、<partner><end_line>
 		コワがりだし<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Well you know,<end_line>
+    you're a coward and all<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1034,6 +1379,11 @@
 		<three_dots><end_line>
 		ありますね<end_line>
 	</sjis>
+  <ascii>
+    T-that<three_dots><end_line>
+    <three_dots><end_line>
+    Is true.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1044,6 +1394,11 @@
 		<player_nickname>さんがいたから、私<end_line>
 		勇気を出すことができたんですわ<end_line>
 	</sjis>
+  <ascii>
+    There were many times I wouldn't<end_line>
+    have been able to handle it alone.<end_line>
+    With you there, I could be brave.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1052,6 +1407,9 @@
 	<sjis>
 		ありがとうございました<end_line>
 	</sjis>
+  <ascii>
+    Thank you very much.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1061,6 +1419,10 @@
 		そんな<three_dots><end_line>
 		なんか、テレちゃうな<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Hey<three_dots><end_line>
+    You're making me blush<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1070,6 +1432,10 @@
 		だから、これからも<end_line>
 		よろしくお願いしますわ<end_line>
 	</sjis>
+  <ascii>
+    So, I will continue<end_line>
+    to be in your care.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1089,6 +1455,11 @@
 			ならないし<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Right<three_dots><end_line>
+    We still have to earn<end_line>
+    one million boam<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1099,6 +1470,11 @@
 		シッカリ気合いを入れないと<end_line>
 		１００万バームなんてかせげませんわ<end_line>
 	</sjis>
+  <ascii>
+    Now is not the time to be weak!<end_line>
+    You must prepare yourself mentally,<end_line>
+    or the task will overwhelm you.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1118,6 +1494,11 @@
 			そういうときはアレだね！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    R-right, it's all about spirit<three_dots><end_line>
+    Okay!<end_line>
+    This is the perfect time for that!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1127,6 +1508,10 @@
 		アレ？<end_line>
 		もしかして<three_dots><end_line>
 	</sjis>
+  <ascii>
+    That?<end_line>
+    Could you mean<three_dots><end_line>
+  </ascii>
 </dialogue>
 <bigtext>
 	<partner name="rufeel">
@@ -1135,6 +1520,9 @@
 	<sjis>
 		鍛冶師なら！<end_line>
 	</sjis>
+  <ascii>
+    To a Craftknight!<end_line>
+  </ascii>
 </bigtext>
 <bigtext>
 	<partner name="rufeel">
@@ -1143,6 +1531,9 @@
 	<sjis>
 		ハンマーは、友！<end_line>
 	</sjis>
+  <ascii>
+    The hammer is, a friend!<end_line>
+  </ascii>
 </bigtext>
 <bigtext>
 	<partner name="rufeel">
@@ -1151,6 +1542,9 @@
 	<sjis>
 		ハンマーは、力！<end_line>
 	</sjis>
+  <ascii>
+    The hammer is, power!<end_line>
+  </ascii>
 </bigtext>
 <bigtext>
 	<partner name="rufeel">
@@ -1160,6 +1554,9 @@
 	<sjis>
 		ハンマーは、命！<end_line>
 	</sjis>
+  <ascii>
+    The hammer is, life!<end_line>
+  </ascii>
 </bigtext>
 <dialogue>
 	<partner name="rufeel">
@@ -1180,6 +1577,11 @@
 			すっごいうれしいよ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Thanks, <partner>!<end_line>
+    I'm so happy you<end_line>
+    joined me this time!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1191,6 +1593,11 @@
 		これからは今まで以上にふたりで<end_line>
 		がんばらないとダメですからね<end_line>
 	</sjis>
+  <ascii>
+    Of course.<end_line>
+    We'll have to work even<end_line>
+    harder from now on.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1211,6 +1618,10 @@
 			がんばろう<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Right.<end_line>
+    Let's do our best!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1221,4 +1632,8 @@
 		はい、<player_nickname>さん！<end_line>
 		そして<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Yes, <player_nickname>!<end_line>
+    And<three_dots><end_line>
+  </ascii>
 </dialogue>
