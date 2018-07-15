@@ -1,5 +1,9 @@
 Named NPCs generally have one script file per day.
 
+Need to make sure following are consistent:
+は、はい = Y-yeah OR Y,yeah
+
+
 Zenichi, Zen ...
 Day 02, Zenichi, starting town: 18c754c
   same script for day 3
