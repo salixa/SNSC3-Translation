@@ -7,6 +7,10 @@
 		ティエが気になる<end_line>
 		行ってみよう！<end_line>
 	</sjis>
+  <ascii>
+    I'm worried about Tier.<end_line>
+    Let's have a look!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -16,6 +20,9 @@
 	<sjis>
 		了解デス！<end_line>
 	</sjis>
+  <ascii>
+    Understood!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -26,6 +33,10 @@
 		ティエが気になる<end_line>
 		行ってみよう！<end_line>
 	</sjis>
+  <ascii>
+    I'm worried about Tier.<end_line>
+    Let's have a look!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -35,6 +46,9 @@
 	<sjis>
 		承知っ！<end_line>
 	</sjis>
+  <ascii>
+    Acknowledged!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -45,6 +59,10 @@
 		ティエが気になる<end_line>
 		行ってみよう！<end_line>
 	</sjis>
+  <ascii>
+    I'm worried about Tier.<end_line>
+    Let's have a look!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -54,6 +72,9 @@
 	<sjis>
 		<three_dots>やれやれ<end_line>
 	</sjis>
+  <ascii>
+    <three_dots>Fine.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -63,6 +84,10 @@
 		ティエが気になる<end_line>
 		行ってみよう！<end_line>
 	</sjis>
+  <ascii>
+    I'm worried about Tier.<end_line>
+    Let's have a look!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -71,6 +96,9 @@
 	<sjis>
 		わかりましたわ！<end_line>
 	</sjis>
+  <ascii>
+    Understood!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -80,6 +108,9 @@
 	<sjis>
 		ティエと勝負か<three_dots><end_line>
 	</sjis>
+  <ascii>
+    A match with Tier<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -91,6 +122,11 @@
 		体格差ナドカラ　考エテ<end_line>
 		私タチナラ勝テルト　思ワレマス<end_line>
 	</sjis>
+  <ascii>
+    The Girl's Strength Is Unknown.<end_line>
+    Based On Her Physique,<end_line>
+    I Believe We Will Win.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -102,6 +138,11 @@
 		勝ち負けよりも<end_line>
 		後のことが心配だったりして<three_dots><end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+    I'm more worried about what'l<end_line>
+    happen after than winning<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -111,6 +152,9 @@
 	<sjis>
 		ティエと勝負か<three_dots><end_line>
 	</sjis>
+  <ascii>
+    A match with Tier<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -122,6 +166,11 @@
 		我らの力を合わせれば<end_line>
 		負ける相手ではない<end_line>
 	</sjis>
+  <ascii>
+    No need to worry.<end_line>
+    She is not match<end_line>
+    for our strength.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -133,6 +182,11 @@
 		勝ち負けよりも<end_line>
 		後のことが心配だったりして<three_dots><end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+    I'm more worried about what'l<end_line>
+    happen after than winning<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -142,6 +196,9 @@
 	<sjis>
 		ティエと勝負か<three_dots><end_line>
 	</sjis>
+  <ascii>
+    A match with Tier<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -151,6 +208,9 @@
 	<sjis>
 		<three_dots>コワイのか？<end_line>
 	</sjis>
+  <ascii>
+    <three_dots>Scared?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -160,6 +220,9 @@
 	<sjis>
 		勝負の後のことを考えるとね<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Thinking about the aftermath<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -170,6 +233,10 @@
 		ふ<three_dots><end_line>
 		そこまで考えが回るとはな<end_line>
 	</sjis>
+  <ascii>
+    Hmph<three_dots><end_line>
+    Don't think about it that hard.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -178,6 +245,9 @@
 	<sjis>
 		ティエと勝負か<three_dots><end_line>
 	</sjis>
+  <ascii>
+    A match with Tier<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -187,6 +257,10 @@
 		大丈夫ですわ！<end_line>
 		私たちなら勝てますわ！<end_line>
 	</sjis>
+  <ascii>
+    Don't worry!<end_line>
+    I'm sure we can win!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -197,6 +271,11 @@
 		勝ち負けよりも<end_line>
 		後のことが心配だったりして<three_dots><end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+    I'm more worried about what'l<end_line>
+    happen after than winning<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -204,6 +283,9 @@
 	<sjis>
 		マーネイル宿場までティエを送ろう<end_line>
 	</sjis>
+  <ascii>
+    Let's escort Tier back to Marneil.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -213,6 +295,10 @@
 		すみません<end_line>
 		メイワクかけてしまって<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Sorry.<end_line>
+    I'm a bother aren't I<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -222,6 +308,10 @@
 		そうだよね？<end_line>
 		そう思うなら、さっきの約束を<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Right?<end_line>
+    Well then, about our promise<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -230,6 +320,9 @@
 	<sjis>
 		いたっ！<end_line>
 	</sjis>
+  <ascii>
+    Ow!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -239,6 +332,10 @@
 		いたいの？<end_line>
 		大丈夫？<end_line>
 	</sjis>
+  <ascii>
+    Does it hurt?<end_line>
+    Are you okay?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -247,6 +344,9 @@
 	<sjis>
 		<three_dots><end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -256,6 +356,10 @@
 		だから、そんな目で<end_line>
 		アタシを見るなっ！<end_line>
 	</sjis>
+  <ascii>
+    Hey, don't look at me like that!<end_line>
+    I didn't do anything!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -264,6 +368,10 @@
 		ほほえみ亭って宿屋で<end_line>
 		一休みだ！<end_line>
 	</sjis>
+  <ascii>
+    Time for a break at<end_line>
+    Smile Inn!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -273,6 +381,10 @@
 		そうですよ！<end_line>
 		急ぎましょう！<end_line>
 	</sjis>
+  <ascii>
+    Yep!<end_line>
+    Hurry, hurry!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -282,6 +394,10 @@
 		あ、そんなに急いで<three_dots>！<end_line>
 		ケガは大丈夫？<end_line>
 	</sjis>
+  <ascii>
+    Ah, slow down<three_dots>!<end_line>
+    Are you feeling okay?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -291,6 +407,10 @@
 		あ、ああ<end_line>
 		そうでしたね<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Ah, uhh.<end_line>
+    I'm fine<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -300,6 +420,9 @@
 	<sjis>
 		急ニ元気ニ　ナリマシタネ<end_line>
 	</sjis>
+  <ascii>
+    You Recovered Very Quickly.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -310,6 +433,10 @@
 		なんじゃ？<end_line>
 		急に元気になったようじゃが<three_dots><end_line>
 	</sjis>
+  <ascii>
+    What?<end_line>
+    For you to recover so quickly<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -320,6 +447,10 @@
 		どうした？<end_line>
 		突然元気になったのか？<end_line>
 	</sjis>
+  <ascii>
+    What?<end_line>
+    Now you're suddenly fine?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -330,6 +461,10 @@
 		なんだか急に<end_line>
 		元気になったみたいですわ<three_dots>？<end_line>
 	</sjis>
+  <ascii>
+    Now you're suddenly<end_line>
+    back to normal<three_dots>?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -338,6 +473,9 @@
 	<sjis>
 		そ、そんなことないですよ～<end_line>
 	</sjis>
+  <ascii>
+    Uh, no, umm<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -346,6 +484,9 @@
 	<sjis>
 		<three_dots><end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -356,6 +497,10 @@
 		ちょっと納得いかないけど<end_line>
 		ティエをさがしに行かなきゃ<three_dots><end_line>
 	</sjis>
+  <ascii>
+    I don't really understand,<end_line>
+    but I guess I have to find Tier<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -367,6 +512,11 @@
 		危険デス<end_line>
 		急イデ　サガシマショウ<end_line>
 	</sjis>
+  <ascii>
+    It Is Dangerous To Leave<end_line>
+    Lady Murno Alone For A Long Time.<end_line>
+    We Must Hurry.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -378,6 +528,11 @@
 		じゃあミューノのために<end_line>
 		がんばろう！<end_line>
 	</sjis>
+  <ascii>
+    Right<three_dots><end_line>
+    Okay, then I'll<end_line>
+    try my best!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -388,6 +543,10 @@
 		ちょっと納得いかないけど<end_line>
 		ティエをさがしに行かなきゃ<three_dots><end_line>
 	</sjis>
+  <ascii>
+    I don't really understand,<end_line>
+    but I guess I have to find Tier<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -399,6 +558,11 @@
 		若い時の苦労は買うてもせよ<end_line>
 		と言ってのう<end_line>
 	</sjis>
+  <ascii>
+    Cheer up.<end_line>
+    Spare no effort while young,<end_line>
+    so it is said.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -410,6 +574,11 @@
 		たくさん苦労をしておくと<end_line>
 		将来の役に立つのじゃぞ<end_line>
 	</sjis>
+  <ascii>
+    The more hardships<end_line>
+    you endure early on,<end_line>
+    the more you will grow.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -419,6 +588,9 @@
 	<sjis>
 		へぇ、そうなんだ<end_line>
 	</sjis>
+  <ascii>
+    Hmm, is that so.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -435,6 +607,9 @@
 			うん、がんばるわ、わたし！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Okay, I'll try my best!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -445,6 +620,10 @@
 		うむ<end_line>
 		その意気じゃ！<end_line>
 	</sjis>
+  <ascii>
+    Mm.<end_line>
+    That's the spirit!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -455,6 +634,10 @@
 		ちょっと納得いかないけど<end_line>
 		ティエをさがしに行かなきゃ<three_dots><end_line>
 	</sjis>
+  <ascii>
+    I don't really understand,<end_line>
+    but I guess I have to find Tier<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -466,6 +649,11 @@
 		くだらんことに私まで<end_line>
 		まきこむとは<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Geez<three_dots><end_line>
+    This is a waste<end_line>
+    of my time<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -477,6 +665,11 @@
 		でも、ミューノも宿屋で待ってるし<end_line>
 		がんばろ？<end_line>
 	</sjis>
+  <ascii>
+    Sorry<three_dots><end_line>
+    Murno's waiting for us though,<end_line>
+    so let's do our best, okay?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -486,6 +679,9 @@
 	<sjis>
 		ちっ<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Tch<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -495,6 +691,10 @@
 		ちょっと納得いかないけど<end_line>
 		ティエをさがしに行かなきゃ<three_dots><end_line>
 	</sjis>
+  <ascii>
+    I don't really understand,<end_line>
+    but I guess I have to find Tier<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -504,6 +704,10 @@
 		ミューノ様も待ってますし<end_line>
 		元気出して行きましょう<end_line>
 	</sjis>
+  <ascii>
+    Lady Murno is waiting for us.<end_line>
+    Cheer up, and let's go.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -519,6 +723,9 @@
 			そうだね<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Right<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -529,6 +736,11 @@
 		元気ないですねぇ<three_dots><end_line>
 		こんな時は、こう、手をにぎって<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Ah geez.<end_line>
+    Don't be so down<three_dots><end_line>
+    Here, let's hold hands, like this<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -538,6 +750,10 @@
 		え、あ<three_dots><end_line>
 		ちょっ、何を<three_dots>！？<end_line>
 	</sjis>
+  <ascii>
+    Eh, ah<three_dots><end_line>
+    Wait, what<three_dots>!?<end_line>
+  </ascii>
 </dialogue>
 <bigtext>
 	<partner name="rufeel">
@@ -546,6 +762,9 @@
 	<sjis>
 		がんばって！<end_line>
 	</sjis>
+  <ascii>
+    Do your best!<end_line>
+  </ascii>
 </bigtext>
 <dialogue>
 	<partner name="rufeel">
@@ -554,6 +773,9 @@
 	<sjis>
 		あ<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Ah<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -564,6 +786,11 @@
 		おまじないですよ<end_line>
 		元気出ました？<end_line>
 	</sjis>
+  <ascii>
+    That's a good luck charm<end_line>
+    Lady Murno taught me.<end_line>
+    Do you feel any better?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -573,6 +800,10 @@
 		あ、うん！<end_line>
 		ありがと！<end_line>
 	</sjis>
+  <ascii>
+    Ah, yeah!<end_line>
+    Thanks!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -582,6 +813,9 @@
 	<sjis>
 		宿屋に戻ろうか<end_line>
 	</sjis>
+  <ascii>
+    Back to the inn it is.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -591,6 +825,9 @@
 	<sjis>
 		<three_dots><end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -609,6 +846,10 @@
 			気になるの？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    <three_dots>Worried about the guys<end_line>
+    we saw earlier?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -618,6 +859,9 @@
 	<sjis>
 		<three_dots><end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -627,6 +871,9 @@
 	<sjis>
 		<three_dots><end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="male">
@@ -638,6 +885,10 @@
 		わかった、なにも聞かない！<end_line>
 		ミューノとの約束だもんな<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Okay, I won't ask!<end_line>
+    You promised Murno after all<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="male">
@@ -649,6 +900,10 @@
 		そのかわり、いつか<end_line>
 		ちゃんと教えてくれよ<end_line>
 	</sjis>
+  <ascii>
+    But sometime, I'd like it if<end_line>
+    you could tell me about it.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="female">
@@ -660,6 +915,10 @@
 		わかったわ、なにも聞かないわよ！<end_line>
 		ミューノとの約束だもんね<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Okay, I won't ask!<end_line>
+    You promised Murno after all<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="female">
@@ -671,6 +930,10 @@
 		そのかわり、いつか<end_line>
 		ちゃんと教えて<end_line>
 	</sjis>
+  <ascii>
+    But sometime, I'd like it if<end_line>
+    you could tell me about it.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -680,6 +943,9 @@
 	<sjis>
 		ワカリマシタ<end_line>
 	</sjis>
+  <ascii>
+    Understood.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -689,6 +955,9 @@
 	<sjis>
 		宿屋に戻ろうか<end_line>
 	</sjis>
+  <ascii>
+    Back to the inn it is.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -698,6 +967,9 @@
 	<sjis>
 		<three_dots><end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -716,6 +988,10 @@
 			気になるの？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    <three_dots>Worried about the guys<end_line>
+    we saw earlier?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -725,6 +1001,9 @@
 	<sjis>
 		<three_dots><end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -734,6 +1013,9 @@
 	<sjis>
 		<three_dots><end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="male">
@@ -745,6 +1027,10 @@
 		わかった、なにも聞かない！<end_line>
 		ミューノとの約束だもんな<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Okay, I won't ask!<end_line>
+    You promised Murno after all<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="male">
@@ -756,6 +1042,10 @@
 		そのかわり、いつか<end_line>
 		ちゃんと教えてくれよ<end_line>
 	</sjis>
+  <ascii>
+    But sometime, I'd like it if<end_line>
+    you could tell me about it.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="female">
@@ -767,6 +1057,10 @@
 		わかったわ、なにも聞かないわよ！<end_line>
 		ミューノとの約束だもんね<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Okay, I won't ask!<end_line>
+    You promised Murno after all<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="female">
@@ -778,6 +1072,10 @@
 		そのかわり、いつか<end_line>
 		ちゃんと教えて<end_line>
 	</sjis>
+  <ascii>
+    But sometime, I'd like it if<end_line>
+    you could tell me about it.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -788,6 +1086,10 @@
 		そうじゃな<three_dots><end_line>
 		その時が来たら話そう<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Right<three_dots><end_line>
+    When the time comes<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -797,6 +1099,9 @@
 	<sjis>
 		宿屋に戻ろうか<end_line>
 	</sjis>
+  <ascii>
+    Back to the inn it is.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -806,6 +1111,9 @@
 	<sjis>
 		<three_dots><end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -824,6 +1132,10 @@
 			気になるの？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    <three_dots>Worried about the guys<end_line>
+    we saw earlier?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -833,6 +1145,9 @@
 	<sjis>
 		<three_dots><end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -842,6 +1157,9 @@
 	<sjis>
 		<three_dots><end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="male">
@@ -853,6 +1171,10 @@
 		わかった、なにも聞かない！<end_line>
 		ミューノとの約束だもんな<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Okay, I won't ask!<end_line>
+    You promised Murno after all<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="male">
@@ -864,6 +1186,10 @@
 		そのかわり、いつか<end_line>
 		ちゃんと教えてくれよ<end_line>
 	</sjis>
+  <ascii>
+    But sometime, I'd like it if<end_line>
+    you could tell me about it.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="female">
@@ -875,6 +1201,10 @@
 		わかったわ、なにも聞かないわよ！<end_line>
 		ミューノとの約束だもんね<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Okay, I won't ask!<end_line>
+    You promised Murno after all<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="female">
@@ -886,6 +1216,10 @@
 		そのかわり、いつか<end_line>
 		ちゃんと教えて<end_line>
 	</sjis>
+  <ascii>
+    But sometime, I'd like it if<end_line>
+    you could tell me about it.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -896,6 +1230,10 @@
 		<three_dots><end_line>
 		気がむいたならな<three_dots><end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+    If I feel like it<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -904,6 +1242,9 @@
 	<sjis>
 		宿屋に戻ろうか<end_line>
 	</sjis>
+  <ascii>
+    Back to the inn it is.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -912,6 +1253,9 @@
 	<sjis>
 		<three_dots><end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -929,6 +1273,10 @@
 			気になるの？<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    <three_dots>Worried about the guys<end_line>
+    we saw earlier?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -937,6 +1285,9 @@
 	<sjis>
 		<three_dots><end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -945,6 +1296,9 @@
 	<sjis>
 		<three_dots><end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="male">
@@ -955,6 +1309,10 @@
 		わかった、なにも聞かない！<end_line>
 		ミューノとの約束だもんな<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Okay, I won't ask!<end_line>
+    You promised Murno after all<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="male">
@@ -965,6 +1323,10 @@
 		そのかわり、いつか<end_line>
 		ちゃんと教えてくれよ<end_line>
 	</sjis>
+  <ascii>
+    But sometime, I'd like it if<end_line>
+    you could tell me about it.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="female">
@@ -975,6 +1337,10 @@
 		わかったわ、なにも聞かないわよ！<end_line>
 		ミューノとの約束だもんね<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Okay, I won't ask!<end_line>
+    You promised Murno after all<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<player gender="female">
@@ -985,6 +1351,10 @@
 		そのかわり、いつか<end_line>
 		ちゃんと教えて<end_line>
 	</sjis>
+  <ascii>
+    But sometime, I'd like it if<end_line>
+    you could tell me about it.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -994,4 +1364,8 @@
 		はい、その時になりましたら<end_line>
 		絶対お話しいたしますわ<end_line>
 	</sjis>
+  <ascii>
+    Yes, when the time comes,<end_line>
+    I'll explain everything.<end_line>
+  </ascii>
 </dialogue>
