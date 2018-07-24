@@ -7,6 +7,10 @@
 		アニスたちをさがしに行こう！<end_line>
 		今日こそ絶対捕まえるんだ！<end_line>
 	</sjis>
+  <ascii>
+    Let's look for Anise!<end_line>
+    We'll get them today!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -17,6 +21,10 @@
 		生ケ捕リニスレバ<end_line>
 		問題アリマセンネ？<end_line>
 	</sjis>
+  <ascii>
+    Will Live Capture<end_line>
+    Be Acceptable?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -37,6 +45,11 @@
 			考えないようにね<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Well, yeah<three_dots><end_line>
+    Don't do anything<end_line>
+    too reckless.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -47,6 +60,10 @@
 		アニスたちをさがしに行こう！<end_line>
 		今日こそ絶対捕まえるんだ！<end_line>
 	</sjis>
+  <ascii>
+    Let's look for Anise!<end_line>
+    We'll get them today!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -57,6 +74,10 @@
 		要は、生きたまま捕らえれば<end_line>
 		良いということじゃな<end_line>
 	</sjis>
+  <ascii>
+    So it would be preferable<end_line>
+    to leave them alive.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -75,6 +96,10 @@
 			考えないようにね<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Don't do anything<end_line>
+    too crazy.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -85,6 +110,10 @@
 		アニスたちをさがしに行こう！<end_line>
 		今日こそ絶対捕まえるんだ！<end_line>
 	</sjis>
+  <ascii>
+    Let's look for Anise!<end_line>
+    We'll get them today!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -95,6 +124,10 @@
 		生け捕りにさえすれば<end_line>
 		文句はないんだな？<end_line>
 	</sjis>
+  <ascii>
+    It's fine as long<end_line>
+    they're alive, right?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -113,6 +146,10 @@
 			考えないようにね<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Don't do anything<end_line>
+    too crazy.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -122,6 +159,10 @@
 		アニスたちをさがしに行こう！<end_line>
 		今日こそ絶対捕まえるんだ！<end_line>
 	</sjis>
+  <ascii>
+    Let's look for Anise!<end_line>
+    We'll get them today!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -131,6 +172,10 @@
 		生け捕りにさえすれば<end_line>
 		いいんですよね？<end_line>
 	</sjis>
+  <ascii>
+    Anything is fine as long<end_line>
+    as they are alive, yes?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -148,6 +193,10 @@
 			考えないようにね<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Don't do anything<end_line>
+    too reckless.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -159,6 +208,11 @@
 		アニスたちをさがしに行くのは<end_line>
 		どうなるんだろう<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Strays at a time like this<three_dots><end_line>
+    Wonder if we'll have time<end_line>
+    to look for Anise<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -169,6 +223,10 @@
 		マズハ　親方タチニ　状況ヲ<end_line>
 		確認スルノガ　良イト思イマス<end_line>
 	</sjis>
+  <ascii>
+    I Believe We Should Confirm The<end_line>
+    Situation With Master.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -185,6 +243,9 @@
 			そうだね<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Right<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -194,6 +255,9 @@
 	<sjis>
 		まずは、みんなのところに行こう！<end_line>
 	</sjis>
+  <ascii>
+    First, we'll meet with the others!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -205,6 +269,11 @@
 		アニスたちをさがしに行くのは<end_line>
 		どうなるんだろう<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Strays at a time like this<three_dots><end_line>
+    Wonder if we'll have time<end_line>
+    to look for Anise<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -215,6 +284,10 @@
 		とにかく親方たちと<end_line>
 		今後の計画を立てねばな<end_line>
 	</sjis>
+  <ascii>
+    For now, we should form<end_line>
+    a plan with Master.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -231,6 +304,9 @@
 			そうだね<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Right<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -240,6 +316,9 @@
 	<sjis>
 		まずは、みんなのところに行こう！<end_line>
 	</sjis>
+  <ascii>
+    First, we'll meet with the others!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -251,6 +330,11 @@
 		アニスたちをさがしに行くのは<end_line>
 		どうなるんだろう<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Strays at a time like this<three_dots><end_line>
+    Wonder if we'll have time<end_line>
+    to look for Anise<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -262,6 +346,11 @@
 		何も解決しないことだけは<end_line>
 		たしかだな<end_line>
 	</sjis>
+  <ascii>
+    Nothing will happen<end_line>
+    with your brain alone,<end_line>
+    I'm sure.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -278,6 +367,9 @@
 			わかったわよ、もう<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Alright, fine.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -287,6 +379,9 @@
 	<sjis>
 		じゃあ、みんなのところに行こう<end_line>
 	</sjis>
+  <ascii>
+    First, we'll meet with the others!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -297,6 +392,11 @@
 		アニスたちをさがしに行くのは<end_line>
 		どうなるんだろう<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Strays at a time like this<three_dots><end_line>
+    Wonder if we'll have time<end_line>
+    to look for Anise<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -307,6 +407,11 @@
 		とにかく親方さんのところに<end_line>
 		相談しに行きましょう<end_line>
 	</sjis>
+  <ascii>
+    We can't do much on our own.<end_line>
+    We should discuss our<end_line>
+    next steps with Master.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -322,6 +427,9 @@
 			そうだね<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Right<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -330,6 +438,9 @@
 	<sjis>
 		まずは、みんなのところに行こう！<end_line>
 	</sjis>
+  <ascii>
+    First, we'll meet with the others!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -341,6 +452,11 @@
 		まかせて<end_line>
 		アニスたちをさがしに行こう<end_line>
 	</sjis>
+  <ascii>
+    Let Brother<end_line>
+    handle the Strays.<end_line>
+    We'll find Anise.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -351,6 +467,10 @@
 		<three_dots><end_line>
 		了解デス<end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+    Understood.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -371,6 +491,11 @@
 			わたしたちもできることをやらなきゃ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Murno will be fine.<end_line>
+    Master Benson is with her.<end_line>
+    We have to do what we can!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -381,6 +506,10 @@
 		ソウデスネ<end_line>
 		了解デス<end_line>
 	</sjis>
+  <ascii>
+    Is That So.<end_line>
+    Understood.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -392,6 +521,11 @@
 		まかせて<end_line>
 		アニスたちをさがしに行こう<end_line>
 	</sjis>
+  <ascii>
+    Let Brother<end_line>
+    handle the Strays.<end_line>
+    We'll find Anise.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -402,6 +536,10 @@
 		<three_dots><end_line>
 		そうじゃな<three_dots><end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+    Yes<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -422,6 +560,11 @@
 			わたしたちもできることをやらなきゃ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Murno will be fine.<end_line>
+    Master Benson is with her.<end_line>
+    We have to do what we can!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -432,6 +575,10 @@
 		たしかに、おぬしの言う通りじゃな<three_dots><end_line>
 		さっさと連中を見つけ出さねば<end_line>
 	</sjis>
+  <ascii>
+    It is as you say<three_dots><end_line>
+    We must find them.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -443,6 +590,11 @@
 		まかせて<end_line>
 		アニスたちをさがしに行こう<end_line>
 	</sjis>
+  <ascii>
+    Let Brother<end_line>
+    handle the Strays.<end_line>
+    We'll find Anise.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -453,6 +605,10 @@
 		ちっ<three_dots><end_line>
 		仕方ないな<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Tch<three_dots><end_line>
+    Fine<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -473,6 +629,11 @@
 			わたしたちもできることをやらなきゃ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Murno will be fine.<end_line>
+    Master Benson is with her.<end_line>
+    We have to do what we can!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -484,6 +645,11 @@
 		くだらないことを言ってないで<end_line>
 		さっさと行くぞ<end_line>
 	</sjis>
+  <ascii>
+    I-I don't care<three_dots><end_line>
+    Quit talking and<end_line>
+    get moving.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -494,6 +660,11 @@
 		まかせて<end_line>
 		アニスたちをさがしに行こう<end_line>
 	</sjis>
+  <ascii>
+    Let Brother<end_line>
+    handle the Strays.<end_line>
+    We'll find Anise.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -503,6 +674,10 @@
 		<three_dots><end_line>
 		そうですね<three_dots><end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+    Yes<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -522,6 +697,11 @@
 			わたしたちもできることをやらなきゃ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Murno will be fine.<end_line>
+    Master Benson is with her.<end_line>
+    We have to do what we can!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -532,6 +712,11 @@
 		がんばってあの人たちを<end_line>
 		必ず見つけ出しましょう！<end_line>
 	</sjis>
+  <ascii>
+    You're right!<end_line>
+    We must find them!<end_line>
+    Let's do our best!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -552,6 +737,11 @@
 			急ごう！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Anise must be hiding<end_line>
+    out in Lute Cave!<end_line>
+    Let's go!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -562,6 +752,10 @@
 		了解デス<end_line>
 		今回ハ　逃ガシマセン<end_line>
 	</sjis>
+  <ascii>
+    Understood.<end_line>
+    This Time, They Will Not Escape.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -580,6 +774,10 @@
 			行こう！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Right!<end_line>
+    Come on!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -600,6 +798,11 @@
 			急ごう！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Anise must be hiding<end_line>
+    out in Lute Cave!<end_line>
+    Let's go!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -611,6 +814,11 @@
 		絶対に逃がしはせんぞ！<end_line>
 		カクゴしておれよ！<end_line>
 	</sjis>
+  <ascii>
+    I swear upon this topknot,<end_line>
+    they will not escape again!<end_line>
+    After them!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -629,6 +837,10 @@
 			行こう！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Right!<end_line>
+    Come on!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -649,6 +861,11 @@
 			急ごう！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Anise must be hiding<end_line>
+    out in Lute Cave!<end_line>
+    Let's go!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -659,6 +876,10 @@
 		アイツらめ<three_dots><end_line>
 		今度は絶対に逃がさん<end_line>
 	</sjis>
+  <ascii>
+    That scum<three_dots><end_line>
+    They won't escape this time.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -677,6 +898,10 @@
 			行こう！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Right!<end_line>
+    Come on!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -696,6 +921,11 @@
 			急ごう！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Anise must be hiding<end_line>
+    out in Lute Cave!<end_line>
+    Let's go!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -705,6 +935,10 @@
 		今度という今度は<end_line>
 		絶対に逃がしませんわ！<end_line>
 	</sjis>
+  <ascii>
+    This time, we will<end_line>
+    capture them, without fail!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -722,6 +956,10 @@
 			行こう！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Right!<end_line>
+    Come on!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -742,6 +980,11 @@
 			きっとアジトが見つかるハズよ<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Let's follow Anise's<end_line>
+    comrades to Spoat Grotto.<end_line>
+    Their hideout must be there.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -753,6 +996,11 @@
 		逆ニ　捕マラナイヨウ<end_line>
 		注意シテクダサイ<end_line>
 	</sjis>
+  <ascii>
+    We Must Be Careful<end_line>
+    So As Not To Get<end_line>
+    Caught Like Last Time.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -771,6 +1019,10 @@
 			イタイとこ突くわね<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Ugh<three_dots><end_line>
+    You hit where it hurts<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -791,6 +1043,11 @@
 			きっとアジトが見つかるハズよ<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Let's follow Anise's<end_line>
+    comrades to Spoat Grotto.<end_line>
+    Their hideout must be there.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -802,6 +1059,11 @@
 		こちらが逆に捕まるような<end_line>
 		前回の二の舞はゴメンじゃからな<end_line>
 	</sjis>
+  <ascii>
+    Take care that the hunter<end_line>
+    does not become the hunted,<end_line>
+    as it did last time.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -820,6 +1082,10 @@
 			責められてる<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Again with the difficult<end_line>
+    to understand phrases<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -840,6 +1106,11 @@
 			きっとアジトが見つかるハズよ<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Let's follow Anise's<end_line>
+    comrades to Spoat Grotto.<end_line>
+    Their hideout must be there.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -851,6 +1122,11 @@
 		私はかまわないが<end_line>
 		そうでないなら、おとなしくしてろ<end_line>
 	</sjis>
+  <ascii>
+    If you want to get caught<end_line>
+    again thats fine, but otherwise,<end_line>
+    keep it down.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -869,6 +1145,10 @@
 			わかったわよ<three_dots><end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Ugh<three_dots><end_line>
+    Okay<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -888,6 +1168,11 @@
 			きっとアジトが見つかるハズよ<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Let's follow Anise's<end_line>
+    comrades to Spoat Grotto.<end_line>
+    Their hideout must be there.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -898,6 +1183,11 @@
 		逆に捕まらないように<end_line>
 		シンチョウに行動してくださいね<end_line>
 	</sjis>
+  <ascii>
+    Please take care that we<end_line>
+    aren't the ones getting caught,<end_line>
+    like we did last time.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -913,6 +1203,9 @@
 			まかせといてよ！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Leave it to me!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -933,6 +1226,11 @@
 			急いで追いかけよう！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Anise's comrades fled further<end_line>
+    in to Spoat Grotto.<end_line>
+    After them!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -942,6 +1240,9 @@
 	<sjis>
 		<three_dots><end_line>
 	</sjis>
+  <ascii>
+    <three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -961,6 +1262,10 @@
 			ないもん！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    H-hey, I didn't do anything!<end_line>
+    It's not my fault!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -981,6 +1286,11 @@
 			急いで追いかけよう！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Anise's comrades fled further<end_line>
+    in to Spoat Grotto.<end_line>
+    After them!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -991,6 +1301,10 @@
 		はぁ<three_dots><end_line>
 		仕方ないのう<end_line>
 	</sjis>
+  <ascii>
+    Sigh<three_dots><end_line>
+    You're helpless.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1010,6 +1324,10 @@
 			ないもん！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    H-hey, I didn't do anything!<end_line>
+    It's not my fault!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1030,6 +1348,11 @@
 			急いで追いかけよう！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Anise's comrades fled further<end_line>
+    in to Spoat Grotto.<end_line>
+    After them!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1040,6 +1363,10 @@
 		ちっ<three_dots><end_line>
 		仕方ないヤツだ<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Tch<three_dots><end_line>
+    You're hopeless<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1059,6 +1386,10 @@
 			ないもん！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    H-hey, I didn't do anything!<end_line>
+    It's not my fault!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1078,6 +1409,11 @@
 			急いで追いかけよう！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    Anise's comrades fled further<end_line>
+    in to Spoat Grotto.<end_line>
+    After them!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1087,6 +1423,10 @@
 		うぅ<three_dots><end_line>
 		また見つかっちゃいました<three_dots><end_line>
 	</sjis>
+  <ascii>
+    Uu<three_dots><end_line>
+    We were spotted again<three_dots><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1105,4 +1445,8 @@
 			ないもん！<end_line>
 		</sjis>
 	</female>
+  <ascii>
+    H-hey, I didn't do anything!<end_line>
+    It's not my fault!<end_line>
+  </ascii>
 </dialogue>
