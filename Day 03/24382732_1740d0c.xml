@@ -415,8 +415,7 @@
 		急ニ元気ニ　ナリマシタネ<end_line>
 	</sjis>
 	<ascii>
-		It's As If You're Healed<end_line>
-		All Of A Sudden.<end_line>
+		You've Certainly Recovered Quickly.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -457,8 +456,8 @@
 		元気になったみたいですわ<three_dots>？<end_line>
 	</sjis>
 	<ascii>
-		It's as if you're suddenly<end_line> 
-		all better<three_dots>?
+		It's as if you've<end_line> 
+		recovered already.<three_dots>?
 	</ascii>
 </dialogue>
 <dialogue>
