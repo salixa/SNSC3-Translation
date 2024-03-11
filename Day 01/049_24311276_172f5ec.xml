@@ -6,8 +6,9 @@
 		　なぜだかさびしそうに見えたんだ　　<end_line>
 	</sjis>
   <ascii>
-    At that, she smiled,<end_line>
-    but I could tell she was lonely<three_dots><end_line>
+    At that moment, she smiled, but<end_line>
+    I couldn't help but feel that there<end_line>
+	was loneliness behind her smile.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -18,4 +19,9 @@
 		　　　　　今、<partner>が<end_line>
 		　　よろこんでいるように見えたんだ　<end_line>
 	</sjis>
+  <ascii>
+    Somehow,<end_line>
+    I could tell that<end_line>
+	<partner> looked happy.<end_line>
+  </ascii>
 </dialogue>

@@ -55,7 +55,7 @@
   </sjis>
   <ascii>
     How much stronger it gets depends<end_line>
-    greatly on smithing rank<end_line>
+    greatly on crafting rank<end_line>
     and the weapon's TEC value.<end_line>
   </ascii>
 </dialogue>
@@ -113,7 +113,7 @@
     好きにしろ<three_dots><end_line>
   </sjis>
   <ascii>
-    Yeah, yeah<three_dots><end_line>
+    Suit yourself.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -133,7 +133,8 @@
     パートナー会話が可能になりました<end_line>
   </sjis>
   <ascii>
-    You can now speak with your partner.<end_line>
+    Partner conversations are<end_line> 
+	now possible.<end_line>
   </ascii>
 </popup>
 <dialogue>

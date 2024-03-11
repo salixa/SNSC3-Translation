@@ -12,7 +12,7 @@
 	</sjis>
   <ascii>
     Where do you think you're going!?<end_line>
-    Get back here!<end_line>
+    Focus on your training!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -22,11 +22,18 @@
 		<partner>もいないし<end_line>
 		タタラを使うのはやめようかな<end_line>
 	</sjis>
+  <ascii>
+    <partner> isn't here.<end_line>
+	I shouldn't use the forge.<end_line>
+  </ascii>
 </dialogue>
 <popup>
 	<sjis>
 		疲れが取れた！<end_line>
 	</sjis>
+  <ascii>
+    I'm tired!
+  </ascii>
 </popup>
 <dialogue>
 	<info box="simple">
@@ -38,7 +45,7 @@
 	</sjis>
   <ascii>
     You guys have to get it together!<end_line>
-    Our livelyhood is at stake!<end_line>
+    Our lives is at stake!<end_line>
   </ascii>
 </dialogue>
 <dialogue>

@@ -52,7 +52,7 @@
     知りたいことがあったら聞いてね<end_line>
   </sjis>
   <ascii>
-    I know quite a lot about smithing.<end_line>
+    I know quite a lot about crafting.<end_line>
     Feel free to ask me anything.<end_line>
   </ascii>
 </dialogue>
@@ -71,7 +71,7 @@
       鍛冶ランクについて教えてほしい<end_line>
     </sjis>
     <ascii>
-      Teach me about smithing ranks<end_line>
+      Teach me about crafting ranks<end_line>
     </ascii>
   </option>
   <option>
@@ -118,7 +118,7 @@
     証みたいなものね<end_line>
   </sjis>
   <ascii>
-    Smithing ranks are like proof<end_line>
+    Crafting ranks are like proof<end_line>
     of how much you've mastered<end_line>
     each weapon.<end_line>
   </ascii>

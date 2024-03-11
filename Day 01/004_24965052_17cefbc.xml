@@ -176,7 +176,7 @@
     </sjis>
     <ascii>
       Come on, look!<end_line>
-      Way cool, isn't it!?<end_line>
+      It's so cool, isn't it!?<end_line>
     </ascii>
   </female>
 </dialogue>
@@ -236,7 +236,7 @@
     </sjis>
   </female>
   <ascii>
-    What the<three_dots> Awwww<three_dots>!<end_line>
+    Oh, c'mon<three_dots>!<end_line>
     You don't get excited for anything!<end_line>
   </ascii>
 </dialogue>
@@ -253,7 +253,7 @@
   <ascii>
     Hm<three_dots><end_line>
     It seems that our training<end_line>
-    has born fruit.<end_line>
+    did bear fruit.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -321,7 +321,8 @@
     その程度の成果ではない！<end_line>
   </sjis>
   <ascii>
-    I meant the weapon!<end_line>
+    That degree of accomplishment isn't<end_line>
+	something to get proud of!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -352,7 +353,7 @@
     <ascii>
       Oh come on.<end_line>
       And after I went out of my way<end_line>
-      to complement you too.<end_line>
+      to compliment you too.<end_line>
     </ascii>
   </male>
   <female>
@@ -364,7 +365,7 @@
     <ascii>
       What?<end_line>
       And after I went out of my way<end_line>
-      to complement you too.<end_line>
+      to compliment you too.<end_line>
     </ascii>
   </female>
 </dialogue>
@@ -392,7 +393,7 @@
     </sjis>
     <ascii>
       Why is that?<end_line>
-      Are you, by chance, embarassed?<end_line>
+      I see, so you're embarassed, huh?<end_line>
     </ascii>
   </male>
   <female>
@@ -506,9 +507,9 @@
     </sjis>
   </female>
   <ascii>
-    But<three_dots><end_line>
-    You were screaming<end_line>
-    your head off yesterday.<end_line>
+    Oh, is that true?<end_line>
+    Weren't you screaming<end_line>
+    your head off just yesterday?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -522,7 +523,7 @@
     うれしい？<end_line>
   </sjis>
   <ascii>
-    That was not because I was afraid.<end_line>
+    T-That was not because I was afraid!<end_line>
     Uhh, how should I put this<three_dots><end_line>
     I was happy?<end_line>
   </ascii>
@@ -536,7 +537,7 @@
     そう、うれしいひめいです<end_line>
   </sjis>
   <ascii>
-    Yes, they were screams of happiness!<end_line>
+    R-Right! They were screams of happiness!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -630,8 +631,8 @@
   </sjis>
   <ascii>
     So, now do you understand<end_line>
-    how important your partner<end_line>
-    is when you're crafting weapons?<end_line>
+    how important your partner is<end_line>
+    when you're crafting weapons?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -646,7 +647,7 @@
   <ascii>
     When you're able to truly understand<end_line>
     each other's feelings, the power<end_line>
-    your weapon holds is limitless!<end_line>
+    your weapon holds will be limitless!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -687,7 +688,7 @@
   </sjis>
   <ascii>
     Even though I knew nothing<end_line>
-    of smithing, Rob was gentle<end_line>
+    of crafting, Rob was gentle<end_line>
     and paid attention to every detail<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -730,8 +731,7 @@
   </sjis>
   <ascii>
     Huh?<end_line>
-    Oh, are you<end_line>
-    worried about Murno?<end_line>
+    Oh, are you worried about Murno?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -818,7 +818,7 @@
     必要アリマセン！<end_line>
   </sjis>
   <ascii>
-    That Is Not Necassary!<end_line>
+    That Is Not Necessary!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -876,7 +876,7 @@
   </sjis>
   <ascii>
     Well, we've made a weapon, so<end_line>
-    is this stage of training complete?<end_line>
+    is it finally training complete?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -891,8 +891,7 @@
   </sjis>
   <ascii>
     Huh?<end_line>
-    Oh, are you<end_line>
-    worried about Murno?<end_line>
+    Oh, are you worried about Murno?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1054,8 +1053,7 @@
   </sjis>
   <ascii>
     Huh?<end_line>
-    Oh, are you<end_line>
-    worried about Murno?<end_line>
+    Oh, are you worried about Murno?<end_line> 
   </ascii>
 </dialogue>
 <dialogue>
@@ -1198,7 +1196,7 @@
   </sjis>
   <ascii>
     Yeah, whatever<three_dots><end_line>
-    Fine<three_dots><end_line>
+    Suit yourselves<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1227,8 +1225,7 @@
   </sjis>
   <ascii>
     Huh?<end_line>
-    Oh, are you<end_line>
-    worried about Murno?<end_line>
+    Oh, are you worried about Murno?<end_line> 
   </ascii>
 </dialogue>
 <dialogue>
@@ -1415,7 +1412,7 @@
     「はい」は一回！<end_line>
   </sjis>
   <ascii>
-    No extra 'yeah's, just one!<end_line>
+    No extra "yeah"s, just one!<end_line>
   </ascii>
 </dialogue>
 <dialogue>

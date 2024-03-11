@@ -62,7 +62,7 @@
   <ascii>
     I See. Understood.<end_line>
     However, This Weapon Has Not<end_line>
-    Seen Use For A Long Time<three_dots><end_line>
+    Been Used For A Long Time<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -703,7 +703,7 @@
 		</sjis>
 	</female>
   <ascii>
-    What's that supposed to mean?<end_line>
+    W-What's that supposed to mean?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -996,7 +996,7 @@
 		</sjis>
 	</female>
   <ascii>
-    Don't just stare ate me<three_dots><end_line>
+    Don't just stare at me<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1009,8 +1009,8 @@
 		面倒ヲミラレテイルノ<three_dots>デスヨネ？<end_line>
 	</sjis>
   <ascii>
-    You Have Been Cared<end_line>
-    For By Master<three_dots> Correct?<end_line>
+    You Are Being Taken Care Of<end_line>
+    By Master<three_dots> Correct?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1317,7 +1317,7 @@
 		そのチョットが命取りなんですわ！<end_line>
 	</sjis>
   <ascii>
-    That 'bit' could be fatal!<end_line>
+    That "bit" could be fatal!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1342,7 +1342,7 @@
 		すみません<three_dots><end_line>
 	</sjis>
   <ascii>
-    Uuu<three_dots><end_line>
+    Uuuh<three_dots><end_line>
     I'm sorry<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -1644,7 +1644,7 @@
 		さあ、修行に行こう！<end_line>
 	</sjis>
   <ascii>
-    Alright, time to train!<end_line>
+    Alright then, time to train!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1656,8 +1656,7 @@
 		そうしましょう！<end_line>
 	</sjis>
   <ascii>
-    Yes!<end_line>
-    Let's!<end_line>
+    Okay!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1681,7 +1680,7 @@
 		ミューノ様の所へ戻りましょう<end_line>
 	</sjis>
   <ascii>
-    Yes!<end_line>
+    Of course!<end_line>
     Let's finish this quickly,<end_line>
     then return to where Lady Murno is.<end_line>
   </ascii>
@@ -2020,7 +2019,8 @@
 		この村には駅があるんですね<end_line>
 	</sjis>
   <ascii>
-    I didn't know there was a station.<end_line>
+    I didn't know there was<end_line>
+	a station around here.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -2104,7 +2104,7 @@
 		オー<end_line>
 	</sjis>
   <ascii>
-    Yes.<end_line>
+    Roger.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -2147,7 +2147,7 @@
 	</sjis>
   <ascii>
     Right.<end_line>
-    Experience is somethign one must<end_line>
+    Experience is something one must<end_line>
     accumulate steadily over time<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -2302,7 +2302,7 @@
 		はい！！<end_line>
 	</sjis>
   <ascii>
-    Yes!!<end_line>
+    Okay!!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -2593,7 +2593,7 @@
   <ascii>
     Seems to be many Stray<end_line>
     Summons around here,<end_line>
-    but they're all small fry<three_dots><end_line>
+    but they're all small fries<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -2661,7 +2661,7 @@
 		はぐれ召喚獣がいるようですね<end_line>
 	</sjis>
   <ascii>
-    Uu<three_dots><end_line>
+    Uugh<three_dots><end_line>
     As I thought, there must be<end_line>
     Stray Summons around here.<end_line>
   </ascii>

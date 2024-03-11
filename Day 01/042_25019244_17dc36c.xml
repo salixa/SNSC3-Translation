@@ -245,7 +245,7 @@
     なんでそんなこと！<end_line>
   </sjis>
   <ascii>
-    Wha<three_dots>!?<end_line>
+    W-Wha<three_dots>!?<end_line>
     Where the hell did that come from?!<end_line>
   </ascii>
 </dialogue>
@@ -381,7 +381,7 @@
     好きにしろ<end_line>
   </sjis>
   <ascii>
-    Fine.<end_line>
+    Suit yourself.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -393,6 +393,6 @@
     そうですね<end_line>
   </sjis>
   <ascii>
-    Yes!<end_line>
+    Okay!<end_line>
   </ascii>
 </dialogue>

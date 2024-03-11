@@ -71,8 +71,7 @@
     オ礼ヲ言ウノデスカ？<end_line>
   </sjis>
   <ascii>
-    It Is Not <end_line>
-    A Problem.<end_line>
+    It Is Not A Problem.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -943,7 +942,7 @@
     <three_dots><end_line>
   </sjis>
   <ascii>
-    Yeah<three_dots><end_line>
+    <three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>

@@ -152,7 +152,7 @@
 		熱があるね<three_dots><end_line>
 	</sjis>
 	<ascii>
-		You were right.<end_line>
+		You're right.<end_line>
 		It's definitely a fever.<end_line>
 	</ascii>
 </dialogue>
@@ -237,7 +237,7 @@
 		急に熱だなんて<three_dots><end_line>
 	</sjis>
 	<ascii>
-		But how could she develop<end_line>    a fever so suddenly<three_dots>?<end_line>
+		But how could she develop<end_line>		a fever so suddenly<three_dots>?<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -250,7 +250,7 @@
 		相当ムリしてきたみたいだからね<three_dots><end_line>
 		安心したら一気にきたんだろうね<end_line>
 	</sjis>
-	<ascii>    She's been pushing herself so hard<three_dots><end_line>    All of the pent up stress<end_line>    must have hit her at once.<end_line>	</ascii>
+	<ascii>    She's been pushing herself so hard<three_dots><end_line>    All of the pent-up stress<end_line>    must have hit her all at once.<end_line>	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -291,7 +291,7 @@
 	</sjis>
 	<ascii>
 		Alright, leave this to me.<end_line>
-		You should go introduce <partner><end_line>    to the Chief.<end_line>
+		You should go introduce <partner><end_line>		to the Chief.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -305,7 +305,7 @@
 	</sjis>
 	<ascii>
 		There've been more strays lately,<end_line>
-		so we need to make sure<end_line>    <partner> isn't mistaken for one.<end_line>
+		so we need to make sure<end_line>		<partner> isn't mistaken for one.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -317,7 +317,7 @@
 		でも、紹介って<end_line>
 		なんて言ったらいいんだろ？<end_line>
 	</sjis>
-	<ascii>
+	<ascii>		Introduce, you say<three_dots><end_line>
 		What should I even say?<end_line>
 	</ascii>
 </dialogue>
@@ -331,7 +331,7 @@
 		アタシに召喚石をもらったとか<end_line>
 		そんな感じでいいんじゃない？<end_line>
 	</sjis>
-  <ascii>		Say something like,<end_line>    'Master gave me a Summon Stone.<end_line>    This is my new partner.'<end_line>	</ascii>
+  <ascii>		Say something like,<end_line>	    "Master gave me a Summon Stone.<end_line>		This is my new partner."<end_line>	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -538,7 +538,7 @@
 		あ、ごめん<end_line>
 	</sjis>
 	<ascii>
-		Ohhh, sorry.<end_line>
+		Ah. Sorry.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -785,7 +785,7 @@
 		すまぬ<three_dots><end_line>
 	</sjis>
 	<ascii>
-		Ah, is that so<three_dots><end_line>
+		Hm, is that so<three_dots><end_line>
 		My apologies<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -797,7 +797,7 @@
 		でも<end_line>
 		急に熱だなんて<three_dots><end_line>
 	</sjis>
-	<ascii>		But how could she develop<end_line>    a fever so suddenly<three_dots>?<end_line>	</ascii>
+	<ascii>		But how could she develop<end_line>		a fever so suddenly<three_dots>?<end_line>	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -809,7 +809,7 @@
 		相当ムリしてきたみたいだからね<three_dots><end_line>
 		安心したら一気にきたんだろうね<end_line>
 	</sjis>
-  <ascii>    She's been pushing herself so hard<three_dots><end_line>    All of the pent up stress<end_line>    must have hit her at once.<end_line>  </ascii>
+  <ascii>    She's been pushing herself so hard<three_dots><end_line>    All of the pent-up stress<end_line>    must have hit her all at once.<end_line>  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -846,7 +846,7 @@
 		アンタは<partner>だけでも<end_line>
 		村長に紹介しといで<end_line>
 	</sjis>
-	<ascii>		Alright, leave this to me.<end_line>		You should go introduce <partner><end_line>    to the Chief.<end_line>	</ascii>
+	<ascii>		Alright, leave this to me.<end_line>		You should go introduce <partner><end_line>		to the Chief.<end_line>	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -857,7 +857,7 @@
 		近ごろはぐれもふえてきたし<end_line>
 		まちがわれないようにしなきゃね<end_line>
 	</sjis>
-	<ascii>		There've been more strays lately,<end_line>		so we need to make sure<end_line>    <partner> isn't mistaken for one.<end_line>	</ascii>
+	<ascii>		There've been more strays lately,<end_line>		so we need to make sure<end_line>		<partner> isn't mistaken for one.<end_line>	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -880,7 +880,7 @@
 		アタシに召喚石をもらったとか<end_line>
 		そんな感じでいいんじゃない？<end_line>
 	</sjis>
-  <ascii>		Say something like,<end_line>    'Master gave me a Summon Stone.<end_line>    This is my new partner.'<end_line>	</ascii>
+  <ascii>		Say something like,<end_line>		"Master gave me a Summon Stone.<end_line>		This is my new partner."<end_line>	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -901,7 +901,7 @@
 		しかし、本来のワガハイは<end_line>
 		ミューノの召喚獣で<three_dots><end_line>
 	</sjis>
-	<ascii>    But in truth,<end_line>    I am Murno's Summon Beast<three_dots><end_line>
+	<ascii>    But the truth is,<end_line>    I am Murno's Summon Beast<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -1057,7 +1057,7 @@
 		あ、ごめん<end_line>
 	</sjis>
 	<ascii>
-		Ohhh, sorry.<end_line>
+		Ah. Sorry.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -1083,7 +1083,7 @@
 		ついカッとなっちまって<three_dots><end_line>
 	</sjis>
 	<ascii>
-		Stop looking at me like that.<end_line>    This is all your fault, you know<three_dots><end_line>
+		Stop looking at me like that.<end_line>		This is all your fault, you know<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -1160,7 +1160,7 @@
 	<sjis>
 		ジャマじゃと<three_dots><end_line>
 	</sjis>
-	<ascii>    In the way<three_dots><end_line>
+	<ascii>		In the way<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -1208,7 +1208,7 @@
 		わかった<three_dots><end_line>
 	</sjis>
 	<ascii>
-		Alright<three_dots><end_line>
+		<three_dots>Alright.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -1300,7 +1300,7 @@
 		相当ムリしてきたみたいだからね<three_dots><end_line>
 		安心したら一気にきたんだろうね<end_line>
 	</sjis>
-  <ascii>    She's been pushing herself so hard<three_dots><end_line>    All of the pent up stress<end_line>    must have hit her at once.<end_line>  </ascii>
+  <ascii>    She's been pushing herself so hard<three_dots><end_line>    All of the pent-up stress<end_line>    must have hit her all at once.<end_line>  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1337,7 +1337,7 @@
 		アンタは<partner>だけでも<end_line>
 		村長に紹介しといで<end_line>
 	</sjis>
-  <ascii>		Alright, leave this to me.<end_line>		You should go introduce <partner><end_line>    to the Chief.<end_line>	</ascii>
+  <ascii>		Alright, leave this to me.<end_line>		You should go introduce <partner><end_line>		to the Chief.<end_line>	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1348,7 +1348,7 @@
 		近ごろはぐれもふえてきたし<end_line>
 		まちがわれないようにしなきゃね<end_line>
 	</sjis>
-	<ascii>		There've been more strays lately,<end_line>		so we need to make sure<end_line>    <partner> isn't mistaken for one.<end_line>	</ascii>
+	<ascii>		There've been more strays lately,<end_line>		so we need to make sure<end_line>		<partner> isn't mistaken for one.<end_line>	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1371,7 +1371,7 @@
 		アタシに召喚石をもらったとか<end_line>
 		そんな感じでいいんじゃない？<end_line>
 	</sjis>
-  <ascii>		Say something like,<end_line>    'Master gave me a Summon Stone.<end_line>    This is my new partner.'<end_line>	</ascii>
+  <ascii>		Say something like,<end_line>		"Master gave me a Summon Stone.<end_line>		This is my new partner."<end_line>	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1418,7 +1418,7 @@
 	</sjis>
 	<ascii>
 		Hmph<three_dots><end_line>
-		Do what you want.<end_line>
+		Suit yourselves.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -1465,7 +1465,7 @@
 		まったく、ちゃんとしなよ<three_dots><end_line>
 	</sjis>
 	<ascii>
-		Call me 'Master', not 'you'.<end_line>
+		Call me "Master", not "you".<end_line>
 		Seriously, show some respect<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -1529,7 +1529,7 @@
 		ハッキリ言いな！<end_line>
 	</sjis>
 	<ascii>
-		Huh<three_dots>?<end_line>    What, you got a problem!?<end_line>	</ascii>
+		Huh<three_dots>?<end_line>		What, you got a problem!?<end_line>	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1560,7 +1560,7 @@
 	<sjis>
 		あ、ごめん<end_line>
 	</sjis>
-	<ascii>		Ohhh, sorry.<end_line>	</ascii>
+	<ascii>		Ah. Sorry.<end_line>	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1584,7 +1584,7 @@
 		さっきはアンタが変なこというから<end_line>
 		ついカッとなっちまって<three_dots><end_line>
 	</sjis>
-	<ascii>		Stop looking at me like that.<end_line>    This is all your fault, you know<three_dots><end_line>	</ascii>
+	<ascii>		Stop looking at me like that.<end_line>		This is all your fault, you know<three_dots><end_line>	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1742,7 +1742,7 @@
 		そんなことしなくていいから<end_line>
 	</sjis>
 	<ascii>
-		You don't have to do that.<end_line>
+		Y-You don't have to do that.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -1755,7 +1755,7 @@
 		ミューノ様を元気にすることが<end_line>
 		できるのですか？<end_line>
 	</sjis>
-	<ascii>    But what else can I do<end_line>
+	<ascii>		But what else can I do<end_line>
 		to make Lady Murno<end_line>
 		feel better?<end_line>
 	</ascii>
@@ -1806,7 +1806,7 @@
 		相当ムリしてきたみたいだからね<three_dots><end_line>
 		安心したら一気にきたんだろうね<end_line>
 	</sjis>
-  <ascii>    She's been pushing herself so hard<three_dots><end_line>    All of the pent up stress<end_line>    must have hit her at once.<end_line>  </ascii>
+  <ascii>    She's been pushing herself so hard<three_dots><end_line>    All of the pent-up stress<end_line>    must have hit her all at once.<end_line>  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1843,7 +1843,7 @@
 		アンタは<partner>だけでも<end_line>
 		村長に紹介しといで<end_line>
 	</sjis>
-  <ascii>		Alright, leave this to me.<end_line>		You should go introduce <partner><end_line>    to the Chief.<end_line>	</ascii>
+  <ascii>		Alright, leave this to me.<end_line>		You should go introduce <partner><end_line>		to the Chief.<end_line>	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1854,7 +1854,7 @@
 		近ごろはぐれもふえてきたし<end_line>
 		まちがわれないようにしなきゃね<end_line>
 	</sjis>
-  <ascii>		There've been more strays lately,<end_line>		so we need to make sure<end_line>    <partner> isn't mistaken for one.<end_line>	</ascii>
+  <ascii>		There've been more strays lately,<end_line>		so we need to make sure<end_line>		<partner> isn't mistaken for one.<end_line>	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1877,7 +1877,7 @@
 		アタシに召喚石をもらったとか<end_line>
 		そんな感じでいいんじゃない？<end_line>
 	</sjis>
-  <ascii>		Say something like,<end_line>    'Master gave me a Summon Stone.<end_line>    This is my new partner.'<end_line>	</ascii>
+  <ascii>		Say something like,<end_line>		"Master gave me a Summon Stone.<end_line>		This is my new partner."<end_line>	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1925,7 +1925,7 @@
 		たしかに<three_dots><end_line>
 		そうですわ<three_dots><end_line>
 	</sjis>
-	<ascii>    <three_dots>I suppose you're right<three_dots><end_line>
+	<ascii>		<three_dots>I suppose you're right.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -2045,7 +2045,7 @@
 		あ、ごめん<end_line>
 	</sjis>
 	<ascii>
-		Ohhh, sorry.<end_line>
+		Ah. Sorry.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -2070,7 +2070,7 @@
 		さっきはアンタが変なこというから<end_line>
 		ついカッとなっちまって<three_dots><end_line>
 	</sjis>
-	<ascii>		Stop looking at me like that.<end_line>    This is all your fault, you know<three_dots><end_line>	</ascii>
+	<ascii>		Stop looking at me like that.<end_line>		This is all your fault, you know<three_dots><end_line>	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -2142,7 +2142,7 @@
 		私が、ジャマ<three_dots><end_line>
 	</sjis>
 	<ascii>
-    Me? I am not in<three_dots><end_line>
+		Me? I am not in<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>

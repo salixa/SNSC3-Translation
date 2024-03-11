@@ -12,7 +12,7 @@
   </sjis>
   <ascii>
     The bridge near the mine is shaky,<end_line>
-    but we can't do anything about it.<end_line>
+    it's too dangerous.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -23,9 +23,9 @@
     ちゃんとして欲しいもんだよ<end_line>
   </sjis>
   <ascii>
-    Lately we've been using less ore,<end_line>
-    and there just hasn't<end_line>
-    been a need to fix it.<end_line>
+    There have been a decrease on<end_line>
+    the amount of minings recently.<end_line>
+    I'd like to see it done right.<end_line>
   </ascii>
 </dialogue>
 <dialogue>

@@ -252,7 +252,7 @@
 		うむ<end_line>
 	</sjis>
 	<ascii>
-		Mm.<end_line>
+		Mhm.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -394,8 +394,7 @@
 	</sjis>
 	<ascii>
 		<three_dots>No idea.<end_line>
-		But I found it<end_line>
-		quite entertaining.<end_line>
+		But I found it quite entertaining.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -610,7 +609,7 @@
 		</sjis>
 	</female>
 	<ascii>
-		We'll find the Kikka Ffuit in<end_line>
+		We'll find the Kicca Ffuit in<end_line>
 		the forest past Manig Mine.<end_line>
 		Let's go.<end_line>
 	</ascii>
@@ -627,7 +626,7 @@
 	</sjis>
 	<ascii>
 		No Data Found On<end_line>
-		Kikka Fruit.<end_line>
+		Kicca Fruit.<end_line>
 		What Kind Of Fruit Is It?<end_line>
 	</ascii>
 </dialogue>
@@ -717,7 +716,7 @@
 		</sjis>
 	</female>
 	<ascii>
-		We'll find the Kikka fruit in<end_line>
+		We'll find the Kicca fruit in<end_line>
 		the forest past Manig Mine.<end_line>
 		Let's go.<end_line>
 	</ascii>
@@ -820,7 +819,7 @@
 		</sjis>
 	</female>
 	<ascii>
-		We'll find the Kikka fruit in<end_line>
+		We'll find the Kicca fruit in<end_line>
 		the forest past Manig Mine.<end_line>
 		Let's go.<end_line>
 	</ascii>
@@ -870,7 +869,7 @@
 	</sjis>
 	<ascii>
 		I don't know what it is,<end_line>
-		this Kikka fruit.<end_line>
+		this Kicca fruit.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -968,7 +967,7 @@
 		</sjis>
 	</female>
 	<ascii>
-		We'll find the Kikka fruit in<end_line>
+		We'll find the Kicca fruit in<end_line>
 		the forest past Manig Mine.<end_line>
 		Let's go.<end_line>
 	</ascii>
@@ -984,7 +983,7 @@
 	</sjis>
 	<ascii>
 		By the way, what<end_line>
-		exactly is a Kikka fruit?<end_line>
+		exactly is a Kicca fruit?<end_line>
 		I'm not familiar with fruits here.<end_line>
 	</ascii>
 </dialogue>
@@ -1073,7 +1072,6 @@
 	<ascii>
 		The Boy Zakk Is In<end_line>
 		Danger Of Being Attacked.<end_line>
-	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1245,7 +1243,7 @@
 		キッカの実をさがそう！<end_line>
 	</sjis>
 	<ascii>
-		Now to find the Kikka fruit!<end_line>
+		Now to find the Kicca fruit!<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -1298,7 +1296,7 @@
 		キッカの実をさがそう！<end_line>
 	</sjis>
 	<ascii>
-		Now to find the Kikka fruit!<end_line>
+		Now to find the Kicca fruit!<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -1397,7 +1395,7 @@
 		キッカの実をさがそう！<end_line>
 	</sjis>
 	<ascii>
-		Now to find the Kikka fruit!<end_line>
+		Now to find the Kicca fruit!<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -1435,7 +1433,7 @@
 	</female>
 	<ascii>
 		Right.<end_line>
-		Kikka fruit is<end_line>
+		Kicca fruit is<end_line>
 		sweet and tasty.<end_line>
 	</ascii>
 </dialogue>
@@ -1461,7 +1459,7 @@
 		キッカの実をさがそう！<end_line>
 	</sjis>
 	<ascii>
-		Now to find the Kikka fruit!<end_line>
+		Now to find the Kicca fruit!<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -1534,7 +1532,8 @@
 		<three_dots><three_dots><three_dots><three_dots><three_dots><three_dots><three_dots><end_line>
 	</sjis>
 	<ascii>
-		Finding Optimal Route.<end_line>	<three_dots><three_dots><three_dots><three_dots><three_dots><three_dots><three_dots><end_line>
+		Finding Optimal Route.<end_line>	
+		<three_dots><three_dots><three_dots><three_dots><three_dots><three_dots><three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -1735,8 +1734,8 @@
 		最後の仕上げを欠いては<three_dots><end_line>
 	</sjis>
 	<ascii>
-		There's a saying, to plow but<end_line>
-		not plant. Forgetting the details<three_dots><end_line>
+		There's a saying,<end_line>
+		"to plow but not to plant"<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -1886,7 +1885,7 @@
 	</female>
 	<ascii>
 		Let's go!<end_line>
-		This'l be proof of our friendship!<end_line>
+		This'll be proof for our friendship!<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -1954,7 +1953,7 @@
 	<ascii>
 		What if he fell off<end_line>
 		the bridge again,<end_line>
-		then our Kikka fruit would be<three_dots><end_line>
+		then our Kicca fruit would be<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -2498,8 +2497,8 @@
 	</female>
 	<ascii>
 		Yeah, I hope her fever<end_line>
-		is still doing okay.<end_line>
-	</ascii>
+		has not gotten worse.<end_line>
+	</screen>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -2672,7 +2671,7 @@
 		</sjis>
 	</female>
 	<ascii>
-		Geez, come on!<end_line>
+		Jeez, come on!<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -2860,7 +2859,7 @@
 		</sjis>
 	</female>
 	<ascii>
-		We don't have time for that.<end_line>
+		<three_dots>We don't have time for that.<end_line>
 		Come on.<end_line>
 	</ascii>
 </dialogue>
@@ -2920,7 +2919,7 @@
 	<ascii>
 		That's right!<end_line>
 		Let us not waste time.<end_line>
-		Come!<end_line>
+		Let's go!<end_line>
 	</ascii>
 </dialogue>
 <dialogue>

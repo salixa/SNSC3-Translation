@@ -325,7 +325,7 @@
     修行の続きだって言ってるだろ！？<end_line>
   </sjis>
   <ascii>
-    I~ told~ you!<end_line>
+    I told you!<end_line>
     If you've got so much free time,<end_line>
     then you should use it for training!<end_line>
   </ascii>
@@ -333,7 +333,7 @@
 <dialogue>
   <info box="left">
   <portrait_l entry="player" eye="surprised" mouth="tense">
-  <sjis>
+  <sjis>	
     今から！？<end_line>
   </sjis>
   <ascii>
@@ -349,7 +349,7 @@
     この親方不幸弟子！<end_line>
   </sjis>
   <ascii>
-    You're too?!<end_line>
+    You're saying that too?!<end_line>
     Some apprentice you are!<end_line>
   </ascii>
 </dialogue>

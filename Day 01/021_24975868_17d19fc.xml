@@ -103,7 +103,7 @@
     突然ですね<end_line>
   </sjis>
   <ascii>
-    It was.<end_line>
+    It really was.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -116,9 +116,9 @@
     強そうだしな<end_line>
   </sjis>
   <ascii>
-    But that's great!<end_line>
-    The machine world Loreilal's <end_line>
-    Summon Beasts are quite powerful.<end_line>
+    But isn't that's great!<end_line>
+    The Summon Beasts on Loreilal's<end_line>
+    mechanoid world are quite powerful.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -164,7 +164,7 @@
   </sjis>
   <ascii>
     Uh, <player_nickname>,<end_line>
-    is it working?<end_line>
+    does that thing work?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -241,7 +241,7 @@
     しかし、どう見たってあんた<three_dots><end_line>
   </sjis>
   <ascii>
-    Tiger eh<three_dots>?<end_line>
+    Tiger huh<three_dots>?<end_line>
     Hm, but no matter how I look<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -297,7 +297,7 @@
     う、うむ<three_dots><end_line>
   </sjis>
   <ascii>
-    Mm<three_dots><end_line>
+    Mhm<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -550,7 +550,7 @@
     それに強いんですのよ<end_line>
   </sjis>
   <ascii>
-    I am very strong too.<end_line>
+    And very strong too.<end_line>
   </ascii>
 </dialogue>
 <dialogue>

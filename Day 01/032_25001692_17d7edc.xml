@@ -844,7 +844,7 @@
     そっか<three_dots><end_line>
   </sjis>
   <ascii>
-    I see<three_dots><end_line>
+    <three_dots>I see.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
